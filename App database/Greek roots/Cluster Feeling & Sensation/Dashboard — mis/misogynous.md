@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hating women in particular.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hating women in particular.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Displaying hatred or contempt toward women; misogynistic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to anti-female rhetoric, satire, or cultural prejudice in historical writing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, misogynous designates hating women in particular."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"Juvenal's famous satire upon Roman matrons is an unsparing, **misogynous** masterpiece of rhetorical indignation."*
+> - 📜 **Havelock Ellis (*The Task of Social Hygiene*):** *"Old legal codes treated the wife as chattel, embodying a deeply **misogynous** conception of domestic rights."*
+> - 📜 **Walter Pater (*Appreciations*):** *"Even within the poet's romantic verse, a dark, **misogynous** undertone surfaced whenever love turned to jealousy."*

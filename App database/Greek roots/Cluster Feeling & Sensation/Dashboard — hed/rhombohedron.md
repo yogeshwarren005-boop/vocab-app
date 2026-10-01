@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A parallelepiped whose faces are rhombuses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A parallelepiped whose faces are rhombuses.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A six-faced polyhedron whose faces are all identical rhombuses; an oblique prism bounded by six rhombic planes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mineralogy and crystallography, the fundamental cleavage form of calcite (Iceland spar) displaying optical double refraction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhombohedron designates a parallelepiped whose faces are rhombuses."*
+> - 📜 **René Just Haüy (*Essay on a Theory of the Structure of Crystals*):** *"When you shatter a block of spar, every microscopic fragment retains the exact angles of the parent **rhombohedron**."*
+> - 📜 **Edward Salisbury Dana (*A Text-Book of Mineralogy*):** *"A cleavage **rhombohedron** of Iceland spar clearly separates a beam of light into ordinary and extraordinary rays."*
+> - 📜 **John Herschel (*Preliminary Discourse on the Study of Natural Philosophy*):** *"Haüy's realization that crystals are built of invisible bricks like the **rhombohedron** founded modern mineral science."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek necr.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Life & Vitality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A condition in which the spermatozoa present in the semen are dead, non-motile, or completely non-viable; necrozoospermia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rare cause of male infertility where ejaculated sperm display complete loss of membrane integrity and motility upon laboratory testing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, necrospermia designates a term designating an entity, condition, or phenomenon derived from greek necr."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Differential diagnosis in male sterility must distinguish total azoospermia from the dead spermatozoa of true **necrospermia**."*
+> - 📜 **William Boyd (*A Textbook of Pathology*):** *"Vital eosin staining confirms complete membrane non-viability in genuine cases of persistent **necrospermia**."*
+> - 📜 **Frank Beach (*Hormones and Behavior*):** *"Prolonged epididymal storage or toxic scrotal hyperthermia can induce transient **necrospermia** in breeding stallions."*

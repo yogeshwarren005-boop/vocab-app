@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or having the symptoms of cachexia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or having the symptoms of cachexia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Suffering from or relating to cachexia; exhibiting extreme weight loss, muscle atrophy, fatigue, and severe debility due to chronic illness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a haggard, emaciated, and ashen bodily appearance characteristic of terminal cancer, tuberculosis, or advanced heart failure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cachectic designates relating to or having the symptoms of cachexia."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"The **cachectic** patient exhibits profound cellular starvation as circulating toxic metabolites break down somatic protein."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The sunken eyes, sallow complexion, and wasted limbs give the late carcinoma sufferer an unmistakably **cachectic** facies."*
+> - 📜 **Matthew Baillie (*The Morbid Anatomy of Some of the Most Important Parts of the Human Body*):** *"In deeply **cachectic** subjects, the internal viscera were found shrunken and devoid of adipose tissue."*

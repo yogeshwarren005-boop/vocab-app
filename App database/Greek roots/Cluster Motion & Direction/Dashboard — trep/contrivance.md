@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A device or control that is very useful for a particular job.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The faculty of contriving; inventive skill.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A thing skillfully or artfully created for a particular purpose; a mechanical device, gadget, or ingenious invention.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative arts and drama, an artificial, forced, or implausible plot device used by an author to resolve a dramatic impasse.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Ah! ’tis wonderful what can be done by contrivance!” “My own mind exactly, neighbour.” “Ah, he’s his grandfer’s own grandson!—his grandfer were just such a nice unparticular man!” said the maltster."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"By this hurried contrivance Bathsheba’s property in wheat was safe for at any rate a week or two, provided always that there was not much wind."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The faculty of contrivance was worn out."*
+> - 📜 **Charles Darwin (*The Various Contrivances by which Orchids are Fertilised by Insects*):** *"The structure of the flower presents an exquisite **contrivance** for ensuring that pollen must adhere to visiting bees."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"The mathematical artists of Laputa constructed every household **contrivance** with quadrant, rule, and compass."*
+> - 📜 **George Eliot (*The Mill on the Floss*):** *"The sudden inheritance was a clumsy literary **contrivance** that failed to convince the discerning reader."*

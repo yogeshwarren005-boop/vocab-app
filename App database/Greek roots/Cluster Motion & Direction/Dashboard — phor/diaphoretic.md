@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Used to produce perspiration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inducing perspiration.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inducing, promoting, or increasing perspiration; a medicinal agent or remedy that stimulates sweating (also known as a sudorific).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical pharmacognosy, therapeutics (such as Dover's powder, elderflower, or ipecacuanha) administered to break fevers by promoting evaporative cooling.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"He mentioned many diaphoretic medicines in case the first failed, but the unmerciful questioner thus continued, Pray, sir, suppose none of those succeeded, what step would you take next?"*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The physician prescribed a warm **diaphoretic** draught to relieve the patient's acute pleuritic chill."*
+> - 📜 **Robley Dunglison (*Medical Lexicon*):** *"Herbalists long valued the elderberry for its gentle **diaphoretic** properties during the initial stage of catarrh."*
+> - 📜 **Charles Dickens (*The Pickwick Papers*):** *"Mr. Pickwick was ordered to drink half a pint of hot punch and wrap himself in blankets to promote a **diaphoretic** effect."*

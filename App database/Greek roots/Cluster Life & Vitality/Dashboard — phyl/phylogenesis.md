@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (biology) the sequence of events involved in the evolutionary development of a species or taxonomic group of organisms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (biology) the sequence of events involved in the evolutionary development of a species or taxonomic group of organisms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The evolutionary history, origin, and diversification of a species, taxonomic group, or higher taxon; phylogeny.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The macroscopic temporal unfolding of organic life lines across geological time, contrasted with ontogenesis (individual development).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phylogenesis designates (biology) the sequence of events involved in the evolutionary development of a species or taxonomic group of organisms."*
+> - 📜 **Ernst Haeckel (*Generelle Morphologie der Organismen*):** *"I defined **phylogenesis** as the paleontological history of the race, which determines the individual ontogeny of the embryo."*
+> - 📜 **Thomas Henry Huxley (*The Advance of Science in the Last Half-Century*):** *"Comparative anatomy finds its ultimate scientific vindication in the reconstruction of animal **phylogenesis**."*
+> - 📜 **Stephen Jay Gould (*Ontogeny and Phylogeny*):** *"The historical parallel between embryonic stages and organic **phylogenesis** inspired nineteenth-century evolutionary theory."*

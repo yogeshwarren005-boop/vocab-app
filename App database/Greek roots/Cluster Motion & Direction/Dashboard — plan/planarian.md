@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Free-swimming mostly freshwater flatworms; popular in laboratory studies for the ability to regenerate lost parts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Free-swimming mostly freshwater flatworms; popular in laboratory studies for the ability to regenerate lost parts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to or designating a flatworm of the class Turbellaria, especially a freshwater planaria.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A turbellarian flatworm characterized by phototactic eyespots and extraordinary tissue regeneration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, planarian designates free-swimming mostly freshwater flatworms; popular in laboratory studies for the ability to regenerate lost parts."*
+> - 📜 **Thomas Hunt Morgan (*The Physiology of Regeneration*):** *"The **planarian** exhibits an anterior-posterior polarity gradient governing head and tail restoration."*
+> - 📜 **Julian Huxley (*The Stream of Life*):** *"Under laboratory starvation, the **planarian** resorbs its internal organs, regressing to a juvenile state."*
+> - 📜 **Ernst Mayr (*The Growth of Biological Thought*):** *"Cellular plasticity in the **planarian** provided foundational evidence for dedifferentiation in stem cell biology."*

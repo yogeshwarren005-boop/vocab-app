@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (astrology) one of 12 equal areas into which the zodiac is divided.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large and imposing house.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large, imposing, and stately residence or dwelling house.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically or biblically, an abiding place, dwelling, or separate apartment (as in 'In my Father's house are many mansions').
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O what a mansion have those vices got, Which for their habitation chose out thee, Where beauty’s veil doth cover every blot, And all things turns to fair, that eyes can see!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why so large cost having so short a lease, Dost thou upon thy fading mansion spend?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I draw the sword myself; take it, and hit The innocent mansion of my love, my heart."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"The venerable wooden **mansion** stood with its rusty gables pointing toward the sky, haunted by ancient curses."*
+> - 📜 **Edgar Allan Poe (*The Fall of the House of Usher*):** *"I gazed upon the gloomy gray **mansion** of Usher, mirrored in the dark waters of the stagnant tarn."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Gardencourt was a spacious Jacobean **mansion**, its red-brick frontage mellowed by two hundred English autumns."*

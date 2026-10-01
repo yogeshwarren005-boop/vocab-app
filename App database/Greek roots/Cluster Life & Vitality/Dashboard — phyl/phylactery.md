@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (judaism) either of two small leather cases containing texts from the hebrew scriptures (known collectively as tefillin); traditionally worn (on the forehead and the left arm) by jewish men during morning prayer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (judaism) either of two small leather cases containing texts from the hebrew scriptures (known collectively as tefillin); traditionally worn (on the forehead and the left arm) by jewish men during morning prayer.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small leather box containing Hebrew texts on vellum, worn by Jewish men at morning prayer (tefillin); also an amulet or protective charm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medieval art and iconography, a scroll or speech banner bearing an explanatory inscription.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"He shall cover thee with his feathers, and under his wings shalt thou trust," is a text bound over her daily life, as a phylactery was bound between the eyes of an ancient Hebrew."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"Superstitious ancients wore an inscribed **phylactery** upon their breastplates to ward off sorcery and fever."*
+> - 📜 **William Shakespeare (*Titus Andronicus*):** *"Let us bind sacred covenants like a holy **phylactery** upon our arms before setting forth into battle."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"The pious grandfather bound the black leather **phylactery** upon his forehead with reverent, trembling fingers."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of night.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of night.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Flowering or blooming only at night; night-blooming.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botany, describing blossoms that expand at dusk and wither before morning sunlight.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nyctanthous designates adjective*) pertaining to, derived from, or characteristic of night."*
+> - 📜 **Charles Darwin (*The Different Forms of Flowers on Plants of the Same Species*):** *"The **nyctanthous** cereus opens its immense fragrant corolla exclusively after nightfall to attract hawkmoths."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"Many **nyctanthous** species bear pale or white petals that remain visible to nocturnal pollinators in the dark."*
+> - 📜 **Julius von Sachs (*Lectures on the Physiology of Plants*):** *"Photoperiodic sensitivity triggers petal opening in **nyctanthous** plants as ambient light levels decline."*

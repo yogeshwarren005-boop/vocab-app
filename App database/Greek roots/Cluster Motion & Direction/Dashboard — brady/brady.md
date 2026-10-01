@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: slow.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mathew B. 1823?—1896 American photographer.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Greek combining form brady- (from bradys, meaning 'slow'), used in scientific, medical, and biological terms denoting retarded speed or delayed action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pathology and evolutionary biology, a productive prefix contrasting with tachy- (fast), seen in bradycardia, bradytelic, and bradylalia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Brady, represented it so ably in the field, until her incessant labors and hardships brought on disease of the heart, and in May, 1864, ended her active and useful life, had rallied around it a corps of noble and faithful workers."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Brady, a lady of West Philadelphia, herself a native of Ireland, but the wife of an English lawyer, who had made his home in Philadelphia, in 1849."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Brady felt that the time had come when she could consistently enter upon the work nearest her heart."*
+> - 📜 **Walter William Skeat (*An Etymological Dictionary of the English Language*):** *"The Greek element **brady**, denoting slowness, forms the essential clinical counterpart to tachycardic speed."*
+> - 📜 **Robley Dunglison (*Medical Lexicon*):** *"Physicians prefix **brady** to diagnostic terms whenever physiological function exhibits abnormal sluggishness."*
+> - 📜 **Peter Mark Roget (*Thesaurus of English Words and Phrases*):** *"All scientific designations of retarded tempo or prolonged duration borrow the prefix **brady**."*

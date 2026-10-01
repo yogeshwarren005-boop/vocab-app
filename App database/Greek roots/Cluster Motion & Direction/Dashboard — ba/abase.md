@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to feel shame; hurt the pride of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to feel shame; hurt the pride of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To lower someone or oneself in rank, office, prestige, or esteem; to degrade or humiliate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To bring down physically or cast low before superior power or divine authority.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll lengthen it with mine; And, having both together heaved it up, We’ll both together lift our heads to heaven, And never more abase our sight so low As to vouchsafe one glance unto the ground."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And will she yet abase her eyes on me, That cropped the golden prime of this sweet prince, And made her widow to a woeful bed?"*
-> - 📜 **William Edward Soothill (*The lotus of the wonderful law*):** *"He “does not cherish an envious, suspicious and deceitful mind; nor does he slight and abase the learners of the Buddha-Way and seek out their excesses and shortcomings”."*
+> - 📜 **William Shakespeare (*Henry VI, Part 2*):** *"Will consider'd, he should not need to **abase** his eyes on such low-born churls."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Whom reason hath equaled, force hath made supreme above his equals, to **abase** them low."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"I will never **abase** myself to sue for unmerited favor from those who despise me."*

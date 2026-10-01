@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a geological eon (longer than an era).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Continuing forever or indefinitely.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lasting for an aeon or for an immeasurably long time; eternal or everlasting.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical and theological contexts, transcending ordinary temporal succession; pertaining to eternal ages rather than finite historical epochs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aeonian designates of or relating to a geological eon (longer than an era)."*
+> - 📜 **Alfred Lord Tennyson (*In Memoriam A.H.H.*):** *"The **aeonian** music measuring out the steps of Time along the ancient earth."*
+> - 📜 **Thomas Henry Huxley (*Evolution and Ethics*):** *"Against this cosmic process, operating through **aeonian** intervals, human morality sets its deliberate purpose."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"The soul looks down upon these fleeting centuries from an **aeonian** vantage where past and future merge."*

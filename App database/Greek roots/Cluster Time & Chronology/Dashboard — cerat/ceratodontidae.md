@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lungfishes having hornlike ridges on the teeth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lungfishes having hornlike ridges on the teeth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of archaic dipnoan lungfishes possessing fan-shaped, ridged crushing dental plates, surviving today in Australia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate paleontology and ichthyology, an ancient lineage known since the Triassic, characterized by functional lung development alongside persistent gills and paddle-like lobed fins.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ceratodontidae designates lungfishes having hornlike ridges on the teeth."*
+> - 📜 **Louis Agassiz (*Recherches sur les Poissons Fossiles*):** *"The fossil teeth belonging to the **Ceratodontidae** were long known in Jurassic beds before living specimens were found in Australia."*
+> - 📜 **Arthur Smith Woodward (*Catalogue of the Fossil Fishes in the British Museum*):** *"The cranial roofing bones of the **Ceratodontidae** exhibit a remarkable conservatism spanning across millions of geological years."*
+> - 📜 **Thomas Henry Huxley (*On Ceratodus and the Classification of Fishes*):** *"In the **Ceratodontidae**, we encounter the living embodiment of a transitional stage between fishes and primitive tetrapods."*

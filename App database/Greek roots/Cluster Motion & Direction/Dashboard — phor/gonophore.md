@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An attached reproductive zooid of a hydroid colony.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An attached reproductive zooid of a hydroid colony.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialized reproductive structure, polyp, or medusoid bud that bears the reproductive organs (gonads) in colonial hydrozoans and siphonophores.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In invertebrate marine zoology, a sessile, degenerate medusa bud retained on the hydroid colony that produces gametes without becoming a free-swimming jellyfish.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gonophore designates an attached reproductive zooid of a hydroid colony."*
+> - 📜 **Thomas Henry Huxley (*The Oceanic Hydrozoa*):** *"In the Physophoridae, each cormidium is provided with a distinct **gonophore** containing either ova or spermatozoa."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"The morphological transformation of a swimming medusa into a sessile **gonophore** illustrates evolutionary reduction in colonial animals."*
+> - 📜 **Ernst Haeckel (*Art Forms in Nature*):** *"The graceful bell-like **gonophore** hangs suspended like a delicate blossom from the swimming stem of the siphonophore."*

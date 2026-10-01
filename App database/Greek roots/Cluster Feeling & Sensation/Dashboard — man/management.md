@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of managing something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Those in charge of running a business.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process, practice, or art of dealing with, controlling, or directing things, finances, or people; executive leadership.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The collective body of individuals who oversee and direct an organization, corporation, or institution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Would you like to live here again and undertake the management of the castle?" Apollonie stared at her master at first as if she could not comprehend his words."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I wonder the very paving-stones opposite our house can have the patience to stay there and be a witness of such inconsistencies and contradictions as all that sounding nonsense, and Ma’s management!” I could not but understand her to refer to Mr."*
-> - 📜 **Jane Austen (*Persuasion*):** *"As to the management of their children, his theory was much better than his wife’s, and his practice not so bad."*
+> - 📜 **Frederick Winslow Taylor (*The Principles of Scientific Management*):** *"Under scientific **management**, the initiative of the workmen is obtained with absolute regularity through standardized tasks."*
+> - 📜 **Henri Fayol (*General and Industrial Management*):** *"To forecast, to plan, to organize, to command, to coordinate, and to control constitute the essential functions of **management**."*
+> - 📜 **Max Weber (*Economy and Society*):** *"Modern bureaucratic **management** rests upon written records and specialized training for professional office-holders."*

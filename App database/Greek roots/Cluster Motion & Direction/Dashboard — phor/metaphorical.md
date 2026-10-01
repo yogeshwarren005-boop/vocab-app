@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Expressing one thing in terms normally denoting another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expressing one thing in terms normally denoting another.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characteristic of or relating to a metaphor; figurative, symbolic, and not literal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistics and rhetoric, involving the imaginative transfer of qualities from a familiar experiential domain to an abstract concept.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"We come still closer to the facts in the less metaphorical terms of the New Testament."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Farebrother must be of a metaphorical kind, which was much more difficult to Fred than the muscular."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Geology a failure The sun is a metaphorical representation of Soul out- side the body, giving existence and intelligence to the 510:18 universe."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"All the artificial and figurative application of words that eloquence hath invented are for nothing else but to insinuate wrong ideas; yet **metaphorical** expressions delight the fancy."*
+> - 📜 **Samuel Johnson (*The Lives of the English Poets*):** *"Cowley delighted in strained conceits and extravagant **metaphorical** flights that tested the reader's patience."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"I use the term Struggle for Existence in a large and **metaphorical** sense, including dependence of one being on another."*

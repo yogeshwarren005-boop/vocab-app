@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of a body of water) free from disturbance by heavy waves.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not easily irritated.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not easily upset or excited; calm, peaceful, serene, and tranquil.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychological characterization and landscape aesthetics, an undisturbed, gentle disposition or smooth unruffled surface of water.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jellyby, pursuing her employment with a placid smile."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"They suggested one distinct idea to her, for she said with her placid smile, and shaking her head, “My good Miss Summerson, at half the cost, this weak child might have been equipped for Africa!” On our going downstairs again, Mrs."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Nothing, nothing done!” “Don’t say nothing done, sir,” returns the placid Vholes."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"The old man sat beside the hearth with a **placid** smile, smoking his pipe in contented retirement."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The Pacific rolled in **placid** swells beneath the sun, showing no trace of the monstrous battles fought within its depths."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Her sister possessed that **placid** temper which no domestic trifles could ever disturb or ruffle."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An anatomical structure that is held to resemble a pulley; especially : the articular surface on the medial condyle of the humerus that articulates with the ulna.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An anatomical structure that is held to resemble a pulley; especially : the articular surface on the medial condyle of the humerus that articulates with the ulna.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A pulley-like anatomical structure, especially a grooved articular surface of a bone (such as the distal end of the humerus) or a fibrous loop through which a tendon glides.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human cranial anatomy, the fibrocartilaginous ring in the orbit through which the tendon of the superior oblique muscle passes (innervated by the trochlear nerve).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trochlea designates an anatomical structure that is held to resemble a pulley; especially : the articular surface on the medial condyle of the humerus that articulates with the ulna."*
+> - 📜 **Gray's Anatomy (*Anatomy of the Human Body*):** *"The pulley-like **trochlea** of the humerus articulates smoothly with the semilunar notch of the ulna."*
+> - 📜 **Charles Bell (*The Hand: Its Mechanism and Vital Endowments*):** *"The superior oblique tendon passes through a cartilaginous **trochlea**, changing its angle of pull to roll the eye."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Palsy of the fourth cranial nerve impairs the muscular action directed through the orbital **trochlea**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any cactus of the genus epiphyllum having flattened jointed irregularly branching stems and showy tubular flowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any cactus of the genus epiphyllum having flattened jointed irregularly branching stems and showy tubular flowers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of climbing or epiphytic cacti native to Central and South America, known as orchid cacti, bearing large fragrant flowers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tropical epiphytic succulent characterized by broad, flattened, spineless, leaf-like cladodes and spectacular nocturnal blooms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epiphyllum designates any cactus of the genus epiphyllum having flattened jointed irregularly branching stems and showy tubular flowers."*
+> - 📜 **Charles Darwin (*The Various Contrivances by Which Orchids Are Fertilised*):** *"The climbing stems of **Epiphyllum** anchor upon rain-forest boughs without extracting parasitic nourishment from the bark."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"Magnificent white blossoms expand at midnight from the crenate margins of the flattened **Epiphyllum** stems."*
+> - 📜 **Liberty Hyde Bailey (*Cyclopedia of American Horticulture*):** *"Greenhouse growers prize hybrids of **Epiphyllum** for their dazzling scarlet, violet, and ivory corollas."*

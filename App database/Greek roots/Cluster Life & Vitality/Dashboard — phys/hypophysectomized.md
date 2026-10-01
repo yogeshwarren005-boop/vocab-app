@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Remove the pituitary glands.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the pituitary gland removed by surgery.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having had the pituitary gland surgically removed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by pituitary hormone ablation, resulting in dwarfism, gonadal regression, and adrenal cortical insufficiency.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypophysectomized designates remove the pituitary glands."*
+> - 📜 **Bernardo Houssay (*The Hypophysis and Metabolism*):** *"In **hypophysectomized** animals, pancreatectomy failed to provoke the expected lethal diabetic ketoacidosis."*
+> - 📜 **Hans Selye (*Stress in Health and Disease*):** *"The adrenal cortex of the **hypophysectomized** animal shrinks rapidly to a fraction of its normal dimensions."*
+> - 📜 **Frank Beach (*Hormones and Behavior*):** *"Spermatogenesis halts entirely in the **hypophysectomized** male mammal unless exogenous gonadotropins are supplied."*

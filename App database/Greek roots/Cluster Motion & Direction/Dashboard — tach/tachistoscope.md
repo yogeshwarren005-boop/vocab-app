@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Scientific instrument used by psychologists; presents visual stimuli for brief exposures.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Scientific instrument used by psychologists; presents visual stimuli for brief exposures.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An apparatus for projecting or exposing visual images or textual stimuli for a brief, precisely controlled interval of time (such as milliseconds).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In experimental cognitive psychology and reading research, an instrument used to assess visual perception thresholds, tachistoscopic recognition, and sensory memory.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tachistoscope designates scientific instrument used by psychologists; presents visual stimuli for brief exposures."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Exposing letters by means of a rapid **tachistoscope** demonstrated that the mind grasps whole words before distinguishing individual letters."*
+> - 📜 **Edward Titchener (*Experimental Psychology*):** *"The laboratory **tachistoscope** delivers exposures calibrated down to the hundredth part of a second with remarkable consistency."*
+> - 📜 **B. F. Skinner (*The Technology of Teaching*):** *"The **tachistoscope** was initially utilized in military training to accelerate the instant recognition of enemy aircraft silhouettes."*

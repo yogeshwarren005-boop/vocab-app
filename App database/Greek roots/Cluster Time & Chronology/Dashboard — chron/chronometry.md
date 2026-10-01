@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The measuring of time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The measuring of time.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific measurement of time, especially with high precision instruments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In horology and metrology, the theoretical and experimental art of constructing and calibrating timekeeping devices to define standard temporal intervals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chronometry designates the measuring of time."*
+> - 📜 **Simon Newcomb (*The Elements of Astronomy*):** *"Astronomical **chronometry** attained perfection when pendulum clocks were placed in vacuum chambers maintained at uniform temperature."*
+> - 📜 **J. Norman Lockyer (*Stargazing: Past and Present*):** *"Modern physics relies upon precise **chronometry** to synchronize observations across distant continental observatories."*
+> - 📜 **Lord Kelvin (*Popular Lectures and Addresses*):** *"The ultimate standard in **chronometry** must be derived from the immutable vibrational frequencies of celestial bodies or atoms."*

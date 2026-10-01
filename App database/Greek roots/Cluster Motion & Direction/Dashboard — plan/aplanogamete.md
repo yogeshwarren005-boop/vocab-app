@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek plan.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Motion & Direction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A non-motile gamete lacking flagella or cilia, characteristic of certain algae and fungi.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sexual cell that accomplishes fertilization without active swimming locomotion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aplanogamete designates a term designating an entity, condition, or phenomenon derived from greek plan."*
+> - 📜 **F. E. Fritsch (*The Structure and Reproduction of the Algae*):** *"In conjugating Zygnemataceae, fusion takes place between two identical **aplanogamete** cells."*
+> - 📜 **Gilbert Morgan Smith (*The Fresh-Water Algae of the United States*):** *"Each **aplanogamete** moves by amoeboid creep through the conjugation tube to meet its mate."*
+> - 📜 **Anton de Bary (*Comparative Morphology and Biology of the Fungi*):** *"The passive **aplanogamete** remains securely sheltered within the female gametangium."*

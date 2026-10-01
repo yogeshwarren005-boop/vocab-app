@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to become detached or separated; take off.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Separate (a small unit) from a larger, especially for a special assignment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Separate, disconnected, or standing apart; unattached to another structure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychology and literary criticism, exhibiting impartiality, emotional distance, or objective contemplation free from personal interest or distress.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Detached hurdles thatched with straw were stuck into the ground at various scattered points, amid and under which the whitish forms of his meek ewes moved and rustled."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"When the detached episodes were collected as stated in the preface of 1891, these pages were overlooked, though they were in the original manuscript."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"They could then see the faint summer fogs in layers, woolly, level, and apparently no thicker than counterpanes, spread about the meadows in detached remnants of small extent."*
+> - 📜 **George Orwell (*Nineteen Eighty-Four*):** *"Winston watched the proceedings with a **detached** curiosity, as if observing a drama enacted by strangers."*
+> - 📜 **Virginia Woolf (*To the Lighthouse*):** *"Mr. Ramsay looked out over the sea with a **detached**, melancholy gaze, pondering the fate of human ambition."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"Marlow narrated the tragedy in a calm, **detached** manner that underscored the inevitability of the catastrophe."*

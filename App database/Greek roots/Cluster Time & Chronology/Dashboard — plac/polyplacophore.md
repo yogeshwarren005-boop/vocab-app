@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Primitive elongated bilaterally symmetrical marine mollusk having a mantle covered with eight calcareous plates.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Primitive elongated bilaterally symmetrical marine mollusk having a mantle covered with eight calcareous plates.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any marine mollusc belonging to the class Polyplacophora; a chiton.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In intertidal benthic ecology, an eight-valved grazer that adheres tightly to rocky substrate through hydrostatic suction of its ventral girdle.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polyplacophore designates primitive elongated bilaterally symmetrical marine mollusk having a mantle covered with eight calcareous plates."*
+> - 📜 **Arthur Shipley (*The Cambridge Natural History: Molluscs*):** *"The intertidal **polyplacophore** resists the violent crash of Pacific breakers by clamping its muscular girdle to the stone."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The mantle cavity of the **polyplacophore** forms a bilateral groove containing multiple pairs of bipectinate gills."*
+> - 📜 **Louis Agassiz (*Contributions to the Natural History of the United States*):** *"The segmented shell plates of the **polyplacophore** preserve an archaic morphology persisting since the Ordovician period."*

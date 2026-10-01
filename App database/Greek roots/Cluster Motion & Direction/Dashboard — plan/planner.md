@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who makes plans.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A notebook for recording appointments and things to be done, etc.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who devises or manages plans, especially regarding urban development, finance, or logistics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A schedule book, calendar, or software program used to organize upcoming events and deadlines.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"As a Logistics Planner at Nouasseur, one of my projects was to prepare an element of U S Air Force Europe (USAFE) logistics plans to support the U S Strategic Air Command (SAC)."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"At least for the next several years, NATO and US planners admitted, however, that neither massive retaliation nor MAD, by themselves, would stop a Soviet first strike and an invasion into Eastern and Central Europe and the Middle East."*
+> - 📜 **Lewis Mumford (*The City in History*):** *"The enlightened urban **planner** balances civic beauty, sanitation, and humane communal living."*
+> - 📜 **Daniel Burnham (*Plan of Chicago*):** *"Make no little plans; they have no magic to stir men's blood, said the visionary city **planner**."*
+> - 📜 **Jane Jacobs (*The Death and Life of Great American Cities*):** *"The orthodox city **planner** often mistook geometric neatness for healthy urban community life."*

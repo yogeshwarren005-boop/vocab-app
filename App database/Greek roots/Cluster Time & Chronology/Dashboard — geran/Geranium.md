@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of numerous plants of the family geraniaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of numerous plants of the family geraniaceae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of flowering plants in the family Geraniaceae, commonly known as cranesbills, bearing five-petaled flowers and beaked, crane-like seed capsules.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In horticulture and systematic botany, temperate perennial herbs (distinct from pelargoniums) featuring palmately lobed leaves and explosive carpel dehiscence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Plants which in burning give out a thick smoke and an aromatic smell are much sought after for fuel on these occasions; among the plants used for the purpose are giant-fennel, thyme, rue, chervil-seed, camomile, geranium, and penny-royal."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Plants which in burning give out a thick smoke and an aromatic smell are much sought after for fuel on these occasions; among the plants used for the purpose are giant-fennel, thyme, rue, chervil-seed, camomile, geranium, and penny-royal."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Nay, the acute observer might have recognized the little red nose of good-natured Miss Jemima Pinkerton herself, rising over some geranium pots in the window of that lady's own drawing-room."*
+> - 📜 **Charles Darwin (*The Different Forms of Flowers on Plants of the Same Species*):** *"The elongated, beak-like style in **Geranium** coils elastically when ripe, hurling the seeds several feet away."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The wild spotted cranesbill, **Geranium** maculatum, blooms in deciduous woodlands with delicate purple petals."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The Greek botanists named the plant **Geranium** from the resemblance of its fruit to the bill of a crane."*

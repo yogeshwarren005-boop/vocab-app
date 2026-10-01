@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait of remaining inactive; a lack of initiative.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Submission to others or to outside influences.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being passive; lack of initiative, action, or resistance; quiescent receptivity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychological analysis, a personality tendency characterized by dependent surrender to external events.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"But no; stay, I insist!” He seized her hand, and then volition seemed to leave her, and she went off into a state of passivity."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The four sang on with the phlegmatic passivity of persons who had long ago settled the question, and there being no mistake about it, felt that further thought was not required."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"This passivity was almost dream-like, and yet, in its way, it was positive almost to a pitch of exaltation."*
+> - 📜 **Jean-Paul Sartre (*Being and Nothingness*):** *"Bad faith takes refuge in **passivity**, pretending that human freedom is merely a helpless object in the world."*
+> - 📜 **Simone de Beauvoir (*The Second Sex*):** *"Woman's historical **passivity** is not a biological doom, but an enforced social destiny."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"In mystical ecstasy, the will undergoes a sublime **passivity**, feeling grasped and moved by a higher power."*

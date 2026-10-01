@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Brightly colored beetle that feeds on plant leaves; larvae infest roots and stems.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Brightly colored beetle that feeds on plant leaves; larvae infest roots and stems.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any beetle of the family Chrysomelidae; a leaf beetle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In applied entomology, herbivorous beetles whose adults and larvae feed on plant foliage, stems, and roots, including notorious pests like the Colorado potato beetle.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chrysomelid designates brightly colored beetle that feeds on plant leaves; larvae infest roots and stems."*
+> - 📜 **Charles Valentine Riley (*The Colorado Potato Beetle*):** *"The voracious **chrysomelid** marched across the potato fields, stripping the foliage to bare stalks in a matter of days."*
+> - 📜 **L. O. Howard (*The Insect Book*):** *"Many a bright metallic **chrysomelid** sparkles on meadow flowers like a tiny drop of burnished copper."*
+> - 📜 **John Henry Comstock (*A Manual for the Study of Insects*):** *"The typical **chrysomelid** possesses short antennae, convex elytra, and bilobed third tarsal segments adapted for clinging to leaves."*

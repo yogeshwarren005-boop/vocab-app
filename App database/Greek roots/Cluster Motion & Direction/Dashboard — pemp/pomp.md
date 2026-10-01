@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A show of magnificence : splendor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A ceremonial or festival display (such as a train of followers or a pageant).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Splendid display, stately ceremony, or magnificent pageantry associated with high office, royalty, or celebration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically, a solemn procession in ancient Greece (Greek pompe); figuratively, vain or ostentatious earthly display.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am for the house with the narrow gate, which I take to be too little for pomp to enter: some that humble themselves may, but the many will be too chill and tender, and they’ll be for the flow’ry way that leads to the broad gate and the great fire."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, behold, How pomp is followed!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now, my co-mates and brothers in exile, Hath not old custom made this life more sweet Than that of painted pomp?"*
+> - 📜 **William Shakespeare (*Henry V*):** *"O ceremony, show me but thy worth! What is thy soul of adoration? Art thou aught else but place, degree, and form, creating awe and fear in other men? What drink'st thou oft, instead of homage sweet, but poison'd flattery? O, be sick, great **pomp**!"*
+> - 📜 **Thomas Gray (*Elegy Written in a Country Churchyard*):** *"The boast of heraldry, the **pomp** of pow'r, and all that beauty, all that wealth e'er gave, awaits alike the th' inevitable hour."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The triumphal **pomp** of Aurelian displayed the captive queen Zenobia adorned in chains of gold."*

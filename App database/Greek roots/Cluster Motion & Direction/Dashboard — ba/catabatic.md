@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of to step.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of to step.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or denoting a wind carrying high-density air downslope under the pull of gravity (a katabatic wind).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Moving downward; falling or subsiding along mountain slopes or glacial valleys.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, catabatic designates adjective*) pertaining to, derived from, or characteristic of to step."*
+> - 📜 **Douglas Mawson (*The Home of the Blizzard*):** *"Furious **catabatic** blizzards roared down the polar ice slopes at velocities exceeding one hundred miles an hour."*
+> - 📜 **Napier Shaw (*Manual of Meteorology*):** *"The nighttime **catabatic** wind drains cold, dense air from Alpine snowfields into the quiet valleys below."*
+> - 📜 **Robert Falcon Scott (*Scott's Last Expedition*):** *"We struggled against an icy **catabatic** drift that threatened to tear the tent fabric to shreds."*

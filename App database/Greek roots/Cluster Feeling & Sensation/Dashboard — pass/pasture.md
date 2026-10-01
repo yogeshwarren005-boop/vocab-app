@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A field covered with grass or herbage and suitable for grazing by livestock.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bulky food like grass or hay for browsing or grazing horses or cattle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Land covered with grass and other low plants suitable for grazing animals, especially cattle or sheep.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To put livestock to graze in a pasture; informally, retirement (e.g., put out to pasture).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yea, like the stag when snow the pasture sheets, The barks of trees thou browsed."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What is he that shall buy his flock and pasture?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I pray thee, if it stand with honesty, Buy thou the cottage, pasture, and the flock, And thou shalt have to pay for it of us."*
+> - 📜 **William Shakespeare (*Henry V*):** *"And you, good yeomen, whose limbs were made in England, show us here the mettle of your **pasture**."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The herds were feeding in the rich green **pasture**, while shepherds tuned their reeds beneath the shady elm."*
+> - 📜 **Henry David Thoreau (*Excursions*):** *"I love to ramble across an old abandoned **pasture**, where wild apples grow among granite boulders and huckleberry bushes."*

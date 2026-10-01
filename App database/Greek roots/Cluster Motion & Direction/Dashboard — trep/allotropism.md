@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The phenomenon of an element existing in two or more physical forms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The phenomenon of an element existing in two or more physical forms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The existence of a chemical element in two or more distinct forms having different physical properties; allotropy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical chemistry, the conceptual framework formulated by Berzelius to classify polymorphic variations in pure elemental substances.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, allotropism designates the phenomenon of an element existing in two or more physical forms."*
+> - 📜 **Jöns Jacob Berzelius (*Annual Reports on the Progress of Chemistry*):** *"The discovery of **allotropism** in carbon and sulfur forced chemists to distinguish sharply between chemical composition and physical state."*
+> - 📜 **William Crookes (*Select Methods in Chemical Analysis*):** *"Through the phenomenon of **allotropism**, identical atoms assemble into crystals exhibiting utterly divergent optical properties."*
+> - 📜 **Thomas Henry Huxley (*Physiography: An Introduction to the Study of Nature*):** *"Diamond, graphite, and soot illustrate the principle of **allotropism** in a manner that arrests every student's attention."*

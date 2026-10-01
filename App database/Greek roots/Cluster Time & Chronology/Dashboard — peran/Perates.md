@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek peran.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Time & Chronology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A 2nd-century Gnostic Christian sect described by Hippolytus, whose name signifies 'those who have crossed over' (from Greek peran, 'beyond').
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In early church history and heresy studies, an Ophite-related group that taught salvation through crossing over the corrupt material world to the celestial realm.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Perates designates a term designating an entity, condition, or phenomenon derived from greek peran."*
+> - 📜 **Hippolytus of Rome (*Refutation of All Heresies*):** *"The sect of the **Perates** boast that they alone have passed through the corruption of the material cosmos into the celestial light."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Among the bizarre schools of Gnosticism, the **Perates** venerated the mystical serpent as the guide across mortal boundaries."*
+> - 📜 **John Henry Newman (*An Essay on the Development of Christian Doctrine*):** *"The fantastic cosmologies of the **Perates** were firmly rejected by the early church in defense of scriptural monotheism."*

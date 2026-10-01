@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The fluid-filled cavity of a blastula.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The fluid-filled cavity of a blastula.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The fluid-filled internal cavity of an early embryonic blastula; variant spelling of blastocoel.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The primitive segmentation space that is subsequently compressed and largely obliterated during gastrulation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, blastocoele designates the fluid-filled cavity of a blastula."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Invertebrated Animals*):** *"A continuous layer of ciliated cells encloses the central **blastocoele** in the free-swimming echinoderm larva."*
+> - 📜 **Ray Lankester (*Notes on Embryology*):** *"The primary germinal cavity or **blastocoele** must be rigorously distinguished from the secondary coelomic space."*
+> - 📜 **Francis Balfour (*A Treatise on Comparative Embryology*):** *"Vegetal macromeres project into the floor of the **blastocoele** before inward sinking commences."*

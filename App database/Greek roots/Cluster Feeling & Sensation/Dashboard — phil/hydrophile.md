@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of love, friendship.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of love, friendship.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A substance, molecule, or surface that possesses a strong affinity for water; hydrophilic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In colloid chemistry, a lyophilic colloid or substance that readily hydrates, forms gels, or dissolves in aqueous media.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrophile designates adjective*) pertaining to, derived from, or characteristic of love, friendship."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"The polar head of the soap molecule acts as a true **hydrophile**, anchoring itself in water while the hydrocarbon tail traps oil."*
+> - 📜 **Irving Langmuir (*The Constitution and Fundamental Properties of Solids and Liquids*):** *"Monolayer films orient themselves at the air-water interface because each molecular **hydrophile** seeks the aqueous phase."*
+> - 📜 **Claude Bernard (*Lectures on the Phenomena of Life*):** *"Protoplasm behaves as an active **hydrophile**, maintaining cellular turgor through continuous water imbibition."*

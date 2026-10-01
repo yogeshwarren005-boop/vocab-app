@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: semen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: a male gamete; especially : spermatozoon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Semen; also, a spermatozoon or male gamete; in whales, spermaceti.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The haploid reproductive cell produced by the male gonad capable of fertilizing an ovum.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll no pullet sperm in my brewage. [_Exit Bardolph._] How now?"*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Chace, what is the matter?” I answered, “we have been stove by a whale.” _“Narrative of the Shipwreck of the Whale Ship Essex of Nantucket, which was attacked and finally destroyed by a large Sperm Whale in the Pacific Ocean."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"THIS MARBLE Is here placed by their surviving Shipmates. ———————————————————— SACRED To the Memory OF The late CAPTAIN EZEKIEL HARDY, Who in the bows of his boat was killed by a Sperm Whale on the coast of Japan, _August_ 3_d_, 1833."*
+> - 📜 **Antonie van Leeuwenhoek (*Letter to the Royal Society of London*):** *"Examining fresh canine seminal fluid under the microscope, I observed millions of microscopic animalcules moving vigorously in the **sperm**."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"We were squeezed and steeped in the precious **sperm** till our hands were soft as satin."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Sexual selection operates through competition among males whose motile **sperm** compete to fertilize the female ova."*

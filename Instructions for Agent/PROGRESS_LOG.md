@@ -42,6 +42,8 @@
   - Cluster 15: `Cluster Medicine & Pathology` (351 words) — 100% Pristine (0 issues)
   - Cluster 16: `Cluster Earth & Geology` (363 words) — 100% Pristine (0 issues)
   - Cluster 17: `Cluster Water & Hydrology` (370 words) — 100% Pristine (0 issues)
+  - Cluster 18: `Cluster Motion & Direction` (402 words) — 100% Pristine (0 issues)
+  - Cluster 19: `Cluster Time & Chronology` (471 words) — IN PROGRESS
 - [ ] **Milestone 5: Individualized Curation — `Latin roots` (28,608 Words across 18 Clusters)**
   - Root-by-root and cluster-by-cluster curation of Latin derivatives, eliminating duplicate Primary/Secondary definitions, single-author repeats, and synthetic placeholders.
 - [ ] **Milestone 6: Full Verification, Re-Index, Android Sync & GitHub Commit**
@@ -76,5 +78,7 @@
 | 2026-10-01 15:00 | Milestone 4 | Completed individualized curation of Greek roots `Cluster Medicine & Pathology` (351 word notes). Verified 0 issues via `audit-roots.mjs`. | 351 | ✅ Completed |
 | 2026-10-01 15:05 | Milestone 4 | Completed individualized curation of Greek roots `Cluster Earth & Geology` (363 word notes). Verified 0 issues via `audit-roots.mjs`. | 363 | ✅ Completed |
 | 2026-10-01 15:10 | Milestone 4 | Completed individualized curation of Greek roots `Cluster Water & Hydrology` (370 word notes across 17 dashboards: `bapt`, `broc`, `dros`, `hal`, `hygr`, `hydr`, `latry`, `lep`, `naut`, `nect`, `ocean`, `ombr`, `pelag`, `phyc`, `potam`, `raph`, `sphrag`, `thalass`, `rhe`). Disambiguated `alep` (scaleless vs Aleppo), `lep` (scale vs English proficiency acronym), `pelage` (mammal fur coat), `nautch` (traditional Indian dance), `rhyton` (libation horn), and musical/physiological rhythm vs rhetoric flow. Verified 0 issues via `audit-roots.mjs`. | 370 | ✅ Completed |
+| 2026-10-01 15:20 | Milestone 4 | Completed individualized curation of Greek roots `Cluster Motion & Direction` (402 word notes across 19 dashboards: `pheug`, `brady`, `drome`, `pat`, `pro`, `pemp`, `pol`, `trech`, `streph`, `torn`, `stol`, `oestr`, `tach`, `dram`, `phor`, `kine`, `trep`, `ba`, `plan`). Disambiguated homographs and non-Greek overlaps (`expat`/`pat`/`pater` vs `peripatetic`; `stolid`/`stolidity` vs `apostle`/`diastole`; `detach`/`detachment` vs `tachometer`/`tachycardia`; `aerodrome`/`catadromous` vs `dramatist`/`dramaturgy`; archaic plural `kine` vs `kinetics`/`cinema`; `trepang` vs `trepan`/`entropy`; `plant`/`plane`/`planar` vs Greek wanderer `planet`/`planula`/`planococcus`). Verified 0 issues via `audit-roots.mjs`. | 402 | ✅ Completed |
+
 
 

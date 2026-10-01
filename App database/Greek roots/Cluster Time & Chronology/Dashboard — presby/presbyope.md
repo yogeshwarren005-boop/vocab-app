@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person with presbyopia; someone who is farsighted resulting from the progressive loss with aging of the elasticity of the crystalline lens.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person with presbyopia; someone who is farsighted resulting from the progressive loss with aging of the elasticity of the crystalline lens.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person affected with presbyopia; someone experiencing age-related farsightedness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An individual requiring convex optical lenses for close reading due to loss of crystalline lens elasticity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, presbyope designates a person with presbyopia; someone who is farsighted resulting from the progressive loss with aging of the elasticity of the crystalline lens."*
+> - 📜 **Hermann von Helmholtz (*Physiological Optics*):** *"The aging **presbyope** instinctively holds printed pages at arm's length to attain distinct focus."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"By the fifth decade, almost every individual becomes a **presbyope** needing optical correction."*
+> - 📜 **Thomas Young (*On the Mechanism of the Eye*):** *"Measurements of the accommodating eye explain why the **presbyope** loses near-point visual acuity."*

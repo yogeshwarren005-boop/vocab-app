@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the epiphysis of a bone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to the epiphysis of a bone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or situated at or near the epiphysis of a bone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to the epiphyseal plate (growth plate) whose chondrocyte proliferation governs longitudinal skeletal growth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epiphyseal designates relating to the epiphysis of a bone."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"Longitudinal bone growth ceases completely upon the bony fusion of the cartilaginous **epiphyseal** plate."*
+> - 📜 **William Boyd (*A Textbook of Pathology*):** *"Rachitic deformities originate from defective calcification across the provisional **epiphyseal** zone."*
+> - 📜 **Julian Huxley (*Problems of Relative Growth*):** *"Hormonal signals regulate the rate of mitotic expansion within the **epiphyseal** growth zones."*

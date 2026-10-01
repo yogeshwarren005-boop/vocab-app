@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a zealous manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a zealous manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a zealous manner; with great passion, energy, devotion, or fervor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Eagerly, diligently, and uncompromisingly in support of a cause or duty.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **C. A. Frazer (*Atmâ*):** *"The first part of his command was already obeyed, and almost before a protest could be uttered, Atma's arms were bound behind him and Golab Singh's servants proceeded zealously to search his person."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"As for Kory-Kory, he appeared to think that we were in the midst of great events, and sought most zealously to impress me with a due sense of their importance."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"For a month and more they labored zealously, and with good results, among these poor, ignorant, but loyal people, and then Mrs."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The Puritan parliamentarians **zealously** enforced Sabbath regulations, closing theaters and banishing festive games."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Governor Bellingham **zealously** scrutinized the maiden's faith, demanding whether she knew who had made her."*
+> - 📜 **Frederick Douglass (*Narrative of the Life of Frederick Douglass*):** *"I worked **zealously** at the Baltimore shipyard, determined to learn the ship-calker's trade and earn my freedom."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek mis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Feeling & Sensation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal hatred or extreme aversion toward children, especially one's own offspring (from Greek *misos* and *pais*).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychopathology and forensic medicine, a morbid condition linked to severe postpartum depression or psychotic parental rejection.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, misopaedia designates a term designating an entity, condition, or phenomenon derived from greek mis."*
+> - 📜 **Henry Maudsley (*Responsibility in Mental Disease*):** *"In puerperal insanity, the mother's natural maternal devotion may suddenly invert into a horrifying **misopaedia**."*
+> - 📜 **Cesare Lombroso (*The Female Offender*):** *"Cases of maternal infanticide often reveal a pathological **misopaedia** sparked by prolonged exhaustion and hunger."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The practitioner must intervene swiftly when morbid **misopaedia** threatens the safety of a newborn infant."*

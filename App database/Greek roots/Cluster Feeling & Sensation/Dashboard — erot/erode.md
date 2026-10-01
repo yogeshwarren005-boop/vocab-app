@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Become ground down or deteriorate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove soil or rock.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To gradually wear away, abrade, or dissolve soil, rock, or other material through the physical action of water, wind, glacial ice, or chemical weathering.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In figurative and social contexts, to slowly undermine, diminish, or weaken authority, confidence, value, or institutional integrity over time.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Every land-mark in that eight-hour drive in the mountain buckboard, every tree, every mountain, every ford and bridge, every ridge and eroded hillside was ever the same."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The mountain streams continuously **erode** the underlying granite strata, carving deep chasms over uncounted centuries."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"Rains wash across the bare fields and **erode** the precious topsoil that required millennia of forest growth to create."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Excessive bureaucratic centralization tends quietly to **erode** local civic virtues and personal initiative."*

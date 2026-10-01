@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of run.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of run.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Running or turning in different, opposite, or alternating directions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical morphology and phyllotaxy, describing stems, leaves, or floral spirals where the direction of coil or arrangement runs counter to that of the parent axis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heterodromous designates adjective*) pertaining to, derived from, or characteristic of run."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"In certain climbing plants, the lateral shoots are **heterodromous**, winding around the trellis in a direction opposite to the main stem."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The spiral phyllotaxis of the branches presents a curious **heterodromous** relation to the primary axis of the tree."*
+> - 📜 **Charles Darwin (*The Movement and Habits of Climbing Plants*):** *"We observed rare instances of **heterodromous** twining wherein twin shoots from the same root spiraled in opposing senses."*

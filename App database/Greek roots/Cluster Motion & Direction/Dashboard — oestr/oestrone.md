@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek oestr.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Motion & Direction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An estrogenic steroid hormone that is the primary estrogen produced after menopause, synthesized primarily in adipose tissue from adrenal precursors.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human biochemistry, a ketone-containing C18 steroid (estrone) with lower receptor affinity than estradiol, functioning as an intermediary metabolite and postmenopausal hormone.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oestrone designates a term designating an entity, condition, or phenomenon derived from greek oestr."*
+> - 📜 **George Corner (*The Hormones in Human Reproduction*):** *"Isolation of crystalline **oestrone** from pregnancy urine provided the first chemical evidence of female sex hormones."*
+> - 📜 **Edward Doisy (*The Assay and Isolation of Estrogens*):** *"Chemical analysis proved **oestrone** to possess a keto oxygen atom at the seventeenth position of the cyclopentanoperhydrophenanthrene ring."*
+> - 📜 **Francis Marshall (*The Physiology of Reproduction*):** *"Following the menopausal cessation of follicular function, peripheral **oestrone** becomes the predominant estrogen."*

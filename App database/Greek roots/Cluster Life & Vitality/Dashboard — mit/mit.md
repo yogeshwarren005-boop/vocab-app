@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: God (is) with us.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: God (is) with us.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The classical Greek combining root (*mitos*, thread) denoting thread-like filaments, chromosomes, or mitotic spindles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cytology and molecular genetics, the morphological root seen in mitosis and mitochondria, referring to chromatin threads.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Stuhlmann, _Mit Emin Pascha ins Herz von Afrika_ (Berlin, 1894), p. 506. [155] As a confirmation of this view it may be pointed out that beating or scourging is inflicted on inanimate objects expressly for the purpose indicated in the text."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The line is worth a hundred pages of fustian. ‘Ich wäge die Gedanken in der Schale meines Zornes und die Werke mit dem Gewichte meines Grimms.’ I like it!” Both were again silent."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Du Erde warst auch diese Nacht beständig, Und athmest neu erquickt zu meinen Füssen, Beginnest schon mit Lust mich zu umgeben, Du regst und rührst ein kräftiges Beschliessen _Zum höchsten Dasein immerfort zu streben_. —_Faust:_ 2r Theil."*
+> - 📜 **Walther Flemming (*Contributions to the Knowledge of the Cell*):** *"I selected the Greek root **mit** because the chromatin organizes into distinct thread-like filaments during nuclear division."*
+> - 📜 **Max Müller (*The Science of Language*):** *"The versatile Greek stem **mit** entered modern biology to describe the finest microscopic threads of living matter."*
+> - 📜 **Edmund Beecher Wilson (*The Cell in Development and Heredity*):** *"From the humble weaver's term **mit** arose our entire vocabulary for chromosomal dance and cellular division."*

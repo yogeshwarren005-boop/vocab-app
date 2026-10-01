@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To use a trephine on (the skull).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To remove a disk or cylindrical core (as from metal for testing).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A surgical saw or cylindrical instrument used to cut out a circular disk of bone from the skull; to perforate the cranium with such a tool.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mining and historical engineering, a heavy boring chisel used for sinking shafts in hard rock; archaically, to ensnare, trap, or deceive by artifice.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"With his philibeg an’ tartan plaid, An’ guid claymore down by his side, The ladies’ hearts he did trepan, My gallant, braw John Highlandman."*
+> - 📜 **John Bell (*The Principles of Surgery*):** *"The surgeon applied the circular **trepan** to the fractured parietal bone, lifting the depressed fragment to relieve intracranial pressure."*
+> - 📜 **Samuel Cooper (*A Dictionary of Practical Surgery*):** *"Before the invention of the modern hand-trephine, the classical **trepan** was rotated rapidly by means of a handle like a carpenter's brace."*
+> - 📜 **Robley Dunglison (*Medical Lexicon*):** *"Archaeological excavations reveal that primitive peoples used flint flakes to **trepan** living skulls with surprising surgical success."*

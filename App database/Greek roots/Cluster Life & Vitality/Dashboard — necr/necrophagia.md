@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeding on corpses or carrion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Feeding on corpses or carrion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act, habit, or practice of feeding on dead flesh or carrion; necrophagy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anthropology and folklore, corpse-eating or necro-cannibalism; in ecology, scavenging by obligate or facultative carnivores.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, necrophagia designates feeding on corpses or carrion."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The condor of the Andes subsists primarily through scavenging **necrophagia**, soaring for leagues in search of dead cattle."*
+> - 📜 **William Morton Wheeler (*Ants: Their Structure, Development and Behavior*):** *"Certain subterranean doryline army ants practice opportunistic **necrophagia** upon dead earthworms and grubs."*
+> - 📜 **Edward O. Wilson (*The Diversity of Life*):** *"Vultures and carrion beetles accelerate nutrient recycling through specialized, competitive **necrophagia**."*

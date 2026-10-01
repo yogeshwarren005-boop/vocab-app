@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek erot.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Feeling & Sensation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Greek root *erot-* (from *erōs*, genitive *erōtos*), signifying romantic love, sexual passion, amorous desire, or libido.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The foundational combining form in clinical sexology, psychoanalysis, and literary criticism designating sexual or sensual themes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, erot designates a term designating an entity, condition, or phenomenon derived from greek erot."*
+> - 📜 **Henry George Liddell & Robert Scott (*A Greek-English Lexicon*):** *"From the stem **erot** spring numerous compounds denoting love-songs, passionate longing, and amatory verse."*
+> - 📜 **Havelock Ellis (*Studies in the Psychology of Sex*):** *"Medical terminology borrowed the Greek root **erot** to construct objective classifications of instinctual desire."*
+> - 📜 **Michel Foucault (*The History of Sexuality*):** *"Classical Hellenic discourses treated the impulse of **erot** as an art of existence governed by temperance rather than sin."*

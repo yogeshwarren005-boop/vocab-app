@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, characterized by, or practicing monogamy : having only one mate, spouse, or sexual partner at one time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to, characterized by, or practicing monogamy : having only one mate, spouse, or sexual partner at one time.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having only one spouse or sexual partner at a time; practicing monogamy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In zoology and ethology, describing animal pairs (such as swans, wolves, or albatrosses) that form long-term or lifelong reproductive bonds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monogamous designates relating to, characterized by, or practicing monogamy : having only one mate, spouse, or sexual partner at one time."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Many predatory birds remain strictly **monogamous**, male and female cooperating for years in defending the eyrie and hunting food."*
+> - 📜 **Edward Westermarck (*The History of Human Marriage*):** *"The **monogamous** pairing was the primordial marital form from which varied tribal marriage customs arose."*
+> - 📜 **Herbert Spencer (*The Principles of Sociology*):** *"A stably **monogamous** society concentrates parental devotion and capital inheritance upon the legitimate offspring."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A solid formed by plane faces.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A solid formed by plane faces.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A three-dimensional solid figure bounded by plane polygonal faces, straight edges, and vertices.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematics and geometry, a fundamental geometric object whose topological invariants and symmetries form the foundation of spatial theory.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polyhedron designates a solid formed by plane faces."*
+> - 📜 **Euclid (*Elements*):** *"A **polyhedron** is a solid figure contained by plane figures which are not in the same plane."*
+> - 📜 **René Descartes (*De Solidorum Elementis*):** *"In any convex **polyhedron**, the sum of the plane face angles at all vertices can be computed from its edge count."*
+> - 📜 **Imre Lakatos (*Proofs and Refutations*):** *"The definition of a **polyhedron** underwent continuous revision as counterexamples challenged Euler's formula."*

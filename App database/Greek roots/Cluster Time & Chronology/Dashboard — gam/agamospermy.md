@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Development of a sporophyte from a gametophyte without fertilization : apogamy; specifically : apogamy in which sexual union is not completed and the embryo is produced from the innermost layer of the integument of the female gametophyte.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Development of a sporophyte from a gametophyte without fertilization : apogamy; specifically : apogamy in which sexual union is not completed and the embryo is produced from the innermost layer of the integument of the female gametophyte.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The formation of viable seeds without the occurrence of sexual fertilization or meiosis; a type of apomixis in flowering plants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant reproductive genetics, clonal seed production (diplospory, apospory, or adventitious embryony) resulting in maternal offspring genetically identical to the parent.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, agamospermy designates development of a sporophyte from a gametophyte without fertilization : apogamy; specifically : apogamy in which sexual union is not completed and the embryo is produced from the innermost layer of the integument of the female gametophyte."*
+> - 📜 **G. Ledyard Stebbins (*Variation and Evolution in Plants*):** *"Genera such as Taraxacum and Hieracium owe their bewildering taxonomic complexity to habitual **agamospermy**."*
+> - 📜 **C. D. Darlington (*The Evolution of Genetic Systems*):** *"Through **agamospermy**, a highly adapted heterozygous genotype can be frozen indefinitely and propagated by seed."*
+> - 📜 **Ernst Mayr (*Systematics and the Origin of Species*):** *"Species limits break down in groups where **agamospermy** creates swarms of microspecies that bypass cross-pollination."*

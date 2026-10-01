@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or involving planography.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or involving planography.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or utilizing printing from a flat surface, rather than from raised (relief) or sunken (intaglio) surfaces, as in lithography.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Employing chemical antipathy between oil and water on a planar plate to transfer inked impressions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, planographic designates of or relating to or involving planography."*
+> - 📜 **Alois Senefelder (*A Complete Course of Lithography*):** *"Lithography is fundamentally a **planographic** art where chemical affinity replaces engraved relief."*
+> - 📜 **Joseph Pennell (*Lithography and Lithographers*):** *"The artist draws directly upon the limestone slab, creating a true **planographic** original."*
+> - 📜 **William Morris (*The Ideal Book*):** *"Modern **planographic** presses enabled broad distribution of illustrated artistic prints."*

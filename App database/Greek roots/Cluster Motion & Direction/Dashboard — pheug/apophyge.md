@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek pheug.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Motion & Direction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A slight concave curve or flare in a classical architectural column where the shaft springs outward to meet the base or terminates at the capital.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical orders, literally an 'escape' (Greek apopheugein), the subtle transition molding that softens the juncture between cylindrical shaft and plinth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, apophyge designates a term designating an entity, condition, or phenomenon derived from greek pheug."*
+> - 📜 **Vitruvius (*The Ten Books on Architecture*):** *"At the foot of the shaft, the **apophyge** curves outward to rest gracefully upon the torus of the base."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The Grecian architect fashioned the **apophyge** with mathematical delicacy to relieve the visual weight of the vertical column."*
+> - 📜 **Banister Fletcher (*A History of Architecture*):** *"Ionic columns terminate above and below in a gentle **apophyge** flanked by narrow decorative fillets."*

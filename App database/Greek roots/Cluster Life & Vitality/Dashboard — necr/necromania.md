@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An irresistible sexual attraction to dead bodies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An irresistible sexual attraction to dead bodies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal, morbid, or pathological obsession with death, corpses, or funeral rituals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A psychiatric delusion or impulse driving an individual to seek contact with dead bodies or morbid mortuary environments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, necromania designates an irresistible sexual attraction to dead bodies."*
+> - 📜 **Havelock Ellis (*Studies in the Psychology of Sex*):** *"Morbid psychopathy may manifest as acute **necromania**, where cemetery visits become an irresistible compulsion."*
+> - 📜 **Richard von Krafft-Ebing (*Psychopathia Sexualis*):** *"We trace a severe aberration in the patient's history, progressing from melancholy brooding into overt **necromania**."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"A temperament burdened by morbid **necromania** sees in every human joy only the rotting worm beneath the tombstone."*

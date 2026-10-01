@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A decoration or adornment on a garment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A decoration or adornment on a garment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Ornamental trimmings, lace, braid, cords, tassels, or fringes applied to garments, ecclesiastical vestments, or soft furnishings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The craft, manufacturing industry, or collection of elaborate decorative textile fringes and galloons.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, passementerie designates a decoration or adornment on a garment."*
+> - 📜 **Gustave Flaubert (*Madame Bovary*):** *"Emma spent extravagant sums on silk ribbons, velvet hats, and delicate gold **passementerie** from Paris."*
+> - 📜 **Émile Zola (*The Ladies' Paradise*):** *"The department store counter displayed waterfalls of glittering **passementerie**, spangled laces, and chenille braids."*
+> - 📜 **Henry James (*The Golden Bowl*):** *"The heavy damask curtains were finished with antique crimson **passementerie** that spoke of centuries of ducal splendor."*

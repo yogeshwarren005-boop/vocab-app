@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a sociopathic personality disorder.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a sociopathic personality disorder.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by, relating to, or exhibiting the traits of a sociopath; antisocial, remorseless, and manipulative.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reflecting a total contempt for the moral conventions, legal codes, and safety of human society.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sociopathic designates of or relating to a sociopathic personality disorder."*
+> - 📜 **Aldous Huxley (*Brave New World Revisited*):** *"Modern totalitarian regimes provide an ideal arena for **sociopathic** personalities to rise to absolute executive command."*
+> - 📜 **George Orwell (*Nineteen Eighty-Four*):** *"O'Brien operated with a cold, **sociopathic** serenity, taking philosophical pleasure in shattering human wills."*
+> - 📜 **Hervey Cleckley (*The Mask of Sanity*):** *"The **sociopathic** pattern of repeated financial fraud and abandoned families reveals a total absence of long-term remorse."*

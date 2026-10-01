@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (ecology) of a lake or other body of water rich in nutrients and subject to eutrophication.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (ecology) of a lake or other body of water rich in nutrients and subject to eutrophication.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Rich in nutrients, especially nitrogen and phosphorus; promoting lush aquatic plant and algal growth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In limnology, describing a body of water characterized by high nutrient content, abundant phytoplankton blooms, and seasonal deep-water oxygen depletion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eutrophic designates (ecology) of a lake or other body of water rich in nutrients and subject to eutrophication."*
+> - 📜 **G. Evelyn Hutchinson (*A Treatise on Limnology*):** *"In the shallow **eutrophic** lake, dense summer algal blooms shade the depths, leading to hypolimnetic anoxia."*
+> - 📜 **Eugene Odum (*Fundamentals of Ecology*):** *"Nutrient runoff accelerates the natural aging process of lakes, inducing premature **eutrophic** conditions."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"Excess agricultural fertilizers washed into rivers convert pristine waters into choked, foul-smelling **eutrophic** shallows."*

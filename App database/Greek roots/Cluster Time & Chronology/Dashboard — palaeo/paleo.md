@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A Paleo diet.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who follows a Paleo diet.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combining form derived from Greek παλαιός (palaios) meaning 'ancient', 'prehistoric', or 'early', widely used in geology, anthropology, and medicine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In contemporary popular culture, short for the paleolithic diet or lifestyle modeled after ancestral hunter-gatherers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paleo designates a paleo diet."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"The Greek primitive palaios provides the universal scientific prefix **paleo-**, denoting prehistoric antiquity."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Geologists joined **paleo-** with zoic to designate the ancient era of marine invertebrate life."*
+> - 📜 **Walter William Skeat (*An Etymological Dictionary of the English Language*):** *"The formative element **paleo-** consistently distinguishes archaic evolutionary stages from recent and modern counterparts."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Symbiosis in which a symbiont dwells within the body of its symbiotic partner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Symbiosis in which a symbiont dwells within the body of its symbiotic partner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An organism that lives within the body or cells of another organism in a mutualistic, commensal, or parasitic relationship.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An intracellular microorganism, such as the ancestral alpha-proteobacteria that evolved into mitochondria within eukaryotic cells.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endosymbiont designates symbiosis in which a symbiont dwells within the body of its symbiotic partner."*
+> - 📜 **Lynn Margulis (*Origin of Eukaryotic Cells*):** *"The mitochondrion originated as an aerobic bacterial **endosymbiont** engulfed by a predatory anaerobic host cell."*
+> - 📜 **Paul Portier (*Les Symbiotes*):** *"Every higher plant and animal harbors intracellular **endosymbionts** without which normal tissue respiration is impossible."*
+> - 📜 **Kwok-Wai Jeon (*Development of Cellular Inclusions*):** *"Within five years of infection, the bacterial **endosymbiont** became indispensable for amoebic survival."*

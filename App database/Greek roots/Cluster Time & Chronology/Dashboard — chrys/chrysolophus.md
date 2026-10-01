@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Golden pheasants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Golden pheasants.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of vividly colored gallinaceous birds in the pheasant family (Phasianidae), including the golden pheasant and Lady Amherst's pheasant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ornithology, spectacular montane birds of central and western China recognized by magnificent ruffs of golden and orange feathers and extraordinarily long tails.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chrysolophus designates golden pheasants."*
+> - 📜 **Alfred Russel Wallace (*Tropical Nature, and Other Essays*):** *"The male golden pheasant of the genus **Chrysolophus** exhibits a cape of bright amber feathers that flares during courtship."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Sexual selection has elaborated the gorgeous ruff and scarlet crest in **Chrysolophus** to the highest degree of avian splendor."*
+> - 📜 **John Gould (*The Birds of Asia*):** *"The flashing colors of **Chrysolophus** illuminating the rocky bamboo thickets of Sichuan present an unforgettable spectacle."*

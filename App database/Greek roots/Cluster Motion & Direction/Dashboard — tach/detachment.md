@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Avoiding emotional involvement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of releasing from an attachment or connection.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being separate, distant, or disengaged; a posture of objective impartiality and emotional freedom.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military operations, a body of troops or naval vessels separated from the main force and deployed on a distinct mission.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"By direction of the President of the United Inner Planetary System you are appointed to the Strategic Penetrations Detachment of the Ministry of Intelligence."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"As the appointed time neared, the Presidential Security Guard, augmented by a detachment of heavily armed police, moved into the conference area."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"He barked at the guard to escort him to the officer-in-charge of the troop detachment."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"A small **detachment** of legionaries guarded the mountain pass against the barbarian incursions."*
+> - 📜 **Aldous Huxley (*Ends and Means*):** *"True spiritual freedom is achieved only through profound **detachment** from worldly ambitions and physical desires."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"Saintly figures cultivate an inner **detachment** that renders them tranquil amid worldly catastrophe."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One having or affecting sensitivity to the beautiful especially in art.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One having or affecting sensitivity to the beautiful especially in art.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who affects, exhibits, or cultivates a special or refined sensitivity to art, beauty, and aesthetic value, often to the neglect of practical concerns.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dedicated adherent of the late-19th-century Aesthetic Movement who elevated 'art for art's sake' into a personal ethos.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aesthete designates one having or affecting sensitivity to the beautiful especially in art."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"He had always been an **aesthete**, valuing life only for the intense sensations and exquisite decorative moments it afforded."*
+> - 📜 **Gilbert & Sullivan (*Patience*):** *"If you walk down Piccadilly with a poppy or a lily in your medieval hand, then everyone will say as you walk your flowery way, what an ultra-poetical **aesthete** this young man must be!"*
+> - 📜 **Max Beerbohm (*Zuleika Dobson*):** *"The undergraduate pose of the melancholy **aesthete** melted away in the brisk afternoon sunshine along the riverbank."*

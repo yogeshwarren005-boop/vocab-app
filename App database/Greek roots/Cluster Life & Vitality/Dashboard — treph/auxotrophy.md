@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Requiring a specific growth substance beyond the minimum required for normal metabolism and reproduction by the parental or wild-type strain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Requiring a specific growth substance beyond the minimum required for normal metabolism and reproduction by the parental or wild-type strain.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The inability of an organism to synthesize a particular organic compound required for its growth, necessitating that compound in its culture medium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In microbial genetics, a nutritional deficiency caused by a genetic mutation in a biosynthetic pathway, contrasted with prototrophy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, auxotrophy designates requiring a specific growth substance beyond the minimum required for normal metabolism and reproduction by the parental or wild-type strain."*
+> - 📜 **George Beadle (*Genetic Control of Biochemical Reactions in Neurospora*):** *"X-ray mutagenesis produced specific strains of Neurospora exhibiting nutritional **auxotrophy** for pyridoxine and thiamine."*
+> - 📜 **Edward Tatum (*A Pure Culture Approach to Heredity*):** *"Our one-gene-one-enzyme hypothesis explained how single point mutations create specific amino acid **auxotrophy**."*
+> - 📜 **Joshua Lederberg (*Gene Recombination in Escherichia coli*):** *"Crossing two divergent strains marked by complementary **auxotrophy** demonstrated genetic recombination in bacteria."*

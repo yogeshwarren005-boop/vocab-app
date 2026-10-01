@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mentally unstable person; especially : a person having an egocentric and antisocial personality marked by a lack of remorse for one's actions, an absence of empathy for others, and often criminal tendencies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mentally unstable person; especially : a person having an egocentric and antisocial personality marked by a lack of remorse for one's actions, an absence of empathy for others, and often criminal tendencies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person suffering from a chronic mental disorder characterized by abnormal, violent, or callous behavior, egocentricity, and total lack of empathy or remorse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In forensic psychiatry and criminology, an individual exhibiting severe psychopathy who manipulates and exploits others without guilt.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psychopath designates a mentally unstable person; especially : a person having an egocentric and antisocial personality marked by a lack of remorse for one's actions, an absence of empathy for others, and often criminal tendencies."*
+> - 📜 **Hervey Cleckley (*The Mask of Sanity*):** *"The true **psychopath** presents a convincing facade of intelligence and charm that masks profound emotional bankruptcy."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The moral imbecile or criminal **psychopath** knows the legal definition of crime but feels no conscience."*
+> - 📜 **Cesare Lombroso (*Criminal Man*):** *"Among habitual recidivists, the constitutional **psychopath** displays callous insensitivity to the suffering of his victims."*

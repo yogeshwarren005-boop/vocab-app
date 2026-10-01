@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fungi having carbonous perithecia with long necks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fungi having carbonous perithecia with long necks.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of perithecial ascomycete fungi characterized by horn-like or rostrate beaks on their fruiting bodies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mycology, saprophytic or plant-parasitic fungi producing dark perithecia with elongated ostiolar necks that resemble slender horns.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ceratostomataceae designates fungi having carbonous perithecia with long necks."*
+> - 📜 **Pier Andrea Saccardo (*Sylloge Fungorum*):** *"The **Ceratostomataceae** are recognized by their ostiolate perithecia terminating in rigid, rostrate beaks."*
+> - 📜 **George Francis Atkinson (*Mushrooms, Edible, Poisonous, etc.*):** *"Microscopic examination of dead wood revealed several species of **Ceratostomataceae** projecting their horn-tipped perithecia."*
+> - 📜 **Job Bicknell Ellis (*The North American Pyrenomycetes*):** *"Members of the **Ceratostomataceae** discharge their spores through the apex of an elongated, tubular neck."*

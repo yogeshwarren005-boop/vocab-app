@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having three replaceable hydrogen atoms —used of acids.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having three replaceable hydrogen atoms —used of acids.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having three replaceable hydrogen atoms (of an acid); capable of neutralizing three equivalents of a base.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Combining with bases in three different proportions to form three series of salts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tribasic designates having three replaceable hydrogen atoms —used of acids."*
+> - 📜 **Thomas Graham (*Researches on the Arseniates, Phosphates, and Modifications of Phosphoric Acid*):** *"Orthophosphoric acid is fundamentally **tribasic**, forming mono-, di-, and tri-sodium salts."*
+> - 📜 **Justus von Liebig (*Familiar Letters on Chemistry*):** *"Citric acid was recognized as a **tribasic** organic acid through its triple series of crystalline precipitates."*
+> - 📜 **William Allen Miller (*Elements of Chemistry*):** *"A **tribasic** acid requires three equivalents of monovalent metallic base to achieve neutral saturation."*

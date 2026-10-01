@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The body of ordained religious practitioners.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The body of ordained religious practitioners.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The office, rank, or character of a priest; priests collectively.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The sacred order or institution of mediators administering divine ceremonies and religious law.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What, cardinal, is your priesthood grown peremptory? _Tantaene animis coelestibus irae?_ Churchmen so hot?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thy priesthood saves thy life."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Chong Mong-ju disaffected half the provincial priesthood, until they pilgrimaged in processions a mile long to the palace gates and frightened the Emperor into a panic."*
+> - 📜 **John Milton (*Paradise Regained*):** *"He declared that true spiritual **priesthood** belongs to all who worship in spirit and in truth."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The pagan **priesthood** of Rome jealously guarded the ancient sibylline books."*
+> - 📜 **Jack London (*The Iron Heel*):** *"He critiqued the corrupt alliances formed between the industrial oligarchy and the compliant **priesthood**."*

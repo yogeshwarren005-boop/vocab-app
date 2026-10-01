@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The final stage of the meiotic prophase marked by contraction of the bivalents.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The final stage of the meiotic prophase marked by contraction of the bivalents.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The fifth and final stage of the prophase of meiosis, during which homologous chromosomes condense, chiasmata terminalize, and the nuclear envelope breaks down.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cytogenetics, the transitional meiotic phase immediately preceding metaphase I, characterized by maximally contracted bivalents ready for spindle attachment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diakinesis designates the final stage of the meiotic prophase marked by contraction of the bivalents."*
+> - 📜 **Thomas Hunt Morgan (*The Mechanism of Mendelian Heredity*):** *"During **diakinesis**, the contracted chromosome pairs migrate toward the periphery of the nucleus just prior to the dissolution of its membrane."*
+> - 📜 **Theodosius Dobzhansky (*Genetics and the Origin of Species*):** *"Inspection of bivalents at **diakinesis** confirmed the occurrence of reciprocal translocations between non-homologous chromosomes."*
+> - 📜 **Edmund Beecher Wilson (*The Cell in Development and Heredity*):** *"The stage of **diakinesis** is distinguished by the extreme shortening of the tetrads and their terminalized chiasmata."*

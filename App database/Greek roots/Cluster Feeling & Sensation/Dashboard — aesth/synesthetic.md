@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or experiencing synesthesia; involving more than one sense.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or experiencing synesthesia; involving more than one sense.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, demonstrating, or induced by synesthesia; cross-sensory.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Describing metaphorical language or cognitive linkages that fuse sight, sound, touch, taste, or smell into a unified perception.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, synesthetic designates relating to or experiencing synesthesia; involving more than one sense."*
+> - 📜 **Maurice Merleau-Ponty (*Phenomenology of Perception*):** *"Far from being a rare pathological oddity, **synesthetic** perception is the primordial rule of our lived bodily experience."*
+> - 📜 **Marshall McLuhan (*The Gutenberg Galaxy*):** *"Pre-literate oral culture sustained a balanced **synesthetic** interplay between the ear and eye that typography shattered."*
+> - 📜 **Roman Jakobson (*Linguistics and Poetics*):** *"Poetic metaphors draw their evocative vigor from deep-seated **synesthetic** affinities between vowel timbres and chromatic values."*

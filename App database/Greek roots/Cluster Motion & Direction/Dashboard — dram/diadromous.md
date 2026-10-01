@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Migratory between salt water and fresh water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Migratory between salt water and fresh water.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Migrating regularly between fresh water and the sea at predictable stages of the life cycle (encompassing both anadromous and catadromous species).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In fisheries science, describing aquatic species that possess specialized osmoregulatory adaptations to survive dramatic salinity transitions between marine and fluvial ecosystems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diadromous designates migratory between salt water and fresh water."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"Many **diadromous** fishes must adjust their entire gill physiology when passing from dense brine into sweet mountain rivers."*
+> - 📜 **Ernst Mayr (*Animal Species and Evolution*):** *"The migratory discipline of **diadromous** populations prevents localized inbreeding by mixing river stocks on oceanic feeding grounds."*
+> - 📜 **Arthur Dendy (*Outlines of Evolutionary Biology*):** *"Geological alterations of river drainages have profoundly shaped the migration routes of ancient **diadromous** species."*

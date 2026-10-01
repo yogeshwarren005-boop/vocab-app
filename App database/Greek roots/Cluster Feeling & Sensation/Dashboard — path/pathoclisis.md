@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek path.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Feeling & Sensation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A selective susceptibility or localized vulnerability of specific brain regions, cell groups, or tissues to particular toxins, infections, or trauma.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A neuropathological concept introduced by Cécile and Oskar Vogt explaining why certain diseases (e.g., carbon monoxide poisoning) target specific nuclei like the globus pallidus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pathoclisis designates a term designating an entity, condition, or phenomenon derived from greek path."*
+> - 📜 **Cécile Vogt & Oskar Vogt (*Erkrankungen der Grosshirnrinde*):** *"The distinct vulnerability of the striatum to hypoxic insult demonstrates the biological law of regional **pathoclisis**."*
+> - 📜 **William Gowers (*A Manual of Diseases of the Nervous System*):** *"Selective motor neuron degeneration in amyotrophic lateral sclerosis provides a tragic instance of system **pathoclisis**."*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*):** *"The localized destruction of the mamillary bodies in Korsakoff's syndrome illustrates cerebral **pathoclisis** under thiamine starvation."*

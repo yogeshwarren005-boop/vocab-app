@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to cross-fertilization in plants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to cross-fertilization in plants.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by or practicing cross-fertilization; having flowers fertilized by pollen from a different individual plant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant breeding and reproductive ecology, describing outcrossing species that rely upon wind or animal vectors to exchange genes between distinct genetic individuals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, allogamous designates relating to cross-fertilization in plants."*
+> - 📜 **Charles Darwin (*The Effects of Cross and Self Fertilisation in the Vegetable Kingdom*):** *"The showy corollas and sweet nectaries evolved to ensure that the species remained effectively **allogamous**."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"Dichogamous plants are strictly **allogamous**, shedding pollen only when their own stigmas are unreceptive."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"When growing **allogamous** crops for seed purity, farmers must isolate varieties by substantial distances."*

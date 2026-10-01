@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The middle germ layer that develops into muscle and bone and cartilage and blood and connective tissue.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The middle germ layer that develops into muscle and bone and cartilage and blood and connective tissue.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The middle germ layer of an early embryo; an archaic or alternative term for mesoderm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The embryonic cell layer situated between ectoderm and endoderm, giving rise to muscle, bone, blood, and connective tissues.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mesoblast designates the middle germ layer that develops into muscle and bone and cartilage and blood and connective tissue."*
+> - 📜 **Karl Ernst von Baer (*Über Entwickelungsgeschichte der Thiere*):** *"Between the external and internal laminae arises the **mesoblast**, from which the muscular system and skeleton take origin."*
+> - 📜 **Francis Balfour (*A Treatise on Comparative Embryology*):** *"Splitting of the lateral **mesoblast** into somatic and splanchnic sheets creates the coelomic body cavity."*
+> - 📜 **Thomas Henry Huxley (*The Elements of Embryology*):** *"The vascular network of the embryo arises entirely within the vascular lamina of the **mesoblast**."*

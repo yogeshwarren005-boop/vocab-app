@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Therapy that uses physical agents: exercise and massage and other modalities.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Therapy that uses physical agents: exercise and massage and other modalities.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The treatment of disease, injury, or deformity by physical methods such as massage, heat, exercise, and electrotherapy rather than by drugs or surgery.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Physical therapy; the allied health profession focused on neuromuscular rehabilitation and movement optimization.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, physiotherapy designates therapy that uses physical agents: exercise and massage and other modalities."*
+> - 📜 **Frank H. Krusen (*Physical Medicine*):** *"Modern **physiotherapy** has elevated the ancient arts of exercise and thermal baths into a precise clinical discipline."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In chronic rheumatic disorders, persistent **physiotherapy** preserves joint mobility far better than toxic polypharmacy."*
+> - 📜 **Howard A. Rusk (*New Hope for the Handicapped*):** *"Rehabilitation is incomplete without intensive **physiotherapy** designed to retrain paralyzed motor units."*

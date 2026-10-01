@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek brot.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Life & Vitality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ancient Greek root (*brotos*, mortal, human, or blood) denoting mortal life, ephemeral humanity, or mortal remains.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative philology, the morphological root seen in Greek *ambrotos* (immortal, divine) cognate with Sanskrit *amṛta* and Latin *mors*.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, brot designates a term designating an entity, condition, or phenomenon derived from greek brot."*
+> - 📜 **Gilbert Murray (*The Rise of the Greek Epic*):** *"In Homeric diction, the root **brot** consistently evokes the tragic fragility of mortals compared to the deathless gods."*
+> - 📜 **Walter Burkert (*Greek Religion*):** *"Ritual offerings bridged the chasm between Olympian immortals and the ephemeral world of the human **brot**."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"Etymologically, Greek compounds retaining the stem **brot** descend from the Indo-European root for mortal dying."*

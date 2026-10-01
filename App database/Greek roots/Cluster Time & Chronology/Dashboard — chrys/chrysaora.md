@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of scyphozoa.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of scyphozoa.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of scyphozoan jellyfish in the family Pelagiidae, commonly known as sea nettles, possessing trailing tentacles and golden-brown bell markings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine invertebrate zoology, carnivorous pelagic cnidarians that swim by rhythmic bell pulsations and capture zooplankton with potent nematocysts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chrysaora designates a genus of scyphozoa."*
+> - 📜 **Louis Agassiz (*Contributions to the Natural History of the United States*):** *"The bell of **Chrysaora** displays elegant radial stripes of deep amber and golden-brown across its translucent dome."*
+> - 📜 **Thomas Henry Huxley (*The Oceanic Hydrozoa*):** *"Specimens of **Chrysaora** drift near the surface, trailing lengthy stinging marginal tentacles that paralyze small fry."*
+> - 📜 **Alexander Agassiz (*North American Acalephae*):** *"The developmental cycle of **Chrysaora** includes a sedentary scyphistoma stage that undergoes transverse strobilation."*

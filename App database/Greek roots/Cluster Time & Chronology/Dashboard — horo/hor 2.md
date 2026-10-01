@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek horo.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Time & Chronology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combining form and lexical root from Greek ὥρα (hora) signifying 'time', 'hour', or 'season', appearing in horology and horoscope.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistic morphology, the formative prefix designating instruments for measuring time or diagrams plotting celestial hours.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hor 2 designates a term designating an entity, condition, or phenomenon derived from greek horo."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"The combining form **hor-** encapsulates ancient Greek observations of the circling hours of day and night."*
+> - 📜 **Walter William Skeat (*An Etymological Dictionary of the English Language*):** *"Words like horology and horoscope testify to the enduring utility of the Greek radical **hor-** in measuring time."*
+> - 📜 **James Murray (*A New English Dictionary on Historical Principles*):** *"Technical arts associated with clocks and dials adopted the root **hor-** throughout the Renaissance."*

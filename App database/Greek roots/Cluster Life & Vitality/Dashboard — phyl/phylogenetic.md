@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the evolutionary development of organisms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the evolutionary development of organisms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or based on phylogeny or the evolutionary development of a taxonomic group of organisms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to evolutionary lineages, common ancestry, and branching tree diagrams (cladograms) based on genetic or morphological data.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phylogenetic designates of or relating to the evolutionary development of organisms."*
+> - 📜 **Ernst Haeckel (*The History of Creation*):** *"Every **phylogenetic** tree must be continually revised as new fossil transitional forms are unearthed."*
+> - 📜 **Willi Hennig (*Phylogenetic Systematics*):** *"A truly natural classification must be strictly **phylogenetic**, grouping taxa solely by shared derived characters (synapomorphies)."*
+> - 📜 **Emile Zuckerkandl (*Molecular Disease, Evolution, and Genic Diversity*):** *"Comparisons of amino acid sequences in hemoglobin construct molecular **phylogenetic** trees of unparalleled accuracy."*

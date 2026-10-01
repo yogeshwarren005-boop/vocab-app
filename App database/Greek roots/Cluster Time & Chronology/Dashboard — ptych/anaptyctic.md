@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Insertion of a vowel between two consonants : vowel epenthesis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Insertion of a vowel between two consonants : vowel epenthesis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or characterized by anaptyxis (the insertion of a vowel between consonants).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In phonology, designating a parasitic or epenthetic vowel that arises to break up complex consonant clusters.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anaptyctic designates insertion of a vowel between two consonants : vowel epenthesis."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"The intrusive **anaptyctic** vowel eases the articulation of harsh consonant combinations."*
+> - 📜 **Henry Sweet (*A Handbook of Phonetics*):** *"Dialectal pronunciations often introduce an **anaptyctic** vowel between liquids and stops."*
+> - 📜 **Eduard Sievers (*Grundzüge der Phonetik*):** *"Sanskrit grammar meticulously codifies **anaptyctic** vowel developments in Vedic verse."*

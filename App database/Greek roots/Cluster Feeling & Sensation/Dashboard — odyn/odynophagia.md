@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek phag.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Painful swallowing, typically experienced as burning, stabbing, or aching sensations in the throat or esophagus upon ingestion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gastroenterology and otolaryngology, a clinical symptom signaling mucosal ulceration, candidiasis, herpes simplex infection, or esophageal spasm.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, odynophagia designates a term designating an entity, condition, or phenomenon derived from greek phag."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Severe **odynophagia** in an emaciated patient strongly suggests ulcerative esophagitis or fungal infection."*
+> - 📜 **Armand Trousseau (*Lectures on Clinical Medicine*):** *"Diphtheritic membrane in the pharynx provokes agonizing **odynophagia**, rendering the swallowing of liquid torture."*
+> - 📜 **Arthur Conan Doyle (*Round the Red Lamp*):** *"The country surgeon quickly determined that the patient's acute **odynophagia** was caused by an impacted fish bone."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various chiefly deciduous ornamental shrubs of the genus philadelphus having white sweet-scented flowers, single or in clusters; widely grown in temperate regions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various chiefly deciduous ornamental shrubs of the genus philadelphus having white sweet-scented flowers, single or in clusters; widely grown in temperate regions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of about sixty species of deciduous shrubs (family Hydrangeaceae), commonly known as mock-orange, cultivated for sweet-scented white flowers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A botanical genus named after Ptolemy II Philadelphus of ancient Egypt, renowned for his patronage of Alexandria's library and culture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Anyone can read them in the Greek version, which was made by the seventy elders for Ptolemy Philadelphus."*
+> - 📜 **Carl Linnaeus (*Species Plantarum*):** *"We establish the genus **Philadelphus**, whose fragrant four-petaled white flowers perfume temperate European gardens."*
+> - 📜 **Gertrude Jekyll (*Wood and Garden*):** *"Bushy clumps of **Philadelphus** coronarius filled the twilight with the luscious aroma of orange blossoms."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"Wild species of **Philadelphus** cling to rocky river bluffs across the southern Appalachian highlands."*

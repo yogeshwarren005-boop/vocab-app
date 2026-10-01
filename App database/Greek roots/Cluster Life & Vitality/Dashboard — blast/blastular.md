@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a blastula.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a blastula.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characteristic of a blastula.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to the developmental processes, cell divisions, or architecture of the blastula stage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, blastular designates of or relating to a blastula."*
+> - 📜 **C. H. Waddington (*Principles of Embryology*):** *"Mid-blastula transition marks the activation of embryonic transcription following rapid **blastular** cleavage cycles."*
+> - 📜 **Hans Spemann (*Embryonic Development and Induction*):** *"Grafting tissues between **blastular** embryos revealed that cell fates remain largely uncommitted prior to gastrulation."*
+> - 📜 **Julian Huxley (*The Elements of Experimental Embryology*):** *"The **blastular** epithelium exhibits uniform mechanical tension across its outer spherical perimeter."*

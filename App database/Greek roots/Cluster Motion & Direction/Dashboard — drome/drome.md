@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Racecourse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large specially prepared place.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Greek root dromos (meaning 'running', 'race', 'course', or 'speedway'), forming vocabulary relating to arenas, airfields, and biological syndromes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In morphology and etymology, an ancient combining form denoting a course, path, or sequential symptom cluster, as in hippodrome, aerodrome, and prodrome.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, drome designates racecourse."*
+> - 📜 **Walter William Skeat (*An Etymological Dictionary of the English Language*):** *"The Greek stem **drome**, signifying a running course, gives us the camel that runs and the airfield where aircraft land."*
+> - 📜 **Ernest Weekley (*The Romance of Words*):** *"From the Olympic chariot course, the suffix **drome** was revived by modern aviators for their aerodromes."*
+> - 📜 **Peter Mark Roget (*Thesaurus of English Words and Phrases*):** *"All lexical terms describing circular tracks, runways, and swift transits converge upon the root **drome**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ba.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Motion & Direction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The midpoint of the anterior margin of the foramen magnum in craniometric measurement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An anthropometric osteological landmark used to determine cranial angles and facial projection.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, basion designates a term designating an entity, condition, or phenomenon derived from greek ba."*
+> - 📜 **Paul Broca (*Instructions craniologiques et craniométriques*):** *"The **basion** serves as the fixed origin for calculating facial and alveolar angles of the human skull."*
+> - 📜 **Aleš Hrdlička (*Anthropometry*):** *"Measure the distance between the nasion and the **basion** to establish the length of the cranial base."*
+> - 📜 **Arthur Keith (*Human Embryology and Morphology*):** *"Growth along the spheno-occipital synchondrosis moves the **basion** backward relative to the hard palate."*

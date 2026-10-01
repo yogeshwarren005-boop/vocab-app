@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Acting on the mind.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Acting on the mind.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of affecting the mind, emotions, or behavior; denoting chemical drugs that alter mental activity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pharmacology and psychiatry, classifying pharmaceutical substances (antidepressants, anxiolytics, antipsychotics, and hallucinogens) that cross the blood-brain barrier to modulate neurotransmission.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psychotropic designates acting on the mind."*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*):** *"Modern neurology was transformed by the advent of **psychotropic** agents that could selectively calm psychotic agitation without producing deep coma."*
+> - 📜 **Aldous Huxley (*The Doors of Perception*):** *"The discovery of natural **psychotropic** plants across diverse continents proves humanity's universal hunger for chemical transcendence."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The careful administration of a **psychotropic** sedative provided essential rest during the delirious climax of the fever."*

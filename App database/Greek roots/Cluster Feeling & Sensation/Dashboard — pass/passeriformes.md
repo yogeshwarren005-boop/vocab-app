@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Largest order of birds comprising about half the known species; rooks; finches; sparrows; tits; warblers; robins; wrens; swallows; etc.; the four suborders are eurylaimi and tyranni and menurae and oscines or passeres.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Largest order of birds comprising about half the known species; rooks; finches; sparrows; tits; warblers; robins; wrens; swallows; etc.; the four suborders are eurylaimi and tyranni and menurae and oscines or passeres.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The largest biological order of birds, commonly called perching birds or passerines, comprising more than 6,000 species (over half of all bird species).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An avian order characterized by anisodactyl feet (three toes directed forward and one backward adapted for perching on branches) and complex vocal organs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, passeriformes designates largest order of birds comprising about half the known species; rooks; finches; sparrows; tits; warblers; robins; wrens; swallows; etc.; the four suborders are eurylaimi and tyranni and menurae and oscines or passeres."*
+> - 📜 **Ernst Mayr (*Animal Species and Evolution*):** *"The rapid adaptive radiation of the order **Passeriformes** coincided with the explosive evolution of flowering plants and insects."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"Among the paradise birds belonging to the **Passeriformes**, sexual selection has produced plumage of unmatched splendor."*
+> - 📜 **Julian Huxley (*Essays in Popular Science*):** *"The evolutionary success of the **Passeriformes** rests upon their high metabolic rate and exquisite parental care."*

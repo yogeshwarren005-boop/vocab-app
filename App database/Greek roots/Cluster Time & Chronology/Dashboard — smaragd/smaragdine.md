@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of emerald.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of emerald.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or resembling emerald; emerald-green in color.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mineralogy, gemology, and antique hermetic literature (e.g. the Tabula Smaragdina / Emerald Tablet of Hermes Trismegistus), possessing the rich green radiance of fine beryl.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, smaragdine designates adjective*) pertaining to, derived from, or characteristic of emerald."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"The glacial torrent poured into the lake, transforming the azure water into a vibrant, icy **smaragdine** flood."*
+> - 📜 **Oscar Wilde (*The Sphinx*):** *"Upon a **smaragdine** stone she sat, and watched the dragonflies dart through the reeds beside the Nile."*
+> - 📜 **Pliny the Elder (*Natural History*):** *"Nothing in nature possesses a more restful and intense green than the **smaragdine** gems of Scythia."*

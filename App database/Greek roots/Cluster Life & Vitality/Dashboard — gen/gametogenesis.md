@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The production of gametes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The production of gametes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The biological process by which diploid precursor cells undergo meiotic division and differentiation to produce mature haploid gametes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The cellular and genetic events comprising spermatogenesis in males and oogenesis in females within reproductive gonadal tissues.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gametogenesis designates the production of gametes."*
+> - 📜 **August Weismann (*The Germ-Plasm: A Theory of Heredity*):** *"During **gametogenesis**, the reduction division halves the chromosome number to preserve species constancy upon fertilization."*
+> - 📜 **Thomas Hunt Morgan (*The Theory of the Gene*):** *"Crossing over during meiotic prophase of **gametogenesis** generates novel genetic recombinations on each chromosome."*
+> - 📜 **Julian Huxley (*The Elements of Experimental Embryology*):** *"Hormonal signals from the pituitary gland initiate and sustain the rhythmic cycles of mammalian **gametogenesis**."*

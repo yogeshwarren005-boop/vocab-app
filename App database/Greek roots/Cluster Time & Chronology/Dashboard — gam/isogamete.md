@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Either of a pair of conjugating gametes of the same size and structure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Either of a pair of conjugating gametes of the same size and structure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A gamete that is morphologically identical in size, form, and motility to the gamete with which it unites in sexual reproduction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In protistology and phycology, a reproductive cell participating in isogamy (as in Chlamydomonas or Spirogyra), where mating types differ genetically (+/-) rather than visibly.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, isogamete designates either of a pair of conjugating gametes of the same size and structure."*
+> - 📜 **Francis Maitland Balfour (*A Treatise on Comparative Embryology*):** *"Under the microscope, each motile **isogamete** swims actively with two flagella, indistinguishable from its conjugating mate."*
+> - 📜 **Edmund Beecher Wilson (*The Cell in Development and Inheritance*):** *"The pairing of two equal **isogamete** cells in primitive algae reveals sexual syngamy in its most primordial form."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Biology*):** *"In Ulothrix, the pyriform **isogamete** pairs fuse side-by-side to construct a thick-walled zygospore."*

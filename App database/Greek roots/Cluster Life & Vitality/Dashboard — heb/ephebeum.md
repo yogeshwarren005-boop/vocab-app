@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek heb.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Life & Vitality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large hall or apartment in an ancient Greek or Roman gymnasium where young men (ephebes) exercised or received instruction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An architectural component of the palaestra dedicated to the physical, philosophical, and military education of adolescent citizens.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ephebeum designates a term designating an entity, condition, or phenomenon derived from greek heb."*
+> - 📜 **Vitruvius (*De Architectura*):** *"The **ephebeum** should be placed in the peristyle of the palaestra, furnished with stone benches for the youths."*
+> - 📜 **Pausanias (*Description of Greece*):** *"In the gymnasium at Elis, statues of victorious athletes adorned the entrance to the spacious **ephebeum**."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"Excavations in the Roman baths revealed a magnificent vaulted **ephebeum** paved with intricate marble mosaics."*

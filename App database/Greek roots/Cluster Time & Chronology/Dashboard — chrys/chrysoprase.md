@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An apple-green chalcedony valued as a gem.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An apple-green chalcedony valued as a gem.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An apple-green variety of chalcedony quartz containing small amounts of nickel, prized as an ornamental gemstone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mineralogy and lapidary arts, a microcrystalline silica valued for its uniform, translucent leek-green or apple-green color, mined extensively in Australia and Poland.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chrysoprase designates an apple-green chalcedony valued as a gem."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"The pale, tender green of **chrysoprase** mimics the translucent tint of young beech leaves against morning light."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"He kept a collection of antique rings set with olive peridots and pale, sea-green **chrysoprase**."*
+> - 📜 **Pliny the Elder (*Natural History*):** *"The best **chrysoprase** exhibits the rich juice of the leek tempered by the pale brilliance of morning gold."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An expert in the science of cultivating plants (fruit or flowers or vegetables or ornamental plants).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An expert in the science of cultivating plants (fruit or flowers or vegetables or ornamental plants).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An enthusiastic and knowledgeable gardener, botanist, or nurseryman who specializes in growing and cultivating plants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An expert horticulturist renowned for recognizing, collecting, and breeding rare botanical specimens.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plantsman designates an expert in the science of cultivating plants (fruit or flowers or vegetables or ornamental plants)."*
+> - 📜 **Gertrude Jekyll (*Colour in the Flower Garden*):** *"The true **plantsman** studies the natural habit of each perennial to create harmonious floral borders."*
+> - 📜 **Reginald Farrer (*The English Rock Garden*):** *"A dedicated **plantsman** will brave Himalayan cliffs to bring home seeds of a forgotten alpine gentian."*
+> - 📜 **E. H. Wilson (*A Naturalist in Western China*):** *"As a professional **plantsman**, he introduced thousands of Chinese flowering shrubs into Western horticulture."*

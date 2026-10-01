@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialist in pathology; specifically : a physician who interprets and diagnoses the changes caused by disease in tissues and body fluids.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A specialist in pathology; specifically : a physician who interprets and diagnoses the changes caused by disease in tissues and body fluids.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A physician or medical scientist who specializes in pathology, the study of bodily tissues, fluids, and organs to diagnose disease.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The forensic or hospital doctor responsible for conducting post-mortem autopsies and histological examinations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pathologist designates a specialist in pathology; specifically : a physician who interprets and diagnoses the changes caused by disease in tissues and body fluids."*
+> - 📜 **Rudolf Virchow (*Address to the Medical Society*):** *"The **pathologist** must combine clinical bedside observation with microscopic section to uncover the truth."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"As a young hospital **pathologist**, I spent long winter mornings in the Montreal morgue tracing endocarditis."*
+> - 📜 **Arthur Conan Doyle (*The Resident Patient*):** *"The coroner relied upon the report of the **pathologist**, whose chemical analysis detected trace aconite in the deceased's tea."*

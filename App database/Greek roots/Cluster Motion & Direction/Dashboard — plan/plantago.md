@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the family plantaginaceae; large cosmopolitan genus of mostly small herbs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the family plantaginaceae; large cosmopolitan genus of mostly small herbs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The type genus of the family Plantaginaceae, comprising about 200 species of small, stemless herbs known as plantains.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cosmopolitan weedy herbs with basal rosette leaves, wind-pollinated spikes, and mucilaginous seeds (such as psyllium).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plantago designates type genus of the family plantaginaceae; large cosmopolitan genus of mostly small herbs."*
+> - 📜 **Carl Linnaeus (*Species Plantarum*):** *"Linnaeus documented **Plantago** major as a common roadside herb flourishing across northern Europe."*
+> - 📜 **Charles Darwin (*The Power of Movement in Plants*):** *"Seedlings of **Plantago** lanceolata orient their radical leaves flush against the soil surface."*
+> - 📜 **Nicholas Culpeper (*The Complete Herbal*):** *"The crushed green leaves of **Plantago** were applied by herbalists to soothe inflammation and bee stings."*

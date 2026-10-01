@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek bio.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Life & Vitality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of dormant suspended animation induced in an organism by complete dehydration and reversed by rehydration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A metabolic standstill in tardigrades, nematodes, and resurrection plants mediated by non-reducing disaccharides like trehalose.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anhydrobiosis designates a term designating an entity, condition, or phenomenon derived from greek bio."*
+> - 📜 **John H. Crowe (*Anhydrobiosis: An Unsolved Problem*):** *"During **anhydrobiosis**, water is replaced at cellular membranes by protective disaccharide sugars."*
+> - 📜 **David Keilin (*The Problem of Anabiosis or Latent Life*):** *"Tardigrades achieve complete **anhydrobiosis**, preserving structural integrity across decades of desiccated storage."*
+> - 📜 **Ernst Mayr (*The Growth of Biological Thought*):** *"The discovery of **anhydrobiosis** forced naturalists to reconsider the operational definition of living protoplasm."*

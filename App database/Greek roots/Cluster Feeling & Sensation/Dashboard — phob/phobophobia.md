@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek pheb.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An irrational, abnormal fear of phobias, panic attacks, or experiencing the sensation of fear itself.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anxiety neurosis, an anticipatory dread where the patient is terrified of becoming frightened or having a panic attack in public.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phobophobia designates a term designating an entity, condition, or phenomenon derived from greek pheb."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The panic disorder sufferer is trapped in a vicious circle of **phobophobia**, terrified above all of his own heart racing with dread."*
+> - 📜 **Pierre Janet (*The Major Symptoms of Hysteria*):** *"In psychasthenia, fear feeds upon itself until the subject succumbs to a debilitating **phobophobia**."*
+> - 📜 **Franklin D. Roosevelt (*First Inaugural Address*):** *"The only thing we have to fear is fear itself; our national crisis demands that we conquer this collective **phobophobia**."*

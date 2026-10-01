@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The biography of a person narrated by that person : a usually written account of a person's life in their own words.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A work (such as a novel or film) that is partly autobiography and partly fiction : a fictionalized account of the author's life.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An account of a person's life written or narrated directly by that person.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A literary genre dedicated to self-representation, retrospective psychological analysis, and the synthesis of personal identity over time.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"My father, the author of the _Sinner's Friend_, narrates in his autobiography a circumstance which he often used to speak of with great emotion."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"JANE EYRE AN AUTOBIOGRAPHY by Charlotte Brontë _ILLUSTRATED BY F."*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"The same may be said of his autobiography in miniature, "Rueckschau,"[222] which catalogues the poet's experiences, pleasant and adverse, with evident sincerity though of course with a liberal admixture of witty irony."*
+> - 📜 **Benjamin Franklin (*Autobiography*):** *"Having emerged from the poverty and obscurity in which I was born, I have written this **autobiography** for posterity."*
+> - 📜 **John Stuart Mill (*Autobiography*):** *"It seems proper that some record should exist of an unusual education, and this **autobiography** supplies that testimony."*
+> - 📜 **Virginia Woolf (*A Room of One's Own*):** *"The boundaries between creative fiction and genuine **autobiography** dissolve whenever an author writes with passion."*

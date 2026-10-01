@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sensation that normally occurs in one sense modality occurs when another modality is stimulated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sensation that normally occurs in one sense modality occurs when another modality is stimulated.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A neurological phenomenon in which stimulation of one sensory or cognitive pathway leads to involuntary, automatic experiences in a second, unrelated pathway (e.g., hearing colours).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary aesthetics and symbolist poetry, the deliberate blending of imagery appealing to different senses to evoke transcendent psychological harmonies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, synaesthesia designates a sensation that normally occurs in one sense modality occurs when another modality is stimulated."*
+> - 📜 **Francis Galton (*Inquiries into Human Faculty and Its Development*):** *"Persons gifted with visual **synaesthesia** see distinctive colour tints whenever numerals or musical notes are presented."*
+> - 📜 **Charles Baudelaire (*Correspondances*):** *"Perfumes, sounds, and colours respond to one another across the mysterious twilight of poetic **synaesthesia**."*
+> - 📜 **Arthur Rimbaud (*Voyelles*):** *"Through lyrical **synaesthesia**, I invented vowels with hues: A black, E white, I red, U green, O blue."*

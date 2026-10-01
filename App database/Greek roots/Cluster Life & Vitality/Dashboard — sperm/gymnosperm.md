@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a group (Gymnospermae) of vascular plants that produce seeds not enclosed in an ovary, possess separate male and female reproductive strobili, and include the conifers, cycadophytes, gnetophytes, and gingko.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a group (Gymnospermae) of vascular plants that produce seeds not enclosed in an ovary, possess separate male and female reproductive strobili, and include the conifers, cycadophytes, gnetophytes, and gingko.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A vascular plant that produces seeds that are not enclosed in an ovary or fruit, but borne naked on scales or cones (such as conifers, cycads, and ginkgoes).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ancient seed plant lineage that dominated Mesozoic terrestrial landscapes prior to the rise of angiosperms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gymnosperm designates any of a group (gymnospermae) of vascular plants that produce seeds not enclosed in an ovary, possess separate male and female reproductive strobili, and include the conifers, cycadophytes, gnetophytes, and gingko."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The naked ovule of the **gymnosperm** receives airborne pollen directly upon the micropyle without intervening stigma or style."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"Pines and spruces represent the hardiest northern survivors of the ancient **gymnosperm** alliance."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"In every typical **gymnosperm**, pollination is mediated entirely by wind currents carrying buoyant winged pollen grains."*

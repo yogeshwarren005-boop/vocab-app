@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or involving glycogen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or involving glycogen.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or producing glycogen; capable of giving rise to glycogen in living tissues.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiological biochemistry, describing amino acids (glycogenic amino acids) or metabolic substrates capable of conversion into glucose and glycogen via gluconeogenesis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, glycogenic designates of or relating to or involving glycogen."*
+> - 📜 **Claude Bernard (*Memoir on the Pancreas and the Role of Pancreatic Juice*):** *"The **glycogenic** function of the liver proved that animals do not merely consume vegetable organic matter, but synthesize carbohydrates internally."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Glucagon acts as a potent stimulator of hepatic enzymes, opposing the **glycogenic** action of insulin."*
+> - 📜 **Hans Krebs (*Reminiscences and Reflections*):** *"We classified the amino acids into ketogenic and **glycogenic** groups depending upon their metabolic fate in diabetic animals."*

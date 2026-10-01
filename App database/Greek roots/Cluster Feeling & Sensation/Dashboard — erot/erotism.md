@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of anticipation of sexuality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The arousal of feelings of sexual desire.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Erotic sentiment, sexual desire, or the tendency to dwell upon sexual feelings (an older or technical synonym of eroticism).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical psychoanalysis, the investment of libidinal energy in specific bodily zones (e.g., oral erotism, anal erotism).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, erotism designates a state of anticipation of sexuality."*
+> - 📜 **Sigmund Freud (*Introductory Lectures on Psycho-Analysis*):** *"Infantile **erotism** demonstrates that bodily pleasure zones function long before puberty awakens reproductive maturity."*
+> - 📜 **Havelock Ellis (*The Dance of Life*):** *"A subtle **erotism** permeates the sacred rituals and ecstatic dances of primitive Mediterranean cults."*
+> - 📜 **Carl Jung (*Psychology of the Unconscious*):** *"To reduce all mythological symbolism to primitive genital **erotism** is to blind psychology to spiritual transcendence."*

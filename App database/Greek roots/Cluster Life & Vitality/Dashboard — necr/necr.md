@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Those that are dead.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One that is dead.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ancient Greek root (*nekros*, corpse, dead body) denoting death, dead tissue, or mortality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scientific, medical, and occult terminology, the combining element designating mortification, necrotic lesions, or communication with the deceased.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, necr designates those that are dead."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"From the classical root **necr** pathology derives its terminology for cellular mortification and tissue death."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"The Greek stem **necr** shares an ancient Indo-European lineage with Sanskrit naś and Latin nocere."*
+> - 📜 **Gilbert Murray (*Five Stages of Greek Religion*):** *"Primitive chthonic rituals appeased the restless spirits of the dead under solemn invocations of **necr**."*

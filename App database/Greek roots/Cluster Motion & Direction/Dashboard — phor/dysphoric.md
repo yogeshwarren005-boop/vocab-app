@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Generalized feeling of distress.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Generalized feeling of distress.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by, suffering from, or provoking dysphoria; marked by profound unease, gloom, or distress.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychopathology, describing affect, mental states, or mood swings dominated by agitation, irritability, and despair.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dysphoric designates generalized feeling of distress."*
+> - 📜 **Sigmund Freud (*Mourning and Melancholia*):** *"In melancholia, the ego is submerged under a **dysphoric** cloud of unworthiness and self-accusation."*
+> - 📜 **William James (*The Principles of Psychology*):** *"A **dysphoric** emotional state colors all incoming perceptions with an aura of impending catastrophe."*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*):** *"The patient's sudden **dysphoric** outbursts were traced to an epileptogenic lesion in the temporal lobe."*

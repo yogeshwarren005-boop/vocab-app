@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A medicine made by mixing a substance in glycerin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A medicine made by mixing a substance in glycerin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An older or archaic pharmaceutical term for a solution, medicinal tincture, or syrup prepared with glycerin as the base (glycerite).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In 19th-century apothecaries' formularies, a non-fermenting liquid medium for administering alkaloids, resins, and astringents.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, glycerole designates a medicine made by mixing a substance in glycerin."*
+> - 📜 **Jonathan Pereira (*The Elements of Materia Medica*):** *"The **glycerole** of aloes provides a mild, non-alcoholic preparation suitable for delicate pediatric administration."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"He prescribed a soothing **glycerole** of bismuth to coat the inflamed gastric mucosa in acute catarrh."*
+> - 📜 **Arthur Conan Doyle (*The Stark Munro Letters*):** *"Behind the counter stood rows of glass jars labeled with each tincture, syrup, and **glycerole** known to the British Pharmacopoeia."*

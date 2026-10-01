@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek cac.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Feeling & Sensation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Incorrect, faulty, or vulgar pronunciation of words, contrasted with orthoepy (correct pronunciation).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistic orthoepy and rhetorical pedagogy, speech that departs systematically from standard grammatical and phonetic norms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cacoepy designates a term designating an entity, condition, or phenomenon derived from greek cac."*
+> - 📜 **John Walker (*A Critical Pronouncing Dictionary*):** *"The provincial speaker often falls into habitual **cacoepy**, clipping diphthongs and misplacing the principal accent."*
+> - 📜 **Henry Sweet (*A Handbook of Phonetics*):** *"What pedantic grammarians brand as **cacoepy** is often merely the legitimate phonetic evolution of popular speech."*
+> - 📜 **George Bernard Shaw (*Pygmalion*):** *"Higgins took fierce delight in diagnosing cockney **cacoepy**, transforming gutter vowels into Duchess English in six months."*

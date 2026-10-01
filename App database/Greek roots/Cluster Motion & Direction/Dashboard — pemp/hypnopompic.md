@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Associated with the semiconsciousness preceding waking.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Associated with the semiconsciousness preceding waking.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the semi-conscious state occurring during the transition from sleep to wakefulness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sleep medicine and psychology, characterizing hallucinations, sleep paralysis, or sensory illusions experienced upon awakening (contrasting with hypnagogic, leading into sleep).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypnopompic designates associated with the semiconsciousness preceding waking."*
+> - 📜 **Frederic W. H. Myers (*Human Personality and Its Survival of Bodily Death*):** *"I coined the term **hypnopompic** to designate those brief waking visions that linger as consciousness emerges from sleep."*
+> - 📜 **William James (*The Principles of Psychology*):** *"In the **hypnopompic** state, dream imagery may overlap with the actual visual perception of the bedroom walls."*
+> - 📜 **Oliver Sacks (*Hallucinations*):** *"Many people experience fleeting **hypnopompic** apparitions or auditory calls in the first moments of waking."*

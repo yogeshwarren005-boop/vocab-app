@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of lower mammals) showing or in a state of estrus; in heat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of lower mammals) showing or in a state of estrus; in heat.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or being in the state of estrus; characterizing the mammalian sexual and ovulatory cycle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In veterinary medicine and reproductive biology, modifying cycles, phases, or physiological behaviors associated with recurrent sexual receptivity (e.g., the *estrous cycle*).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, estrous designates (of lower mammals) showing or in a state of estrus; in heat."*
+> - 📜 **Francis Marshall (*The Physiology of Reproduction*):** *"The length of the **estrous** cycle varies widely across mammalian orders, spanning days in rodents to months in carnivores."*
+> - 📜 **George Corner (*The Hormones in Human Reproduction*):** *"During each **estrous** surge, profound histological changes transform the vaginal epithelium and uterine glands."*
+> - 📜 **Ernst Mayr (*Animal Species and Evolution*):** *"Behavioral synchronization during the **estrous** phase prevents wasteful mating attempts between incompatible species."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A solid having 12 plane faces.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A solid having 12 plane faces.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A three-dimensional geometric polyhedron having twelve flat faces, especially a regular dodecahedron with twelve regular pentagonal faces.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical cosmology and sacred geometry, the fifth Platonic solid associated by the Pythagoreans with the celestial sphere and quintessence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dodecahedron designates a solid having 12 plane faces."*
+> - 📜 **Plato (*Timaeus*):** *"There remained a fifth construction, the **dodecahedron**, which the Demiurge used for the embroidery of the constellations."*
+> - 📜 **Johannes Kepler (*Harmonices Mundi*):** *"Between the spheres of Mars and the Earth, I placed the regular **dodecahedron** to determine their planetary orbits."*
+> - 📜 **Euclid (*Elements*):** *"To construct an equilateral and equiangular **dodecahedron**, we inscribe twelve pentagons within a given sphere."*

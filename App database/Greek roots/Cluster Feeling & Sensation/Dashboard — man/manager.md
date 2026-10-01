@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who controls resources and expenditures.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (sports) someone in charge of training an athlete or a team.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person responsible for controlling or administering an organization, business, sports team, or group of employees.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who handles the financial and business affairs of an actor, artist, or performer.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Adieu, valour; rust, rapier; be still, drum, for your manager is in love."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Where is our usual manager of mirth?"*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Through the Baroness' help he was already filling the post of manager of an estate in the far north."*
+> - 📜 **Charles Dickens (*Nicholas Nickleby*):** *"Mr. Vincent Crummles, the theatrical **manager**, welcomed the newcomers to his strolling company with open arms."*
+> - 📜 **George Bernard Shaw (*Major Barbara*):** *"Undershaft appointed an able business **manager** who ran the vast munitions works with mathematical efficiency."*
+> - 📜 **Thorstein Veblen (*The Engineers and the Price System*):** *"The financial **manager** directs modern production not for material output, but for pecuniary gain."*

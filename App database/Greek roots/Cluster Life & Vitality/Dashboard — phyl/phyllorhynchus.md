@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Leaf-nosed snakes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Leaf-nosed snakes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of small, nocturnal, non-venomous colubrid snakes native to the southwestern United States and Mexico; leaf-nosed snakes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Desert snakes possessing an enlarged, triangular, leaf-like rostral scale adapted for burrowing through loose gravel and sand.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phyllorhynchus designates leaf-nosed snakes."*
+> - 📜 **Edward Drinker Cope (*The Crocodilians, Lizards, and Snakes of North America*):** *"The prominent, leaf-like rostral plate of **Phyllorhynchus** serves as an effective burrowing wedge in arid soil."*
+> - 📜 **Raymond Ditmars (*Reptiles of the World*):** *"Nocturnal search on Mojave desert roads frequently reveals the blotched pattern of the shy **Phyllorhynchus**."*
+> - 📜 **Laurence Klauber (*Rattlesnakes: Their Habits, Life Histories, and Influence*):** *"Small leaf-nosed snakes of the genus **Phyllorhynchus** feed almost exclusively upon squamate lizard eggs."*

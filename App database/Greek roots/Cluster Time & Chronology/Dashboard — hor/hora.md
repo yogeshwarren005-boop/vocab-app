@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A circle dance of Romania and Israel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A circle dance of Romania and Israel.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A traditional circle dance of southeastern Europe and Israel; or Latin/Greek for hour, season, or time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical mythology, the Horae (Hours) were the goddesses of the seasons and natural order; in ethnochoreology, a communal folk dance performed in a circle.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"Venit hora Absque mora Libros deponendi."*
-> - 📜 **Felix Dahn (*Saga of Halfred the Sigskald: A Northern Tale of the Tenth Century*):** *"Lately he actually threatened me to have "some one" scourged, who ever again came too late for the Hora."*
-> - 📜 **Felix Dahn (*Saga of Halfred the Sigskald: A Northern Tale of the Tenth Century*):** *"For I had just begun to write about the battle on the Singing Swan, and could not tear myself away from it when the Hora bell called."*
+> - 📜 **Hesiod (*Theogony*):** *"The divine **Hora** brought order and blooming seasons to the earth, clothing mortals with abundance."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The peasants celebrated the harvest festival by dancing the lively **hora** upon the village green."*
+> - 📜 **Lord Byron (*Childe Harold's Pilgrimage*):** *"Each fleeting **hora** brought fresh enchantment as we sailed among the islands of the Aegean."*

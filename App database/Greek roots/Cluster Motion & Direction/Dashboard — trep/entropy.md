@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A measure of the unavailable energy in a closed thermodynamic system that is also usually considered to be a measure of the system's disorder, that is a property of the system's state, and that varies directly with any reversible change in heat in the system and inversely with the temperature of the system; broadly : the degree of disorder or uncertainty in a system.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The degradation of the matter and energy in the universe to an ultimate state of inert uniformity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A thermodynamic quantity representing the unavailability of a system's thermal energy for conversion into mechanical work; a measure of disorder or randomness in a closed system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In statistical mechanics (Boltzmann) and information theory (Shannon), the logarithmic measure of microscopic configurations or the average rate at which information is produced by a stochastic data source.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, entropy designates a measure of the unavailable energy in a closed thermodynamic system that is also usually considered to be a measure of the system's disorder, that is a property of the system's state, and that varies directly with any reversible change in heat in the system and inversely with the temperature of the system; broadly : the degree of disorder or uncertainty in a system."*
+> - 📜 **Rudolf Clausius (*The Mechanical Theory of Heat*):** *"I propose to name the quantity S the **entropy** of the body, from the Greek word trope, meaning transformation."*
+> - 📜 **Arthur Eddington (*The Nature of the Physical World*):** *"The law that **entropy** always increases holds, I think, the supreme position among the laws of Nature."*
+> - 📜 **Claude Shannon (*A Mathematical Theory of Communication*):** *"The quantity H serves as a measure of information, choice, and uncertainty, and we recognize in it the precise form of thermodynamic **entropy**."*

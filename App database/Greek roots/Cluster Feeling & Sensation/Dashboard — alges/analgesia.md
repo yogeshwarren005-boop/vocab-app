@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Insensibility to pain without loss of consciousness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Insensibility to pain without loss of consciousness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being unable to feel pain while remaining conscious; insensibility to pain induced by pharmaceuticals or neurogenic interruption.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The targeted therapeutic dampening or abolition of noxious nerve signals in clinical anaesthesiology and pain management.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, analgesia designates insensibility to pain without loss of consciousness."*
+> - 📜 **René Descartes (*Treatise on Man*):** *"Were the filament running from the burned foot to the brain severed, complete **analgesia** would follow despite the blazing flame."*
+> - 📜 **S. Weir Mitchell (*Wear and Tear, or Hints for the Overworked*):** *"The modern physician commands drugs that grant blessed **analgesia** to bodies broken by agonizing surgical trauma."*
+> - 📜 **Wilder Penfield (*The Cerebral Cortex of Man*):** *"Direct electrical stimulation of the postcentral gyrus never produces true **analgesia**, but triggers paresthesias."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek presby.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Time & Chronology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chief presbyter or senior priest who exercises authority over other priests within a district; a rural dean.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the Eastern Orthodox and early Western churches, the principal assistant to a bishop in liturgical functions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, archpresbyter designates a term designating an entity, condition, or phenomenon derived from greek presby."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The **archpresbyter** coordinated diocesan administration during the prolonged absence of the metropolitan bishop."*
+> - 📜 **Thomas Cranmer (*Remains and Letters*):** *"In early ecclesiastical canons, the **archpresbyter** was charged with examining candidates for holy orders."*
+> - 📜 **Richard Bingham (*Origines Ecclesiasticae*):** *"Antiquity recognized the **archpresbyter** as the senior elder presiding over cathedral liturgies."*

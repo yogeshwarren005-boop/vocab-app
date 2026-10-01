@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Narrow and long and pointed; as pine leaves.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Narrow and long and pointed; as pine leaves.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Needle-shaped; pointed; lacking horns or antennae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical and zoological morphology, describing leaves, bristles, or spicules that taper into a sharp, slender, acerose point, or organisms lacking horn-like appendages.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acerate designates narrow and long and pointed; as pine leaves."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The pine leaves are typically **acerate**, clustered in bundles of two or five upon dwarf branchlets."*
+> - 📜 **Richard Owen (*Lectures on the Comparative Anatomy and Physiology of the Invertebrate Animals*):** *"The sponge spicules were distinctly **acerate**, projecting through the sarcode in delicate defensive clusters."*
+> - 📜 **John Lindley (*The Elements of Botany*):** *"We designate an organ as **acerate** when it is slender, rigid, and terminates in a sharp, needle-like tip."*

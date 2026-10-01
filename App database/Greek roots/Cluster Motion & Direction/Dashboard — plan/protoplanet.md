@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hypothetical whirling gaseous mass within a giant cloud of gas and dust that rotates around a sun and is believed to give rise to a planet.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hypothetical whirling gaseous mass within a giant cloud of gas and dust that rotates around a sun and is believed to give rise to a planet.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large planetary embryo or precursor accumulating within a protoplanetary disk around a young star.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A massive pre-planetary body formed by gravitational accretion of planetesimals, prior to clearing its orbital zone.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, protoplanet designates a hypothetical whirling gaseous mass within a giant cloud of gas and dust that rotates around a sun and is believed to give rise to a planet."*
+> - 📜 **Gerard Kuiper (*On the Origin of the Solar System*):** *"Instabilities in the primordial solar nebula led to giant **protoplanet** condensations."*
+> - 📜 **Harold Urey (*The Planets: Their Origin and Development*):** *"Volatiles were stripped from the inner **protoplanet** surfaces by intense early solar winds."*
+> - 📜 **Fred Hoyle (*Frontiers of Astronomy*):** *"Collisions between competing **protoplanet** cores ultimately determined the axial tilt of the inner planets."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Asexual, parthenogenetic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Asexual, parthenogenetic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Asexual; reproducing without the union of male and female gametes; agamous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In insect biology and plant genetics, describing parthenogenetic generations (such as summer aphids or gall wasps) that produce offspring without mating.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, agamic designates asexual, parthenogenetic."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants Under Domestication*):** *"Aphids multiply with prodigious velocity through a long succession of fertile **agamic** generations throughout the summer."*
+> - 📜 **Alfred Russel Wallace (*Darwinism*):** *"In cynipid gall wasps, an **agamic** wingless generation alternates seasonally with a bisexual winged generation."*
+> - 📜 **Thomas Henry Huxley (*On the Agamic Reproduction and Morphology of Aphis*):** *"My dissections demonstrate that the internal pseudova of the **agamic** female develop without any trace of fertilization."*

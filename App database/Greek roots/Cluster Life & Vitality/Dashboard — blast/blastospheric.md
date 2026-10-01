@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a blastula.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a blastula.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or resembling a blastosphere; blastular.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to the hollow spherical stage of embryonic cleavage preceding germ layer formation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, blastospheric designates of or relating to a blastula."*
+> - 📜 **Ernst Haeckel (*The Evolution of Man*):** *"The **blastospheric** stage recapitulates an ancestral colonial protozoan ancestor resembling modern Volvox."*
+> - 📜 **Francis Balfour (*A Treatise on Comparative Embryology*):** *"Even thickness of the **blastospheric** wall is soon disrupted by vegetal pole cell enlargement."*
+> - 📜 **Alexander Kowalevsky (*Developmental Studies on Ascidians*):** *"A single layer of columnar blastomeres forms the complete **blastospheric** boundary in simple tunicates."*

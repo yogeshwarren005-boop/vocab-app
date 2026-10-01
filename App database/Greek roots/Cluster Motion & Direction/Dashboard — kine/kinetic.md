@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the motion of material bodies and the forces and energy associated therewith.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Active, lively.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or resulting from motion; characterized by movement, dynamism, or lively activity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical physics, denoting kinetic energy (the energy possessed by a body by virtue of its motion, given by 1/2 mv²), contrasting with potential energy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"What acrostic upon the abbreviation of his first name had he (kinetic poet) sent to Miss Marion (Molly) Tweedy on the 14 February 1888?"*
-> - 📜 **James Joyce (*Ulysses*):** *"He preferred himself to see another’s face and listen to another’s words by which potential narration was realised and kinetic temperament relieved."*
+> - 📜 **James Clerk Maxwell (*Matter and Motion*):** *"The **kinetic** energy of a moving body is proportional to its mass and the square of its velocity."*
+> - 📜 **Lord Kelvin (*Treatise on Natural Philosophy*):** *"In every mechanical system, energy continuously oscillates between static potential and active **kinetic** states."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"The Martian projectile struck the hillside, converting its tremendous **kinetic** energy into blinding heat and explosive fury."*

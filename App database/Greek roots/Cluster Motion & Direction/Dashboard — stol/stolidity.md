@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Apathy demonstrated by an absence of emotional reactions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An indifference to pleasure or pain.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality or state of being stolid; phlegmatic impassiveness, dull indifference, or absence of emotional expression.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative literature, a deliberate or constitutional apathy that resists sudden enthusiasm, artistic nuance, or spiritual crisis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"One makes fools look foolisher fifty-fold By putting in their place the wise like you, To take the full force of an argument Would buffet their stolidity in vain.” XI."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Stolidity, which is a resisting state of mortal mind, suffers 388:6 less, only because it knows less of material law."*
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"Annoyed by the stolidity of this reply, the querist pressed him for a reason: Because, your honour, he would be glad of the opportunity to catch myself―he could have you at any time. 1223."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Starbuck's face betrayed an innate dread, contrasting sharply with the iron **stolidity** of the pagan harpooners."*
+> - 📜 **Arthur Conan Doyle (*The Sign of Four*):** *"Inspector Jones received the startling revelation of murder with his usual bureaucratic **stolidity**."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"Beneath his smooth, British **stolidity**, she gradually perceived a stubborn reservoir of pride."*

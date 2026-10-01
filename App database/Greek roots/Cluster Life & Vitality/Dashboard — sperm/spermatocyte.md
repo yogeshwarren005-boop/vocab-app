@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A cell giving rise to sperm cells; especially : a cell that is derived by mitosis from a spermatogonium and ultimately gives rise by meiosis to four haploid spermatids.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cell giving rise to sperm cells; especially : a cell that is derived by mitosis from a spermatogonium and ultimately gives rise by meiosis to four haploid spermatids.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A male germ cell derived from a spermatogonium that undergoes meiosis to produce spermatids.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A primary spermatocyte (diploid, undergoing meiosis I) or secondary spermatocyte (haploid, undergoing meiosis II) in the testis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spermatocyte designates a cell giving rise to sperm cells; especially : a cell that is derived by mitosis from a spermatogonium and ultimately gives rise by meiosis to four haploid spermatids."*
+> - 📜 **Thomas Hunt Morgan (*The Theory of the Gene*):** *"Synapsis and crossing over occur during the prolonged prophase of the primary **spermatocyte**."*
+> - 📜 **August Weismann (*The Germ-Plasm: A Theory of Heredity*):** *"The reduction division within the **spermatocyte** ensures that the gametes inherit an exact half of the parental germ-plasm."*
+> - 📜 **Karl Ernst von Baer (*Entwickelungsgeschichte der Thiere*):** *"Concentric rings of dividing **spermatocytes** line the seminiferous tubules toward the central lumen."*

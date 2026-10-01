@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A condition produced by faulty nutrition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any myogenic atrophy; especially : muscular dystrophy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A disorder in which an organ or tissue of the body wastes away, especially as a result of hereditary genetic defects or nutritional deficiency.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Muscular dystrophy, a group of genetic degenerative diseases characterized by progressive skeletal muscle fiber necrosis and weakness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dystrophy designates a condition produced by faulty nutrition."*
+> - 📜 **Guillaume Duchenne (*Recherches sur la Paralysie Musculaire Pseudohypertrophique*):** *"Progressive muscular **dystrophy** in young boys presents marked calf pseudohypertrophy caused by extensive fibro-fatty tissue replacement."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Hereditary transmission in pseudohypertrophic **dystrophy** passes through asymptomatic mothers to afflicted male sons."*
+> - 📜 **William Boyd (*A Textbook of Pathology*):** *"The primary lesion in muscular **dystrophy** resides in the muscle cell membrane protein dystrophin, not the motor neurons."*

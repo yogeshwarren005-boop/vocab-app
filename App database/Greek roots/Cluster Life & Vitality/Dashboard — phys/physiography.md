@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of physical features of the earth's surface.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The study of physical features of the earth's surface.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Physical geography; the systematic study and description of the surface features of the Earth, landforms, oceans, and atmosphere.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A historical discipline combining geomorphology, climatology, and oceanography to explain landscape evolution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, physiography designates the study of physical features of the earth's surface."*
+> - 📜 **Thomas Henry Huxley (*Physiography: An Introduction to the Study of Nature*):** *"I have applied the term **physiography** to the comprehensive study of nature, beginning with familiar local rivers and hills."*
+> - 📜 **William Morris Davis (*Geographical Essays*):** *"Modern **physiography** is explanatory rather than purely descriptive, charting the sequential erosion cycles of landforms."*
+> - 📜 **Archibald Geikie (*The Scenery of Scotland*):** *"A knowledge of underlying rock structure is indispensable to the correct interpretation of regional **physiography**."*

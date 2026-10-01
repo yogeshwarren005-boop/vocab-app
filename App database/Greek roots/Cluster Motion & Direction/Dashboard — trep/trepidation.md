@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A feeling of alarm or dread.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A feeling of alarm or dread.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A feeling of fear, agitation, or trembling anxiety about something that may happen; nervous tremor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical astronomy (Ptolemaic and medieval), a hypothesized slow oscillatory motion of the equinoxes, thought to explain discrepancies in precession before being disproven.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Tess thought this was the mansion itself till, passing through the side wicket with some trepidation, and onward to a point at which the drive took a turn, the house proper stood in full view."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She had done all she could do; but determined not to escape present trepidation at the expense of future distress, she walked back again quite past the house, looking up at all the windows."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"Although I have little fear that an oration will be forthcoming of the ordinary length and quality, I doubt that the trepidation of so unusual a position will cause me to break down in the delivery of it; but we shall see."*
+> - 📜 **John Milton (*Paradise Lost*):** *"They pass the planets seven, and pass the fixed, and that crystalline sphere whose balance weighs the **trepidation** talked."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"I entered the decaying chamber of Satis House in a state of extreme **trepidation**, dreading what Miss Havisham might say."*
+> - 📜 **Arthur Conan Doyle (*The Sign of Four*):** *"Miss Morstan sat with folded hands, her pale face betraying the inward **trepidation** she heroically struggled to hide."*

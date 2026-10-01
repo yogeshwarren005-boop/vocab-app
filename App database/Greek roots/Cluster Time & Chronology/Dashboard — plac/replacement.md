@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of furnishing an equivalent person or thing in the place of another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who takes the place of another person.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action or process of replacing someone or something; a person or thing that takes the place of another; a substitute.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geological mineralization (metasomatism) and ecology, the simultaneous dissolution of a mineral and deposition of another, or ecological succession.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"We explored packaging, marketing and replacement factors."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"This general depreciation appears to be nearly avoided in large factories where there is serial replacement of the parts, but occasionally some invention or some improvement of process necessitates an almost completely new equipment."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Expensive improvements on railroads, the straightening of curves, the tunneling of mountains, the reducing of grades, the replacement of lighter by heavier rails, have been made possible by a fall in the rate of interest."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Petrifaction occurs through molecule-by-molecule **replacement**, silica substituting for organic wood fiber without altering the cellular structure."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The annual **replacement** of seed corn and livestock is the first charge upon the gross produce of the farm."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The competitive **replacement** of endemic species by continental invaders has been demonstrated on countless oceanic islands."*

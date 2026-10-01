@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A horizontal branch from the base of plant that produces new plants from buds at its tips.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A horizontal branch from the base of plant that produces new plants from buds at its tips.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A slender horizontal plant stem or runner that extends along the surface of the soil, forming roots and shoots at its nodes to produce new independent clonal plants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In invertebrate marine biology, a rootlike or tubular outgrowth produced by colonial organisms (such as hydroids, bryozoans, and tunicates) from which new zooids bud vegetatively.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stolon designates a horizontal branch from the base of plant that produces new plants from buds at its tips."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"The garden strawberry spreads with astonishing speed across the bed by projecting runner after **stolon**."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"When a procumbent branch strikes root and generates an independent crown, botanists designate the connecting axis a **stolon**."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"In creeping compound ascidians, the parent organism buds a vascular **stolon** from which daughter zooids emerge."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, containing, or consisting of strophes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Using the same music for successive stanzas.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Consisting of or characterized by strophes (stanzas); structured in recurring metrical units of identical or corresponding form.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In musical composition, designating a song (strophic form) in which all verses or stanzas of text are sung to the same recurring music.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, strophic designates relating to, containing, or consisting of strophes."*
+> - 📜 **Donald Francis Tovey (*Essays in Musical Analysis*):** *"Schubert's simplest lieder adhere to a pure **strophic** structure where melody illuminates every verse."*
+> - 📜 **John Addington Symonds (*Studies of the Greek Poets*):** *"The **strophic** architecture of Pindaric poetry was matched step for step by the choreography of the chorus."*
+> - 📜 **Gilbert Murray (*The Rise of the Greek Epic*):** *"The evolution from monotonous narrative chant to balanced **strophic** lyric marks the birth of European drama."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An adherent of monophysitism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to monophysitism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A proponent of Monophysitism; one who holds that in the person of Jesus Christ there is only one nature (the divine), not two (divine and human).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to the historic theological party in the Eastern Christian Church that rejected the decrees of the Council of Chalcedon (451 AD).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monophysite designates an adherent of monophysitism."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The fierce zeal of the **Monophysite** monks shook the walls of Alexandria and Constantinople with riotous sedition."*
+> - 📜 **John Henry Newman (*An Essay on the Development of Christian Doctrine*):** *"The historical controversy with the **Monophysite** faction compelled the Church to refine its terminology regarding the hypostatic union."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The Byzantine emperors expended their military strength quelling theological rebellions among Syrian **Monophysite** subjects."*

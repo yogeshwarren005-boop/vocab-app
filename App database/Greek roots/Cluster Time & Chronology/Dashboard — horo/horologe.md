@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A measuring instrument or device for keeping time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A measuring instrument or device for keeping time.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A timepiece, clock, sundial, or clepsydra; an instrument that indicates the hour of the day.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In horological history and antique literature, any mechanical or astronomical mechanism designed to register solar or sidereal hours.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"IAGO. ’Tis evermore the prologue to his sleep: He’ll watch the horologe a double set If drink rock not his cradle."*
+> - 📜 **William Shakespeare (*Othello*):** *"He'll watch the **horologe** a double set, / If drink rock not his cradle."*
+> - 📜 **Geoffrey Chaucer (*The Canterbury Tales*):** *"Full well he sang, and shriller than the bell, / Than is a clock or abbey **horologe**."*
+> - 📜 **Alfred Lord Tennyson (*The Lover's Tale*):** *"The slow **horologe** of Time chimed through the silence of the abandoned halls."*

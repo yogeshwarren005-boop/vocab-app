@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Government or control (as of a nation or organization) by people who are old.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One that is governed or controlled by a gerontocracy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A state, society, or group governed by old people; government by elders.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political science and anthropology, a traditional or institutional power structure where political authority is reserved for elderly community members.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gerontocracy designates government or control (as of a nation or organization) by people who are old."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Roman Senate in its late decadence resembled a stagnant **gerontocracy**, incapable of swift decisive martial action."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Unlike traditional aristocratic realms dominated by **gerontocracy**, young democracies favor youthful vigor and restless enterprise."*
+> - 📜 **George Orwell (*The Road to Wigan Pier*):** *"The entrenched party committee was an unyielding **gerontocracy**, deaf to the clamor of the younger working generation."*

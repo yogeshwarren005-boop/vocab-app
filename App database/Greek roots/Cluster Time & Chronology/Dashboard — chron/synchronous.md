@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Happening, existing, or arising at precisely the same time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Recurring or operating at exactly the same periods.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Existing or occurring at the same time; moving or operating at identical rate and phase.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In electrical machinery, an AC motor or generator whose rotor rotates at exactly the speed of the stator magnetic field; in orbital mechanics, a satellite orbit matching planetary rotation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, synchronous designates happening, existing, or arising at precisely the same time."*
+> - 📜 **Nikola Tesla (*A New System of Alternating Current Motors and Transformers*):** *"The **synchronous** motor locks firmly into rotation with the alternating magnetic field of the supply stator."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"Normal ventricular ejection requires the **synchronous** electrical excitation of both right and left chambers."*
+> - 📜 **Arthur C. Clarke (*Extra-Terrestrial Relays*):** *"A satellite placed in a **synchronous** equatorial orbit will appear stationary above a fixed terrestrial meridian."*

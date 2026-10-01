@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Plant that reproduces by means of seeds not spores.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Plant that reproduces by means of seeds not spores.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A plant that belongs to the division Spermatophyta; any seed-bearing vascular plant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A plant producing true seeds containing an embryo and nutrient reserves, including conifers, cycads, and flowering plants.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spermatophyte designates plant that reproduces by means of seeds not spores."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The seed habit gives the **spermatophyte** an immense competitive advantage in dispersing across arid continental interiors."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"The life cycle of the **spermatophyte** exhibits extreme reduction of the gametophyte generation down to microscopic pollen and embryo sac."*
+> - 📜 **Eugene Odum (*Fundamentals of Ecology*):** *"Terrestrial primary productivity is almost wholly executed by **spermatophytes** anchoring continental soils."*

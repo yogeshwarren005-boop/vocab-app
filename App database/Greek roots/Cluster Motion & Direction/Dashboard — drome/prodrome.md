@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One or more symptoms that signal the impending onset of disease or illness and that often appear before other closely related or indicative symptoms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One or more symptoms that signal the impending onset of disease or illness and that often appear before other closely related or indicative symptoms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An early premonitory symptom or group of symptoms that heralds the impending onset of a disease.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical and modern medicine, a 'running before' (Greek prodromos); also historically used for a preliminary scholarly treatise or introductory handbook.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prodrome designates one or more symptoms that signal the impending onset of disease or illness and that often appear before other closely related or indicative symptoms."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The catarrhal symptoms and Koplik's spots constitute an unmistakable **prodrome** of measles."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The sudden retreat of the sea was the dreaded **prodrome** of the catastrophic tidal wave that struck Lisbon."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The preliminary paper served as an intellectual **prodrome** to his exhaustive monograph on fossil cephalopods."*

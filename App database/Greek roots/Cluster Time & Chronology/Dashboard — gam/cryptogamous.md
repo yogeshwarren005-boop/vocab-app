@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a cryptogam.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a cryptogam.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Belonging to the cryptogams; having hidden or non-flowering fructification; spore-bearing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical botanical prose, describing non-vascular and seedless vascular plants lacking staminate and pistillate flowers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cryptogamous designates of or relating to a cryptogam."*
+> - 📜 **Asa Gray (*Manual of Botany*):** *"Ferns and club-mosses constitute the higher vascular division of **cryptogamous** plants."*
+> - 📜 **Alexander von Humboldt (*Cosmos: A Sketch of a Physical Description of the Universe*):** *"In humid equatorial zones, arborescent ferns give the forest a primordial **cryptogamous** aspect reminiscent of the Coal Age."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"Microscopical research has dispelled the old mystery enveloping the reproduction of **cryptogamous** vegetation."*

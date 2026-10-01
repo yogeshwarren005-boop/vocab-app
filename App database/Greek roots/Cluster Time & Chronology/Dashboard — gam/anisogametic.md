@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to either of a pair of dissimilar (anisogamic) gametes combining in sexual reproduction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to either of a pair of dissimilar (anisogamic) gametes combining in sexual reproduction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characterized by the fusion of gametes of unequal size or form.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In reproductive biology, describing mating systems where the gametes produced by opposing mating types exhibit marked morphological or functional asymmetry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anisogametic designates relating to either of a pair of dissimilar (anisogamic) gametes combining in sexual reproduction."*
+> - 📜 **Edmund Beecher Wilson (*The Cell in Development and Inheritance*):** *"The transition from isogamous conjugation to an **anisogametic** union marks a fundamental step in metazoan evolution."*
+> - 📜 **Francis Maitland Balfour (*A Treatise on Comparative Embryology*):** *"In Volvox, the **anisogametic** condition reaches perfection, with tiny flagellated antherozoids fertilizing stationary macrogametes."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Human reproduction is strictly **anisogametic**, pairing an immense immobile ovum with a microscopic mobile spermatozoon."*

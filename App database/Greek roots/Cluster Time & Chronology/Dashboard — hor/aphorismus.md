@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek hor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Time & Chronology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rhetorical figure of speech in which the speaker questions whether a word is properly applied or redefines a term aphoristically.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical rhetoric, an emphatic declaration challenging the adequacy of conventional naming, e.g., 'Can this cowardly retreat be called a victory?'
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aphorismus designates a term designating an entity, condition, or phenomenon derived from greek hor."*
+> - 📜 **George Puttenham (*The Arte of English Poesie*):** *"By the figure **aphorismus**, the orator questions the very names of things, asking if such cruelty may truly be termed justice."*
+> - 📜 **Quintilian (*Institutio Oratoria*):** *"The speaker employed **aphorismus** with great vigor, demanding whether the accused's deed was mere recklessness or outright treason."*
+> - 📜 **Alexander Pope (*The Art of Sinking in Poetry*):** *"The satirist delights in the bold **aphorismus**, stripping hollow honorifics from unworthy political intriguers."*

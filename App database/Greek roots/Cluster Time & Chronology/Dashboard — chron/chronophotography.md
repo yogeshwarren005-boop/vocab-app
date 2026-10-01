@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek chron.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Time & Chronology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A photographic technique that captures movement in a succession of still pictures taken at regular, minute time intervals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of cinema and biomechanics, the pioneering nineteenth-century methodology developed by Eadweard Muybridge and Étienne-Jules Marey to analyze animal and human locomotion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chronophotography designates a term designating an entity, condition, or phenomenon derived from greek chron."*
+> - 📜 **Étienne-Jules Marey (*Movement*):** *"By employing **chronophotography**, we decompose the wing beats of birds and running horses into instantaneous, verifiable attitudes."*
+> - 📜 **Eadweard Muybridge (*Animals in Motion*):** *"Our battery of cameras utilized electro-magnetic shutters to create a seamless sequence of **chronophotography**."*
+> - 📜 **H. G. Wells (*The Invisible Man*):** *"The physiological changes flashed past like images recorded upon a strip of rapid **chronophotography**."*

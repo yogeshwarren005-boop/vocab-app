@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of to step.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of to step.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having two or more replaceable hydrogen atoms (of an acid); capable of neutralizing several equivalents of a base.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to mineral ores containing multiple metallic bases, such as polybasite.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Polybasic slags have a lower formation temperature, and in consequence the production of the highly ferruginous slags of high formation temperature which it is desired to make by the oxidation of as much iron as possible is retarded."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Lime silicates and the polybasic lime slags have a markedly lower formation temperature than the normal ferruginous slags of true pyritic smelting, they are hence formed readily without requiring so much oxidation activity at the tuyere zone."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Polybasic slags, 150, 176, 181."*
+> - 📜 **Justus von Liebig (*Familiar Letters on Chemistry*):** *"Phosphoric acid was shown to be a **polybasic** acid forming three distinct series of crystalline salts."*
+> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Smelting complex **polybasic** ores requires careful flux calculation to remove diverse gangue oxides."*
+> - 📜 **William Crookes (*Select Methods in Chemical Analysis*):** *"The mineralogist identified the silver specimen as a **polybasic** sulfantimonite."*

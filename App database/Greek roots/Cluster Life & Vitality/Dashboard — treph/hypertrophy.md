@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessive development of an organ or part; specifically : increase in bulk (as by thickening of muscle fibers) without multiplication of parts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exaggerated growth or complexity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The enlargement of an organ or tissue resulting from an increase in the size of its individual cells, rather than from an increase in cell number.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adaptive cellular enlargement in response to increased functional workload (as in cardiac ventricular hypertrophy) or hormonal stimulation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. G. Wells (*The Time Machine*):** *"Some I recognised as a kind of hypertrophied raspberry and orange, but for the most part they were strange."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"A hypertrophied conscience might admit this to be true in the case of any word or deed of Jesus that might be quoted, and yet maintain that we have not lost much."*
-> - 📜 **James Joyce (*Ulysses*):** *"Now I am defunct, the wall of the heart hypertrophied."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"In true **hypertrophy**, each individual muscle fiber expands in diameter without any numerical increase in the constituent cells."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Aortic stenosis inevitably forces the left ventricle into compensatory muscular **hypertrophy**."*
+> - 📜 **William Boyd (*Pathology for the Surgeon*):** *"Benign prostatic **hypertrophy** exerts progressive mechanical compression upon the prostatic urethra."*

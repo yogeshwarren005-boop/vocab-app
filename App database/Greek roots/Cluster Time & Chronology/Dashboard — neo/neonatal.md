@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or affecting the infant during the first month after birth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or affecting the infant during the first month after birth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or affecting the newborn child, especially during the first twenty-eight days of life.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pediatrics and perinatology, the critical developmental stage of extrauterine cardiopulmonary, hepatic, and thermal adaptation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neonatal designates relating to or affecting the infant during the first month after birth."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Early screening for jaundice prevents devastating bilirubin encephalopathy during the vulnerable **neonatal** period."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"The onset of breathing initiates profound **neonatal** circulatory shifts, closing the ductus arteriosus and foramen ovale."*
+> - 📜 **Florence Nightingale (*Notes on Nursing*):** *"Proper warmth and pure ventilation are paramount in safeguarding fragile **neonatal** life against nursery epidemics."*

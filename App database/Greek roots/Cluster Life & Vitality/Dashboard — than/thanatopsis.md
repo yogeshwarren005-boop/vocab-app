@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek thanat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Life & Vitality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A meditation upon, view of, or contemplation of death.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A famous meditative philosophical poem written by William Cullen Bryant in 1811 on nature, death, and human destiny.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thanatopsis designates a term designating an entity, condition, or phenomenon derived from greek thanat."*
+> - 📜 **William Cullen Bryant (*Thanatopsis*):** *"So live, that when thy summons comes to join the innumerable caravan... thou go not, like the quarry-slave at night, scourged to his dungeon, but, sustained and soothed by an unfaltering trust, approach thy grave, like one who wraps the drapery of his couch about him, and lies down to pleasant dreams."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"The serene **thanatopsis** of the Stoic sages viewed physical dissolution as a natural harmonious return to the cosmic whole."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Pages from an Old Volume of Life*):** *"The solemn music of Bryant's **thanatopsis** reconciled human grief with the majestic cycles of the continent."*

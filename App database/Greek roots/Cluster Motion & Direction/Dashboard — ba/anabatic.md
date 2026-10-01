@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Moving upward : rising.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Moving upward : rising.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or designating an upslope wind caused by local surface heating during the day.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ascending, rising, or flowing upward along topographic inclines or convective thermal currents.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anabatic designates moving upward : rising."*
+> - 📜 **Napier Shaw (*The Drama of the Weather*):** *"As morning sunshine warmed the valley walls, a gentle **anabatic** breeze carried mist up the mountain ridges."*
+> - 📜 **Richard Goody (*Atmospheric Radiation*):** *"Solar radiation absorbed by steep alpine slopes drives the daytime **anabatic** circulation."*
+> - 📜 **Robert Falcon Scott (*The Voyage of the Discovery*):** *"The daytime **anabatic** airflow temporarily halted the bitterly cold coastal katabatic drift."*

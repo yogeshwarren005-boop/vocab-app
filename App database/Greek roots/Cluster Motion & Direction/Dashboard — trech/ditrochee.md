@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek trech.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Motion & Direction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A compound metrical foot in classical prosody consisting of two trochees (a heavy syllable, light syllable, heavy syllable, light syllable).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Greek and Latin metrics, an eight-time rhythm (trochaic dipody) frequently employed in dramatic cadences and oration clausulae.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ditrochee designates a term designating an entity, condition, or phenomenon derived from greek trech."*
+> - 📜 **Cicero (*De Oratore*):** *"The orator frequently closes his period with a resonant **ditrochee**, which delights the Roman ear with its rhythmic fall."*
+> - 📜 **Quintilian (*Institutio Oratoria*):** *"A **ditrochee** at the end of a sentence imparts a solemn, conclusive finish to forensic eloquence."*
+> - 📜 **George Saintsbury (*A History of English Prosody*):** *"In Swinburne's sweeping meters, we frequently encounter the rolling cascade of the **ditrochee**."*

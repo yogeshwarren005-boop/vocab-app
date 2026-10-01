@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: chronicle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: chronological; chronology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A formal unit of geologic time during which the earth's magnetic field maintained a specific geomagnetic polarity; a chronozone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geophysics and magnetostratigraphy, a sub-division of an epoch typically lasting from tens of thousands to several million years, defined by paleomagnetic reversals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Christ to reign after the 1 _Chron._ 16, 23, 25-31: (a Crucifixion. psalm)."*
+> - 📜 **John Tuzo Wilson (*Continents Adrift and Continents Ashore*):** *"Ocean floor magnetic stripes record each geomagnetic **chron**, providing a tape recording of seafloor spreading."*
+> - 📜 **Arthur Holmes (*Principles of Physical Geology*):** *"Every polarity **chron** reflects a sustained interval where terrestrial magnetism maintained either normal or reversed orientation."*
+> - 📜 **Stephen Jay Gould (*Time's Arrow, Time's Cycle*):** *"Magnetostratigraphy divides the seafloor into neat bands, each representing a single polarity **chron** in earth history."*

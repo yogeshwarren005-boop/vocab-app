@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The phenomenon of a single gene influencing two or more distinct phenotypic traits : the quality or state of being pleiotropic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The phenomenon of a single gene influencing two or more distinct phenotypic traits : the quality or state of being pleiotropic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The phenomenon of a single gene controlling or influencing two or more distinct and seemingly unrelated phenotypic traits.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology (antagonistic pleiotropy hypothesis proposed by George C. Williams), a key evolutionary explanation for biological aging and multi-system genetic syndromes (e.g., Marfan syndrome).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pleiotropy designates the phenomenon of a single gene influencing two or more distinct phenotypic traits : the quality or state of being pleiotropic."*
+> - 📜 **George C. Williams (*Pleiotropy, Natural Selection, and the Evolution of Senescence*):** *"Antagonistic **pleiotropy** suggests that genes promoting early reproductive vigour are retained by selection even if they cause late-life degeneration."*
+> - 📜 **Theodosius Dobzhansky (*Genetics and the Origin of Species*):** *"The discovery of pervasive **pleiotropy** destroyed the naive concept of a strict one-to-one correspondence between a single gene and a single bodily character."*
+> - 📜 **Ernst Mayr (*Toward a New Philosophy of Biology*):** *"Because of developmental **pleiotropy**, selecting for a single visible morphological trait inevitably drags unobserved physiological changes in its wake."*

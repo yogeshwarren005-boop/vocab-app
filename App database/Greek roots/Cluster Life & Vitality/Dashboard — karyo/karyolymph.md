@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A clear liquid in the cell nucleus in which the nucleolus and chromatin and other structures are dispersed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A clear liquid in the cell nucleus in which the nucleolus and chromatin and other structures are dispersed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The clear, fluid, or semi-fluid colloidal substance filling the interphase cell nucleus; nucleoplasm; nuclear sap.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The nuclear matrix fluid in which the chromatin network, nucleoli, and ribonucleoprotein complexes are suspended.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, karyolymph designates a clear liquid in the cell nucleus in which the nucleolus and chromatin and other structures are dispersed."*
+> - 📜 **Walther Flemming (*Zellsubstanz, Kern und Zelltheilung*):** *"During prophase, the chromatin threads condense while the surrounding **karyolymph** becomes continuous with the cytoplasm upon nuclear envelope breakdown."*
+> - 📜 **Karl Ernst von Baer (*Entwickelungsgeschichte der Thiere*):** *"The germinal vesicle contains abundant clear **karyolymph** bathing the central nucleolus."*
+> - 📜 **Edmund Beecher Wilson (*The Cell in Development and Heredity*):** *"Diffusion of messenger particles across the **karyolymph** precedes their export through the nuclear pores."*

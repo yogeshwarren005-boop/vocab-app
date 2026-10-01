@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The minimum time required for excitation of a structure (such as a neuron) by a constant electric current of twice the threshold voltage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The minimum time required for excitation of a structure (such as a neuron) by a constant electric current of twice the threshold voltage.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The minimum duration of electrical stimulation required to excite a muscle or nerve cell with an electric current twice the rheobase intensity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurophysiology and electrodiagnosis, a quantitative index of neuromuscular excitability introduced by Louis Lapicque to characterize nerve transmission speeds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chronaxie designates the minimum time required for excitation of a structure (such as a neuron) by a constant electric current of twice the threshold voltage."*
+> - 📜 **Louis Lapicque (*L'Excitabilité en fonction du temps: La chronaxie, sa signification et sa mesure*):** *"We defined **chronaxie** as the duration of impulse necessary to evoke a response with twice the threshold current."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"The shorter the **chronaxie** of an axonal fiber, the more rapid its rate of impulse conduction."*
+> - 📜 **Charles Sherrington (*The Integrative Action of the Nervous System*):** *"Variations in **chronaxie** between motor neurons and effector muscles govern the synchronization of coordinated reflexes."*

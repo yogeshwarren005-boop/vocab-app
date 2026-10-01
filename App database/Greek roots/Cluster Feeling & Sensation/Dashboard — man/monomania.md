@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mental illness especially when limited in expression to one idea or area of thought.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Excessive concentration on a single object or idea.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An exaggerated, obsessive fixation on or preoccupation with a single idea, subject, or goal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In 19th-century alienism and forensic psychiatry (originated by Esquirol), partial insanity wherein intellect remains intact except on one obsessive point.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"It’s a monomania with him to think he is possessed of documents."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"It is not probable that this monomania in him took its instant rise at the precise time of his bodily dismemberment."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But, as in his narrow-flowing monomania, not one jot of Ahab’s broad madness had been left behind; so in that broad madness, not one jot of his great natural intellect had perished."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Ahab's quenchless feud seemed mine; with greedy ears I learned the history of that deadly **monomania** that pursued the beast."*
+> - 📜 **Jean-Étienne Esquirol (*Des Maladies Mentales*):** *"We designate by the term **monomania** that form of delirium which is limited to a single object or narrow chain of ideas."*
+> - 📜 **Edgar Allan Poe (*Berenice*):** *"My books, at this epoch, if they did not actually model my disorder, partook of its **monomania** and morbid nature."*

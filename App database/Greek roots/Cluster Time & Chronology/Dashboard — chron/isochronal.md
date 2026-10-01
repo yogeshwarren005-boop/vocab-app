@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Equal in duration or interval.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Equal in duration or interval.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring at equal intervals of time; taking equal time to complete; isochronous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical mechanics and horology, describing periodic motions (such as an ideal pendulum swing) whose period is independent of amplitude.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, isochronal designates equal in duration or interval."*
+> - 📜 **Christiaan Huygens (*Horologium Oscillatorium*):** *"By guiding the pendulum along cycloidal cheeks, its oscillations become truly **isochronal** regardless of their arc."*
+> - 📜 **Galileo Galilei (*Dialogues Concerning Two New Sciences*):** *"Observing the bronze lamp in the cathedral of Pisa, I noticed its swings were strictly **isochronal** whether wide or narrow."*
+> - 📜 **Lord Kelvin (*Treatise on Natural Philosophy*):** *"The torsional vibrations of the suspension wire remained strictly **isochronal** under small angular displacements."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek bio.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Life & Vitality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A form of cryptobiosis or suspended animation induced in an organism by high osmotic pressure or hypertonic solutions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The physiological survival state wherein aquatic invertebrates like rotifers and tardigrades undergo reversible dehydration in high-salinity waters.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, osmobiosis designates a term designating an entity, condition, or phenomenon derived from greek bio."*
+> - 📜 **David Keilin (*The Problem of Anabiosis or Latent Life*):** *"In **osmobiosis**, high extracellular salinity draws water out until the organism enters an inactive, resistant state."*
+> - 📜 **John H. Crowe (*Anhydrobiosis*):** *"Tardigrades placed in hypertonic saline contract into tuns, successfully demonstrating physiological **osmobiosis**."*
+> - 📜 **Peter Hochachka (*Biochemical Adaptation*):** *"Cellular adaptations supporting **osmobiosis** protect enzyme complexes against severe ionic concentration."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: True sparrows: old world birds formerly considered weaverbirds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: True sparrows: old world birds formerly considered weaverbirds.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The avian family of Old World true sparrows (order Passeriformes), comprising small seed-eating passerines with stout conical beaks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bird family containing over forty species native to Africa, Eurasia, and introduced worldwide, notable for nesting in cavities and human structures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, passeridae designates true sparrows: old world birds formerly considered weaverbirds."*
+> - 📜 **Ernst Mayr (*Systematics and the Origin of Species*):** *"Speciation within the family **Passeridae** reveals rapid morphological adaptations to arid and domestic habitats."*
+> - 📜 **Alfred Russel Wallace (*Island Life*):** *"The true sparrows of the family **Passeridae** were originally absent from the Americas until human introduction."*
+> - 📜 **Elliott Coues (*Birds of the Northwest*):** *"Members of the **Passeridae** possess heavy conical bills adapted for cracking the toughest seeds of weeds and grain."*

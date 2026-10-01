@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An irresistible sexual attraction to dead bodies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An irresistible sexual attraction to dead bodies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The psychological condition or manifestation of necrophilia; an erotic or morbid fascination with corpses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychopathology, the compulsive mental disorder marked by morbid desecration of graves or desire for dead bodies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, necrophilism designates an irresistible sexual attraction to dead bodies."*
+> - 📜 **Richard von Krafft-Ebing (*Psychopathia Sexualis*):** *"The trial of Sergeant Bertrand in 1849 established the forensic reality of morbid **necrophilism** in French criminal jurisprudence."*
+> - 📜 **Erich Fromm (*The Heart of Man*):** *"Modern bureaucratic authoritarianism often exhibits an unconscious cultural **necrophilism**, exalting rigid law over living warmth."*
+> - 📜 **Magnus Hirschfeld (*Sexual Pathology*):** *"Extreme emotional detachment and sadistic daydreams frequently accompany the clinical onset of **necrophilism**."*

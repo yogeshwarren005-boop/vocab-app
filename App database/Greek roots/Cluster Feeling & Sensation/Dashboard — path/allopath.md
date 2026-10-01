@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek path.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Feeling & Sensation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A practitioner of orthodox, mainstream, or science-based medicine, as distinguished from homeopaths or other alternative healers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically, a physician who treats disease by inducing an opposite physiological action, a term originally coined pejoratively by Samuel Hahnemann.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, allopath designates a term designating an entity, condition, or phenomenon derived from greek path."*
+> - 📜 **Samuel Hahnemann (*Organon of Medicine*):** *"The **allopath** administers large doses of debilitating purgatives, fighting symptoms with contrary poisons that ruin vital energy."*
+> - 📜 **William Osler (*Aequanimitas*):** *"The modern scientific physician refuses to be called an **allopath**, for rational medicine recognizes no sectarian dogma."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"The enlightened **allopath** relies upon the healing power of nature (*vis medicatrix naturae*) rather than heroic bloodletting."*

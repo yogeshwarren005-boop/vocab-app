@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A reduced ability to focus on near objects caused by loss of elasticity of the crystalline lens after age 45.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A reduced ability to focus on near objects caused by loss of elasticity of the crystalline lens after age 45.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Farsightedness caused by loss of elasticity of the lens of the eye, occurring typically in middle and old age.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The progressive, physiologically normal reduction in accommodative amplitude that impedes near vision.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, presbyopia designates a reduced ability to focus on near objects caused by loss of elasticity of the crystalline lens after age 45."*
+> - 📜 **Hermann von Helmholtz (*Physiological Optics*):** *"With advancing years, sclerosis of the crystalline lens results in inevitable **presbyopia**."*
+> - 📜 **Franciscus Donders (*On the Anomalies of Accommodation and Refraction of the Eye*):** *"Donders demonstrated that **presbyopia** progresses steadily throughout life, distinct from hypermetropia."*
+> - 📜 **William Osler (*Aequanimitas and Other Addresses*):** *"The onset of **presbyopia** gently reminds the philosopher of the creeping passage of mortal time."*

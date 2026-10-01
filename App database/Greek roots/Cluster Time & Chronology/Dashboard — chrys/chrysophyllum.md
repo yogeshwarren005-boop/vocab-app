@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tropical american evergreen trees or shrubs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tropical american evergreen trees or shrubs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of tropical trees in the sapodilla family (Sapotaceae), including Chrysophyllum cainito, the star apple.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In tropical pomology and dendrology, trees characterized by milky latex and leaves whose lower surfaces are coated with a silky, golden-brown pubescence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chrysophyllum designates tropical american evergreen trees or shrubs."*
+> - 📜 **Hans Sloane (*The Natural History of Jamaica*):** *"The underside of the leaf in **Chrysophyllum** is covered with a soft, downy satin that shines like gold in the breeze."*
+> - 📜 **Alphonse de Candolle (*Origin of Cultivated Plants*):** *"The luscious purple star apple of **Chrysophyllum** has been cultivated across the West Indies since pre-Columbian eras."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"In subtropical gardens, **Chrysophyllum** is planted both for its delicious fruit and its striking, two-toned foliage."*

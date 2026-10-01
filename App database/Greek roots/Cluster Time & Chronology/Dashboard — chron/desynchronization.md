@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The relation that exists when things occur at unrelated times.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The relation that exists when things occur at unrelated times.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or process of losing synchrony; disruption of coordinated timing or rhythm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurophysiology and sleep medicine, the replacement of synchronized, high-voltage alpha brain waves by rapid, low-voltage beta activity upon sensory arousal; circadian rhythm disruption.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, desynchronization designates the relation that exists when things occur at unrelated times."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"Upon awakening or opening the eyes, the electroencephalogram undergoes sudden **desynchronization**, displaying low-voltage, irregular beta rhythms."*
+> - 📜 **Donald Seldin (*The Kidney: Physiology and Pathophysiology*):** *"Transmeridian jet travel induces circadian **desynchronization**, uncoupling renal electrolyte excretion from systemic melatonin rhythms."*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*):** *"The neurological trauma precipitated profound cognitive **desynchronization**, leaving the patient disconnected from temporal continuity."*

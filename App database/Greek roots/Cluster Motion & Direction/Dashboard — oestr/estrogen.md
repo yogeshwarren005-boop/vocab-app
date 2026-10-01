@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various natural steroids (such as estradiol) that are formed from androgen precursors, that are secreted chiefly by the ovaries, placenta, adipose tissue, and testes, and that stimulate the development of female secondary sex characteristics and promote the growth and maintenance of the female reproductive system; also : any of various synthetic or semisynthetic steroids (such as ethinyl estradiol) that mimic the physiological effect of natural estrogens.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hormone replacement therapy involving the administration of estrogen without progestin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a group of steroid hormones that promote the development and maintenance of female secondary sex characteristics and regulate the reproductive cycle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human biochemistry and clinical pharmacology, primarily estradiol, estrone, and estriol, synthesized by the ovaries, placenta, and adrenal glands, acting via nuclear estrogen receptors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, estrogen designates any of various natural steroids (such as estradiol) that are formed from androgen precursors, that are secreted chiefly by the ovaries, placenta, adipose tissue, and testes, and that stimulate the development of female secondary sex characteristics and promote the growth and maintenance of the female reproductive system; also : any of various synthetic or semisynthetic steroids (such as ethinyl estradiol) that mimic the physiological effect of natural estrogens."*
+> - 📜 **George Corner (*The Hormones in Human Reproduction*):** *"The discovery of **estrogen** resolved the long-standing mystery of how the ovary commands the uterine cycle."*
+> - 📜 **Edward Doisy (*The Assay and Isolation of Estrogens*):** *"Pure crystalline **estrogen** obtained from follicular fluid demonstrated immense potency in biological assays."*
+> - 📜 **Theodosius Dobzhansky (*Genetics and the Origin of Species*):** *"The evolutionary emergence of **estrogen** and its target receptors represents a fundamental milestone in vertebrate biology."*

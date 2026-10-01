@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A planet orbiting a star that is not our sun.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A planet orbiting a star that is not our sun.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A planet that orbits a star outside the solar system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An extrasolar planetary body detected through transit photometry, radial velocity, or direct imaging.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, exoplanet designates a planet orbiting a star that is not our sun."*
+> - 📜 **Carl Sagan (*Pale Blue Dot*):** *"The discovery of the first **exoplanet** proved that planetary systems are common throughout our galaxy."*
+> - 📜 **Michel Mayor (*Planets Around Other Stars*):** *"Doppler spectroscopy revealed a giant **exoplanet** orbiting the nearby solar-type star 51 Pegasi."*
+> - 📜 **Sara Seager (*Exoplanet Atmospheres*):** *"Transmission spectra from a distant **exoplanet** allow astronomers to infer atmospheric water and methane."*

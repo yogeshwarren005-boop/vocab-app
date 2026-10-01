@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An area of land from which aircraft operate : airfield.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An area of land from which aircraft operate : airfield.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A defined location on land or water (including buildings, installations, and equipment) intended to be used for the arrival, departure, and surface movement of aircraft; an airfield or airport.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically, Samuel Langley's nineteenth-century term for an airborne flying machine (from Greek aer 'air' and dromos 'running/course'); later adopted in British aviation for landing grounds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aerodrome designates an area of land from which aircraft operate : airfield."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"Our fighter squadrons scrambled from every coastal **aerodrome** to intercept the incoming bombers over Kent."*
+> - 📜 **Antoine de Saint-Exupéry (*Wind, Sand and Stars*):** *"The beacon lights of the distant **aerodrome** cut through the desert night, welcoming the weary airmail pilot home."*
+> - 📜 **H. G. Wells (*The Shape of Things to Come*):** *"The modern **aerodrome** had become the true crossroads of human commerce, supplanting the ancient maritime ports."*

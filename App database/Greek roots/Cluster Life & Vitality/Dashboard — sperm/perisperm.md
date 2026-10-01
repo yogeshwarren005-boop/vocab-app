@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek sperm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Life & Vitality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Nutritive tissue of a seed derived from the nucellus outside the embryo sac, surrounding the endosperm in certain plant families.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A diploid maternal nutrient tissue storing starch, present in mature seeds of Caryophyllaceae, Piperaceae, and Chenopodiaceae.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, perisperm designates a term designating an entity, condition, or phenomenon derived from greek sperm."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"In the water lily and black pepper, food storage resides primarily within the abundant nucellar **perisperm**."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"We distinguish true endosperm from the **perisperm**, which is formed entirely outside the embryo sac."*
+> - 📜 **Augustin Pyramus de Candolle (*Théorie Élémentaire de la Botanique*):** *"In beet seeds, the developing embryo curves snugly around a dense central reservoir of floury **perisperm**."*

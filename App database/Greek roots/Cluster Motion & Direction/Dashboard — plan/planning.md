@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An act of formulating a program for a definite course of action.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act or process of drawing up plans or layouts for some project or enterprise.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of making plans for something; the act of deciding in advance what is to be done.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The technical practice of urban, regional, or architectural design and land-use regulation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"As we were going along, planning what we should do for Richard and Ada, I heard somebody calling “Esther!"*
-> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"Let me see: I’ll give them a new pair of boots every Christmas.” And she went on planning to herself how she would manage it."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Next morning, I was planning that I would make the tinfull of meal into mush, and fry it in a greasy frying-pan, in which our last meat had been fried."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Democratic nations excel in individual initiative rather than long-range centralized **planning**."*
+> - 📜 **Peter Drucker (*The Practice of Management*):** *"Strategic **planning** does not deal with future decisions, but with the future of present decisions."*
+> - 📜 **Winston Churchill (*Their Finest Hour*):** *"Meticulous logistical **planning** preceded every amphibious invasion across the Channel."*

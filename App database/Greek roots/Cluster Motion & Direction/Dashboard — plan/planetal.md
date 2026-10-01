@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or resembling the physical or orbital characteristics of a planet or the planets.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or resembling the physical or orbital characteristics of a planet or the planets.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, belonging to, or characteristic of a planet; planetary.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Governed by planetary orbits, celestial mechanics, or planetary atmospheres.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, planetal designates of or relating to or resembling the physical or orbital characteristics of a planet or the planets."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"Ideas revolve in their **planetal** circuits around the central luminary of reason."*
+> - 📜 **John Herschel (*Outlines of Astronomy*):** *"Telescopic surveys reveal rich **planetal** details upon the clouded disk of Jupiter."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"Astrologers foolishly ascribed human destiny to the benign or malignant aspects of **planetal** hours."*

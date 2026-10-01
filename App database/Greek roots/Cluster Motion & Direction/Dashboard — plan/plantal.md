@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to plants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to plants.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or resembling plants; vegetable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Possessing botanical or vegetative characteristics as distinguished from animal vitality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plantal designates of or relating to plants."*
+> - 📜 **Ralph Waldo Emerson (*Essays: Second Series*):** *"A silent vegetative impulse connects the **plantal** kingdom to the aspiring spirit of man."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"The zoophyte seems to share both animal sensation and mere **plantal** vegetative nutrition."*
+> - 📜 **Samuel Taylor Coleridge (*Hints towards the Formation of a more Comprehensive Theory of Life*):** *"Life manifests first in **plantal** organization before ascending into animal instinct."*

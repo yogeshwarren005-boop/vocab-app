@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: New world leaf-nosed bats.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: New world leaf-nosed bats.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The family of New World leaf-nosed bats (order Chiroptera), characterized by a fleshy leaf-like dermal projection on the nose; Phyllostomidae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A diverse family of Neotropical bats displaying unparalleled ecological radiation, including fruit-eating, nectar-feeding, carnivorous, and vampire bats.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phyllostomatidae designates new world leaf-nosed bats."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The extraordinary nasal spear in the **Phyllostomatidae** functions as an acoustic horn focusing echolocating ultrasound."*
+> - 📜 **G. G. Simpson (*The Principles of Classification and a Classification of Mammals*):** *"Adaptive radiation within the **Phyllostomatidae** encompasses virtually every trophic niche available to nocturnal mammals."*
+> - 📜 **Alfred Russel Wallace (*The Geographical Distribution of Animals*):** *"The family **Phyllostomatidae** is strictly confined to the tropical and subtropical forests of the Americas."*

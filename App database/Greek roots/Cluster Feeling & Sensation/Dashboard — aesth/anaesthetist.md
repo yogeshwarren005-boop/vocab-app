@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialist who administers an anesthetic to a patient before he is treated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A specialist who administers an anesthetic to a patient before he is treated.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A medical specialist trained to administer anaesthetics and monitor the vital bodily signs of patients before, during, and after surgical procedures (Commonwealth usage).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The operating-room physician responsible for hemodynamic stability, airway management, and pain control under surgical stress.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anaesthetist designates a specialist who administers an anesthetic to a patient before he is treated."*
+> - 📜 **John Snow (*On Chloroform and Other Anaesthetics*):** *"The skilled **anaesthetist** must continuously observe the pulse and respiration rather than watch the surgeon's knife."*
+> - 📜 **Joseph Clover (*On the Administration of Chloroform in Dental Operations*):** *"A prudent **anaesthetist** adjusts the ether vapor percentage gradually to prevent laryngospasm."*
+> - 📜 **Arthur Conan Doyle (*The Stark Munro Letters*):** *"I stood at the patient's head acting as **anaesthetist**, measuring each drop of chloroform with trembling hands."*

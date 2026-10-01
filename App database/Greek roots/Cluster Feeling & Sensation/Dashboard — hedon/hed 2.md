@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek hedon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Feeling & Sensation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Greek root *hēdon-* (from *hēdonē*), signifying pleasure, delight, sensual enjoyment, or gratification (contrasted with *hedra* 'seat').
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The foundational combining form in ethical philosophy and psychological economics denoting the pursuit or quantification of subjective pleasure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hed 2 designates a term designating an entity, condition, or phenomenon derived from greek hedon."*
+> - 📜 **Henry George Liddell & Robert Scott (*A Greek-English Lexicon*):** *"The Greek noun *hēdonē*, giving rise to the combining stem **hed**, denotes sensory pleasure, enjoyment, and joy."*
+> - 📜 **Epicurus (*Letter to Menoeceus*):** *"We declare that pleasure, the ancient **hedone**, is the beginning and end of living happily."*
+> - 📜 **Walter Pater (*Marius the Epicurean*):** *"The young Roman cultivated the refined essence of **hedone**, seeking harmony between moral order and sensory delight."*

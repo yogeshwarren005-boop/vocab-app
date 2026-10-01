@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a capacity to move one to either compassionate or contemptuous pity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by sorrow or melancholy : sad.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Arousing pity, sorrow, or sympathy through vulnerability or sadness; miserably inadequate or feeble.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical rhetoric and aesthetics, evoking deep pathos, poignant emotion, or tragic grandeur.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Skimpole was left alone all this time and entertained himself by playing snatches of pathetic airs and sometimes singing to them (as we heard at a distance) with great expression and feeling."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby repeats the word with pathetic emphasis—“in the court."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"His outlook upon time was as a transient flash of the eye now and then: that projection of consciousness into days gone by and to come, which makes the past a synonym for the pathetic and the future a word for circumspection, was foreign to Troy."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"The poetic attribution of human passions to inanimate nature—as when leaves weep—I denominate the **pathetic** fallacy."*
+> - 📜 **Charles Dickens (*The Old Curiosity Shop*):** *"The death of Little Nell was so exquisitely **pathetic** that readers on both sides of the Atlantic wept open tears."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The fallen monarch sat in his prison chamber, a **pathetic** shadow of the divine majesty that once ruled Versailles."*

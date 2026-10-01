@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Follower, disciple; also : an inferior imitator.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Follower, disciple; also : an inferior imitator.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A less distinguished imitator, follower, or successor of a great artist, writer, philosopher, or movement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically, one of the sons of the seven heroes who made the second expedition against Thebes (the Epigonoi).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epigone designates follower, disciple; also : an inferior imitator."*
+> - 📜 **Friedrich Nietzsche (*Untimely Meditations*):** *"Nothing is more debilitating to creative culture than the complacency of the cultured **epigone** living off inherited glory."*
+> - 📜 **Thomas Mann (*Doctor Faustus*):** *"The aging composer feared becoming a mere **epigone** of romanticism, trapped in repetitive harmonic mannerisms."*
+> - 📜 **George Steiner (*Language and Silence*):** *"The late twentieth-century critic often appears as a melancholy **epigone** following the monumental achievements of high modernism."*

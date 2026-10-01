@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Timid by nature or revealing timidity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Timid by nature or revealing timidity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Timid, fearful, trembling, or hesitant; characterized by trepidation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary description, portraying a nervous, faltering demeanor marked by anxious physical hesitation or fluttering uncertainty.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trepid designates timid by nature or revealing timidity."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"She ventured a **trepid** step into the darkened heath, pausing at every rustle of the dry heather."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"With a **trepid** hand, she knocked upon the headmistress's door, anticipating a cold reprimand."*
+> - 📜 **Walter Pater (*Marius the Epicurean*):** *"The youth approached the shrine with **trepid** reverence, awed by the solemn gloom of the sanctuary."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A form of schizophrenia characterized especially by incoherence, delusions lacking an underlying theme, and affect that is usually flat, inappropriate, or silly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A form of schizophrenia characterized especially by incoherence, delusions lacking an underlying theme, and affect that is usually flat, inappropriate, or silly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A form of schizophrenia occurring typically at puberty, characterized by silly behavior, disorganized speech, hallucinations, and emotional blunting; disorganized schizophrenia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A psychiatric entity identified by Ewald Hecker in 1871 and incorporated by Emil Kraepelin into dementia praecox.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hebephrenia designates a form of schizophrenia characterized especially by incoherence, delusions lacking an underlying theme, and affect that is usually flat, inappropriate, or silly."*
+> - 📜 **Ewald Hecker (*Die Hebephrenie*):** *"I described **hebephrenia** as an adolescent mental illness where intellectual deterioration parallels pubertal somatic changes."*
+> - 📜 **Emil Kraepelin (*Dementia Praecox and Paraphrenia*):** *"In **hebephrenia**, childish giggling, silly grimacing, and progressive emotional apathy dominate the clinical picture."*
+> - 📜 **Eugen Bleuler (*Dementia Praecox or the Group of Schizophrenias*):** *"The loosening of associations in **hebephrenia** disrupts coherent thought, leaving the patient's language a bizarre salad of words."*

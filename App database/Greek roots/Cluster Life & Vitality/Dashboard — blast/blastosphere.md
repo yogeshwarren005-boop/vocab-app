@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Early stage of an embryo produced by cleavage of an ovum; a liquid-filled sphere whose wall is composed of a single layer of cells; during this stage (about eight days after fertilization) implantation in the wall of the uterus occurs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Early stage of an embryo produced by cleavage of an ovum; a liquid-filled sphere whose wall is composed of a single layer of cells; during this stage (about eight days after fertilization) implantation in the wall of the uterus occurs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hollow spherical embryo formed by the cleavage of a fertilized ovum; the blastula.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The spherical monolayer of blastomeres enclosing the central cleavage cavity prior to gastrulation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, blastosphere designates early stage of an embryo produced by cleavage of an ovum; a liquid-filled sphere whose wall is composed of a single layer of cells; during this stage (about eight days after fertilization) implantation in the wall of the uterus occurs."*
+> - 📜 **Ernst Haeckel (*Generelle Morphologie der Organismen*):** *"Cleavage culminates in the hollow cellular sphere which we designate the **blastosphere** or blastula."*
+> - 📜 **Francis Balfour (*A Treatise on Comparative Embryology*):** *"Ciliation of the **blastosphere** enables the marine larva to break free from its egg membrane and swim actively."*
+> - 📜 **Thomas Henry Huxley (*The Elements of Embryology*):** *"The transition from the solid morula to the hollow **blastosphere** marks the establishment of an internal embryonic milieu."*

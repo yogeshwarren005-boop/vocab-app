@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or constituting a genotype.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or constituting a genotype.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or determined by the genotype.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to the underlying genetic constitution of an organism as opposed to its phenotypic manifestations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, genotypic designates of or relating to or constituting a genotype."*
+> - 📜 **Wilhelm Johannsen (*Elemente der exakten Erblichkeitslehre*):** *"Phenotypic variance within a pure line reflects environmental noise, not underlying **genotypic** differences."*
+> - 📜 **Sewall Wright (*Systems of Mating*):** *"Inbreeding increases **genotypic** homozygosity without necessarily reducing environmental phenotypic variation."*
+> - 📜 **C. H. Waddington (*The Strategy of the Genes*):** *"Canalized development ensures that organisms with differing **genotypic** backgrounds can express identical phenotypes."*

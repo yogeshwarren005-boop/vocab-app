@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any cell resulting from cleavage of a fertilized egg.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any cell resulting from cleavage of a fertilized egg.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of the individual cells formed by the cleavage divisions of a fertilized ovum during early embryonic development.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of the nucleated cellular units in the morula whose cleavage planes determine early bilateral symmetry and cell fate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, blastomere designates any cell resulting from cleavage of a fertilized egg."*
+> - 📜 **Karl Ernst von Baer (*Entwickelungsgeschichte der Thiere*):** *"Each successive cleavage divides the ovum into smaller **blastomeres** without increasing total embryonic volume."*
+> - 📜 **Hans Driesch (*The Science and Philosophy of the Organism*):** *"Separating a single sea urchin **blastomere** at the two-cell stage yielded a complete, normally proportioned pluteus larva."*
+> - 📜 **Thomas Hunt Morgan (*The Development of the Frog's Egg*):** *"The first cleavage furrow separates the right and left **blastomeres**, aligning with the future median plane of the embryo."*

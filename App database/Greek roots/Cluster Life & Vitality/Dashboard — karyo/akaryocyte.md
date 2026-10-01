@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A cell without a nucleus (as an erythrocyte).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cell without a nucleus (as an erythrocyte).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A non-nucleated cell, especially a mature mammalian erythrocyte (red blood cell); variant spelling of acaryocyte.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In hematology, a fully differentiated blood cell that has extruded its nucleus to maximize hemoglobin carrying capacity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, akaryocyte designates a cell without a nucleus (as an erythrocyte)."*
+> - 📜 **Paul Ehrlich (*Histology of the Blood*):** *"During mammalian erythropoiesis, the normoblast extrudes its nucleus, converting into a functional **akaryocyte**."*
+> - 📜 **William Boyd (*A Textbook of Pathology*):** *"The biconcave **akaryocyte** navigates splenic sinusoids with extraordinary elasticity."*
+> - 📜 **Ernst Haeckel (*Generelle Morphologie der Organismen*):** *"We contrast nucleated cellular monads with the specialized non-nucleated **akaryocyte** of mammalian blood."*

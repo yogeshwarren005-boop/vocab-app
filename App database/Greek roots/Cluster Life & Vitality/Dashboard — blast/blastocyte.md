@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An undifferentiated embryonic cell.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An undifferentiated embryonic cell.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An undifferentiated embryonic cell; a primitive, formative germ cell.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An unspecialized blastomeric cell capable of rapid mitotic proliferation and subsequent lineage commitment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, blastocyte designates an undifferentiated embryonic cell."*
+> - 📜 **Karl Ernst von Baer (*Entwickelungsgeschichte der Thiere*):** *"Each isolated **blastocyte** retains the developmental capacity to generate diverse somatic tissue lineages."*
+> - 📜 **Alexander Kowalevsky (*Embryological Studies*):** *"Division of the zygote yields a cluster of identical **blastocytes** prior to germ layer stratification."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Pathological proliferation often reactivates the primordial metabolic phenotype of the embryonic **blastocyte**."*

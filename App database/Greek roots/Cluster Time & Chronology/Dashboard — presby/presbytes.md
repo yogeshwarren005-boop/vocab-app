@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Langurs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Langurs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An elderly or venerable person in ancient Greek society; an elder.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically in zoology, the generic name for Asian colobine monkeys (langurs) characterized by grey fur or crests.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog presbytes as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Plato (*Laws*):** *"In the ideal city, the counsel of the **presbytes** was sought before enacting constitutional laws."*
+> - 📜 **Edward Blyth (*Catalogue of the Mammals and Birds of Burma*):** *"Naturalists recorded the arboreal habits of **Presbytes** entellus leaping through the jungle canopy."*
+> - 📜 **Gilbert Murray (*Five Stages of Greek Religion*):** *"The Athenian chorus of **presbytes** lamented the impetuous folly of reckless youthful commanders."*

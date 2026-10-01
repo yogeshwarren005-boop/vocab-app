@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ger.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Time & Chronology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sexual or romantic preference for or attraction to elderly persons.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sexual medicine and psychological nosology, an atypical sexual preference (paraphilia) centered on partners of advanced age.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gerontophilia designates a term designating an entity, condition, or phenomenon derived from greek ger."*
+> - 📜 **Richard von Krafft-Ebing (*Psychopathia Sexualis*):** *"We classify **gerontophilia** as an uncommon erotic divergence wherein youth actively seeks companionship with the aged."*
+> - 📜 **Havelock Ellis (*Studies in the Psychology of Sex*):** *"Cases of **gerontophilia** demonstrate how psychological conditioning can overcome standard biological markers of physical youth."*
+> - 📜 **Wilhelm Stekel (*Peculiarities of Behavior*):** *"In examining the roots of **gerontophilia**, one frequently discovers deep filial devotion intertwined with erotic longing."*

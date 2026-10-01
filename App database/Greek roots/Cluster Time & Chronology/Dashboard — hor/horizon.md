@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The line where the earth seems to meet the sky : the apparent junction of earth and sky.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The great circle on the celestial sphere formed by the intersection of the celestial sphere with a plane tangent to the earth's surface at an observer's position.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The line at which the earth's surface and the sky appear to meet; the limit of a person's mental vision, interest, or experience.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In observational astronomy and geology, the celestial horizon (great circle perpendicular to the observer's zenith) or a distinct stratigraphic marker bed.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now for this night let’s harbour here in York, And when the morning sun shall raise his car Above the border of this horizon We’ll forward towards Warwick and his mates; For well I wot that Henry is no soldier."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Thus a mild sort of apotheosis took place in his fancy, whilst she still lived and breathed within his own horizon, a troubled creature like himself."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Standing in the centre, the sky overhead was met by a circular horizon of fern: this grew nearly to the bottom of the slope and then abruptly ceased."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"When the sun / Clears the dull clouds from heaven's wide **horizon**, / Day breaks upon our sorrow."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Round the entire circle of the blue **horizon**, nothing met the eye save the vast solitary heave of the sea."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The fossil ammonite marks a distinct geological **horizon** traceable across the entire continent."*

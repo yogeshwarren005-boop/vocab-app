@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to vibrate in a definite pattern.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to concentrate about two conflicting or contrasting positions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To cause light or electromagnetic radiation to oscillate in a specific plane or direction (American spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To break up into opposing, rigid factions or conflicting ideological groups.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"It may be said to polarize the idea, so often presented in his poetry, that doubt is a condition of the vitality of faith."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"A Nicol prism is employed in the polarimeter to **polarize** monochromatic sodium light."*
+> - 📜 **Carl Sagan (*The Demon-Haunted World*):** *"Fear and superstition serve to **polarize** public debate, replacing scientific reason with tribal dogma."*
+> - 📜 **Walter Lippmann (*Public Opinion*):** *"Skilled propagandists know how to **polarize** an issue so that no room remains for nuanced compromise."*

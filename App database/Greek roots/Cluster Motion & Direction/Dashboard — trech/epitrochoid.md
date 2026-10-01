@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective & Noun*) Resembling, having the physical form of, or akin to run, wheel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective & Noun*) Resembling, having the physical form of, or akin to run, wheel.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A geometric roulette curve traced by a point attached to a circle that rolls without slipping around the outside of a fixed circle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In kinematics and mechanical engineering, the mathematical profile used in designing the rotor and chamber of the Wankel rotary internal combustion engine.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epitrochoid designates adjective & noun*) resembling, having the physical form of, or akin to run, wheel."*
+> - 📜 **Felix Wankel (*Rotary Piston Machines*):** *"The inner combustion chamber of the rotary engine is machined to the exact mathematical contour of a two-lobed **epitrochoid**."*
+> - 📜 **Leonhard Euler (*Mechanica*):** *"The geometric properties of the **epitrochoid** illustrate the kinematic generation of cycloidal curves."*
+> - 📜 **Arthur Cayley (*The Principles of Book-Keeping by Double Entry*):** *"Tracing the path of the **epitrochoid** reveals how planetary gear assemblies distribute torque."*

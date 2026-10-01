@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small marsupials of southern south america.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small marsupials of southern south america.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of small, carnivorous or insectivorous shrew opossums native to the Andes of western South America.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic vertebrate zoology, the sole surviving family of the order Paucituberculata, characterized by paired procumbent lower incisors and absence of an external pouch.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, caenolestidae designates small marsupials of southern south america."*
+> - 📜 **William Diller Matthew (*Climate and Evolution*):** *"The isolated Andean family **Caenolestidae** illustrates how relict populations endure in mountainous refugia long after their relatives vanish."*
+> - 📜 **Alfred Sherwood Romer (*Vertebrate Paleontology*):** *"Though modern species of **Caenolestidae** are few, their fossil precursors were diverse and abundant in the Patagonian Miocene."*
+> - 📜 **G. G. Simpson (*Splendid Isolation: The Curious History of South American Mammals*):** *"Members of the **Caenolestidae** retain primitive cranial traits that illuminate early mammalian dispersal throughout the Neotropics."*

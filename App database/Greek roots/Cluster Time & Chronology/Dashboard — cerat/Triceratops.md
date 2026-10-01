@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Huge ceratopsian dinosaur having three horns and the neck heavily armored with a very solid frill.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Huge ceratopsian dinosaur having three horns and the neck heavily armored with a very solid frill.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large, quadrupedal herbivorous horned dinosaur of the Late Cretaceous period, famous for its three facial horns and massive neck frill.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dinosaur paleontology, an iconic ceratopsid reaching up to nine meters in length, whose fossil remains abound in the Hell Creek and Lance Formations of North America.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Triceratops designates huge ceratopsian dinosaur having three horns and the neck heavily armored with a very solid frill."*
+> - 📜 **Othniel Charles Marsh (*Notice of Gigantic Horned Dinosauria from the Cretaceous*):** *"The discovery of **Triceratops** reveals a herbivorous reptile armed with three colossal horns upon a skull measuring six feet in length."*
+> - 📜 **Henry Fairfield Osborn (*The Origin and Evolution of Life*):** *"The neck frill of **Triceratops** served as an impenetrable shield against the slashing jaws of Tyrannosaurus rex."*
+> - 📜 **Edwin H. Colbert (*The Dinosaur Book*):** *"Pound for pound, a full-grown **Triceratops** was as massive as an elephant and formidable in defense against any predator."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek chron.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Time & Chronology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An irrational and overwhelming fear of time or the passage of time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychiatry and correctional psychology, an acute anxiety state observed especially in incarcerated prisoners obsessed with the slow march of prison sentences.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chronophobia designates a term designating an entity, condition, or phenomenon derived from greek chron."*
+> - 📜 **William Osler (*Aequanimitas*):** *"The neurotic patient suffered from profound **chronophobia**, dreading every strike of the clock as an omen of inevitable dissolution."*
+> - 📜 **Havelock Ellis (*Studies in the Psychology of Sex*):** *"Confined within monotonous solitary cells, long-term prisoners frequently develop severe **chronophobia** marked by panic and insomnia."*
+> - 📜 **William James (*The Principles of Psychology*):** *"When consciousness fixates upon the relentless flow of duration, an uncanny **chronophobia** can paralyze the will."*

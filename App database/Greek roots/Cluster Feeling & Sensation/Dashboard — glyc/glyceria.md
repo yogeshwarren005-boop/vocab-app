@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Manna grass.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Manna grass.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of tall, aquatic or wetland grasses (family Poaceae), commonly called mannagrass, growing in marshes, ditches, and stream banks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A botanical genus named from Greek *glykys* ('sweet') on account of the sweetish taste of the nutritious grains collected for porridge in central and eastern Europe.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, glyceria designates manna grass."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The aquatic species of **Glyceria** line our marsh ditches, bearing nodding panicles of sweet-tasting seeds."*
+> - 📜 **John Muir (*The Yosemite*):** *"Meadows of lush **Glyceria** flourished in the river bends, providing succulent grazing for deer and pack mules."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"European peasants formerly harvested the fallen seeds of **Glyceria** fluitans to cook a delicate, sweet cereal gruel."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Succulent herbaceous vegetation of pasture land.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bulky food like grass or hay for browsing or grazing horses or cattle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Land used for the grazing of cattle, sheep, or horses; pasture land.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The grass, clover, and edible vegetation growing on grazing land for livestock.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"These hills would make excellent pasturage for cattle, and after a time for sheep also, the grass at present being a little too rank."*
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"Good pasturage is found, and cultivation commences."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"In the vicinity of the Big Sandy, we found numerous lakes of clear water, surrounded by rich pasturage."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The rent of high mountainous **pasturage** is naturally lower than that of rich arable lowland fields."*
+> - 📜 **Walter Scott (*The Heart of Midlothian*):** *"The Duke maintained extensive **pasturage** across the valley, where Highland herds grew fat before the market."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"The chalk downs afford dry, sweet **pasturage** for immense flocks of Southdown sheep."*

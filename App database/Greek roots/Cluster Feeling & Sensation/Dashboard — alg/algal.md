@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to alga.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to alga.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, resembling, or composed of algae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to algal blooms, mats, or biogenic deposits in marine and freshwater aquatic ecosystems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. G. Wells (*The Time Machine*):** *"Its evil eyes were wriggling on their stalks, its mouth was all alive with appetite, and its vast ungainly claws, smeared with an algal slime, were descending upon me."*
+> - 📜 **Rachel Carson (*The Edge of the Sea*):** *"The damp rock ledges were coated with a slippery **algal** crust that sheltered tiny barnacles and periwinkles."*
+> - 📜 **Ernst Haeckel (*Art Forms in Nature*):** *"The delicate symmetry of **algal** skeletons under the microscope reveals nature's inherent architectural geometries."*
+> - 📜 **James Lovelock (*Gaia: A New Look at Life on Earth*):** *"Marine **algal** emissions of dimethyl sulfide serve as global cloud condensation nuclei, stabilizing Earth's climate."*

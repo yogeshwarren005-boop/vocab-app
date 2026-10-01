@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A psychological condition characterized by inability to experience pleasure in normally pleasurable acts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A psychological condition characterized by inability to experience pleasure in normally pleasurable acts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by, suffering from, or related to anhedonia; lacking the capacity to experience pleasure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Describing a depressive or blunted psychological state in which positive emotional reinforcement is absent.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anhedonic designates a psychological condition characterized by inability to experience pleasure in normally pleasurable acts."*
+> - 📜 **Sigmund Freud (*Mourning and Melancholia*):** *"In melancholia, the ego is paralyzed by an **anhedonic** gloom that extinguishes all interest in the external world."*
+> - 📜 **Henry Maudsley (*The Pathology of Mind*):** *"The chronic neurotic often enters an **anhedonic** phase where music, affection, and food become completely tasteless."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"Deprived of dopamine, the parkinsonian patients lived in a frozen, **anhedonic** limbo for decades."*

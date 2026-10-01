@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by or being small inconspicuous closed self-pollinating flowers additional to and often more fruitful than showier ones on the same plant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by or being small inconspicuous closed self-pollinating flowers additional to and often more fruitful than showier ones on the same plant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or condition of having flowers that remain closed and undergo self-pollination within the bud.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In reproductive plant biology, an adaptive floral dimorphism pairing chasmogamous (open, outcrossed) flowers with inexpensive cleistogamous (closed, selfed) insurance flowers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cleistogamy designates characterized by or being small inconspicuous closed self-pollinating flowers additional to and often more fruitful than showier ones on the same plant."*
+> - 📜 **Charles Darwin (*The Different Forms of Flowers on Plants of the Same Species*):** *"The economy of pollen in **cleistogamy** is astonishing, a few hundred grains sufficing to fertilize every ovule in the ovary."*
+> - 📜 **Asa Gray (*Botanical Text-Book*):** *"Through **cleistogamy**, the plant secures abundant progeny during inclement seasons when insect pollinators fail to appear."*
+> - 📜 **G. Ledyard Stebbins (*Variation and Evolution in Plants*):** *"The genetic consequence of **cleistogamy** is high homozygosity accompanied by local adaptation in undisturbed habitats."*

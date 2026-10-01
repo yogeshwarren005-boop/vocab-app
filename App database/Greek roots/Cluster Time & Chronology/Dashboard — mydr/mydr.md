@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek mydr.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Time & Chronology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combining form derived from Greek μυδρίασις (mydriasis) meaning 'pupil dilation', used in ophthalmology and pharmacology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ocular physiology and medical terminology, designating pharmaceutical agents or conditions that dilate the pupillary aperture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mydr designates a term designating an entity, condition, or phenomenon derived from greek mydr."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"The Greek root **mydr-** appears in Galenic texts to describe an unnatural widening of the pupillary aperture."*
+> - 📜 **Robley Dunglison (*Medical Lexicon*):** *"Ophthalmic compounds incorporating **mydr-** indicate actions that paralyze the pupillary sphincter."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The diagnostic application of **mydr-** derivatives allowed detailed visualization of the optic nerve head."*

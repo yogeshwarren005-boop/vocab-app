@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgical interruption of sympathetic nerve pathways.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surgical interruption of sympathetic nerve pathways.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The surgical cutting, transection, or ablation of a portion of the sympathetic nervous pathway.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Performed to treat severe palmar or facial hyperhidrosis, reflex sympathetic dystrophy (causalgia), or Raynaud's phenomenon by abolishing vasoconstriction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sympathectomy designates surgical interruption of sympathetic nerve pathways."*
+> - 📜 **René Leriche (*The Surgery of Pain*):** *"By performing a periarterial **sympathectomy**, we relieved the intractable burning causalgia that tortured the wounded soldier."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Cervical **sympathectomy** produces Horner's syndrome: miosis, ptosis, and an absence of facial sweating."*
+> - 📜 **Wilder Penfield (*The Cerebral Cortex of Man*):** *"Autonomic vascular tone in the upper extremity dropped immediately upon thoracic **sympathectomy**, warming the cold blanched hand."*

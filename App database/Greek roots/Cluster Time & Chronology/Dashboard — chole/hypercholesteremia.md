@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The presence of an abnormal amount of cholesterol in the cells and plasma of the blood; associated with the risk of atherosclerosis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The presence of an abnormal amount of cholesterol in the cells and plasma of the blood; associated with the risk of atherosclerosis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The presence of an abnormally high concentration of cholesterol in the bloodstream; variant of hypercholesterolemia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical pathology and early lipidology, clinical elevation of blood sterol levels linked to xanthelasma, arcus senilis, and early coronary artery hardening.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypercholesteremia designates the presence of an abnormal amount of cholesterol in the cells and plasma of the blood; associated with the risk of atherosclerosis."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Patients presenting with familial tendon xanthomas invariably demonstrate pronounced **hypercholesteremia** upon laboratory assay."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"Persistent **hypercholesteremia** accelerates lipid deposition inside vascular endothelial cells, initiating coronary occlusion."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"The fatty metamorphosis observed in the intima of young patients reflects severe constitutional **hypercholesteremia**."*

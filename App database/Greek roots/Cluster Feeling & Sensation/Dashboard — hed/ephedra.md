@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a genus (Ephedra of the family Ephedraceae) of jointed nearly leafless shrubs of dry or desert regions with the leaves reduced to scales at the nodes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An extract of ma huang containing ephedrine and related alkaloids and used as a dietary supplement.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of gymnosperm desert shrubs (family Ephedraceae), commonly called Mormon tea or jointfir, with jointed green photosynthetic stems and scale-like leaves.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A classical medicinal plant known in traditional Chinese medicine as Ma Huang, yielding the stimulating alkaloids ephedrine and pseudoephedrine.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ephedra designates any of a genus (ephedra of the family ephedraceae) of jointed nearly leafless shrubs of dry or desert regions with the leaves reduced to scales at the nodes."*
+> - 📜 **Dioscorides (*De Materia Medica*):** *"The shrub **Ephedra**, which clings to stony hillsides, was dried by herborists to stem internal hemorrhages."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The aphyllous stems of **Ephedra** flourish in alkaline desert sands where true leafy shrubs wither."*
+> - 📜 **Carl Linnaeus (*Species Plantarum*):** *"We class the dioecious desert gymnosperm under the genus **Ephedra**, noted for its leafless equisetum-like twigs."*

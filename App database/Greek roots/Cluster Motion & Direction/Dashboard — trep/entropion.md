@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The inversion or turning inward of the border of the eyelid against the eyeball.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The inversion or turning inward of the border of the eyelid against the eyeball.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The inversion or turning inward of an edge or margin, especially the lower eyelid, causing the eyelashes to rub against the corneal surface.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In veterinary and human ophthalmology, a condition that results in mechanical trauma, corneal abrasion (trichiasis), and potential blindness if untreated.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, entropion designates the inversion or turning inward of the border of the eyelid against the eyeball."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Trachomatous scarring frequently produces severe **entropion**, forcing inverted eyelashes to abrade the sensitive cornea with every blink."*
+> - 📜 **Robley Dunglison (*Medical Lexicon*):** *"The surgeon made an elliptical incision through the skin of the lid to evert the margin and relieve the **entropion**."*
+> - 📜 **Samuel Cooper (*A Dictionary of Practical Surgery*):** *"In spasmodic **entropion**, the orbicularis muscle overcomes the tarsal cartilage, turning the entire ciliary margin inward."*

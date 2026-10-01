@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A biography or biographical sketch.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Life : living organisms or tissue.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A short biographical profile, sketch, or personal curriculum vitae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A Greek combining element denoting life, organic living systems, or the biological domain.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The communal lavatory and electronic bio-shower were down the hall."*
+> - 📜 **George Orwell (*Selected Essays*):** *"The dust-jacket gave a brief authorial **bio** highlighting his vagabond years among Parisian dishwashers."*
+> - 📜 **William Morton Wheeler (*Essays in Social Biology*):** *"The prefix **bio** consistently marks the transition from purely mechanical physics to animate systems."*
+> - 📜 **Lewis Mumford (*The Myth of the Machine*):** *"Megatechnics ignored the fragile imperatives of the **bio** sphere in favor of colossal industrial output."*

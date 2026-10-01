@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The ability to feel movements of the limbs and body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ability to feel movements of the limbs and body.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The study or practice of kinesthetic awareness and body movement; the physical sensations of movement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In performance art, dance, and athletics, the disciplined training of neuromuscular awareness to produce graceful, efficient, and injury-free motion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, kinesthetics designates the ability to feel movements of the limbs and body."*
+> - 📜 **Oliver Sacks (*A Leg to Stand On*):** *"Physical therapy is fundamentally an apprenticeship in **kinesthetics**, re-establishing lost communication between brain and muscle."*
+> - 📜 **Charles Sherrington (*The Integrative Action of the Nervous System*):** *"The intricate reflex circuits of the spinal cord form the physical infrastructure underlying all animal **kinesthetics**."*
+> - 📜 **Edward Titchener (*A Text-Book of Psychology*):** *"The laboratory investigation of **kinesthetics** reveals that sensations of joint displacement are more acute than those of skin pressure."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek geu.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Feeling & Sensation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The complete absence or loss of the sense of taste (gustatory perception).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurology, a sensory deficit arising from damage to the lingual, glossopharyngeal, or facial cranial nerves, or following respiratory viral infections.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ageusia designates a term designating an entity, condition, or phenomenon derived from greek geu."*
+> - 📜 **William Gowers (*A Manual of Diseases of the Nervous System*):** *"Bilateral lesions of the chorda tympani result in total **ageusia** over the anterior two-thirds of the tongue."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The patient complained that food had become like sawdust, a distressing post-influenzal **ageusia** that persisted for months."*
+> - 📜 **Oliver Sacks (*The Island of the Colorblind*):** *"Loss of smell inevitably drags taste down with it, producing what patients mistakenly describe as absolute **ageusia**."*

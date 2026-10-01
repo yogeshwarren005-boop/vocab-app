@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek chrys.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Time & Chronology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An irrational and persistent fear or hatred of gold, gold objects, or extreme wealth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In abnormal psychology, a specific phobic aversion triggered by the sight, touch, or social display of gold or gilded currency.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chrysophobia designates a term designating an entity, condition, or phenomenon derived from greek chrys."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Pathological aversions vary widely; while one sufferer fears open spaces, another displays acute **chrysophobia** at the gleam of gold coins."*
+> - 📜 **Havelock Ellis (*Studies in the Psychology of Sex*):** *"The ascetic mystic developed an intense **chrysophobia**, recoiling from ecclesiastical vessels overlaid with precious metal."*
+> - 📜 **Robert Burton (*The Anatomy of Melancholy*):** *"Certain misers, paradoxical in their madness, turn from love of riches to an abhorrent **chrysophobia** of the shiny metal."*

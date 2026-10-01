@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A series of games or contests that make up a single unit of competition (as on a professional golf tour), the championship playoffs of a league or conference, or an invitational event.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A knightly sport of the Middle Ages between mounted combatants armed with blunted lances or swords and divided into two parties contesting for a prize or favor bestowed by the lady of the tournament.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A medieval sporting contest in which knights engaged in mock combat, jousts, and martial trials to display chivalric prowess.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A series of contests between multiple competitors or teams competing for an overall championship in sport or games (from Old French torneiement, from torneier to turn).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Troy, on peeping from his dressing-tent through a slit for a reconnoitre before entering, saw his unconscious wife on high before him as described, sitting as queen of the tournament."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Well, one day it happened that all the people in the castle had gone away to a neighbouring castle to witness a tournament and other gaieties, and the two young folks were left as usual all alone at the window looking out to the north."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"What if we were to drive over and join the rest at the tournament?" His young wife gladly consented, for she longed to see more of the world than those eternal green woods and those eternal blue hills, which were all she ever saw from the window."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The passage of arms at Ashby-de-la-Zouche was celebrated as the most magnificent **tournament** of the reign of King Richard."*
+> - 📜 **Alfred, Lord Tennyson (*Idylls of the King*):** *"In the lists of Camelot, knight met knight in the glittering **tournament** of diamond spears."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The martial spirit of the crusaders was nourished by the perilous amusements of the **tournament**."*

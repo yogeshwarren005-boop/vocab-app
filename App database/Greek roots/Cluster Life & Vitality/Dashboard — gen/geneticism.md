@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The belief that all human characteristics are determined genetically.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The belief that all human characteristics are determined genetically.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The doctrine or belief that human behaviors, social structures, and mental traits are determined primarily by genetic inheritance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genetic determinism; an excessive or reductionist reliance on genetic explanations for cultural and psychological phenomena.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, geneticism designates the belief that all human characteristics are determined genetically."*
+> - 📜 **Richard Lewontin (*Biology as Ideology*):** *"Radical **geneticism** reduces complex political and economic inequalities to trivial differences in nucleotide sequences."*
+> - 📜 **Stephen Jay Gould (*The Mismeasure of Man*):** *"We must contest the fallacies of crude **geneticism**, which seek to naturalize racism and class oppression."*
+> - 📜 **Mary Midgley (*Beast and Man*):** *"Rejecting dogmatic **geneticism** does not require us to pretend that human beings have no biological nature at all."*

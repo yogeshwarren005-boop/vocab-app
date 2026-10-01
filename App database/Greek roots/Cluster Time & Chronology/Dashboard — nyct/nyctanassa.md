@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: American night herons.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: American night herons.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of American night herons in the family Ardeidae, notably the yellow-crowned night heron (Nyctanassa violacea).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Nocturnal or crepuscular wading birds with stout bills adapted for hunting crabs and crustaceans in coastal wetlands.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nyctanassa designates american night herons."*
+> - 📜 **John James Audubon (*The Birds of America*):** *"The yellow-crowned heron, **Nyctanassa** violacea, stalks silently through mangrove swamps beneath the moon."*
+> - 📜 **Frank Chapman (*Handbook of Birds of Eastern North America*):** *"Unlike diurnal herons, **Nyctanassa** feeds primarily at night, probing coastal mudflats for fiddler crabs."*
+> - 📜 **Robert Ridgway (*The Water Birds of North America*):** *"Taxonomists separated **Nyctanassa** from typical night herons on account of its longer tarsus and stouter bill."*

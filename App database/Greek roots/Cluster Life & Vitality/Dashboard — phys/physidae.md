@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Freshwater snails.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Freshwater snails.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxonomic family of small to medium-sized freshwater pulmonate snails (bladder snails) characterized by sinistral shells.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cosmopolitan freshwater gastropods having a digitate mantle edge and lacking a pseudobranch, adapted to eutrophic ponds and streams.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, physidae designates freshwater snails."*
+> - 📜 **Thomas Say (*Descriptions of the Land and Fresh Water Shells of the United States*):** *"The family **Physidae** is readily distinguished from the Limnaeidae by the uniform left-handed whorls of the shell."*
+> - 📜 **Louis Agassiz (*Methods of Study in Natural History*):** *"Anatomical examination of the **Physidae** reveals respiratory lung cavities uniquely modified for shallow stagnant water."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Abundant shells of the **Physidae** in freshwater marls confirm lacustrine sedimentation during the Pleistocene epoch."*

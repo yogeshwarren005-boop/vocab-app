@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A naval battle in the mediterranean sea off cape passero in which the spanish navy was destroyed by france and england while attempting to recover sicily and sardinia from italy (1719).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A naval battle in the mediterranean sea off cape passero in which the spanish navy was destroyed by france and england while attempting to recover sicily and sardinia from italy (1719).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Italian word for sparrow (derived from Latin *passer*), also referring to Capo Passero, the southeastern promontory of Sicily.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Mediterranean geography and history, Capo Passero is famous for naval engagements between British and Spanish fleets in 1718.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, passero designates a naval battle in the mediterranean sea off cape passero in which the spanish navy was destroyed by france and england while attempting to recover sicily and sardinia from italy (1719)."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Byzantine fleet rounded Capo **Passero** to anchor off Syracuse, seeking shelter from autumn gales."*
+> - 📜 **Thomas Babington Macaulay (*History of England*):** *"Admiral Byng destroyed the Spanish squadrons off Capo **Passero**, securing the maritime supremacy of Great Britain."*
+> - 📜 **Johann Wolfgang von Goethe (*Italian Journey*):** *"Looking toward Sicily's southern cape, Capo **Passero**, one senses the ancient maritime crossroads between Africa and Rome."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek bio.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Life & Vitality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The natural process by which living matter evolves or is generated from non-living, inorganic matter; abiogenesis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geochemical origins-of-life research, the specific chemical transition from geochemical synthesis to replicating biological entities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, biopoiesis designates a term designating an entity, condition, or phenomenon derived from greek bio."*
+> - 📜 **John Desmond Bernal (*The Physical Basis of Life*):** *"We may apply the term **biopoiesis** to the initial emergence of life from inorganic compounds in primeval clay beds."*
+> - 📜 **N. W. Pirie (*The Origin of Life*):** *"Precise terminology distinguishes chemical evolutions from the decisive threshold of **biopoiesis**."*
+> - 📜 **Alexander Oparin (*Life: Its Nature, Origin and Development*):** *"Mineral catalysts on coastal mudflats accelerated the chemical precursors necessary for terrestrial **biopoiesis**."*

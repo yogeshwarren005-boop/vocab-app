@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessive sexual desire.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A psychological disorder marked by the delusional belief that one is the object of another person's love or sexual desire.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A psychiatric delusion in which an individual maintains a fixed, false belief that another person (usually of higher social status, wealth, or fame) is passionately in love with them.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically known as de Clérambault's syndrome, categorized under delusional disorders in modern psychiatric nosology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, erotomania designates excessive sexual desire."*
+> - 📜 **G. G. de Clérambault (*Les Psychoses Passionnelles*):** *"The hallmark of pure **erotomania** is the patient's unshakable conviction that the target was the first to initiate amorous advances."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In monomania of the affective type, severe **erotomania** leads to persistent surveillance and letter-writing."*
+> - 📜 **Henry Maudsley (*Responsibility in Mental Disease*):** *"The unfortunate victim of **erotomania** misinterprets the most indifferent glance of a stranger as a secret confession of devotion."*

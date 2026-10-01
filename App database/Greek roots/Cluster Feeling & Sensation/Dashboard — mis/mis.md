@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Management information systems.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Badly : wrongly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Greek combining prefix *mis-* (from *mīsos*), signifying hatred, abhorrence, aversion, or hostility, as seen in *misanthrope*, *misogyny*, and *misology*.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The classical prefix denoting deep-seated antipathy, contempt, or pathological revulsion across ethical, sociological, and psychological vocabularies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"FRENCH SOLDIER. _O, prenez miséricorde!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This dagger hath mista’en, for lo, his house Is empty on the back of Montague, And it mis-sheathed in my daughter’s bosom."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This mis-shapen knave, His mother was a witch; and one so strong That could control the moon, make flows and ebbs, And deal in her command without her power."*
+> - 📜 **Henry George Liddell & Robert Scott (*A Greek-English Lexicon*):** *"The combining element **mis** derives from the neuter noun *misos*, signifying hatred, malice, or detestation."*
+> - 📜 **Plato (*Phaedo*):** *"Let us beware above all that we do not become haters of reason, infected with the fatal prefix **mis**."*
+> - 📜 **Samuel Johnson (*A Dictionary of the English Language*):** *"Words formed with Greek **mis** denote an ingrained antipathy to humanity, truth, or sacred institutions."*

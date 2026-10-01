@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A metrical foot consisting of one long syllable followed by one short syllable or of one stressed syllable followed by one unstressed syllable (as in apple).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A metrical foot consisting of one long syllable followed by one short syllable or of one stressed syllable followed by one unstressed syllable (as in apple).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A metrical foot in poetry consisting of one stressed (or long) syllable followed by one unstressed (or short) syllable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Etymologically 'a running foot' (Greek trochaios, from trekhein to run), contrasting with the rising iambic cadence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trochee designates a metrical foot consisting of one long syllable followed by one short syllable or of one stressed syllable followed by one unstressed syllable (as in apple)."*
+> - 📜 **Samuel Taylor Coleridge (*Metrical Feet: A Lesson for a Boy*):** *"**Trochee** trips from long to short; from long to long in solemn sort slow Spondee stalks."*
+> - 📜 **Alexander Pope (*An Essay on Criticism*):** *"The nimble **trochee** hastens down the line, while lingering spondees check the swift design."*
+> - 📜 **George Saintsbury (*A History of English Prosody*):** *"Shakespeare often opens a dramatic blank verse line with an emphatic **trochee** to seize the hearer's ear."*

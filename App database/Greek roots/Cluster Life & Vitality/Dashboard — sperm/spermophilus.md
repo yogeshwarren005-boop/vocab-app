@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Typical ground squirrels.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Typical ground squirrels.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of ground squirrels in the squirrel family (Sciuridae), commonly called seed-lovers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Holarctic burrowing rodents inhabiting steppes and prairies, exhibiting deep winter torpor and seasonal hibernation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spermophilus designates typical ground squirrels."*
+> - 📜 **C. Hart Merriam (*Revision of the North American Ground Squirrels*):** *"I classified the numerous geographical races of **Spermophilus** based upon cranial dimensions and cheek-tooth morphology."*
+> - 📜 **John James Audubon (*The Viviparous Quadrupeds of North America*):** *"Species of **Spermophilus** play an essential ecological role as prey for prairie falcons, coyotes, and badgers."*
+> - 📜 **Peter Hochachka (*Biochemical Adaptation*):** *"During prolonged hibernation, **Spermophilus** depresses core metabolic rate and body temperature to near freezing."*

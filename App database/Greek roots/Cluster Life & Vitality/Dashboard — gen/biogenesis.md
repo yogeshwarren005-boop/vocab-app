@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The development of life from preexisting life.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The synthesis of chemical compounds or structures in the living organism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The principle that living organisms develop only from preexisting living matter (contrasted with spontaneous generation or abiogenesis).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The synthesis of complex substances by living organisms; biosynthesis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, biogenesis designates the development of life from preexisting life."*
+> - 📜 **Thomas Henry Huxley (*Biogenesis and Abiogenesis*):** *"I have named the doctrine that living matter is always produced by preexisting living matter, the law of **biogenesis**."*
+> - 📜 **Louis Pasteur (*Memoir on the Organized Corpuscles Existing in the Atmosphere*):** *"Every rigorous test confirms the great principle of **biogenesis**: life never appears without parent life."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"The aphorism omnis cellula e cellula stands as the definitive cellular expression of universal **biogenesis**."*

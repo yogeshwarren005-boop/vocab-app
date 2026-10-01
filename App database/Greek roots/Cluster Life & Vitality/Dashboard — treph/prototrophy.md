@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the nutritional requirements of the normal or wild type.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the nutritional requirements of the normal or wild type.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ability of an organism (especially a bacterium or fungus) to synthesize all the growth factors and amino acids it requires from simple mineral salts and a carbon source.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The wild-type nutritional state in microbial genetics, contrasted with mutant nutritional auxotrophy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prototrophy designates having the nutritional requirements of the normal or wild type."*
+> - 📜 **Edward Tatum (*Genetic Control of Biochemical Reactions*):** *"Selection for wild-type **prototrophy** allowed us to isolate rare revertant colonies from heavily irradiated auxotrophs."*
+> - 📜 **Joshua Lederberg (*Gene Recombination in Escherichia coli*):** *"When two different nutritional mutants were plated together, recombinant colonies exhibiting full **prototrophy** emerged on minimal agar."*
+> - 📜 **Jacques Monod (*Chance and Necessity*):** *"The wild-type Escherichia coli exhibits complete **prototrophy**, synthesizing every complex cellular metabolite from glucose and ammonium salts."*

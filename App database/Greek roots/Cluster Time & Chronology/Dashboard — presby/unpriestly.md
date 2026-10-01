@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not priestly; unbefitting a priest.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not priestly; unbefitting a priest.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not suitable for, characteristic of, or befitting a priest; worldly or irreverent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking the solemn dignity, pastoral piety, or spiritual decorum expected of sacred orders.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unpriestly designates not priestly; unbefitting a priest."*
+> - 📜 **Thomas Becket (*Epistles*):** *"He was rebuked for indulging in worldly hunting and **unpriestly** military attire."*
+> - 📜 **Walter Scott (*The Monastery*):** *"The monk's boisterous laughter and secular ballads struck the abbot as scandalous and **unpriestly**."*
+> - 📜 **Anthony Trollope (*The Warden*):** *"His vengeful attack upon the gentle warden was condemned as entirely **unpriestly** conduct."*

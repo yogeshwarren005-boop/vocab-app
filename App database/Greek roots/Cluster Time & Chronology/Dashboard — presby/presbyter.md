@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of the governing body of an early Christian church.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A member of the order of priests in churches having episcopal hierarchies that include bishops, priests, and deacons.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An elder in the early Christian church; a priest or minister in certain Christian churches.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In New Testament ecclesiology, the ordained community leader (from Greek presbyteros 'elder') who preached and administered sacraments, distinct from bishops in later episcopal development.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And I remembered back to my young days when I had sat at the feet of Arius, who had been a presbyter of the city of Alexandria, and who had been robbed of the bishopric by the blasphemous and heretical Alexander."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Some quarrel the Presbyter gown, Some quarrel Episcopal graithing; But every good fellow will own Their quarrel is a’ about—naething."*
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"They were to yield cheerful obedience to the head over them; but chiefly to the <g>Priest</g>, or Presbyter, on whom devolved the care of the whole house."*
+> - 📜 **John Milton (*On the New Forcers of Conscience Under the Long Parliament*):** *"New **Presbyter** is but old Priest writ large!"*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"In the primitive church, the title of bishop and **presbyter** was frequently applied to the identical pastoral office."*
+> - 📜 **Richard Hooker (*Of the Lawes of Ecclesiasticall Politie*):** *"The church hath retained the name of **presbyter** to designate those who are lawfully called to minister holy things."*

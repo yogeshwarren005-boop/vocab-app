@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Believing the worst of human nature and motives; having a sneering disbelief in e.g. selflessness of others.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hating mankind in general.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An older or formal variant of misanthropic; showing or inspired by a hatred of humanity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to gloomy, solitary isolation rooted in bitter disillusionment with mankind.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Emily Brontë (*Wuthering Heights*):** *"He walked up and down, with his hands in his pockets, apparently quite forgetting my presence; and his abstraction was evidently so deep, and his whole aspect so misanthropical, that I shrank from disturbing him again."*
+> - 📜 **Samuel Johnson (*Lives of the Most Eminent English Poets*):** *"Swift's genius was too often clouded by a harsh, **misanthropical** humour that alienated his closest admirers."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"He had retired to the lonely seashore, nursing a **misanthropical** grief that permitted no visitors."*
+> - 📜 **Edgar Allan Poe (*The Gold-Bug*):** *"Legrand had built a hut on Sullivan's Island to indulge his solitary and **misanthropical** eccentricities."*

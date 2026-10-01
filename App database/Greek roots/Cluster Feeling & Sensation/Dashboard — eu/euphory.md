@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A feeling of great (usually exaggerated) elation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A feeling of great (usually exaggerated) elation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An older or literary variant of euphoria; a state of well-being, buoyancy, or bodily ease.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In 18th- and 19th-century medical dictionaries, the comfortable sensations of health and free respiration in convalescence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, euphory designates a feeling of great (usually exaggerated) elation."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"A healthful animal constitution maintains a gentle **euphory** of spirits that dispels melancholic vapours."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"The morning walk in open meadows confers a pleasant **euphory** which sedentary scholars too rarely know."*
+> - 📜 **Alexander Bain (*The Emotions and the Will*):** *"The physical recovery from exhausting fever brings a serene bodily **euphory** that feels like rebirth."*

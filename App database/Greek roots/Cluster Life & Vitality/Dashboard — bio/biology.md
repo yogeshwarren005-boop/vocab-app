@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of knowledge that deals with living organisms and vital processes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The plant and animal life of a region or environment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific study of living organisms, including their structure, functioning, evolution, distribution, and taxonomy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The living flora and fauna or biological characteristics of a specific region, organism, or environment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Every day he seemed to become more interested in biology, and his name appeared once or twice in some of the scientific reviews in connection with certain curious experiments."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The study of biology of late has made patent the unending differences that prevail throughout the animate world."*
-> - 📜 **Byron J. Rees (*The Heart-Cry of Jesus*):** *"Famishing congregations are proffered the bugs of biology, the rocks of geology, and the stars of astronomy until their souls revolt, and they demand bread and meat."*
+> - 📜 **Jean-Baptiste Lamarck (*Hydrogéologie*):** *"To this broad domain encompassing all phenomena of living bodies, I give the name of **biology**."*
+> - 📜 **Thomas Henry Huxley (*On the Study of Biology*):** *"Modern **biology** is simply the collection of all truths which have been ascertained concerning living matter."*
+> - 📜 **Theodosius Dobzhansky (*Nothing in Biology Makes Sense Except in the Light of Evolution*):** *"Nothing in **biology** makes sense except in the light of evolution; without it, biological facts become an incoherent mosaic."*

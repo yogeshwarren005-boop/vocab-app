@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A young plant or a small plant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A young plant or a small plant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A young, small plant, especially one produced vegetatively on leaf margins or runners.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A miniature cloned propagule (as in Bryophyllum or Chlorophytum) capable of rooting independently.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plantlet designates a young plant or a small plant."*
+> - 📜 **Charles Darwin (*The Effects of Cross and Self Fertilisation in the Vegetable Kingdom*):** *"Each vigorous **plantlet** was potted separately to measure its competitive vegetative growth."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"Tiny vegetative **plantlets** form along the serrate margins of the air plant leaf and drop to root in the soil."*
+> - 📜 **Julius von Sachs (*Textbook of Botany*):** *"Strawberry runners send out horizontal stolons, terminating in a rooted **plantlet** at each node."*

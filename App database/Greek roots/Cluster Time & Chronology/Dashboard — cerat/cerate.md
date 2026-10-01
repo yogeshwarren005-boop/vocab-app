@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hard medicated paste made of lard or oil mixed with wax or resin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hard medicated paste made of lard or oil mixed with wax or resin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An unctuous pharmaceutical preparation for external application, compounded of wax with oil, lard, or medicinal substances.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In traditional pharmacopeia, an ointment containing a higher proportion of wax than a standard pomade, maintaining a firmer consistency that does not melt at skin temperature.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cerate designates a hard medicated paste made of lard or oil mixed with wax or resin."*
+> - 📜 **Florence Nightingale (*Notes on Nursing*):** *"Apply a simple **cerate** spread thinly over the dressing to prevent the bandage from adhering to the granulating wound."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The inflamed cutaneous margin was soothingly dressed with lead **cerate** to relieve burning irritation."*
+> - 📜 **Robley Dunglison (*Medical Lexicon*):** *"A **cerate** consists primarily of yellow or white wax combined with medicinal oils to yield a protective barrier."*

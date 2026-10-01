@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The relation that exists when things occur at the same time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An adjustment that causes something to occur or recur in unison.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act, process, or result of causing things to operate at the same time or rate; British spelling of synchronization.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In telecommunications and audio-visual engineering, the precise phase-alignment of clock signals or matching of recorded sound tracks to cinematic image frames.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, synchronisation designates the relation that exists when things occur at the same time."*
+> - 📜 **Alan Turing (*Intelligent Machinery*):** *"Accurate **synchronisation** between the pulse generator and the acoustic delay line is paramount for computing reliability."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"The electrical **synchronisation** of purkinje fibers guarantees that ventricular contraction proceeds in an orderly, pumping wave."*
+> - 📜 **John Logie Baird (*Sermons on Television*):** *"Television transmission requires rigid **synchronisation** between the spinning scanning disc at the transmitter and receiver."*

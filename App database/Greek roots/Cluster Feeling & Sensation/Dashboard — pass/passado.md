@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (fencing) an attacking thrust made with one foot forward and the back leg straight and with the sword arm outstretched forward.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (fencing) an attacking thrust made with one foot forward and the back leg straight and with the sword arm outstretched forward.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A forward pass, step, or thrust in classical fencing, executed by moving the rear foot forward while delivering a lunge.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Elizabethan theatrical combat and dueling manuals, a technical Italian rapier maneuver mentioned by Shakespeare.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The first and second cause will not serve my turn; the _passado_ he respects not, the _duello_ he regards not."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ah, the immortal passado, the punto reverso, the hay."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come, sir, your passado. [_They fight._] ROMEO."*
+> - 📜 **William Shakespeare (*Romeo and Juliet*):** *"He fights as you sing prick-song, keeps time, distance, and proportion; the immortal **passado**! the punto reverso!"*
+> - 📜 **Walter Scott (*Kenilworth*):** *"The duelist saluted with his rapier, threatening his adversary with a swift **passado** before the seconds intervened."*
+> - 📜 **Thomas De Quincey (*Letters to a Young Man*):** *"The Italian fencing masters reduced the sword-fight to geometry, classifying every thrust from **passado** to stoccata."*

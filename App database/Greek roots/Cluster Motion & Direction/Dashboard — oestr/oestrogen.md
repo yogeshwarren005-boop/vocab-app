@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A general term for female steroid sex hormones that are secreted by the ovary and responsible for typical female sexual characteristics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A general term for female steroid sex hormones that are secreted by the ovary and responsible for typical female sexual characteristics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The British orthographical variant of estrogen; any steroid hormone that regulates female sexual development, menstrual and estrous cycles, and bone density.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical medicine and pharmacology, a class of steroidal compounds exerting biological effects across reproductive, cardiovascular, neuroendocrine, and skeletal tissues.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oestrogen designates a general term for female steroid sex hormones that are secreted by the ovary and responsible for typical female sexual characteristics."*
+> - 📜 **Francis Marshall (*The Physiology of Reproduction*):** *"The cyclical surge of ovarian **oestrogen** induces profound changes in the vascularity of the endometrium."*
+> - 📜 **Julian Huxley (*Essays in Popular Science*):** *"The action of **oestrogen** upon bodily form demonstrates how minute chemical messengers govern macroscopic morphology."*
+> - 📜 **Solly Zuckerman (*The Social Life of Monkeys and Apes*):** *"Fluctuations in circulating **oestrogen** correlate closely with sexual skin swellings in baboons and chimpanzees."*

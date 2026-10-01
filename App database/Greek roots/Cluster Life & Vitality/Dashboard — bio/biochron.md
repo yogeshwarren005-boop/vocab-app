@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek bio.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Life & Vitality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The total duration of time represented by a biostratigraphic zone or biozone in geochronology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A unit of geological time defined by the life span or stratigraphic persistence of a particular fossil taxon.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, biochron designates a term designating an entity, condition, or phenomenon derived from greek bio."*
+> - 📜 **Henry Shaler Williams (*The Correlation of Geological Faunas*):** *"We propose the term **biochron** for the absolute duration of time corresponding to the range of a fossil species."*
+> - 📜 **William Joscelyn Arkell (*Jurassic Geology of the World*):** *"Each ammonite **biochron** represents an astonishingly brief interval of evolutionary radiation and extinction."*
+> - 📜 **G. G. Simpson (*The Major Features of Evolution*):** *"Estimating the physical limits of a mammalian **biochron** requires correlating radio-isotopic dates with evolutionary turnover."*

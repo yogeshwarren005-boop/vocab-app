@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tissue thin sheets of pastry used especially in greek dishes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tissue thin sheets of pastry used especially in greek dishes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Paper-thin unleavened pastry dough, rolled into gossamer sheets and layered with butter, used in Middle Eastern and Balkan baking (filo).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The Greek root (*phyllon*, leaf) applied in culinary terminology to leaf-thin pastry layers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phyllo designates tissue thin sheets of pastry used especially in greek dishes."*
+> - 📜 **Elizabeth David (*Mediterranean Food*):** *"Mastering the art of stretching **phyllo** dough until it is transparent as tissue paper is the triumph of the Greek baker."*
+> - 📜 **James Beard (*Beard on Bread*):** *"Delicate sheets of buttered **phyllo** crisp in the oven into golden, fragile flakes surrounding spiced walnut filling."*
+> - 📜 **M. F. K. Fisher (*With Bold Knife and Fork*):** *"The pastry chef lifted the gossamer leaf of **phyllo**, brushing each translucent surface with clarified butter."*

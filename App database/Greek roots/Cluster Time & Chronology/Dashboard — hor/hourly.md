@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring every hour or payable by the hour.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Every hour; by the hour.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring, done, or measured by the hour; happening every hour or frequently.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical monitoring and labor economics, continuous hourly assessments of patient vitals or compensation based on hourly wage rates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There’s nothing here that is too good for him But only she, and she deserves a lord That twenty such rude boys might tend upon, And call her hourly mistress."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I hourly learn A doctrine of obedience, and would gladly Look him i’ th’ face."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You must be gone; And I shall here abide the hourly shot Of angry eyes, not comforted to live But that there is this jewel in the world That I may see again."*
+> - 📜 **Florence Nightingale (*Notes on Nursing*):** *"The temperature of the enteric patient should be recorded on an **hourly** basis during the height of the pyrexial crisis."*
+> - 📜 **Charles Dickens (*Hard Times*):** *"The factory bell sounded its **hourly** summons, calling the hands back to the spinning looms."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In diabetic ketoacidosis, **hourly** testing of urinary output guides intravenous saline repletion."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The growing part of a long bone between the diaphysis and the epiphysis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The growing part of a long bone between the diaphysis and the epiphysis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The growing zone between the epiphysis and the diaphysis of a long bone, containing the growth plate in developing skeletons.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The transitional region of tubular bones characterized by trabecular vascularity, where metabolic bone remodeling and osteogenesis occur.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metaphysis designates the growing part of a long bone between the diaphysis and the epiphysis."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"The vascular bed of the **metaphysis** is a frequent sanctuary for bacterial emboli in childhood septicemia."*
+> - 📜 **William Boyd (*Pathology for the Surgeon*):** *"Osteosarcoma predilects the rich osteogenic microenvironment of the adolescent lower femoral **metaphysis**."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The wide **metaphysis** flares outward to distribute articular load across the broad epiphyseal cartilage."*

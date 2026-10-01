@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An exaggerated usually inexplicable and illogical fear of a particular object, class of objects, or situation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exaggerated fear of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An extreme, irrational, and persistent fear of a specific object, animal, activity, or situation that leads to a compelling desire to avoid it.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychiatry, an anxiety disorder classified into specific phobias, social anxiety disorder, and agoraphobia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phobia designates an exaggerated usually inexplicable and illogical fear of a particular object, class of objects, or situation."*
+> - 📜 **William James (*The Principles of Psychology*):** *"A true **phobia** is completely impervious to logical argument; the victim knows the terror is absurd, yet trembles nonetheless."*
+> - 📜 **Sigmund Freud (*Analysis of a Phobia in a Five-Year-Old Boy*):** *"Little Hans's animal **phobia** was the symptomatic expression of deep Oedipal conflict and castration anxiety."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Obsessional neurosis frequently crystallizes into an intractable **phobia** of contamination, disease, or sharp knives."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek blast.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Life & Vitality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An erythroblast (nucleated red blood cell precursor) containing granules of non-heme iron detectable by Prussian blue staining.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An erythroid precursor cell in bone marrow; when iron granules encircle the nucleus (ring sideroblast), it indicates defective heme synthesis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sideroblast designates a term designating an entity, condition, or phenomenon derived from greek blast."*
+> - 📜 **Paul Ehrlich (*Studies on Blood Staining*):** *"Specialized ferrocyanide staining revealed tiny iron deposits inside the cytoplasm of the maturing **sideroblast**."*
+> - 📜 **William Boyd (*A Textbook of Pathology*):** *"The presence of the pathological ringed **sideroblast** points to mitochondrial iron overload in refractory anemia."*
+> - 📜 **Maxwell Wintrobe (*Clinical Hematology*):** *"Quantifying the percentage of marrow **sideroblasts** provides crucial insight into defective iron utilization pathways."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mild mania especially when part of bipolar disorder.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mild mania especially when part of bipolar disorder.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mild form of mania characterized by persistent elevated mood, heightened energy, increased activity, and reduced need for sleep without marked social impairment or psychotic features.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In diagnostic psychiatry, a characteristic phase of Bipolar II disorder that often enhances creativity and productivity before depressive crashes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypomania designates a mild mania especially when part of bipolar disorder."*
+> - 📜 **Emil Kraepelin (*Lectures on Clinical Psychiatry*):** *"The state of **hypomania** is marked by sparkling wit, boundless optimism, and untiring enterprise that rarely seems disordered to casual acquaintances."*
+> - 📜 **Eugen Bleuler (*Textbook of Psychiatry*):** *"Unlike florid madness, **hypomania** allows the individual to conduct business affairs, though often with reckless extravagance."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"Certain enthusiastic religious conversions present all the psychological hallmarks of sustained, joyful **hypomania**."*

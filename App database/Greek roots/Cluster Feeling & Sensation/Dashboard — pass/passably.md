@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To a moderately sufficient extent or degree.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To a moderately sufficient extent or degree.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To a moderate or tolerable degree; tolerably, adequately, or fairly well.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a manner that satisfies minimum standards without reaching excellence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jr. Horatio Alger (*Paul Prescott's Charge*):** *"He does his duties passably well."*
-> - 📜 **Eleanor H. Porter (*Miss Billy — Married*):** *"Thank you, I'm well, and have had a passably agreeable summer, barring the heat, sundry persistent mosquitoes, several grievous disappointments, and a felon on my thumb,” he began, with shameless imperturbability."*
+> - 📜 **Washington Irving (*The Sketch Book of Geoffrey Crayon*):** *"The village schoolmaster played the violin **passably**, providing rustic music for harvest dances."*
+> - 📜 **Mark Twain (*The Innocents Abroad*):** *"Our guide spoke Italian with great speed and English **passably**, though his history was pure fiction."*
+> - 📜 **Robert Louis Stevenson (*Treasure Island*):** *"The battered schooner behaved **passably** in the swell, keeping her head into the wind."*

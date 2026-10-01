@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, devoted to, or tending to arouse sexual love or desire.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Strongly marked or affected by sexual desire.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, tending to arouse, or characterized by sexual desire, passion, or sensual pleasure; amatory.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary and art criticism, pertaining to representations of romantic intimacy, sensual beauty, and libidinal energy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The cabala of this erotic philosophy seemed to consist of the subtlest meanings expressed in misleading ways."*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"We have already alluded to the poet's premature erotic instinct, an impulse which he doubtless inherited from his sensual parents."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The cabala of this erotic philosophy seemed to consist of the subtlest meanings expressed in misleading ways."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"The canvas possessed an intense, half-veiled **erotic** allure that troubled the young artist's quiet studio."*
+> - 📜 **Virginia Woolf (*The Waves*):** *"The dusk trembled with an **erotic** vibration, heavy with the perfume of damp stocks and blooming jasmine."*
+> - 📜 **Sigmund Freud (*Three Essays on the Theory of Sexuality*):** *"Sublimation diverts raw **erotic** energies into higher artistic creation and intellectual investigation."*

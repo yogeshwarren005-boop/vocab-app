@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of plants of the family crassulaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of plants of the family crassulaceae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of succulent subtropical plants in the family Crassulaceae, characterized by rosettes of fleshy leaves growing on woody stems.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In hortus and systematic botany, succulent perennials native primarily to the Canary Islands, Madeira, and East Africa, noted for monocarpic flowering rosettes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aeonium designates a genus of plants of the family crassulaceae."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"The species of **Aeonium** produce magnificent terminal rosettes resembling green rosettes of sculpted stone."*
+> - 📜 **Charles de l'Écluse (*Rariorum Plantarum Historia*):** *"The fleshy leaves of **Aeonium** endure prolonged drought by husbanding moisture within their thick succulent tissues."*
+> - 📜 **Joseph Dalton Hooker (*Curtis's Botanical Magazine*):** *"Specimens of **Aeonium** collected from the basaltic cliffs of Tenerife bloomed with impressive golden thyrses."*

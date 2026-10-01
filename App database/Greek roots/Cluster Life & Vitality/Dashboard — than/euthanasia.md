@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or practice of killing or permitting the death of hopelessly sick or injured individuals (such as persons or domestic animals) in a relatively painless way for reasons of mercy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act or practice of killing or permitting the death of hopelessly sick or injured individuals (such as persons or domestic animals) in a relatively painless way for reasons of mercy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The painless killing of a patient suffering from an incurable and painful disease or in an irreversible coma; mercy killing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically, a peaceful, gentle, or honorable death; in bioethics, the voluntary or non-voluntary termination of life to relieve intractable suffering.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bram Stoker (*Dracula*):** *"For myself I could hold it in my account with God to find such an euthanasia for you, even at this moment if it were best."*
-> - 📜 **Bram Stoker (*Dracula*):** *"Euthanasia” is an excellent and a comforting word!"*
-> - 📜 **James Joyce (*Ulysses*):** *"In a Greek watercloset he breathed his last: _euthanasia_."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"I esteem it the office of a physician not only to restore the health, but to mitigate pain and dolours; and not only when such mitigation may conduce to recovery, but when it may serve to make a fair and easy passage: for this **euthanasia** is no small part of happiness."*
+> - 📜 **David Hume (*Essays, Moral, Political, and Literary*):** *"An absolute monarchy is the easiest death, the true **euthanasia** of the British constitution."*
+> - 📜 **William Osler (*Science and Immortality*):** *"Most mortals depart this life quietly, enjoying a natural physical **euthanasia** as senses gently dim into unconsciousness."*

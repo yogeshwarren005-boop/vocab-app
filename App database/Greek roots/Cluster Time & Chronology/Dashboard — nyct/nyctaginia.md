@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A caryophyllaceous genus of the family nyctaginaceae having only one species.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A caryophyllaceous genus of the family nyctaginaceae having only one species.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of North American wildflowers in the family Nyctaginaceae, commonly called scarlet muskflower (Nyctaginia capitata).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Glandular-pubescent herbs native to Texas and northern Mexico with brilliant red nocturnal or vespertine flowers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nyctaginia designates a caryophyllaceous genus of the family nyctaginaceae having only one species."*
+> - 📜 **Asa Gray (*Plantae Wrightianae Texano-Neo-Mexicanae*):** *"Wright collected specimens of **Nyctaginia** capitata blooming along gravelly arroyos near the Rio Grande."*
+> - 📜 **John Torrey (*Botany of the Mexican Boundary Survey*):** *"The sticky glandular foliage of **Nyctaginia** bears dense heads of vivid scarlet flowers."*
+> - 📜 **Charles Sprague Sargent (*Garden and Forest*):** *"Horticulturalists prized **Nyctaginia** for its ability to thrive in arid soils while blooming through warm summer evenings."*

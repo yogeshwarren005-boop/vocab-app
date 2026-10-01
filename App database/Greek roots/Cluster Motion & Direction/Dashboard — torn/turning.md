@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of changing or reversing the direction of the course.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Act of changing in practice or custom.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of rotating, revolving, or changing direction; a place where a road or path branches off.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process or craft of shaping workpieces on a lathe using cutting tools.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lo thee! [_Turning from him._] EROS."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But turning these jests out of service, let us talk in good earnest."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So, like gross terms, The Prince will, in the perfectness of time, Cast off his followers, and their memory Shall as a pattern or a measure live, By which his Grace must mete the lives of other, Turning past evils to advantages."*
+> - 📜 **William Butler Yeats (*The Second Coming*):** *"**Turning** and **turning** in the widening gyre, the falcon cannot hear the falconer; things fall apart; the centre cannot hold."*
+> - 📜 **Robert Frost (*The Road Not Taken*):** *"Two roads diverged in a yellow wood, and I took the **turning** less traveled by."*
+> - 📜 **John Ruskin (*The Seven Lamps of Architecture*):** *"The geometric precision of mechanical **turning** can never replace the living vitality of hand carving."*

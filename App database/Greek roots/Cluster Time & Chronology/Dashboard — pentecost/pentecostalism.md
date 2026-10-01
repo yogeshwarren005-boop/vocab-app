@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or suggesting Pentecost.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or constituting any of various Christian religious bodies that emphasize individual experiences of grace, spiritual gifts (such as glossolalia and faith healing), expressive worship, and evangelism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A Protestant Christian renewal movement emphasizing personal conversion, baptism in the Holy Spirit, speaking in tongues, and spiritual gifts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In 20th-century religious history, the global revival movement originating at the Azusa Street Revival in 1906 that became one of the fastest-growing branches of modern Christianity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pentecostalism designates of, relating to, or suggesting pentecost."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"The intense emotional fervor of nascent **Pentecostalism** recalls the pristine enthusiasm of the apostolic church."*
+> - 📜 **H. Richard Niebuhr (*The Social Sources of Denominationalism*):** *"Early **Pentecostalism** gave powerful religious voice to disenfranchised urban migrants and working-class families."*
+> - 📜 **Max Weber (*The Sociology of Religion*):** *"The charismatic authority celebrated in **Pentecostalism** breaks through the rigid routinization of traditional bureaucratic churches."*

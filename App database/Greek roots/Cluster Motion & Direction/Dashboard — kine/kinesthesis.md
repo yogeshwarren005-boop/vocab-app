@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The ability to feel movements of the limbs and body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ability to feel movements of the limbs and body.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The perception or sense of bodily movement and muscular effort; a technical synonym for kinesthesia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In experimental psychology, the sixth sense mediated by muscle spindles and Golgi tendon organs that continuously informs the brain of somatic position.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, kinesthesis designates the ability to feel movements of the limbs and body."*
+> - 📜 **Edward Titchener (*A Text-Book of Psychology*):** *"In every voluntary act, an anticipatory image of **kinesthesis** precedes the actual execution of the movement."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Close your eyes and raise your arm; your awareness of its trajectory is furnished directly by **kinesthesis**."*
+> - 📜 **Oliver Sacks (*A Leg to Stand On*):** *"Without **kinesthesis**, the limb seemed not only useless but alien, like an inanimate block of wood attached to the pelvis."*

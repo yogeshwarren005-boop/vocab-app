@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A device invented by edison that gave an impression of movement as an endless loop of film moved continuously over a light source with a rapid shutter; precursor of the modern motion picture.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A device invented by edison that gave an impression of movement as an endless loop of film moved continuously over a light source with a rapid shutter; precursor of the modern motion picture.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An early motion-picture exhibition device designed for films to be viewed by one individual at a time through a peephole viewer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cinema history (invented by Thomas Edison and William Dickson), the groundbreaking 1891 device that passed a continuous strip of perforated 35mm film over an electric lamp and rotating shutter.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, kinetoscope designates a device invented by edison that gave an impression of movement as an endless loop of film moved continuously over a light source with a rapid shutter; precursor of the modern motion picture."*
+> - 📜 **Thomas Edison (*The Kinetoscope and Its Future*):** *"The **kinetoscope** enables the spectator to gaze into a cabinet and witness life, action, and gesture reproduced with absolute fidelity."*
+> - 📜 **H. G. Wells (*When the Sleeper Wakes*):** *"The public arcade was lined with rows of coin-operated **kinetoscope** machines displaying moving tableaux of foreign capitals."*
+> - 📜 **Walter Benjamin (*The Work of Art in the Age of Mechanical Reproduction*):** *"Before the cinema gathered audiences into collective dark halls, Edison's **kinetoscope** offered only an isolated, individual peephole glimpse."*

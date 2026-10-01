@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek hedon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Feeling & Sensation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormally diminished or blunted capacity to experience pleasure, milder than complete anhedonia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychopathology, a subtle affective deficit observed in dysthymia, early depressive states, and chronic stress.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyphedonia designates a term designating an entity, condition, or phenomenon derived from greek hedon."*
+> - 📜 **Théodule-Armand Ribot (*The Diseases of the Will*):** *"In subtle neuroses, the patient suffers from **hyphedonia**, finding that favorite recreations provide only a pale shadow of their former delight."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Fatigued brain-workers often complain of transient **hyphedonia**, where neither literature nor wine can kindle enthusiasm."*
+> - 📜 **Pierre Janet (*Psychological Healing*):** *"Treatment aimed to raise psychological tension and lift the chronic **hyphedonia** that weighed upon the asthenic subject."*

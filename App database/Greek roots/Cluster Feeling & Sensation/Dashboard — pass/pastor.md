@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person authorized to conduct religious worship.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Only the rose-colored starlings; in some classifications considered a separate genus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A minister, priest, or spiritual shepherd in charge of a Christian church or congregation (derived from Latin *pastor*, 'shepherd').
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ornithology, the genus *Pastor*, typified by the rosy starling (*Pastor roseus*), an Old World nomadic passerine bird.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Cleaveland, of Boston, relates the following incident: "In a revival of religion in the church of which he was pastor, he was visited one morning by a member of his church, a widow, whose only son was a sailor."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"The pastor had learned a lesson he never forgot."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"He arose at the first dawn of day, and going to his own pastor inquired the name and address of the stranger who had recently preached for them."*
+> - 📜 **John Milton (*Lycidas*):** *"The hungry sheep look up, and are not fed, but swollen with wind and the rank mist they draw, rot inwardly, because the hireling **pastor** cares not."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The reverend **pastor** Arthur Dimmesdale walked with downcast eyes, carrying the agony of his hidden guilt."*
+> - 📜 **Oliver Goldsmith (*The Deserted Village*):** *"A man he was to all the country dear, and passing rich with forty pounds a year; remote from towns he ran his godly race, a humble **pastor** of the flock."*

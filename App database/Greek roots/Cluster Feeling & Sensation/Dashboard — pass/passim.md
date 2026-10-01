@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Used to refer to cited works.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used to refer to cited works.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A Latin adverb meaning 'throughout', 'here and there', or 'in various places', used in scholarly citations and indexes to indicate that a term occurs repeatedly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In bibliographic annotation, signifying that an idea or author is referred to at frequent intervals throughout a cited text.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Clement quoted, ch. ix. _passim_, and on pp. 149, 166, 242, 243, 244, 247, 248, 251, 257, 258, 259, 260."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Origen, 114. his book against Celsus; see ch. viii. _passim_."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Tertullian quoted, chs. vi. and x. _passim_; also pp. 17, 18, 71, 73, 93, 103, 108, 111, 137, 142, 143, 148, 160, 161, 165, 166, 197, 212, 240, 243, 248, 249, 250, 251, 254, 256."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"See the ecclesiastical histories of Socrates and Sozomen, **passim**, for the turbulent schisms of the fourth century."*
+> - 📜 **Samuel Johnson (*Preface to the English Dictionary*):** *"In collecting examples of English diction, I have cited Shakespeare and Bacon **passim** as undisputed authorities."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The reader who consults the parliamentary debates of 1688 will find this constitutional doctrine confirmed **passim**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to biosynthesis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to biosynthesis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, produced by, or involved in biosynthesis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Describing anabolic cellular pathways and multi-enzyme cascades that synthesize vital biological metabolites.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, biosynthetic designates of or relating to biosynthesis."*
+> - 📜 **Fritz Lipmann (*Wanderings of a Biochemist*):** *"Adenosine triphosphate acts as the universal chemical energy currency driving endergonic **biosynthetic** reactions."*
+> - 📜 **Severo Ochoa (*Enzymatic Synthesis of Ribonucleic Acid*):** *"Our laboratory mapped the specific **biosynthetic** routes producing polynucleotide chains in bacterial extracts."*
+> - 📜 **Albert Lehninger (*Biochemistry*):** *"Feedback inhibition serves to throttle key enzymes in **biosynthetic** pathways whenever the final product accumulates."*

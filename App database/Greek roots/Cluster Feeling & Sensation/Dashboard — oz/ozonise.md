@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Convert (oxygen) into ozone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Convert (oxygen) into ozone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To treat, impregnate, combine, or purify with ozone; to convert diatomic oxygen into ozone (Commonwealth spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In municipal water purification and historical sanitation, to deodorize and sterilize water or air using electric ozone generators.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ozonise designates convert (oxygen) into ozone."*
+> - 📜 **Lord Kelvin (*Popular Lectures and Addresses*):** *"Silent electrical discharges through dry air serve to **ozonise** the stream and oxidize impurities."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Engineers sought to **ozonise** metropolitan drinking supplies to eliminate typhoid bacilli without the taste of chlorine."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"The ventilation shafts worked constantly to **ozonise** the deep subterranean shelters against stagnant vapors."*

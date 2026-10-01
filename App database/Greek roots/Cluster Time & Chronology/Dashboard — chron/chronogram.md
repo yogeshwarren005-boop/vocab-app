@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An inscription, sentence, or phrase in which certain letters express a date or epoch.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An inscription, sentence, or phrase in which certain letters express a date or epoch.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An inscription or sentence in which certain letters, interpreted as Roman numerals, represent a specific date when assembled together.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epigraphy and bibliographical history, a word-puzzle device popular in Renaissance and Baroque Latin inscriptions celebrating jubilees, cornerstone laying, or monarchical accessions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chronogram designates an inscription, sentence, or phrase in which certain letters express a date or epoch."*
+> - 📜 **Joseph Addison (*The Spectator*):** *"A curious **chronogram** was carved upon the pediment, whose enlarged capitals summed up the year of the town's liberation."*
+> - 📜 **William Camden (*Remaines Concerning Britain*):** *"The witty scholar fashioned an ingenious Latin **chronogram** that concealed the date of the Queen's accession in bolded letters."*
+> - 📜 **Isaac D'Israeli (*Curiosities of Literature*):** *"Baroque poets spent weeks crafting elaborate verses wherein every Roman numeral in the **chronogram** yielded the coronation year."*

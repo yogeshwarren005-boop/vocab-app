@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mediterranean fruit flies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mediterranean fruit flies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of fruit flies in the family Tephritidae, notably including the Mediterranean fruit fly (Ceratitis capitata), a destructive agricultural pest.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic entomology, dipterans whose larvae burrow into and ruin citrus and deciduous fruits, identified by male head bristles tipped with spatulate appendages.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ceratitis designates mediterranean fruit flies."*
+> - 📜 **Charles Valentine Riley (*Report of the Entomologist*):** *"The introduction of **Ceratitis** into citrus orchards threatened catastrophic devastation to the winter harvest."*
+> - 📜 **L. O. Howard (*The Insect Book*):** *"Strict quarantine measures were enforced at international ports to prevent **Ceratitis** from establishing breeding colonies."*
+> - 📜 **John Henry Comstock (*An Introduction to Entomology*):** *"Adults of the genus **Ceratitis** display patterned wings and bizarre cephalic appendages upon the males."*

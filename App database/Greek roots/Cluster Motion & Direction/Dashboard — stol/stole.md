@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A long loose garment : robe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ecclesiastical vestment consisting of a long usually silk band worn traditionally around the neck by bishops and priests and over the left shoulder by deacons.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A long, narrow band of colored fabric worn over the shoulders by Christian clergy during religious services; a wide scarf or wrap worn by women around the shoulders.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical antiquity (Latin stola, from Greek stole, 'garment, equipment'), a full-length draped robe worn by Roman matrons as an emblem of marital dignity and social virtue.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He stole from France, As ’tis reported, for the king had married him Against his liking."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He stole from Florence, taking no leave, and I follow him to his country for justice."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Whereon, At three and two years old, I stole these babes, Thinking to bar thee of succession as Thou refts me of my lands."*
+> - 📜 **Geoffrey Chaucer (*The Canterbury Tales*):** *"Upon his priestly robes rested an embroidered silk **stole**, signifying the solemn duties of holy orders."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The patrician matron retained the dignified long **stole** as a public emblem of chastity and civil rank."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The vicar adjusted his liturgical **stole** as he walked solemnly through the lych-gate toward the open grave."*

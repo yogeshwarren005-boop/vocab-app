@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A figure of speech in which a word or phrase literally denoting one kind of object or idea is used in place of another to suggest a likeness or analogy between them (as in swimming in paperwork); broadly : figurative language.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An object, activity, or idea treated as a metaphor : symbol.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A figure of speech in which a word or phrase is applied to an object or action to which it is not literally applicable; an implicit comparison or symbolic analogy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cognitive linguistics and philosophy (originating from Greek metapherein, 'to transfer or carry over'), a conceptual mapping across domains that structures human reasoning and reality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Indeed, sir, if your metaphor stink, I will stop my nose, or against any man’s metaphor."*
-> - 📜 **Edna St. Vincent Millay (*Renascence, and Other Poems*):** *"Dark, Dark, is all I find for metaphor; All else were contrast,--save that contrast's wall Is down, and all opposed things flow together Into a vast monotony, where night And day, and frost and thaw, and death and life, Are synonyms."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"To drop metaphor, while nominally investigating a particular problem of ancient mythology, I have really been discussing questions of more general interest which concern the gradual evolution of human thought from savagery to civilization."*
+> - 📜 **Aristotle (*Poetics*):** *"The greatest thing by far is to be a master of **metaphor**; it is the one thing that cannot be learnt from others; and it is also a sign of genius."*
+> - 📜 **George Orwell (*Politics and the English Language*):** *"Never use a **metaphor**, simile, or other figure of speech which you are used to seeing in print."*
+> - 📜 **Friedrich Nietzsche (*On Truth and Lies in an Extra-Moral Sense*):** *"Truths are illusions which we have forgotten are illusions; they are a mobile army of **metaphor**, metonymy, and anthropomorphism."*

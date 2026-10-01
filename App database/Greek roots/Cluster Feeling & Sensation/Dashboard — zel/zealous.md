@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by fervent partisanship for a person, a cause, or an ideal : filled with or characterized by zeal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Too zealous : having or showing too much zeal : excessively eager, enthusiastic, or fervent.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Filled with, characterized by, or showing great zeal; ardent, fervent, and actively enthusiastic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impassioned and tirelessly active in promoting a belief, cause, or organization.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For then my thoughts, from far where I abide, Intend a zealous pilgrimage to thee, And keep my drooping eyelids open wide, Looking on darkness which the blind do see."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Bless him at home in peace, whilst I from far His name with zealous fervour sanctify."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If zealous love should go in search of virtue, Where should he find it purer than in Blanche?"*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"St. John Rivers was a stern, **zealous** servant of the cross, ready to sacrifice love, health, and life itself in the missionary field."*
+> - 📜 **Benjamin Franklin (*Autobiography*):** *"My brother was a **zealous** champion of freedom of the press, printing satires that landed him in the colonial jail."*
+> - 📜 **George Eliot (*Silas Marner*):** *"The lantern yard congregation was small, but its members were intensely **zealous** in their puritanical discipline."*

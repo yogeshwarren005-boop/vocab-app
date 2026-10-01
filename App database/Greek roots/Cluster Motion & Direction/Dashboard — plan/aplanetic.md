@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of wander.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of wander.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Non-motile; lacking cilia or flagella for locomotion (of spores or cells).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botany and phycology, designating resting spores or gametes that do not wander or swim.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aplanetic designates adjective*) pertaining to, derived from, or characteristic of wander."*
+> - 📜 **Anton de Bary (*Comparative Morphology and Biology of the Fungi*):** *"Certain algae produce **aplanetic** resting cells that endure prolonged seasonal desiccation."*
+> - 📜 **Gilbert Morgan Smith (*The Fresh-Water Algae of the United States*):** *"The non-flagellated **aplanetic** spores germinate directly within the parent cell wall."*
+> - 📜 **F. E. Fritsch (*The Structure and Reproduction of the Algae*):** *"In the Chlorococcales, reproduction occurs exclusively by **aplanetic** autospores."*

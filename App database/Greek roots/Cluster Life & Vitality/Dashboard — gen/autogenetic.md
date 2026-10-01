@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to autogenesis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to autogenesis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Originating within the self or system; self-generated; relating to autogenesis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Arising from endogenous biological processes rather than external pathogens, stimuli, or vectors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, autogenetic designates of or relating to autogenesis."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"Evolutionary changes display an **autogenetic** rhythm, wherein internal tensions continually reconfigure structural equilibria."*
+> - 📜 **William Roux (*Der Kampf der Theile im Organismus*):** *"The early blastomere executes **autogenetic** cleavages guided by its own internal maternal cytoplasmic architecture."*
+> - 📜 **C. H. Waddington (*The Strategy of the Genes*):** *"Canalization ensures an **autogenetic** stability that buffers development against transient environmental perturbations."*

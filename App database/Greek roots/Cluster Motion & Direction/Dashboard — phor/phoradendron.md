@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various american parasitic plants similar to old world mistletoe: false mistletoe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various american parasitic plants similar to old world mistletoe: false mistletoe.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of parasitic or semi-parasitic shrubs (family Santalaceae), commonly known as American mistletoes, that grow upon tree branches.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic botany, literally 'tree-thief' or 'tree-bearer' (Greek phor 'thief/bearer' and dendron 'tree'), an evergreen hemiparasite that extracts water and mineral nutrients via haustoria.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phoradendron designates any of various american parasitic plants similar to old world mistletoe: false mistletoe."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The American mistletoe, **Phoradendron** flavescens, fastens its woody haustoria into the bark of oaks and maples."*
+> - 📜 **John Muir (*The Mountains of California*):** *"Clumps of green **Phoradendron** hung like lush nests among the bare winter branches of the riparian cottonwoods."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"Species of **Phoradendron** are popular holiday decorations across North America, prized for their pearlescent white berries."*

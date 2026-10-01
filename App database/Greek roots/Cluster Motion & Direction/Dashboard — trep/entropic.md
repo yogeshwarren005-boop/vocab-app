@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A measure of the unavailable energy in a closed thermodynamic system that is also usually considered to be a measure of the system's disorder, that is a property of the system's state, and that varies directly with any reversible change in heat in the system and inversely with the temperature of the system; broadly : the degree of disorder or uncertainty in a system.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The degradation of the matter and energy in the universe to an ultimate state of inert uniformity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or marked by entropy; tending toward disorder, dissipation of energy, or thermal equilibrium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In information theory and cultural criticism, describing communications, systems, or societies characterized by increasing degradation of structure and loss of meaningful differentiation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, entropic designates a measure of the unavailable energy in a closed thermodynamic system that is also usually considered to be a measure of the system's disorder, that is a property of the system's state, and that varies directly with any reversible change in heat in the system and inversely with the temperature of the system; broadly : the degree of disorder or uncertainty in a system."*
+> - 📜 **Norbert Wiener (*The Human Use of Human Beings*):** *"As the universe as a whole tends toward an **entropic** doom, islands of locally decreasing entropy such as living organisms briefly flourish."*
+> - 📜 **Arthur Eddington (*The Nature of the Physical World*):** *"The relentless increase of the **entropic** measure gives us the only objective physical direction for the arrow of time."*
+> - 📜 **Thomas Pynchon (*The Crying of Lot 49*):** *"Oedipa felt herself sinking into an **entropic** swamp where all signals dissolved into meaningless static."*

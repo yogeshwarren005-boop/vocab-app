@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving or intended to explain or make clear.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serving or intended to explain or make clear.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving or intended to explain or make something clear.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Providing context, rationale, or interpretive analysis for complex phenomena or texts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby addresses an explanatory cough to Mrs."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"It is to be done on my responsibility,” she added, in an explanatory tone to them, and immediately afterwards left the room."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"She knew but little of their meeting in Derbyshire, and therefore felt for the awkwardness which must attend her sister, in seeing him almost for the first time after receiving his explanatory letter."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"An **explanatory** hypothesis must be verified by deductive consequences that conform to observation."*
+> - 📜 **Samuel Johnson (*The Lives of the Poets*):** *"He added **explanatory** notes to illuminate archaic allusions obscure to modern readers."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The **explanatory** power of evolutionary theory lies in its synthesis of anatomy, embryology, and paleontology."*

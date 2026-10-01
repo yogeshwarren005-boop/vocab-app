@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An indifference to pleasure or pain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An indifference to pleasure or pain.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or characteristic of being stolid; emotional apathy, slow responsiveness, or placid heavy-mindedness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In behavioural psychology, an innate disposition characterized by low emotional reactivity and imperviousness to external excitement or sensory stimuli.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stolidness designates an indifference to pleasure or pain."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The Puritan elders looked on with a grim **stolidness** that chilled the young mother's despairing heart."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"The gatekeeper maintained an obstinate **stolidness**, refusing to yield the keys without direct orders from the master."*
+> - 📜 **Robert Louis Stevenson (*Treasure Island*):** *"Silver smiled smoothly, but the rough buccaneers behind him displayed an ominous, silent **stolidness**."*

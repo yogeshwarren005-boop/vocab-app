@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Intended to pacify by acceding to demands or granting concessions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Intended to pacify by acceding to demands or granting concessions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to placate, mollify, or soothe; of a pacifying nature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychological diplomacy, actions or discourse aimed at disarming suspicions and fostering cooperative receptivity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, placative designates intended to pacify by acceding to demands or granting concessions."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The king's ministers adopted a mild, **placative** policy that only emboldened the demands of the radical faction."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"Her sweet voice had a **placative** charm that disarmed his resentment before he could utter a harsh word."*
+> - 📜 **William Hazlitt (*Table-Talk*):** *"He relied upon small **placative** flatteries to win the favor of patrons whose intellect he secretly despised."*

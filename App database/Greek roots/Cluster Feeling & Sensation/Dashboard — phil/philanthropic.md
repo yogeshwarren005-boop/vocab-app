@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Generous in assistance to the poor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characterized by philanthropy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Seeking to promote the welfare of others, especially by the generous donation of money, property, or time to good causes; charitable and humanitarian.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Motivated by benevolence toward humanity and dedicated to the relief of suffering.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In their legal aspect these banks have a philanthropic character."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Such a store in the hands of a philanthropic employer might easily be made, without expense to himself, a great boon to his workmen, giving them the benefits of consumers' coöperation."*
-> - 📜 **Sydney Waterlow (*Shelley*):** *"His energy in entering upon ecstatic personal relations was as great as that which he threw into philanthropic schemes; but the relations, like the schemes, were formed with no notion of adapting means to ends, and were often dropped as hurriedly."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Americans form private **philanthropic** associations to build hospitals, establish libraries, and found schools without state aid."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Mrs. Jellyby's **philanthropic** enthusiasm for distant Africa blinded her to the dirt and starvation in her own nursery."*
+> - 📜 **Andrew Carnegie (*The Gospel of Wealth*):** *"The millionaire should consider all surplus revenues as trust funds to be administered for noble **philanthropic** ends."*

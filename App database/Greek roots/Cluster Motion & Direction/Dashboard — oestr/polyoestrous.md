@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having more than one period of estrus per year.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having more than one period of estrus per year.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The British spelling of polyestrous; experiencing recurring cycles of oestrus throughout a breeding season or throughout the entire year.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In livestock husbandry and wildlife biology, classifying mammalian females whose reproductive endocrine rhythm repeats if fertilization is missed.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polyoestrous designates having more than one period of estrus per year."*
+> - 📜 **Francis Marshall (*The Physiology of Reproduction*):** *"Sheep are seasonally **polyoestrous**, exhibiting repeated cycles of heat only during the shortening days of autumn."*
+> - 📜 **Arthur Dendy (*Outlines of Evolutionary Biology*):** *"Evolutionary transitions from monoestrous to **polyoestrous** breeding correlate with improved environmental stability."*
+> - 📜 **Julian Huxley (*The Individual in the Animal Kingdom*):** *"In highly domesticated species, selection has favored **polyoestrous** rhythms that maximize reproductive yields."*

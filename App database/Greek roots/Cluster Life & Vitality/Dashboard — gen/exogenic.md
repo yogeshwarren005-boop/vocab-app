@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Derived or originating externally.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Derived or originating externally.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Formed, occurring, or originating on the surface of the Earth; exogeneous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geology, pertaining to external surface processes (weathering, erosion, glaciation, sedimentation) driven by solar energy and gravity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, exogenic designates derived or originating externally."*
+> - 📜 **Archibald Geikie (*Textbook of Geology*):** *"The physical relief of continents reflects the unrelenting destruction wrought by **exogenic** weathering agents."*
+> - 📜 **William Morris Davis (*Geographical Essays*):** *"The geographical cycle traces how **exogenic** fluvial erosion reduces elevated plateaus to peneplains."*
+> - 📜 **Arthur Holmes (*Principles of Physical Geology*):** *"Wind, water, and glacial transport represent the principal **exogenic** tools redistributing continental detritus."*

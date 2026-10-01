@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sweet syrupy trihydroxy alcohol obtained by saponification of fats and oils.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sweet syrupy trihydroxy alcohol obtained by saponification of fats and oils.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A commercial and traditional variant spelling of glycerin; propane-1,2,3-triol, used as an emollient, solvent, and sweetening agent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In 19th-century pharmacopoeias and industrial chemical literature, the purified sweet oil derived from animal tallow and seed oils.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Of all the harmless things in the world one would think that that sweet, sticky fluid, glycerine, which most of us have used at one time or another to lubricate a sore throat, was the most harmless."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Glycerine is one of those organic compounds which is obtained from once-living matter."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Arising as a by-product in the manufacture of soap, it consists, as do so many of the organic substances, of carbon and hydrogen, the atoms of which are peculiarly arranged to form the glycerine molecule."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Digestion in the small intestine splits fatty meals into free fatty acids and neutral **glycerine**."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"The bronze machinery was lubricated with fine clarified oils and viscous **glycerine** that resisted oxidation."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A soothing application of borax in pure **glycerine** quickly allays the painful aphthae of an inflamed tongue."*

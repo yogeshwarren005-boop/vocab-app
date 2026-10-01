@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the chrysochloridae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the chrysochloridae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of small, blind burrowing insectivores comprising the typical Cape golden moles of Southern Africa.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative morphology, fossorial mammals that 'swim' through loose coastal desert sand using enlarged third-digit claws, hunting subterranean termites.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chrysochloris designates type genus of the chrysochloridae."*
+> - 📜 **Alfred Russel Wallace (*The Geographical Distribution of Animals*):** *"The Cape golden mole, **Chrysochloris**, represents a unique specialization of mammalian life adapted to South African arid soils."*
+> - 📜 **Richard Owen (*Comparative Anatomy and Physiology of Vertebrates*):** *"The forelimb skeleton of **Chrysochloris** is modified into an extraordinarily robust mechanical shovel."*
+> - 📜 **Andrew Smith (*Illustrations of the Zoology of South Africa*):** *"The velvety pelage of **Chrysochloris** reflects shimmering copper, green, and bronze glints as the animal burrows."*

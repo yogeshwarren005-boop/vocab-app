@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Water ferns.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Water ferns.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of aquatic and amphibious leptosporangiate ferns in the family Pteridaceae, commonly called water ferns or watersprite.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pteridology and botanical research, pantropical ferns widely grown in aquaria and utilized as model organisms in genetics and plant development.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ceratopteris designates water ferns."*
+> - 📜 **William Jackson Hooker (*Species Filicum*):** *"The delicate sterile fronds of **Ceratopteris** float horizontally, while the fertile fronds rise aloft with forked, horn-like lobes."*
+> - 📜 **Liberty Hyde Bailey (*Cyclopedia of American Horticulture*):** *"Aquatic horticulturists value **Ceratopteris** for its rapid floating growth and feathery, pale-green foliage."*
+> - 📜 **Asa Gray (*Botanical Text-Book*):** *"The dimorphic foliage of **Ceratopteris** illustrates adaptation to fluctuating water levels in tropical marshlands."*

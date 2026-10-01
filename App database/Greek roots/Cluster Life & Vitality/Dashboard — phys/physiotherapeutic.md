@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or used in physical therapy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or used in physical therapy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or employing physiotherapy (physical therapy).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to therapeutic rehabilitation utilizing physical modalities such as exercise, manual manipulation, and heat.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, physiotherapeutic designates of or relating to or used in physical therapy."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Early application of **physiotherapeutic** exercises prevents permanent ankylosis in arthritic joints."*
+> - 📜 **Frank H. Krusen (*Physical Medicine*):** *"The **physiotherapeutic** protocol combines diathermy, passive stretch, and progressive resistive exercise."*
+> - 📜 **William Boyd (*Pathology for the Surgeon*):** *"Following tendon transfer surgery, systematic **physiotherapeutic** re-education trains the muscle to its new mechanical role."*

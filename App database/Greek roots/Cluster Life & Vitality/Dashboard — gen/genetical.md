@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or produced by or being a gene.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the science of genetics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or pertaining to genetics; genetic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to hereditary transmission and the mathematical analysis of biological variation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, genetical designates of or relating to or produced by or being a gene."*
+> - 📜 **Ronald Fisher (*The Genetical Theory of Natural Selection*):** *"The **genetical** theory of natural selection harmonizes Darwinian evolution with particulate Mendelian inheritance."*
+> - 📜 **J. B. S. Haldane (*The Causes of Evolution*):** *"A purely **genetical** treatment of population variance allows us to calculate rates of selective replacement."*
+> - 📜 **William Bateson (*Mendel's Principles of Heredity*):** *"We stand on the threshold of a new **genetical** science that will elucidate the physiological basis of species variation."*

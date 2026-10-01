@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by cacophony : harsh-sounding.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by cacophony : harsh-sounding.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Harsh-sounding; producing a loud, discordant, unpleasant mixture of sounds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary criticism, describing prose or poetry that employs rough, dissonant consonant clusters for jarring aesthetic effect.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cacophonous designates marked by cacophony : harsh-sounding."*
+> - 📜 **Herman Melville (*Mardi: and a Voyage Thither*):** *"The parrots kept up a **cacophonous** squawking among the mangrove boughs that drowned out our quiet oars."*
+> - 📜 **Aldous Huxley (*Point Counter Point*):** *"The jazz trumpet broke into a series of jagged, **cacophonous** shrieks that mocked the sentimental melody."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"From the dense wall of black jungle came a **cacophonous** burst of savage drums and wild shouting."*

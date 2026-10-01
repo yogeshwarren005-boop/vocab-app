@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Warble flies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Warble flies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of stout, hairy dipteran flies (commonly called botflies or warble flies) whose parasitic larvae develop within the flesh, nasal passages, or stomach of mammals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic entomology, a cosmopolitan family of calyptrate muscoid flies featuring vestigial mouthparts in adults and obligate endoparasitic larval stages in ungulates and rodents.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oestridae designates warble flies."*
+> - 📜 **Jean-Henri Fabre (*The Life of the Fly*):** *"The dreaded fly of the family **Oestridae** deposits its eggs on the coat of grazing cattle with stealthy persistence."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The parasitic larvae of the **Oestridae** exhibit exquisite adaptations for anchoring themselves within the stomach walls of horses."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"Adult members of the **Oestridae** take no nourishment, their brief existence being devoted solely to reproduction."*

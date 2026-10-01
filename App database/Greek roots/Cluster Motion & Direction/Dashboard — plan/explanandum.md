@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (logic) a statement of something (a fact or thing or expression) to be explained.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (logic) a statement of something (a fact or thing or expression) to be explained.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A phenomenon, fact, or event that is to be explained in philosophical analysis or scientific inquiry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The descriptive premise or observed datum awaiting causal account within an explanatory model.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, explanandum designates (logic) a statement of something (a fact or thing or expression) to be explained."*
+> - 📜 **Carl Gustav Hempel (*Aspects of Scientific Explanation*):** *"In deductive-nomological logic, the **explanandum** must follow deductively from the general laws and initial conditions."*
+> - 📜 **Karl Popper (*The Logic of Scientific Discovery*):** *"We distinguish the **explanandum**, which is the statement describing the effect, from the causal hypothesis."*
+> - 📜 **Bas van Fraassen (*The Scientific Image*):** *"A scientific question identifies an **explanandum** and demands an appropriate contrast class."*

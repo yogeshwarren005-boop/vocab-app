@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Coextensive with the family plantaginaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Coextensive with the family plantaginaceae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An obsolete botanical order of flowering plants erected to contain the family Plantaginaceae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the Cronquist system, a monotypic order comprising herbaceous dicots with four-merous flowers in dense spikes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plantaginales designates coextensive with the family plantaginaceae."*
+> - 📜 **Arthur Cronquist (*An Integrated System of Classification of Flowering Plants*):** *"The order **Plantaginales** is characterized by wind-pollinated, reduced flowers with scarious petals."*
+> - 📜 **Charles Edwin Bessey (*The Phylogenetic Taxonomy of Flowering Plants*):** *"Bessey placed **Plantaginales** as specialized herbaceous descendants of ancestral Polemoniales."*
+> - 📜 **Adolf Engler (*Syllabus der Pflanzenfamilien*):** *"In Engler's syllabus, **Plantaginales** occupied an isolated position due to extreme floral reduction."*

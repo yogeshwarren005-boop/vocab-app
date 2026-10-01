@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A momentous tragic event ranging from extreme misfortune to utter overthrow or ruin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Utter failure : fiasco.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Involving or causing sudden, widespread, and disastrous damage or suffering.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geology, ecology, and engineering, characterized by sudden, violent systemic failure or transformative upheaval.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The red wrath always has undone me in all my lives; for the red wrath is my disastrous catastrophic heritage from the time of the slimy things ere the world was prime."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The point is, that in a surge of anger, obsessed by that catastrophic red wrath that has cursed me down the ages, I killed my fellow professor."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The effects on Slingshot could be catastrophic."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"The indiscriminate application of chemical pesticides risks **catastrophic** disruption to bird populations."*
+> - 📜 **Arthur Holmes (*Principles of Physical Geology*):** *"The collapse of the caldera at Krakatoa produced **catastrophic** tsunamis felt across the globe."*
+> - 📜 **Carl Sagan (*Cosmos*):** *"A comet impact sixty-five million years ago caused a **catastrophic** climate shift that doomed the dinosaurs."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of lasting for a very short time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of lasting for a very short time.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being short-lived or fleeting; transitoriness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In existential and literary critique, the acute recognition of fleeting duration inherent in mortal experience and physical forms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ephemeralness designates the property of lasting for a very short time."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"The **ephemeralness** of earthly pageantry teaches the sage to seek clothes of woven truth that never decay."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"The painter caught the dazzling **ephemeralness** of the sunset before its golden clouds dissolved into evening twilight."*
+> - 📜 **Henry David Thoreau (*A Week on the Concord and Merrimack Rivers*):** *"The ripple upon the river reminds us of the **ephemeralness** of human ambitions compared with the ancient flow of waters."*

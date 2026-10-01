@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pathogenetic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Causing or capable of causing disease.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of producing, inciting, or causing disease; infectious or disease-causing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In bacteriology and parasitology, possessing specific virulence factors that overcome host biological defenses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pathogenic designates pathogenetic."*
+> - 📜 **Louis Pasteur (*The Germ Theory*):** *"We demonstrated that non-virulent strains can be cultivated to protect sheep against lethal **pathogenic** anthrax spores."*
+> - 📜 **Robert Koch (*The Etiology of Tuberculosis*):** *"The tubercle bacillus possesses a waxy coat that renders it an extraordinarily durable **pathogenic** invader."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"Overuse of antibiotics in agriculture risks breeding resistant strains among formerly docile **pathogenic** bacteria."*

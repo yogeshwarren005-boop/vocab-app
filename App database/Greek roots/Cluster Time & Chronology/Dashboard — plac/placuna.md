@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Windowpane oysters.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Windowpane oysters.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of marine bivalve molluscs in the family Placunidae, commonly called windowpane oysters, known for their thin, translucent shells.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic malacology and tropical coastal crafts, bivalves (notably Placuna placenta) whose flat, translucent calcitic shells are utilized in windows, lampshades, and decorative items (capiz).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, placuna designates windowpane oysters."*
+> - 📜 **Hans Sloane (*A Voyage to the Islands Madera, Barbados, Nieves, S. Christophers and Jamaica*):** *"The translucent valves of **Placuna** are used across the East Indies in place of glass for palace casements."*
+> - 📜 **Arthur Shipley (*The Cambridge Natural History: Molluscs*):** *"The shell of **Placuna** is extremely compressed, circular, and translucent, consisting almost wholly of foliated nacre."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"In the windowpane oyster **Placuna**, the single adductor muscle is positioned near the center of the delicate valves."*

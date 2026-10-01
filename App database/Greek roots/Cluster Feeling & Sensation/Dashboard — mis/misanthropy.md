@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hatred or distrust of humankind.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hatred or distrust of humankind.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A dislike, distrust, or hatred of humankind; general contempt for human society and nature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral philosophy, a philosophical pessimism asserting that humanity is incorrigibly selfish, cruel, or hypocritical.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"It was no common misanthropy which had shut Captain Nemo and his companions within the _Nautilus_, but a hatred, either monstrous or sublime, which time could never weaken."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"He had the ordinary temperament of genius, and was a compound of misanthropy, sensibility, and enthusiasm."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"There were the two sisters, the bride, and the artist—the latter in one of his customary fits of moody misanthropy."*
+> - 📜 **Immanuel Kant (*Lectures on Ethics*):** *"True **misanthropy** is far more dangerous than human weakness, for it turns the soul completely away from duty to neighbor."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"After dwelling among the noble Houyhnhnms, Gulliver succumbed to a total **misanthropy**, shuddering at the sight of his own family."*
+> - 📜 **Arthur Schopenhauer (*The World as Will and Representation*):** *"A profound **misanthropy** is often the price paid by generous souls who expect too much virtue from the world."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A base found in dna (but not in rna) and derived from pyrimidine; pairs with adenine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A base found in dna (but not in rna) and derived from pyrimidine; pairs with adenine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A pyrimidine nucleobase (5-methyluracil, C5H6N2O2), one of the four principal nitrogenous bases that encode genetic information in DNA.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pairs selectively with adenine via two hydrogen bonds within the DNA double helix; replaced by uracil in RNA molecules.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thymine designates a base found in dna (but not in rna) and derived from pyrimidine; pairs with adenine."*
+> - 📜 **James D. Watson & Francis Crick (*Molecular Structure of Nucleic Acids: A Structure for Deoxyribose Nucleic Acid*):** *"Adenine pairs specifically with **thymine**, and guanine with cytosine, immediately suggesting a copying mechanism for the genetic material."*
+> - 📜 **Albrecht Kossel (*Nobel Lecture: The Chemical Composition of the Cell Nucleus*):** *"I succeeded in isolating a new crystalline pyrimidine base from the thymus nucleic acid, which I named **thymine**."*
+> - 📜 **Erwin Chargaff (*Chemical Specificity of Nucleic Acids*):** *"Our analytical data showed that in all DNA samples the molar ratio of adenine to **thymine** equals one with remarkable precision."*

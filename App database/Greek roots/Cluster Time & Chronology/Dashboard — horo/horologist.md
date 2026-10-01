@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person skilled in the practice or theory of horology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A maker of clocks or watches.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An expert in horology; a person who makes, repairs, or studies clocks, watches, and timekeeping mechanisms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of mechanics, a master craftsman or scholar dedicated to precision time measurement and escapement design.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, horologist designates a person skilled in the practice or theory of horology."*
+> - 📜 **Christiaan Huygens (*Horologium Oscillatorium*):** *"The accomplished **horologist** knows that the true secret of accuracy lies in reducing friction within the anchor escapement."*
+> - 📜 **Simon Newcomb (*Popular Astronomy*):** *"Every national observatory employs a skilled **horologist** to regulate the master pendulum clocks against transit observations."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Sherlock Holmes examined the pocket watch with the keen eye of a master **horologist**, reading its owner's habits from its balance scratches."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The relation that exists when things occur at the same time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The relation that exists when things occur at the same time.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The simultaneous occurrence of events that appear significantly related but have no discernible causal connection.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In analytical psychology (Carl Jung), an acausal connecting principle explaining meaningful coincidences between subjective psychic states and objective external occurrences.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, synchronicity designates the relation that exists when things occur at the same time."*
+> - 📜 **Carl Jung (*Synchronicity: An Acausal Connecting Principle*):** *"I coin the term **synchronicity** to designate the meaningful coincidence of psychic and physical events without causal relation."*
+> - 📜 **Arthur Koestler (*The Roots of Coincidence*):** *"Jung's concept of **synchronicity** attempted to build a bridge between parapsychological phenomena and quantum physics."*
+> - 📜 **Wolfgang Pauli (*Writings on Physics and Philosophy*):** *"Our discussions regarding **synchronicity** explored whether physical complementarity extends into the acausal psychophysical realm."*

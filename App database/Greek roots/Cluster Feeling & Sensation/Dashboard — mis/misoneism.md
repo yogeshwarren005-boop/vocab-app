@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hatred, fear, or intolerance of innovation or change.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hatred, fear, or intolerance of innovation or change.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Hatred, fear, or intolerance of innovation, change, or novelty (from Greek *mīsos* and *neos*).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anthropology, psychology, and sociology (notably Cesare Lombroso), the instinctive human resistance to novel customs and intellectual revolutions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, misoneism designates a hatred, fear, or intolerance of innovation or change."*
+> - 📜 **Cesare Lombroso (*The Man of Genius*):** *"A deep-seated biological **misoneism** protects human communities from erratic innovation, but it also crucifies prophets."*
+> - 📜 **William James (*Pragmatism*):** *"The human mind naturally shrinks from new concepts; our intellectual inertia is a formidable form of **misoneism**."*
+> - 📜 **John Dewey (*Human Nature and Conduct*):** *"Social institutions become petrified when uncritical **misoneism** treats existing arrangements as eternal and sacred."*

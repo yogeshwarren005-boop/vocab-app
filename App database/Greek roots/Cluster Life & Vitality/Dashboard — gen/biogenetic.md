@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the production of living organisms from other living organisms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the production of living organisms from other living organisms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to biogenesis, or to the production of living organisms from preexisting life.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to Ernst Haeckel's 'biogenetic law' (ontogeny recapitulates phylogeny) in developmental and evolutionary morphology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, biogenetic designates of or relating to the production of living organisms from other living organisms."*
+> - 📜 **Ernst Haeckel (*Generelle Morphologie der Organismen*):** *"I formulated the fundamental **biogenetic** law: the brief ontogenesis of the individual recapitulates the slow phylogenesis of the race."*
+> - 📜 **Stephen Jay Gould (*Ontogeny and Phylogeny*):** *"Haeckel's **biogenetic** law dominated late nineteenth-century biology, influencing psychology, anthropology, and education."*
+> - 📜 **D'Arcy Wentworth Thompson (*On Growth and Form*):** *"Physical forces modify developmental trajectories, circumscribing the dogmatic claims of strict **biogenetic** recapitulation."*

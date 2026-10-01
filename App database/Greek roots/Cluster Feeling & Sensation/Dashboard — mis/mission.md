@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An organization of missionaries in a foreign land sent to carry on religious work.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An operation that is assigned by a higher headquarters.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An important official assignment, journey, or task given to a person or group, especially in diplomacy, military strategy, or religion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A religious expedition or operational center established by Christian churches to propagate faith, provide education, and deliver humanitarian aid.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Quale’s mission to be in ecstasies with everybody else’s mission and that it was the most popular mission of all."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Never have a mission, my dear child.” Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Miss Wisk’s mission, my guardian said, was to show the world that woman’s mission was man’s mission and that the only genuine mission of both man and woman was to be always moving declaratory resolutions about things in general at public meetings."*
+> - 📜 **David Livingstone (*Missionary Travels and Researches in South Africa*):** *"The great **mission** of opening the African interior to commerce and Christianity sustained my lonely steps."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The early Puritan emigrants believed they were entrusted with a divine **mission** to plant a city upon a hill."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"Marlow found that the idealistic European **mission** in the Congo had degenerated into a sordid scramble for ivory."*

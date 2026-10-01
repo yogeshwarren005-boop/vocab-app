@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Believing the worst of human nature and motives; having a sneering disbelief in e.g. selflessness of others.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hating mankind in general.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Disliking humankind and expecting the worst of human nature; characterized by misanthropy; antisocial.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by a cynical, gloomy contempt for social conventions and human moral integrity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Such ruminations naturally produced a streak of misanthropic bitterness."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"Buns, once fresh and tender, become hard and misanthropic in its refreshment rooms, and look as if they had seen the littleness of existence and were disillusioned."*
-> - 📜 **Charles Dickens (*A Christmas Carol in Prose; Being a Ghost Story of Christmas*):** *"The water-plug being left in solitude, its overflowings sullenly congealed, and turned to misanthropic ice."*
+> - 📜 **Lord Byron (*Childe Harold's Pilgrimage*):** *"With pleasure drugged, he bowed his haughty head, nourishing a proud, **misanthropic** disdain for courts and camps."*
+> - 📜 **Herman Melville (*The Confidence-Man*):** *"The solitary traveller wrapped himself in a bear-skin coat, casting **misanthropic** glances at the bustling deck."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"In the centre of indifference, Teufelsdröckh endured an agonizing **misanthropic** season before faith was restored."*

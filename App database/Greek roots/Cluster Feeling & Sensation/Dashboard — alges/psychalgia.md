@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek alges.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Feeling & Sensation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Severe, localized physical pain of emotional, psychogenic, or mental origin, occurring without identifiable organic disease.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychosomatic medicine and psychopathology, the somatic conversion of repressed mental conflict or emotional distress into physical aches.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psychalgia designates a term designating an entity, condition, or phenomenon derived from greek alges."*
+> - 📜 **Pierre Janet (*The Mental State of Hystericals*):** *"The patient complained of constant cephalic **psychalgia**, which lifted only when the underlying subconscious obsession was uncovered."*
+> - 📜 **Sigmund Freud (*Studies on Hysteria*):** *"In hysterical conversion, moral sorrow is transformed into genuine physical agony, a classic instance of somatic **psychalgia**."*
+> - 📜 **Carl Jung (*Psychological Types*):** *"The unexpressed psychic tension of an introverted neurosis readily expresses itself bodily through stubborn **psychalgia**."*

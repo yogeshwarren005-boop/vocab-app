@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being recognized.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being recognized.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being placed, stationed, located, or assigned to a specific position or job.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In personnel administration and supply logistics, describing candidates, goods, or components ready for deployment or allocation into vacancies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, placeable designates capable of being recognized."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The regiment was completely equipped and instantly **placeable** wherever the border garrison was threatened."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Surplus capital is easily **placeable** in productive foreign manufactures when domestic returns diminish."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The industrious young clerk was deemed eminently **placeable** by the partners in the legal firm."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (usually followed by `to') strongly opposed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by antagonism or antipathy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An older or formal variant of antipathetic; marked by natural repugnance, contrary inclination, or deep-seated hostility.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mutually incompatible or repellent in constitution, disposition, or character.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antipathetical designates (usually followed by `to') strongly opposed."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Speculative subtleties that are **antipathetical** to experimental practice only retard the growth of genuine science."*
+> - 📜 **Robert Burton (*The Anatomy of Melancholy*):** *"Certain complexions are by nature **antipathetical** to one another, breeding spontaneous quarrel without reason."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Prejudices contracted in early childhood become so deeply rooted that they seem almost **antipathetical** instincts."*

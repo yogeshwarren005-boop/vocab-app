@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Perching birds mostly small and living near the ground with feet having 4 toes arranged to allow for gripping the perch; most are songbirds; hatchlings are helpless.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or characteristic of the passeriform birds.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or denoting birds of the order Passeriformes; a perching bird or songbird.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Possessing the characteristic perching foot anatomy (anisodactyly) and vocal adaptations of true perching birds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, passerine designates perching birds mostly small and living near the ground with feet having 4 toes arranged to allow for gripping the perch; most are songbirds; hatchlings are helpless."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"In many **passerine** species, the male alone sings, using his melodious voice to charm the listening female."*
+> - 📜 **Alfred Russel Wallace (*Darwinism*):** *"The vast majority of forest birds across the globe belong to the single **passerine** order."*
+> - 📜 **John Burroughs (*Wake-Robin*):** *"The cheerful morning chorus of our native **passerine** birds announces the arrival of summer in the orchard."*

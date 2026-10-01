@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Brown lacewings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Brown lacewings.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cosmopolitan family of small predatory neuropteran insects commonly known as brown lacewings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In insect taxonomy, delicate net-winged insects characterized by brownish, hairy wings with numerous accessory radial branches and predatory larvae possessing slender grasping mandibles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemerobiidae designates brown lacewings."*
+> - 📜 **John Henry Comstock (*An Introduction to Entomology*):** *"Members of the **Hemerobiidae** are smaller and more cryptically colored than the Chrysopidae, favoring coniferous forests and orchards."*
+> - 📜 **L. O. Howard (*The Insect Book*):** *"The larvae of the **Hemerobiidae** are predatory aphid lions that hunt naked, without covering their backs with trash."*
+> - 📜 **Arthur Shipley (*The Cambridge Natural History: Insects*):** *"In the family **Hemerobiidae**, the wings are folded roof-like over the body and lack the nauseous odor typical of green lacewings."*

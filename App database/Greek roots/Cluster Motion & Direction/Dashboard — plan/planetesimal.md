@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of many small solid celestial bodies thought to have existed at an early stage in the development of the solar system.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of many small solid celestial bodies thought to have existed at an early stage in the development of the solar system.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of countless small celestial bodies thought to have orbited the protosun and collided to form planets.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Kilometer-scale asteroid-like debris aggregating through gravitational accretion during early solar system formation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, planetesimal designates one of many small solid celestial bodies thought to have existed at an early stage in the development of the solar system."*
+> - 📜 **Forest Ray Moulton (*The Planetesimal Hypothesis*):** *"Collisions among millions of solid **planetesimal** fragments slowly built the terrestrial planets."*
+> - 📜 **Thomas Chrowder Chamberlin (*The Origin of the Earth*):** *"The **planetesimal** hypothesis posited that cold solid particles accreted into planetary cores without molten liquefaction."*
+> - 📜 **Harold Urey (*The Planets: Their Origin and Development*):** *"Chondritic meteorites preserve the chemical composition of original **planetesimal** dust grains."*

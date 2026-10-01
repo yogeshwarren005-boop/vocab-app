@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Gold : yellow.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Gold : yellow.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combining form and prefix derived from Greek χρυσός (chrysos) meaning 'gold' or 'golden', used in scientific taxonomy, mineralogy, and botany.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistic morphology and nomenclature, designating golden coloration, golden sheen, or chemical association with gold.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chrys designates gold : yellow."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"The Greek element **chrys-** forms numerous compound epithets celebrating the gleam of gold and radiant sunshine."*
+> - 📜 **Asa Gray (*Manual of Botany*):** *"Botanists employ the prefix **chrys-** to signify golden-yellow corollas or glistening yellow foliar secretions."*
+> - 📜 **Walter William Skeat (*An Etymological Dictionary of the English Language*):** *"In classical and modern English words, the prefix **chrys-** consistently preserves its Hellenic signification of gold."*

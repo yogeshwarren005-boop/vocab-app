@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek gen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Life & Vitality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A form of heterochrony in which an organism attains sexual maturity while still possessing juvenile or larval somatic morphology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The precocious acceleration of gonadal development relative to somatic growth, leading to truncated ontogeny.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, progenesis designates a term designating an entity, condition, or phenomenon derived from greek gen."*
+> - 📜 **Stephen Jay Gould (*Ontogeny and Phylogeny*):** *"In **progenesis**, early sexual maturation halts somatic development, producing minute adult organisms with larval anatomy."*
+> - 📜 **Julian Huxley (*Problems of Relative Growth*):** *"The axolotl provides an evolutionary classic of neoteny, while certain gall midges display extreme reproductive **progenesis**."*
+> - 📜 **Ernst Mayr (*The Growth of Biological Thought*):** *"Heterochronic shifts like **progenesis** offer rapid evolutionary routes to new ecological niches without complex genetic redesign."*

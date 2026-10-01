@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Green lacewings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Green lacewings.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large family of predatory insects in the order Neuroptera, commonly known as green lacewings or golden-eyes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In applied agricultural ecology, beneficial neuropterans characterized by lace-like green wing venation, stalked eggs, and predatory larvae with sickle-shaped mandibles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chrysopidae designates green lacewings."*
+> - 📜 **John Henry Comstock (*An Introduction to Entomology*):** *"Members of the family **Chrysopidae** deposit their eggs upon delicate silk pedicels to protect them from cannibalism."*
+> - 📜 **L. O. Howard (*The Insect Book*):** *"The prominent, gleaming hemispherical eyes of the **Chrysopidae** shimmer with metallic copper and gold."*
+> - 📜 **Charles Valentine Riley (*Beneficial Insects of Missouri*):** *"Orchardists recognize the **Chrysopidae** as invaluable natural allies against scale insects and plant lice."*

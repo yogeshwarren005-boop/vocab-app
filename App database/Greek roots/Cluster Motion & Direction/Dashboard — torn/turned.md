@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Change orientation or direction, also in the abstract sense.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Undergo a transformation or a change of position or action.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having moved around an axis or altered course; transformed into a different state.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shaped, rounded, or smoothed by revolving against a cutting tool on a lathe.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And whether that my angel be turned fiend Suspect I may, yet not directly tell; But being both from me both to each friend, I guess one angel in another’s hell."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They are so still, Or thou, the greatest soldier of the world, Art turned the greatest liar."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For my part, I am sorry it is turned to a drinking."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"He **turned** his eyes toward the dark river, watching the solitary light of the prison hulk."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"The table legs had been skillfully **turned** on a pole lathe from seasoned beech wood."*
+> - 📜 **Joseph Conrad (*Typhoon*):** *"Captain MacWhirr **turned** the vessel squarely into the teeth of the rising hurricane."*

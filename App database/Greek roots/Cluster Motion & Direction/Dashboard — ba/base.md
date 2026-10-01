@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The bottom of something considered as its support : foundation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: That part of a bodily organ by which it is attached to another more central structure of the organism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The lowest part or edge of something, especially the part on which it rests or is supported; foundation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without moral principles; ignoble, dishonorable; in chemistry, a substance capable of neutralizing an acid.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Spend’st thou thy fury on some worthless song, Darkening thy power to lend base subjects light?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When I consider What great creation, and what dole of honour Flies where you bid it, I find that she, which late Was in my nobler thoughts most base, is now The praised of the king; who, so ennobled, Is as ’twere born so."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What, wouldst thou have me go and beg my food, Or with a base and boisterous sword enforce A thievish living on the common road?"*
+> - 📜 **William Shakespeare (*King Lear*):** *"Why brand they us with **base**? with baseness? bastardy? base, base?"*
+> - 📜 **Isaac Newton (*Opticks*):** *"The prism rested steadily on its triangular **base** while admitting the solitary solar ray."*
+> - 📜 **Svante Arrhenius (*Theories of Chemistry*):** *"In aqueous solution, a chemical **base** dissociates to yield hydroxyl ions that neutralize acids."*

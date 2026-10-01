@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the phyllidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the phyllidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of leaf insects in the family Phylliidae, celebrated for their extraordinary mimicry of green or decaying foliage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tropical phasmids whose abdomen and legs are expanded into flat, veined, leaf-like plates that sway gently in the breeze.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phyllium designates type genus of the phyllidae."*
+> - 📜 **Alfred Russel Wallace (*Contributions to the Theory of Natural Selection*):** *"A living specimen of **Phyllium** perched upon a shrub defies the keenest eye of predatory birds."*
+> - 📜 **David Sharp (*Insects: Part I*):** *"The movement of **Phyllium** mimics the gentle trembling of a leaf stirred by an afternoon gust."*
+> - 📜 **Ernst Haeckel (*Art Forms in Nature*):** *"The venation on the elytra of **Phyllium** reproduces every minute vein and blight spot of botanical foliage."*

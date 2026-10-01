@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Short-lived insect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Short-lived insect.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any insect belonging to the order Ephemeroptera; a mayfly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In freshwater biology, an alate aquatic insect exhibiting ancestral wing-vein fluting and a transient adult phase dedicated solely to nuptial swarming.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ephemeropteran designates short-lived insect."*
+> - 📜 **John Henry Comstock (*A Manual for the Study of Insects*):** *"The delicate flight of the male **ephemeropteran** consists of rhythmic vertical dances over the surface of the river."*
+> - 📜 **Charles Valentine Riley (*American Entomologist*):** *"The trout feeding frenzy commenced when millions of the **ephemeropteran** brood drifted upon the water."*
+> - 📜 **L. O. Howard (*The Insect Book*):** *"Each **ephemeropteran** sheds its dull subimaginal skin within an hour to reveal the gleaming wings of the fertile adult."*

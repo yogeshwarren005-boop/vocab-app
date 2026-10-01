@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Death instinct.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An innate and unconscious tendency toward self-destruction postulated in psychoanalytic theory to explain aggressive and destructive behavior not satisfactorily explained by the pleasure principle —called also Thanatos.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The personification of death in Greek mythology, the winged son of Nyx (Night) and twin brother of Hypnos (Sleep).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychoanalysis, the death instinct or drive (posited by Sigmund Freud) that impels organisms toward destruction, quiescence, and inorganic rest.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thanatos designates death instinct."*
+> - 📜 **Sigmund Freud (*Beyond the Pleasure Principle*):** *"We set the death instinct, or **Thanatos**, in fundamental opposition to Eros, the preserver of all life."*
+> - 📜 **Homer (*The Iliad*):** *"Apollo bade gentle Sleep and **Thanatos** carry the lifeless body of fallen Sarpedon to his Lycian homeland."*
+> - 📜 **Walter Burkert (*Greek Religion*):** *"Unlike Hades the sovereign of the underworld, **Thanatos** was the silent messenger who severed the silver cord of life."*

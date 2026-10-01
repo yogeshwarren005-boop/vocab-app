@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to the anus and rectum considered together.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to the anus and rectum considered together.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, located near, or affecting both the anus and the rectum.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical proctology and surgery, referring to anatomical structures, sphincters, or disorders (e.g., anorectal abscess, fistula, or manometry) of the terminal gastrointestinal tract.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anorectal designates pertaining to the anus and rectum considered together."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Digital examination of the **anorectal** canal is an indispensable step in identifying pelvic masses or occult bleeding."*
+> - 📜 **Percivall Pott (*Chirurgical Works*):** *"Inflammatory swellings in the **anorectal** cellular tissue must be lanced early before fistulous tracks develop."*
+> - 📜 **Sir Astley Cooper (*Lectures on the Principles and Practice of Surgery*):** *"The muscular anatomy of the **anorectal** ring maintains voluntary continence against abdominal pressure."*

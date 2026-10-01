@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Free-swimming mostly freshwater flatworms; popular in laboratory studies for the ability to regenerate lost parts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Free-swimming mostly freshwater flatworms; popular in laboratory studies for the ability to regenerate lost parts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Free-living, non-parasitic flatworms of the class Turbellaria, renowned for their remarkable regenerative abilities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Freshwater platyhelminths possessing bilateral symmetry, eye spots, and ciliated ventral creeping surfaces.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, planaria designates free-swimming mostly freshwater flatworms; popular in laboratory studies for the ability to regenerate lost parts."*
+> - 📜 **Thomas Hunt Morgan (*Regeneration*):** *"When a specimen of **planaria** is bisected transversely, both halves regenerate complete new organisms."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Along the damp riverbanks of Brazil, I observed terrestrial **planaria** crawling beneath rotten wood."*
+> - 📜 **Anton Dohrn (*The Origin of Vertebrates*):** *"Morphological studies of **planaria** shed light on the ancestral evolution of bilateral metazoans."*

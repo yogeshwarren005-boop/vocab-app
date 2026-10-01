@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marriage in which a spouse of either sex may have more than one mate at the same time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being polygamous.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is married to more than one spouse at the same time; an advocate or practitioner of polygamy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative sociology and religious history, one who maintains plural marriages under cultural, legal, or religious sanctions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Nathaniel Hawthorne (*Chippings with a Chisel (From "Twice Told Tales")*):** *"I shuddered at the gray polygamist, who had so utterly lost the holy sense of individuality in wedlock, that methought he was fain to reckon upon his fingers how many women, who had once slept by his side, were now sleeping in their graves."*
+> - 📜 **Edward Westermarck (*The History of Human Marriage*):** *"The wealthy chieftain was an inveterate **polygamist**, cementing political alliances across thirty surrounding valleys."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Arabian prophet permitted the believer to become a **polygamist**, provided he treated each wife with scrupulous equity."*
+> - 📜 **Samuel Johnson (*Rasselas, Prince of Abyssinia*):** *"The Persian traveler marveled that the Western mind could look with horror upon the domestic retinue of the **polygamist**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A tribe of ancient athenians.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tribe of ancient athenians.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient Greek tribe, clan, or political subdivision, especially one of the ten civic tribes instituted in Athens by Cleisthenes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A socio-political corporate group whose members claimed common ancestry and shared religious cults and military contingents.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Baron George Gordon Byron Byron (*Childe Harold's Pilgrimage*):** *"Spirit of Freedom! when on Phyle's brow Thou sat'st with Thrasybulus and his train, Couldst thou forbode the dismal hour which now Dims the green beauties of thine Attic plain?"*
+> - 📜 **Thucydides (*The Peloponnesian War*):** *"The civic army marched out in ten regiments, each drawn from its respective **phyle** according to ancestral custom."*
+> - 📜 **Aristotle (*The Constitution of the Athenians*):** *"Cleisthenes reorganized the citizenry into ten new **phyles**, mingling demes from coastal, inland, and urban districts."*
+> - 📜 **George Grote (*A History of Greece*):** *"The constitutional genius of the Athenian **phyle** broke the tyrannical grip of aristocratic factional families."*

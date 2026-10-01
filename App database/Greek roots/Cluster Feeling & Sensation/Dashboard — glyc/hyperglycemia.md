@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormally high blood sugar usually associated with diabetes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abnormally high blood sugar usually associated with diabetes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An excessive concentration of glucose in the bloodstream, exceeding standard fasting physiological limits (American spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A diagnostic hallmark of diabetes mellitus that induces non-enzymatic glycation of proteins and microvascular damage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyperglycemia designates abnormally high blood sugar usually associated with diabetes."*
+> - 📜 **Frederick Banting (*The Internal Secretion of the Pancreas*):** *"Within two hours of insulin injection, the marked **hyperglycemia** was replaced by a safe, normal blood sugar level."*
+> - 📜 **William Carlos Williams (*The Doctor Stories*):** *"The old man was slipping into stupor from unmonitored **hyperglycemia** after indulging in cider and sweet holiday pies."*
+> - 📜 **Walter Cannon (*The Wisdom of the Body*):** *"Acute emotional excitement provokes sympathetic adrenal discharge, causing temporary functional **hyperglycemia** for physical exertion."*

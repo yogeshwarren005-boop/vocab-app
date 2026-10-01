@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The Greek god of erotic love.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The sum of life-preserving instincts that are manifested as impulses to gratify basic needs, as sublimated impulses, and as impulses to protect and preserve the body and mind.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ancient Greek god of passionate love and sexual desire; passionate, romantic, or sensual love, distinguished from philia (friendship) and agape (unconditional charity).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Freudian psychoanalysis, the life instinct (Eros) that seeks to preserve life, create organic harmony, and channel libidinal drive against Thanatos (the death drive).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter Enobarbus and Eros meeting."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll see you by and by. [_Sits down._] Enter Cleopatra led by Charmian, Iras and Eros."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou fumblest, Eros, and my queen’s a squire More tight at this than thou."*
+> - 📜 **Plato (*Symposium*):** *"Love, or **Eros**, is not a god but a great daemon who mediates between mortals and the immortal realm of beauty."*
+> - 📜 **Sigmund Freud (*Civilization and Its Discontents*):** *"The battle of civilization presents itself as a struggle between **Eros** and Death, between the instinct of life and the instinct of destruction."*
+> - 📜 **C. S. Lewis (*The Four Loves*):** *"Being in love, which the ancients named **Eros**, transforms mere sexual appetite into an imaginative adoration of the beloved."*

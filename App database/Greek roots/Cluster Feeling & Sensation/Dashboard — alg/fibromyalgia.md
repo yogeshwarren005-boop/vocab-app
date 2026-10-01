@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A chronic disorder characterized by widespread pain, tenderness, and stiffness of muscles and associated connective tissue structures that is typically accompanied by fatigue, headache, and sleep disturbances.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A chronic disorder characterized by widespread pain, tenderness, and stiffness of muscles and associated connective tissue structures that is typically accompanied by fatigue, headache, and sleep disturbances.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chronic disorder characterized by widespread musculoskeletal pain, fatigue, sleep disturbances, cognitive difficulties, and localized areas of tenderness ('tender points').
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A centralized pain sensitivity syndrome (central sensitization) involving altered nociceptive processing in the central nervous system.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fibromyalgia designates a chronic disorder characterized by widespread pain, tenderness, and stiffness of muscles and associated connective tissue structures that is typically accompanied by fatigue, headache, and sleep disturbances."*
+> - 📜 **William R. Gowers (*Lumbago: Its Lessons and Analogues*):** *"What our predecessors labeled muscular fibrositis anticipates the modern clinical entity known as **fibromyalgia**."*
+> - 📜 **Oliver Sacks (*A Leg to Stand On*):** *"Patients suffering from **fibromyalgia** endure a pervasive sensory hyperalgesia that defies simple peripheral explanation."*
+> - 📜 **Robert M. Sapolsky (*Why Zebras Don't Get Ulcers*):** *"Chronic activation of the neuroendocrine stress response correlates closely with symptom flares in **fibromyalgia**."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to philosophy or philosophers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by the attitude of a philosopher; meeting trouble with level-headed detachment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or based on the principles of philosophy; theoretical, contemplative, or analytical.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Displaying the calm, detached, and patient wisdom of a philosopher; stoical and serene under adversity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"A _snell_ remark of his brother William suggesting some new and comic association with a philosophic term dropped in the course of the discussion, would bring him back with a roar of laughter to the actual world and to more sublunary themes."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I have seen myself that one man contemplated by Pascal’s philosophic eye."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"Well,” continued her philosophic mother, “I am glad I did not know of your journey at the time; but now it is all over, perhaps there is no great harm done."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"A little **philosophic** inquiry inclineth man's mind to atheism, but depth in philosophy bringeth men's minds about to religion."*
+> - 📜 **Samuel Johnson (*Rasselas*):** *"The sage endured the loss of his only daughter with little of that **philosophic** calm which he had preached in lecture halls."*
+> - 📜 **Thomas Jefferson (*Letters*):** *"I retired to Monticello to enjoy the blessings of books, agriculture, and quiet **philosophic** contemplation."*

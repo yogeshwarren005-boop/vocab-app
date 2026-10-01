@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek blast.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Life & Vitality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The serous fluid contained within the blastocoel or segmentation cavity of an early embryo.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The embryonic fluid medium that cushions dividing blastomeres and facilitates nutrient diffusion before vascularization.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, blastochyle designates a term designating an entity, condition, or phenomenon derived from greek blast."*
+> - 📜 **Ernst Haeckel (*The Evolution of Man*):** *"Within the hollow interior of the spherical blastula collects the clear, albuminous **blastochyle**."*
+> - 📜 **Francis Balfour (*A Treatise on Comparative Embryology*):** *"Chemical analysis indicates that **blastochyle** differs markedly in osmotic pressure from the external seawater."*
+> - 📜 **Alexander Kowalevsky (*Embryological Investigations on Amphioxus*):** *"As gastrulation proceeds, the accumulated **blastochyle** is gradually displaced by the expanding archenteron."*

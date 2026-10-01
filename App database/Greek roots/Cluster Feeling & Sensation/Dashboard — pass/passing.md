@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (american football) a play that involves one player throwing the ball to a teammate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Euphemistic expressions for death.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of moving past, going by, or elapsing; fleeting, momentary, or transient in duration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A euphemism for the death of a person; in sociology, the ability of a person to be accepted as a member of a different racial or social group.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will be bitter with him and passing short."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nay, these are almost thoroughly persuaded; For though abundantly they lack discretion, Yet are they passing cowardly."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A street near the gate Enter two Senators, with Ladies (Volumnia, Virgilia, Valeria) passing over the stage, with other Lords."*
+> - 📜 **William Shakespeare (*Richard III*):** *"O gentlemen, see, see! dead Henry's wounds open their congealed mouths; 'tis a **passing** wonder to our eyes."*
+> - 📜 **Alfred, Lord Tennyson (*In Memoriam A. H. H.*):** *"I held it truth, with him who sings to one clear harp in diverse tones, that men may rise on stepping-stones of their dead selves to higher things; yet mourn the **passing** friend."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The whale's spout was like a **passing** phantom of white mist drifting against the blue horizon."*

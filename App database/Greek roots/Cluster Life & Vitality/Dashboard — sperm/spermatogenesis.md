@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of male gamete formation including formation of a spermatocyte from a spermatogonium, meiotic division of the spermatocyte, and transformation of the four resulting spermatids into spermatozoa.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process of male gamete formation including formation of a spermatocyte from a spermatogonium, meiotic division of the spermatocyte, and transformation of the four resulting spermatids into spermatozoa.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The biological process of the formation and development of mature spermatozoa in the male seminiferous tubules.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The complete cellular progression from spermatogonial stem cells through meiotic divisions to flagellated spermatozoa.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spermatogenesis designates the process of male gamete formation including formation of a spermatocyte from a spermatogonium, meiotic division of the spermatocyte, and transformation of the four resulting spermatids into spermatozoa."*
+> - 📜 **August Weismann (*The Germ-Plasm: A Theory of Heredity*):** *"Continuous **spermatogenesis** provides millions of unique recombinant gametes throughout the reproductive life of the male."*
+> - 📜 **Frank Beach (*Hormones and Behavior*):** *"Luteinizing hormone and follicle-stimulating hormone act synergistically to maintain active **spermatogenesis**."*
+> - 📜 **William Boyd (*A Textbook of Pathology*):** *"Cryptorchidism leads to thermal arrest of **spermatogenesis** while leaving androgen-producing Leydig cells intact."*

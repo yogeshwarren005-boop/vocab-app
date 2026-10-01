@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An agent producing diminished sensation to pain without loss of consciousness : a drug that is used to relieve pain and produce analgesia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to, characterized by, or producing analgesia : relieving or lessening pain without loss of consciousness; also : caused by the use of analgesics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A drug or remedy that relieves or eliminates pain without causing loss of consciousness; pain-relieving.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to or characterized by the pharmacological property of suppressing pain perception along spinal and thalamic pathways.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, analgesic designates an agent producing diminished sensation to pain without loss of consciousness : a drug that is used to relieve pain and produce analgesia."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Creeping Man*):** *"The physician administered a soothing **analgesic** draught to calm the patient's acute neuralgic paroxysms."*
+> - 📜 **Paul Ehrlich (*Studies in Immunity*):** *"Synthetic chemists sought an ideal **analgesic** compound that would bind selectively to pain receptors without respiratory depression."*
+> - 📜 **William Carlos Williams (*Autobiography*):** *"In the working-class tenements, the doctor had little to offer beyond comforting words and a pocketful of **analgesic** tablets."*

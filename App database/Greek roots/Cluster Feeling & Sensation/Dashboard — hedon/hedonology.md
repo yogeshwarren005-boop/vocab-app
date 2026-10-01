@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek hedon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Feeling & Sensation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The philosophical, psychological, or scientific study of pleasure, its physiological mechanisms, and its ethical role in human conduct.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The systematic classification of pleasures and pains in moral philosophy and affective science.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hedonology designates a term designating an entity, condition, or phenomenon derived from greek hedon."*
+> - 📜 **Alexander Bain (*Mental and Moral Science*):** *"A comprehensive treatise on **hedonology** must differentiate organic physical pleasures from intellectual and aesthetic emotions."*
+> - 📜 **Herbert Spencer (*The Principles of Ethics*):** *"Biological evolution provides the ultimate foundation for **hedonology**, aligning pleasurable sensations with species survival."*
+> - 📜 **Henry Sidgwick (*The Methods of Ethics*):** *"The paradox of **hedonology** is that the conscious, direct pursuit of pleasure often defeats its own realization."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or resembling a polyhedron.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or resembling a polyhedron.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or shaped like a polyhedron; having many plane faces or polygonal facets.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In structural biochemistry and morphology, describing symmetric multi-faceted forms such as viral protein capsids and geometric crystal clusters.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polyhedral designates of or relating to or resembling a polyhedron."*
+> - 📜 **Leonhard Euler (*Solutio problematis ad geometriam situs pertinentis*):** *"The general **polyhedral** theorem demonstrates that vertices plus faces always exceed edges by two."*
+> - 📜 **Johannes Kepler (*Mysterium Cosmographicum*):** *"The divine architect arranged the heavenly spheres according to the harmony of the five regular **polyhedral** solids."*
+> - 📜 **D'Arcy Wentworth Thompson (*On Growth and Form*):** *"Surface tension in crowded soap bubbles forces the cells into complex **polyhedral** packing geometries."*

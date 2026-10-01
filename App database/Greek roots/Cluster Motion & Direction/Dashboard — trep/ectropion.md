@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek trep.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Motion & Direction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The eversion or turning outward of an edge or margin, especially the lower eyelid, exposing the palpebral conjunctiva.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ophthalmology and surgical pathology, a condition caused by senile tissue laxity, facial nerve palsy, or cicatricial scarring, resulting in chronic epiphora and corneal irritation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ectropion designates a term designating an entity, condition, or phenomenon derived from greek trep."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Severe cicatricial **ectropion** followed the chemical burn, pulling the margin of the eyelid down onto the cheek."*
+> - 📜 **Robley Dunglison (*Medical Lexicon*):** *"The surgeon performed a wedge resection of the tarsal plate to correct the persistent senile **ectropion**."*
+> - 📜 **Samuel Cooper (*A Dictionary of Practical Surgery*):** *"Unless **ectropion** is surgically remedied, the constant exposure of the ocular surface leads inevitably to chronic ulceration."*

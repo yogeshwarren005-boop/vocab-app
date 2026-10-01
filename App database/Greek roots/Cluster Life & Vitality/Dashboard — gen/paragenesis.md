@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The formation of minerals in contact in such a manner as to affect one another's development.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The formation of minerals in contact in such a manner as to affect one another's development.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The sequential or contemporaneous formation of associated minerals under characteristic geological, temperature, and pressure conditions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The study of the geochemical order and equilibrium associations of coexisting mineral phases in ore deposits and metamorphic rocks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paragenesis designates the formation of minerals in contact in such a manner as to affect one another's development."*
+> - 📜 **August Breithaupt (*Die Paragenesis der Mineralien*):** *"I established the term **paragenesis** to signify the lawful coexistence and sequence of minerals in natural ore veins."*
+> - 📜 **Waldemar Lindgren (*Mineral Deposits*):** *"Microscopic study of polished ore slabs unveils the detailed **paragenesis** of copper and silver sulfides."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The mineral **paragenesis** in granitic pegmatites reveals the cooling history of volatile magmatic residual fluids."*

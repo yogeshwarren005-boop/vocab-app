@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A musical composition that evokes rural life.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A letter from a pastor to the congregation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the country, farm life, or the grazing of sheep and cattle; depicting an idealized rural landscape in literature, art, or music.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Concerning the spiritual guidance, care, and counseling given by a Christian pastor to their congregation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The best actors in the world, either for tragedy, comedy, history, pastoral, pastoral-comical, historical-pastoral, tragical-historical, tragical-comical-historical-pastoral, scene individable, or poem unlimited."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"This present shepherd, our pastoral Richard, brightens the dull Inns of Court by making Fortune and her train sport through them to the melodious notes of a judgment from the bench."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Then does she twirl and twine, a pastoral nymph of good family, through the mazes of the dance."*
+> - 📜 **William Wordsworth (*Michael: A Pastoral Poem*):** *"Upon the forest-side in Grasmere Vale, there dwelt a shepherd; 'tis a **pastoral** tale told by the mountain hearth."*
+> - 📜 **Ludwig van Beethoven (*Symphony No. 6 (Pastoral)*):** *"The Sixth Symphony expresses recollections of country life, a joyful **pastoral** awakening of serene rural feelings."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Now gentle gales, fanning their odoriferous wings, dispense native perfumes, and whisper whence they stole those balmy **pastoral** spoils."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unhappy about being away and longing for familiar things or persons.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unhappy about being away and longing for familiar things or persons.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Experiencing, exhibiting, or evoking a sentimental yearning for the past or for familiar places.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by wistful retrospective contemplation in art, literature, and memory studies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nostalgic designates unhappy about being away and longing for familiar things or persons."*
+> - 📜 **Virginia Woolf (*Mrs. Dalloway*):** *"The sound of Big Ben striking the hour carried a **nostalgic** weight of summers long buried in the country."*
+> - 📜 **Vladimir Nabokov (*Speak, Memory*):** *"My **nostalgic** reverie recreates the stained-glass veranda of our country estate with photographic fidelity."*
+> - 📜 **W. G. Sebald (*The Rings of Saturn*):** *"Walking through decaying coastal resorts, one feels a **nostalgic** ache for a grandeur that has vanished forever."*

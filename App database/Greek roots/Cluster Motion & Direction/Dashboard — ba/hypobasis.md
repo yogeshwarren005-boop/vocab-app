@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ba.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Motion & Direction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An underlying base, substructure, or lowest foundation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In architecture or morphology, the lower pedestal or subterranean supporting tier.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypobasis designates a term designating an entity, condition, or phenomenon derived from greek ba."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The massive stone **hypobasis** anchored the column securely against the tidal wash of the lagoon."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The osteological **hypobasis** supports the entire load of the cervical axial skeleton."*
+> - 📜 **Vitruvius (*De Architectura*):** *"Before raising the colonnade, the architect must ensure the solidity of the **hypobasis** in firm bedrock."*

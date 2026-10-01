@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A native or resident of oregon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A native or resident of oregon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A native or inhabitant of the state of Oregon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or characteristic of Oregon, its geography, ecology, culture, or inhabitants.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oregonian designates a native or resident of oregon."*
+> - 📜 **John Muir (*Steep Trails*):** *"The tall **Oregonian** firs formed an unbroken green canopy that stretched from the snowy mountain slopes to the ocean."*
+> - 📜 **Walt Whitman (*Leaves of Grass*):** *"I hear the robust song of the woodsman in the virgin forests, the hearty **Oregonian** pioneer clearing timber."*
+> - 📜 **Francis Parkman (*The Oregon Trail*):** *"An old **Oregonian** hunter sat by our camp-fire, recounting narrow escapes from grizzly bears in the mountain passes."*

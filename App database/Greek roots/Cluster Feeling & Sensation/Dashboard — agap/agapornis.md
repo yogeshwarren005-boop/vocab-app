@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of psittacidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of psittacidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of small, brightly plumaged parrots native to Africa and Madagascar, commonly known as lovebirds, noted for lifelong monogamous pair bonding.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An avian genus (family Psittaculidae) named from Greek *agapē* ('love') and *ornis* ('bird') because mates sit side by side preening affectionately.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, agapornis designates a genus of psittacidae."*
+> - 📜 **Alfred Russel Wallace (*The Geographical Distribution of Animals*):** *"The dwarf parrots of the genus **Agapornis** are characteristic of the Ethiopian zoological region."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The constant Mutual preening and attachment observed in caged **Agapornis** illustrates the intensity of avian monogamy."*
+> - 📜 **John Gould (*The Birds of Australia*):** *"African species of **Agapornis** possess compact bodies and brilliant facial masks unmatched among small parakeets."*

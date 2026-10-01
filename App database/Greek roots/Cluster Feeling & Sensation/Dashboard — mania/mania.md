@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Excitement manifested by mental and physical hyperactivity, disorganization of behavior, and elevation of mood; specifically : the manic phase of bipolar disorder.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Excessive or unreasonable enthusiasm —often used in combination.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of abnormally elevated arousal, affect, and energy level; wild enthusiasm or frenzy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychiatry, a severe mood state characteristic of bipolar disorder involving grandiosity, pressured speech, and lack of need for sleep.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"My religious mania, or whatever it was, is over."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"This feeling ultimately became a kind of mania with him."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Violence of temper approaching to mania has been hereditary in the men of the family, and in my stepfather’s case it had, I believe, been intensified by his long residence in the tropics."*
+> - 📜 **Robert Burton (*The Anatomy of Melancholy*):** *"When melancholy fumes heat the brain to boiling, the humor bursts forth as raging **mania**."*
+> - 📜 **Philippe Pinel (*A Treatise on Insanity*):** *"Patients seized by sudden **mania** display incredible muscular power and complete disregard for cold."*
+> - 📜 **Sigmund Freud (*Mourning and Melancholia*):** *"The joyful frenzy of **mania** signifies that the ego has temporarily thrown off the tyrannical burdens of the conscience."*

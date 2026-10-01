@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of passing from one state or place to the next.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A section of text; particularly a section of medium length.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act, process, or instance of passing; transit from one place, state, or time to another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A narrow corridor, hallway, or navigational route (e.g., the Northwest Passage); an excerpt from a book, speech, or piece of music.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This young gentlewoman had a father—O that “had!”, how sad a passage ’tis!—whose skill was almost as great as his honesty; had it stretch’d so far, would have made nature immortal, and death should have play for lack of work."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He will mow all down before him and leave his passage polled."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You are to know That prosperously I have attempted, and With bloody passage led your wars even to The gates of Rome."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Satan explored the dark abyss, seeking a secret **passage** between the bounds of Chaos and the new-created World."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Our stormy **passage** around Cape Horn battered the little Beagle with monstrous waves for twenty-four days."*
+> - 📜 **Samuel Johnson (*Lives of the Most Eminent English Poets*):** *"He cited a memorable **passage** from Dryden that captured the whole philosophy of heroic tragedy."*

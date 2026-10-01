@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the prostate gland.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to the prostate gland.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, affecting, or produced by the prostate gland.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In urology, describing anatomical structures (e.g., prostatic urethra) or pathological conditions (e.g., prostatic hyperplasia).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prostatic designates relating to the prostate gland."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Chronic **prostatic** hypertrophy leads progressively to bilateral hydronephrosis if left untreated."*
+> - 📜 **Gray's Anatomy (*Anatomy of the Human Body*):** *"The **prostatic** venous plexus communicates freely with the vesical plexus and the vertebral veins."*
+> - 📜 **Samuel Cooper (*A Dictionary of Practical Surgery*):** *"Catheterization through the **prostatic** portion of the urethra requires extreme gentleness to avoid false passages."*

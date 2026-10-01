@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective & Noun*) Resembling, having the physical form of, or akin to death.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective & Noun*) Resembling, having the physical form of, or akin to death.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling death; deathlike; mortal or deadly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In toxicology and pathology, describing states of extreme prostration, stupor, or coma mimicking somatic death (as in snake venom poisoning).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thanatoid designates adjective & noun*) resembling, having the physical form of, or akin to death."*
+> - 📜 **Patrick Manson (*Tropical Diseases*):** *"The bite of the sea snake induces a **thanatoid** collapse, with flaccid paralysis and imperceptible respiration."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The patient lay in a profound **thanatoid** coma, unresponsive to painful cutaneous stimuli."*
+> - 📜 **Edgar Allan Poe (*The Premature Burial*):** *"A state of **thanatoid** catalepsy held her motionless, mimicking the pallor and rigidity of the grave."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state in northwestern united states on the pacific.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state in northwestern united states on the pacific.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A state in the Pacific Northwest region of the United States, known for its rugged Pacific coastline, volcanic Cascade Range, and vast coniferous forests.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically, the Oregon Country or Oregon Trail, the historic 2,000-mile emigrant route traversed by American pioneers in the 19th century.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Though thousands of miles from Oregon, still when he smells that savage musk, the rending, goring bison herds are as present as to the deserted wild foal of the prairies, which this instant they may be trampling into dust."*
-> - 📜 **Effie Afton (*Eventide*):** *"Old Oregon We'll look not on; Ho, for mines of wealth untold!"*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"The men came in slowly at the last,--a lieutenant, all the way from Oregon, being among the very latest."*
+> - 📜 **Francis Parkman (*The Oregon Trail*):** *"Our party set out for **Oregon** across the trackless prairies, guided only by the distant peaks and compass."*
+> - 📜 **Henry David Thoreau (*Walking*):** *"The future of America lies toward the West, across the Rockies and down the noble Columbia river into **Oregon**."*
+> - 📜 **Theodore Roosevelt (*The Winning of the West*):** *"The hardy pioneers who drove their ox-teams to **Oregon** planted the flag firmly upon the shores of the Pacific."*

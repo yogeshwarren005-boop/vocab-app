@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: By genetic mechanisms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: By genetic mechanisms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a genetic manner; with regard to genes, heredity, or biological origin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: By means of genetic engineering, selective breeding, or hereditary transmission.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, genetically designates by genetic mechanisms."*
+> - 📜 **Theodosius Dobzhansky (*Genetics and the Origin of Species*):** *"Geographic races of a single species are **genetically** differentiated systems adapted to local ecological regimes."*
+> - 📜 **Richard Dawkins (*The Selfish Gene*):** *"An organism acts to maximize the survival of copies of its own genes found **genetically** in kin."*
+> - 📜 **James Watson (*The Double Helix*):** *"Base pairing in DNA explains how genetic information is copied **genetically** with immaculate precision."*

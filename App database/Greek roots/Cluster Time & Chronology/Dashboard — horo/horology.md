@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The science of measuring time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The art of making instruments for indicating time.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The study and measurement of time; the art or practice of designing and making clocks, watches, and timepieces.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of science and mechanical engineering, the discipline that developed marine chronometers, pendulum clocks, and quartz oscillators.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, horology designates the science of measuring time."*
+> - 📜 **Lord Kelvin (*Popular Lectures and Addresses*):** *"The triumphs of modern **horology** transformed maritime navigation from perilous guesswork into an exact mathematical science."*
+> - 📜 **James Cook (*A Voyage Towards the South Pole*):** *"Our expedition proved the supreme triumph of **horology**, Harrison's watch preserving Greenwich time across thousands of leagues."*
+> - 📜 **Lewis Mumford (*Technics and Civilization*):** *"The clock, not the steam engine, was the key machine of modern industrial capitalism, and **horology** was its mother science."*

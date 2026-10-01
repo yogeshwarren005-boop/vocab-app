@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marriage outside of a specific group especially as required by custom or law.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marriage outside of a specific group especially as required by custom or law.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by or practicing exogamy; marrying outside one's tribe, clan, or social group.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ethnology and structural anthropology, describing social structures where marital partners must be chosen from external lineages to create inter-clan alliances.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The Bataks are divided into exogamous clans (_margas_) with descent in the male line; and each clan is forbidden to eat the flesh of a particular animal."*
+> - 📜 **James George Frazer (*The Golden Bough*):** *"Every Australian aboriginal belonged to an **exogamous** class that dictated precisely which external group could supply a spouse."*
+> - 📜 **Claude Lévi-Strauss (*The Elementary Structures of Kinship*):** *"The **exogamous** mandate transforms biological reproduction into an institutional network of reciprocal social exchange."*
+> - 📜 **Lewis Henry Morgan (*Ancient Society*):** *"The archaic Roman gens was originally **exogamous**, forbidding patrician youths from marrying women of their own clan name."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who writes chronicles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who writes chronicles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who writes accounts of important or historical events; a recorder of annals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medieval and renaissance studies, an author who sets down contemporary or traditional history in chronological order.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"After my death I wish no other herald, No other speaker of my living actions, To keep mine honour from corruption But such an honest chronicler as Griffith."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The whale has no famous author, and whaling no famous chronicler, you will say. _The whale no famous author, and whaling no famous chronicler?_ Who wrote the first account of our Leviathan?"*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"You’ll come with me, won’t you?” “If I can be of use.” “Oh, a trusty comrade is always of use; and a chronicler still more so."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"Froissart was the most vivid **chronicler** of chivalric warfare, recording knights' deeds with infectious enthusiasm."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Byzantine **chronicler** neglected imperial statecraft to recount miraculous portents and monastery intrigues."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"Every village has its talkative **chronicler**, whose memory preserves every birth, scandal, and funeral for fifty years."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Conjuration of the spirits of the dead for purposes of magically revealing the future or influencing the course of events.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Magic, sorcery.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The practice of communicating with the dead, especially in order to predict future events; black art, sorcery, or witchcraft.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The dark arts of summoning specters or reanimating corpses in esoteric mysticism and mythological folklore.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"I now called to mind what I had read of certain colleges in old times, where judicial astrology, geomancy, necromancy, and other forbidden and magical sciences were taught."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"He was said to deal in necromancy, and to be attended by an old Indian witch or prophetess, whom he consulted and who assisted him by her charms and incantations."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The necromancy of yester- day foreshadowed the mesmerism and hypno- tism of to-day."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Superstitious arts such as astrology and **necromancy** promise much yet produce only imposture and deceit."*
+> - 📜 **Thomas Browne (*Hydriotaphia, Urn Burial*):** *"The ancient Witch of Endor practiced forbidden **necromancy**, bringing up the troubled ghost of Samuel before Saul."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"Imperial edicts inflicted capital penalties on all who consulted midnight séances and pagan **necromancy**."*

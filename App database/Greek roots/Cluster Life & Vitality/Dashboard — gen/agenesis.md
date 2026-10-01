@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Imperfect development; nondevelopment of a part.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Imperfect development; nondevelopment of a part.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The complete absence or failure of development of an organ, limb, or anatomical structure during embryonic ontogeny.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Congenital failure of a primitive tissue primordium to form, as in renal agenesis or agenesis of the corpus callosum.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, agenesis designates imperfect development; nondevelopment of a part."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"We contrast developmental hypoplasia with total **agenesis**, where the cellular rudiment fails to appear in early embryogenesis."*
+> - 📜 **William Boyd (*A Textbook of Pathology*):** *"Bilateral renal **agenesis** is incompatible with extrauterine life and results in the characteristic facies of Potter's syndrome."*
+> - 📜 **James Ewing (*Neoplastic Diseases*):** *"Congenital **agenesis** of endocrine tissue highlights the critical role of hormonal feedback loops during fetal life."*

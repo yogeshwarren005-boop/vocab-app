@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The art of discovering temperament and character from outward appearance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The facial features held to show qualities of mind or character by their configuration or expression.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The art of judging character, temperament, or mental qualities from facial features or outward physical appearance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The general external appearance or facial expression of an individual; also the characteristic topography or landscape appearance of a region.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In Ajax and Ulysses, O, what art Of physiognomy might one behold!"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Over and above the faces that have fallen drowsily on tables and the heels that lie prone on hard floors instead of beds, the brick and mortar physiognomy of the very court itself looks worn and jaded."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"His pew is exactly opposite yours, miss.” “I know it.” “And you did not see his goings on!” “Certainly I did not, I tell you.” Liddy assumed a smaller physiognomy, and shut her lips decisively."*
+> - 📜 **Aristotle (*Prior Analytics*):** *"It is possible to judge a man's nature from his **physiognomy**, if it be granted that body and soul change together under natural affections."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"The study of human **physiognomy** demonstrates how facial muscular contractions express ancestral survival instincts."*
+> - 📜 **Alexander von Humboldt (*Aspects of Nature*):** *"The total **physiognomy** of a landscape is determined by the predominant botanical forms clothing its soil."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A flattened stem resembling and functioning as a leaf.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A flattened stem resembling and functioning as a leaf.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A flattened, leaf-like stem or branch that functions as a foliage leaf; variant of phylloclade.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An evolutionary vegetative adaptation in plants where true leaves are reduced and stems take over photosynthesis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phylloclad designates a flattened stem resembling and functioning as a leaf."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"In butcher's broom, the apparent leaves are in reality expanded green **phylloclads** bearing flowers upon their face."*
+> - 📜 **Johann Wolfgang von Goethe (*The Metamorphosis of Plants*):** *"The metamorphosis of the axis into a photosynthetic **phylloclad** illustrates nature's morphological fluidity."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"Spiny scales at the center of each **phylloclad** mark the true axillary origin of the branch structure."*

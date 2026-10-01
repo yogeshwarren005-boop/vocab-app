@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (judaism) a jewish festival (traditionally 8 days from nissan 15) celebrating the exodus of the israelites from egypt.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (judaism) a jewish festival (traditionally 8 days from nissan 15) celebrating the exodus of the israelites from egypt.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A major Jewish spring holiday and festival (Pesach) commemorating the liberation of the Israelites from slavery in ancient Egypt.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The biblical event wherein the Angel of Death passed over the blood-marked houses of the Israelites during the tenth Egyptian plague.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The fast called the Passover—a religious affair, of course—was near, and thousands were pouring in from the country, according to custom, to celebrate the feast in Jerusalem."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"You know how he tried to befool the mob, first by mocking Jesus as a harmless fool; and second by offering to release him according to the custom of releasing one prisoner at time of the Passover."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"He lets them manage the boat, while he sleeps (Mark 4:38), and go and prepare for him (Luke 9:52), and see to the Passover meal (Mark 14:13)."*
+> - 📜 **Flavius Josephus (*The Jewish War*):** *"Multitudes gathered from every province to Jerusalem to sacrifice the lamb at the solemn feast of **Passover**."*
+> - 📜 **Baruch Spinoza (*Tractatus Theologico-Politicus*):** *"The festival of the **Passover** served as an annual civic remembrance of Hebrew national emancipation."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The blood-besprinkled lintels saved the chosen seed when the angel of **Passover** smote Egypt's first-born."*

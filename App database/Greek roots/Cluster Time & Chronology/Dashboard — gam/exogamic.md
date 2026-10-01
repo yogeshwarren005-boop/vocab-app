@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by or fit for fertilization by a flower that is not closely related.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to or characterized by the custom of marrying only outside the limits of a clan or tribe.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, based on, or practicing exogamy; requiring marriage outside one's clan or social group.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural anthropology, characterizing kinship rules that forbid matrimonial alliances within the same totem, sept, or lineage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, exogamic designates characterized by or fit for fertilization by a flower that is not closely related."*
+> - 📜 **James George Frazer (*Totemism and Exogamy*):** *"The **exogamic** rule was enforced with draconian severity, treating union within the totem as an unforgivable incestuous crime."*
+> - 📜 **Lewis Henry Morgan (*Ancient Society*):** *"The Iroquois confederacy was founded upon an **exogamic** clan system that knit diverse tribes into mutual kinship."*
+> - 📜 **Edward Westermarck (*The History of Human Marriage*):** *"An **exogamic** custom forces young warriors to seek brides among neighboring, often hostile, valley communities."*

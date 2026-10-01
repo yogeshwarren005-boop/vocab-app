@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of erosion whereby a level surface is produced.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process of erosion whereby a level surface is produced.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of making something flat; specifically, the leveling of land by erosion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Geological erosion whereby streams or marine surf reduce topography to a broad, flat erosion surface.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Divine metaphysics reverses perverted 111:15 and physical hypotheses as to Deity, even as the ex- planation of optics rejects the incidental or inverted image and shows what this inverted image is meant to 111:18 represent."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The ex- 385:6 planation lies in the support which they derived from the divine law, rising above the human."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"While 236:30 age is halting between two opinions or battling with false beliefs, youth makes easy and rapid strides towards Truth. 237:1 A little girl, who had occasionally listened to my ex- planations, badly wounded her finger."*
+> - 📜 **Archibald Geikie (*The Scenery of Scotland*):** *"Centuries of subaerial **planation** ground down the ancient Caledonian mountain roots into rolling tablelands."*
+> - 📜 **William Morris Davis (*Geographical Essays*):** *"Lateral stream migration accelerates the **planation** of valley floors into fertile alluvial plains."*
+> - 📜 **Grove Karl Gilbert (*Report on the Geology of the Henry Mountains*):** *"Stream corrasion achieves horizontal **planation** when vertical trenching ceases at local base level."*

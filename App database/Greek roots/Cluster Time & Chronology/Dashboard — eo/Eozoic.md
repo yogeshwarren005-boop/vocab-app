@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of dawn, east.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of dawn, east.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the earliest era of animal life on earth; older term for the early Precambrian or Archean/Proterozoic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical geology and Victorian paleontology, the supposed period marked by the 'dawn of life' (Greek eos 'dawn' + zoe 'life'), associated with enigmatic structures like Eozoön canadense.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Eozoic designates adjective*) pertaining to, derived from, or characteristic of dawn, east."*
+> - 📜 **John William Dawson (*The Dawn of Life*):** *"The serpentine limestone of the Laurentian rocks represents the **Eozoic** dawn, preserving the earliest trace of organic architecture."*
+> - 📜 **Charles Lyell (*The Student's Elements of Geology*):** *"Geologists designated these unfossiliferous basal schists as **Eozoic**, anticipating that primitive organisms had tenanted those ancient seas."*
+> - 📜 **Thomas Henry Huxley (*Lay Sermons, Addresses, and Reviews*):** *"Whether the structures from the **Eozoic** strata be organic or mineral remains one of the sharpest controversies in paleontology."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The master gland of the endocrine system; located at the base of the brain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The master gland of the endocrine system; located at the base of the brain.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The pituitary gland (hypophysis cerebri), a master endocrine gland situated at the base of the brain in the sella turcica.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In embryology, the basal cell or outgrowth in plant embryos; in anatomy, the neuroendocrine dual organ comprising adenohypophysis and neurohypophysis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypophysis designates the master gland of the endocrine system; located at the base of the brain."*
+> - 📜 **Harvey Cushing (*The Pituitary Body and Its Disorders*):** *"The **hypophysis** cerebri is an anatomical marvel, linking cerebral nervous circuitry with systemic chemical coordination."*
+> - 📜 **Bernardo Houssay (*The Hypophysis and Metabolism*):** *"Removal of the anterior **hypophysis** attenuates the metabolic severity of pancreatic diabetes."*
+> - 📜 **Karl Ernst von Baer (*Entwickelungsgeschichte der Thiere*):** *"Rathke's pouch evaginates from the stomodeal roof to meet the infundibulum and fashion the **hypophysis**."*

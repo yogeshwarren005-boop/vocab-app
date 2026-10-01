@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek cac.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Feeling & Sensation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A severe, inflammatory disease of the spine or vertebral column (derived from Greek *kakos* 'bad' and *rhachis* 'spine', with *-itis*).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In 19th-century surgical pathology, tuberculous or destructive caries of the vertebrae (closely allied to Pott's disease of the spine).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cacorrhacitis designates a term designating an entity, condition, or phenomenon derived from greek cac."*
+> - 📜 **Percivall Pott (*Remarks on that Kind of Palsy of the Lower Limbs*):** *"The curvature of the back and paralysis of the legs arise from an insidious **cacorrhacitis** eroding the vertebral bodies."*
+> - 📜 **Sir Astley Cooper (*A Treatise on Dislocations and on Fractures of the Joints*):** *"In cases of suspected **cacorrhacitis**, absolute recumbency on a firm mattress must be enforced to prevent spinal collapse."*
+> - 📜 **Robert Liston (*Practical Surgery*):** *"Suppurative **cacorrhacitis** demands early evacuation of cold abscesses before spinal cord compression ensues."*

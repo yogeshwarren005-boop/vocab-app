@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek aesth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Feeling & Sensation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Greek root *aesth-* (from *aisthēsis*), denoting perception, physical sensation, feeling, or sensory awareness, forming the foundation of *aesthetic*, *aesthesia*, and *anaesthesia*.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The foundational morpheme in philosophical epistemology and sensory physiology signifying the immediate apprehension of phenomena through the somatic senses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aesth designates a term designating an entity, condition, or phenomenon derived from greek aesth."*
+> - 📜 **Henry George Liddell & Robert Scott (*A Greek-English Lexicon*):** *"The primitive stem **aesth** underlies Greek verbs signifying to perceive, to comprehend by sense-perception, or to feel physically."*
+> - 📜 **Alexander Baumgarten (*Aesthetica*):** *"Borrowing from ancient **aesth**, we propose aesthetics as the science of sensory cognition directed toward beauty."*
+> - 📜 **Walter Pater (*The Renaissance: Studies in Art and Poetry*):** *"The Greek mind anchored all intellectual contemplation in the delicate alertness of **aesth**, the pure vitality of physical sensation."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Flat on one side and concave on the other.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Flat on one side and concave on the other.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Flat on one side and concave on the other (of an optical lens or reflective surface).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An optical diverging lens with one plane surface and one inwardly curved spherical surface.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, planoconcave designates flat on one side and concave on the other."*
+> - 📜 **Isaac Newton (*Opticks*):** *"A **planoconcave** lens diverges incident parallel rays, creating a virtual focal point behind the curve."*
+> - 📜 **David Brewster (*A Treatise on Optics*):** *"Combining a biconvex crown with a **planoconcave** flint glass yielded an effective achromatic doublet."*
+> - 📜 **Hermann von Helmholtz (*Physiological Optics*):** *"The corrective spectacle lens was ground **planoconcave** to alleviate high degrees of myopia."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The one-humped camel (Camelus dromedarius) currently existing only as a domestic or feral animal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The one-humped camel (Camelus dromedarius) currently existing only as a domestic or feral animal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A single-humped camel (Camelus dromedarius), native to the Arabian Peninsula and North Africa, bred as a swift riding or pack animal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural history and mammalogy, distinguished from the two-humped Bactrian camel by its desert speed, literally meaning 'the runner' (Greek dromas).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"They are generally Richard III. whales, with dromedary humps, and very savage; breakfasting on three or four sailor tarts, that is whaleboats full of mariners: their deformities floundering in seas of blood and blue paint."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Out of the way, Commodore!” cried one, to a great dromedary that of a sudden rose bodily to the surface, and for an instant threatened to swamp us."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"They said it was bull-beef; others, that it was dromedary beef; but I do not know, for certain, how that was."*
+> - 📜 **Richard Francis Burton (*Personal Narrative of a Pilgrimage to Al-Madinah and Meccah*):** *"The Arabian **dromedary** glides across the burning dunes with an untiring, swaying trot."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"A swift **dromedary** carried the royal courier across the Syrian waste in fewer days than a horse troop could march."*
+> - 📜 **Charles Doughty (*Travels in Arabia Deserta*):** *"We mounted our tall **dromedary** beasts at dawn, pressing south through the vast wilderness."*

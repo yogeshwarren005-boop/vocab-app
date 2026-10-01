@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Producing or produced by living things.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Producing or produced by living things.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Produced by living organisms; of organic or biological origin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geology and sedimentology, designating deposits (such as coral reefs, chalk, or diatomaceous ooze) constructed by organisms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, biogenous designates producing or produced by living things."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Immense coral limestone formations provide striking testimony to the vast scale of **biogenous** rock building."*
+> - 📜 **Archibald Geikie (*Textbook of Geology*):** *"Pelagic globigerina ooze represents a purely **biogenous** deposit covering vast expanses of the abyssal ocean floor."*
+> - 📜 **Vladimir Vernadsky (*The Biosphere*):** *"The atmosphere's oxygen is entirely **biogenous**, created and continuously replenished by photosynthetic vegetation."*

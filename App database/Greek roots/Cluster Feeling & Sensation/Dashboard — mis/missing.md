@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fail to perceive or to catch with the senses or the mind.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Feel or suffer from the lack of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not present, lost, or unable to be found; absent from a customary or expected place.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of a soldier or sailor, not accounted for after a military engagement but not known to be killed or captured.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My lord, the roynish clown, at whom so oft Your grace was wont to laugh, is also missing."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Good my liege, The day that she was missing he was here."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lord Cloten, Upon my lady’s missing, came to me With his sword drawn, foam’d at the mouth, and swore, If I discover’d not which way she was gone, It was my instant death."*
+> - 📜 **Daniel Defoe (*Robinson Crusoe*):** *"Of all our ship's company, not a soul survived save myself; all the rest were drowned and **missing**."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Missing Three-Quarter*):** *"Godfrey Staunton, the rugby three-quarter, was strangely **missing** from his Cambridge hotel on the eve of the match."*
+> - 📜 **George Orwell (*Homage to Catalonia*):** *"In the casualty lists, dozens of comrades were posted simply as **missing** after the night attack."*

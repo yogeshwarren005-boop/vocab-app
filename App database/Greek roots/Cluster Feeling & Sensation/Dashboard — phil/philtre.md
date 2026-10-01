@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek phil.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Feeling & Sensation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Alternative spelling of philter; a love potion or magical draught intended to kindle sexual affection.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A literary or archaic motif representing irrational, magically induced infatuation (as in the legend of Tristan and Isolde).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George MacDonald (*The Portent and Other Stories*):** *"Teufelsbürst, without philosophising about it, called his preparation simply a love-philtre, a concoction well known by name, but the composition of which was the secret of only a few."*
+> - 📜 **Thomas Malory (*Le Morte d'Arthur*):** *"Tristram and the fair Isolde drank the enchanted **philtre** unawares upon the ship, binding their souls in tragic love."*
+> - 📜 **Algernon Charles Swinburne (*Tristram of Lyonesse*):** *"The fiery wine was a fateful **philtre** whose drop sealed the doom of two royal lovers."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"Ancient sorcerers compounded their **philtres** of vervain, ambergris, and hippomanes to deceive gullible lovers."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek dram.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Motion & Direction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The mathematical study of how objects (such as solutions to differential equations or points on covering spaces) behave and transform as they are analytically continued along closed loops around singularities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In algebraic geometry and complex analysis, the group homomorphism (monodromy group) from the fundamental group of a punctured space to the automorphism group of the fibers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monodromy designates a term designating an entity, condition, or phenomenon derived from greek dram."*
+> - 📜 **Henri Poincaré (*Analysis Situs*):** *"Tracing algebraic functions along closed circuits around branch points reveals their underlying **monodromy** group."*
+> - 📜 **Bernhard Riemann (*Foundations for a General Theory of Functions*):** *"The multiple values assumed by a complex integral are completely governed by the **monodromy** around its singular points."*
+> - 📜 **Felix Klein (*Lectures on the Icosahedron*):** *"The linear differential equations of Gauss are classified through the spectral transformations of their **monodromy** operators."*

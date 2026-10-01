@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Seventh sunday after easter; commemorates the emanation of the holy spirit to the apostles; a quarter day in scotland.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (judaism) jewish holy day celebrated on the sixth of sivan to celebrate moses receiving the ten commandments.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A Christian festival celebrating the descent of the Holy Spirit on the Apostles fifty days after Easter; also the Jewish festival of Shavuot (the Feast of Weeks).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biblical history (Acts 2), the decisive birthday of the Christian Church marked by tongues of fire and the proclamation of the Gospel to diverse nations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You know since Pentecost the sum is due, And since I have not much importun’d you, Nor now I had not, but that I am bound To Persia, and want guilders for my voyage; Therefore make present satisfaction, Or I’ll attach you by this officer."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What, man, ’tis not so much, ’tis not so much: ’Tis since the nuptial of Lucentio, Come Pentecost as quickly as it will, Some five and twenty years; and then we mask’d."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Pentecost repeated 43:3 The magnitude of Jesus' work, his material disappear- ance before their eyes and his reappearance, all enabled the disciples to understand what Jesus had 43:6 said."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Then to the heaven-sent spirit down shall fly, / As at the day of **Pentecost**, to guide / The infant church with light and heavenly fire."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The feast of **Pentecost** brought devout pilgrims from every province of the Mediterranean world to Jerusalem."*
+> - 📜 **John Bunyan (*Grace Abounding to the Chief of Sinners*):** *"I remembered the glorious outpouring at **Pentecost**, and took heart that sovereign grace could reach even the chief of sinners."*

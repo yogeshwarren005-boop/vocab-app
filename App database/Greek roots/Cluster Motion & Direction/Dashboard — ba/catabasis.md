@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ba.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Motion & Direction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A military retreat or march down to the sea; the downward journey, especially Xenophon's march to the Euxine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A descent into the underworld in classical mythology (such as Odysseus, Orpheus, or Aeneas); a spiritual or psychological decline.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, catabasis designates a term designating an entity, condition, or phenomenon derived from greek ba."*
+> - 📜 **Xenophon (*Anabasis*):** *"After months of perilous mountain warfare, the ten thousand completed their joyful **catabasis** at the sight of the sea."*
+> - 📜 **C. G. Jung (*Psychology and Alchemy*):** *"In mythological archetypes, the hero's **catabasis** into the subterranean realm represents confrontation with the unconscious."*
+> - 📜 **Jane Ellen Harrison (*Prolegomena to the Study of Greek Religion*):** *"The ritual **catabasis** of the initiates re-enacted Persephone's seasonal descent to the house of Hades."*

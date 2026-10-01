@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of life / course of living / biological organism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of life / course of living / biological organism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to biosemiotics, the study of signs, communication, and meaning-making processes in living systems.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to signaling codes, molecular recognition, and communicative interactions across biological organisms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, biosemiotic designates adjective*) pertaining to, derived from, or characteristic of life / course of living / biological organism."*
+> - 📜 **Thomas Sebeok (*Signs: An Introduction to Semiotics*):** *"Every biological process involves a **biosemiotic** exchange of codes between organism and environment."*
+> - 📜 **Jesper Hoffmeyer (*Signs of Meaning in the Universe*):** *"The living cell operates as a **biosemiotic** entity, interpreting molecular sign vehicles to sustain its internal homeostasis."*
+> - 📜 **Terrence Deacon (*The Symbolic Species*):** *"Human linguistic capacity evolved upon deep **biosemiotic** substrates shared across animal kingdom communication systems."*

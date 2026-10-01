@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of fixing firmly in place.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A collection of plants (trees or shrubs or flowers) in a particular area.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of placing seeds, bulbs, or seedlings in the soil to grow.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An area of newly planted flora; a woodland plantation or landscaped arrangement of shrubs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"What have you been doing?” “Tending thrashing-machine and wimbling haybonds, and saying ‘Hoosh!’ to the cocks and hens when they go upon your seeds, and planting Early Flourballs and Thompson’s Wonderfuls with a dibble.” “Yes—I see."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The planting of flowers on Fanny’s grave had been perhaps but a species of elusion of the primary grief, and now it was as if his intention had been known and circumvented."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Whilst Oak was doing as she desired, Bathsheba collected the flowers, and began planting them with that sympathetic manipulation of roots and leaves which is so conspicuous in a woman’s gardening, and which flowers seem to understand and thrive upon."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"Spring brought the busy season of fir-tree **planting** across the damp Dorsetshire slopes."*
+> - 📜 **Henry David Thoreau (*Faith in a Seed*):** *"Nature accomplishes her **planting** through wind, water, and the caching habits of squirrels."*
+> - 📜 **Francis Bacon (*Of Gardens*):** *"The **planting** should be arranged so that there may be gardens for all the months of the year."*

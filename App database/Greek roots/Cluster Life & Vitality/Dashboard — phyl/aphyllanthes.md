@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One species; small fibrous-rooted perennial with rushlike foliage and deep blue flowers; sometimes placed in its own family aphyllanthaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One species; small fibrous-rooted perennial with rushlike foliage and deep blue flowers; sometimes placed in its own family aphyllanthaceae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A monotypic genus of perennial herbs (*Aphyllanthes monspeliensis*, the blue aphyllanthes) native to the western Mediterranean basin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tufted calcicolous plant whose leafless rush-like stems carry solitary, brilliant blue, star-like blossoms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aphyllanthes designates one species; small fibrous-rooted perennial with rushlike foliage and deep blue flowers; sometimes placed in its own family aphyllanthaceae."*
+> - 📜 **Carl Linnaeus (*Species Plantarum*):** *"I described **Aphyllanthes** monspeliensis from the stony limestone hills of southern France and Spain."*
+> - 📜 **Augustin Pyramus de Candolle (*Botanicon Gallicum*):** *"On the arid garrigue plateaus, tufts of **Aphyllanthes** flourish amidst thyme and dwarf scrub oaks."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The solitary terminal blue flower of **Aphyllanthes** belies the absence of true functional leaf blades."*

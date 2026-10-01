@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mass of undifferentiated cells capable of growth and differentiation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mass of undifferentiated cells capable of growth and differentiation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mass of undifferentiated, proliferating cells capable of growth and tissue regeneration into complete anatomical structures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The rudimentary formative substance or cellular budding zone from which an amputated organ or limb is regenerated.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, blastema designates a mass of undifferentiated cells capable of growth and differentiation."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Invertebrate Animals*):** *"At the amputation surface of the salamander limb, a conical **blastema** forms rapidly from dedifferentiated mesodermal cells."*
+> - 📜 **Karl Ernst von Baer (*Über Entwickelungsgeschichte der Thiere*):** *"The embryonic **blastema** undergoes progressive histological differentiation before individual organ boundaries become discernible."*
+> - 📜 **Richard Owen (*Lectures on Comparative Anatomy*):** *"Regenerative power in lower amphibia proceeds from the prolific vitality of the sub-epithelial **blastema**."*

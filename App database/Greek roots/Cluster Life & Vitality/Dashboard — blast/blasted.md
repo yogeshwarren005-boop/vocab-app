@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make a strident sound.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hit hard.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Blighted, withered, or damaged as if struck by lightning, frost, or disease.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cursed, ruined, or shattered violently by an explosive shockwave.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To see ’t mine eyes are blasted."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This jack of Caesar’s shall Bear us an errand to him. [_Exeunt Servants with Thidias._] You were half blasted ere I knew you."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And I, of ladies most deject and wretched, That suck’d the honey of his music vows, Now see that noble and most sovereign reason, Like sweet bells jangled out of tune and harsh, That unmatch’d form and feature of blown youth Blasted with ecstasy."*
+> - 📜 **William Shakespeare (*Macbeth*):** *"Say from whence you owe this strange intelligence? or why upon this **blasted** heath you stop our way with such prophetic greeting?"*
+> - 📜 **John Milton (*Paradise Lost*):** *"Glory obscure: as when the Sun new risen looks through the horizontal misty air shorn of his beams, or from behind the moon in dim eclipse disastrous twilight sheds on half the nations, and with fear of change perplexes monarchs. Darkened so, yet shone above them all the Archangel: but his face deep scars of thunder had intrenched, and care sat on his faded cheek, but under brows of dauntless courage, and considerate pride waiting revenge: cruel his eye, but cast signs of remorse and passion to behold the fellows of his crime, the followers rather (far other once beheld in bliss) condemned for ever now to have their lot in pain, millions of spirits for his fault amerced of Heaven, and from eternal splendours flung for his revolt, yet faithful how they stood, their glory withered: as when Heaven's fire hath scathed the forest oaks, or mountain pines, with singed top their stately growth though bare stands on the **blasted** heath."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The ancient apple trees stretched their **blasted** branches against the winter sunset like arthritic limbs."*

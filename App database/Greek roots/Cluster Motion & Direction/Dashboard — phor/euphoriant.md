@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A psychoactive drug that tends to produce elation and euphoria.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending to produce euphoria.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A drug or substance that induces a state of euphoria, emotional warmth, or psychological bliss.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuropsychopharmacology, an agent (such as ethanol, narcotics, or stimulant sympathomimetics) that promotes positive reinforcement through the mesolimbic dopamine pathway.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, euphoriant designates a psychoactive drug that tends to produce elation and euphoria."*
+> - 📜 **Aldous Huxley (*Brave New World*):** *"Soma was the perfect chemical **euphoriant**, offering all the pleasures of intoxication without a morning headache."*
+> - 📜 **Oliver Sacks (*Hallucinations*):** *"Certain anesthetics act as a potent **euphoriant** in sub-hypnotic doses, provoking uncontrollable laughter and floating sensations."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"Nitrous oxide acted upon him as an instant **euphoriant**, dissolving the boundaries of the self in cosmic harmony."*

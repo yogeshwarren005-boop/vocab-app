@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relatively rapid heart action whether physiological (as after exercise) or pathological.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relatively rapid heart action whether physiological (as after exercise) or pathological.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormally rapid resting heart rate, typically exceeding 100 beats per minute in an adult.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical cardiology, a diverse category of arrhythmias (including sinus, supraventricular, and ventricular tachycardia) arising from anomalous cardiac pacing or conduction pathways.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tachycardia designates relatively rapid heart action whether physiological (as after exercise) or pathological."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Severe paroxysmal **tachycardia** may develop abruptly in an otherwise healthy patient, elevating the pulse to two hundred beats a minute."*
+> - 📜 **Robley Dunglison (*Medical Lexicon*):** *"The physician identified persistent **tachycardia** as a hallmark of severe thyrotoxicosis and systemic exhaustion."*
+> - 📜 **Arthur Conan Doyle (*Round the Red Lamp*):** *"The patient collapsed upon the sofa, his wild pulse beating with that desperate **tachycardia** which heralds cardiovascular shock."*

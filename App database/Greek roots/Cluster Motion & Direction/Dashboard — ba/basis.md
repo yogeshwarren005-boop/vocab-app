@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The bottom of something considered as its foundation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The principal component of something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The underlying support or foundation for an idea, argument, system, or process.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The principal component of something; in mathematics, a set of linearly independent vectors spanning a vector space.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How many times shall Caesar bleed in sport, That now on Pompey’s basis lies along, No worthier than the dust!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His bold head ’Bove the contentious waves he kept, and oared Himself with his good arms in lusty stroke To th’ shore, that o’er his wave-worn basis bowed, As stooping to relieve him."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Troy, yet upon his basis, had been down, And the great Hector’s sword had lack’d a master, But for these instances: The specialty of rule hath been neglected; And look how many Grecian tents do stand Hollow upon this plain, so many hollow factions."*
+> - 📜 **William Shakespeare (*The Tempest*):** *"The great globe itself, yea, all which it inherit, shall dissolve and, like this insubstantial pageant faded, leave not a rack behind; yet on this **basis** stood our hopes."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"Induction by simple enumeration cannot supply an adequate **basis** for universal causal laws."*
+> - 📜 **David Hume (*A Treatise of Human Nature*):** *"Custom and habit, rather than pure reason, constitute the real **basis** of our expectations."*

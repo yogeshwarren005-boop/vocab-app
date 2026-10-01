@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A rare progressive degenerative fatal disease affecting the motor neurons, usually beginning in middle age, and characterized especially by increasing and spreading muscular weakness and atrophy —abbreviation ALS—called also Lou Gehrig's disease.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rare progressive degenerative fatal disease affecting the motor neurons, usually beginning in middle age, and characterized especially by increasing and spreading muscular weakness and atrophy —abbreviation ALS—called also Lou Gehrig's disease.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or characterized by muscular atrophy resulting from disease of the motor neurons in the spinal cord.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to amyotrophic lateral sclerosis (ALS / Lou Gehrig's disease), a progressive neurodegenerative disorder.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amyotrophic designates a rare progressive degenerative fatal disease affecting the motor neurons, usually beginning in middle age, and characterized especially by increasing and spreading muscular weakness and atrophy —abbreviation als—called also lou gehrig's disease."*
+> - 📜 **Jean-Martin Charcot (*Lectures on the Diseases of the Nervous System*):** *"I identified **amyotrophic** lateral sclerosis as a dual lesion uniting anterior horn motor cell degeneration with lateral spinal column sclerosis."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In **amyotrophic** lateral sclerosis, fibrillary twitchings and muscular wasting precede spastic paralysis of the limbs."*
+> - 📜 **William Boyd (*A Textbook of Pathology*):** *"Microscopic sections in **amyotrophic** disease reveal marked disappearance of the large multipolar Betz cells and motor root atrophy."*

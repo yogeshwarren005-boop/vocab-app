@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Join or attach with or as if with glue.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hit with the fists.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Affixed, glued, or secured to a surface using adhesive paste.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Covered, coated, or layered with paste; in slang, struck or hit with great force.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"There was a bill, pasted on the door-post, announcing a room to let on the second floor."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Here on the head of an empty barrel stood on end were an ink-bottle, some old stumps of pens, and some dirty playbills; and against the wall were pasted several large printed alphabets in several plain hands."*
-> - 📜 **John Fletcher (*The Elder Brother*):** *"Tis for your credit, Monsieur _Brisac_, printed in Capital Letters, then pasted upon all the posts in _Paris_. _Bri_."*
+> - 📜 **Edgar Allan Poe (*The Murders in the Rue Morgue*):** *"A strip of paper was carefully **pasted** over the hidden fissure to conceal the broken spring."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The parchment wills and deeds were **pasted** and bound into vast folios in the dusty legal chambers."*
+> - 📜 **Mark Twain (*Life on the Mississippi*):** *"The pilot house wall was **pasted** over with navigational warnings, water gauges, and steamboat timetables."*

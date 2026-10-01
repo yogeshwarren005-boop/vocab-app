@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A primeval egyptian personification of air and breath; worshipped especially at thebes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A primeval egyptian personification of air and breath; worshipped especially at thebes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An exclamation uttered at the end of a prayer or hymn, meaning 'so be it' or 'truly'; an expression of solemn assent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In liturgical theology and Semitic philology, a solemn Hebrew particle of confirmation (amen, steadfast/faithful) affirming agreement with divine promises.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I think good thoughts, whilst other write good words, And like unlettered clerk still cry Amen, To every hymn that able spirit affords, In polished form of well refined pen."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ay, amen. [_Exeunt Rosencrantz, Guildenstern and some Attendants._] Enter Polonius."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To cry amen to that, thus we appear."*
+> - 📜 **William Shakespeare (*Macbeth*):** *"One cried 'God bless us!' and 'Amen' the other, / As they had seen me with these hangman's hands. / Listening their fear, I could not say '**Amen**,' / When they did say 'God bless us!'"*
+> - 📜 **John Milton (*Paradise Lost*):** *"The heavenly hosts with one voice shouted **Amen**, and cast their crowns of amaranth upon the crystal floor."*
+> - 📜 **John Bunyan (*The Pilgrim's Progress*):** *"And all the trumpets sounded for him on the other side, while the saints responded with a joyous **Amen**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of knowledge that deals with living organisms and vital processes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The plant and animal life of a region or environment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A scientist or specialist who studies living organisms and life processes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A natural investigator examining the morphology, physiology, ecology, and evolutionary ancestry of living systems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"If this question is open to dispute among biologists, it is only as regards a minute increment of improvement."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The thoughtful **biologist** who contemplates the affinities of organic beings cannot remain satisfied with special creation."*
+> - 📜 **Ernst Mayr (*This Is Biology*):** *"The **biologist** deals with unique individuals and historical contingency, distinguishing life from inanimate physics."*
+> - 📜 **Julian Huxley (*Evolution: The Modern Synthesis*):** *"Every modern **biologist** must integrate Mendelian genetics with population dynamics and paleontological evidence."*

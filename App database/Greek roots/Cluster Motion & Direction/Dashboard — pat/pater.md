@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Paternoster.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Paternoster.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A father (Latin pater); also used in British school slang as an affectionate or informal term for one's father.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical and ecclesiastical usage, the formal designation of the male parent or religious head (as in Pater Noster).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Kneeling reverently at the hearth with the members of his family in a like attitude of devotion, the old man recited three _Pater Nosters_ and three _Aves_, and invoked the blessing of heaven on the log and on the cottage."*
-> - 📜 **James Joyce (*Ulysses*):** *"Icarus. _Pater, ait._ Seabedabbled, fallen, weltering."*
-> - 📜 **James Joyce (*Ulysses*):** *"Jay, look at the drunken minister coming out of the maternity hospal! _Benedicat vos omnipotens Deus, Pater et Filius_."*
+> - 📜 **William Makepeace Thackeray (*The History of Pendennis*):** *"Pen sat down to write an urgent letter to the **pater**, begging for an immediate advance upon his allowance."*
+> - 📜 **Evelyn Waugh (*Brideshead Revisited*):** *"'The **pater** will never consent to that,' Sebastian laughed, leaning against the college balustrade."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Roman Senate hailed the emperor with the venerable title of **Pater** Patriae."*

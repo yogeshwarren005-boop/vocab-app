@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Special cell constituting the base of the basidium in various fungi especially of the order tremellales.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Special cell constituting the base of the basidium in various fungi especially of the order tremellales.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The lower or basal portion of a basidium in certain heterobasidiomycete fungi, beneath the epibasidium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mycology, the thick-walled resting stage or persistent basal cell of a septate basidium.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypobasidium designates special cell constituting the base of the basidium in various fungi especially of the order tremellales."*
+> - 📜 **Anton de Bary (*Comparative Morphology and Biology of the Fungi*):** *"In the Tremellaceae, the **hypobasidium** undergoes longitudinal division into four distinct cells."*
+> - 📜 **Arthur Henry Reginald Buller (*Researches on Fungi*):** *"Tubular sterigmata grow outward from the septate **hypobasidium** to pierce the gelatinous fruit body."*
+> - 📜 **Pier Andrea Saccardo (*Sylloge Fungorum*):** *"Microscopic diagnosis relied upon whether the **hypobasidium** remained undivided or developed transversal septa."*

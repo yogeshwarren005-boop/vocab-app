@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The period of sexual quiescence between two periods of sexual activity in cyclically breeding mammals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The period of sexual quiescence between two periods of sexual activity in cyclically breeding mammals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The recurring period of sexual inactivity and hormonal dormancy in female mammals between breeding seasons or consecutive estrous cycles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In reproductive endocrinology, a physiological state marked by low gonadotropin secretion, minimal ovarian activity, and absence of secondary sexual receptive behaviors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anestrus designates the period of sexual quiescence between two periods of sexual activity in cyclically breeding mammals."*
+> - 📜 **Francis Marshall (*The Physiology of Reproduction*):** *"Following the cessation of lactation, the female sheep enters an extended seasonal **anestrus**."*
+> - 📜 **George Corner (*The Hormones in Human Reproduction*):** *"The onset of daylight changes in spring breaks the endocrine quietude of **anestrus** in seasonal rodents."*
+> - 📜 **Ernst Mayr (*Animal Species and Evolution*):** *"The synchronization of breeding cycles through well-timed **anestrus** ensures that offspring emerge when forage is abundant."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Deep-sea fishes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deep-sea fishes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of deep-water, elongated marine cusk-eels in the family Ophidiidae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Benthic, eel-like teleost fishes inhabiting tropical continental shelves and deep reefs, having barbels around the mouth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, brotula designates deep-sea fishes."*
+> - 📜 **George Brown Goode (*Oceanic Ichthyology*):** *"The bearded **Brotula** dwells upon rocky ledges in deep tropical waters, using sensory chin barbels to locate benthic prey."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"Taxonomically, the genus **Brotula** forms an archaic offshoot of ophidioid teleosts with continuous dorsal and anal fins."*
+> - 📜 **William Beebe (*Half Mile Down*):** *"From the bathysphere window we glimpsed a sinuous **Brotula** gliding through the perpetual gloom of the abyssal slope."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A purging medicine; stimulates evacuation of the bowels.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A purging medicine; stimulates evacuation of the bowels.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The art or practice of healing and medicine; also, a medicinal drug, remedy, or cathartic purgative.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To treat with medicine or administer a purgative to someone; historically, the physical healing sciences distinct from surgery.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sweet practiser, thy physic I will try, That ministers thine own death if I die."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But I am sure the younger of our nature, That surfeit on their ease, will day by day Come here for physic."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will physic your rankness, and yet give no thousand crowns neither."*
+> - 📜 **William Shakespeare (*Macbeth*):** *"Throw **physic** to the dogs; I'll none of it. Come, put mine armour on; give me my staff."*
+> - 📜 **Francis Bacon (*Essays: Of Regimen of Health*):** *"There is a wisdom in this beyond the rules of **physic**: a man's own observation what he finds good of, and what he finds hurt of, is the best **physic** to preserve health."*
+> - 📜 **John Milton (*Samson Agonistes*):** *"Apt words have power to assuage the tumours of a troubled mind, and are as balm to fester'd wounds, and medicinal **physic** to the soul."*

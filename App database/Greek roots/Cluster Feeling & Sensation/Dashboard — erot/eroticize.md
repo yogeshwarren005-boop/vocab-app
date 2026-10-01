@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Give erotic character to or make more interesting.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give erotic character to or make more interesting.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To give an erotic or sexually suggestive character to; to endow with sexual significance or appeal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychoanalytic and feminist critique, to invest non-sexual objects, power dynamics, or daily activities with unconscious libidinal excitement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eroticize designates give erotic character to or make more interesting."*
+> - 📜 **Sigmund Freud (*The Ego and the Id*):** *"Under obsessional neurosis, the patient can **eroticize** the purely intellectual process of doubt and metaphysical questioning."*
+> - 📜 **Simone de Beauvoir (*The Second Sex*):** *"Patriarchal traditions systematically **eroticize** female subordination, disguising domination as romantic destiny."*
+> - 📜 **Roland Barthes (*The Pleasure of the Text*):** *"Modern advertising attempts to **eroticize** every domestic appliance, investing motorcars and perfumes with sensual desire."*

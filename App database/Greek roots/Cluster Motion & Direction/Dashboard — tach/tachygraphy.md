@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A method of writing rapidly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A method of writing rapidly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The art or practice of rapid writing; shorthand or stenography.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical and medieval palaeography, the system of abbreviated notations (such as the Roman Tironian notes or Byzantine tachygraphic hands) used by ancient scribes to record orations verbatim.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tachygraphy designates a method of writing rapidly."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The impassioned speeches of Cicero were taken down verbatim by scribes trained in the Roman art of **tachygraphy**."*
+> - 📜 **Walter William Skeat (*An Etymological Dictionary of the English Language*):** *"From the Greek words for swift and writing, scholars coined **tachygraphy** to denote all systems of shorthand."*
+> - 📜 **Samuel Johnson (*The Lives of the English Poets*):** *"He acquired a remarkable proficiency in **tachygraphy**, enabling him to preserve the fleeting thoughts of his patron without delay."*

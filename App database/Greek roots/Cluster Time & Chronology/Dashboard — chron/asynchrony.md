@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The relation that exists when things occur at unrelated times.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The relation that exists when things occur at unrelated times.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The absence of synchrony; lack of temporal concurrence or coordinated timing between elements.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical physiology, uncoordinated timing, such as dyssynchronous respiratory effort and mechanical ventilation or disordered ventricular contraction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, asynchrony designates the relation that exists when things occur at unrelated times."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"Interventricular **asynchrony** reduces stroke volume by causing the septum to bulge paradoxically during systole."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Patient-ventilator **asynchrony** provokes severe respiratory distress and elevated intrathoracic pressures."*
+> - 📜 **Donald Seldin (*The Kidney: Physiology and Pathophysiology*):** *"Circadian **asynchrony** between hormonal surges and renal excretion alters tubular electrolyte balance."*

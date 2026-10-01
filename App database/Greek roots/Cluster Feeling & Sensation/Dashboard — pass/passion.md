@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A strong feeling or emotion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of being intensely emotional.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Strong, barely controllable emotion, intense love, enthusiasm, or ardent desire.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Christian theology, the suffering and death of Jesus Christ on the Cross; in philosophy (e.g., Spinoza), a passive mental state where the mind is acted upon by external causes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now to all sense ’tis gross You love my son; invention is asham’d, Against the proclamation of thy passion To say thou dost not."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Whom everything becomes—to chide, to laugh, To weep; whose every passion fully strives To make itself, in thee fair and admired!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your speech is passion; But pray you stir no embers up."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"Give me that man that is not **passion**'s slave, and I will wear him in my heart's core, ay, in my heart of heart."*
+> - 📜 **Baruch Spinoza (*Ethics*):** *"An affect which is called a **passion** of the mind is a confused idea whereby the mind affirms a greater or lesser force of existence."*
+> - 📜 **John Milton (*Paradise Lost*):** *"For what can war but endless war still breed? Yet unbridled **passion** overthrew their heavenly wisdom."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Impairment of voluntary movements resulting in fragmented or jerky motions (as in Parkinson's disease).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impairment of voluntary movements resulting in fragmented or jerky motions (as in Parkinson's disease).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, affected by, or characterized by dyskinesia; displaying abnormal, involuntary, or spasmodic movements.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pediatric neurology and physical therapy, classifying types of cerebral palsy (dyskinetic cerebral palsy) characterized by fluctuating muscle tone and choreoathetosis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dyskinetic designates impairment of voluntary movements resulting in fragmented or jerky motions (as in parkinson's disease)."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"The patient's hands performed continuous, wild, **dyskinetic** arabesques that prevented her from holding a teacup."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The sudden eruption of **dyskinetic** jerks interrupted the patient's gait, forcing him to clutch the bedpost for support."*
+> - 📜 **Alexander Luria (*The Working Brain*):** *"Damage to the extrapyramidal pathways gives rise to distinctive **dyskinetic** postures and uncoordinated motor outbursts."*

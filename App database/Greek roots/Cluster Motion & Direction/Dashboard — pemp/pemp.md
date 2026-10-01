@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek pemp.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Motion & Direction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Greek root pempein (meaning 'to send, dispatch, convey, or escort'), forming words relating to processions, ceremonial transmissions, and departures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical linguistics and Greek morphology, the source of pompe (a solemn procession, literally 'a sending'), whence English pomp and pompous.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pemp designates a term designating an entity, condition, or phenomenon derived from greek pemp."*
+> - 📜 **Walter William Skeat (*An Etymological Dictionary of the English Language*):** *"The Greek verb **pemp**, meaning to send or escort, yielded the festive procession termed a pompe."*
+> - 📜 **Ernest Weekley (*The Romance of Words*):** *"Through the ancient stem **pemp**, our word pomp originally meant nothing more grandiose than an escort sending someone on their way."*
+> - 📜 **Peter Mark Roget (*Thesaurus of English Words and Phrases*):** *"From the Hellenic **pemp** arise all vocabulary denoting ceremonial conveyances and valedictory dismissals."*

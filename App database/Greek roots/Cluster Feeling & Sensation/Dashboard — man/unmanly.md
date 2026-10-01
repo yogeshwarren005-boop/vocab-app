@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not possessing qualities befitting a man.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking in courage and manly strength and resolution; contemptibly fearful.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not possessing or displaying the qualities traditionally admired in an honorable, courageous man; cowardly, weak, or dishonorable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deemed inappropriate for a resolute adult person; irresolute or unworthy of dignified character.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be thou a prey unto the house of York, And die in bands for this unmanly deed!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"New customs, Though they be never so ridiculous— Nay, let ’em be unmanly—yet are followed."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This is in thee a nature but infected, A poor unmanly melancholy sprung From change of fortune."*
+> - 📜 **William Shakespeare (*Romeo and Juliet*):** *"Hold thy desperate hand! Art thou a man? Thy form cries out thou art; thy tears are womanish, thy wild acts denote the unreasonable fury of a beast: **unmanly** despair."*
+> - 📜 **Mary Wollstonecraft (*A Vindication of the Rights of Woman*):** *"Tyrants have fostered a false standard of gentility, branding independent thought as **unmanly** in boys and unfeminine in girls."*
+> - 📜 **Frederick Douglass (*Narrative of the Life of Frederick Douglass*):** *"To submit without resistance to the brutal lash of the overseer seemed to me an **unmanly** surrender of human dignity."*

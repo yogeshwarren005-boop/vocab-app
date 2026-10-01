@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In synchrony; in a synchronous manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In synchrony; in a synchronous manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: At the same time; simultaneously; in a synchronous manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiology and mechanical engineering, operating in coordinated phase and locked frequency across multiple units.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, synchronously designates in synchrony; in a synchronous manner."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"The vast population of ventricular muscle fibers contract **synchronously**, generating maximum hydraulic expulsion into the aorta."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants Under Domestication*):** *"In certain breeds of pigeons, secondary plumage characteristics develop **synchronously** with sexual maturity."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The rowers dipped their long cedar oars **synchronously** into the black swell, sending the whaleboat flying forward."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With passion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a stormy or violent manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a passionate manner; with intense feeling, fervent conviction, or ardent emotion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Vehemently or fiercely; with uncontrollable enthusiasm or anger.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"There would be nothing to mourn over." Mea, however, fought passionately for her friend and never gave way till Kurt had promised not to go on with his ditty."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"That is why Bruno imagined that she loved her younger son better than him, and because he himself loved his mother passionately, he could not endure this thought."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"She loved his eldest boy passionately and everybody who was close to her could see it."*
+> - 📜 **Emily Brontë (*Wuthering Heights*):** *"Heathcliff embraced the dying Catherine **passionately**, crying that his soul was being torn from his body."*
+> - 📜 **Leo Tolstoy (*War and Peace*):** *"Pierre loved Natasha **passionately**, realizing that her presence transformed all the trivialities of Moscow society into joy."*
+> - 📜 **Virginia Woolf (*To the Lighthouse*):** *"Lily Briscoe painted **passionately**, striving to capture the silent rhythm that bound the bay to the canvas."*

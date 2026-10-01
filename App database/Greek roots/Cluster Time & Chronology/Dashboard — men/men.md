@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Menstruation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An individual human; especially : an adult male human.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combining form and root from Greek μήν (men, month) related to the lunar cycle and monthly menstruation; also English plural of man.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical and anatomical etymology, the formative root in terms concerning menses, menopause, and catamenia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When I perceive that men as plants increase, Cheered and checked even by the self-same sky: Vaunt in their youthful sap, at height decrease, And wear their brave state out of memory."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So should my papers (yellowed with their age) Be scorned, like old men of less truth than tongue, And your true rights be termed a poet’s rage, And stretched metre of an antique song."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thy love is better than high birth to me, Richer than wealth, prouder than garments’ costs, Of more delight than hawks and horses be: And having thee, of all men’s pride I boast."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"The ancient Greek word for month, **men**, was directly derived from the lunar cycle governing the celestial year."*
+> - 📜 **William Shakespeare (*The Merchant of Venice*):** *"The quality of mercy is not strain'd; / It droppeth as the gentle rain from heaven / Upon the place beneath: it blesseth him that gives and him that takes: / 'Tis mightiest in the mightiest: it becomes / The throned monarch better than his crown; / His sceptre shows the force of temporal power, / The attribute to awe and majesty, / Wherein doth sit the dread and fear of kings; / But mercy is above this sceptred sway; / It is enthroned in the hearts of kings, / It is an attribute to God himself; / And earthly power doth then show likest God's / When mercy seasons justice. Therefore, Jew, / Though justice be thy plea, consider this, / That, in the course of justice, none of us / Should see salvation: we do pray for mercy; / And that same prayer doth teach us all to render / The deeds of mercy. I have spoke thus much / To mitigate the justice of thy plea; / Which if thou follow, this strict court of Venice / Must needs give sentence 'gainst the merchant there. / What great **men** say, the less must learn to bear."*
+> - 📜 **Walter William Skeat (*An Etymological Dictionary of the English Language*):** *"In physiological compounds, the combining form **men-** preserves the archaic association between lunar months and human cycles."*

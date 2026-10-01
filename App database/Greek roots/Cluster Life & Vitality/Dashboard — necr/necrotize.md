@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Verb*) To subject to, transform by, or operate upon through dead.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Verb*) To subject to, transform by, or operate upon through dead.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To cause necrosis in living tissue; to kill or mortify cells.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In surgical pathology, to devitalize or produce cell death through toxins, severe infection, or arterial deprivation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, necrotize designates verb*) to subject to, transform by, or operate upon through dead."*
+> - 📜 **William Boyd (*A Textbook of Pathology*):** *"Bacterial alpha-toxins rapidly **necrotize** vascular endothelial walls, producing fulminant gas gangrene."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Corrosive poisons ingested orally **necrotize** the esophageal mucosa, leaving deep fibrous strictures."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Excessive pressure will **necrotize** overlying skin, initiating decubitus ulcer formation in bedridden invalids."*

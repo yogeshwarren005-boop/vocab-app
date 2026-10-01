@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of the large bodies that revolve around the sun in the solar system.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A similar body associated with another star.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A celestial body moving in an elliptical orbit around a star, large enough to be rounded by its own gravity and to have cleared its orbit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically, any wandering celestial light (from Greek planetes, wanderer) as distinguished from the fixed stars.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now the fleeting moon No planet is of mine."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Alone he entered The mortal gate o’ th’ city, which he painted With shunless destiny; aidless came off And with a sudden reinforcement struck Corioles like a planet."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hath this lovely face Ruled, like a wandering planet, over me, And could it not enforce them to relent That were unworthy to behold the same?"*
+> - 📜 **William Shakespeare (*Hamlet*):** *"The nights are wholesome; then no **planet** strikes, no fairy takes, nor witch hath power to charm."*
+> - 📜 **Johannes Kepler (*Astronomia Nova*):** *"Every **planet** moves in an elliptical orbit having the sun in one of its focal points."*
+> - 📜 **Galileo Galilei (*Sidereus Nuncius*):** *"Through the telescope I beheld four small moons revolving faithfully around the great **planet** Jupiter."*

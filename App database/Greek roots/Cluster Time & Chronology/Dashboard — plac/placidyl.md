@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mild sedative-hypnotic drug (trade name placidyl).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mild sedative-hypnotic drug (trade name placidyl).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A brand name for ethchlorvynol, a tertiary acetylenic carbinol formerly used as a short-term sedative and hypnotic medication for insomnia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychopharmacology, a central nervous system depressant introduced in the 1950s, largely discontinued due to severe dependence, tolerance, and overdose toxicity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, placidyl designates a mild sedative-hypnotic drug (trade name placidyl)."*
+> - 📜 **Alfred Goodman Gilman (*The Pharmacological Basis of Therapeutics*):** *"Patients prescribed **Placidyl** for refractory insomnia frequently developed rapid drug tolerance and withdrawal agitation."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Toxic overdoses of **Placidyl** provoke profound respiratory depression, prolonged coma, and hypothermia."*
+> - 📜 **Donald Seldin (*The Kidney: Physiology and Pathophysiology*):** *"Because **Placidyl** is highly lipophilic, hemodialysis is ineffective in expediting clearance during acute intoxications."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (philosophy) the philosophical theory that matter is the only reality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (philosophy) the philosophical theory that matter is the only reality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The philosophical thesis that everything that exists is ultimately physical, or supervenes upon physical entities, properties, and laws.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the philosophy of mind and logical positivism, the doctrine (championed by Neurath and Carnap) that all meaningful scientific language must be reducible to physical statements.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, physicalism designates (philosophy) the philosophical theory that matter is the only reality."*
+> - 📜 **Rudolf Carnap (*The Unity of Science*):** *"We call the thesis that every empirical sentence can be transformed into a sentence about physical states, **physicalism**."*
+> - 📜 **Otto Neurath (*Physicalism: The Philosophy of the Vienna Circle*):** *"Unified science relies upon **physicalism** as its universal linguistic medium, translating all sociological and psychological data into physical coordinates."*
+> - 📜 **Willard Van Orman Quine (*Word and Object*):** *"My naturalism embraces ontological **physicalism**: whatever there is in the universe can be characterized in the vocabulary of modern physics."*

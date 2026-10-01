@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek pheug.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Motion & Direction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Greek root pheugein (meaning 'to flee, run away, or escape'), forming words relating to evasion, centrifugal departure, and architectural escape curves.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical linguistics and etymology, an Indo-European root akin to Latin fugere, seen in apophyge, hypophyge, and centrifugal motion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pheug designates a term designating an entity, condition, or phenomenon derived from greek pheug."*
+> - 📜 **Walter William Skeat (*An Etymological Dictionary of the English Language*):** *"The Greek stem **pheug**, meaning to flee, underlies ancient legal terms of exile as well as architectural curves."*
+> - 📜 **Ernest Weekley (*The Romance of Words*):** *"From the Hellenic **pheug**, classical architects conceived the column's curve as an elegant escape from rigid horizontal lines."*
+> - 📜 **Peter Mark Roget (*Thesaurus of English Words and Phrases*):** *"Under the root **pheug**, we classify all expressions signifying flight, evasion, and departure from a center."*

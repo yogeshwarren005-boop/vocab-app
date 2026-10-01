@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marriage outside of a specific group especially as required by custom or law.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marriage outside of a specific group especially as required by custom or law.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The custom of marrying only outside the limits of a clan, tribe, or defined social group.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural anthropology and population biology, an institutionalized prohibition against marrying within one's kin group, promoting outbreeding and wider political alliances.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Roscoe, _The Baganda_ (London, 1911), pp. 393 _sq._, compare pp. 396, 398. [78] See _Totemism and Exogamy_, iv. 224 _sqq._ [79] Sir Harry H."*
+> - 📜 **James George Frazer (*Totemism and Exogamy*):** *"The origin of **exogamy** represents one of the profoundest problems in the early social evolution of the human race."*
+> - 📜 **Edward Westermarck (*The History of Human Marriage*):** *"The instinct against incest provided the deep psychological root from which tribal **exogamy** was consciously formulated."*
+> - 📜 **Lewis Henry Morgan (*Ancient Society*):** *"By preventing incestuous intermarriage, **exogamy** infused fresh biological vigor into succeeding generations of the tribe."*

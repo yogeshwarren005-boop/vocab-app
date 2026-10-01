@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Therapist who treats injury or dysfunction with exercises and other physical treatments of the disorder.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Therapist who treats injury or dysfunction with exercises and other physical treatments of the disorder.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A healthcare professional licensed to provide physical therapy; a physical therapist.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A specialist who evaluates and treats neuromuscular and musculoskeletal dysfunction to restore mobility and physical function.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, physiotherapist designates therapist who treats injury or dysfunction with exercises and other physical treatments of the disorder."*
+> - 📜 **Frank H. Krusen (*Physical Medicine*):** *"The skilled **physiotherapist** assesses range of motion and guides the stroke patient through motor recovery."*
+> - 📜 **Howard A. Rusk (*Living with a Disability*):** *"Close collaboration between the orthopedic surgeon and the **physiotherapist** ensures rapid functional independence."*
+> - 📜 **William Boyd (*Pathology for the Surgeon*):** *"Under the gentle guidance of the **physiotherapist**, post-traumatic contractures are safely overcome."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the family caenolestidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the family caenolestidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of small, shrew-like South American marsupials commonly called shrew opossums, belonging to the order Paucituberculata.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mammalogy, primitive diprotodont marsupials restricted to the high Andes of Ecuador and Colombia, representing living relicts of an ancient Cenozoic radiation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, caenolestes designates type genus of the family caenolestidae."*
+> - 📜 **Oldfield Thomas (*Annals and Magazine of Natural History*):** *"The discovery of **Caenolestes** revealed an unexpected survival of a marsupial stock long thought extinct on the continent."*
+> - 📜 **William King Gregory (*The Orders of Mammals*):** *"In dentition and basicranial anatomy, **Caenolestes** exhibits striking resemblances to early Tertiary fossil diprotodonts."*
+> - 📜 **George Gaylord Simpson (*The Principles of Classification and a Classification of Mammals*):** *"The surviving genus **Caenolestes** provides a crucial morphological bridge for interpreting prehistoric Andean paucituberculates."*

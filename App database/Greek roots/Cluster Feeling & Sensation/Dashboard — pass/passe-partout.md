@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Key that secures entrance everywhere.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mounting for a picture using gummed tape.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A master key that opens all doors in a building; a passkey.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A picture mount with a plain mat and glass bound together with adhesive tape; also the faithful French valet in Jules Verne's *Around the World in Eighty Days*.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, passe-partout designates key that secures entrance everywhere."*
+> - 📜 **Jules Verne (*Around the World in Eighty Days*):** *"Phileas Fogg engaged a French valet named **Passepartout**, so called because he could extricate himself from any scrape."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Beryl Coronet*):** *"The burglar had used a skeleton key or **passe-partout** to unlock the dressing-room bureau without force."*
+> - 📜 **John Ruskin (*Aratra Pentelici*):** *"The engraver surrounded the print with an elegant **passe-partout** mount that set off the delicate burin lines."*

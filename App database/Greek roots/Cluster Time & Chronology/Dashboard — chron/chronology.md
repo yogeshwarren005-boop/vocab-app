@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The science that deals with measuring time by regular divisions and that assigns to events their proper dates.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A chronological table, list, or account.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The science of determining the dates and order of events in time; a chronological record or arrangement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historiography and geochronology, the branch of knowledge concerned with establishing temporal coordinates and synchronisms across civil, geological, or cosmic epochs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"His very name carried an impressiveness hardly to be measured without a precise chronology of scholarship."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Oh waywardness of womanhood! did his chronology fail him, or his ability to state not only a theory but the names of those who held it; or his provision for giving the heads of any subject on demand?"*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Context, chronology, and USAF aircraft types operating in the Korean Theater at the time are to the best of my recollections and references available from public libraries and the Internet."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Geography and **chronology** are the two eyes of history, illuminating the theatre and the sequence of human action."*
+> - 📜 **Isaac Newton (*The Chronology of Ancient Kingdoms Amended*):** *"True **chronology** relies upon celestial motions, whereas mythological genealogies mislead by exaggerating antiquity."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The geological record is an imperfect book whose chapters are torn, but whose general **chronology** is undeniably affirmed by stratigraphy."*

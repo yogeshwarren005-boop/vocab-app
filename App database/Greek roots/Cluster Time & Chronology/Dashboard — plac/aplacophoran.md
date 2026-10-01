@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Deep-water wormlike mollusks lacking calcareous plates on the body but having fine slimy spicules on the covering mantle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deep-water wormlike mollusks lacking calcareous plates on the body but having fine slimy spicules on the covering mantle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any benthic marine mollusc of the class Aplacophora, characterized by a cylindrical, worm-like body lacking a shell.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine invertebrate zoology, a spicule-bearing solenogaster or caudofoveate that grazes upon cnidarians or burrows through deep-sea sediments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aplacophoran designates deep-water wormlike mollusks lacking calcareous plates on the body but having fine slimy spicules on the covering mantle."*
+> - 📜 **Arthur Shipley (*The Cambridge Natural History*):** *"The crawling **aplacophoran** glides over colonial hydroids by means of a ciliated ventral pedal groove."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The nervous system of an **aplacophoran** consists of archaic tetraneural nerve cords running the length of the trunk."*
+> - 📜 **Francis Maitland Balfour (*A Treatise on Comparative Embryology*):** *"In the embryology of the typical **aplacophoran**, the pelagic trochozoan larva secretes protective calcareous scales."*

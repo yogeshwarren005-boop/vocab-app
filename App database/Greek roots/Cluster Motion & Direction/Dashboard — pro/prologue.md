@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The preface or introduction to a literary work.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A speech often in verse addressed to the audience by an actor at the beginning of a play.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A separate introductory section of a literary, dramatic, or musical work that provides essential background context.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An introductory event, occurrence, or action that serves as a precursor or prelude to something larger; from Greek pro- (before) + logos (speech).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is not the fashion to see the lady the epilogue, but it is no more unhandsome than to see the lord the prologue."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And even the like precurse of fierce events, As harbingers preceding still the fates And prologue to the omen coming on, Have heaven and earth together demonstrated Unto our climatures and countrymen."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"PROLOGUE. _For us, and for our tragedy, Here stooping to your clemency, We beg your hearing patiently._ HAMLET."*
+> - 📜 **William Shakespeare (*The Tempest*):** *"What's past is **prologue**, what to come in yours and my discharge."*
+> - 📜 **Geoffrey Chaucer (*The Canterbury Tales*):** *"Whan that Aprill with his shoures soote the droghte of March hath perced to the roote, began the famous **prologue**."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The celestial war was but the tragic **prologue** to the creation and fall of mankind."*

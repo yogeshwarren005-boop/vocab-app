@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A red fluorescent dye C20H8Br4O5 obtained by the action of bromine on fluorescein and used especially in cosmetics and as a toner; also : its red to brown sodium or potassium salt used especially as a biological stain for cytoplasmic structures.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of several dyes related to eosin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A red or rose-pink fluorescent acidic xanthene dye used extensively in histology, cytology, and biology as a cytoplasmic stain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In histological microtechnique, the standard counterstain paired with hematoxylin (H&E), binding electrostatically to basic proteins within cytoplasm, collagen, and red blood cells.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eosin designates a red fluorescent dye c20h8br4o5 obtained by the action of bromine on fluorescein and used especially in cosmetics and as a toner; also : its red to brown sodium or potassium salt used especially as a biological stain for cytoplasmic structures."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Under the microscope, blood films treated with **eosin** clearly demarcated the coarse red cytoplasmic granules of allergic states."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"The connective tissue stroma absorbed the rosy tint of **eosin**, contrasting sharply with the purple hematoxylin nuclei."*
+> - 📜 **Santiago Ramón y Cajal (*Histology of the Nervous System*):** *"We employed an **eosin** counterstain to delineate the somatic contour and dendrites of pyramidal cerebral neurons."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek oestr.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Motion & Direction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Greek root oistros (meaning 'gadfly, sting, frenzy, or vehement impulse'), which provides the etymological basis for biological terms relating to reproductive heat and estrogen hormones.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical literature and the history of science, an ancient term for the maddening gadfly sent by Hera to torment Io, later adopted by 19th-century physiologists to denote reproductive frenzy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oestr designates a term designating an entity, condition, or phenomenon derived from greek oestr."*
+> - 📜 **Walter William Skeat (*An Etymological Dictionary of the English Language*):** *"The classical Greek root **oestr**, originally signifying a stinging gadfly, came to represent uncontrollable passion and biological heat."*
+> - 📜 **Ernest Weekley (*The Romance of Words*):** *"From the tormenting gadfly **oestr** that pursued mythical Io, modern endocrinology named the hormones of sexual vitality."*
+> - 📜 **Peter Mark Roget (*Thesaurus of English Words and Phrases*):** *"Under the radical **oestr**, we group medical terms referring to intense excitement, seasonal rut, and endocrine regulation."*

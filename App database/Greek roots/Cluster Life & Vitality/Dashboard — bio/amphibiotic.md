@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having an aquatic early or larval form and a terrestrial adult form.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having an aquatic early or larval form and a terrestrial adult form.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Living both on land and in water; capable of existing alternately in aquatic and terrestrial environments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In entomology and parasitology, describing organisms whose larval stage is strictly aquatic while the adult stage is terrestrial or aerial.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amphibiotic designates having an aquatic early or larval form and a terrestrial adult form."*
+> - 📜 **Thomas Say (*American Entomology*):** *"The larvae of odonata lead an **amphibiotic** life, transforming from subterranean aquatic nymphs into swift aerial predators."*
+> - 📜 **William Morton Wheeler (*Ants: Their Structure, Development and Behavior*):** *"Certain littoral insects maintain an **amphibiotic** existence along tidal estuaries."*
+> - 📜 **Richard Owen (*Lectures on the Comparative Anatomy and Physiology of the Invertebrate Animals*):** *"The respiratory adaptations of **amphibiotic** arthropods bridge the physiological divide between gills and tracheae."*

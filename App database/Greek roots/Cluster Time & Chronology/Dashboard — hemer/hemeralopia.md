@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek hemer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Time & Chronology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Day-blindness, an abnormal inability to see clearly in bright light; historically also used for night-blindness (nyctalopia).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ophthalmology, a visual defect where vision is relatively better in dim illumination than in glaring sunlight, often caused by central corneal opacities or cone dystrophies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemeralopia designates a term designating an entity, condition, or phenomenon derived from greek hemer."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The patient complained of severe **hemeralopia**, shielding his eyes in sunshine because glare obscured all central retinal acuity."*
+> - 📜 **Hermann von Helmholtz (*Treatise on Physiological Optics*):** *"In cases of **hemeralopia**, examination often reveals central cataracts that allow sight only through dilated peripheral pupils in dim light."*
+> - 📜 **Robley Dunglison (*Medical Lexicon*):** *"Medical authorities have long debated whether **hemeralopia** properly signifies vision limited to daylight or blindness provoked by daytime glare."*

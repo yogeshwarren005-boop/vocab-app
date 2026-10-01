@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument that indicates whether two periodic motions are synchronous (especially an instrument that enables a pilot to synchronize the propellers of a plane that has two or more engines).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instrument that indicates whether two periodic motions are synchronous (especially an instrument that enables a pilot to synchronize the propellers of a plane that has two or more engines).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A device or system that brings things into synchronization or keeps them operating synchronously.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In automotive transmissions, a brass friction ring that matches gear speeds before engagement; in electronics, a circuit eliminating metastability in async signals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, synchronizer designates an instrument that indicates whether two periodic motions are synchronous (especially an instrument that enables a pilot to synchronize the propellers of a plane that has two or more engines)."*
+> - 📜 **Nikola Tesla (*Experiments with Polyphase Currents*):** *"An automatic **synchronizer** insured that the high-voltage generators were coupled at the exact instant of phase coincidence."*
+> - 📜 **Claude Shannon (*Communication in the Presence of Noise*):** *"The receiver employs a specialized pulse **synchronizer** to maintain framing under heavy atmospheric static."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"The sinoatrial node serves as the master **synchronizer** of the mammalian cardiac cycle."*

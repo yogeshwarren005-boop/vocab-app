@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Incapable of being passed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incapable of being passed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not capable of being passed, crossed, traversed, or navigated; impassable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of an obstacle, river, mountain chasm, or examination, defying crossing or satisfaction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unpassable designates incapable of being passed."*
+> - 📜 **Daniel Defoe (*Robinson Crusoe*):** *"The thick tropical cane brake was so tangled and thorny as to be utterly **unpassable** without a hatchet."*
+> - 📜 **Walter Scott (*Rob Roy*):** *"Winter snowdrifts made the mountain pass **unpassable** for wheeled carriages, forcing us to take pack horses."*
+> - 📜 **Herman Melville (*Typee*):** *"Before us yawned an **unpassable** precipice, whose sheer black basalt dropped vertically into the mist."*

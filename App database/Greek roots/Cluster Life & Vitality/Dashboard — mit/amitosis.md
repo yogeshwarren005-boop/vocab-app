@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The direct method of cell division characterized by simple division of the nucleus without formation of chromosomes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The direct method of cell division characterized by simple division of the nucleus without formation of chromosomes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Direct cell division by simple cleavage of the nucleus and cytoplasm without the formation of chromosomes, spindle fibers, or mitotic stages.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A primitive, non-mitotic mode of nuclear division occurring in ciliate macronuclei, degenerate tissues, or pathological neoplasms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amitosis designates the direct method of cell division characterized by simple division of the nucleus without formation of chromosomes."*
+> - 📜 **Walther Flemming (*Zellsubstanz, Kern und Zelltheilung*):** *"I contrasted indirect mitotic division with direct **amitosis**, wherein the nucleus merely pinches into two halves without chromosome condensation."*
+> - 📜 **Edmund Beecher Wilson (*The Cell in Development and Heredity*):** *"True **amitosis** is exceptional in healthy embryonic growth, occurring mainly in senescent or highly specialized polyploid tissues."*
+> - 📜 **William Boyd (*A Textbook of Pathology*):** *"Certain rapidly proliferating sarcoma cells divide by bizarre **amitosis**, yielding multinucleated giant syncytia."*

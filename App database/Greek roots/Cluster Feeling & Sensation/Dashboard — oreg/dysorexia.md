@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek oreg.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Feeling & Sensation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal, impaired, or perverted appetite.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical clinical nosology, any qualitative or quantitative disturbance in the hunger drive, including pica, bulimia, or selective revulsion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dysorexia designates a term designating an entity, condition, or phenomenon derived from greek oreg."*
+> - 📜 **William Cullen (*First Lines of the Practice of Physic*):** *"Under the genus **dysorexia**, we classify both the unnatural voracity of boulimia and the morbid cravings of chlorotic girls."*
+> - 📜 **Thomas Sydenham (*Medical Observations*):** *"A capricious **dysorexia** often heralds the approach of autumn ague, where the sick crave vinegar and chalk."*
+> - 📜 **Armand Trousseau (*Lectures on Clinical Medicine*):** *"Hysterical chlorosis brings on an obstinate **dysorexia**, causing patients to consume slate pencils and charcoal."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of relieving pain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of relieving pain.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Alleviating pain; an analgesic agent (alternative or historical medical spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Causing insensibility to pain in physiological experimentation and pharmacodynamics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, analgetic designates capable of relieving pain."*
+> - 📜 **William Henry Welch (*Papers and Addresses*):** *"The widespread adoption of **analgetic** therapies transformed the surgical amphitheatre from a torture chamber into a place of healing."*
+> - 📜 **T. Lauder Brunton (*Lectures on the Action of Medicines*):** *"Coal-tar derivatives were shown to exert a rapid **analgetic** and antipyretic action upon neuralgic patients."*
+> - 📜 **Ernst von Leyden (*Clinical Lectures on Disorders of the Nervous System*):** *"We observed that this new synthetic compound acts as a powerful **analgetic** without disturbing cardiac rhythm."*

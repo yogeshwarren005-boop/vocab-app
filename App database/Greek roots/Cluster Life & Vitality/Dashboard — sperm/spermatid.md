@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the haploid cells that are formed by the second division in meiosis of a spermatocyte and that differentiate into spermatozoa.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of the haploid cells that are formed by the second division in meiosis of a spermatocyte and that differentiate into spermatozoa.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An immature, non-motile haploid male germ cell formed by the division of a secondary spermatocyte, developing into a mature spermatozoon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A round or elongating germ cell in the seminiferous epithelium undergoing spermiogenesis (acrosome formation and flagellar growth).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spermatid designates one of the haploid cells that are formed by the second division in meiosis of a spermatocyte and that differentiate into spermatozoa."*
+> - 📜 **Karl Ernst von Baer (*Über Entwickelungsgeschichte der Thiere*):** *"The transformation of the spherical **spermatid** into a motile flagellated spermatozoon is a masterpiece of cellular remodeling."*
+> - 📜 **Thomas Hunt Morgan (*The Physical Basis of Heredity*):** *"Each primary spermatocyte yields four haploid **spermatids**, each carrying a unique assortment of paternal and maternal chromosomes."*
+> - 📜 **William Boyd (*A Textbook of Pathology*):** *"Toxic exposure halts spermiogenesis, leaving rows of immature **spermatids** degenerating within the testicular tubules."*

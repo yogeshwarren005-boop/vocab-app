@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of pseudococcidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of pseudococcidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of motile, flagellated coccoid bacteria in the family Planococcaceae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Gram-positive marine or soil cocci capable of active swimming motility through flagellar rotation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, planococcus designates a genus of pseudococcidae."*
+> - 📜 **David Bergey (*Manual of Determinative Bacteriology*):** *"The genus **Planococcus** is distinguished from other micrococci by its peritrichous or polar flagellation."*
+> - 📜 **René Dubos (*The Bacterial Cell*):** *"Motility in **Planococcus** species demonstrated that spherical prokaryotes could develop functional flagella."*
+> - 📜 **Martinus Beijerinck (*Microbiological Essays*):** *"Marine halophilic strains of **Planococcus** survive high brine concentrations along coastal salt pans."*

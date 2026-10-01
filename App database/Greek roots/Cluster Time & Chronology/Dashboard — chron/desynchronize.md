@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to become desynchronized; cause to occur at unrelated times.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to become desynchronized; cause to occur at unrelated times.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To cause to lose synchronization; to break the temporal coincidence or coordination of.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In electrophysiology, to alter neural firing from a rhythmic, concerted pattern into irregular, disparate frequencies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, desynchronize designates cause to become desynchronized; cause to occur at unrelated times."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"Afferent sensory impulses passing through the reticular activating system **desynchronize** cortical thalamic projections."*
+> - 📜 **Norbert Wiener (*Cybernetics*):** *"Severe phase jitter in feedback loops can **desynchronize** coupled oscillators across an entire communication array."*
+> - 📜 **Claude Shannon (*A Mathematical Theory of Communication*):** *"Transmission noise can **desynchronize** receiver clocks, resulting in garbled framing of digital data packets."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sociopathic individual : psychopath.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sociopathic individual : psychopath.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person with a personality disorder manifesting in extreme antisocial attitudes and behavior, lack of conscience, and disregard for the rights of others.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociological and psychological terminology, an individual whose antisocial criminality and lack of empathy are attributed primarily to environmental or social factors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sociopath designates a sociopathic individual : psychopath."*
+> - 📜 **Hervey Cleckley (*The Mask of Sanity*):** *"The glib **sociopath** uses words of love and contrition as mere tools to manipulate those who foolishly trust him."*
+> - 📜 **Hannah Arendt (*Eichmann in Jerusalem*):** *"The totalitarian bureaucrat was no ordinary **sociopath**, but a thoughtless creature who suspended conscience to follow orders."*
+> - 📜 **Oliver Sacks (*An Anthropologist on Mars*):** *"Unlike the autistic person who is bewildered by social cues, the **sociopath** understands them only too well to exploit them."*

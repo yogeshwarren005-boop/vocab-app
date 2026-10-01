@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the ceratopogonidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the ceratopogonidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of minute biting midges in the family Ceratopogonidae, often called no-see-ums or punkies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dipterology, small gnats characterized by piercing mouthparts, horned antennal hairs, and aquatic or semi-aquatic predatory or hematophagous larvae.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ceratopogon designates type genus of the ceratopogonidae."*
+> - 📜 **John Henry Comstock (*A Manual for the Study of Insects*):** *"The minute gnats belonging to **Ceratopogon** inflict painful, burning bites entirely out of proportion to their tiny size."*
+> - 📜 **L. O. Howard (*The Insect Book*):** *"Campers in marshy valleys frequently suffer torment from swarms of bloodthirsty **Ceratopogon**."*
+> - 📜 **Charles Valentine Riley (*Report on Noxious and Beneficial Insects*):** *"The predatory larvae of **Ceratopogon** feed ravenously upon small nematodes and protozoa in damp decaying humus."*

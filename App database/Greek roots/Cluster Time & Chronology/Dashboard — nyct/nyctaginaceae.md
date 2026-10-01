@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of flowering plants of the order caryophyllales.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A family of flowering plants of the order caryophyllales.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of flowering plants in the order Caryophyllales, commonly known as the four o'clock family, including Mirabilis and Bougainvillea.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Herbs, shrubs, and trees characterized by brightly colored petaloid involucres and flowers that frequently open in the late afternoon.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nyctaginaceae designates a family of flowering plants of the order caryophyllales."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"Members of **Nyctaginaceae** feature an apetalous calyx that mimics a brilliant tubular corolla."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The family **Nyctaginaceae** is celebrated for Mirabilis jalapa, whose fragrant blossoms unfold at sunset."*
+> - 📜 **George Bentham (*Genera Plantarum*):** *"Bentham grouped **Nyctaginaceae** with related centrospermous families possessing campylotropous ovules."*

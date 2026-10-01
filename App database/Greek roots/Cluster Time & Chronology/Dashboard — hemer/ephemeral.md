@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lasting a very short time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lasting one day only.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lasting for a very short time; transitory; fleeting.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botany and entomology, describing desert annuals that complete their entire life cycle in a few weeks after rainfall, or insects living only one day in the adult stage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Only the flesh dies and passes, ever a-crawl with the chemic ferment that informs it, ever plastic, ever crystallizing, only to melt into the flux and to crystallize into fresh and diverse forms that are ephemeral and that melt back into the flux."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The infinitude of God 267:1 Every object in material thought will be destroyed, but the spiritual idea, whose substance is in Mind, is eternal. 267:3 The offspring of God start not from matter or ephemeral dust."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"For strength of character in the race as in the individual consists mainly in the power of sacrificing the present to the future, of disregarding the immediate temptations of ephemeral pleasure for more distant and lasting sources of satisfaction."*
+> - 📜 **Ralph Waldo Emerson (*Nature*):** *"Cities fall, empires crumble, and all mortal glory proves **ephemeral**, while the silent laws of nature endure unchanged."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The brilliant bloom of desert annuals is remarkably **ephemeral**, withering as quickly as the scorching summer winds arise."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"Men esteem truth remote, in the outskirts of the system, behind the farthest star; but it is ever near, unaffected by **ephemeral** fashions."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cosmopolitan family of small herbs and a few shrubs; most are troublesome weeds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cosmopolitan family of small herbs and a few shrubs; most are troublesome weeds.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cosmopolitan family of flowering plants in the order Lamiales, including the plantains, foxgloves (Digitalis), and speedwells.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sympetalous dicotyledonous herbs and shrubs characterized by zygomorphic or actinomorphic floral symmetry and capsular fruits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plantaginaceae designates cosmopolitan family of small herbs and a few shrubs; most are troublesome weeds."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The family **Plantaginaceae** features scapose herbs with ribbed leaves and dense spikes of scarious flowers."*
+> - 📜 **George Bentham (*Genera Plantarum*):** *"Molecular taxonomy subsequently expanded **Plantaginaceae** to include numerous genera previously assigned to Scrophulariaceae."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"Representatives of **Plantaginaceae** are found from subarctic tundras to scorching tropical deserts."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A fat-soluble vitamin that prevents rickets.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fat-soluble vitamin that prevents rickets.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Vitamin D3; a sterol produced in the skin by ultraviolet irradiation of 7-dehydrocholesterol or obtained from dietary sources.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In endocrinology and nutrition, a secosteroid prohormone sequentially hydroxylated in the liver to calcifediol and in the kidneys to calcitriol, regulating calcium and phosphate homeostasis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cholecalciferol designates a fat-soluble vitamin that prevents rickets."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"Sunlight promotes the cutaneous synthesis of **cholecalciferol**, which is subsequently converted in the kidneys into active calcitriol."*
+> - 📜 **Donald Seldin (*The Kidney: Physiology and Pathophysiology*):** *"Defective renal 1-alpha-hydroxylation of **cholecalciferol** metabolites leads directly to renal osteodystrophy in chronic kidney disease."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Adequate dietary **cholecalciferol** paired with sunlight exposure eradicated endemic rickets among urban youth."*

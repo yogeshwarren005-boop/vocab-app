@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The worship of places.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The worship of places.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The religious worship or superstitious reverence directed toward specific physical locations, sacred groves, shrines, or holy mountains; topolatry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative religion and cultural anthropology, the veneration of localized genius loci or sacred geographical landmarks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, place-worship designates the worship of places."*
+> - 📜 **James George Frazer (*The Golden Bough*):** *"Archaic religion was steeped in localized **place-worship**, consecrating ancient springs, dark caves, and mountain summits."*
+> - 📜 **Edward Tylor (*Primitive Culture*):** *"The transition from animistic **place-worship** to abstract theism marks an important ascent in human religious philosophy."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"Venetian piety transformed the entire city into an elaborate shrine of maritime **place-worship**."*

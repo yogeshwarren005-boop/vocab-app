@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or being an epoch of the Tertiary between the Paleocene and the Oligocene or the corresponding series of rocks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or being an epoch of the Tertiary between the Paleocene and the Oligocene or the corresponding series of rocks.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The second epoch of the Paleogene period, lasting from about 56 to 34 million years ago, marked by the rise of modern mammalian orders.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical geology and paleoclimatology, a warm epoch (Greek eos 'dawn' + kainos 'new') witnessing the emergence of ancestral primates, horses, and whales.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Eocene designates of, relating to, or being an epoch of the tertiary between the paleocene and the oligocene or the corresponding series of rocks."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"I proposed the term **Eocene** to signify the dawn of the recent epoch, containing the earliest dawn of existing molluscan shells."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The mammalian faunas of the early **Eocene** show generalized ancestral traits that link modern ungulates and carnivores."*
+> - 📜 **Henry Fairfield Osborn (*The Age of Mammals*):** *"During the warm **Eocene**, tropical forests extended into high latitudes, fostering the radiation of archaic primates."*

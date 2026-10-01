@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek trep.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Motion & Direction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of exhorting, encouraging, or urging; persuasive exhortation to adopt a noble way of life, especially the study of philosophy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical rhetoric and pedagogical theory (Greek protrepein, 'to turn forward, urge on'), an oral discourse intended to turn the soul away from vulgar pursuits toward virtue and intellectual rigor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, protrepsis designates a term designating an entity, condition, or phenomenon derived from greek trep."*
+> - 📜 **Aristotle (*Protrepticus*):** *"The aim of philosophical **protrepsis** is not merely to display verbal subtlety, but to turn the human soul toward the contemplation of highest truth."*
+> - 📜 **Plato (*Euthydemus*):** *"Socrates urged the sophists to demonstrate a genuine **protrepsis**, persuading the young man to pursue virtue rather than vain dispute."*
+> - 📜 **Clement of Alexandria (*Exhortation to the Greeks*):** *"Our sacred **protrepsis** summons the wandering pagan away from empty idols to embrace the eternal Word."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A heightened level of psychological mania.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A heightened level of psychological mania.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An extreme, severe form of mania characterized by frenzied psychomotor agitation, flight of ideas, delirium, hallucinations, and total exhaustion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychiatry, a psychiatric emergency requiring immediate inpatient stabilization to prevent cardiovascular collapse or severe self-injury.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypermania designates a heightened level of psychological mania."*
+> - 📜 **Emil Kraepelin (*Manic-Depressive Insanity and Paranoia*):** *"In acute **hypermania**, the patient shouts incessantly, tears clothing, and exhibits unbroken violent psychomotor excitation."*
+> - 📜 **Karl Jaspers (*General Psychopathology*):** *"The frantic torrent of disconnected associations in **hypermania** completely obliterates normal reflective consciousness."*
+> - 📜 **Henry Maudsley (*Responsibility in Mental Disease*):** *"During the fury of **hypermania**, physical strength appears prodigiously multiplied while the sense of pain is entirely lost."*

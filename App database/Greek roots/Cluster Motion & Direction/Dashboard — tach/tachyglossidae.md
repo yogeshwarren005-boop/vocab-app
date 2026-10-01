@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Echidnas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Echidnas.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The family of monotreme mammals comprising the echidnas (or spiny anteaters), endemic to Australia and New Guinea.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate taxonomy and evolutionary biology, an archaic family of egg-laying mammals distinguished by an elongated snout, toothless jaws, and an agile vermiform tongue (hence *fast-tongued*).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog tachyglossidae as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The family **Tachyglossidae** occupies a unique position in natural history, uniting mammalian hair and lactation with oviparous reproduction."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"Members of the **Tachyglossidae** possess powerful claws for burrowing and an extensible, sticky tongue suited for harvesting ants."*
+> - 📜 **Ernst Mayr (*Animal Species and Evolution*):** *"The survival of the **Tachyglossidae** in Australasia demonstrates the long persistence of primitive mammalian lineages in geographic isolation."*

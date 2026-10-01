@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of having two dimensions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of having two dimensions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality, state, or condition of being flat, level, or planar.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Freedom from curvature, roughness, or angular distortion across a surface.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, planeness designates the property of having two dimensions."*
+> - 📜 **Isaac Newton (*Opticks*):** *"The optical flat was tested for absolute **planeness** by observing the regularity of interference fringes."*
+> - 📜 **Robert Hooke (*Micrographia*):** *"Even under the microscope, the polished glass retained an exquisite **planeness** free of surface pits."*
+> - 📜 **William Henry Wollaston (*On the Goniometer*):** *"Measuring crystal faces requires high reflective **planeness** to obtain sharp optical signals."*

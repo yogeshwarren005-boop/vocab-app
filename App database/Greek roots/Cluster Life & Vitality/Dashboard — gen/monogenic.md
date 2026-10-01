@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or controlled by a single gene and especially by either of an allelic pair.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or controlled by a single gene and especially by either of an allelic pair.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Determined or controlled by a single gene locus, as in Mendelian single-gene traits or disorders.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reproducing asexually or having only a single stage in the life cycle without alternation of generations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monogenic designates of, relating to, or controlled by a single gene and especially by either of an allelic pair."*
+> - 📜 **Gregor Mendel (*Experiments in Plant Hybridisation*):** *"The seed coat color segregated as a simple **monogenic** trait following clean three-to-one ratios."*
+> - 📜 **William Bateson (*Mendel's Principles of Heredity*):** *"Albinism in mammals represents a classic **monogenic** recessive defect in enzymatic melanin synthesis."*
+> - 📜 **Julian Huxley (*Evolution: The Modern Synthesis*):** *"Natural selection operates swiftly upon **monogenic** differences where dominance determines clear phenotypic expression."*

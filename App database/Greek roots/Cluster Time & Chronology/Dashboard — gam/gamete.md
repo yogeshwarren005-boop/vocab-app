@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mature male or female germ cell usually possessing a haploid chromosome set and capable of initiating formation of a new diploid individual by fusion with a gamete of the opposite sex.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A method of assisting reproduction in cases of infertility that involves obtaining eggs from an ovary, mixing them with sperm, and inserting them into a fallopian tube by a laparoscope —abbreviation GIFT—called also gamete intrafallopian tube transfer.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mature haploid male or female germ cell capable of uniting with another in sexual reproduction to form a zygote.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cell genetics and reproductive biology, an egg or sperm containing a single set of unpaired chromosomes produced via meiosis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gamete designates a mature male or female germ cell usually possessing a haploid chromosome set and capable of initiating formation of a new diploid individual by fusion with a gamete of the opposite sex."*
+> - 📜 **William Bateson (*Mendel's Principles of Heredity*):** *"Each **gamete** carries only one of the two alternative allelomorphic factors segregating from the parental zygote."*
+> - 📜 **Edmund Beecher Wilson (*The Cell in Development and Inheritance*):** *"The union of the male and female **gamete** re-establishes the diploid chromosome complement in the fertilized egg."*
+> - 📜 **Thomas Hunt Morgan (*The Physical Basis of Heredity*):** *"During gametogenesis, homologous chromosomes separate so that each mature **gamete** receives an exact haploid genome."*

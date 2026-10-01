@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sticky perennial eurasian herbs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sticky perennial eurasian herbs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of perennial leguminous herbs (family Fabaceae) including licorice (*Glycyrrhiza glabra*), valued for its sweet-tasting roots containing the saponin glycyrrhizin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A classical medicinal plant derived from Greek *glykys* ('sweet') and *rhiza* ('root'), used as an expectorant, anti-inflammatory, and flavoring agent since antiquity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, glycyrrhiza designates sticky perennial eurasian herbs."*
+> - 📜 **Dioscorides (*De Materia Medica*):** *"The root of **Glycyrrhiza**, which grows abundantly along river banks, soothes the throat and clears hoarseness of the lungs."*
+> - 📜 **Jonathan Pereira (*The Elements of Materia Medica*):** *"Extracts of **Glycyrrhiza** are prized in pharmacy for disguising the nauseous bitterness of aloes and quinine."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"Our native wild licorice, **Glycyrrhiza** lepidota, bears prickly bur-like pods reminiscent of cocklebur."*

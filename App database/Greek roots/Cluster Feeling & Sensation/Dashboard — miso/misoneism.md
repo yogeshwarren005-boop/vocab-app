@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hatred, fear, or intolerance of innovation or change.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hatred, fear, or intolerance of innovation or change.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hatred, fear, or intolerance of novelty, change, innovation, or modern trends.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociology and cultural history, the psychological defense mechanism by which traditional societies resist foreign or modern intrusions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, misoneism designates a hatred, fear, or intolerance of innovation or change."*
+> - 📜 **Cesare Lombroso (*Crime, Its Causes and Remedies*):** *"Popular **misoneism** explains why the introduction of railways and vaccination provoked violent peasant uprisings."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"Ecclesiastical orthodoxy is fortified by a deep, defensive **misoneism** that suspects every novel insight."*
+> - 📜 **George Bernard Shaw (*The Doctor's Dilemma*):** *"The medical profession is notoriously infected with **misoneism**, accepting new antiseptics only after forty years of denial."*

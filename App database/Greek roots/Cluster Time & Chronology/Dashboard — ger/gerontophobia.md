@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ger.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Time & Chronology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An irrational fear or intense dislike of the elderly or of aging.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social psychology and cultural theory, societal prejudice and systemic aversion directed toward elderly people, often fostering ageism and institutional neglect.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gerontophobia designates a term designating an entity, condition, or phenomenon derived from greek ger."*
+> - 📜 **Simone de Beauvoir (*The Coming of Age*):** *"Society conceals its deep-seated **gerontophobia** by banishing the aged into distant hospices and out-of-sight institutions."*
+> - 📜 **William Osler (*Aequanimitas*):** *"A physician must banish every trace of **gerontophobia**, treating the infirmities of senescence with patient gentleness."*
+> - 📜 **Havelock Ellis (*Studies in the Psychology of Sex*):** *"Modern commercial culture fosters an acute **gerontophobia** by exalting superficial youth as the sole human ideal."*

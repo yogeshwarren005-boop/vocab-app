@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A pattern of recurring sexually arousing mental imagery or behavior that involves unusual and especially socially unacceptable sexual practices (such as sadism or pedophilia).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pattern of recurring sexually arousing mental imagery or behavior that involves unusual and especially socially unacceptable sexual practices (such as sadism or pedophilia).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A psychiatric condition characterized by abnormal, recurrent, and intense sexual fantasies, urges, or behaviors involving non-human objects, pain, humiliation, or non-consenting individuals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sexology and clinical psychology (first popularized by Wilhelm Stekel), atypical erotic patterns categorized in modern DSM nosology when causing distress or harm.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paraphilia designates a pattern of recurring sexually arousing mental imagery or behavior that involves unusual and especially socially unacceptable sexual practices (such as sadism or pedophilia)."*
+> - 📜 **Havelock Ellis (*Studies in the Psychology of Sex*):** *"What modern alienists classify as **paraphilia** represents an instinctual divergence where erotic excitement attaches to symbolic fetishes."*
+> - 📜 **Sigmund Freud (*Three Essays on the Theory of Sexuality*):** *"Fixation at immature stages of psychosexual development creates the psychological groundwork for adult **paraphilia**."*
+> - 📜 **Richard von Krafft-Ebing (*Psychopathia Sexualis*):** *"Clinical investigation reveals that severe **paraphilia** is frequently accompanied by profound hereditary neuropathic taint."*

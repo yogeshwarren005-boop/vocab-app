@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek necr.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Life & Vitality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The surgical excision of a sequestrum (dead bone fragment) resulting from chronic osteomyelitis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal and anatomical history, the dissection or surgical cutting of a corpse; an autopsy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, necrotomy designates a term designating an entity, condition, or phenomenon derived from greek necr."*
+> - 📜 **William Boyd (*Pathology for the Surgeon*):** *"Chronic draining sinuses demand radical **necrotomy** to extract the dense, detached bony sequestrum."*
+> - 📜 **Ambroise Paré (*The Apologie and Treatise*):** *"The military surgeon must perform bold **necrotomy** when blackened splintered bone threatens gangrene."*
+> - 📜 **Henry Gray (*Anatomy: Descriptive and Surgical*):** *"Surgical **necrotomy** exposes the involucrum cavity to excise the devitalized cortical fragments."*

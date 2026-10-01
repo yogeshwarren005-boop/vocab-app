@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Board a plane.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Board a plane.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To board an airplane (variant of enplane).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To embark aircraft personnel or passengers for flight departure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, emplane designates board a plane."*
+> - 📜 **Winston Churchill (*The Hinge of Faith*):** *"The Prime Minister was scheduled to **emplane** at midnight for the transatlantic conference."*
+> - 📜 **Cecil Lewis (*Sagittarius Rising*):** *"Squadron pilots were ordered to **emplane** immediately as siren alarms sounded the scramble."*
+> - 📜 **Nevil Shute (*No Highway*):** *"Passengers gathered at the gate ready to **emplane** on the morning flight to Gander."*

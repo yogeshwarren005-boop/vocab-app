@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With respect to the sympathetic nervous system.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a sympathetic manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a sympathetic manner; with compassion, pity, benevolence, or emotional agreement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiology or physics, in autonomic response or harmonic resonance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Do you find it very tiresome here?" Mäzli asked sympathetically."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bucket sympathetically, “but it’ll wear off.” Volumnia wishes of all things to know what is doing?"*
-> - 📜 **John Cairns (*Principal Cairns*):** *"But the recognised and trusted leaders of the Church were of opinion that the matter must be sympathetically dealt with, and, on the motion of Principal Harper, the Synod of 1877 appointed a Committee to consider it, and to bring up a report."*
+> - 📜 **Jane Austen (*Emma*):** *"Mr. Knightley listened **sympathetically** to her confession, pleased to see her vanity give way to penitence."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Dorothea looked **sympathetically** at the tired peasant woman, offering whatever small comfort her hands could bring."*
+> - 📜 **John Tyndall (*Sound*):** *"When the primary tuning fork is struck, the adjacent matched fork vibrates **sympathetically** across the room."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or given to walking.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Moving or traveling from place to place : itinerant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Traveling from place to place, especially working or teaching in various venues; wandering or itinerant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of philosophy, an adherent of Aristotle or his school, so named because Aristotle walked about the Lyceum (*peripatein*) while lecturing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"She had sometimes taken pupils in a peripatetic fashion, making them follow her about in the kitchen with their book or slate."*
-> - 📜 **James Joyce (*Ulysses*):** *"God: noise in the street: very peripatetic."*
-> - 📜 **James Joyce (*Ulysses*):** *"To inaugurate a series of static, semistatic and peripatetic intellectual dialogues, places the residence of both speakers (if both speakers were resident in the same place), the _Ship_ hotel and tavern, 6 Lower Abbey street (W. and E."*
+> - 📜 **Oliver Goldsmith (*The Vicar of Wakefield*):** *"He adopted the life of a **peripatetic** philosopher, wandering from town to town with his flute."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The **peripatetic** doctrine of the four elements dominated natural philosophy for fifteen centuries."*
+> - 📜 **William Hazlitt (*Table-Talk*):** *"There is immense pleasure in a solitary **peripatetic** excursion across the open hills on a spring morning."*

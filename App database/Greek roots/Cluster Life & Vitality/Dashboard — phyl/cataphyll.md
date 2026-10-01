@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A reduced or scarcely developed leaf at the start of a plant's life (i.e., cotyledons) or in the early stages of leaf development.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A reduced or scarcely developed leaf at the start of a plant's life (i.e., cotyledons) or in the early stages of leaf development.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A reduced, scale-like leaf, such as a bud scale, rhizome scale, or bulb scale, preceding the true foliage leaves.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rudimentary leaf specialized for mechanical protection, food storage, or underground penetration rather than photosynthesis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cataphyll designates a reduced or scarcely developed leaf at the start of a plant's life (i.e., cotyledons) or in the early stages of leaf development."*
+> - 📜 **Johann Wolfgang von Goethe (*The Metamorphosis of Plants*):** *"The protective scales enclosing winter buds represent the lowest morphological stage of the leaf, the simple **cataphyll**."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"Fleshy onion bulb layers are true storage **cataphylls** densely packed with reserves of sugar and moisture."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"As the subterranean shoot pushes through gravel, tough protective **cataphylls** shield the delicate terminal apex."*

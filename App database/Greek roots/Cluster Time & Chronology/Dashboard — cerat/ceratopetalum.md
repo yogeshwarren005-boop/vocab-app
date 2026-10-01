@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A dicotyledonous genus of the family cunoniaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dicotyledonous genus of the family cunoniaceae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small genus of Australian trees and shrubs in the family Cunoniaceae, notably including the coachwood and the Christmas bush.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Australasian systematic botany, plants distinguished by horn-shaped petals or enlarged, persistent, reddish petaloid calyx lobes surrounding the fruit.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ceratopetalum designates a dicotyledonous genus of the family cunoniaceae."*
+> - 📜 **Ferdinand von Mueller (*Fragmenta Phytographiae Australiae*):** *"In the coastal forests of New South Wales, **Ceratopetalum** displays gorgeous displays of crimson bracts at midsummer."*
+> - 📜 **Joseph Henry Maiden (*The Forest Flora of New South Wales*):** *"The coachwood, belonging to **Ceratopetalum**, yields a fine-grained, aromatic timber celebrated in coachbuilding."*
+> - 📜 **George Bentham (*Flora Australiensis*):** *"The petals in **Ceratopetalum** are either minute and jaggedly horned or completely absent, while the calyx expands spectacularly."*

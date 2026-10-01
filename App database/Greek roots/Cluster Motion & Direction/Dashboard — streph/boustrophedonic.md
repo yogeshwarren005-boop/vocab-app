@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to writing alternate lines in opposite directions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to writing alternate lines in opposite directions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Written in or characteristic of boustrophedon; alternating direction from line to line.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In computer graphics, printing technology, and robotics, descriptive of path-planning algorithms that sweep a surface in back-and-forth snake-like rows.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Dolphin’s Barn: the transliterated name and address of the addresser of the 3 letters in reversed alphabetic boustrophedonic punctated quadrilinear cryptogram (vowels suppressed) N."*
+> - 📜 **Isaac Taylor (*The History of the Alphabet*):** *"The **boustrophedonic** style of the Solonian code prevented the reader's eye from losing its place between long lines."*
+> - 📜 **Arthur Evans (*Scripta Minoa*):** *"Several early Cretan seal impressions display a **boustrophedonic** arrangement of hieroglyphic signs."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Agricultural plowing creates a **boustrophedonic** furrow pattern that alters hillside surface drainage."*

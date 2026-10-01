@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek erot.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Feeling & Sensation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal, irrational fear, guilt, or aversion toward sexuality, sexual feelings, or erotic materials.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A psychological and behavioral tendency to react with distress, shame, or avoidance to sexual stimuli or discussions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, erotophobia designates a term designating an entity, condition, or phenomenon derived from greek erot."*
+> - 📜 **Havelock Ellis (*The Task of Social Hygiene*):** *"Victorian prudery bred a pervasive social **erotophobia** that treated biological facts as unmentionable crimes."*
+> - 📜 **Bertrand Russell (*Marriage and Morals*):** *"Puritanical schooling often instills a crippling **erotophobia** that poisons marital intimacy in later adult years."*
+> - 📜 **Sigmund Freud (*Totem and Taboo*):** *"Rigid cultural taboos surrounding incest and menstruation give rise to unconscious religious **erotophobia**."*

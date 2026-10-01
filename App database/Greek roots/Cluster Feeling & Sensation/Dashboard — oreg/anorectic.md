@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking appetite.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking appetite.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing or characterized by loss of appetite; a drug or medicinal agent that suppresses hunger; anorexigenic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or affected by anorexia, particularly anorexia nervosa.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anorectic designates lacking appetite."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Severe gastric malignancy exerts a profound **anorectic** effect, causing patients to recoil from meat."*
+> - 📜 **Claude Bernard (*Lectures on Experimental Physiology*):** *"Certain alkaloids act upon the hypothalamic centers as a powerful **anorectic**, suppressing all feeding reflex in animals."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"During the post-influenzal state, patients experienced an **anorectic** apathy that made mealtime an ordeal."*

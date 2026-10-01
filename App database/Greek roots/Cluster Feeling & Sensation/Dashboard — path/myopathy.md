@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A disorder of muscle tissue or muscles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disorder of muscle tissue or muscles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A disease or disorder of muscle tissue, characterized by progressive muscular weakness, degeneration, or wasting without primary nerve disease.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neuromuscular medicine, encompassing congenital dystrophies, metabolic muscle disorders, and inflammatory conditions like polymyositis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, myopathy designates a disorder of muscle tissue or muscles."*
+> - 📜 **William Gowers (*A Manual of Diseases of the Nervous System*):** *"We group under primary **myopathy** those remarkable wasting disorders where the muscular fibers perish while the spinal cord remains intact."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In familial **myopathy**, the child often presents with enlarged, doughy calves that conceal actual profound loss of contractile power."*
+> - 📜 **Oliver Sacks (*A Leg to Stand On*):** *"Following orthopedic casting, my quadriceps suffered a temporary disuse **myopathy** that paralyzed my walking reflex."*

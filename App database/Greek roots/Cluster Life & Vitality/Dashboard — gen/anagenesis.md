@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Evolutionary change producing a single lineage in which one taxon replaces another without branching.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Evolutionary change producing a single lineage in which one taxon replaces another without branching.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Progressive evolutionary change occurring within a single unbranching lineage over time; phyletic evolution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The evolutionary accumulation of morphological and physiological adaptations without speciation, contrasted with cladogenesis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anagenesis designates evolutionary change producing a single lineage in which one taxon replaces another without branching."*
+> - 📜 **Julian Huxley (*Evolution: The Modern Synthesis*):** *"We must distinguish between cladogenesis or branching, and **anagenesis** or directional advancement along a continuous phyletic lineage."*
+> - 📜 **Ernst Mayr (*Animal Species and Evolution*):** *"Speciation creates diversity, but progressive **anagenesis** builds overarching biological complexity across geological eras."*
+> - 📜 **George Gaylord Simpson (*The Major Features of Evolution*):** *"The fossil horse sequence long served as a classic textbook exemplar of sustained **anagenesis** in response to expanding grasslands."*

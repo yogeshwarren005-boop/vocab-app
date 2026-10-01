@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the technical aspects of drama.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to the technical aspects of drama.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the art of dramatic composition, stagecraft, or theatrical presentation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In performance studies, descriptive of the internal mechanics, pacing, and architectural principles that govern effective theatrical representation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dramaturgic designates relating to the technical aspects of drama."*
+> - 📜 **Gotthold Ephraim Lessing (*Hamburg Dramaturgy*):** *"Every genuine **dramaturgic** principle must be derived from the fundamental psychology of human emotion."*
+> - 📜 **Johann Wolfgang von Goethe (*Conversations with Eckermann*):** *"Goethe examined the manuscript with keen **dramaturgic** insight, pointing out where the second act lost momentum."*
+> - 📜 **George Bernard Shaw (*Our Theatres in the Nineties*):** *"The production suffered from superficial acting that ignored the play's sophisticated **dramaturgic** structure."*

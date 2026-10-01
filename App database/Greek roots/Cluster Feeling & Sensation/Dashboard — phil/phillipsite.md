@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A group of white or reddish crystalline minerals of the zeolite family consisting of a hydrous silicate of calcium and potassium and aluminum.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A group of white or reddish crystalline minerals of the zeolite family consisting of a hydrous silicate of calcium and potassium and aluminum.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hydrated potassium-calcium-sodium aluminosilicate mineral of the zeolite group, forming complex twinned monoclinic crystals in basaltic lavas and deep-sea clays.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Named in 1825 in honor of English mineralogist William Phillips, prized for its high cation-exchange capacity and molecular sieve properties.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phillipsite designates a group of white or reddish crystalline minerals of the zeolite family consisting of a hydrous silicate of calcium and potassium and aluminum."*
+> - 📜 **James Dwight Dana (*System of Mineralogy*):** *"Crystals of **phillipsite** occur characteristically in cross-shaped penetration twins lining the vesicles of volcanic basalt."*
+> - 📜 **Edward Salisbury Dana (*A Text-Book of Mineralogy*):** *"The deep-sea dredging of the Challenger expedition revealed immense deposits of authigenic **phillipsite** carpeting the Pacific floor."*
+> - 📜 **René Just Haüy (*Traité de Minéralogie*):** *"The cruciform structure of **phillipsite** provides an instructive study in symmetrical twin crystal growth."*

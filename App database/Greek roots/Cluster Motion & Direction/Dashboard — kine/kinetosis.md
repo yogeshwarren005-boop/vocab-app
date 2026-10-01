@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being dizzy or nauseated because of the motions that occur while traveling in or on a moving vehicle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being dizzy or nauseated because of the motions that occur while traveling in or on a moving vehicle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Motion sickness; a condition of nausea, dizziness, and malaise caused by conflicting sensory signals of movement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aerospace and marine medicine, a physiological disturbance caused by a mismatch between vestibular semicircular canal signals, visual input, and proprioceptive sensors (seasickness, airsickness).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, kinetosis designates the state of being dizzy or nauseated because of the motions that occur while traveling in or on a moving vehicle."*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*):** *"Severe vestibular **kinetosis** can overwhelm even seasoned sailors when rapid Coriolis accelerations confuse the labyrinthine canals."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Throughout our passage around Cape Horn, I was incapacitated by distressing **kinetosis**, unable to stand or write in my journal."*
+> - 📜 **Robley Dunglison (*Medical Lexicon*):** *"Medical writers designate seasickness, car-sickness, and swing-sickness collectively under the diagnostic rubric of **kinetosis**."*

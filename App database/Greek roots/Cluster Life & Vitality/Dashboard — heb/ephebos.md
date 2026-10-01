@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek heb.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Life & Vitality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An adolescent youth in ancient Greece, especially an 18-to-20-year-old undergoing mandatory civic and military training.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A young Athenian citizen enrolled in the register of his deme who had reached legal majority and commenced military garrison duty.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ephebos designates a term designating an entity, condition, or phenomenon derived from greek heb."*
+> - 📜 **Aristotle (*The Constitution of the Athenians*):** *"When an **ephebos** has completed his two years of training, he takes his place among the full voting citizens of the assembly."*
+> - 📜 **Thucydides (*The Peloponnesian War*):** *"The frontier forts of Attica were guarded during winter by detachments of armed **epheboi** under tribal commanders."*
+> - 📜 **Pausanias (*Description of Greece*):** *"Near the Academy stood a dedicated precinct where every **ephebos** competed in the sacred nocturnal torch race."*

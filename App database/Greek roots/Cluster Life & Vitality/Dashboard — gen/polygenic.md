@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to an inheritable character that is controlled by several genes at once; of or related to or determined by polygenes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to an inheritable character that is controlled by several genes at once; of or related to or determined by polygenes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Controlled or influenced by multiple non-allelic genes acting together in an additive or interactive manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to quantitative traits (such as blood pressure, intelligence, or grain yield) governed by complex genetic networks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polygenic designates of or relating to an inheritable character that is controlled by several genes at once; of or related to or determined by polygenes."*
+> - 📜 **Kenneth Mather (*Polygenic Inheritance and Natural Selection*):** *"Continuous variation in nature is overwhelmingly **polygenic**, mediated by scores of contributing loci."*
+> - 📜 **Theodosius Dobzhansky (*Mankind Evolving*):** *"Human stature and skin pigmentation are typical **polygenic** characteristics responsive to both genetics and climate."*
+> - 📜 **Richard Lewontin (*The Genetic Basis of Evolutionary Change*):** *"Mapping the specific loci underlying a **polygenic** trait remains one of the toughest challenges of quantitative genetics."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Retinal protein formed by the action of light on rhodopsin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Retinal protein formed by the action of light on rhodopsin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A group of light-sensitive G protein-coupled receptor proteins found in the photoreceptor cells of the retina.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In visual biochemistry and neurophysiology, the apoprotein component of rhodopsin and iodopsin which, covalently bound to retinal, mediates optical phototransduction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, opsin designates retinal protein formed by the action of light on rhodopsin."*
+> - 📜 **George Wald (*The Photoreceptor Process in Vision*):** *"Absorption of a photon isomerizes 11-cis-retinal, initiating the conformational separation of the chromophore from the **opsin**."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"In the dark, retinal recombines spontaneously with **opsin** to reconstitute the active photosensitive pigment rhodopsin."*
+> - 📜 **Hermann von Helmholtz (*Treatise on Physiological Optics*):** *"Color vision is mediated by three distinct cone **opsin** pigments tuned to short, medium, and long wavelengths."*

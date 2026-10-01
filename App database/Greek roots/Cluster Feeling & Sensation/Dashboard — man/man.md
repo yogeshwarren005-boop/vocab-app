@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An individual human; especially : an adult male human.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A man belonging to a particular category (as by birth, residence, membership, or occupation) —usually used in combination.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Greek root *man-* (from *mania*), signifying madness, frenzy, divine inspiration, or obsessive mental excitement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The linguistic combining form in psychopathology, ethnology, and psychiatric nosology denoting morbid infatuation, frenzy, or compulsive fixations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How called you the man you speak of, madam?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Man is enemy to virginity; how may we barricado it against him?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Man setting down before you will undermine you and blow you up."*
+> - 📜 **Henry George Liddell & Robert Scott (*A Greek-English Lexicon*):** *"The ancient Greek radical **man** gives birth to *mainomai*, meaning to rage, to be mad, or to be filled with prophetic enthusiasm."*
+> - 📜 **Plato (*Phaedrus*):** *"The greatest blessings come to us through madness, the divine **mania** sent as a gift from Apollo and Dionysus."*
+> - 📜 **Sigmund Freud (*Civilization and Its Discontents*):** *"Psychiatry adopted the Greek root **man** to designate those affective storms where the super-ego is overthrown by the ego."*

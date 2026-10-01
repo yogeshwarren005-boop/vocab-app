@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of movement, motion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of movement, motion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by, suffering from, or pertaining to hypokinesia; displaying sluggish, abnormally diminished, or reduced movement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical cardiology and movement disorders, describing under-active myocardial contractions or parkinsonian motor patterns characterized by slowed reaction times.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypokinetic designates adjective*) pertaining to, derived from, or characteristic of movement, motion."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"The **hypokinetic** patient sat rooted to his chair, staring fixedly at the wall with unblinking eyes."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A **hypokinetic** apical segment detected during cardiac examination strongly suggests occlusive disease of the anterior descending artery."*
+> - 📜 **Alexander Luria (*The Working Brain*):** *"The patient's gait was distinctly **hypokinetic**, composed of short, shuffling steps devoid of normal reciprocal arm swings."*

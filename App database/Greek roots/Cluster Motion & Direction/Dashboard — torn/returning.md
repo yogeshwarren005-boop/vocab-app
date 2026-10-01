@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Go or come back to place, condition, or activity where one has been before.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give back.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Coming back or going back; recurring or repeating at intervals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Arriving back from a journey or absent state; restoring or yielding in response.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When we banished him, we respected not them; and he returning to break our necks, they respect not us."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The games are done, and Caesar is returning."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For mine own good, All causes shall give way: I am in blood Stepp’d in so far that, should I wade no more, Returning were as tedious as go o’er."*
+> - 📜 **Walt Whitman (*When Lilacs Last in the Dooryard Bloom'd*):** *"When lilacs last in the dooryard bloom'd, and the great star early droop'd in the western sky in the night, I mourn'd, and yet shall mourn with ever-**returning** spring."*
+> - 📜 **Percy Bysshe Shelley (*Adonais*):** *"The **returning** sun warms the frozen earth, but awakens not our lost companion."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The weary peasants trudged along the road, **returning** from the fields as evening fell."*

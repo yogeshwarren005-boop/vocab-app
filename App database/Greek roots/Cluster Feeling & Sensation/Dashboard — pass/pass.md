@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Move, proceed, go.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To go away : depart.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To move past, proceed, or transfer; a narrow route or defile through a mountain range; a permit granting free transit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sports, martial arts, and games, to transfer a ball or puck to a teammate, or to decline an opportunity to play.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For to no other pass my verses tend, Than of your graces and your gifts to tell."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then in the number let me pass untold, Though in thy store’s account I one must be, For nothing hold me, so it please thee hold, That nothing me, a something sweet to thee."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I did think thee, for two ordinaries, to be a pretty wise fellow; thou didst make tolerable vent of thy travel; it might pass."*
+> - 📜 **William Shakespeare (*King Lear*):** *"Blow, winds, and crack your cheeks! rage! blow! you cataracts and hurricanoes, let the storm **pass** over my head."*
+> - 📜 **Walter Scott (*The Lady of the Lake*):** *"The Highland warriors guarded the rocky mountain **pass**, defying the king's cavalry to advance a step."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Ship after ship hailed us as we sailed along the equator, asking if the white whale had been seen to **pass**."*

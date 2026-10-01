@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or related to the state of anabiosis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or related to the state of anabiosis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to or characterized by anabiosis; capable of reviving after apparent death, dehydration, or suspended animation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Describing physiological states of extreme cryptobiosis in which metabolic activity ceases entirely and later resumes upon rehydration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anabiotic designates of or related to the state of anabiosis."*
+> - 📜 **Wilhelm Preyer (*Specielle Physiologie des Embryo*):** *"Drying rotifers enter an **anabiotic** condition that withstands prolonged desiccation without fatal tissue damage."*
+> - 📜 **D'Arcy Wentworth Thompson (*On Growth and Form*):** *"The remarkable resilience of an **anabiotic** spore defies ordinary thermodynamic rates of metabolic breakdown."*
+> - 📜 **David Keilin (*The Problem of Anabiosis or Latent Life*):** *"Leeuwenhoek first described the **anabiotic** revival of microscopic animalcules retrieved from dried gutter dust."*

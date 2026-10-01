@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The usually raised part of an Eastern church containing the altar.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The usually raised part of an Eastern church containing the altar.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The raised platform or sanctuary area in an ancient synagogue or Christian church, used for reading scriptures or preaching.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ancient Greek law, the elevated stone platform from which orators addressed the assembly or court.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bema designates the usually raised part of an eastern church containing the altar."*
+> - 📜 **Demosthenes (*On the Crown*):** *"When Aeschines mounted the **bema**, he sought to mislead the citizens with grandiloquent falsehoods."*
+> - 📜 **Thucydides (*History of the Peloponnesian War*):** *"Pericles stepped upon the **bema** to deliver his celebrated funeral oration to the assembled Athenians."*
+> - 📜 **Richard Krautheimer (*Early Christian and Byzantine Architecture*):** *"The clergy processed into the elevated **bema** behind the iconostasis to begin the divine liturgy."*

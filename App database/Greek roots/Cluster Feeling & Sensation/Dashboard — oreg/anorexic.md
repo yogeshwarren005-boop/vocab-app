@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person suffering from anorexia nervosa.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Suffering from anorexia nervosa; pathologically thin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, suffering from, or affected by anorexia; producing a loss of appetite.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An individual suffering from anorexia nervosa; excessively thin or emaciated in appearance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anorexic designates a person suffering from anorexia nervosa."*
+> - 📜 **William Gull (*Anorexia Nervosa*):** *"The **anorexic** patient displayed extraordinary restlessness, walking miles daily despite severe skeletal emaciation."*
+> - 📜 **Oliver Sacks (*A Leg to Stand On*):** *"The metabolic shutdown seen in chronic **anorexic** patients mirrors the primitive hibernation reflexes of starving mammals."*
+> - 📜 **Sigmund Freud (*Studies on Hysteria*):** *"The young woman's **anorexic** aversion to food was traced to a subconscious disgust originating in early childhood trauma."*

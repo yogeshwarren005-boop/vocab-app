@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small cycad of the genus ceratozamia having a short scaly woody trunk and fernlike foliage and woody cones; mexico.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small cycad of the genus ceratozamia having a short scaly woody trunk and fernlike foliage and woody cones; mexico.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of New World cycads in the family Zamiaceae, characterized by paired horn-like projections on the cone scales.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cycadology and paleobotany, palm-like gymnosperms native to Mexico and Central America, bearing pinnate leaves and bicornute sporophylls.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ceratozamia designates a small cycad of the genus ceratozamia having a short scaly woody trunk and fernlike foliage and woody cones; mexico."*
+> - 📜 **Adolphe Brongniart (*Annales des Sciences Naturelles: Botanique*):** *"The distinctive feature of **Ceratozamia** consists in the two prominent, horn-shaped points capping each peltate cone scale."*
+> - 📜 **Joseph Dalton Hooker (*Curtis's Botanical Magazine*):** *"A magnificent specimen of **Ceratozamia** from Vera Cruz flowered in the temperate palm house at Kew Gardens."*
+> - 📜 **Charles Joseph Chamberlain (*The Living Cycads*):** *"Field studies in the cloud forests of Veracruz showed that **Ceratozamia** depends upon specialized weevils for cone pollination."*

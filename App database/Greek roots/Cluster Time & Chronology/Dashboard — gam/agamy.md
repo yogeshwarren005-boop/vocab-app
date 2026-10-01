@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek gam.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Time & Chronology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The absence of marriage or sexual reproduction; the state of being unmarried or propagating asexually.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social anthropology and biological taxonomy, the lack of defined marriage regulations within a kin group, or the condition of asexual propagation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, agamy designates a term designating an entity, condition, or phenomenon derived from greek gam."*
+> - 📜 **Lewis Henry Morgan (*Ancient Society*):** *"The earliest condition of horde organization was characterized by informal **agamy** before clan rules crystallized."*
+> - 📜 **Herbert Spencer (*The Principles of Sociology*):** *"Primitive social aggregates moved from unstructured **agamy** toward strict exogamic and endogamic marriage codes."*
+> - 📜 **Thomas Henry Huxley (*Scientific Memoirs*):** *"In certain colonial polyps, vegetative **agamy** continues for decades without the intervention of a sexual medusa."*

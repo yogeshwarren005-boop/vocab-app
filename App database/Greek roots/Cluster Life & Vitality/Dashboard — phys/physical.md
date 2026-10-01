@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to natural science.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to physics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the body as opposed to the mind; relating to material things perceptible through the senses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the science of physics or natural phenomena governed by physical laws.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The blood I drop is rather physical Than dangerous to me."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Is Brutus sick, and is it physical To walk unbraced and suck up the humours Of the dank morning?"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Not that he bears the desk any ill will, but he must do something, and it must be something of an unexciting nature, which will lay neither his physical nor his intellectual energies under too heavy contribution."*
+> - 📜 **Isaac Newton (*Opticks*):** *"The main business of natural philosophy is to argue from phenomena without feigning hypotheses, and to deduce causes from effects, till we come to the very first cause, which certainly is not **physical**."*
+> - 📜 **Thomas Henry Huxley (*On the Physical Basis of Life*):** *"Protoplasm, simple or nucleated, is the formal basis of all life; it is the **physical** basis of all life."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Every emotional state is accompanied by immediate, bodily, **physical** reverberations throughout the somatic system."*

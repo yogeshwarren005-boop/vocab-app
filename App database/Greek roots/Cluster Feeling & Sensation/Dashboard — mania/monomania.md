@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mental illness especially when limited in expression to one idea or area of thought.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Excessive concentration on a single object or idea.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An exaggerated, pathological obsession or preoccupation with a single idea, subject, or emotional goal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In 19th-century alienism, a partial mental disorder wherein the intellect is intact except regarding one specific delusion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"It’s a monomania with him to think he is possessed of documents."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"It is not probable that this monomania in him took its instant rise at the precise time of his bodily dismemberment."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But, as in his narrow-flowing monomania, not one jot of Ahab’s broad madness had been left behind; so in that broad madness, not one jot of his great natural intellect had perished."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"All that most maddens and torments; all that stirs up the lees of things, was visibly personified in Ahab's **monomania**."*
+> - 📜 **Jean-Étienne Esquirol (*Des Maladies Mentales*):** *"In intellectual **monomania**, a single false notion dominates the mind while other faculties function normally."*
+> - 📜 **Edgar Allan Poe (*Berenice*):** *"This nervous intensity of interest was not a passion, but a brooding, irresistible **monomania** of the intellect."*

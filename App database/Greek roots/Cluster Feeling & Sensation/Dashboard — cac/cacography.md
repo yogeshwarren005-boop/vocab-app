@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bad spelling.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bad handwriting.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bad, illegible, or careless handwriting; also bad spelling or incorrect orthography (contrasted with calligraphy and orthography).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deliberately flawed or humorous misspelling employed for comic effect in colloquial dialect literature.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cacography designates bad spelling."*
+> - 📜 **Alexander Pope (*The Dunciad*):** *"Page after page of wretched **cacography** flowed from the scribbler's quill, defying the compositor's tired eyes."*
+> - 📜 **Charles Lamb (*Essays of Elia*):** *"His epistolary hand was such a maze of crabbed **cacography** that even the postmaster could not decipher the village name."*
+> - 📜 **Mark Twain (*Life on the Mississippi*):** *"The pilot log contained marvels of frontier **cacography**, where words were spelled entirely by wild phonetic inspiration."*

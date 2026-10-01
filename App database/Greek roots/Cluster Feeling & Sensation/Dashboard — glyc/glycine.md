@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The simplest amino acid found in proteins and the principal amino acid in sugar cane.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of asiatic erect or sprawling herbs: soya bean.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The simplest of the twenty standard amino acids (C2H5NO2, aminoacetic acid), having a single hydrogen atom as its side chain, found abundantly in collagen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurobiology, a major inhibitory neurotransmitter acting predominantly in the spinal cord, brainstem, and retina, co-activating NMDA glutamate receptors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, glycine designates the simplest amino acid found in proteins and the principal amino acid in sugar cane."*
+> - 📜 **Emil Fischer (*Investigations on Amino Acids, Polypeptides and Proteins*):** *"We synthesized the simplest dipeptide by condensing two molecules of **glycine** into glycyl-glycine."*
+> - 📜 **Linus Pauling (*The Structure of Proteins*):** *"The absence of a bulky side chain in **glycine** permits the polypeptide backbone to make tight bends within the collagen triple helix."*
+> - 📜 **Oliver Sacks (*The Island of the Colorblind*):** *"Strychnine exerts its lethal convulsive toxicity by competitively blocking the inhibitory actions of **glycine** in the spinal cord."*

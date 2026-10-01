@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to blastemata.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to blastemata.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or derived from a blastema; having formative or regenerative cellular properties.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to formative protoplasm or primitive tissue matrices capable of generating specialized organs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, blastematic designates of or relating to blastemata."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"We must abandon the archaic theory of a structureless **blastematic** exudate in favor of universal cellular continuity."*
+> - 📜 **Alexander Kowalevsky (*Developmental Studies on Ascidians*):** *"The **blastematic** rudiment of the chordal rod separates cleanly from the surrounding entodermal mantle."*
+> - 📜 **Francis Balfour (*A Treatise on Comparative Embryology*):** *"Direct observation revealed that **blastematic** proliferations give rise to the segmental nephric tubules."*

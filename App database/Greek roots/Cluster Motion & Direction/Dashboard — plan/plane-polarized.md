@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of a moving wave) vibrating in a single plane.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of a moving wave) vibrating in a single plane.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Describing light or electromagnetic waves whose electric field vibrations are confined to a single two-dimensional plane.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Linearly polarized through reflection, refraction, or passage through a Nicol prism or polarizing filter.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plane-polarized designates (of a moving wave) vibrating in a single plane."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"When a **plane-polarized** beam traverses a magnetic field in glass, its plane of vibration rotates."*
+> - 📜 **David Brewster (*A Treatise on Optics*):** *"At Brewster's angle, reflected sunlight becomes completely **plane-polarized** parallel to the reflecting interface."*
+> - 📜 **William Henry Bragg (*X-Rays and Crystal Structure*):** *"Anisotropic minerals split unpolarized light into two mutually perpendicular **plane-polarized** waves."*

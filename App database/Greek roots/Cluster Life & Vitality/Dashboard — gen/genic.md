@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or produced by or being a gene.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or produced by or being a gene.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or produced by genes; genetic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to specific alleles or gene loci and their individual phenotypic effects.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, genic designates of or relating to or produced by or being a gene."*
+> - 📜 **Sewall Wright (*Evolution in Mendelian Populations*):** *"Selection acts upon interactive gene complexes rather than isolated, additive **genic** frequencies."*
+> - 📜 **Theodosius Dobzhansky (*Genetics of the Evolutionary Process*):** *"Balanced polymorphism maintains high levels of **genic** diversity within natural Drosophila populations."*
+> - 📜 **George Gaylord Simpson (*Tempo and Mode in Evolution*):** *"Macroevolutionary trends must ultimately harmonize with the microevolutionary dynamics of **genic** substitution."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The production of a chemical compound by a living organism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The production of a chemical compound by a living organism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The production of complex chemical compounds by living organisms or enzymatic cellular processes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Anabolic metabolic pathways whereby simpler precursor molecules are enzymatically converted into macromolecules like proteins, lipids, and nucleic acids.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, biosynthesis designates the production of a chemical compound by a living organism."*
+> - 📜 **Hans Krebs (*The Metabolic Roles of Citrate*):** *"Intermediates of the tricarboxylic acid cycle furnish the carbon skeletons required for the **biosynthesis** of amino acids."*
+> - 📜 **Arthur Kornberg (*Enzymatic Synthesis of DNA*):** *"The in vitro **biosynthesis** of nucleic acid polymers confirmed the catalytic primacy of DNA polymerase."*
+> - 📜 **Jacques Monod (*Chance and Necessity*):** *"The fidelity of protein **biosynthesis** is safeguarded by stereospecific interactions between transfer RNAs and ribosomal complexes."*

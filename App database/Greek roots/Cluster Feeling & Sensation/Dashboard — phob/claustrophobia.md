@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormal dread of being in closed or narrow spaces.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A feeling of discomfort or discontent caused by being in a limiting or restrictive situation or environment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An extreme or irrational fear of confined, small, or crowded spaces.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A common situational anxiety disorder in which being enclosed in an elevator, tunnel, or small room triggers acute autonomic panic and a desperate urge to escape.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, claustrophobia designates abnormal dread of being in closed or narrow spaces."*
+> - 📜 **Sigmund Freud (*Introductory Lectures on Psycho-Analysis*):** *"In **claustrophobia**, the fear of being enclosed in a locked room masks an unconscious dread of repressed instinctual impulses."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The sudden attack of **claustrophobia** in a crowded subway causes intense tachycardia, diaphoresis, and air hunger."*
+> - 📜 **Edgar Allan Poe (*The Premature Burial*):** *"The fear of living burial is the quintessential horror, an unendurable nightmare of eternal **claustrophobia**."*

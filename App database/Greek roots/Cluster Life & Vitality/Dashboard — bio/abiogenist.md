@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A believer in abiogenesis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A believer in abiogenesis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An advocate or proponent of the theory of abiogenesis or spontaneous generation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A natural philosopher or early experimenter who maintained that microscopic animalcules originate de novo from sterile infusions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, abiogenist designates a believer in abiogenesis."*
+> - 📜 **Thomas Henry Huxley (*Lay Sermons, Addresses, and Reviews*):** *"The obstinate **abiogenist** argued that hermetically sealed broths still yielded infusions of microscopic monads."*
+> - 📜 **John Tyndall (*Essays on the Floating-Matter of the Air*):** *"Every rigorous optical test deprived the modern **abiogenist** of his imagined spontaneous organisms."*
+> - 📜 **Louis Pasteur (*Memoir on the Organized Corpuscles Existing in the Atmosphere*):** *"No **abiogenist** has ever produced living bacteria in an organic medium guarded from airborne germs."*

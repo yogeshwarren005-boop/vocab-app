@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of feed, grow.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of feed, grow.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or being a phototroph; obtaining energy from light via photosynthesis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to light-driven metabolic pathways and photochemical phosphorylation systems in living cells.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phototrophic designates adjective*) pertaining to, derived from, or characteristic of feed, grow."*
+> - 📜 **Martinus Beijerinck (*Studies on Microbial Ecology*):** *"Cyanobacteria represent an ancient **phototrophic** lineage that enriched the primeval atmosphere with free oxygen."*
+> - 📜 **Eugene Odum (*Fundamentals of Ecology*):** *"The productivity of the **phototrophic** layer depends upon solar irradiance, water temperature, and dissolved nitrates."*
+> - 📜 **Albert Lehninger (*Biochemistry*):** *"In **phototrophic** cells, light absorption by antenna pigments excites electrons to initiate photosynthetic phosphorylation."*

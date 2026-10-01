@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a blastopore.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a blastopore.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or situated at or near the blastopore.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to the embryological opening that serves as the entry site for invaginating cell sheets during gastrulation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, blastoporal designates of or relating to a blastopore."*
+> - 📜 **Hans Spemann (*Embryonic Development and Induction*):** *"The dorsal **blastoporal** lip exerts the organizer effect, inducing neural plate development in overlying ectoderm."*
+> - 📜 **Karl Ernst von Baer (*Entwickelungsgeschichte der Thiere*):** *"Cells migrating through the **blastoporal** margin differentiate into the axial notochord."*
+> - 📜 **C. H. Waddington (*Principles of Embryology*):** *"Vital dye marks placed on the **blastoporal** rim reveal the precise trajectories of prospective mesodermal somites."*

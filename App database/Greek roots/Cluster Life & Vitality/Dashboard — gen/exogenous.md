@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Produced by growth from superficial tissue.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Caused by factors (such as food or a traumatic factor) or an agent (such as a disease-producing organism) from outside the organism or system.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Originating or produced from outside an organism or system; introduced from external sources.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medicine and biochemistry, designating substances (such as pharmaceutical toxins, vitamins, or hormones) introduced into the body.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, exogenous designates produced by growth from superficial tissue."*
+> - 📜 **Claude Bernard (*Lectures on the Phenomena of Life*):** *"Toxic symptoms subsided rapidly once the animal was isolated from the **exogenous** poisonous fumes."*
+> - 📜 **Walter Cannon (*The Wisdom of the Body*):** *"The kidney regulates blood volume by swiftly filtering out excess **exogenous** solutes consumed in food."*
+> - 📜 **Sigmund Freud (*Introductory Lectures on Psycho-Analysis*):** *"Neurotic symptoms frequently crystallize around an **exogenous** psychic trauma acting upon a vulnerable predisposition."*

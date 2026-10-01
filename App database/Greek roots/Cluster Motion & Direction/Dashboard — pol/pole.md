@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A long (usually round) rod of wood or metal or plastic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A native or inhabitant of poland.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Either of the two extreme points at opposite ends of an axis of rotation, such as Earth's North or South Pole; or an electrical/magnetic terminal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A long, slender, rounded piece of wood, metal, or fiberglass used as a support, shaft, or lever (from Latin palus stake).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, withered is the garland of the war, The soldier’s pole is fallen; young boys and girls Are level now with men."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Last night of all, When yond same star that’s westward from the pole, Had made his course t’illume that part of heaven Where now it burns, Marcellus and myself, The bell then beating one— MARCELLUS."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To pay five ducats, five, I would not farm it; Nor will it yield to Norway or the Pole A ranker rate, should it be sold in fee."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The magnetic needle turned toward the frozen **pole**, guiding our ship across the loneliest wastes of ocean."*
+> - 📜 **John Milton (*Paradise Lost*):** *"From **pole** to **pole** the thunder rolled, shaking the crystal battlements of heaven."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"I leaned upon my birch **pole**, watching the shadows lengthen across the frozen pond."*

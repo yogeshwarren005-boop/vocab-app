@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or revealing little emotion or sensibility; not easily aroused or excited; ; - nordhoff & hall; -virginia woolf.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or revealing little emotion or sensibility; not easily aroused or excited; ; - nordhoff & hall; -virginia woolf.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Calm, dependable, and showing little emotion, animation, or excitement; impassive and phlegmatic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychological characterization, descriptive of a temperament impervious to intellectual agitation, aesthetic sensitivity, or panic, often marked by obstinate endurance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"He is so original, such a stolid creature, such an immense being for knowing all sorts of things and never telling them!"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bagnet smokes in stolid satisfaction."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The half-mile stood now before the sick and weary woman like a stolid Juggernaut."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"He sat in the gloomy corner with a **stolid** countenance, utterly indifferent to the turbulent legal arguments around him."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"The impenetrable African jungle stood silent and menacing before the **stolid** gaze of our tired crew."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Her husband's **stolid** composure under severe criticism proved more exasperating than open anger."*

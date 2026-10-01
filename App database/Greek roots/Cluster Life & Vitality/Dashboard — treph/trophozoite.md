@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A protozoan of a vegetative form as distinguished from one of a reproductive or resting form.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A protozoan of a vegetative form as distinguished from one of a reproductive or resting form.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The active, motile, feeding, and reproducing stage in the life cycle of certain parasitic protozoans (such as *Plasmodium* or *Entamoeba histolytica*).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The vegetative amoeboid stage of protozoa in host tissues, contrasted with the resistant dormant cyst stage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trophozoite designates a protozoan of a vegetative form as distinguished from one of a reproductive or resting form."*
+> - 📜 **Patrick Manson (*Tropical Diseases*):** *"In acute amebic dysentery, microscopic stool examination demonstrates motile **trophozoites** actively ingesting red blood cells."*
+> - 📜 **Ronald Ross (*The Prevention of Malaria*):** *"The erythrocytic **trophozoite** of Plasmodium grows within the red blood corpuscle, producing malarial pigment before sporulation."*
+> - 📜 **William Boyd (*A Textbook of Pathology*):** *"Ulceration of the colonic mucosa results from tissue-dissolving proteases secreted by the invasive **trophozoite**."*

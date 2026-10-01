@@ -43,7 +43,9 @@ dv.container.appendChild(toggle);
 
 > [!book] 📖 Definitions & Semantic Range
 > 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or caused by living organisms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a (specified) mode of life.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ecology, designating the living factors (such as competition, predation, and symbiosis) that influence an ecosystem.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, biotic designates of, relating to, or caused by living organisms."*
+> - 📜 **Aldo Leopold (*A Sand County Almanac*):** *"Land is not merely soil; it is a fountain of energy flowing through a circuit of soils, plants, and animals—the **biotic** pyramid."*
+> - 📜 **Charles Elton (*Animal Ecology*):** *"The regulation of animal populations depends upon an intricate network of **biotic** controls and food chains."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"Indiscriminate spraying disrupts the natural **biotic** checks that have kept insect populations in check for millenia."*

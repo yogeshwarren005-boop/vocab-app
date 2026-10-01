@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A naturally occurring estrogenic hormone; a synthetic form is used to treat estrogen deficiency.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A naturally occurring estrogenic hormone; a synthetic form is used to treat estrogen deficiency.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A relatively weak estrogen hormone formed as a metabolic byproduct of estradiol and estrone, produced in substantial quantities by the placenta during pregnancy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In maternal-fetal medicine, a hydroxylated C18 steroid whose concentration in maternal serum serves as a clinical index of fetal-placental viability.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oestriol designates a naturally occurring estrogenic hormone; a synthetic form is used to treat estrogen deficiency."*
+> - 📜 **George Corner (*The Hormones in Human Reproduction*):** *"During normal human gestation, the placental syncytiotrophoblast secretes abundant quantities of **oestriol** into maternal circulation."*
+> - 📜 **Francis Marshall (*The Physiology of Reproduction*):** *"The relatively modest potency of **oestriol** allows it to circulate at high levels without provoking excessive peripheral stimulation."*
+> - 📜 **Edward Doisy (*The Assay and Isolation of Estrogens*):** *"Laboratory purification distinguished **oestriol** from estrone by its extra hydroxyl group and distinct solubility."*

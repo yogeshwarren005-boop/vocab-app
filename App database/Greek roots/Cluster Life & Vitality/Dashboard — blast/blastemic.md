@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to blastemata.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to blastemata.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or of the nature of a blastema.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Describing embryonic or regenerative tissues undergoing cellular organization into definitive structures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, blastemic designates of or relating to blastemata."*
+> - 📜 **William Roux (*Der Kampf der Theile im Organismus*):** *"The **blastemic** pool responds to localized mechanical stress by orienting cellular division planes accordingly."*
+> - 📜 **Hans Spemann (*Embryonic Development and Induction*):** *"The organizer region directs neighboring **blastemic** layers toward neural plate differentiation."*
+> - 📜 **Thomas Hunt Morgan (*Regeneration*):** *"Early mitotic figures in the **blastemic** bud indicate rapid renewal of regenerative competence."*

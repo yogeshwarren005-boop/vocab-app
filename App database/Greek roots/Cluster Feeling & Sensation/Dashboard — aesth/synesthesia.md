@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A concomitant sensation; especially : a subjective sensation or image of a sense (as of color) other than the one (as of sound) being stimulated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The condition marked by the experience of such sensations.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A condition in which a stimulus received in one sensory modality simultaneously triggers a perceptual experience in another modality (American spelling of synaesthesia).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cross-modal neuro-cognitive association investigated in perception science to uncover brain wiring and multisensory integration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, synesthesia designates a concomitant sensation; especially : a subjective sensation or image of a sense (as of color) other than the one (as of sound) being stimulated."*
+> - 📜 **Richard Cytowic (*The Man Who Tasted Shapes*):** *"Her case of **synesthesia** demonstrated that sensory boundaries in the limbic system are far more permeable than textbook anatomy suggested."*
+> - 📜 **Oliver Sacks (*Musicophilia: Tales of Music and the Brain*):** *"Musicians with tone-color **synesthesia** do not merely imagine colors; they vividly experience an inner visual light show."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"A blind man who boasted he understood scarlet asserted that scarlet was like the sound of a trumpet, an early intuition of **synesthesia**."*

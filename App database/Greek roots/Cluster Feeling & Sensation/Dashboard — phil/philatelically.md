@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a philatelic manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a philatelic manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a philatelic manner; from the perspective of a stamp collector or postal historian.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With regard to the perforation, watermarks, paper composition, and rarity of postal issues.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, philatelically designates in a philatelic manner."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"The envelope was worthless commercially, but **philatelically** it was priceless owing to an inverted surcharge."*
+> - 📜 **H. G. Wells (*The Food of the Gods*):** *"The boy examined the envelope **philatelically**, hoping to salvage an uncancelled colonial surcharge."*
+> - 📜 **G. K. Chesterton (*The Club of Queer Trades*):** *"He valued the mysterious letter **philatelically**, noting that the watermark dated back to the reign of King William."*

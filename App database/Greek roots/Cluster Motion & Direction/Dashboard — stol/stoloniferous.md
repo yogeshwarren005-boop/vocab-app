@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Producing stolons.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Producing stolons.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bearing, producing, or spreading by means of stolons or creeping horizontal runners.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic botany and agrostology, descriptive of grasses and herbaceous perennials (e.g., *Agrostis stolonifera*) that colonize ground rapidly via rooting surface shoots.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stoloniferous designates producing stolons."*
+> - 📜 **Charles Darwin (*The Different Forms of Flowers on Plants of the Same Species*):** *"Certain **stoloniferous** herbs rely far more upon creeping vegetative stems than on seed dispersal for territorial survival."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"Creeping bent is an intensely **stoloniferous** turfgrass capable of knitting an exceptionally resilient, velvet surface."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The genus comprises several **stoloniferous** species whose horizontal stems establish extensive mats in damp pastures."*

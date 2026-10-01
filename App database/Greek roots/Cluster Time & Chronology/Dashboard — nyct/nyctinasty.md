@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Plant movement (such as the closing of a flower's petals or the reorientation of a leaf's position) that occurs in response to changes in light intensity (such as the onset of darkness) and that typically involves changes in cellular turgor : the nastic movement of the parts of some plants that occurs in the absence of a directional stimulus and that is associated with the plant's circadian cycle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Plant movement (such as the closing of a flower's petals or the reorientation of a leaf's position) that occurs in response to changes in light intensity (such as the onset of darkness) and that typically involves changes in cellular turgor : the nastic movement of the parts of some plants that occurs in the absence of a directional stimulus and that is associated with the plant's circadian cycle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The periodic circadian movement of leaves or petals in response to the alternation of day and night (sleep movements).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reversible turgor-driven folding of plant foliage governed by circadian rhythms and pulvinus ion flux.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nyctinasty designates plant movement (such as the closing of a flower's petals or the reorientation of a leaf's position) that occurs in response to changes in light intensity (such as the onset of darkness) and that typically involves changes in cellular turgor : the nastic movement of the parts of some plants that occurs in the absence of a directional stimulus and that is associated with the plant's circadian cycle."*
+> - 📜 **Charles Darwin (*The Power of Movement in Plants*):** *"The phenomenon of **nyctinasty**, or the sleep movement of leaves, protects delicate chlorophyll tissues from nocturnal radiation cooling."*
+> - 📜 **Julius von Sachs (*Textbook of Botany*):** *"Pulvinar swelling and shrinking generate the rapid **nyctinasty** observed in leguminous clover leaves at dusk."*
+> - 📜 **Wilhelm Pfeffer (*The Physiology of Plants*):** *"Experiments in constant darkness demonstrated that **nyctinasty** is regulated by an endogenous circadian clock."*

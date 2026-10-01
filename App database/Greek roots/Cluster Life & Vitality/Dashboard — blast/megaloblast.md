@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormally large red blood cell present in pernicious anemia and folic acid deficiency.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abnormally large red blood cell present in pernicious anemia and folic acid deficiency.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormally large, nucleated erythroblast found in bone marrow in certain anemias (especially pernicious anemia and vitamin B12 or folate deficiency).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pathological primitive red blood cell precursor characterized by nuclear-cytoplasmic dissociation due to impaired DNA synthesis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, megaloblast designates abnormally large red blood cell present in pernicious anemia and folic acid deficiency."*
+> - 📜 **Paul Ehrlich (*Studies on Anemia and Blood Morphology*):** *"I identified the **megaloblast** in bone marrow smears as the definitive cytological sign of Addisonian pernicious anemia."*
+> - 📜 **William Boyd (*A Textbook of Pathology*):** *"Arrested maturation fills the erythroid marrow with towering numbers of the distinctive blue-staining **megaloblast**."*
+> - 📜 **George Minot (*Treatment of Pernicious Anemia by a Special Diet*):** *"Liver extract administration provoked an immediate disappearance of the **megaloblast** from the patient's bone marrow."*

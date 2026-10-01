@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or marked by fusion of unlike gametes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or marked by fusion of unlike gametes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by heterogamy; producing two or more distinct kinds of flowers or alternating between sexual and parthenogenetic generations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In composite botany and entomology, describing flower heads containing both bisexual and unisexual florets, or insects alternating between bisexual and asexual broods.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heterogamous designates having or marked by fusion of unlike gametes."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The flower head of the sunflower is **heterogamous**, bearing sterile or pistillate ray florets around bisexual tubular disk flowers."*
+> - 📜 **Charles Darwin (*The Different Forms of Flowers on Plants of the Same Species*):** *"In **heterogamous** composites, division of labor assigns attraction to marginal rays and seed production to central florets."*
+> - 📜 **John Lindley (*The Elements of Botany*):** *"We distinguish homogamous capitula from the **heterogamous** type where outer and inner florets differ in sexual constitution."*

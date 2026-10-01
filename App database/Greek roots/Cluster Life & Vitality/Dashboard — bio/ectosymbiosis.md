@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek bio.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Life & Vitality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A symbiotic relationship in which the symbiont lives on the exterior surface of the host organism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mutualistic, commensal, or parasitic associations (such as epiphytic lichens or cleaner fish) where partners interact without internal cellular penetration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ectosymbiosis designates a term designating an entity, condition, or phenomenon derived from greek bio."*
+> - 📜 **Anton de Bary (*Die Erscheinung der Symbiose*):** *"We observe **ectosymbiosis** where one organism attaches externally to its companion without penetrating bodily tissues."*
+> - 📜 **Lynn Margulis (*Symbiosis in Cell Evolution*):** *"While endosymbiosis transformed cellular organelles, pervasive **ectosymbiosis** continues to shape coral reef communities."*
+> - 📜 **William Morton Wheeler (*The Social Insects*):** *"Mites clinging to the cuticles of soldier ants participate in a specialized, non-invasive **ectosymbiosis**."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who makes plans.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who makes plans.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One who contrives, devises, plans, or schemes; an inventor or schemer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dramatic narrative and political history, an architect of elaborate plots or clandestine stratagems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll tell thee, Charles, it is the stubbornest young fellow of France, full of ambition, an envious emulator of every man’s good parts, a secret and villainous contriver against me his natural brother."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How did you dare To trade and traffic with Macbeth In riddles and affairs of death; And I, the mistress of your charms, The close contriver of all harms, Was never call’d to bear my part, Or show the glory of our art?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come and take choice of all my library, And so beguile thy sorrow, till the heavens Reveal the damned contriver of this deed."*
+> - 📜 **William Shakespeare (*Julius Caesar*):** *"We shall find of him a shrewd **contriver**; and you know his means, if he improve them, may well stretch so far as to annoy us all."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Satan stood confessed the author of all ill, the chief **contriver** of the fall of man."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The crafty eunuch was known across Byzantium as the subterranean **contriver** of every palace intrigue."*

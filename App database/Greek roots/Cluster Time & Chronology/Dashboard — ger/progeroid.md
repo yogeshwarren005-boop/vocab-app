@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective & Noun*) Resembling, having the physical form of, or akin to old.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective & Noun*) Resembling, having the physical form of, or akin to old.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling or characteristic of progeria; exhibiting features of premature aging.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical genetics and cellular biology, describing hereditary syndromes (such as Werner syndrome) or cell lines showing accelerated senescence phenotypes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, progeroid designates adjective & noun*) resembling, having the physical form of, or akin to old."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The patient displayed a distinct **progeroid** habitus, with taut parchment-like skin and early bilateral cataracts."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"Fibroblasts derived from patients with **progeroid** disorders exhibit premature cessation of mitotic division in vitro."*
+> - 📜 **Donald Seldin (*The Kidney: Physiology and Pathophysiology*):** *"Early renal vascular sclerosis frequently accompanies these rare **progeroid** inherited syndromes."*

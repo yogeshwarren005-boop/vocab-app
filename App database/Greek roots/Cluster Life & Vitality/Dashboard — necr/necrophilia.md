@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Obsession with and usually erotic interest in or stimulation by corpses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Obsession with and usually erotic interest in or stimulation by corpses.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A paraphilia characterized by sexual attraction to or sexual acts involving corpses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychoanalytic and social philosophy (such as Erich Fromm's theory), an attraction to all that is dead, mechanical, and destructive, contrasted with biophilia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, necrophilia designates obsession with and usually erotic interest in or stimulation by corpses."*
+> - 📜 **Erich Fromm (*The Anatomy of Human Destructiveness*):** *"I defined **necrophilia** in the psychological sense as the passionate attraction to that which is dead, decaying, and purely mechanical."*
+> - 📜 **Richard von Krafft-Ebing (*Psychopathia Sexualis*):** *"True clinical **necrophilia** represents the most monstrous perversion of the sexual impulse known to alienists."*
+> - 📜 **Havelock Ellis (*Studies in the Psychology of Sex*):** *"Cases of **necrophilia** demonstrate a profound dissociation between instinctual drive and empathetic human intimacy."*

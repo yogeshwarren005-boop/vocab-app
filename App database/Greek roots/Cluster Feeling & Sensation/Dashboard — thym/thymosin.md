@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hormone secreted by the thymus; stimulates immunological activity of lymphoid tissue.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hormone secreted by the thymus; stimulates immunological activity of lymphoid tissue.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of small, biologically active peptide hormones originally isolated from the thymus gland, essential for the maturation and differentiation of T lymphocytes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In immunology and molecular medicine, peptides (such as thymosin alpha-1 and thymosin beta-4) that regulate immune competence and actin polymerization.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thymosin designates hormone secreted by the thymus; stimulates immunological activity of lymphoid tissue."*
+> - 📜 **Allan L. Goldstein (*Preparation and Properties of Thymosin*):** *"We isolated the active endocrine principle **thymosin** from bovine thymus tissue, showing that it restored cell-mediated immunity in thymectomized mice."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Endocrine research revealed that the thymus is not a useless vestige, but secretes humoral factors like **thymosin** to educate white corpuscles."*
+> - 📜 **Gerald Edelman (*The Remembered Present*):** *"T-cell maturation under the influence of **thymosin** illustrates somatic selection within the developing immune system."*

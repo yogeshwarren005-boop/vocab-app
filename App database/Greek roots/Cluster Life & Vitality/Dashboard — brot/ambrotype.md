@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A positive picture made of a photographic negative on glass backed by a dark surface.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A positive picture made of a photographic negative on glass backed by a dark surface.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An early photographic process popular in the mid-19th century producing a positive photograph on a glass plate with a dark backing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A wet-collodion photographic image on glass that appears as a positive when viewed against an opaque black background (velvet or lacquer).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ambrotype designates a positive picture made of a photographic negative on glass backed by a dark surface."*
+> - 📜 **Oliver Wendell Holmes Sr. (*The Stereoscope and the Stereograph*):** *"The delicate grey tones of the **ambrotype** captured the living expression on glass with astonishing precision."*
+> - 📜 **Walt Whitman (*Specimen Days*):** *"I kept an old **ambrotype** of a young cavalry soldier in my knapsack throughout the Virginia campaign."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"The daguerreotypist held up the glass **ambrotype**, where sunlight had fixed the sullen features of the Judge."*

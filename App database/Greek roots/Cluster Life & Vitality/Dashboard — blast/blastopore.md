@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The opening into the archenteron.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The opening into the archenteron.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The opening into the archenteron (primitive digestive cavity) formed by invagination of the blastula wall during gastrulation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The embryonic orifice that develops into the mouth in protostomes and the anus in deuterostomes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, blastopore designates the opening into the archenteron."*
+> - 📜 **Ernst Haeckel (*The Gastraea Theory*):** *"The primary mouth or **blastopore** of the gastraea represents the most fundamental ancestral aperture of all Metazoa."*
+> - 📜 **Hans Spemann (*Embryonic Development and Induction*):** *"Transplantation of the dorsal lip of the **blastopore** induced a secondary embryonic axis upon the host flank."*
+> - 📜 **Alexander Kowalevsky (*Embryological Investigations on Amphioxus*):** *"Invagination of the vegetative hemisphere leads to complete closure of the **blastopore** as the neural folds unite."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In biology, phylogenetics is the study of the evolutionary history of life using observable characteristics of organisms, which is known as phylogenetic inference.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: It infers the relationship among organisms based on empirical data and observed heritable traits of DNA sequences, protein amino acid sequences, and morphology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of biology that studies the evolutionary relationships and history of species or groups of organisms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The computational and mathematical discipline that builds phylogenetic trees using molecular sequence data and anatomical characters.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phylogenetics designates in biology, phylogenetics is the study of the evolutionary history of life using observable characteristics of organisms, which is known as phylogenetic inference."*
+> - 📜 **Willi Hennig (*Phylogenetic Systematics*):** *"Rigorous cladistic methods transformed **phylogenetics** from subjective evolutionary storytelling into an objective empirical science."*
+> - 📜 **Carl Woese (*Bacterial Evolution*):** *"Molecular **phylogenetics** reconstructed the primary three-domain Tree of Life comprising Archaea, Bacteria, and Eucarya."*
+> - 📜 **Ernst Mayr (*Toward a New Philosophy of Biology*):** *"Modern **phylogenetics** combines statistical parsimony and maximum likelihood to resolve ancient evolutionary divergences."*

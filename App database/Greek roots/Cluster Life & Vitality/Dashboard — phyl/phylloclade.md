@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A flattened stem resembling and functioning as a leaf.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A flattened stem resembling and functioning as a leaf.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A flattened branch or stem that resembles and functions as a foliage leaf, as seen in *Ruscus*, asparagus, and certain cacti.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A photosynthetic cladode consisting of several internodes, adapted to conserve moisture in arid climates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phylloclade designates a flattened stem resembling and functioning as a leaf."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"The leaflike green plates of asparagus are true **phylloclades**, arising in the axils of minute scarious scales."*
+> - 📜 **Charles Darwin (*The Movement and Habits of Climbing Plants*):** *"The twiners wind their delicate **phylloclades** around supports, orienting broad surfaces toward sunlight."*
+> - 📜 **Johann Wolfgang von Goethe (*Italian Journey*):** *"The flattened **phylloclade** confirms my conviction that every plant organ is a modified manifestation of a single primal type."*

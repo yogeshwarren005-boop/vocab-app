@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of limulidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of limulidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of Asian horseshoe crabs (family Limulidae), including the Chinese and Indo-Pacific horseshoe crabs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine biology and invertebrate zoology, a genus of ancient chelicerate 'living fossils' characterized by a trilobite-like carapace and blue, copper-based hemocyanin blood used in endotoxin assays.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tachypleus designates a genus of limulidae."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The Asian horseshoe crab, classified under **Tachypleus**, preserves a body plan virtually unchanged since the Jurassic."*
+> - 📜 **Arthur Dendy (*Outlines of Evolutionary Biology*):** *"Marine biologists study **Tachypleus** to decipher the morphological transition between ancient trilobites and modern arachnids."*
+> - 📜 **Ernst Mayr (*Animal Species and Evolution*):** *"The slow morphological divergence of **Tachypleus** across millions of years represents a classic case of evolutionary bradytely."*

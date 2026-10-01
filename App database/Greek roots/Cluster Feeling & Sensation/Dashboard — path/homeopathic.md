@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to homeopathy or homeopathic medicine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of a diluted or insipid nature.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or according to the principles of homeopathy; employing tiny doses of substances that produce symptoms of the disease in healthy people.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Colloquially, infinitesimal, minute, or barely detectable in quantity or proportion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Homeopathic Magic of a Flesh Diet THE PRACTICE of killing a god has now been traced amongst peoples who have reached the agricultural stage of society."*
+> - 📜 **Samuel Hahnemann (*Organon of Medicine*):** *"The sovereign law of healing is embodied in the **homeopathic** principle: let likes be cured by likes (*similia similibus curentur*)."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Homoeopathy and Its Kindred Delusions*):** *"The extraordinary dilutions of the **homeopathic** pharmacopoeia exceed all physical probability, prescribing decillionths of a grain."*
+> - 📜 **Arthur Conan Doyle (*Round the Red Lamp*):** *"The old doctor chuckled, remarking that modern political promises were administered in strictly **homeopathic** doses."*

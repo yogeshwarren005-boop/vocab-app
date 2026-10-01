@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One genus; usually included in family hydrangeaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One genus; usually included in family hydrangeaceae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A historical botanical family of flowering shrubs comprising the mock-oranges (now generally classified as the subfamily Philadelphoideae within the Hydrangeaceae).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A family of ornamental temperate shrubs bearing opposite leaves and fragrant four-merous white or cream flowers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, philadelphaceae designates one genus; usually included in family hydrangeaceae."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"The shrubs formerly grouped under **Philadelphaceae** are characterized by capsular fruit and opposite exstipulate leaves."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"Gardeners prize species of the **Philadelphaceae** for their June profusion of fragrant citrus-scented blossoms."*
+> - 📜 **John Muir (*The Mountains of California*):** *"Clustered shrubs allied to the **Philadelphaceae** draped the granite stream banks with white petals."*

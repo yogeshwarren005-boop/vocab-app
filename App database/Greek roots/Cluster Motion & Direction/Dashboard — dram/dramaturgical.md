@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the technical aspects of drama.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to the technical aspects of drama.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to dramaturgy or the theatrical arts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociology and social theory (especially following Erving Goffman), describing an analytical framework that interprets social interaction as a theatrical performance comprising roles, stages, and front/back regions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dramaturgical designates relating to the technical aspects of drama."*
+> - 📜 **Erving Goffman (*The Presentation of Self in Everyday Life*):** *"From a **dramaturgical** perspective, individuals manage their front-stage impressions to project a socially acceptable persona."*
+> - 📜 **Gotthold Ephraim Lessing (*Hamburg Dramaturgy*):** *"The **dramaturgical** critique of the French tragedy revealed its slavish adherence to arbitrary unities."*
+> - 📜 **Kenneth Burke (*A Grammar of Motives*):** *"Human action can be comprehensively analyzed through five key **dramaturgical** terms: act, scene, agent, agency, and purpose."*

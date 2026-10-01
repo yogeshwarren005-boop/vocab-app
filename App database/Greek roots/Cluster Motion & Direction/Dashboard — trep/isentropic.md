@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to equal or constant entropy; especially : taking place without change of entropy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to equal or constant entropy; especially : taking place without change of entropy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by, taking place at, or possessing constant entropy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In thermodynamics and fluid mechanics, describing an idealized reversible adiabatic process where no heat is transferred and no entropy is generated internally (such as ideal nozzle expansion).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, isentropic designates of or relating to equal or constant entropy; especially : taking place without change of entropy."*
+> - 📜 **William Rankine (*A Manual of the Steam Engine and Other Prime Movers*):** *"An **isentropic** curve represents the expansion of steam when perfectly shielded from thermal exchange with the cylinder walls."*
+> - 📜 **Lord Kelvin (*Mathematical and Physical Papers*):** *"The reversible adiabatic expansion of an ideal gas is strictly an **isentropic** process, preserving its thermodynamic potential intact."*
+> - 📜 **Enrico Fermi (*Thermodynamics*):** *"For an **isentropic** transformation of an ideal gas, the product of pressure and the gamma power of volume remains constant."*

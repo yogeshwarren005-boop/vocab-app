@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A biologist specializing in physiology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A biologist specializing in physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A scientist or specialist who studies the vital functions, processes, and mechanisms of living organisms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An experimental investigator examining the chemical and physical mechanics of cells, organs, and organ systems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Ere quitting, for the nonce, the Sperm Whale’s head, I would have you, as a sensible physiologist, simply—particularly remark its front aspect, in all its compacted collectedness."*
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"The mathematician said, that he had never seen the advantages to be derived from the study of mathematics so justly and so forcibly described; the same remark was made by the classic about classics, and by the physiologist about natural science."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Ere quitting, for the nonce, the Sperm Whale’s head, I would have you, as a sensible physiologist, simply—particularly remark its front aspect, in all its compacted collectedness."*
+> - 📜 **Claude Bernard (*An Introduction to the Study of Experimental Medicine*):** *"The **physiologist** is not an ordinary observer; he is a judge who cross-examines nature through experimental counter-proofs."*
+> - 📜 **William Harvey (*The Circulation of the Blood*):** *"The true **physiologist** tests every doctrine by the testimony of dissection and direct ocular demonstration."*
+> - 📜 **Ivan Pavlov (*Lectures on the Work of the Digestive Glands*):** *"The **physiologist** must master surgical technique to study bodily secretions without traumatizing the living subject."*

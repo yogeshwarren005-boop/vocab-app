@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Chiefly deep-sea fishes related to the ophidiidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Chiefly deep-sea fishes related to the ophidiidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family (or historically recognized family) of marine cusk-eels (order Ophidiiformes), now commonly placed within Ophidiidae or as subfamily Brotulinae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A family of benthic and pelagic eel-like marine fishes characterized by tapering bodies, reduced pelvic fins, and nocturnal or deep-sea habitats.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, brotulidae designates chiefly deep-sea fishes related to the ophidiidae."*
+> - 📜 **David Starr Jordan (*The Genera of Fishes*):** *"Lankester grouped these nocturnal cusk-eels within the family **Brotulidae**, citing their distinctive barbels and sensory pore systems."*
+> - 📜 **George Brown Goode (*Oceanic Ichthyology*):** *"Abyssal dredges brought up rare representatives of the **Brotulidae** from depths exceeding one thousand fathoms."*
+> - 📜 **Ray Lankester (*A Treatise on Zoology*):** *"Morphological specialization among the **Brotulidae** includes viviparity and complete adaptation to the bathypelagic environment."*

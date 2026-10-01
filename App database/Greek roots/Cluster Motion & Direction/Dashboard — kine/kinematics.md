@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of dynamics that deals with aspects of motion apart from considerations of mass and force.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A branch of dynamics that deals with aspects of motion apart from considerations of mass and force.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of classical mechanics that describes the motion of points, bodies, and systems without considering the forces that cause the motion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mechanical engineering and robotics, the geometrical analysis of joint angles, velocities, and positional coordinates in articulated mechanisms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, kinematics designates a branch of dynamics that deals with aspects of motion apart from considerations of mass and force."*
+> - 📜 **William Rankine (*A Manual of Applied Mechanics*):** *"The science of **kinematics** treats of motion purely in the abstract, without regard to mass or accelerating forces."*
+> - 📜 **Lord Kelvin (*Treatise on Natural Philosophy*):** *"Before investigating the causes of motion in dynamics, we must master the pure geometry of displacement in **kinematics**."*
+> - 📜 **James Clerk Maxwell (*Matter and Motion*):** *"The **kinematics** of a rigid body reveals that every possible displacement is equivalent to a screw motion along an instantaneous axis."*

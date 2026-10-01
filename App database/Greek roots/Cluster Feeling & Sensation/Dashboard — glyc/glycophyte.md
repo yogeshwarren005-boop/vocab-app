@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek glyc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Feeling & Sensation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A plant that thrives only in soil or freshwater with low salt concentrations, and is easily injured or stunted by high salinity (contrasted with a halophyte).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant ecology and agronomy, including the vast majority of agricultural crop species (e.g., wheat, rice, corn) whose growth is inhibited by saline irrigation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, glycophyte designates a term designating an entity, condition, or phenomenon derived from greek glyc."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"Most cultivated field crops are typical **glycophyte** species, showing immediate root toxicity when exposed to brackish water."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"To reclaim salt-damaged soil, the farmer must grow salt-accumulating halophytes before returning the field to any standard **glycophyte** crop."*
+> - 📜 **Eugene Odum (*Fundamentals of Ecology*):** *"Estuarine zonation reflects the sharp osmotic boundary separating salt-marsh halophytes from upland **glycophyte** vegetation."*

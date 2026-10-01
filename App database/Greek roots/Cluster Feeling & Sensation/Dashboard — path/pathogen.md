@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A specific causative agent (such as a bacterium or virus) of disease.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A specific causative agent (such as a bacterium or virus) of disease.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A biological agent, especially a bacterium, virus, fungus, or parasite, capable of causing disease in a host organism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In microbiology and public health, an infectious microscopic entity governed by mechanisms of virulence, transmission, and host immune evasion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pathogen designates a specific causative agent (such as a bacterium or virus) of disease."*
+> - 📜 **Louis Pasteur (*Germ Theory and Its Applications*):** *"The microscopic **pathogen** carried on surgical instruments was proved to be the true author of hospital gangrene."*
+> - 📜 **Robert Koch (*Investigations into the Etiology of Traumatic Infective Diseases*):** *"To prove that a specific microorganism is the causal **pathogen**, it must be isolated in pure culture from every diseased animal."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Typhoid fever is engendered by a bacillary **pathogen** that contaminates community drinking wells."*

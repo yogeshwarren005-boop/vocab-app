@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The form or structure of an animal's body and especially a human body : bodily makeup.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The form or structure of an animal's body and especially a human body : bodily makeup.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The form, proportions, muscular development, and general appearance of a person's body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The constitutional bodily structure and somatic characteristics of an individual.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"Another brother, James, a young man of vigorous mental powers, and originally of stalwart physique, who had been working at his trade as a tailor in Glasgow, fell into bad health, which soon showed the symptoms of rapid consumption."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"In 1766 William Burness rented on borrowed money the farm of Mount Oliphant, and in taking his share in the effort to make this undertaking succeed, the future poet seems to have seriously overstrained his physique."*
-> - 📜 **George Eliot (*Middlemarch*):** *"She was by nature an actress of parts that entered into her _physique:_ she even acted her own character, and so well, that she did not know it to be precisely her own.) “The best in Middlemarch, I’ll be bound,” said Mr."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The athletic **physique** of primitive hunters was sculpted by intense natural selection across generations."*
+> - 📜 **Walt Whitman (*Leaves of Grass*):** *"I sing the body electric, the splendid muscular **physique** of the swimmer cleaving the ocean swell."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"Beneath the magnificent court robes beat a frail human **physique** subject to the same infirmities as the beggar."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Devise, plan.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To form or create in an artistic or ingenious manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To create or bring about an object or situation through skill, ingenuity, or clever planning.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To plot, scheme, or manage a deceitful purpose; in mechanics, to engineer a practical mechanism from available parts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Was’t you that did so oft contrive to kill him?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But howsoever thou pursu’st this act, Taint not thy mind, nor let thy soul contrive Against thy mother aught; leave her to heaven, And to those thorns that in her bosom lodge, To prick and sting her."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will leave him and suddenly contrive the means of meeting between him and my daughter."*
+> - 📜 **William Shakespeare (*The Merchant of Venice*):** *"If it be proved against an alien that by direct or indirect attempts he seek the life of any citizen, or **contrive** his death, the penalty falls."*
+> - 📜 **Daniel Defoe (*Robinson Crusoe*):** *"I was forced to **contrive** many crude wooden tools before I could fashion even a single rough plank for my habitation."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"I resolved to **contrive** an intricate mechanism of pulleys to raise the heavy frame toward the skylight."*

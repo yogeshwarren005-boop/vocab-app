@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A pair of equal and opposite electric charges or magnetic poles of opposite sign separated especially by a small distance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A body or system (such as a molecule) having such charges or poles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A pair of equal and oppositely charged electric charges or magnetic poles separated by a distance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In molecular physics, a molecule (such as water) with an asymmetric charge distribution creating an electric dipole moment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dipole designates a pair of equal and opposite electric charges or magnetic poles of opposite sign separated especially by a small distance."*
+> - 📜 **Peter Debye (*Polar Molecules*):** *"The permanent electric **dipole** moment of the water molecule explains its high dielectric constant and solvent power."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"Electronegativity differences between bonded atoms generate a localized bond **dipole**."*
+> - 📜 **Richard Feynman (*The Feynman Lectures on Physics*):** *"The radiation emitted by an oscillating **dipole** forms the elementary basis of classical electrodynamics."*

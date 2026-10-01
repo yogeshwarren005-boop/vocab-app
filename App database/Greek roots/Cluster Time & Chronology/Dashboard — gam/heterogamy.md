@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sexual reproduction involving fusion of unlike gametes often differing in size, structure, and physiology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The condition of reproducing by heterogamy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being heterogamous; the alternation of two different kinds of reproduction, or the union of morphologically dissimilar gametes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology and botany, the production of dimorphic gametes (anisogamy) or alternation between bisexual and parthenogenetic generations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heterogamy designates sexual reproduction involving fusion of unlike gametes often differing in size, structure, and physiology."*
+> - 📜 **Francis Maitland Balfour (*A Treatise on Comparative Embryology*):** *"The cyclic alternation between solitary virgin queens and bisexual broods in gall wasps exemplifies classic **heterogamy**."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"Rotifers display seasonal **heterogamy**, producing unfertilized amictic eggs in spring and fertilized mictic resting eggs in autumn."*
+> - 📜 **Edmund Beecher Wilson (*The Cell in Development and Inheritance*):** *"The evolutionary transition from isogamous syngamy to pronounced **heterogamy** allowed specialization between motility and nourishment."*

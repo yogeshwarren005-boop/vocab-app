@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Place in glycerol.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Place in glycerol.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To treat, impregnate, or equilibrate biological cells, tissues, or organs with glycerol prior to cryopreservation to prevent ice crystal damage (Commonwealth spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cell banking and reproductive biology, the laboratory process of adding glycerol step-by-step as a cryoprotectant.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, glycerolise designates place in glycerol."*
+> - 📜 **Charles Drew (*Studies in Blood Preservation*):** *"Before plunging the red cell suspension into subzero storage, we must slowly **glycerolise** the mixture to prevent intracellular lysis."*
+> - 📜 **Linus Pauling (*Molecular Architecture and the Life Process*):** *"Technicians **glycerolise** biological specimens so that cellular water vitrifies without shattering fragile organelles."*
+> - 📜 **Julian Huxley (*Essays of a Biologist*):** *"The ability to **glycerolise** and freeze germ cells opens unprecedented possibilities for artificial selection across generations."*

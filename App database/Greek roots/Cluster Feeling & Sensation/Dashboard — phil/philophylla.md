@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Leaf miners.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Leaf miners.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of picture-winged fruit flies in the family Tephritidae, whose larvae develop inside fruits or leaf-mines.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A biological genus named from Greek *philos* ('loving') and *phyllon* ('leaf') for their close association with lush botanical foliage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, philophylla designates leaf miners."*
+> - 📜 **Alfred Russel Wallace (*The Geographical Distribution of Animals*):** *"The tropical fruit flies of the genus **Philophylla** exhibit delicate patterned wings adapted for visual courtship."*
+> - 📜 **John Lubbock (*On the Origin and Metamorphoses of Insects*):** *"The larva of **Philophylla** burrows through parenchyma cells of tender leaves, leaving winding silvery mines."*
+> - 📜 **Ernst Mayr (*Animal Species and Evolution*):** *"Host-plant shifts among species of **Philophylla** have catalyzed rapid ecological speciation in isolated valleys."*

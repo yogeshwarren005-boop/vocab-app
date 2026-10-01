@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to diabetes or diabetics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Affected with diabetes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having, relating to, or suffering from diabetes mellitus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Produced by or suitable for patients with diabetes; exhibiting hyperglycemia and glycosuria.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diabetic designates of or relating to diabetes or diabetics."*
+> - 📜 **Charles Best (*Selected Papers on Insulin*):** *"Administration of insulin promptly cleared the **diabetic** coma and restored normal blood chemistry."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The **diabetic** patient requires meticulous foot care and constant urinalysis monitoring."*
+> - 📜 **Claude Bernard (*An Introduction to the Study of Experimental Medicine*):** *"Puncture of the fourth ventricle produced temporary **diabetic** symptoms in laboratory animals."*

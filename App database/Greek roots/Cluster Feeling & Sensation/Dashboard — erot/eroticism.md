@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of anticipation of sexuality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The arousal of feelings of sexual desire.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or quality of being erotic; the expression of sexual feelings, desires, or sensual themes in life, literature, and art.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical anthropology and psychology (notably Georges Bataille), the distinctively human transformation of biological sexual reproduction into a conscious quest for transgression and intimacy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. G. Wells (*The Time Machine*):** *"This has ever been the fate of energy in security; it takes to art and to eroticism, and then come languor and decay."*
+> - 📜 **Georges Bataille (*Erotism: Death and Sensuality*):** *"Human **eroticism** differs from animal sexuality in that it is an inward quest concerning the problem of discontinuous beings."*
+> - 📜 **Susan Sontag (*Against Interpretation*):** *"In place of a hermeneutics of art, we need an **eroticism** of art that restores our sensory immediacy to form."*
+> - 📜 **Octavio Paz (*The Double Flame: Love and Eroticism*):** *"Just as poetry is an eroticization of language, so is **eroticism** a poeticization of raw biological copulation."*

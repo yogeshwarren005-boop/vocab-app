@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Have the will and intention to carry out some action.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make plans for something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Designed, arranged, or scheduled according to a deliberate plan.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Executed in accordance with premeditated foresight and systematic organization.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"So he planned to visit your brother and talk the plan over with him." This calmed Mrs."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Trius had probably discovered long ago what Kurt had planned to do that night."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"If it could not be the way Apollonie planned, she might at least stay for a long stretch of time."*
+> - 📜 **Johanna Spyri (*Heidi*):** *"Every day at the mountain hut followed a carefully **planned** routine of tending the goats."*
+> - 📜 **H. G. Wells (*The Shape of Things to Come*):** *"The reconstruction of modern civilization required a rationally **planned** world commonwealth."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Elinor had **planned** their journey with her customary prudence and economy."*

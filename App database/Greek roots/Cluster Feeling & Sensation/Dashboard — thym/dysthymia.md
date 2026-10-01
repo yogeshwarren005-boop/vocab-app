@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mood disorder characterized by chronic mildly depressed or irritable mood often accompanied by other symptoms (such as eating and sleeping disturbances, fatigue, and poor self-esteem) —called also dysthymic disorder.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mood disorder characterized by chronic mildly depressed or irritable mood often accompanied by other symptoms (such as eating and sleeping disturbances, fatigue, and poor self-esteem) —called also dysthymic disorder.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Persistent depressive disorder; a chronic, low-grade form of depression characterized by low mood, fatigue, low self-esteem, and anhedonia lasting two or more years.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Derived from Greek *dys-* ('bad' or 'ill') and *thymos* ('spirit' or 'mind'); in classical antiquity, general despondency or distress of soul.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dysthymia designates a mood disorder characterized by chronic mildly depressed or irritable mood often accompanied by other symptoms (such as eating and sleeping disturbances, fatigue, and poor self-esteem) —called also dysthymic disorder."*
+> - 📜 **Hippocrates (*Aphorisms*):** *"If fright and **dysthymia** last for a long time, such a state of mind is characteristic of melancholy."*
+> - 📜 **Emil Kraepelin (*Manic-Depressive Insanity and Paranoia*):** *"Chronic constitutional depression, which we classify as **dysthymia**, casts a joyless gray pall over the patient's entire lifespan."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"The soul afflicted with chronic **dysthymia** feels that the universe is a hollow mockery, bereft of all divine warmth."*

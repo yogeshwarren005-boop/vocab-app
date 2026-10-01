@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek presby.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Time & Chronology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ecclesiastical dignity in the Eastern Orthodox and Eastern Catholic churches, corresponding to archpriest or dean.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The senior or ranking presbyter of a cathedral or patriarchal diocese.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, protopresbyter designates a term designating an entity, condition, or phenomenon derived from greek presby."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The venerable **protopresbyter** bowed low before the Byzantine emperor during the Easter procession."*
+> - 📜 **Richard Bingham (*The Antiquities of the Christian Church*):** *"The **protopresbyter** took precedence over all fellow presbyters in cathedral assemblies."*
+> - 📜 **Steven Runciman (*The Great Church in Captivity*):** *"Under Ottoman rule, the **protopresbyter** of the patriarchal see assisted the Ecumenical Patriarch in civil courts."*

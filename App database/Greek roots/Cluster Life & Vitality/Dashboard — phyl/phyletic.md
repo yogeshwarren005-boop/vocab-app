@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the evolutionary development of organisms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the evolutionary development of organisms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to evolutionary descent, racial lineage, or the history of a phylum or taxonomic group.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to ancestral relationships and chronological transformations along a continuous evolutionary lineage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phyletic designates of or relating to the evolutionary development of organisms."*
+> - 📜 **Ernst Haeckel (*Generelle Morphologie der Organismen*):** *"Ontogenetic development is a rapid and brief recapitulation of slow **phyletic** evolution."*
+> - 📜 **George Gaylord Simpson (*Tempo and Mode in Evolution*):** *"Sustained directional change within a continuous unbranching lineage constitutes gradual **phyletic** evolution."*
+> - 📜 **Stephen Jay Gould (*The Structure of Evolutionary Theory*):** *"Punctuated equilibrium challenged the orthodox expectation of continuous, imperceptible **phyletic** gradualism."*

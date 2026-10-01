@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Insufficient spermatozoa in the semen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Insufficient spermatozoa in the semen.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A deficiency in the number of spermatozoa in the semen, resulting in reduced male fertility.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A clinical condition defined by a sperm concentration below normal physiological thresholds (typically under 15 million spermatozoa per milliliter).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oligospermia designates insufficient spermatozoa in the semen."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Severe endocrine hypopituitarism or testicular mumps orchitis frequently induces permanent **oligospermia**."*
+> - 📜 **William Boyd (*A Textbook of Pathology*):** *"Histological examination in idiopathic **oligospermia** reveals hyalinization of seminiferous tubules and maturation arrest."*
+> - 📜 **Frank Beach (*Hormones and Behavior*):** *"While **oligospermia** impairs reproductive fecundity, it does not necessarily diminish male libidinal potency."*

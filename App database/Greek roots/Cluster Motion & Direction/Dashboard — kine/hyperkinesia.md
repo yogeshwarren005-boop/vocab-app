@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hyperkinesis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hyperkinesis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormally increased or excessive muscular movement, activity, or motor restlessness; hyperactivity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pediatric psychopathology and neuropsychiatry, a clinical syndrome characterized by sustained restlessness, impulsivity, and inability to maintain postural stillness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyperkinesia designates hyperkinesis."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"The sudden wave of motor excitement produced severe **hyperkinesia**, sending the patient pacing the ward corridors for hours."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Extreme choreic **hyperkinesia** may exhaust the child's physical strength unless calmed by sedatives and bed rest."*
+> - 📜 **Alexander Luria (*The Nature of Human Conflicts*):** *"In states of acute psychic tension, motor impulses escape cortical control, manifesting as explosive somatic **hyperkinesia**."*

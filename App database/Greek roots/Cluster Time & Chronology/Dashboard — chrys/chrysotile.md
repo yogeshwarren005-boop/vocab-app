@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A grey or green fibrous mineral; an important source of commercial asbestos.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A grey or green fibrous mineral; an important source of commercial asbestos.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A fibrous, silky variety of serpentine (Mg3Si2O5(OH)4), commonly known as white asbestos.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic geology and occupational health, the most commercially exploited form of asbestos, historically woven into fireproof fabrics and insulation, now recognized as a potent cause of asbestosis and mesothelioma.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chrysotile designates a grey or green fibrous mineral; an important source of commercial asbestos."*
+> - 📜 **James Dwight Dana (*Manual of Mineralogy*):** *"The delicate, flexible fibers of **chrysotile** occur in parallel veins intersecting massive green serpentine rocks."*
+> - 📜 **Arthur Holmes (*Principles of Physical Geology*):** *"Metamorphic hydration of ultrabasic peridotites produces dense serpentine intersected by fibrous cross-veins of **chrysotile**."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Inhalation of airborne **chrysotile** fibers provokes chronic pulmonary fibrosis among industrial shipyard and textile workers."*

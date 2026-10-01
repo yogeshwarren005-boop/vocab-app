@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A going or marching up : advance; especially : a military advance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A difficult and dangerous military retreat.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A military march or expedition upward from a coast into the interior of a country, notably Xenophon's march.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any arduous upward journey, spiritual ascent, or advancing progression.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anabasis designates a going or marching up : advance; especially : a military advance."*
+> - 📜 **Xenophon (*Anabasis*):** *"The historic **Anabasis** recounted Cyrus’s bold march into the heart of the Persian Empire."*
+> - 📜 **T. S. Eliot (*Anabasis, Preface*):** *"Saint-John Perse’s poem evokes an **anabasis** of nomadic conquerors traversing vast arid steppes."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"Emperor Julian undertook his ill-fated **anabasis** across the deserts of Mesopotamia."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to blastogenesis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to blastogenesis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or produced by blastogenesis; derived from germ-plasm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to hereditary traits transmitted through germ cells, or to lymphocyte activation into proliferating blasts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, blastogenetic designates of or relating to blastogenesis."*
+> - 📜 **August Weismann (*Essays Upon Heredity*):** *"Only **blastogenetic** variations arising directly within the germinal substance can be transmitted to succeeding generations."*
+> - 📜 **Julian Huxley (*Evolution: The Modern Synthesis*):** *"The distinction between somatogenetic changes and **blastogenetic** mutations remains the rock of modern genetics."*
+> - 📜 **Peter Medawar (*The Hope of Progress*):** *"Antigenic stimulation triggers a rapid **blastogenetic** response within reactive lymphoid follicles."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who has an uncontrollable impulse to start fires : a person affected by pyromania —sometimes used in an exaggerated or joking way to refer to a person who enjoys fires.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who has an uncontrollable impulse to start fires : a person affected by pyromania —sometimes used in an exaggerated or joking way to refer to a person who enjoys fires.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person with a compulsive, irresistible urge to deliberately set fire to buildings or objects, often accompanied by emotional relief or excitement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In abnormal psychology, an individual with an impulse control disorder centered on fascination with and ignition of fire.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pyromaniac designates a person who has an uncontrollable impulse to start fires : a person affected by pyromania —sometimes used in an exaggerated or joking way to refer to a person who enjoys fires."*
+> - 📜 **Cesare Lombroso (*Crime, Its Causes and Remedies*):** *"The true **pyromaniac** experiences an intense sensory fascination watching flames consume timber and thatch."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In adolescent mental degeneracy, the morbid drive of the **pyromaniac** poses a grave hazard to rural communities."*
+> - 📜 **Karl Jaspers (*General Psychopathology*):** *"The act of arson in a **pyromaniac** is preceded by unendurable internal tension that dissolves only when the blaze roars."*

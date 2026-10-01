@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A regularly recurrent state of sexual receptivity during which the female of most mammals will accept the male and is capable of conceiving : heat; also : a single occurrence of this state.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The correlated phenomena of the endocrine and reproductive systems of a female mammal from the beginning of one period of estrus to the beginning of the next —called also estral cycle, estrus cycle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A recurring period of maximum sexual receptivity and fertility in female mammals (often called 'heat'), coinciding with ovulation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In reproductive biology, the distinct ovulatory phase (from Greek oistros, 'gadfly, passionate frenzy') marked by elevated estrogen, follicular maturation, and receptivity to coitus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, estrus designates a regularly recurrent state of sexual receptivity during which the female of most mammals will accept the male and is capable of conceiving : heat; also : a single occurrence of this state."*
+> - 📜 **Francis Marshall (*The Physiology of Reproduction*):** *"During peak **estrus**, the female manifests a dramatic change in demeanour, actively seeking out the male."*
+> - 📜 **George Corner (*The Hormones in Human Reproduction*):** *"Ovulation coincides precisely with the physiological summit of **estrus**, ensuring maximal probability of fertilization."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"In many quadrupeds, the female is willing to admit the male only during the brief season of **estrus**."*

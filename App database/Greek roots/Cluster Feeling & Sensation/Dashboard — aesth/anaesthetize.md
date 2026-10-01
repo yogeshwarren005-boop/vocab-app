@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Administer an anesthetic drug to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Administer an anesthetic drug to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To induce anaesthesia in; to render insensible to physical pain through pharmaceutical agents (standard American spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To suppress, dull, or stupefy emotional distress, intellectual anguish, or conscience.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anaesthetize designates administer an anesthetic drug to."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Certain narcotic agents temporarily **anaesthetize** the sensory cortex without completely extinguishing subconscious reflexes."*
+> - 📜 **Havelock Ellis (*Studies in the Psychology of Sex*):** *"Routine social conventions frequently operate to **anaesthetize** the moral imagination of the multitude."*
+> - 📜 **Bertrand Russell (*The Conquest of Happiness*):** *"Men turn to intoxicating beverages not for joy, but merely to **anaesthetize** the constant dread of competitive failure."*

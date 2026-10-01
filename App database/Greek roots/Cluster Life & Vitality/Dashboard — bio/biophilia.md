@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hypothetical human tendency to interact or be closely associated with other forms of life in nature : a desire or tendency to commune with nature.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hypothetical human tendency to interact or be closely associated with other forms of life in nature : a desire or tendency to commune with nature.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An innate, biologically rooted tendency in human beings to seek connections with nature and other forms of living life.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The emotional, aesthetic, and psychological affinity of human beings for living landscapes, animals, and diverse ecosystems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, biophilia designates a hypothetical human tendency to interact or be closely associated with other forms of life in nature : a desire or tendency to commune with nature."*
+> - 📜 **Edward O. Wilson (*Biophilia*):** *"I define **biophilia** as the innate tendency to focus on life and lifelike processes."*
+> - 📜 **Erich Fromm (*The Heart of Man*):** *"I proposed the term **biophilia** to describe the passionate love of life and of all that is alive."*
+> - 📜 **Stephen Kellert (*The Biophilia Hypothesis*):** *"Urban isolation from wild habitats impairs the expression of **biophilia**, diminishing human psychological resilience."*

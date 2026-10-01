@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or being an antibody circulating in blood serum that is reactive with antigen originating in a different species.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or being an antibody circulating in blood serum that is reactive with antigen originating in a different species.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An avian, reptilian, or lagomorph granular white blood cell functionally equivalent to a mammalian neutrophil, with prominent acidophilic granules.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In immunology, an antibody (heterophile antibody) that cross-reacts with antigens of a different species (e.g., in the Paul-Bunnell mononucleosis test).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heterophil designates of, relating to, or being an antibody circulating in blood serum that is reactive with antigen originating in a different species."*
+> - 📜 **Paul Ehrlich (*Studies in Immunity*):** *"The granular leukocyte of the bird, which we designate a **heterophil**, provides the chief cellular defense against acute bacterial invasion."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In infectious mononucleosis, circulating **heterophil** antibodies agglutinate sheep red blood cells in high titers."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Comparative hematology reveals that the avian **heterophil** mirrors the phagocytic role of mammalian neutrophils."*

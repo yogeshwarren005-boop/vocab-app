@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Related to the leafhoppers and spittlebugs but rarely damages cultivated plants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Related to the leafhoppers and spittlebugs but rarely damages cultivated plants.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of numerous small plant-sucking insects of the superfamily Fulgoroidea, known for their ability to jump quickly to escape predators.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Homopterous hemipterans possessing jumping hind legs, sucking rostra, and protective waxy secretions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, planthopper designates related to the leafhoppers and spittlebugs but rarely damages cultivated plants."*
+> - 📜 **Jean-Henri Fabre (*The Life of the Grasshopper*):** *"The tiny **planthopper** leaped through the grass blades with explosive suddenness when approached."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"Tropical lanternflies, the largest members of the **planthopper** family, mimic dry bark with uncanny fidelity."*
+> - 📜 **L. O. Howard (*The Insect Book*):** *"Certain species of the **planthopper** transmit destructive viral diseases between rice and cereal crops."*

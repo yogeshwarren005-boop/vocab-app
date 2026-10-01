@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek gen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Life & Vitality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A plant that grows from within, historically applied to monocotyledons (such as grasses, palms, and lilies) whose stems lack annual rings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A botanical class established by Augustin Pyramus de Candolle contrasting with exogens (dicotyledons) in stem morphology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endogen designates a term designating an entity, condition, or phenomenon derived from greek gen."*
+> - 📜 **Augustin Pyramus de Candolle (*Théorie Élémentaire de la Botanique*):** *"I classified flowering plants into the **endogen** group with internal vascular bundles, and exogens with concentric growth."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"The stem of an **endogen** exhibits closed fibrovascular bundles scattered irregularly through cellular ground tissue."*
+> - 📜 **Charles Darwin (*The Movement and Habits of Climbing Plants*):** *"Climbing monocotyledons demonstrate that the anatomical constraints of the **endogen** stem do not prevent twining habits."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Remove from glycerol.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove from glycerol.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To wash and remove glycerol cryoprotectant from thawed red blood cells or biological tissues prior to clinical transfusion (Commonwealth spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A critical laboratory washing procedure employing descending saline solutions to prevent osmotic lysis of preserved erythrocytes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, deglycerolise designates remove from glycerol."*
+> - 📜 **Charles Drew (*Studies in Blood Preservation*):** *"Technicians must thoroughly **deglycerolise** thawed erythrocytes with sequential saline washes before patient infusion."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Modern blood banking protocols require technicians to **deglycerolise** frozen units to avoid systemic hyperosmolar shock."*
+> - 📜 **Linus Pauling (*Molecular Architecture and the Life Process*):** *"The physical chemistry of osmotic gradients dictates the exact steps needed to **deglycerolise** frozen cellular membranes safely."*

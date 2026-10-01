@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the hypophysis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the hypophysis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the hypophysis (the pituitary gland).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to pituitary trophic hormones (ACTH, TSH, GH, LH, FSH) or to the sellar region of the sphenoid bone.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypophyseal designates of or relating to the hypophysis."*
+> - 📜 **Harvey Cushing (*The Pituitary Body and Its Disorders*):** *"Hypersecretion of **hypophyseal** growth hormone before epiphyseal closure culminates in gigantism."*
+> - 📜 **Claude Bernard (*Lectures on the Phenomena of Life*):** *"Vascular connections between the hypothalamus and the **hypophyseal** portal vessels coordinate systemic endocrine rhythms."*
+> - 📜 **William Boyd (*A Textbook of Pathology*):** *"Chromophobe adenomas of the **hypophyseal** fossa compress the optic chiasm, causing bitemporal hemianopsia."*

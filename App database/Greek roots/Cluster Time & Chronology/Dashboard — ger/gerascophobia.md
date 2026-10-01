@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ger.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Time & Chronology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal, morbid, or excessive fear of growing old or aging.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychiatry and psychotherapy, an anxiety disorder wherein individuals experience severe distress, depression, or panic regarding physical senescence and bodily deterioration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gerascophobia designates a term designating an entity, condition, or phenomenon derived from greek ger."*
+> - 📜 **William Osler (*Aequanimitas*):** *"The tragic vanity of the patient degenerated into an obsessive **gerascophobia**, dreading every emerging wrinkle upon the brow."*
+> - 📜 **William James (*The Principles of Psychology*):** *"When the mind refuses to accept natural senescence, morbid **gerascophobia** can distort every reflection in the mirror into an enemy."*
+> - 📜 **Havelock Ellis (*Studies in the Psychology of Sex*):** *"The frantic pursuit of cosmetic rejuvenation often conceals an underlying, unacknowledged **gerascophobia**."*

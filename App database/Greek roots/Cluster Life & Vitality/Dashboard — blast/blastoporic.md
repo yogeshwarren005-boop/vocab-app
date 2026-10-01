@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a blastopore.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a blastopore.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or pertaining to the blastopore; blastoporal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to cellular movements, lip boundaries, or inductive signals located at the embryonic blastopore.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, blastoporic designates of or relating to a blastopore."*
+> - 📜 **Hans Spemann (*Embryonic Development and Induction*):** *"Excision of the upper **blastoporic** crescent abolishes the normal induction of the medullary plate."*
+> - 📜 **C. H. Waddington (*Principles of Embryology*):** *"The **blastoporic** furrow deepens as bottle cells actively constrict their apical membranes."*
+> - 📜 **Francis Balfour (*A Treatise on Comparative Embryology*):** *"In deuterostome ontogeny, the **blastoporic** region marks the definitive site of the future anal opening."*

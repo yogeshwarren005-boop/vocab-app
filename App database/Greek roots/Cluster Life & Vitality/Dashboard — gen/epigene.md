@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek gen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Life & Vitality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Formed, originating, or taking place at or near the surface of the Earth; surficial or sedimentary.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geology and mineralogy, designating metamorphic changes, mineralization, or weathering driven by surface meteoric waters.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epigene designates a term designating an entity, condition, or phenomenon derived from greek gen."*
+> - 📜 **Archibald Geikie (*Textbook of Geology*):** *"We divide geological forces into hypogene actions deep within the crust and **epigene** weathering at the surface."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Rain, frost, and running rivers constitute the paramount **epigene** agents carving continental landscapes."*
+> - 📜 **Amadeus William Grabau (*Principles of Stratigraphy*):** *"Secondary oxidation in copper veins proceeds via descending **epigene** solutions percolating from the surface."*

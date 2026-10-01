@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ba.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Motion & Direction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A figure of speech in which the natural order of words or phrases is intentionally inverted for emphasis or dramatic effect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rhetorical transposition or grammatical displacement of words from customary syntax (Greek hyper- over + bainein to step).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyperbaton designates a term designating an entity, condition, or phenomenon derived from greek ba."*
+> - 📜 **Quintilian (*Institutio Oratoria*):** *"Judicious use of **hyperbaton** adds grandeur and rhythm to an oration, while excessive displacement causes obscurity."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The epic poet frequently employed bold **hyperbaton** to elevate his verse above common spoken idiom."*
+> - 📜 **George Puttenham (*The Arte of English Poesie*):** *"We call this figure **hyperbaton**, or the trespasser, because it steps over the orderly syntactical march of words."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek neo.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Time & Chronology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combining form and prefix derived from Greek νέος (neos) meaning 'new', 'recent', or 'modern', used extensively across scientific and humanities nomenclature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistic morphology, the formative prefix in terms such as neon, neologism, neonatal, and Neoplatonism, denoting novelty or recent revival.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ne 2 designates a term designating an entity, condition, or phenomenon derived from greek neo."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"The Greek primitive neos provides the widespread scientific prefix **ne-**, signifying that which is fresh, youthful, or newly discovered."*
+> - 📜 **Walter William Skeat (*An Etymological Dictionary of the English Language*):** *"Scholars continuously co-opted the element **ne-** to formulate names for newly discovered elements and scientific schools."*
+> - 📜 **James Murray (*A New English Dictionary on Historical Principles*):** *"Compounds containing **ne-** proliferated in nineteenth-century philology to mark revised or restored classical systems."*

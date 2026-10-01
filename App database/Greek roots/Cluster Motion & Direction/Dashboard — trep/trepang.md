@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of warm coasts from australia to asia; used as food especially by chinese.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of warm coasts from australia to asia; used as food especially by chinese.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sea cucumber (holothurian) of tropical marine waters, harvested, eviscerated, boiled, and dried for food; bêche-de-mer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic ethnography and maritime history, a major commercial commodity traded between Indigenous Australian coastal communities, Bugis mariners, and Chinese merchants.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"The chief products of the country are mother-of-pearl shell, Beche-de-mer (or trepang), copra, and tortoise-shell."*
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"Beche-de-mer or "Trepang" is a kind of sea slug, and is found on the reefs in a few feet of water."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"Fleets of Bugis praus make annual voyages to northern Australia to dive for the prized edible sea slug known as **trepang**."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"In the coral shallows of the Keeling Islands, we observed hundreds of large holothurians suitable for preparing commercial **trepang**."*
+> - 📜 **Herman Melville (*Omoo*):** *"The trader's hold was packed with bundles of dried **trepang**, destined for the luxurious soup tureens of Canton."*

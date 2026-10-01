@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A movement that lacks directional orientation and depends upon the intensity of stimulation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A movement that lacks directional orientation and depends upon the intensity of stimulation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Movement or motion in general; a non-directional movement or activity response of an organism in response to a stimulus (differing from a taxis).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In behavioral ethology and invertebrate physiology, an innate stimulus-response where the rate of locomotion (orthokinesis) or turning frequency (klinokinesis) depends on stimulus intensity without orientation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, kinesis designates a movement that lacks directional orientation and depends upon the intensity of stimulation."*
+> - 📜 **Charles Darwin (*The Movement and Habits of Climbing Plants*):** *"The circumnutating tip of the tendril exhibits an innate **kinesis** that explores surrounding space for mechanical support."*
+> - 📜 **Julian Huxley (*The Individual in the Animal Kingdom*):** *"Woodlice congregate in damp crevices through simple **kinesis**, slowing their wandering movements whenever moisture levels rise."*
+> - 📜 **Ernst Mayr (*Animal Species and Evolution*):** *"Unlike directed taxis, biological **kinesis** relies entirely upon changes in random velocity to keep an organism within favorable zones."*

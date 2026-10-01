@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various mints of the genus thymus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Leaves can be used as seasoning for almost any meat and stews and stuffings and vegetables.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A low-growing aromatic perennial Eurasian herb (*Thymus vulgaris*) of the mint family (Lamiaceae), with pungent leaves widely used as a culinary seasoning.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A classical herb derived from Greek *thyein* ('to sacrifice') on account of its fragrant incense-like aroma, prized in ancient embalming and medicine.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I know a bank where the wild thyme blows, Where oxlips and the nodding violet grows, Quite over-canopied with luscious woodbine, With sweet musk-roses, and with eglantine."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Plants which in burning give out a thick smoke and an aromatic smell are much sought after for fuel on these occasions; among the plants used for the purpose are giant-fennel, thyme, rue, chervil-seed, camomile, geranium, and penny-royal."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Kellyburn Braes There lived a carl in Kellyburn Braes, Hey, and the rue grows bonie wi’ thyme; And he had a wife was the plague of his days, And the thyme it is wither’d, and rue is in prime."*
+> - 📜 **William Shakespeare (*A Midsummer Night's Dream*):** *"I know a bank where the wild **thyme** blows, where oxlips and the nodding violet grows, quite over-canopied with luscious woodbine."*
+> - 📜 **Virgil (*Georgics*):** *"Plant sweet **thyme** and rosemary around the hives, that the bees may gather fragrant honey for the winter stores."*
+> - 📜 **John Milton (*Lycidas*):** *"Thee, shepherd, thee the woods and desert caves, with wild **thyme** and the gadding vine o'ergrown, and all their echoes mourn."*

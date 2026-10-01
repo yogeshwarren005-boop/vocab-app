@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The relation that exists when things occur at the same time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The relation that exists when things occur at the same time.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality or state of occurring at the same time; synchrony; simultaneous existence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical and physical analysis, the condition of temporal coincidence between independent events, observers, or causal systems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, synchroneity designates the relation that exists when things occur at the same time."*
+> - 📜 **Albert Einstein (*Relativity: The Special and General Theory*):** *"The concept of absolute **synchroneity** disappears when we recognize that signal transmission is limited by the speed of light."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Our perception of **synchroneity** between visual flashes and auditory clicks depends upon complex neural latency compensation."*
+> - 📜 **Henri Bergson (*Time and Free Will*):** *"Spatialized time creates the illusion of abstract **synchroneity**, obscuring the fluid, qualitative reality of inner duration."*

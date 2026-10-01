@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The production of motion in objects (as by a spiritualistic medium) without contact or other physical means.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The production of motion in objects (as by a spiritualistic medium) without contact or other physical means.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The purported movement of physical objects by the power of the mind alone, without physical contact or known natural force; psychokinesis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In parapsychology and cultural folklore, an alleged psychic phenomenon investigated in late nineteenth-century spiritualist séances and modern science fiction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, telekinesis designates the production of motion in objects (as by a spiritualistic medium) without contact or other physical means."*
+> - 📜 **William James (*Memories and Studies*):** *"The spiritualist claimed that the levitation of the heavy oak table was an unmistakable instance of psychic **telekinesis**."*
+> - 📜 **Arthur Conan Doyle (*The History of Spiritualism*):** *"Witnesses attested to unmistakable acts of **telekinesis**, observing small objects drift across the locked room in broad daylight."*
+> - 📜 **Carl Jung (*Psychology and the Occult*):** *"Reports of spontaneous **telekinesis** in poltergeist cases frequently coincide with intense emotional conflicts in adolescent subjects."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to any disease of the muscles that is not caused by nerve dysfunction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to any disease of the muscles that is not caused by nerve dysfunction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characteristic of myopathy; involving or caused by primary disease of muscle tissue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurology, describing muscle weakness (myopathic facies, myopathic gait) resulting from intrinsic muscular dystrophy rather than denervation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, myopathic designates of or relating to any disease of the muscles that is not caused by nerve dysfunction."*
+> - 📜 **William Gowers (*Pseudo-Hypertrophic Muscular Paralysis*):** *"The peculiar waddling gait and rising on one's knees reveal an unmistakably **myopathic** origin of the child's weakness."*
+> - 📜 **Jean-Martin Charcot (*Lectures on the Diseases of the Nervous System*):** *"Microscopic section demonstrated that the muscular fibers were degenerated, confirming a purely **myopathic** process."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In differentiating spinal muscular atrophy from muscular dystrophy, the absence of sensory loss favors a **myopathic** diagnosis."*

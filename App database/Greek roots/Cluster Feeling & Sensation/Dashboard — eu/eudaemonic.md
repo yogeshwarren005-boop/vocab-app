@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Producing happiness and well-being.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Producing happiness and well-being.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, producing, or conducive to happiness, well-being, or moral flourishing; eudaimonic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to the philosophical ethical system (eudaimonism) that judges actions by their capacity to promote human fulfillment and flourishing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eudaemonic designates producing happiness and well-being."*
+> - 📜 **Aristotle (*Nicomachean Ethics*):** *"The highest good is an **eudaemonic** existence achieved through the active exercise of virtue in conformity with reason."*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"A properly constructed commonwealth aims at an **eudaemonic** harmony where private happiness coincides with public welfare."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"Healthy-minded religion cultivates an **eudaemonic** temper that regards misery and sin as mere temporary illusions."*

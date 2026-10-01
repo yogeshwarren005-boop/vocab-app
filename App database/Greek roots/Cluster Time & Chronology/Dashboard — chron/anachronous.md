@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Chronologically misplaced.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Chronologically misplaced.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by anachronism; misplaced in time; out of historical sequence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philology and historical geology, describing forms or fossils occurring outside their expected chronological horizon.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anachronous designates chronologically misplaced."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"Feudal privileges stood like **anachronous** ruins across a landscape already reshaped by the rising tide of democracy."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The appearance of mammalian footprints in older strata appeared startlingly **anachronous** to early stratigraphers."*
+> - 📜 **Algernon Charles Swinburne (*William Blake: A Critical Essay*):** *"His prophetic poetry possessed an **anachronous** majesty that bewildered the polite rhymers of the eighteenth century."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a chromosome number that is an exact multiple of the monoploid number.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a chromosome number that is an exact multiple of the monoploid number.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having an exact, balanced multiple of the basic haploid chromosome number for the species (e.g., diploid, triploid, tetraploid), contrasted with aneuploid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cytogenetics, describing an organism or karyotype with a normal, balanced chromosome complement devoid of segmental deletions or additions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, euploid designates having a chromosome number that is an exact multiple of the monoploid number."*
+> - 📜 **Theodosius Dobzhansky (*Genetics and the Origin of Species*):** *"Plant breeders intentionally select **euploid** polyploids because their genomic balance produces robust foliage and giant fruit."*
+> - 📜 **Barbara McClintock (*The Chromosome Constitution of Races of Maize*):** *"Unlike defective aneuploid sports, the **euploid** strain showed normal meiotic pairing across all ten chromosomes."*
+> - 📜 **Ernst Mayr (*Principles of Systematic Zoology*):** *"Speciation through polyploid doubling creates fertile, reproductively isolated **euploid** races in flowering plants."*

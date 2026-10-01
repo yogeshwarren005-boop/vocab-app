@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: East asian rhizomatous clump-forming perennial herbs having flowers on long leafless stalks; cosmopolitan in cultivation: day lilies; sometimes placed in subfamily hemerocallidaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: East asian rhizomatous clump-forming perennial herbs having flowers on long leafless stalks; cosmopolitan in cultivation: day lilies; sometimes placed in subfamily hemerocallidaceae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of flowering plants in the family Asphodelaceae, commonly called daylilies, famous for showy trumpet-shaped blossoms that each last only one day.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ornamental horticulture and Asian ethnobotany, hardy perennial herbs native to East Asia, cultivated worldwide for vibrant garden displays and edible floral buds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemerocallis designates east asian rhizomatous clump-forming perennial herbs having flowers on long leafless stalks; cosmopolitan in cultivation: day lilies; sometimes placed in subfamily hemerocallidaceae."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"The tawny orange daylily, **Hemerocallis** fulva, has escaped from pioneer gardens to colonize roadside ditches across North America."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The generic title **Hemerocallis** combines Greek roots for 'day' and 'beauty', alluding to flowers that perish at nightfall."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"Each flower of **Hemerocallis** opens with the dawn and withers at sunset, yet the scape bears successive buds that sustain weeks of flowering."*

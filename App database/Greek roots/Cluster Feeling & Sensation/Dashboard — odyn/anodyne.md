@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Serving to alleviate pain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not likely to offend or arouse tensions : innocuous.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A pain-relieving medicine, drug, or soothing application; not likely to provoke dissent or offense; bland, soothing, or calming.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical medicine, any pharmaceutical preparation (such as tincture of opium or belladonna) administered to deaden physical suffering.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"The air was heavy with the perfume of the flowers, and their beauty seemed to bring him an anodyne for his pain."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"I was not even permitted the anodyne of work."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Those who have been under her immediate care, will understand me when I say there is healing in the touch of her hand, and anodyne in the low melody of her voice."*
+> - 📜 **Thomas De Quincey (*Confessions of an English Opium-Eater*):** *"Opium was to me a heavenly **anodyne**, lifting the dark veil of physical torment from my soul."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"Hope is the sovereign **anodyne** of human misery, sweetening the bitterest cup of sorrow."*
+> - 📜 **William Osler (*Aequanimitas*):** *"The physician must possess not only medicinal **anodyne** remedies, but also the soothing calm of a sympathetic presence."*

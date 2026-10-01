@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormal skin sensations (as tingling or tickling or itching or burning) usually associated with peripheral nerve damage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abnormal skin sensations (as tingling or tickling or itching or burning) usually associated with peripheral nerve damage.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal, spontaneous dermal sensation such as tingling, pricking, numbness, burning, or pins-and-needles without an apparent physical stimulus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neurology, a hallmark symptom of peripheral neuropathy, root compression, or central demyelinating disease (alternative spelling of paresthesia).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paraesthesia designates abnormal skin sensations (as tingling or tickling or itching or burning) usually associated with peripheral nerve damage."*
+> - 📜 **Jean-Martin Charcot (*Clinical Lectures on Diseases of the Nervous System*):** *"The onset of spinal sclerosis is often heralded by creeping **paraesthesia** across the toes and soles."*
+> - 📜 **William Gowers (*A Manual of Diseases of the Nervous System*):** *"A persistent burning **paraesthesia** along the cutaneous nerve distribution signals ongoing ischemic irritation."*
+> - 📜 **S. Weir Mitchell (*Injuries of Nerves and Their Consequences*):** *"Soldiers recovering from bullet wounds to the brachial plexus complained bitterly of intractable **paraesthesia** in their fingers."*

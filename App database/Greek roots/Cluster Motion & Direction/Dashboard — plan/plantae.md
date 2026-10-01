@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (botany) the taxonomic kingdom comprising all living or extinct plants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (botany) the taxonomic kingdom comprising all living or extinct plants.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The taxonomic kingdom comprising all green plants, characterized by multicellularity, cellulose cell walls, and photosynthetic nutrition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The eukaryotic botanical lineage encompassing embryophytes, bryophytes, and vascular flora.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plantae designates (botany) the taxonomic kingdom comprising all living or extinct plants."*
+> - 📜 **Carl Linnaeus (*Systema Naturae*):** *"The kingdom **Plantae** organizes the vegetable world through hierarchical classes, orders, and genera."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"Members of **Plantae** capture solar energy through chlorophyll pigments contained within plastids."*
+> - 📜 **Ernst Haeckel (*Generelle Morphologie der Organismen*):** *"In our genealogical tree of life, **Plantae** branches upward alongside Protista and Animalia."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek chron.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Time & Chronology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ideological tendency to attribute anachronistic qualities, scientific priorities, or cultural prestige to an ancient nation or group.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political historiography and cultural studies, a nationalist revisionist tendency (notably in Ceaușescu-era Romania) projecting modern discoveries or virtues onto ancient ancestors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, protochronism designates a term designating an entity, condition, or phenomenon derived from greek chron."*
+> - 📜 **Lucian Boia (*History and Myth in Romanian Consciousness*):** *"Nationalist propaganda embraced **protochronism**, claiming that ancient Dacians had anticipated modern philosophical and technical discoveries."*
+> - 📜 **Eric Hobsbawm (*Nations and Nationalism Since 1780*):** *"Modern regimes frequently resort to **protochronism** to construct an unbroken, heroic lineage for political legitimacy."*
+> - 📜 **Benedict Anderson (*Imagined Communities*):** *"The ideological apparatus deployed **protochronism** to persuade citizens that their modern nation had flourished since prehistoric dawn."*

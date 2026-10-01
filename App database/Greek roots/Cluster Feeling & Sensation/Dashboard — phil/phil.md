@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Philippians.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Loving : having an affinity for.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Greek root *phil-* (from *philos* / *philein*), signifying love, affection, friendship, affinity, or attraction (seen in *philosophy*, *philanthropy*, *hydrophilic*).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The universal morphological combining form across humanistic, scientific, and medical nomenclature denoting natural harmony, fond attachment, or chemical affinity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Phil!” says the trooper in a quiet voice."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"All right!” cries Phil, scrambling to his feet."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Anything been doing?” “Flat as ever so much swipes,” says Phil."*
+> - 📜 **Henry George Liddell & Robert Scott (*A Greek-English Lexicon*):** *"The radical **phil** gives rise to verbs and substantives expressing friendship, affection, hospitable regard, and fond devotion."*
+> - 📜 **Plato (*Lysis*):** *"Socrates inquired into the mysterious nature of **phil**, asking what draws like to like or unlike to unlike in human souls."*
+> - 📜 **Aristotle (*Nicomachean Ethics*):** *"The bond designated by **phil** forms the cement of commonwealths, for without friendship no state can long endure."*

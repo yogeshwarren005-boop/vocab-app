@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the passifloraceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the passifloraceae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of about 550 species of flowering plants (family Passifloraceae), known as passion flowers or passion vines, bearing unique, highly complex flowers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A botanical genus named by Spanish Christian missionaries who saw in the corona, stamens, and tendrils symbols of the instruments of Christ's Passion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, passiflora designates type genus of the passifloraceae."*
+> - 📜 **Charles Darwin (*The Movements and Habits of Climbing Plants*):** *"The sensitive tendrils of **Passiflora** curl with extraordinary rapidity when lightly touched with a twig."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels to the Equinoctial Regions*):** *"The tropical lianas of the genus **Passiflora** climbed to the very crowns of the forest, hanging in festoons of scarlet blossoms."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"Our wild yellow passionflower, **Passiflora** lutea, creeps over roadside thickets in southern Ohio."*

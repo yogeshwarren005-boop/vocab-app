@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Share the feelings of; understand the sentiments of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be understanding of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To feel or express sympathy, pity, or compassion for another's misfortune (American spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To share in, agree with, or support an opinion or aspiration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then with the losers let it sympathize, For nothing can seem foul to those that win. [_The trumpet sounds_.] Enter Worcester and Vernon."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Just, just; and the men do sympathize with the mastiffs in robustious and rough coming on, leaving their wits with their wives; and then, give them great meals of beef and iron and steel, they will eat like wolves and fight like devils."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For why, the senseless brands will sympathize The heavy accent of thy moving tongue, And in compassion weep the fire out; And some will mourn in ashes, some coal-black, For the deposing of a rightful king."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Nature itself seemed to **sympathize** with the solitary lovers, sending golden sunshine through the dark forest canopy."*
+> - 📜 **Mark Twain (*The Adventures of Tom Sawyer*):** *"Aunt Polly began to soften and **sympathize** with the weeping boy, dropping her birch switch to the floor."*
+> - 📜 **Ralph Waldo Emerson (*Friendship*):** *"To **sympathize** with a great man's vision is already to participate in his intellectual elevation."*

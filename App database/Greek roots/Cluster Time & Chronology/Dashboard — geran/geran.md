@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of crane.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of crane.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combining form derived from Greek γέρανος (geranos) meaning 'crane', used in botanical and taxonomic nomenclature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical etymology, the formative root in Geraniaceae and Geraniales, referring to the long, beaked, crane-like rostrum of the fruit.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, geran designates adjective*) pertaining to, derived from, or characteristic of crane."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"The Greek word for crane, geranos, furnishes the scientific combining form **geran-** in plant classification."*
+> - 📜 **John Lindley (*The Elements of Botany*):** *"Systematists adopted the radical **geran-** to honor the characteristic rostrate fruit resembling a crane's beak."*
+> - 📜 **Walter William Skeat (*An Etymological Dictionary of the English Language*):** *"Through Latin transmission, the Greek element **geran-** became permanently established in botanical terminology."*

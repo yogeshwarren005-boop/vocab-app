@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek tach.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Motion & Direction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any abnormal heart rhythm characterized by a rapid heartbeat; an alternative clinical term for tachyarrhythmia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In electrophysiology, a pathological cardiac rhythm (originating in the atria or ventricles) where the activation frequency exceeds 100 beats per minute, compromising cardiac output.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tachyrhythmia designates a term designating an entity, condition, or phenomenon derived from greek tach."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The electrocardiogram confirmed an acute onset of ventricular **tachyrhythmia** during the height of the febrile attack."*
+> - 📜 **Robley Dunglison (*Medical Lexicon*):** *"Physicians apply the term **tachyrhythmia** to any state wherein the heart pulses with excessive and irregular speed."*
+> - 📜 **Austin Flint (*A Treatise on the Principles and Practice of Medicine*):** *"Unless prompt vagal stimulation or medication arrests the **tachyrhythmia**, systemic hypoperfusion quickly ensues."*

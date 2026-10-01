@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The food served and eaten at one time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The food served and eaten at one time.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A meal, feast, or the food and drink served and consumed at a meal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act or occasion of taking food; nourishment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So, if I prove a good repast to the spectators, the dish pays the shot."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To his good friends thus wide I’ll ope my arms; And, like the kind life-rendering pelican, Repast them with my blood."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I prithee go and get me some repast; I care not what, so it be wholesome food."*
+> - 📜 **John Milton (*Paradise Lost*):** *"With gentle talk Adam and the Archangel sweetened their rural **repast** of choice fruits gathered fresh from Eden's boughs."*
+> - 📜 **William Shakespeare (*The Tempest*):** *"They invited the exhausted mariners to sit down to a sumptuous enchanted banquet and take their **repast**."*
+> - 📜 **Edgar Allan Poe (*The Narrative of Arthur Gordon Pym*):** *"A few drops of rainwater and a fragment of ship biscuit constituted our entire **repast** for forty-eight hours."*

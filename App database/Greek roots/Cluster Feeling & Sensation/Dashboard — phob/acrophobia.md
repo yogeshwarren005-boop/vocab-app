@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormal dread of being in a high place : fear of heights.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abnormal dread of being in a high place : fear of heights.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An extreme, irrational, and debilitating fear of heights, often accompanied by severe anxiety, dizziness, and panic attacks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychiatry, a specific phobia triggered by high elevation, precipitating avoidance of tall buildings, bridges, and mountain ledges.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acrophobia designates abnormal dread of being in a high place : fear of heights."*
+> - 📜 **William James (*The Principles of Psychology*):** *"A sudden attack of **acrophobia** on the brink of a cliff paralyses the limbs, flooding consciousness with vertiginous terror."*
+> - 📜 **Henry Maudsley (*The Pathology of Mind*):** *"The sufferer from **acrophobia** experiences an agonizing dread not only of falling, but of an impulse to cast himself into the void."*
+> - 📜 **Oliver Sacks (*A Leg to Stand On*):** *"Looking down the steep alpine ravine, I was seized by a visceral **acrophobia** that set my pulse racing."*

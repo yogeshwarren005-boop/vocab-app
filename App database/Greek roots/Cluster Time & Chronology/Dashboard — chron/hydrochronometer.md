@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek chron.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Time & Chronology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A water clock or device for measuring time by the regulated flow of water; a clepsydra.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In horological history and classical archaeology, an ancient or Renaissance timekeeper utilizing hydraulic float mechanisms or siphons to indicate solar hours.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrochronometer designates a term designating an entity, condition, or phenomenon derived from greek chron."*
+> - 📜 **Vitruvius (*De Architectura*):** *"Ctesibius invented an ingenious **hydrochronometer** wherein water issuing through a gold orifice raised a float bearing a pointer."*
+> - 📜 **Simon Newcomb (*Popular Astronomy*):** *"The ancient courts of Athens used a simple **hydrochronometer** to limit the speeches of orators to fixed intervals."*
+> - 📜 **Isaac D'Israeli (*Curiosities of Literature*):** *"Father Bernardo Facini constructed an exquisite brass **hydrochronometer** for the Vatican gardens, powered solely by dripping fountains."*

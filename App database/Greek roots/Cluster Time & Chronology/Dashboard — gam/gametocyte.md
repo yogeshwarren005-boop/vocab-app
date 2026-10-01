@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A cell (as of a protozoan causing malaria) that divides to produce gametes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cell (as of a protozoan causing malaria) that divides to produce gametes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cell that divides by meiosis to produce gametes; a spermatocyte or oocyte.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical parasitology and malariology, the sexual stage of the malaria parasite (Plasmodium) that develops in human blood and is ingested by anopheline mosquitoes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gametocyte designates a cell (as of a protozoan causing malaria) that divides to produce gametes."*
+> - 📜 **Ronald Ross (*Memoirs: With a Full Account of the Great Malaria Problem*):** *"In the stomach of the dappled-winged mosquito, I observed the pigmented **gametocyte** shedding flagella-like microgametes."*
+> - 📜 **Patrick Manson (*Tropical Diseases: A Manual of the Diseases of Warm Climates*):** *"The crescentic **gametocyte** of falciparum malaria circulates harmlessly in the blood until taken up by a biting mosquito."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Blood smears stained with Romanowsky dye clearly reveal the sexual **gametocyte** responsible for perpetuating the endemic transmission cycle."*

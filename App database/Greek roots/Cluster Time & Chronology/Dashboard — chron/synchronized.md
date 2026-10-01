@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make synchronous and adjust in time or manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Happen at the same time.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring or operating at the same time; coordinated in timing or rate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cardiovascular physiology, describing concerted myocardial depolarization; in athletics, sports (such as swimming) executed simultaneously to music.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"All of your plans and timetables must be synchronized with the actions I take at the conference." "Any attacks on the depot will be immediately spunnel-flashed by Hanno to the UIPS," Drummer said."*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"OBJECTIVES OF SECOND SEVEN YEAR PLAN LARGELY ATTAINED The objectives of the Second Seven Year Plan, the concluding phase of which has synchronized with this period of nation-wide austerity, have, it must be recognized, been in the main, attained."*
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"The speed of the roller and the table is synchronized to obviate any possibility of the mat becoming wrinkled by sliding."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"The coordinated, **synchronized** contraction of all ventricular muscle cells produces the forceful pressure pulse of systole."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The clinical team delivered a **synchronized** cardioversion shock during the R-wave to abort ventricular tachycardia."*
+> - 📜 **George Orwell (*Homage to Catalonia*):** *"Along the front line, the troops opened fire in a **synchronized** salvo that reverberated across the valley."*

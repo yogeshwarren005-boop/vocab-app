@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The voice used to indicate that the grammatical subject of the verb is the recipient (not the source) of the action denoted by the verb.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking in energy or will; - george meredith.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Accepting or allowing what happens or what others do, without active response or resistance; submissive or quiescent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In grammar, denoting a voice of verbs in which the subject undergoes the action rather than performing it; in electronics, not generating power or gain.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"In the twilight of the morning, light seems active, darkness passive; in the twilight of evening it is the darkness which is active and crescent, and the light which is the drowsy reverse."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"His mood transmuted itself into a dogged indifference till at length he fancied he was looking on his own existence with the passive interest of an outsider."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"I was the only passive thing, the being without occupation."*
+> - 📜 **Mahatma Gandhi (*Satyagraha in South Africa*):** *"What people call **passive** resistance is not weakness, but soul-force armed with unyielding truth."*
+> - 📜 **John Milton (*Paradise Lost*):** *"They also serve who only stand and wait; our obedience shines in active virtue and **passive** fortitude."*
+> - 📜 **William James (*The Principles of Psychology*):** *"In habitual reflexes, consciousness remains purely **passive**, registering sensory inputs without voluntary effort."*

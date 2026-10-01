@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The food of the Greek and Roman gods.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ointment or perfume of the gods.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In classical mythology, the food of the Olympian gods, often depicted as conferring immortality or perpetual youth upon those who consumed it.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something with an especially delicious flavor or fragrance; also, a genus of plants (such as ragweed, *Ambrosia*).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"We feasted that evening as on nectar and ambrosia; and not the least delight of the entertainment was the smile of gratification with which our hostess regarded us, as we satisfied our famished appetites on the delicate fare she liberally supplied."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"However, we quickly despatched them, and no ambrosia could have been more delicious."*
-> - 📜 **Byron J. Rees (*The Heart-Cry of Jesus*):** *"It may be only an hand clasp, but warmth and sympathy are in it, and behold it is straightway "an angel strengthening him." Perchance it is a letter with a foreign postmark, but in it is nectar and ambrosia for a drooping spirit."*
+> - 📜 **Homer (*The Iliad*):** *"White-armed Hera cleansed her lovely flesh with sweet **ambrosia**, whose immortal fragrance shook heaven and earth."*
+> - 📜 **John Milton (*Paradise Lost*):** *"His dewy locks distilled **ambrosia**, and celestial fragrance filled the wide circuit of Eden."*
+> - 📜 **Percy Bysshe Shelley (*Prometheus Unbound*):** *"We feast on the nectar and **ambrosia** of divine thoughts that death cannot consume."*

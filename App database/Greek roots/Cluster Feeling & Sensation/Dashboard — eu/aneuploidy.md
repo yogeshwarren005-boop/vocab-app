@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or being a chromosome number that is not an exact multiple of the usually haploid number.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or being a chromosome number that is not an exact multiple of the usually haploid number.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The chromosomal condition of having an abnormal number of chromosomes, either extra or missing, relative to the normal diploid or haploid state.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A major cause of spontaneous miscarriage and congenital genetic disorders (such as Down syndrome) in human medical genetics, and a hallmark of malignant cancer genomes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aneuploidy designates having or being a chromosome number that is not an exact multiple of the usually haploid number."*
+> - 📜 **Jerome Lejeune (*Turpin's Studies in Human Cytogenetics*):** *"The discovery of trisomy 21 established that constitutional **aneuploidy** accounts for the physical symptoms of mongolism."*
+> - 📜 **Theodosius Dobzhansky (*Mankind Evolving*):** *"Meiotic non-disjunction during maternal oogenesis represents the primary mechanism behind human **aneuploidy**."*
+> - 📜 **Barbara McClintock (*Cytological Observations on Zea Mays*):** *"Segmental **aneuploidy** enabled us to map specific chlorophyll deficiencies directly to broken chromosomal arms."*

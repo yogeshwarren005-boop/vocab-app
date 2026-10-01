@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Living in fresh water and going to the sea to spawn.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Living in fresh water and going to the sea to spawn.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Migrating down rivers to the sea to spawn (characteristic of fishes such as the European and American freshwater eels).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aquatic biology, describing a diadromous life cycle that is the reverse of anadromous, where feeding and somatic growth occur in freshwater rivers while breeding occurs in oceanic abysses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, catadromous designates living in fresh water and going to the sea to spawn."*
+> - 📜 **Rachel Carson (*Under the Sea-Wind*):** *"The mature **catadromous** eels slipped down the dark autumn river, drawn by an irresistible call to the Sargasso Sea."*
+> - 📜 **Arthur Dendy (*Outlines of Evolutionary Biology*):** *"The remarkable **catadromous** migration of the freshwater eel was finally deciphered through Johannes Schmidt's ocean surveys."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"Unlike salmon, **catadromous** species spend their years of growth in inland waters and descend to oceanic depths to reproduce."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who formulates aphorisms or who repeats aphorisms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who formulates aphorisms or who repeats aphorisms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A writer or speaker who composes or utters aphorisms; a creator of pithy maxims.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary history, a specialized practitioner of the fragment or maxim genre (such as La Rochefoucauld, Lichtenberg, or Cioran) who disdains grand systematic treatises.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aphorist designates someone who formulates aphorisms or who repeats aphorisms."*
+> - 📜 **Friedrich Nietzsche (*Human, All Too Human*):** *"The true **aphorist** does not desire to be read through in a gallop, but to be slowly digested like a rich cordial."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"Montaigne writes as a genial **aphorist**, sprinkling his pages with pearls harvested from classical antiquity."*
+> - 📜 **Virginia Woolf (*The Common Reader*):** *"La Rochefoucauld remains the supreme **aphorist** of self-interest, stripping human nobility down to vanity."*

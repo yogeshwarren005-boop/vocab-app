@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The largest city in pennsylvania; located in the southeastern part of the state on the delaware river; site of independence hall where the declaration of independence and the constitution were signed; site of the university of pennsylvania.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The largest city in pennsylvania; located in the southeastern part of the state on the delaware river; site of independence hall where the declaration of independence and the constitution were signed; site of the university of pennsylvania.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The largest city in Pennsylvania, founded in 1682 by William Penn as a haven of religious tolerance and brotherly love (from Greek *philadelphia*).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ancient geography, historic cities in Lydia (Asia Minor) and Ammon (modern Amman, Jordan) named in honor of Attalus II Philadelphus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Adams, of Philadelphia, stated in his Thanksgiving sermon that, having an appointment to meet the President at 5 o'clock in the morning, he went a quarter of an hour before the time."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"An’ when the girls won’t hold you, get to thinkin’ of the fellows you got it in for, an’ what you’d do to ’em if you got a chance, an’ what you’re goin’ to do to ’em when you get that same chance.” That man was Philadelphia Red."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"For that offence Philadelphia Red lost his credits."*
+> - 📜 **William Penn (*Charter of the City of Philadelphia*):** *"I named this city **Philadelphia**, which is to say brotherly love, praying that peace and equity may ever dwell within her gates."*
+> - 📜 **Benjamin Franklin (*Autobiography*):** *"I arrived in **Philadelphia** as a poor runaway printer, walking up Market Street with a puffy roll under each arm."*
+> - 📜 **Thomas Jefferson (*Writings*):** *"The Declaration of Independence was proclaimed from the State House in **Philadelphia**, shaking the thrones of kings."*

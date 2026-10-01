@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Discovery, find.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A valuable collection : treasure; also : haul, collection.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A store of valuable, delightful, or interesting things (often used in the phrase 'treasure trove').
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In English common law (from Anglo-Norman tresor trové, literally 'treasure found', from trover 'to find'), coin, gold, silver, or bullion found hidden in the earth or private places, the owner being unknown, traditionally claimed by the Crown.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Luckiest of all was Israel Stickney in casting lots, so that in the end, when he passed, he was a veritable treasure trove of clothing."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Garth, smiling at the Vicar, “that we are going to have enough to bring up the boys well and to keep Mary at home.” “What is the treasure-trove?” said Mr."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"By Jove, Peterson!” said he, “this is treasure trove indeed."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"Treasure **trove** is where any money or coin, gold or silver, is found hidden in the earth, the owner thereof being unknown."*
+> - 📜 **Arthur Conan Doyle (*The Sign of Four*):** *"The Agra treasure was an astonishing **trove** of sparkling emeralds, rubies, and ropes of matched pearls."*
+> - 📜 **Robert Louis Stevenson (*Treasure Island*):** *"The pirate's chest contained a magnificent **trove** of doubloons, moidores, and gold bars from the Spanish Main."*

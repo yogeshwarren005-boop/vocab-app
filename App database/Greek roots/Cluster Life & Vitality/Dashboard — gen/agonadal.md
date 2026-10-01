@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking gonads.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking gonads.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking gonads (ovaries or testes); characterized by the congenital absence or surgical excision of reproductive organs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Describing developmental conditions such as pure gonadal dysgenesis or embryonic agonadism resulting in lack of gonadal steroids.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, agonadal designates lacking gonads."*
+> - 📜 **William Boyd (*Pathology for the Physician*):** *"In congenital **agonadal** states, sexual differentiation proceeds along default female phenotypic pathways in the absence of androgens."*
+> - 📜 **Frank Beach (*Hormones and Behavior*):** *"Experimental **agonadal** animals display a total suppression of sex-typical courtship displays and mating behaviors."*
+> - 📜 **Robert Greenblatt (*Office Endocrinology*):** *"Elevated gonadotropin levels confirm pituitary hypersecretion attempting to stimulate an **agonadal** pelvis."*

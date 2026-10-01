@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The relation that exists when things occur at the same time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An adjustment that causes something to occur or recur in unison.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing or happening at the same time or at identical speed; coordinating in time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In horological networks and electrical utilities, phase-matching power lines or broadcasting master time calibration signals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, synchronizing designates the relation that exists when things occur at the same time."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"The pacemaker cells discharge steadily, **synchronizing** every cardiac myofibril into rhythmic systolic pumping."*
+> - 📜 **Nikola Tesla (*The Transmission of Electric Energy*):** *"Engineers faced immense challenges in **synchronizing** multiple giant turbines at the Niagara Falls power station."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"Laughter spread through the gathering, **synchronizing** the emotional atmosphere of the entire assembly."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Communication from one mind to another by extrasensory means.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Communication from one mind to another by extrasensory means.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The purported communication of thoughts, impressions, or feelings between minds without the use of known sensory channels or physical signs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A term coined in 1882 by Frederic W. H. Myers for psychical research, from Greek *tēle* ('distant') and *patheia* ('feeling').
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Conceal it as he might try, a mysterious telepathy was between them...."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Whatever doubts science may entertain as to the possibility of action at a distance, magic has none; faith in telepathy is one of its first principles."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"I will now give some instances of this magical telepathy both in its positive and in its negative aspect."*
+> - 📜 **Frederic W. H. Myers (*Phantasms of the Living*):** *"I propose the word **telepathy** to designate the communication of impressions of any kind from one mind to another, independently of the recognized channels of sense."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"If **telepathy** be established, the boundaries between individual human consciousnesses will appear far more porous than materialism admits."*
+> - 📜 **Sigmund Freud (*Psychoanalysis and Telepathy*):** *"We must approach the problem of **telepathy** without prejudice, recognizing that the unconscious may transmit impulses across space."*

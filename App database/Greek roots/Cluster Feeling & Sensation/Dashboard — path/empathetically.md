@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a sympathetic manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a sympathetic manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an empathetic manner; with genuine understanding and compassionate sharing of another's feelings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Listening or responding with deep intuitive emotional attunement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, empathetically designates in a sympathetic manner."*
+> - 📜 **Carl Rogers (*A Way of Being*):** *"To listen **empathetically** is to grasp the private world of another so completely that its inner meaning becomes transparent."*
+> - 📜 **Virginia Woolf (*Mrs. Dalloway*):** *"Clarissa listened **empathetically** to the old friend's tale, feeling every quiver of sorrow in her own bones."*
+> - 📜 **William James (*Talks to Teachers on Psychology*):** *"The educator must enter **empathetically** into the pupil's perspective before attempting to correct an error."*

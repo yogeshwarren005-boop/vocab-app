@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inability to see clearly in dim light; due to a deficiency of vitamin a or to a retinal disorder.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inability to see clearly in dim light; due to a deficiency of vitamin a or to a retinal disorder.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The inability to see clearly in dim light or at night; night blindness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impairment of rod photoreceptor function often resulting from vitamin A deficiency or retinitis pigmentosa.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nyctalopia designates inability to see clearly in dim light; due to a deficiency of vitamin a or to a retinal disorder."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"Deficiency in visual purple regeneration across the retinal rods manifests clinically as acute **nyctalopia**."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Prolonged nutritional deprivation among sailors frequently led to scurvy accompanied by severe **nyctalopia**."*
+> - 📜 **Franciscus Donders (*On the Anomalies of Accommodation and Refraction of the Eye*):** *"Examination of the fundus in patients suffering from congenital **nyctalopia** reveals peripheral retinal pigmentation."*

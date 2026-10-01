@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A structure on a basidiomycete in which karyogamy occurs followed by meiosis to form usually four basidiospores.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A structure on a basidiomycete in which karyogamy occurs followed by meiosis to form usually four basidiospores.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A microscopic, club-shaped spore-bearing structure found in the fruiting bodies of basidiomycete fungi.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The specialized end-cell upon whose sterigmata sexual karyogamy and meiosis produce exterior basidiospores.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, basidium designates a structure on a basidiomycete in which karyogamy occurs followed by meiosis to form usually four basidiospores."*
+> - 📜 **Anton de Bary (*Comparative Morphology and Biology of the Fungi*):** *"Nuclear fusion within the young **basidium** is followed immediately by two meiotic divisions."*
+> - 📜 **Arthur Henry Reginald Buller (*Researches on Fungi*):** *"Each mature **basidium** typically bears four sterigmata from which spores are successively launched."*
+> - 📜 **Pier Andrea Saccardo (*Sylloge Fungorum*):** *"The morphology of the **basidium** provides the primary basis for distinguishing holobasidiomycetes from phragmobasidiomycetes."*

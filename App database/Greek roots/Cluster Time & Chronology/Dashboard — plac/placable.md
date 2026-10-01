@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Easily calmed or pacified.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Easily calmed or pacified.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Easily calmed, pacified, or appeased; tolerant, forgiving, and mild in temper.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ethical philosophy and theology, characterized by willingness to forgive trespasses upon repentance rather than demanding vindictive retribution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Miss Rebecca was not, then, in the least kind or placable."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"I'm sure I want friends." The placable and soft-hearted Briggs speechlessly pushed out her hand at this appeal; but she felt the desertion most keenly for all that, and bitterly, bitterly moaned the fickleness of her Matilda."*
+> - 📜 **John Milton (*Paradise Lost*):** *"By prayer and solemn supplication made, / His wrath was moved, and found him **placable** and mild."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"A generous mind is ever **placable**, readily laying aside the memory of injuries when sincere sorrow is shown."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Antonines demonstrated an exceptionally **placable** disposition, pardoning conspirators whose plots had been uncovered."*

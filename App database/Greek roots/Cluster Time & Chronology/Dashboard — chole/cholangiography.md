@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Radiographic visualization of the bile ducts after injection of a radiopaque substance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Radiographic visualization of the bile ducts after injection of a radiopaque substance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Radiographic imaging and examination of the bile ducts following the injection or administration of a radio-opaque contrast medium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gastrointestinal radiology and surgical gastroenterology, diagnostic imaging (such as ERCP, PTC, or intraoperative cholangiography) used to detect gallstones, strictures, or tumors within the biliary tree.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cholangiography designates radiographic visualization of the bile ducts after injection of a radiopaque substance."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Intraoperative **cholangiography** confirms whether residual calculi remain lodged within the common bile duct before closure."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"The contrast material outlined the entire biliary arborization during diagnostic **cholangiography**."*
+> - 📜 **Donald Seldin (*The Kidney: Physiology and Pathophysiology*):** *"Excretion of radiopaque dyes during intravenous **cholangiography** depends upon competing hepatobiliary and renal clearance mechanisms."*

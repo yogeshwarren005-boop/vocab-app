@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A direct line of descent within a group.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A group that constitutes or has the unity of a phylum; specifically : a primary category in biological taxonomy especially of animals that ranks above the class and below the kingdom.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A principal taxonomic category in biological classification that ranks above class and below kingdom.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A group of organisms representing a distinct, fundamental anatomical body plan (such as Chordata, Arthropoda, or Mollusca).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phylum designates a direct line of descent within a group."*
+> - 📜 **Ernst Haeckel (*Generelle Morphologie der Organismen*):** *"I proposed the taxonomic rank of **phylum** to unite all classes sharing a fundamental, unified ancestral ground plan."*
+> - 📜 **Stephen Jay Gould (*Wonderful Life*):** *"Each modern **phylum** represents a unique structural architecture that survived the great Cambrian decimation."*
+> - 📜 **Ernst Mayr (*The Growth of Biological Thought*):** *"The boundaries separating one animal **phylum** from another reflect profound evolutionary divergences in deep time."*

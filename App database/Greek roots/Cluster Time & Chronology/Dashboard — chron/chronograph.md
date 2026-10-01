@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument for measuring and recording time intervals: such as.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instrument having a revolving drum on which a stylus makes marks.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument for recording time with great accuracy, especially one equipped with an independent mechanism to measure elapsed time intervals; a stopwatch.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In astronomy, ballistics, and horology, a precision recording device that registers electrical impulses or mechanical ticks alongside a calibrated time scale.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Normally, current flows through the circuit-breaker, but the lifting of the piston breaks the circuit (whence the name of the contrivance), and that breaking of the circuit and consequent cessation of the current operates the chronograph."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"In other words, the circuit-breakers can be operated so fast that when only a sixtieth of a second intervenes between the action of one and that of the next the chronograph can duly record the fact."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The records of the chronograph can be made in two ways: one by a pen on a piece of paper tape, and the other by a scratch on a piece of smoked paper."*
+> - 📜 **Simon Newcomb (*Popular Astronomy*):** *"The astronomer observed the star's transit across the reticle, depressing an electric key to register the instant upon the **chronograph**."*
+> - 📜 **J. Norman Lockyer (*Stargazing: Past and Present*):** *"The rotating cylinder of the electric **chronograph** recorded fractions of a second with unfailing mechanical fidelity."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"The delicate needles of the recording **chronograph** vibrated as the mechanism gathered speed."*

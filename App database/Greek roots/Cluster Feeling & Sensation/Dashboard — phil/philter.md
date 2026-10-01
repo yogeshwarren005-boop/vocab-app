@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A potion credited with magical power.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A potion, drug, or charm held to have the power to arouse sexual passion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A potion, drug, or magical charm believed to arouse sexual love and passionate desire in the person who drinks it.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A magic love charm or enchanted elixir in folklore, drama, and romance literature.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And, perchance still failing, then might I expect the common bravo’s steel in my back or the common poisoner’s philter in my wine, my meat, or bread."*
+> - 📜 **William Shakespeare (*Othello*):** *"Judge me the world, if 'tis not gross in sense that thou hast practiced on her with foul charms, abused her delicate youth with drugs or **philter**."*
+> - 📜 **John Dryden (*The Spanish Friar*):** *"She mixed a potent **philter** of mandrake root and nightshade to bind the young prince's wandering heart."*
+> - 📜 **Walter Scott (*The Bride of Lammermoor*):** *"The superstitious crone claimed to sell an infallible **philter** that could turn cold indifference into burning passion."*

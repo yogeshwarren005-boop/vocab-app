@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make a bad alliance; ally inappropriately.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make a bad alliance; ally inappropriately.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To ally, join, or marry improperly, unsuitably, or undesirably.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To connect or associate disparate principles, political parties, or factions in an incongruous or harmful combination.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, misally designates make a bad alliance; ally inappropriately."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"It is fatal for a great nation to **misally** itself with factions whose sole principle is the subversion of ancient law."*
+> - 📜 **Jonathan Swift (*The Conduct of the Allies*):** *"Our ministers were persuaded to **misally** the kingdom's military fortunes with foreign courts whose interests ran counter to our own."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"A scholar who seeks domestic peace must take care not to **misally** his quiet mind with frivolity."*

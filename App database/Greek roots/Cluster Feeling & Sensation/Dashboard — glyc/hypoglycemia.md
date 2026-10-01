@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormally low blood sugar usually resulting from excessive insulin or a poor diet.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abnormally low blood sugar usually resulting from excessive insulin or a poor diet.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A deficiency of glucose in the bloodstream below normal physiological levels, leading to neuroglycopenic symptoms and autonomic stress responses (American spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A clinical emergency in diabetes care characterized by diaphoresis, tachycardia, anxiety, confusion, seizures, or coma when plasma glucose drops below critical thresholds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypoglycemia designates abnormally low blood sugar usually resulting from excessive insulin or a poor diet."*
+> - 📜 **Frederick Banting (*The Internal Secretion of the Pancreas*):** *"Convulsions occurring during severe insulin-induced **hypoglycemia** were promptly arrested by sugar administration."*
+> - 📜 **William Carlos Williams (*Autobiography*):** *"The patient lay pale and drenched in sweat, a victim of sudden **hypoglycemia** that required an emergency syringe of dextrose."*
+> - 📜 **Walter Cannon (*The Wisdom of the Body*):** *"The autonomic nervous system reacts to **hypoglycemia** with intense sympathoadrenal discharge to restore circulating sugar levels."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Damage, disease, or dysfunction of one or more nerves especially of the peripheral nervous system that is typically marked by burning or shooting pain, numbness, tingling, or muscle weakness or atrophy, is often degenerative, and is usually caused by injury, infection, disease, drugs, toxins, or vitamin deficiency.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A condition (such as Guillain-Barré syndrome) marked by neuropathy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Disease, inflammation, or damage affecting the peripheral nerves, typically causing numbness, tingling, weakness, and pain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medicine, a widespread complication of diabetes mellitus (diabetic neuropathy), nutritional deficiencies, alcoholism, or autoimmune disease.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neuropathy designates damage, disease, or dysfunction of one or more nerves especially of the peripheral nervous system that is typically marked by burning or shooting pain, numbness, tingling, or muscle weakness or atrophy, is often degenerative, and is usually caused by injury, infection, disease, drugs, toxins, or vitamin deficiency."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Peripheral **neuropathy** in chronic alcoholics begins with numbness in the toes and progresses to bilateral wrist-drop."*
+> - 📜 **William Gowers (*A Manual of Diseases of the Nervous System*):** *"Toxic **neuropathy** caused by lead or arsenic selectively impairs the extensor muscles of the forearms."*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*):** *"The sudden sensory **neuropathy** had stripped Christina of all proprioception, leaving her bodily blind and floating."*

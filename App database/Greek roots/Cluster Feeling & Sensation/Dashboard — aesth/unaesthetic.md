@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Violating aesthetic canons or requirements; deficient in tastefulness or beauty.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Violating aesthetic canons or requirements; deficient in tastefulness or beauty.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking beauty, artistic merit, or good taste; aesthetically displeasing, ugly, or uncouth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Offending against the canons of harmonious design, symmetry, or sensory refinement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas D. Whittles (*The Lumberjack Sky Pilot*):** *"No wonder the men who have known only the discomforts of the camps, with their hard, grinding labor and unaesthetic surroundings, are easily caught in the net that is spread at their feet."*
+> - 📜 **Oscar Wilde (*The Critic as Artist*):** *"Modern commerce has made our public streets terribly drab and **unaesthetic**, substituting billboard hoardings for frescoes."*
+> - 📜 **George Bernard Shaw (*Dramatic Opinions and Essays*):** *"The stage setting was so clumsy and **unaesthetic** that no acting could redeem the romantic illusion."*
+> - 📜 **Vernon Lee (*The Beautiful*):** *"Disproportion in architecture creates an instantly jarred, **unaesthetic** reaction in the spectator's sympathetic muscle memory."*

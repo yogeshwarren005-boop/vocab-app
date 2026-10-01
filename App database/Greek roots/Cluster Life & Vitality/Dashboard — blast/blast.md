@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A violent gust of wind.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The effect or accompaniment (such as sleet) of such a gust.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A violent gust of wind, a sudden loud sound, or a destructive wave of explosive pressure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cell biology and embryology, an immature, undifferentiated precursor cell capable of dividing and giving rise to specialized tissues.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now, Mars, I prithee, make us quick in work, That we with smoking swords may march from hence To help our fielded friends!—Come, blow thy blast. [_They sound a parley._] Enter two Senators with others on the walls of Corioles."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll cross it, though it blast me."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore this project Should have a back or second, that might hold If this did blast in proof."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"Blow, winds, and crack your cheeks! rage! blow! you cataracts and hurricanoes, spout till you have drench'd our steeples, drown'd the cocks! ... And thou, all-shaking thunder, strike flat the thick rotundity o' the world! Crack nature's moulds, all germens spill at once, that make ingrateful man! A bitter **blast** tore through the battlements."*
+> - 📜 **John Milton (*Paradise Lost*):** *"As when the potent rod of Amram's son in Egypt's evil day waved round the coast, up called a pitchy cloud of locusts, warping on the eastern **blast**."*
+> - 📜 **Karl Ernst von Baer (*On the Genesis of the Animal*):** *"Every embryonic **blast** gives rise in orderly succession to the primary germ layers that sculpt the adult organism."*

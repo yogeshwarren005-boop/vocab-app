@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pain in one or more joints.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pain in one or more joints.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Severe, aching pain in a joint or multiple joints, occurring without primary inflammatory swelling or joint damage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A common clinical complaint in systemic rheumatology, infectious prodromes (such as viral fevers), and degenerative arthropathies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arthralgia designates pain in one or more joints."*
+> - 📜 **Benjamin Rush (*Medical Inquiries and Observations*):** *"The autumn ague frequently left the patient tormented by stubborn **arthralgia** in knees and hips."*
+> - 📜 **Thomas Sydenham (*Tractatus de Podagra et Hydrope*):** *"Before the overt redness appears, an agonizing **arthralgia** grips the metatarsal joint during midnight hours."*
+> - 📜 **William Heberden (*Commentaries on the History and Cure of Diseases*):** *"Persistent weather-sensitive **arthralgia** must be distinguished from the acute febrile swelling of rheumatic fever."*

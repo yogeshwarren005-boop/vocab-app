@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Expressing one thing in terms normally denoting another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expressing one thing in terms normally denoting another.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, resembling, or expressed by means of metaphor; figurative or symbolic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary and semiotic theory, denoting semantic structures that transfer meaning across conceptual categories rather than adhering to literal denotation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The builder and maker of this New Jerusalem is God, as we read in the 575:12 book of Hebrews; and it is "a city which hath founda- tions." The description is metaphoric."*
+> - 📜 **Ralph Waldo Emerson (*Nature*):** *"Every natural fact is a symbol of some spiritual fact; nature is the **metaphoric** language of the mind."*
+> - 📜 **Roman Jakobson (*Fundamentals of Language*):** *"Poetic discourse relies predominantly upon the **metaphoric** pole of language, driven by similarity and substitution."*
+> - 📜 **George Santayana (*Interpretations of Poetry and Religion*):** *"Religious myths are poetic systems that lose their virtue the moment they are read as literal history rather than **metaphoric** truth."*

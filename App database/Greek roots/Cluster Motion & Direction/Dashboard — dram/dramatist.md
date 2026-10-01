@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who writes plays.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who writes plays.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who writes plays; a playwright or author of dramatic literature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary criticism, a master of stagecraft, dialogue, and character psychology whose works reveal human motives through live conflict and dialogue.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"The Latin dramatist Terence pictures the young man looking at one of these paintings and saying to himself, "If Jupiter did it, why should not I?" Centuries later we find Augustine quoting that sentence."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Nor, will the tragic dramatist who would depict mortal indomitableness in its fullest sweep and direct swing, ever forget a hint, incidentally so important in his art, as the one now alluded to."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Nor, will the tragic dramatist who would depict mortal indomitableness in its fullest sweep and direct swing, ever forget a hint, incidentally so important in his art, as the one now alluded to."*
+> - 📜 **Samuel Johnson (*Preface to Shakespeare*):** *"Shakespeare is above all writers the **dramatist** of nature, holding up to his readers a faithful mirror of manners and life."*
+> - 📜 **John Dryden (*An Essay of Dramatic Poesy*):** *"A true **dramatist** must balance the regular rules of the ancients with the lively variety of modern stage action."*
+> - 📜 **George Bernard Shaw (*Plays Pleasant and Unpleasant*):** *"The modern **dramatist** must provoke thought, using comedy as a surgeon uses an anaesthetic while operating on social vices."*

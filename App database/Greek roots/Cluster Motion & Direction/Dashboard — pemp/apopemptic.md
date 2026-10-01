@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of send.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of send.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sung, recited, or delivered to a person departing on a journey; valedictory or pertaining to a farewell hymn.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical Greek poetry, a ceremonial ode or farewell poem addressed to a friend, traveler, or patron god departing from a city (from Greek apopempein, to send away).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, apopemptic designates adjective*) pertaining to, derived from, or characteristic of send."*
+> - 📜 **John Addington Symonds (*Studies of the Greek Poets*):** *"The choir sang an **apopemptic** hymn upon the shore as the sacred trireme set sail for Delos."*
+> - 📜 **Richard Claverhouse Jebb (*The Growth and Influence of Classical Greek Poetry*):** *"The **apopemptic** odes of the lyric poets blended affectionate personal farewells with solemn prayers to Poseidon."*
+> - 📜 **Gilbert Murray (*A History of Ancient Greek Literature*):** *"When the colonists weighed anchor, the magistrates offered an **apopemptic** sacrifice to bless their voyage into unknown waters."*

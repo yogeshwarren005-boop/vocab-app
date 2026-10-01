@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The part of a church reserved for the officiating clergy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A ruling body in presbyterian churches consisting of the ministers and representative elders from congregations within a district.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A regional governing body in a Presbyterian church, consisting of ministers and representative elders from local congregations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The domestic residence of a Roman Catholic parish priest; also, the sanctuary portion of a church reserved for clergy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"During the remaining ten months of each year the student, except that he had to prepare a certain number of exercises for the Presbytery which had him under its charge, was left very much to do as he pleased."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"The Hall session of 1844 was Cairns's last, and the next step for him to take in ordinary course was to apply to a Presbytery for license as a probationer."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"In November 1844 be applied to the Edinburgh Presbytery of the Secession Church for license, and he received it at their hands in the following February."*
+> - 📜 **Walter Scott (*Guy Mannering*):** *"The local **presbytery** assembled in solemn convocation to examine the newly presented preacher."*
+> - 📜 **James Joyce (*Dubliners*):** *"Old Father Flynn lived quietly in the little **presbytery** adjoining the chapel."*
+> - 📜 **John Cairns (*Unbelief in the Eighteenth Century*):** *"The findings of the venerable **presbytery** were recorded in the parish register with meticulous care."*

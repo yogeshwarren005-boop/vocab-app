@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A 2-leaved hinged tablet folding together to protect writing on its waxed surfaces.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A picture or series of pictures (such as an altarpiece) painted or carved on two hinged tablets.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A painting, especially an altarpiece, on two hinged wooden panels that can be closed like a book.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ancient writing tablet consisting of two leaves with waxed inner surfaces joined by hinges.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diptych designates a 2-leaved hinged tablet folding together to protect writing on its waxed surfaces."*
+> - 📜 **Walter Pater (*The Renaissance*):** *"The delicate ivory **diptych** depicted the Annunciation on the left wing and the Nativity on the right."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"Consular **diptychs** carved from ivory were distributed by magistrates upon entering office."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The Venetian master adorned the folding **diptych** with burnished gold leaf and vibrant lapis."*

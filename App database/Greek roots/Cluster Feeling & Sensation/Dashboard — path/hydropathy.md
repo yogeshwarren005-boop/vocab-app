@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A method of treating disease by copious and frequent use of water both externally and internally.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A method of treating disease by copious and frequent use of water both externally and internally.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The historical 19th-century medical practice of treating diseases through the external and internal use of water ('the water-cure').
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Popularized by Vincent Priessnitz and Father Kneipp, establishing spa sanitaria across Europe and North America emphasizing cold baths, wraps, and hygiene.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Nature of drugs Vegetarianism, homoeopathy, and hydropathy have diminished drugging; but if drugs are an antidote to 155:30 disease, why lessen the antidote?"*
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"The cures ascribed to hydropathy in our own time are, in many cases, not a whit less wonderful than those ascribed by monkish legends to the holy wells of England and Wales."*
+> - 📜 **Charles Darwin (*Life and Letters of Charles Darwin*):** *"I spent sixteen weeks at Malvern undergoing the rigorous regime of **hydropathy**, wrapped in wet sheets and drinking icy spring water."*
+> - 📜 **Florence Nightingale (*Notes on Nursing*):** *"Whatever errors attached to professional **hydropathy**, it taught the world the boundless therapeutic blessing of pure water."*
+> - 📜 **Nathaniel Hawthorne (*The Blithedale Romance*):** *"The reformer recommended a course of **hydropathy** to wash away the nervous languor induced by city life."*

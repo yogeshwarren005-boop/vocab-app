@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Eosinophilic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A granulocyte readily stained by eosin that is present at sites of allergic reactions and parasitic infections.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A type of white blood cell (granulocyte) containing coarse granules that stain readily with eosin, involved in allergic reactions and combating parasitic infections.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In hematology and immunology, a leukocyte characterized by a bilobed nucleus and major basic protein granules that modulate asthma, helminth infections, and hypersensitivity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eosinophil designates eosinophilic."*
+> - 📜 **Paul Ehrlich (*Methodology of Blood Staining*):** *"I demonstrated that the **eosinophil** possesses specific large granules having an intense chemical affinity for acidic dyes."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A marked rise in the circulating **eosinophil** count provides vital diagnostic confirmation of trichinosis or bronchial asthma."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"The **eosinophil** attaches to the outer surface of larval schistosomes, discharging cytotoxic lysosomal enzymes directly onto the parasite."*

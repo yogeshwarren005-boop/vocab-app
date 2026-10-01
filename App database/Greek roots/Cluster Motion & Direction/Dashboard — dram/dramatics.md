@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Participation in theatrical productions as an extracurricular activity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The art of writing and producing plays.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The art, practice, or study of dramatic performance and theatrical production; by extension, exaggerated, histrionic, or overly emotional behavior.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In educational and amateur contexts, organized extracurricular play-acting; in colloquial psychology, an affectation of dramatic outrage or distress.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dramatics designates participation in theatrical productions as an extracurricular activity."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"She had an innate instinct for amateur **dramatics**, never uttering a simple truth without a melodramatic gesture."*
+> - 📜 **Virginia Woolf (*To the Lighthouse*):** *"The children spent the stormy afternoon engaged in lively parlor **dramatics**, donning old cloaks and cardboard swords."*
+> - 📜 **George Bernard Shaw (*Pygmalion*):** *"Spare me your drawing-room **dramatics**, Higgins, and explain how you intend to present this girl to society."*

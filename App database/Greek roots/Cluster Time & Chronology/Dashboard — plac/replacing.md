@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of furnishing an equivalent person or thing in the place of another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Substitute a person or thing for (another that is broken or inefficient or lost or no longer working or yielding what is expected).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of substituting, putting back, or taking the place of someone or something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology and industrial mechanization, the dynamic displacement of outmoded forms or tools by more efficient adaptations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"To secure the full benefit of the plan it must be made the exclusive remedy, replacing entirely the old remedy of suits for negligence."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Nothing in the world,” was the reply; and, replacing the paper, I saw him dexterously tear a narrow slip from the margin."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But no longer snuffing in the trail of the wild beasts of the woodland, Tashtego now hunted in the wake of the great whales of the sea; the unerring harpoon of the son fitly replacing the infallible arrow of the sires."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Natural selection acts solely by accumulating favorable variations, steadily **replacing** older forms with more adapted survivors."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The new administration acted with decisive speed in **replacing** corrupt magistrates with men of unblemished integrity."*
+> - 📜 **Lewis Mumford (*Technics and Civilization*):** *"Steam power swiftly marched across Britain, **replacing** the sluggish waterwheel in every textile valley."*

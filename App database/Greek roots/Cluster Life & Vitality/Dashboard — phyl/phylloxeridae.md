@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Plant lice.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Plant lice.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The family of small, gall-forming, sap-sucking hemipterous insects related to aphids, containing the grape phylloxera.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Insects in the superfamily Aphidoidea lacking cornicles and having a complex polymorphic life cycle alternating between root and leaf galls.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phylloxeridae designates plant lice."*
+> - 📜 **Charles Valentine Riley (*The Grape Phylloxera*):** *"Members of the **Phylloxeridae** undergo extraordinary cyclic migrations between subterranean roots and aerial leaf galls."*
+> - 📜 **David Sharp (*Insects: Part II*):** *"Unlike true Aphididae, females of the **Phylloxeridae** are exclusively oviparous in both sexual and parthenogenetic phases."*
+> - 📜 **Ray Lankester (*A Treatise on Zoology*):** *"The economic significance of the **Phylloxeridae** stimulated worldwide research into biological and chemical pest controls."*

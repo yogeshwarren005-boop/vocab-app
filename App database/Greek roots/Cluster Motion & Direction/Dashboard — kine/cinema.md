@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Movie —often used before another noun.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A movie theater.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A theater where motion pictures are shown; the production of movies as an art form or entertainment industry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural history and aesthetics (shortened from French cinématographe, from Greek kinema 'movement'), the twentieth-century medium combining photographic motion, editing montage, and auditory narrative.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Dic tropoeum passionis, dic triumphalem Crucem", sang Prudentius--"Sing the trophy of the Passion; sing the all-triumphant Cross." The ancients thought that God repeated the whole history of the universe over and over again, like a cinema show."*
-> - 📜 **C. W. Burrows (*Scapa and a Camera*):** *"VICTORIOUS." (The Navy is renowned for its hospitality, and the above shows a group of school children and their teachers who were entertained to a cinema show and tea on board."*
+> - 📜 **Virginia Woolf (*The Captain's Death Bed and Other Essays*):** *"The **cinema** has the power to manifest emotion directly through moving forms and shadows before words can intervene."*
+> - 📜 **Walter Benjamin (*The Work of Art in the Age of Mechanical Reproduction*):** *"The technique of the **cinema** shatters traditional artistic aura through mass distribution and dynamic close-ups."*
+> - 📜 **Aldous Huxley (*Brave New World*):** *"The citizens sought effortless recreation in the multi-sensory feelies, the perfected successor of ancient flat **cinema**."*

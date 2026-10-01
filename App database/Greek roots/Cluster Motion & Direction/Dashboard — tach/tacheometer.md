@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A theodolite designed for rapid measurements.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A theodolite designed for rapid measurements.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A surveying instrument (a specialized theodolite) designed to measure distances, directions, and elevation differences rapidly by optical readings on a graduated rod.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In civil engineering and topographic geodesy, an optical-mechanical device that eliminates chaining by calculating horizontal distances through stadia trigonometry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tacheometer designates a theodolite designed for rapid measurements."*
+> - 📜 **William Rankine (*A Manual of Civil Engineering*):** *"By using a modern **tacheometer**, the surveyor determines both the elevation and horizontal distance of distant stations in a single reading."*
+> - 📜 **Banister Fletcher (*A History of Architecture*):** *"The contouring of the steep hillside site was executed with exceptional speed by means of a transit **tacheometer**."*
+> - 📜 **Archibald Geikie (*Text-Book of Geology*):** *"Geologists employed the **tacheometer** to map the rugged contours of the volcanic crater with high geodetic accuracy."*

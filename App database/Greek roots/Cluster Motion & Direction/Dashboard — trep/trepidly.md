@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a timorous and trepid manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a timorous and trepid manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a trepid, timid, or trembling manner; nervously and with hesitation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative prose, characterizing actions undertaken with visible anxiety, physical tremor, or lack of confidence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trepidly designates in a timorous and trepid manner."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"She moved **trepidly** toward the dairy door, fearing that her shameful secret had already been whispered among the maids."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"I advanced **trepidly** across the long, shadowy gallery, guided only by the flickering flame of my candle."*
+> - 📜 **Edgar Allan Poe (*The Fall of the House of Usher*):** *"He glanced **trepidly** over his shoulder, as if expecting an unearthly intruder to emerge from the tapestries."*

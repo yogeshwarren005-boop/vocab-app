@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek kine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Motion & Direction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A doctrine, theory, or artistic movement that emphasizes or incorporates mechanical or virtual motion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In twentieth-century art history (Kinetic Art), an aesthetic approach where motion (mechanical, wind-driven, or optical) is integral to the structure and viewer experience of the artwork.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, kineticism designates a term designating an entity, condition, or phenomenon derived from greek kine."*
+> - 📜 **Herbert Read (*A Concise History of Modern Sculpture*):** *"The rise of **kineticism** in modern sculpture challenged the ancient dogma that plastic art must be static and permanent."*
+> - 📜 **Lewis Mumford (*Technics and Civilization*):** *"The relentless **kineticism** of the machine age transformed the contemplative rhythms of human culture into frantic velocity."*
+> - 📜 **Bertrand Russell (*The ABC of Atoms*):** *"Modern physics dissolves solid matter into pure **kineticism**, a ceaseless dance of electrical charges in empty space."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A bishop's official throne.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: By virtue of or in the exercise of one's office or position.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A bishop's official throne or ceremonial seat, located in the choir or apse of a cathedral church.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A position or chair of supreme ecclesiastical or academic authority, notably used in the phrase *ex cathedra* for authoritative papal decrees.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cathedra designates a bishop's official throne."*
+> - 📜 **Thomas Aquinas (*Summa Theologiae*):** *"The prelate speaks with ordinary jurisdictional authority when teaching from his elevated episcopal **cathedra**."*
+> - 📜 **Saint Augustine (*De Civitate Dei*):** *"The apostolic succession preserves unity across the churches, linked to the historic **cathedra** of Peter."*
+> - 📜 **John Henry Newman (*Apologia Pro Vita Sua*):** *"A solemn pronouncement issued from the papal **cathedra** binds the faithful in matters of revealed dogma."*

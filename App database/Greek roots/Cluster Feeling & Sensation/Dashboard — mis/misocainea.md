@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek mis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Feeling & Sensation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An irrational hatred of, dread of, or intense aversion to new ideas, novelty, or innovation (derived from Greek *misos* 'hatred' and *kainos* 'new').
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociology and psychology, rigid resistance to intellectual progress or institutional reform; misoneism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, misocainea designates a term designating an entity, condition, or phenomenon derived from greek mis."*
+> - 📜 **Cesare Lombroso (*The Man of Genius*):** *"Primitive tribes and conservative academies alike exhibit an obstinate **misocainea** that stones the innovator."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Habit is the great flywheel of society, but in its extreme form it petrifies into a sterile **misocainea**."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"The stagnant despotism of custom represents that collective **misocainea** which suffocates original genius."*

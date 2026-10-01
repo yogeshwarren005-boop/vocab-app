@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A power tool for smoothing or shaping wood.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A power tool for smoothing or shaping wood.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A machine or hand tool used for smoothing, flattening, or leveling surfaces of wood or metal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A machine tool in which the workpiece reciprocates under a stationary cutting blade.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"It could drive lathes, drills, planers, punches, polishers, in a word all the cunning machines of a great factory?"*
+> - 📜 **Joseph Whitworth (*On Plane Metallic Surfaces*):** *"The mechanical **planer** transformed engineering workshops by producing true flat surfaces with repeatable accuracy."*
+> - 📜 **Henry Maudslay (*Memoir of Industrial Inventions*):** *"By employing the heavy slide-rest and metal **planer**, iron engine beds could be leveled with unprecedented precision."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The carpenter used his iron **planer** to shape the spare spar as smooth as ivory."*

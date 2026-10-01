@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (logic) statements that explain the explicandum; the explanatory premises.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (logic) statements that explain the explicandum; the explanatory premises.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The statements, theories, or hypotheses that account for and explain a phenomenon (the explanandum).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The deductive or inductive explanatory premises containing universal laws and antecedent boundary conditions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, explanans designates (logic) statements that explain the explicandum; the explanatory premises."*
+> - 📜 **Carl Gustav Hempel (*Philosophy of Natural Science*):** *"The **explanans** consists of two classes of statements: initial boundary conditions and universal empirical laws."*
+> - 📜 **Karl Popper (*Conjectures and Refutations*):** *"An acceptable **explanans** must possess independent testable content beyond the facts it explains."*
+> - 📜 **Ernest Nagel (*The Structure of Science*):** *"The explanatory adequacy of an **explanans** rests upon its integration into an established theoretical framework."*

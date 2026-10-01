@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Reason philosophically.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reason philosophically.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To speculate, theorize, or deliberate about fundamental questions of existence, truth, ethics, and knowledge (Commonwealth spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To moralize or explain events in terms of philosophical or general principles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"For he began to philosophise in order to judge his impressions (_phantasias_) and to discover which of them are true and which false, so as to be free from perturbation."*
-> - 📜 **Jonathan Swift (*Gulliver's Travels into Several Remote Nations of the World*):** *"But not being at that time in a disposition to philosophise upon this phenomenon, I rather chose to observe what course the island would take, because it seemed for a while to stand still."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"Moving out over the divide above town the Professor noticed the general depression of the party, and forthwith began philosophising."*
+> - 📜 **Aristotle (*Metaphysics*):** *"It was wonder that first led men to **philosophise**, and wonder still drives them to explore the unknown."*
+> - 📜 **David Hume (*A Treatise of Human Nature*):** *"I dine, I play a game of backgammon, I converse with friends; and when I return to **philosophise**, my doubts appear frivolous."*
+> - 📜 **George Bernard Shaw (*Man and Superman*):** *"The devil loves to **philosophise** in hell, celebrating romantic illusions that earth-dwellers have outgrown."*

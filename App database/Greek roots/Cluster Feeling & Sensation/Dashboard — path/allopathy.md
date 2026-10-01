@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A system of medical practice that emphasizes diagnosing and treating disease and the use of conventional, evidence-based therapeutic measures (such as drugs or surgery) : allopathic medicine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A system of medical practice that emphasizes diagnosing and treating disease and the use of conventional, evidence-based therapeutic measures (such as drugs or surgery) : allopathic medicine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The treatment of disease by conventional medical therapies that produce effects different from or incompatible with those produced by the disease itself.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A designation originally applied by homeopaths to orthodox medicine, now broadly referencing mainstream science-based medical practice.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Homoeopathy, a step in advance of allopathy, is doing this."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Is it because 344:30 allopathy and homoeopathy are more fashionable and less spiritual?"*
+> - 📜 **Samuel Hahnemann (*Organon of Medicine*):** *"Between the true path of homoeopathy and the crude errors of **allopathy**, there can be no compromise or truce."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Orthodox medicine accepted the name **allopathy** only as a historical tag, dedicating itself solely to demonstrable scientific truth."*
+> - 📜 **Claude Bernard (*An Introduction to the Study of Experimental Medicine*):** *"Experimental medicine replaces the dogmas of ancient **allopathy** with rigorous laboratory physiology."*

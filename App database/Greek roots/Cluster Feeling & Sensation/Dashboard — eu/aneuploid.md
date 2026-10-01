@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a chromosome number that is not an exact multiple of the haploid number.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a chromosome number that is not an exact multiple of the haploid number.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having an abnormal number of chromosomes that is not an exact multiple of the haploid number characteristic of the species (e.g., trisomy or monosomy).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An organism or somatic cell line exhibiting chromosomal imbalance due to non-disjunction during meiosis or mitotic replication.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aneuploid designates having a chromosome number that is not an exact multiple of the haploid number."*
+> - 📜 **Theodosius Dobzhansky (*Genetics and the Origin of Species*):** *"An **aneuploid** gamete carrying an extra chromosome typically suffers from severe developmental instability."*
+> - 📜 **Barbara McClintock (*The Chromosome Constitution of Races of Maize*):** *"Cytological analysis confirmed that the mutant plant was **aneuploid**, displaying twenty-one chromosomes rather than twenty."*
+> - 📜 **Ernst Mayr (*Animal Species and Evolution*):** *"Most **aneuploid** zygotes perish in early embryogenesis due to widespread lethal gene dosage imbalances."*

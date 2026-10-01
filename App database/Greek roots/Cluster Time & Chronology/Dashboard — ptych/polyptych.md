@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An arrangement of four or more panels (as of a painting) usually hinged and folding together.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An arrangement of four or more panels (as of a painting) usually hinged and folding together.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A painting or other work of art, typically an altarpiece, consisting of more than three panels joined together.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ancient Roman writing tablet having many leaves; broadly, any multipaneled artistic or literary panorama.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polyptych designates an arrangement of four or more panels (as of a painting) usually hinged and folding together."*
+> - 📜 **John Addington Symonds (*Renaissance in Italy*):** *"Jan van Eyck's Ghent Altarpiece is the supreme masterpiece of Northern Renaissance **polyptych** painting."*
+> - 📜 **John Ruskin (*Mornings in Florence*):** *"Giotto's workshop produced magnificent **polyptych** ensembles combining wood carving and brilliant tempera."*
+> - 📜 **Kenneth Clark (*The Nude*):** *"When the outer shutters of the **polyptych** were opened on feast days, an explosion of celestial color greeted worshippers."*

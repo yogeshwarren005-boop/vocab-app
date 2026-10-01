@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Therapy that uses physical agents: exercise and massage and other modalities.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Therapy that uses physical agents: exercise and massage and other modalities.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Physical medicine and rehabilitation; the medical specialty concerned with diagnosing and restoring physical functioning impaired by disease, trauma, or congenital disorder.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A branch of medicine utilizing physical agents (exercise, heat, electricity, hydrotherapy, and assistive prosthetics) to maximize functional independence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, physiatrics designates therapy that uses physical agents: exercise and massage and other modalities."*
+> - 📜 **Frank H. Krusen (*Physical Medicine*):** *"I championed the title **physiatrics** for our discipline to emphasize comprehensive functional restoration over passive palliation."*
+> - 📜 **Howard A. Rusk (*New Hope for the Handicapped*):** *"The philosophy of modern **physiatrics** treats the whole individual, teaching the disabled veteran to live within the limits of his capacities."*
+> - 📜 **William Boyd (*Pathology for the Physician*):** *"Advances in **physiatrics** transform the clinical outlook for paraplegic and stroke patients facing long-term rehabilitation."*

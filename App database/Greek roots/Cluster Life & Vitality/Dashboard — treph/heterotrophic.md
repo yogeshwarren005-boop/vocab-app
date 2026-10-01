@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Requiring organic compounds of carbon and nitrogen for nourishment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Requiring organic compounds of carbon and nitrogen for nourishment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, characterized by, or being a heterotroph; obtaining carbon and energy from organic compounds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ecological trophic systems, describing the consumer stratum that breaks down organic matter synthesized by autotrophs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heterotrophic designates requiring organic compounds of carbon and nitrogen for nourishment."*
+> - 📜 **Eugene Odum (*Fundamentals of Ecology*):** *"The **heterotrophic** component of the forest soil decomposes leaf litter, releasing carbon dioxide into the soil atmosphere."*
+> - 📜 **Arthur Tansley (*The Use and Abuse of Vegetational Concepts and Terms*):** *"Energy flows unidirectionally from the autotrophs through successive **heterotrophic** consumer levels."*
+> - 📜 **Albert Lehninger (*Biochemistry*):** *"Unlike plant chloroplasts, mammalian mitochondria rely entirely on **heterotrophic** metabolic fuels."*

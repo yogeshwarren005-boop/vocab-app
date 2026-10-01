@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of gold.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of gold.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Made of, overlaid with, or decorated with both gold and ivory; pertaining to classical Greek sculptures crafted from these luxury materials.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical art history, describing colossal monumental statues (such as Phidias's Athena Parthenos and Olympian Zeus) constructed around wooden cores clad in carved ivory flesh and beaten gold drapery.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"The chryselephantine papal standard rises high, surrounded by pennons of the civic flag."*
+> - 📜 **Pausanias (*Description of Greece*):** *"The colossal **chryselephantine** statue of Zeus at Olympia struck awe into every pilgrim who gazed upon its ivory brow and golden robe."*
+> - 📜 **Walter Pater (*Greek Studies*):** *"The sumptuous **chryselephantine** technique embodied the supreme artistic luxury and religious majesty of the Periclean age."*
+> - 📜 **John Addington Symonds (*Studies of the Greek Poets*):** *"Phidias combined ivory for the gleaming limbs and beaten gold for the regal mantle in his sublime **chryselephantine** masterpieces."*

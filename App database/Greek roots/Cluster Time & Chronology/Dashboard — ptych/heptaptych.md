@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ptych.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Time & Chronology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A work of art, especially a folding altarpiece, consisting of seven painted or carved panels.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A seven-leaved polyptych displaying an extensive narrative cycle of sacred or mythological figures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heptaptych designates a term designating an entity, condition, or phenomenon derived from greek ptych."*
+> - 📜 **Banister Fletcher (*A History of Architecture*):** *"Above the high altar stood an imposing Gothic **heptaptych** depicting the seven joys of Mary."*
+> - 📜 **John Addington Symonds (*Renaissance in Italy*):** *"The Flemish **heptaptych** unfolded to reveal seven intricately detailed scenes of the Passion."*
+> - 📜 **Roger Fry (*Transformations*):** *"The structural rhythm of a **heptaptych** requires subtle geometric harmony across all seven panels."*

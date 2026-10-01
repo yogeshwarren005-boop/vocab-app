@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Alternation of sexual and asexual generations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Alternation of sexual and asexual generations.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Alternation of generations, especially between sexual and asexual reproductive phases in the life cycle of an organism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The life cycle characteristic of cnidarians (such as jellyfish), where a sessile asexual polyp alternates with a free-swimming sexual medusa.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metagenesis designates alternation of sexual and asexual generations."*
+> - 📜 **Richard Owen (*On the Anatomy of Invertebrates*):** *"I have proposed the term **metagenesis** for that alternation of sexual and non-sexual generations found in hydrozoans."*
+> - 📜 **Thomas Henry Huxley (*The Oceanic Hydrozoa*):** *"In the Aurelia life cycle, **metagenesis** links the scyphistoma polyp with the free-floating sexual medusa."*
+> - 📜 **Ernst Haeckel (*Generelle Morphologie der Organismen*):** *"The evolutionary advantage of **metagenesis** lies in combining benthic territorial tenacity with pelagic gene dispersal."*

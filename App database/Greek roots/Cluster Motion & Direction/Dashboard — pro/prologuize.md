@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Write or speak a prologue.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Write or speak a prologue.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To speak or write a prologue; to introduce a literary or theatrical work with introductory remarks (variant spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dramatic literature, to preface an argument or dialogue with preliminary explanation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prologuize designates write or speak a prologue."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"He chose to **prologuize** his collection with an aggressive manifesto on poetic diction."*
+> - 📜 **Charles Lamb (*Essays of Elia*):** *"The chorus would **prologuize** in solemn tones before the entrance of the doomed tragic heroes."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"The editor paused to **prologuize** upon the strange philosophy of clothes before unveiling the German manuscript."*

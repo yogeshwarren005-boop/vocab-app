@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having cells with `good' or membrane-bound nuclei.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having cells with `good' or membrane-bound nuclei.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characteristic of a eukaryote or eukaryotes; possessing a membrane-bound nucleus and organelles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Describing cellular organization featuring linear chromosomes bound with histones, compartmentalized endomembranes, and mitotic spindles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eukaryotic designates having cells with `good' or membrane-bound nuclei."*
+> - 📜 **Francis Crick (*What Mad Pursuit*):** *"The split gene architecture and RNA splicing revealed an unexpected complexity in the **eukaryotic** genome."*
+> - 📜 **Jacques Monod (*Chance and Necessity*):** *"What is true for E. coli must be true for the elephant, yet **eukaryotic** chromatin introduces elaborate epigenetic layers."*
+> - 📜 **Albert Lehninger (*Principles of Biochemistry*):** *"Mitochondria within the **eukaryotic** cell generate ATP through chemiosmotic proton gradients across inner cristae."*

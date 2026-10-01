@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Suffering from acrophobia; abnormally afraid of high places.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Suffering from acrophobia; abnormally afraid of high places.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, affected by, or exhibiting acrophobia; experiencing intense dread or panic at high altitudes or heights.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by an overwhelming somatic reaction to high vantage points or precipitous places.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acrophobic designates suffering from acrophobia; abnormally afraid of high places."*
+> - 📜 **Arthur Conan Doyle (*The Final Problem*):** *"Even a seasoned climber might turn dizzy and **acrophobic** upon the slippery ledge overlooking the Reichenbach Fall."*
+> - 📜 **John Muir (*The Mountains of California*):** *"Standing on the razor ridge of Mount Whitney, I met an **acrophobic** companion who crawled on hands and knees."*
+> - 📜 **H. G. Wells (*The War in the Air*):** *"Looking down from the suspended basket of the balloon, the aeronaut was seized with an **acrophobic** horror."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the aorist tense.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the aorist tense.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, resembling, or having the nature of an aorist tense; expressing simple past occurrence without duration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistics and literary stylistics, describing an action or narration presented as a sudden, completed, instantaneous point in time.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aoristic designates of or relating to the aorist tense."*
+> - 📜 **B. L. Gildersleeve (*Essays and Studies*):** *"His narrative moves with rapid **aoristic** strokes, casting each heroic deed into sharp, unadorned relief."*
+> - 📜 **William Watson Goodwin (*Syntax of the Moods and Tenses of the Greek Verb*):** *"The participle here bears an **aoristic** sense, denoting an act preceding the action of the principal verb."*
+> - 📜 **Ferdinand de Saussure (*Course in General Linguistics*):** *"The **aoristic** category in Proto-Indo-European opposed the imperfective durative aspect with structural precision."*

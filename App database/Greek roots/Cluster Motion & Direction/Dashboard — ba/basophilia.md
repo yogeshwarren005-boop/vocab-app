@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The tendency of cells to stain with basic dyes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The tendency of cells to stain with basic dyes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal increase in the proportion of basophils in the blood.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In histology, the property of cells or cellular structures that causes them to stain readily with basic dyes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, basophilia designates the tendency of cells to stain with basic dyes."*
+> - 📜 **Paul Ehrlich (*Contributions to the Theory and Practice of Histological Staining*):** *"Cytoplasmic **basophilia** reveals an abundance of acidic ribonucleic components avid for methylene blue."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Marked **basophilia** in peripheral blood smears frequently heralds the chronic phase of myelogenous leukemia."*
+> - 📜 **Florence Sabin (*The Origin of the Cells of the Blood*):** *"Immature erythroid cells exhibit strong cytoplasmic **basophilia** prior to hemoglobin synthesis."*

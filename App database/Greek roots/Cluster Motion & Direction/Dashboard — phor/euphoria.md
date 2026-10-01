@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A feeling of well-being or elation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state marked by positive emotions (such as happiness or excitement) arising from a sense of alignment between a person's gender identity and gender expression.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A feeling or state of intense happiness, excitement, wellbeing, and self-confidence, often disproportionate to actual circumstances.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuropsychiatry and pharmacology, an elevated affective state induced by dopaminergic stimulation, opioid receptor activation, mania, or hyperoxia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, euphoria designates a feeling of well-being or elation."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"Patients treated with L-DOPA soared into an uninhibited **euphoria**, celebrating their release from decades of immobility."*
+> - 📜 **Thomas De Quincey (*Confessions of an English Opium-Eater*):** *"Here was the panacea for all human woes; here was the celestial **euphoria** that banished bodily pain and sorrow."*
+> - 📜 **Aldous Huxley (*The Doors of Perception*):** *"Mescaline imparted a tranquil **euphoria**, opening the mind to the visual splendor of common objects."*

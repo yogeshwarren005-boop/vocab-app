@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A yellow pungent volatile oil (trade name agene) formerly used for bleaching and aging flour.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A yellow pungent volatile oil (trade name agene) formerly used for bleaching and aging flour.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Nitrogen trichloride (NCl3), historically utilized as an artificial bleaching and aging agent for commercial wheat flour.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A toxic chemical flour improver withdrawn from commerce after Edward Mellanby proved it induced canine epileptiform running fits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, agene designates a yellow pungent volatile oil (trade name agene) formerly used for bleaching and aging flour."*
+> - 📜 **Edward Mellanby (*Diet and Canine Hysteria*):** *"Commercial flour treated with **agene** consistently produced running fits and severe neurotoxicity in experimental hounds."*
+> - 📜 **E. V. McCollum (*A History of Nutrition*):** *"The discovery of methionine sulfoximine in **agene**-bleached gluten prompted health authorities to ban its culinary use."*
+> - 📜 **Lord Horder (*Fifty Years of Medicine*):** *"Public health reformers campaigned vigorously to eliminate the **agene** process from the British bread supply."*

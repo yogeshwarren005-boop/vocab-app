@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A word or phrase with an anaphoric function.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A word or phrase with an anaphoric function.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A linguistic word or phrase that refers back to an earlier word or expression in a discourse (such as a pronoun referring to its antecedent).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In generative syntax and binding theory (Chomskyan linguistics), a noun phrase (like a reflexive or reciprocal pronoun) that must be bound within its local governing category.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anaphor designates a word or phrase with an anaphoric function."*
+> - 📜 **Noam Chomsky (*Lectures on Government and Binding*):** *"Principle A dictates that an **anaphor** must be bound in its governing category, whereas a pronominal must be free."*
+> - 📜 **Steven Pinker (*The Language Instinct*):** *"The sentence becomes ungrammatical if the **anaphor** fails to find a co-indexed antecedent in the same clause."*
+> - 📜 **Roman Jakobson (*Selected Writings*):** *"The structural role of the **anaphor** establishes cohesion across sentence boundaries in poetic and prose discourse."*

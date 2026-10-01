@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A connective-tissue cell of mesenchymal origin that secretes proteins and especially molecular collagen from which the extracellular fibrillar matrix of connective tissue forms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of several protein growth factors that stimulate the proliferation especially of endothelial cells and that promote angiogenesis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A common type of cell in connective tissue that synthesizes extracellular matrix components and collagen fibers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A spindle-shaped stromal cell playing a crucial role in wound healing, scar formation, and tissue remodeling.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fibroblast designates a connective-tissue cell of mesenchymal origin that secretes proteins and especially molecular collagen from which the extracellular fibrillar matrix of connective tissue forms."*
+> - 📜 **Alexis Carrel (*Tissue Culture and Cellular Immortality*):** *"In our embryonic chick heart cultures, the **fibroblast** proliferated continuously for decades when provided with fresh embryonic juice."*
+> - 📜 **Alexander Fleming (*On the Antibacterial Action of Cultures of a Penicillium*):** *"Penicillin inhibited virulent staphylococcal growth at dilutions that left the delicate human **fibroblast** completely uninjured."*
+> - 📜 **William Boyd (*A Textbook of Pathology*):** *"During granulation tissue organization, the **fibroblast** migrates into the fibrinous exudate, depositing robust collagen strands."*

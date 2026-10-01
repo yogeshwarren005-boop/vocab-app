@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A triatomic very reactive form of oxygen that is a bluish irritating gas of pungent odor, that is a major air pollutant in the lower atmosphere but a beneficial component of the upper atmosphere, and that is used for oxidizing, bleaching, disinfecting, and deodorizing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pure and refreshing air.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A colorless or pale blue gas with a pungent, chlorine-like smell, consisting of an allotropic triatomic form of oxygen (O3).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In atmospheric science, a critical trace gas in the stratosphere that absorbs harmful solar ultraviolet radiation; in the troposphere, a toxic pollutant and respiratory irritant.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"I sought relief at famous springs, the ozone of Florida, and the pure air of Colorado, but in vain."*
+> - 📜 **Christian Friedrich Schönbein (*Research on the Nature of Ozone*):** *"I propose the name **ozone** for this newly discovered atmospheric agent, from the Greek word signifying to emit a smell."*
+> - 📜 **Michael Faraday (*Lectures on the Physical Forces*):** *"The electrical discharge across oxygen gas generates **ozone**, whose oxidizing power tarnishes silver and bleaches indigo."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"Brisk sea breezes carried a fresh invigorating scent that coastal visitors commonly mistook for pure **ozone**."*

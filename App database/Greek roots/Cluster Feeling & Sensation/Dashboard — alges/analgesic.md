@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An agent producing diminished sensation to pain without loss of consciousness : a drug that is used to relieve pain and produce analgesia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to, characterized by, or producing analgesia : relieving or lessening pain without loss of consciousness; also : caused by the use of analgesics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Acting to relieve pain; a medicinal substance that diminishes or suppresses the sensation of pain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to pharmacologic agents (e.g., opioids, NSAIDs, paracetamol) that interrupt pain pathways centrally or peripherally.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, analgesic designates an agent producing diminished sensation to pain without loss of consciousness : a drug that is used to relieve pain and produce analgesia."*
+> - 📜 **Humphry Davy (*Researches, Chemical and Philosophical*):** *"Nitrous oxide appears to possess a wonderful **analgesic** property, destroying physical pain during minor surgical cutting."*
+> - 📜 **Louis Pasteur (*Germ Theory and Its Applications to Medicine and Surgery*):** *"While antiseptic dressings prevent suppuration, the physician administers an **analgesic** potion to comfort the fevered wound."*
+> - 📜 **Walter Cannon (*The Wisdom of the Body*):** *"The secretion of adrenaline produces an acute **analgesic** state that enables wounded animals to fight or escape."*

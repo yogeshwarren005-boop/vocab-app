@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The position of pastor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The position of pastor.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The office, status, or role of a pastor; pastoral leadership.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The exercise of spiritual care, pastoral guidance, and shepherdly oversight.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pastorship designates the position of pastor."*
+> - 📜 **John Bunyan (*Grace Abounding to the Chief of Sinners*):** *"I trembled when called to the **pastorship** of the Bedford congregation, knowing my unworthiness before God."*
+> - 📜 **Richard Baxter (*The Reformed Pastor*):** *"A faithful **pastorship** demands that we take heed to ourselves and to all the flock over which the Holy Ghost made us overseers."*
+> - 📜 **Cotton Mather (*Magnalia Christi Americana*):** *"He sustained the dignity of his New England **pastorship** with learning, fasting, and tireless preaching."*

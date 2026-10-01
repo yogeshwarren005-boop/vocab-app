@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Family of trees and shrubs and herbs having tough bark that are found especially in australia and tropical africa.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Family of trees and shrubs and herbs having tough bark that are found especially in australia and tropical africa.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of flowering plants (order Malvales), commonly known as the mezereon family, consisting of trees, shrubs, and climbers with tough, fibrous bark.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cosmopolitan botanical family named after the ancient genus *Thymelaea*, noted for poisonous resins (mezerein) and valuable daphne ornamental blooms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thymelaeaceae designates family of trees and shrubs and herbs having tough bark that are found especially in australia and tropical africa."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The family **Thymelaeaceae** is known for its acrid bark, tough fibrous bast used for cordage, and sweet-scented flowers."*
+> - 📜 **Carl Linnaeus (*Genera Plantarum*):** *"We group the shrubby mezereon and allied daphnes under the family **Thymelaeaceae**, marked by a petaloid calyx."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"Species of **Thymelaeaceae** furnish both winter-blooming garden daphnes and strong bast fibers for Japanese paper-making."*

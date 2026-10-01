@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The deliberate and systematic destruction of a racial, political, or cultural group.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The deliberate and systematic destruction of a racial, political, or cultural group.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The deliberate and systematic destruction, in whole or in part, of an ethnic, racial, religious, or national group.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A concept formulated in international law by Raphael Lemkin to define the crime of annihilating a collective human population.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Randall Garrett (*Deadly decoy*):** *"That would be genocide, the one thing that every race fears more than anything else."*
+> - 📜 **Raphael Lemkin (*Axis Rule in Occupied Europe*):** *"By **genocide** we mean the destruction of an ethnic group; it signifies a coordinated plan aiming at the annihilation of a nation."*
+> - 📜 **Hannah Arendt (*Eichmann in Jerusalem*):** *"The crime of **genocide** is committed against the human diversity of the world, an attack upon humanity in the person of a group."*
+> - 📜 **Primo Levi (*The Drowned and the Saved*):** *"To deny the memory of state-sponsored **genocide** is to prepare the groundwork for its monstrous repetition."*

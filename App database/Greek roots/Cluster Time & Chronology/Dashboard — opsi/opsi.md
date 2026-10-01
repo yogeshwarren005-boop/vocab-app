@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek opsi.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Time & Chronology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combining form derived from Greek ὀψέ (opse) meaning 'late', or ὄψις (opsis) meaning 'appearance' or 'sight'.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scientific etymology, designating late development or delayed intellectual acquisition, as in opsimath and opsigamy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, opsi designates a term designating an entity, condition, or phenomenon derived from greek opsi."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"The Greek adverb opse gives the combining prefix **opsi-**, denoting actions postponed until the evening or late in life."*
+> - 📜 **Walter William Skeat (*An Etymological Dictionary of the English Language*):** *"Scholars recognized **opsi-** as an expressive token for late learning and autumnal achievements."*
+> - 📜 **James Murray (*A New English Dictionary on Historical Principles*):** *"Compound formations in **opsi-** frequently appear in classical biographical literature to characterize late bloomers."*

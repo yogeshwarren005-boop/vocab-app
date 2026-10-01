@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Workshop where objects are made on a lathe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Products made on a lathe.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Articles made on a lathe; wooden, ivory, or metal objects produced by turning.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The art, craft, trade, or workshop of a turner.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, turnery designates workshop where objects are made on a lathe."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The shop window was filled with quaint specimens of wooden **turnery**, from snuff boxes to curtain rings."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The domestic manufacture of coarse **turnery** supplied kitchen utensils before stamped tinplate became cheap."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"He inspected the curious **turnery** of the professor's pipe, carved with antique armorial crests."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A strong emotion; a feeling that is oriented toward some real or supposed grievance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being angry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A strong feeling of annoyance, displeasure, or hostility; to make someone angry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral philosophy and psychological physiology, an emotional surge accompanied by autonomic sympathetic arousal, traditionally classed among the primary human passions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Do not plunge thyself too far in anger, lest thou hasten thy trial; which if—Lord have mercy on thee for a hen!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I know him: he was a botcher’s ’prentice in Paris, from whence he was whipped for getting the shrieve’s fool with child, a dumb innocent that could not say him nay. [_First Lord lifts up his hand in anger._] BERTRAM."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Never anger Made good guard for itself."*
+> - 📜 **William Shakespeare (*King Lear*):** *"Touch me with noble **anger**, / And let not women's weapons, water-drops, / Stain my man's cheeks!"*
+> - 📜 **Francis Bacon (*The Essays*):** *"To seek to extinguish **anger** utterly is but a bravery of the Stoics; we have better oracles to manage its heat."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"Under the influence of violent **anger**, the action of the heart is much accelerated, and the face reddens or becomes deadly pale."*

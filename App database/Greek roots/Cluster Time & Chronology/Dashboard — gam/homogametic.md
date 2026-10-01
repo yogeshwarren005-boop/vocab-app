@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Forming gametes which all have the same type of sex chromosome.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Forming gametes which all have the same type of sex chromosome.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Producing gametes that all contain the same kind of sex chromosome (such as XX in human females).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cytogenetics, describing the sex whose germ cells are monomorphic with respect to sex chromosomes (mammalian females or avian males).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, homogametic designates forming gametes which all have the same type of sex chromosome."*
+> - 📜 **Edmund Beecher Wilson (*The Cell in Development and Inheritance*):** *"The female Drosophila is **homogametic**, every mature ovum carrying an identical X chromosome."*
+> - 📜 **Thomas Hunt Morgan (*The Physical Basis of Heredity*):** *"Sex-linked traits passed from an affected father appear in daughters because the **homogametic** mother contributes a normal X."*
+> - 📜 **William Bateson (*Problems of Genetics*):** *"In Lepidoptera, the male represents the **homogametic** sex, carrying two equivalent Z sex chromosomes."*

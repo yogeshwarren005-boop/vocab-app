@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek hed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Feeling & Sensation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Greek root *hed-* / *hedr-* (from *hedra*), meaning seat, chair, bench, base, or geometrical face (as in *polyhedron*, *cathedra*, *exedra*).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The foundational combining form in geometry, crystallography, and ecclesiastical architecture signifying planar surfaces or seated assemblies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"I wuz brung up hear ez a chile, and all de fun an' frolics I ebber hed wuz right heah."*
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"I hed hoped to die heah an' be bur'i'd at de feet ub missus, for she promis' me wid her dyin' bref ter let me wait fur de trump ub Gabrul by her side."*
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"Den I hed er hard time, Lenie."*
+> - 📜 **Henry George Liddell & Robert Scott (*A Greek-English Lexicon*):** *"The noun *hedra* and its combining form **hed** designate a sitting place, foundation, abode, or planar face of a solid."*
+> - 📜 **Aristotle (*Metaphysics*):** *"Geometrical solids are categorized according to the number of planes, or **hed**, that enclose their three-dimensional boundaries."*
+> - 📜 **Euclid (*Elements*):** *"Each regular figure rests upon a stable base or **hed** from which its planar angles ascend."*

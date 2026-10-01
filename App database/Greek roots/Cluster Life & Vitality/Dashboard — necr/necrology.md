@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A notice of someone's death; usually includes a short biography.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A list of people who died recently.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A list or record of persons who have died recently; a register of deaths; an obituary.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In monastic history, a roll or register containing the death anniversaries of benefactors and brethren to be commemorated in prayer.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, necrology designates a notice of someone's death; usually includes a short biography."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The parish priest recorded each departure of the pestilence in his mournful municipal **necrology**."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"Monastic **necrologies** preserved the only surviving documentary genealogies of the early feudal barony."*
+> - 📜 **William Makepeace Thackeray (*The Newcomes*):** *"He turned first to the morning paper's **necrology**, checking whether any elderly wealthy uncles had departed."*

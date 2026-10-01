@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: barium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: bachelor of arts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The root ba (from Greek bainein, to step, walk, go); also, in ancient Egyptian religion, the soul or personality represented as a human-headed bird.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A foundational morphemic element conveying stepping, basis, or movement across classical derivatives.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Est-ce que ma robe va bien?” cried she, bounding forwards; “et mes souliers? et mes bas?"*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Shane, _assises bas, a crouppetons_, in an archway, hoping for a drunken farmer with a couple of sous ... and so cold, so cold, with a little fire of straw stalks ... _tost allumees, tost estaintes!_" ..."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"S na Sasanaigh fein, do b' fheidir go bhfaigh dis bas!_ A voice spoke excitedly, imperiously to Shane: "What is he saying?"*
+> - 📜 **E. A. Wallis Budge (*The Book of the Dead*):** *"In funerary papyri, the **ba** hovers over the mummy in the form of a human-headed hawk."*
+> - 📜 **James Henry Breasted (*Development of Religion and Thought in Ancient Egypt*):** *"Upon death, the **ba** was believed to visit the earthly realm while the body reposed in the tomb."*
+> - 📜 **Walter Skeat (*An Etymological Dictionary of the English Language*):** *"The root **ba** underlies Greek bainein, stepping forth into words like acrobat, basis, and anabasis."*

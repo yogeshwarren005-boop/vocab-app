@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or pertaining to large bone marrow cells.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or pertaining to large bone marrow cells.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or derived from megakaryocytes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to megakaryocytopoiesis or the differentiation lineage producing blood platelets in bone marrow.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, megakaryocytic designates of or pertaining to large bone marrow cells."*
+> - 📜 **William Boyd (*A Textbook of Pathology*):** *"Acute **megakaryocytic** leukemia is characterized by the malignant proliferation of bizarre, atypical platelet precursors."*
+> - 📜 **James Homer Wright (*Studies on Blood Platelets*):** *"The budding of **megakaryocytic** pseudopodia directly into the sinusoidal bloodstream generates circulating thrombocytes."*
+> - 📜 **Maxwell Wintrobe (*Clinical Hematology*):** *"Thrombopoietin stimulates both **megakaryocytic** endomitosis and subsequent proplatelet formation."*

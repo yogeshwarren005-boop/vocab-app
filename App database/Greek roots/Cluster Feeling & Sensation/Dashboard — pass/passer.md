@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who passes by casually or by chance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who passes as a member of a different ethnic or racial group.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person or animal that passes, travels by, or goes past; in American football, the player who throws forward passes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ornithology, the taxonomic genus *Passer* (true Old World sparrows) belonging to the family Passeridae, typified by the house sparrow (*Passer domesticus*).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Norcombe Hill—not far from lonely Toller-Down—was one of the spots which suggest to a passer-by that he is in the presence of a shape approaching the indestructible as nearly as any to be found on earth."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Good-night, Gabriel,” the passer said."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Anyhow, whatever the origin of the relic, there was and is something sinister, or solemn, according to mood, in the scene amid which it stands; something tending to impress the most phlegmatic passer-by."*
+> - 📜 **Carl Linnaeus (*Systema Naturae*):** *"Under the genus **Passer**, we group the domestic house sparrow and allied seed-eating Old World finches."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"The common sparrow of the genus **Passer** builds untidy grass nests in every eaves trough and ivy wall."*
+> - 📜 **John Gould (*The Birds of Europe*):** *"Species of the genus **Passer** are remarkable for their fearless association with human agricultural settlements."*

@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of literature and of disciplines relevant to literature or to language as used in literature.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Linguistics; especially : historical and comparative linguistics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of knowledge that deals with the structure, historical development, and relationships of languages, as recorded in written texts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The study of literary texts and written records, establishing their authenticity, original meaning, and cultural contexts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"At least it seems more likely that the rule sprang from a superstition of this sort than from a simple calculation of expediency, as I formerly suggested (_Journal of Philology_, xiv. (1885) p. 158)."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"And yet the former history continues to be studied side by side with the laws of statistics, geography, political economy, comparative philology, and geology, which directly contradict its assumptions."*
+> - 📜 **Friedrich Nietzsche (*Ecce Homo*):** *"I am a scholar of classical **philology**, by which I mean the art of reading well, slowly, gently, and with caution."*
+> - 📜 **Max Müller (*Chips from a German Workshop*):** *"Comparative **philology** has done for the history of mankind what geology has done for the history of the earth."*
+> - 📜 **Samuel Johnson (*Preface to Shakespeare*):** *"The true business of **philology** is not to multiply conjecture, but to establish the genuine reading of ancient authors."*

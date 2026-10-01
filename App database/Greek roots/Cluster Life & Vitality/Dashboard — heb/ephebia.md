@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek heb.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Life & Vitality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state, period, or age of youth; adolescence, especially the period of civic and military training in ancient Greece (ephebeia).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The institutional two-year state training program undergone by young Athenian citizens upon reaching adulthood at age eighteen.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ephebia designates a term designating an entity, condition, or phenomenon derived from greek heb."*
+> - 📜 **Aristotle (*The Constitution of the Athenians*):** *"During their **ephebia**, the young men are maintained at public expense and garrison the frontier forts of Attica."*
+> - 📜 **George Grote (*A History of Greece*):** *"The sacred oath taken at the commencement of the **ephebia** bound the young citizen to defend his homeland and laws."*
+> - 📜 **Walter Burkert (*Greek Religion*):** *"Transition through the **ephebia** was marked by solemn sacrifices and initiation into the religious brotherhoods of the polis."*

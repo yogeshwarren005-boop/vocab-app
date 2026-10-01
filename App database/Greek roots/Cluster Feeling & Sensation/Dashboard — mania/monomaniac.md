@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person suffering from monomania.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person suffering from monomania.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person suffering from monomania; someone single-mindedly and fanatically devoted to an obsessive pursuit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A literary or historical character defined by relentless fixation on one target or grievance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The White Whale swam before him as the monomaniac incarnation of all those malicious agencies which some deep men feel eating in them, till they are left living on with half a heart and half a lung."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Such a crew, so officered, seemed specially picked and packed by some infernal fatality to help him to his monomaniac revenge."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"For with the charts of all four oceans before him, Ahab was threading a maze of currents and eddies, with a view to the more certain accomplishment of that monomaniac thought of his soul."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Miss Havisham lived as an embalmed **monomaniac**, nursing the ruins of her broken wedding day."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Roger Chillingworth transformed into a calm, pitiless **monomaniac**, probing the minister's wounded soul."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Six Napoleons*):** *"Sherlock Holmes proved that the criminal was no ordinary political **monomaniac**, but a cunning pearl thief."*

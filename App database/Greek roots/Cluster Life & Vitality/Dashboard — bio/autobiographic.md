@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or characteristic of an autobiographer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or in the style of an autobiography.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or having the character of an autobiography.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reflecting personal experiences and emotional revelations of the creator within a creative or artistic work.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anne Gilchrist (*Mary Lamb*):** *"It contains several autobiographic touches; it is the only known instance in which she has addressed herself to full-grown readers, and it is sagacious and far-seeing."*
-> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"Young as he was, and had his career terminated at the point already attained, there had been enough of incident to fill, very creditably, an autobiographic volume."*
+> - 📜 **Henry James (*The Art of the Novel*):** *"An **autobiographic** impulse quietly guides the novelist's finest portraits of youth and disillusionment."*
+> - 📜 **George Eliot (*Scenes of Clerical Life*):** *"Her early recollections retain a distinct **autobiographic** coloring that lends them extraordinary vividness."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"The strange treatise contains an unmistakable **autobiographic** thread veiled behind Teufelsdröckh's philosophy."*

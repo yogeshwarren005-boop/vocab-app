@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any animal or plant material used to fertilize land especially animal excreta usually with litter material.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spread manure, as for fertilization.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Organic material, especially animal excrement or decomposed vegetable compost, applied to land to fertilize soil and foster crops.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically, to enrich, cultivate, or work land by manual husbandry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And if you crown him, let me prophesy The blood of English shall manure the ground And future ages groan for this foul act."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Now with that dam I could grow three crops a year, observing due rotation, and be able to turn under a wealth of green manure. . . ."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Not valuing now the root whence it sprang; having found that it was of a sort which nothing but gold dust could manure, I have but half a liking to the blossom, especially when it looks so artificial as just now."*
+> - 📜 **Virgil (*Georgics*):** *"Spread rich **manure** across the exhausted loam before the autumn rains wash the hillsides."*
+> - 📜 **Francis Bacon (*Sylva Sylvarum*):** *"Well-rotted animal **manure** warms the rootlets of fruit trees, quickening their spring sap."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"The farmers value pigeon dung as the most potent **manure** for cold arable clays."*

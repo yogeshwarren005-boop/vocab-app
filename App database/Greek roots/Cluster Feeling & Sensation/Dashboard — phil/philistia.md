@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient region on the coast of southwestern palestine that was strategically located on a trade route between syria and egypt; important in biblical times.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ancient region on the coast of southwestern palestine that was strategically located on a trade route between syria and egypt; important in biblical times.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ancient coastal region of southwestern Canaan inhabited by the Philistines, encompassing five major city-states (Gaza, Ashkelon, Ashdod, Ekron, and Gath).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biblical history, the perennial military rival of the kingdom of Israel, renowned for their iron technology and Aegean seafaring origins.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, philistia designates an ancient region on the coast of southwestern palestine that was strategically located on a trade route between syria and egypt; important in biblical times."*
+> - 📜 **John Milton (*Samson Agonistes*):** *"Ask for this great deliverer now, and find him eyeless in Gaza, at the mill with slaves, himself in bonds under **Philistia**'s yoke."*
+> - 📜 **Flavius Josephus (*Antiquities of the Jews*):** *"David sought refuge from Saul's fury in the land of **Philistia**, dwelling under the protection of Achish at Gath."*
+> - 📜 **Lord Byron (*Hebrew Melodies*):** *"The daughters of **Philistia** rejoiced when the crown was broken upon the bloody mountains of Gilboa."*

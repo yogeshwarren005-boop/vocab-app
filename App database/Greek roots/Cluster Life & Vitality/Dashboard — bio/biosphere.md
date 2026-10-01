@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The part of the world in which life can exist.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Living organisms together with their environment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The global ecological system comprising all living beings and their relationships with the lithosphere, hydrosphere, and atmosphere.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The thin outer crust and gaseous envelope of planet Earth where living organisms exist and actively cycle matter and energy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, biosphere designates the part of the world in which life can exist."*
+> - 📜 **Vladimir Vernadsky (*The Biosphere*):** *"Living matter is the most powerful cosmic force transforming the face of the Earth throughout the **biosphere**."*
+> - 📜 **Eduard Suess (*The Face of the Earth*):** *"One thing seems foreign on this large celestial body: the envelope of living matter which we may term the **biosphere**."*
+> - 📜 **Lynn Margulis (*Symbiotic Planet*):** *"The Gaia hypothesis views the entire **biosphere** as a complex, self-regulating physiological system."*

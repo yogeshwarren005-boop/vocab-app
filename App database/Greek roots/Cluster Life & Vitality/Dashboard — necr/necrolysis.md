@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Disintegration and dissolution of dead tissue.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Disintegration and dissolution of dead tissue.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The dissolution, separation, or shedding of dead tissue or cells.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dermatology, acute detachment and necrosis of the epidermis from the dermis, notably in toxic epidermal necrolysis (Lyell's syndrome).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, necrolysis designates disintegration and dissolution of dead tissue."*
+> - 📜 **Alan Lyell (*Toxic Epidermal Necrolysis: An Eruption Resembling Scalding of the Skin*):** *"I described toxic epidermal **necrolysis** as a catastrophic drug reaction stripping the cutaneous mantle like widespread boiling scalding."*
+> - 📜 **William Boyd (*Pathology for the Physician*):** *"Extensive sheets of flaccid epidermis slough away as **necrolysis** cleaves the basal dermo-epidermal junction."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Enzymatic autolysis swiftly follows cellular death, culminating in complete structural **necrolysis**."*

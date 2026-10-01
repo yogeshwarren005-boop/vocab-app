@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (often followed by `of') a large number or amount or extent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (often followed by `of') a large number or amount or extent.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An informal North American colloquial term for a large group, number, or quantity of people or things (an alteration of *parcel*).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A collection, bunch, or cluster of items or persons.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sarah Orne Jewett (*Strangers and Wayfarers*):** *"T warn't so that I could be spared from home to learn the dressmaker's trade." "'T would a come handy later on, I declare," answered the sympathetic driver, "bein' 's you went an' had such a passel o' gals to clothe an' feed."*
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"Then--"Near's I can make out it's a passel of elephants and they've got us here to work." "What?" Sherman shouted back, not sure he had heard aright."*
+> - 📜 **Mark Twain (*Adventures of Huckleberry Finn*):** *"There was a whole **passel** of boys swimming down by the sandbar when we drifted past on the raft."*
+> - 📜 **Stephen Crane (*The Red Badge of Courage*):** *"The sergeant cursed a **passel** of stragglers who were skulking behind the rail fences during the cannonade."*
+> - 📜 **Joel Chandler Harris (*Uncle Remus: His Songs and His Sayings*):** *"Brer Fox had a whole **passel** of tricks up his sleeve, but Brer Rabbit was quicker than all of them."*

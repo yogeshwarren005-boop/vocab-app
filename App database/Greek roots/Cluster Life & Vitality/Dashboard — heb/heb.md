@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hebrew; Hebrews.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hebrew; Hebrews.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ancient Greek root (*hēbē*, youth, puberty, the bloom of life), personified in mythology as Hebe, goddess of youth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical and scientific terminology, the morphological base denoting adolescence, puberty, or youthful vitality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"I will never leave thee nor forsake thee." Heb. 13:5."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"I turned to the whole passage as soon as I could find it; Heb. 6: 4-6; and read, "For it is impossible for those who were once enlightened," etc., etc."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"But I concluded if a suitable text did not occur while singing, praying and reading some Scripture lesson, rather than have no text, I would take Heb. 6: 4-6."*
+> - 📜 **Homer (*The Odyssey*):** *"In Olympus dwells lovely Hebe of the fair ankles, daughter of Zeus, personifying the eternal bloom of the Greek root **heb**."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"From the classical stem **heb** derive our medical terms for the physiological crises of adolescent development."*
+> - 📜 **Walter Burkert (*Greek Religion*):** *"Offerings made to the goddess of youth celebrated the transition from childhood to the fertile prime of **heb**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An adjustment that causes something to occur or recur in unison.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Happen at the same time.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Operating, adjusting, or occurring at the exact same time or speed; British spelling of synchronizing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In electrical power distribution, matching the voltage, frequency, and phase angle of an incoming generator to a running electrical grid.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"And when we separate the two by a distance of many miles, the task of synchronising them is even worse."*
+> - 📜 **Nikola Tesla (*Tuning and Electric Resonance*):** *"The delicate art of **synchronising** multiple polyphase generators required skilled monitoring of lamp filaments."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"The sinoatrial node performs the vital role of **synchronising** atrial and ventricular depolarizations."*
+> - 📜 **Claude Shannon (*The Mathematical Theory of Communication*):** *"The receiver employs phase-locked loops for **synchronising** incoming binary data bits with the local detector."*

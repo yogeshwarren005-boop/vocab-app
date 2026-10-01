@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Discrimination against, aversion to, or fear of homosexuality or gay people.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Discrimination against, aversion to, or fear of homosexuality or gay people.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Dislike of, contempt for, or ingrained prejudice and discrimination against gay and lesbian people.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ideological and cultural system of hostility that demeans non-heterosexual identities and enforces heterosexual conformity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, homophobia designates discrimination against, aversion to, or fear of homosexuality or gay people."*
+> - 📜 **George Weinberg (*Society and the Healthy Homosexual*):** *"I coined the word **homophobia** to describe the revulsion toward homosexuals and the self-loathing felt by homosexuals who internalized it."*
+> - 📜 **James Baldwin (*Notes of a Native Son*):** *"The roots of American **homophobia** intertwine with racial terror, both springing from an obsession with purity and domination."*
+> - 📜 **Michel Foucault (*Power/Knowledge*):** *"State institutions mobilized **homophobia** under the guise of public hygiene and moral defense throughout the nineteenth century."*

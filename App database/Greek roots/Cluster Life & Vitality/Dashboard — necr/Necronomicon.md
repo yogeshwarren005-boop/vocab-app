@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek necr.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Life & Vitality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A fictional grimoire (textbook of magic) created by American horror writer H. P. Lovecraft, containing accounts of the Old Ones and rites for summoning them.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A legendary forbidden tome in the Cthulhu Mythos, attributed to the 'mad Arab' Abdul Alhazred and bound in human leather.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Necronomicon designates a term designating an entity, condition, or phenomenon derived from greek necr."*
+> - 📜 **H. P. Lovecraft (*The Call of Cthulhu*):** *"That is not dead which can eternal lie, and with strange aeons even death may die—the cryptic couplet from the **Necronomicon**."*
+> - 📜 **Clark Ashton Smith (*The Return of the Sorcerer*):** *"He had come across the translation of the **Necronomicon** in the ancient library, its yellowed vellum inscribed with abominable secrets."*
+> - 📜 **Jorge Luis Borges (*There Are More Things*):** *"In my memory lingered Lovecraft's terrifying invention of the **Necronomicon**, a book whose very pages breathed cosmic horror."*

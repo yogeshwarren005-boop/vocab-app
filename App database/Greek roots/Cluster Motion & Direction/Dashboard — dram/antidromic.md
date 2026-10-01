@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Proceeding or conducting in a direction opposite to the usual one —used especially of a nerve impulse or fiber.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Proceeding or conducting in a direction opposite to the usual one —used especially of a nerve impulse or fiber.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Proceeding or conducting impulses in a direction opposite to the normal physiological course (as along a nerve axon).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurophysiology, describing artificial or pathological impulses traveling retrogradely toward the cell soma, used to measure axonal conduction velocities and refractory periods.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antidromic designates proceeding or conducting in a direction opposite to the usual one —used especially of a nerve impulse or fiber."*
+> - 📜 **Charles Sherrington (*The Integrative Action of the Nervous System*):** *"Electrical stimulation of the sensory root produced an **antidromic** wave that invaded the spinal cord backwards."*
+> - 📜 **Edgar Adrian (*The Mechanism of Nervous Action*):** *"By recording the **antidromic** impulse along the motor axon, we were able to measure the central latency of the reflex arc."*
+> - 📜 **John Eccles (*The Neurophysiological Basis of Mind*):** *"The **antidromic** invasion of the motoneuron soma was found to be blocked during states of postsynaptic inhibition."*

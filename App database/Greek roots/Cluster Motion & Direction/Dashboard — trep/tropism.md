@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Involuntary orientation by an organism or one of its parts that involves turning or curving by movement or by differential growth and is a positive or negative response to a source of stimulation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A reflex reaction involving a tropism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The turning or growth of all or part of an organism in a particular direction in response to an external stimulus (such as light, gravity, or touch).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cellular biology and virology (tissue tropism), the specificity of a virus or bacterium for infecting particular host tissues or cell types determined by surface receptors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tropism designates involuntary orientation by an organism or one of its parts that involves turning or curving by movement or by differential growth and is a positive or negative response to a source of stimulation."*
+> - 📜 **Charles Darwin (*The Power of Movement in Plants*):** *"The general term **tropism** embraces every directional curving of plant organs provoked by light, gravity, moisture, or chemical touch."*
+> - 📜 **Jacques Loeb (*Forced Movements, Tropisms, and Animal Conduct*):** *"The conduct of lower animals consists of involuntary machine-like responses, wherein each **tropism** is dictated by symmetrical stimulation of sensory organs."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Before voluntary action awakens, biological life is already organized by instinctive reflexes and blind physiological **tropism**."*

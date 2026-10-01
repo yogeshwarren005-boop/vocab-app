@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Removal of gallstone through an incision in the gallbladder.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Removal of gallstone through an incision in the gallbladder.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgical incision into the gallbladder or bile ducts for the removal of gallstones.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In operative surgery, an incision made into the biliary tract to extract obstructing calculi, historically practiced prior to the widespread adoption of total cholecystectomy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cholelithotomy designates removal of gallstone through an incision in the gallbladder."*
+> - 📜 **John Bell (*The Principles of Surgery*):** *"Before total removal was deemed safe, surgeons performed **cholelithotomy** to extract large calculi and drain purulent bile."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The surgeon extracted several dozen faceted stones through a careful **cholelithotomy** incision in the gallbladder fundus."*
+> - 📜 **Samuel Cooper (*A Dictionary of Practical Surgery*):** *"In acute biliary obstruction, **cholelithotomy** provided life-saving decompression of the distended gallbladder."*

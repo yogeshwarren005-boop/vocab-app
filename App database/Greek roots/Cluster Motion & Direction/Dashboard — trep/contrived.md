@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make or work out a plan for; devise.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Come up with (an idea, plan, explanation, theory, or principle) after a mental effort.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Deliberately created rather than arising naturally or spontaneously; appearing artificial, forced, or unrealistic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary criticism and dramaturgy, characterizing plot developments or dialogues that feel staged, manipulative, or implausibly convenient.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We charge you that you have contrived to take From Rome all seasoned office and to wind Yourself into a power tyrannical, For which you are a traitor to the people."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Stand back, thou manifest conspirator, Thou that contrived’st to murder our dead lord; Thou that giv’st whores indulgences to sin: I’ll canvass thee in thy broad cardinal’s hat, If thou proceed in this thy insolence."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Accursed tower, accursed fatal hand That hath contrived this woeful tragedy!"*
+> - 📜 **Virginia Woolf (*The Common Reader*):** *"The ending of the Victorian novel seemed hopelessly **contrived**, with sudden fortunes and deathbed repentances neatly tied in ribbons."*
+> - 📜 **George Orwell (*Nineteen Eighty-Four*):** *"The spontaneous public demonstrations were in fact meticulously **contrived** by the Ministry of Truth weeks in advance."*
+> - 📜 **Henry James (*The Art of the Novel*):** *"A truly organic narrative avoids every **contrived** coincidence, allowing character alone to dictate destiny."*

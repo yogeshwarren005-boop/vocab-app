@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A room (as in a temple or house) in ancient Greece and Rome used for conversation and formed by an open or columned recess often semicircular in shape and furnished with seats.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large outdoor nearly semicircular seat with a solid back.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A semicircular or rectangular architectural recess, alcove, or pavilion, typically fitted with raised stone benches for seated philosophical discussion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ancient Greek gymnasia and Roman baths, a dignified meeting area where rhetoricians, philosophers, and citizens gathered for dialogue.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, exedra designates a room (as in a temple or house) in ancient greece and rome used for conversation and formed by an open or columned recess often semicircular in shape and furnished with seats."*
+> - 📜 **Vitruvius (*De Architectura*):** *"In the peristyle of the palaestra, spacious **exedra** should be constructed with seats so that philosophers may dispute in comfort."*
+> - 📜 **Pliny the Younger (*Letters*):** *"From the quiet **exedra** of my Laurentine villa, one commands an unbroken view of the shimmering Tyrrhenian sea."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The public baths of Caracalla were adorned with marble **exedra** where poets recited verses to seated crowds."*

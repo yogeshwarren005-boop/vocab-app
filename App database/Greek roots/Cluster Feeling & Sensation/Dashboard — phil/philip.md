@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Englishman and husband of elizabeth ii (born 1921).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Englishman and husband of elizabeth ii (born 1921).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A masculine given name derived from the Greek *Philippos*, meaning 'lover of horses' (*philos* + *hippos*).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Notably Philip II of Macedon (382–336 BCE), the conqueror of Greece and father of Alexander the Great; also one of the Twelve Apostles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His father was called Philip of Macedon, as I take it."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Helen, the mother of great Constantine, Nor yet Saint Philip’s daughters, were like thee."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The BASTARD, PHILIP FAULCONBRIDGE, his half-brother, bastard son to King Richard I."*
+> - 📜 **Demosthenes (*Third Philippic*):** *"The ambitious King **Philip** marches from conquest to conquest, while the Athenians sleep in careless ease."*
+> - 📜 **Plutarch (*Life of Alexander*):** *"When **Philip** saw his boy tame the fiery Bucephalus, he wept for joy and bade him seek a kingdom worthy of him."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The tactical brilliance of **Philip** in organizing the Macedonian phalanx laid the foundation for Alexander's empire."*

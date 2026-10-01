@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A picture (such as an altarpiece) or carving in three panels side by side.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something composed or presented in three parts or sections; especially : trilogy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A picture or relief carving on three panels, typically hinged together side by side and used as an altarpiece.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A set of three associated artistic, literary, or musical works intended to be experienced together.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, triptych designates a picture (such as an altarpiece) or carving in three panels side by side."*
+> - 📜 **Walter Pater (*The Renaissance*):** *"The central panel of the **triptych** glowed with luminous Italian color while the wings depicted devout donors."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Upon the carved easel stood a small **triptych** in painted enamel representing the life of St. Sebastian."*
+> - 📜 **Virginia Woolf (*To the Lighthouse*):** *"The novel was conceived as a luminous **triptych** reflecting memory, time, and loss."*

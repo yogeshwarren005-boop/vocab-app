@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mayflies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mayflies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An obsolete taxonomic order or suborder of aquatic insects comprising the mayflies, now classified under the order Ephemeroptera.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nineteenth-century systematic entomology, the group of paleopterous insects characterized by membranous wings, setaceous antennae, and caudal cerci.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog ephemerida as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Louis Agassiz (*Contributions to the Natural History of the United States*):** *"In our taxonomic arrangement, the **Ephemerida** represent an ancient type of insect architecture known since the Carboniferous."*
+> - 📜 **Charles Valentine Riley (*Report of the Entomologist*):** *"Swarming flights of **Ephemerida** along lake shores deposit immense drifts of organic fertilizer upon the beaches."*
+> - 📜 **L. O. Howard (*The Insect Book*):** *"The older naturalists placed the mayflies in the order **Ephemerida**, marveling at their brief hours of winged existence."*

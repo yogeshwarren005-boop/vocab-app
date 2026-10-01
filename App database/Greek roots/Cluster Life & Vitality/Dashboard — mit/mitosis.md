@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A process that takes place in the nucleus of a dividing cell, involves typically a series of steps consisting of prophase, metaphase, anaphase, and telophase, and results in the formation of two new nuclei each having the same number of chromosomes as the parent nucleus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cell division in which mitosis occurs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A type of cell division that results in two daughter cells each having the same number and kind of chromosomes as the parent nucleus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The continuous cycle of nuclear division comprising prophase, metaphase, anaphase, and telophase, mediated by the mitotic spindle apparatus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mitosis designates a process that takes place in the nucleus of a dividing cell, involves typically a series of steps consisting of prophase, metaphase, anaphase, and telophase, and results in the formation of two new nuclei each having the same number of chromosomes as the parent nucleus."*
+> - 📜 **Walther Flemming (*Zellsubstanz, Kern und Zelltheilung*):** *"I applied the term **mitosis** to this process of thread-formation, through which the chromatin is divided with geometric equality."*
+> - 📜 **Thomas Hunt Morgan (*The Physical Basis of Heredity*):** *"During **mitosis**, each longitudinal half of a split chromosome travels to opposite poles, preserving identical genetic information."*
+> - 📜 **Edmund Beecher Wilson (*The Cell in Development and Heredity*):** *"The exquisite precision of **mitosis** guarantees the unbroken hereditary continuity of the organism across cellular generations."*

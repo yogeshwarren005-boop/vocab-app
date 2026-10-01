@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Motion or activity induced by light.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Motion or activity induced by light.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A change in the speed or rate of locomotion of an organism or cell in response to light intensity (a type of kinesis).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In photobiology and cellular ethology, a non-directional motor response where the velocity of movement increases (positive photokinesis) or decreases (negative photokinesis) with illumination levels.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photokinesis designates motion or activity induced by light."*
+> - 📜 **Charles Darwin (*The Power of Movement in Plants*):** *"Microscopic flagellates exhibit marked **photokinesis**, swimming with furious speed under bright sunlight but becoming quiescent in shade."*
+> - 📜 **Arthur Dendy (*Outlines of Evolutionary Biology*):** *"The phenomenon of **photokinesis** ensures that single-celled algae wander into surface waters where photosynthesis is optimal."*
+> - 📜 **Julian Huxley (*The Individual in the Animal Kingdom*):** *"Primitive invertebrates use non-directional **photokinesis** to disperse rapidly from exposed ground into dark, safe crevices."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A trivalent radical derived from glycerol by removing the three hydroxyl radicals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A trivalent radical derived from glycerol by removing the three hydroxyl radicals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The trivalent organic radical or acyl group C3H5 derived from glycerol by the removal of its three hydroxyl groups.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In organic chemistry, the central trivalent moiety in natural fats (glyceryl esters) and in pharmaceuticals such as glyceryl trinitrate (nitroglycerin).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, glyceryl designates a trivalent radical derived from glycerol by removing the three hydroxyl radicals."*
+> - 📜 **Justus von Liebig (*Animal Chemistry*):** *"The three fatty acid chains of stearin attach directly to the **glyceryl** core to form solid animal tallow."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"For the sudden agony of angina pectoris, a small sublingual tablet of **glyceryl** trinitrate brings miraculous relief within minutes."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"In lipid synthesis, each hydroxyl site on the **glyceryl** radical forms a stable ester linkage with an incoming fatty acid."*

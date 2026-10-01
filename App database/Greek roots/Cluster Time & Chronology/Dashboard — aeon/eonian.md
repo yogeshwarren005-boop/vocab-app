@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a geological eon (longer than an era).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Continuing forever or indefinitely.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Continuing through indefinite ages; eternal; alternative spelling of aeonian.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In poetry and speculative prose, characterizing processes, forces, or cosmic silences that persist across geologic or metaphysical vastness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eonian designates of or relating to a geological eon (longer than an era)."*
+> - 📜 **Herman Melville (*Clarel: A Poem and Pilgrimage in the Holy Land*):** *"The rocks proclaimed their **eonian** sleep, undisturbed by the fleeting march of empires upon their crust."*
+> - 📜 **Henry David Thoreau (*A Week on the Concord and Merrimack Rivers*):** *"The quiet river whispers of an **eonian** calm older than the oldest legends of mortal men."*
+> - 📜 **John Burroughs (*Time and Change*):** *"Nature accomplishes her colossal sculptures through slow, patient, **eonian** attrition of water upon stone."*

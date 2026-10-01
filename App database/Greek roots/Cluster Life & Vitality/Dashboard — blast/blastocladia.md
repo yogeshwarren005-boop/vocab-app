@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of fungi of the family blastodiaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of fungi of the family blastodiaceae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of zoosporic, saprophytic water molds in the order Blastocladiales with branched thalli.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Aquatic fungi inhabiting submerged plant debris, characterized by resistant sporangia and motile uniflagellate zoospores.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, blastocladia designates a genus of fungi of the family blastodiaceae."*
+> - 📜 **Roland Thaxter (*Contributions from the Cryptogamic Laboratory*):** *"The basal cell of **Blastocladia** attaches firmly to decaying twigs by means of delicate rhizoidal outgrowths."*
+> - 📜 **John N. Couch (*Observations on the Genus Blastocladia*):** *"Under anaerobic pond conditions, species of **Blastocladia** form distinctive thick-walled resting sporangia."*
+> - 📜 **F. K. Sparrow (*Aquatic Phycomycetes*):** *"Microscopic examination of **Blastocladia** revealed uniflagellate gametes exhibiting true anisogamous copulation."*

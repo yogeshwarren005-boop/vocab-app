@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek hedon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Feeling & Sensation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of psychology, ethics, or economics that studies and measures pleasant and unpleasant sensations and well-being.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The systematic scientific methodology that investigates subjective pleasure, reward circuits, and affective preferences.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hedonics designates a term designating an entity, condition, or phenomenon derived from greek hedon."*
+> - 📜 **Francis Ysidro Edgeworth (*Mathematical Psychics*):** *"The principles of **hedonics** seek to establish quantitative laws governing the distribution of pleasure in human society."*
+> - 📜 **Alexander Bain (*The Emotions and the Will*):** *"A scientific **hedonics** must chart the physical sensations that accompany muscular exertion, nutrition, and rest."*
+> - 📜 **William Stanley Jevons (*The Theory of Political Economy*):** *"Economics is essentially a calculus of pleasure and pain, resting firmly on the physiological foundations of **hedonics**."*

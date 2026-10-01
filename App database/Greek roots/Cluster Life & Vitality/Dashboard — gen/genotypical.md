@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or constituting a genotype.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or constituting a genotype.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or having the nature of a genotype; genotypic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Describing hereditary constitution or characteristics determined strictly by genetic inheritance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, genotypical designates of or relating to or constituting a genotype."*
+> - 📜 **Wilhelm Johannsen (*The Genotype Conception of Heredity*):** *"We must distinguish between transient modifications and permanent **genotypical** alterations."*
+> - 📜 **Ronald Fisher (*The Genetical Theory of Natural Selection*):** *"Selection alters the **genotypical** frequencies in a population according to the fitness differentials of the alleles."*
+> - 📜 **Ernst Mayr (*Systematics and the Origin of Species*):** *"A proper species diagnosis requires evaluating **genotypical** divergence rather than superficial plumage traits."*

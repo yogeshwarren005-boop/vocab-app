@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek agap.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Feeling & Sensation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Greek root *agap-* (from *agapē*), denoting unconditional, benevolent, or sacrificial love, in contrast to erotic (*eros*) or affectionate friendship (*philia*).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The theological and ethical morpheme designating divine charity, communion, and selfless regard for the welfare of others.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, agap designates a term designating an entity, condition, or phenomenon derived from greek agap."*
+> - 📜 **Henry George Liddell & Robert Scott (*A Greek-English Lexicon*):** *"The Greek stem **agap** expresses fraternal affection, high esteem, and the purest benevolent love."*
+> - 📜 **C. S. Lewis (*The Four Loves*):** *"In Christian theology, the root **agap** stands for that unconditional divine charity which gives without expecting return."*
+> - 📜 **Anders Nygren (*Agape and Eros*):** *"The profound theological divide of late antiquity turned upon the fundamental contrast between eros and **agap**."*

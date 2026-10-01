@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek kine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Motion & Direction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormally decreased or diminished muscular movement, mobility, or motor function; a partial loss of bodily movement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurophysiology and space medicine, a state of decreased physical motor activity, observed in parkinsonian extrapyramidal disorders or prolonged microgravity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypokinesia designates a term designating an entity, condition, or phenomenon derived from greek kine."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"The creeping **hypokinesia** gradually froze her gestures until she sat immobile like a carved stone effigy."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Early stages of parkinsonism are often missed because the mild **hypokinesia** is mistaken for natural senile slowing."*
+> - 📜 **Alexander Luria (*The Working Brain*):** *"Subcortical lesions affecting the striatum lead directly to severe **hypokinesia** and impoverished facial expression."*

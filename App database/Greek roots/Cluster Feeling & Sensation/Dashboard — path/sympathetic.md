@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Existing or operating through an affinity, interdependence, or mutual association.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Appropriate to one's mood, inclinations, or disposition.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeling, showing, or expressing sympathy, compassion, and understanding for another person's distress.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to the thoracic-lumbar division of the autonomic nervous system that prepares the body for fight or flight; in physics, vibrating in resonance with another body.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"I am so curious," said Loneli, taking leave, and Mea promised to give the sympathetic Loneli a full report of everything."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby, law-stationer of Cook’s Court, Cursitor Street, is sensible of the influence not only in his mind as a sympathetic and contemplative man, but also in his business as a law-stationer aforesaid."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The sympathetic man still looked the other way, and wondered when she would recover coolness sufficient to justify him in facing her again."*
+> - 📜 **William Shakespeare (*The Tempest*):** *"Mine eyes, even sociable to the show of thine, fall fellowly drops in **sympathetic** sorrow."*
+> - 📜 **Walter Cannon (*Bodily Changes in Pain, Hunger, Fear and Rage*):** *"Activation of the **sympathetic** nervous system dilates the bronchioles, accelerates heart rate, and pours sugar into the blood."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Communities that included the greatest number of **sympathetic** members would flourish best and rear the greatest number of offspring."*

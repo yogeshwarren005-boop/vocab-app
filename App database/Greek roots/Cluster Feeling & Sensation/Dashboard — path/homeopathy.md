@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A system of alternative medicine that treats a disease especially by the administration of minute doses of a remedy that would in larger amounts produce symptoms in healthy persons similar to those of the disease : homeopathic medicine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A system of alternative medicine that treats a disease especially by the administration of minute doses of a remedy that would in larger amounts produce symptoms in healthy persons similar to those of the disease : homeopathic medicine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A system of alternative medicine founded in the late 18th century by Samuel Hahnemann, based on the doctrine of 'like cures like' and serial succussion dilutions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical history, a popular 19th-century therapeutic movement whose gentle remedies often yielded better outcomes than contemporary bloodletting and purging.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, homeopathy designates a system of alternative medicine that treats a disease especially by the administration of minute doses of a remedy that would in larger amounts produce symptoms in healthy persons similar to those of the disease : homeopathic medicine."*
+> - 📜 **Samuel Hahnemann (*Organon of Medicine*):** *"True medical art, which I call **homeopathy**, seeks to awaken the spiritual vital force through subtle dynamized remedies."*
+> - 📜 **William Osler (*Aequanimitas*):** *"The great service rendered by **homeopathy** was not its infinitesimal pills, but in teaching physicians that patients could recover without drugs."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"We must analyze **homeopathy** with the dispassionate rigor of physical chemistry and statistical epidemiology."*

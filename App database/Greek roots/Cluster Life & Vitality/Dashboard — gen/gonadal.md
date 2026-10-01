@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the gonads.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the gonads.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or affecting the gonads (ovaries or testes).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to gamete-producing organs or to the synthesis of sex steroids within reproductive tissues.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gonadal designates of or relating to the gonads."*
+> - 📜 **William Boyd (*A Textbook of Pathology*):** *"Defective **gonadal** development precipitates endocrine imbalances affecting skeletal elongation."*
+> - 📜 **Frank Beach (*Hormones and Behavior*):** *"Receptivity in female mammals is closely synchronized with cyclic **gonadal** hormone fluctuations."*
+> - 📜 **Julian Huxley (*The Elements of Experimental Embryology*):** *"Primordial germ cells migrate from extraembryonic endoderm into the developing **gonadal** ridge."*

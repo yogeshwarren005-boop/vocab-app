@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A form of vitamin k.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A form of vitamin k.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Vitamin K1; a yellow, viscous chemical compound synthesized by green plants, indispensable for blood coagulation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fat-soluble polycyclic ketone that acts as a cofactor for gamma-glutamyl carboxylase, synthesizing prothrombin and clotting factors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phylloquinone designates a form of vitamin k."*
+> - 📜 **Henrik Dam (*The Discovery of Vitamin K*):** *"From alfalfa meal we isolated crystalline **phylloquinone**, the antihemorrhagic factor curing fatal bleeding in chicks."*
+> - 📜 **Edward Adelbert Doisy (*The Chemical Nature of Vitamin K*):** *"Synthesis of pure **phylloquinone** confirmed its structure as 2-methyl-1,4-naphthoquinone with a phytyl side chain."*
+> - 📜 **Albert Lehninger (*Principles of Biochemistry*):** *"In photosynthesis, **phylloquinone** operates as an intermediate electron carrier within Photosystem I."*

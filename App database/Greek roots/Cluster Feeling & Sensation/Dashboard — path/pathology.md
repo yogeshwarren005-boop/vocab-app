@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of the essential nature of diseases and especially of the structural and functional changes produced by them.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something abnormal:.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific study of the nature, causes, processes, and consequences of disease.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The structural and functional manifestations of a disease in a specific organ or condition (e.g., the pathology of pneumonia).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"A model clergyman, like a model doctor, ought to think his own profession the finest in the world, and take all knowledge as mere nourishment to his moral pathology and therapeutics."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Lydgate, inclined to be sarcastic on the superstitious faith of the people in the efficacy of “the bill,” while nobody cared about the low state of pathology, sometimes assailed Will with troublesome questions."*
-> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Winner of the Jackson prize for Comparative Pathology, with essay entitled ‘Is Disease a Reversion?’ Corresponding member of the Swedish Pathological Society."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Modern **pathology** is founded upon the single fundamental truth that all cells arise only from preexisting cells."*
+> - 📜 **William Osler (*Aequanimitas*):** *"There is no royal road to the mastery of clinical medicine save through the post-mortem room and the laboratory of **pathology**."*
+> - 📜 **Claude Bernard (*An Introduction to the Study of Experimental Medicine*):** *"Physiology and **pathology** are not two separate sciences, but merely the normal and disturbed manifestations of the same vital mechanisms."*

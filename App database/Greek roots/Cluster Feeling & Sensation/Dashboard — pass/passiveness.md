@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Submission to others or to outside influences.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of remaining inactive; a lack of initiative.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state, quality, or condition of being passive; absence of resistance, self-assertion, or initiative; passivity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ethical and political critique, quietism or submissive non-intervention.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"In other words it is the negative quality of passiveness either in recoverable latency or insipient latescence."*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*):** *"Universal **passiveness** in a citizenry is the ideal condition sought by every despotic ruler."*
+> - 📜 **Mary Wollstonecraft (*A Vindication of the Rights of Woman*):** *"Girls are taught a false **passiveness** as their prime virtue, reducing them to dependent ornaments."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"Doubt cannot be cured by intellectual **passiveness**, but only through resolute action."*

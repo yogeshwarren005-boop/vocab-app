@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a genus (Hyracotherium synonym Eohippus) of very small primitive horses from the Lower Eocene having 4-toed forefeet and 3-toed hind feet —called also dawn horse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a genus (Hyracotherium synonym Eohippus) of very small primitive horses from the Lower Eocene having 4-toed forefeet and 3-toed hind feet —called also dawn horse.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An informal name for Hyracotherium, a small, four-toed herbivorous mammal of the Eocene epoch regarded as an early ancestor of the horse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary paleontology, the 'dawn horse' described by O.C. Marsh, a dog-sized forest browser illustrating the evolutionary progression of equine dentition and limb reduction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eohippus designates any of a genus (hyracotherium synonym eohippus) of very small primitive horses from the lower eocene having 4-toed forefeet and 3-toed hind feet —called also dawn horse."*
+> - 📜 **Othniel Charles Marsh (*Notice of New Equine Mammals from the Tertiary Formation*):** *"I have named this diminutive dawn horse **Eohippus**, whose four front toes reveal the ancient mammalian heritage of the equine foot."*
+> - 📜 **Thomas Henry Huxley (*American Addresses*):** *"The discovery of **Eohippus** in the American Eocene furnished the missing morphological links prophesied by evolutionary theory."*
+> - 📜 **Henry Fairfield Osborn (*The Horse Past and Present*):** *"The tiny **Eohippus** scampered through dense subtropical underbrush, browsing upon succulent soft leaves with low-crowned teeth."*

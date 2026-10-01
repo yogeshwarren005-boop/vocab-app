@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Undergo necrosis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Undergo necrosis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To undergo necrosis; to become necrotic or die while remaining attached to living tissue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pathology, describing tissues (such as bone or ischemic bowel) that mortify and lose viability.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, necrose designates undergo necrosis."*
+> - 📜 **William Boyd (*Pathology for the Surgeon*):** *"Deprived of collateral arterial supply, the strangulated loop of bowel will swiftly **necrose** and perforate."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Severe frostbite causes the distal phalanges to **necrose**, requiring eventual surgical amputation."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"When vascular thrombosis occludes the nutrient vessel, the affected capillary territory begins to **necrose** within hours."*

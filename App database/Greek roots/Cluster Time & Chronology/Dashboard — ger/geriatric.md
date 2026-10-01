@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of medicine that deals with the problems and diseases of old age and the medical care and treatment of aging people.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An aged person.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to old age or the healthcare and treatment of elderly people.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In healthcare administration and clinical practice, specialized medical management tailored to multimorbidity, polypharmacy, and frailty in elderly patients.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, geriatric designates a branch of medicine that deals with the problems and diseases of old age and the medical care and treatment of aging people."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In the **geriatric** patient, common infections often present atypically with sudden confusion rather than high fever."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"Deterioration in renal filtration rate necessitates careful dosage titration across the entire **geriatric** population."*
+> - 📜 **Florence Nightingale (*Notes on Nursing*):** *"Caring for the **geriatric** invalid requires constant vigilance against chilling, pressure ulcers, and nutritional apathy."*

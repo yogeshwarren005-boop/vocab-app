@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek cen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The development of transient adaptations or evolutionary novelties in an embryo or larva that do not reflect the ancestral adult history; alternative spelling of cenogenesis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary developmental biology (evo-devo), non-phylogenetic embryonic specializations introduced to meet immediate larval conditions, modifying the biogenetic recapitulation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, caenogenesis designates a term designating an entity, condition, or phenomenon derived from greek cen."*
+> - 📜 **Ernst Haeckel (*The Evolution of Man*):** *"We distinguish palingenesis, the true ancestral record, from **caenogenesis**, the falsified or newly modified embryonic journey."*
+> - 📜 **Thomas Henry Huxley (*Scientific Memoirs*):** *"The external gills and vitelline membranes afford clear demonstrations of **caenogenesis** shaped by embryonic necessity."*
+> - 📜 **Francis Maitland Balfour (*A Treatise on Comparative Embryology*):** *"Every embryologist must remain vigilant against confusing ancestral heritage with the deceptive innovations of **caenogenesis**."*

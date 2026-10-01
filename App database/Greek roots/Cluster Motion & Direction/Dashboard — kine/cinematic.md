@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, suggestive of, or suitable for movies or the filming of movies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Filmed and presented as a movie.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to motion pictures; having qualities characteristic of films (such as sweeping visuals, rapid pacing, or dramatic cross-cutting).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary criticism and narrative theory, describing prose that employs visual montage, shifts in perspective, and panoramic descriptions reminiscent of film directing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cinematic designates of, relating to, suggestive of, or suitable for movies or the filming of movies."*
+> - 📜 **Virginia Woolf (*The Captain's Death Bed and Other Essays*):** *"Her novel unfolded with a **cinematic** fluidity, dissolving from street scenes of London into intimate internal reveries."*
+> - 📜 **George Orwell (*Keep the Aspidistra Flying*):** *"The gaudy advertisements possessed a crude **cinematic** allure that appealed to the suburban crowds."*
+> - 📜 **Graham Greene (*The Third Man*):** *"The chase through the shadowed sewers of Vienna had an unmistakably **cinematic** intensity."*

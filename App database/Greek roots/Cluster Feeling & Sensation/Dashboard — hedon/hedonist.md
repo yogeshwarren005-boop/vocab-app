@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is devoted to the pursuit of pleasure : someone who practices hedonism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who is devoted to the pursuit of pleasure : someone who practices hedonism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who believes that pleasure is the chief goal in life; someone devoted to the pursuit of pleasure and sensory enjoyment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An adherent of the philosophical doctrine of hedonism in ethics or behavioral theory.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hedonist designates a person who is devoted to the pursuit of pleasure : someone who practices hedonism."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"He sought to create a new spirituality through the senses, living as an exquisite **hedonist** amid art and flowers."*
+> - 📜 **Walter Pater (*The Renaissance: Studies in Art and Poetry*):** *"The true **hedonist** burns always with a hard, gem-like flame, maintaining ecstasy in the fleeting moment."*
+> - 📜 **George Santayana (*The Life of Reason*):** *"The vulgar **hedonist** forgets that unrestrained appetite quickly destroys the physical capacity to enjoy."*

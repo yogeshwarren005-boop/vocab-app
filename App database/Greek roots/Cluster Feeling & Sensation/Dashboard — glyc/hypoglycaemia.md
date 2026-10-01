@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek glyc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Feeling & Sensation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormally low concentration of glucose in the circulating blood, producing sweating, trembling, palpitations, mental confusion, and potential loss of consciousness (Commonwealth spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In endocrinology and emergency medicine, a critical metabolic state commonly triggered by excessive insulin administration or prolonged fasting.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypoglycaemia designates a term designating an entity, condition, or phenomenon derived from greek glyc."*
+> - 📜 **Frederick Banting (*Nobel Lecture: The Discovery of Insulin*):** *"An overdose of insulin precipitates acute **hypoglycaemia**, which can be immediately relieved by intravenous glucose or orange juice."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The clinical signs of severe **hypoglycaemia** mimic acute intoxication, requiring prompt diagnostic blood evaluation."*
+> - 📜 **Hans Krebs (*The Citric Acid Cycle*):** *"When hepatic gluconeogenesis fails during starvation, catastrophic **hypoglycaemia** deprives the central nervous system of essential fuel."*

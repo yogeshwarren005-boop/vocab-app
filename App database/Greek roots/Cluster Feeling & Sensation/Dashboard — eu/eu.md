@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: europium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: European Union.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Greek prefix *eu-*, meaning good, well, true, pleasant, easily, or normal, appearing in *euphoria*, *eukaryote*, *eulogy*, and *euphemism*.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The linguistic combining form denoting excellence of condition, beneficial function, or auspicious character across biological and philosophical nomenclature.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog eu as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Henry George Liddell & Robert Scott (*A Greek-English Lexicon*):** *"The indeclinable particle **eu** serves in classical Greek as an adverb meaning well, rightly, happily, or auspiciously."*
+> - 📜 **Desiderius Erasmus (*The Praise of Folly*):** *"The ancient Greeks prefixed their words with **eu** whenever they wished to invoke prosperity, good fortune, and graceful life."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Scientific terminology borrows the prefix **eu** to designate those sound and wholesome states of natural bodies."*

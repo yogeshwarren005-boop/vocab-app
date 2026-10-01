@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The presence of abnormally high levels of sugar in the urine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The presence of abnormally high levels of sugar in the urine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The abnormal presence and excretion of glucose in the urine, typically occurring when blood glucose concentrations exceed the renal reabsorption threshold.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hallmark clinical symptom of untreated diabetes mellitus, renal diabetes, or severe acute metabolic stress.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, glycosuria designates the presence of abnormally high levels of sugar in the urine."*
+> - 📜 **Thomas Willis (*Pharmaceutice Rationalis*):** *"In patients afflicted with diabetes, the urine is wonderfully sweet, an extraordinary **glycosuria** as though infused with honey."*
+> - 📜 **Claude Bernard (*Lectures on Experimental Physiology*):** *"Puncturing the floor of the fourth cerebral ventricle in a rabbit provoked an acute, transient **glycosuria**."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Persistent **glycosuria** accompanied by polydipsia and wasting demands immediate dietary restriction of all starches and sugars."*

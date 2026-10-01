@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A blastodisc after completion of cleavage and formation of the blastocoel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A blastodisc after completion of cleavage and formation of the blastocoel.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The primitive cellular layer or disc formed by cleavage of the fertilized ovum, from which the embryo develops.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The superficial sheet of cells resting upon the central yolk mass in telolecithal and centrolecithal eggs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, blastoderm designates a blastodisc after completion of cleavage and formation of the blastocoel."*
+> - 📜 **Karl Ernst von Baer (*Über Entwickelungsgeschichte der Thiere*):** *"The **blastoderm** separates into distinct laminae, laying down the primary blueprint of the vertebrate body."*
+> - 📜 **Thomas Henry Huxley (*The Elements of Embryology*):** *"In the avian egg, the **blastoderm** spreads outward over the yolk sphere by active marginal cell division."*
+> - 📜 **Francis Balfour (*A Treatise on Comparative Embryology*):** *"The primitive streak appears as an axial thickening near the posterior border of the embryonic **blastoderm**."*

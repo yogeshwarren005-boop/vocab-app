@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek bio.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Life & Vitality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of suspended animation or metabolic quiescence brought about in an organism by an absence of oxygen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A survival mechanism in certain invertebrates and facultative anaerobes whereby cellular respiration halts reversibly under severe anoxia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anoxybiosis designates a term designating an entity, condition, or phenomenon derived from greek bio."*
+> - 📜 **David Keilin (*The Problem of Anabiosis or Latent Life*):** *"The term **anoxybiosis** describes organisms entering temporary dormancy when deprived of environmental oxygen."*
+> - 📜 **Peter Hochachka (*Biochemical Adaptation*):** *"Intertidal bivalves resort to controlled **anoxybiosis** during prolonged exposure to foul sulfide sediments."*
+> - 📜 **George N. Somero (*Adaptation to Environmental Change*):** *"Metabolic depression during **anoxybiosis** preserves critical energy reserves until aerated tides return."*

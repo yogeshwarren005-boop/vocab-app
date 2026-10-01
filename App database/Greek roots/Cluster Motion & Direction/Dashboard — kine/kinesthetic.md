@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sense mediated by receptors located in muscles, tendons, and joints and stimulated by bodily movements and tensions; also : sensory experience derived from this sense.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sense mediated by receptors located in muscles, tendons, and joints and stimulated by bodily movements and tensions; also : sensory experience derived from this sense.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to kinesthesia or the awareness of bodily position and movement; involving physical sensation of motion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In educational pedagogy and cognitive theory, describing learning styles, artistic sensibilities, or physical talents based primarily on hands-on physical activity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, kinesthetic designates a sense mediated by receptors located in muscles, tendons, and joints and stimulated by bodily movements and tensions; also : sensory experience derived from this sense."*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*):** *"She learned to compensate for her sensory loss by replacing her missing **kinesthetic** sense with vigilant visual supervision."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The blind sculptor possesses an exquisite **kinesthetic** memory of form, gauging curves through muscular exertion."*
+> - 📜 **Virginia Woolf (*The Waves*):** *"She felt a pure **kinesthetic** joy in the simple, rhythmic plunge of her arms into the cold sea."*

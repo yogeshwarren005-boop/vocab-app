@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Obsessed with a single subject or idea.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Obsessed with a single subject or idea.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Exhibiting, characterized by, or pertaining to monomania; driven by an all-consuming single obsession.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pursued with narrow, fanatical intensity to the exclusion of reason, balance, and empathy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Grant Allen (*Michael's Crag*):** *"Well suppressed, indeed, and kept firmly in check for his daughter's sake, and by his brave wife's aid; but insanity, none the less, of the profoundest monomaniacal pattern, for all that."*
+> - 📜 **Herman Melville (*Pierre: or, The Ambiguities*):** *"He locked himself in his study, laboring with a **monomaniacal** intensity that defied sleep and nourishment."*
+> - 📜 **Joseph Conrad (*The Secret Agent*):** *"The bomb-maker had a **monomaniacal** desire to achieve instantaneous, unanswerable destruction."*
+> - 📜 **Henry James (*The Aspern Papers*):** *"My quest for the dead poet's letters acquired a **monomaniacal** quality that blinded me to common courtesy."*

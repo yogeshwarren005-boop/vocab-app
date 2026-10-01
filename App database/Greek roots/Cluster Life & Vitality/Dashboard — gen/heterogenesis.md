@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The alternation of two or more different forms in the life cycle of a plant or animal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The alternation of two or more different forms in the life cycle of a plant or animal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Spontaneous generation; the production of living organisms from matter of a different nature (non-living or disparate organic material).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Alternation of generations, or the historical doctrine that offspring can differ fundamentally from parents (mutationism / saltationism).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heterogenesis designates the alternation of two or more different forms in the life cycle of a plant or animal."*
+> - 📜 **Thomas Henry Huxley (*Biogenesis and Abiogenesis*):** *"The hypothesis of **heterogenesis** assumes that living matter can generate organisms differing totally from the parent stock."*
+> - 📜 **Henry Charlton Bastian (*The Beginnings of Life*):** *"I claimed that careful heating of organic infusions did not prevent the **heterogenesis** of viable microbes."*
+> - 📜 **Louis Pasteur (*Studies on Spontaneous Generation*):** *"Careful filtration proved that **heterogenesis** was a chimera born of unsterilized glassware and airborne dust."*

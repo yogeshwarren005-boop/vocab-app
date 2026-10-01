@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A graphical record of speed and distance produced by a tachograph.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A graphical record of speed and distance produced by a tachograph.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A graphic tracing or chart produced by a tachograph or recording device, displaying speed or instantaneous heart rate over a period of time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cardiovascular physiology and autonomic research, a plot of consecutive heartbeat intervals (RR intervals) used for analyzing heart rate variability (HRV).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tachogram designates a graphical record of speed and distance produced by a tachograph."*
+> - 📜 **Augustus Waller (*An Introduction to Human Physiology*):** *"Inspection of the continuous **tachogram** revealed sudden transient fluctuations in pulse rate provoked by deep inspiration."*
+> - 📜 **Willem Einthoven (*The Mechanism of the Electrocardiogram*):** *"From the photographic **tachogram**, we measured the microscopic variability in beat-to-beat cardiac timing."*
+> - 📜 **Robley Dunglison (*Medical Lexicon*):** *"The physiological **tachogram** visually represents the velocity of blood flow or pulse frequency across extended observation periods."*

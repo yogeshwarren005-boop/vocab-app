@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of movement, motion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of movement, motion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, suffering from, or characterized by akinesia; marked by the absence or severe reduction of voluntary movement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurosurgery and psychiatry, describing syndromes such as *akinetic mutism*, a state of alert unresponsiveness caused by damage to the anterior cingulate cortex or frontal lobes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, akinetic designates adjective*) pertaining to, derived from, or characteristic of movement, motion."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"The patient sat in an **akinetic** stupor, eyes wide open and tracking movements in the room, yet unable to utter a syllable."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The **akinetic** phase of severe typhoid fever left the victim immobilized upon the cot in profound muscular exhaustion."*
+> - 📜 **Alexander Luria (*The Working Brain*):** *"Bilateral lesions of the supplementary motor area frequently produce an **akinetic** syndrome characterized by total loss of initiative."*

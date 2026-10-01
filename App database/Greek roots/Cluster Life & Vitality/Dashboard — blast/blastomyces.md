@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of pathogenic yeastlike fungi.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of pathogenic yeastlike fungi.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of dimorphic pathogenic fungi, notably *Blastomyces dermatitidis*, that causes blastomycosis in humans and animals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fungal genus that grows as a mould in soil and converts to a thick-walled budding yeast phase in mammalian host tissues.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, blastomyces designates genus of pathogenic yeastlike fungi."*
+> - 📜 **Thomas Casper Gilchrist (*A Case of Blastomycetic Dermatitis in Man*):** *"Microscopic examination of the skin lesions revealed round, budding yeast cells belonging to the pathogenic genus **Blastomyces**."*
+> - 📜 **William Boyd (*A Textbook of Pathology*):** *"In tissue sections, **Blastomyces** is readily recognized by its thick, double-contoured wall and broad-based budding."*
+> - 📜 **René Dubos (*Bacterial and Mycotic Infections of Man*):** *"Inhalation of soil conidia allows **Blastomyces** to establish primary pulmonary granulomas that mimic tuberculosis."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of tame.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of tame.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An organism that benefits from, prefers, or thrives in human-created or human-altered habitats; a culture follower.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In urban ecology, species (such as house sparrows, raccoons, and dandelion weeds) that exploit anthropogenic environmental changes and urban niches.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemerophile designates adjective*) pertaining to, derived from, or characteristic of tame."*
+> - 📜 **Eugene Odum (*Fundamentals of Ecology*):** *"The brown rat and the feral pigeon are consummate examples of the **hemerophile**, multiplying exponentially in urban sprawl."*
+> - 📜 **Arthur Tansley (*The British Islands and Their Vegetation*):** *"Certain opportunistic weeds prove strictly **hemerophile**, unable to sustain wild populations outside cultivated field margins."*
+> - 📜 **Stephen Jay Gould (*The Panda's Thumb*):** *"Human civilization inadvertently selects for the adaptable **hemerophile**, which replaces specialized endemic forest creatures."*

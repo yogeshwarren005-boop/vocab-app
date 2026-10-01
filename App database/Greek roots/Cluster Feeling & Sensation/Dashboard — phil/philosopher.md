@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialist in philosophy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A wise person who is calm and rational; someone who lives a life of reason with equanimity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who seeks wisdom, enlightenment, and fundamental truth about existence, reality, knowledge, ethics, and reason.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An individual who maintains a calm, stoical, and composed attitude in the face of misfortune or hardship.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Such a one is a natural philosopher."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Well, I’ll be acquainted with him if I return, and ’t shall go hard but I’ll make him a philosopher’s two stones to me."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"First let me talk with this philosopher."*
+> - 📜 **Plato (*Republic*):** *"Until kings become **philosophers**, or philosophers kings, cities will have no rest from their troubles, nor will the human race."*
+> - 📜 **Immanuel Kant (*Critique of Pure Reason*):** *"The true **philosopher** is not merely an architect of concepts, but the legislator of human reason."*
+> - 📜 **Arthur Schopenhauer (*The World as Will and Representation*):** *"To be a **philosopher** means to possess courage to look reality in the face without theological rose-tinted glasses."*

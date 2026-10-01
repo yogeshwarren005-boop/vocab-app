@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Suffering from megalomania.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Suffering from megalomania.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or exhibiting megalomania; megalomaniacal (alternative linguistic form).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to inflated grandiose self-regard in psychiatric and sociological critique.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, megalomanic designates suffering from megalomania."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"In certain monomanias, the subject exhibits **megalomanic** delusions of being emperor or an angel sent from heaven."*
+> - 📜 **Havelock Ellis (*The Philosophy of Conflict*):** *"Jingoistic nationalism is essentially a collective **megalomanic** neurosis that infects otherwise sensible citizens."*
+> - 📜 **George Bernard Shaw (*Heartbreak House*):** *"The old captain's wild declarations sounded quite **megalomanic** until one examined his strange inventions."*

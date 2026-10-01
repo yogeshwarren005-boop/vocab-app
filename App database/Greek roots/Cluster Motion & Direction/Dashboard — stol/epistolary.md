@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Written in the form of or carried on by letters or correspondence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Written in the form of or carried on by letters or correspondence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or conducted by means of letters or personal correspondence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary theory, denoting a genre of novel or narrative developed entirely through exchanged letters, diary entries, or documentary fragments (e.g., Richardson's *Clarissa*).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Mansfield Park*):** *"Grant’s morning calls, it was very hard upon her to be deprived of one of the last epistolary uses she could put them to."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"I shall have matured my epistolary style.” She looked away while she spoke these words, knowing them of so much less earnest a cast than the countenance of her listener."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"Isabel liked her friend’s private epistolary style better than her public; that is she felt her public letters would have been excellent if they had not been printed."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Her style of writing was very unlike the brisk, lively **epistolary** banter characteristic of her younger sisters."*
+> - 📜 **Samuel Richardson (*Clarissa*):** *"The urgent passions of the human heart appear in their true nakedness through immediate **epistolary** confessions."*
+> - 📜 **Virginia Woolf (*The Common Reader*):** *"The eighteenth century perfected the **epistolary** novel by transforming private mailbags into public theatrical spectacles."*

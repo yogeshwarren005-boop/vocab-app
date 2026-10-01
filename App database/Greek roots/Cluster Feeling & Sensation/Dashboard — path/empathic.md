@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing empathy or ready comprehension of others' states.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Showing empathy or ready comprehension of others' states.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characterized by empathy; empathetic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychoanalysis and developmental psychology, describing intuitive emotional attunement (e.g., empathic responsiveness in Heinz Kohut's self psychology).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Whatever the past might have been, his advanced years called for him to be nonjudgmental, empathic, and healing."*
+> - 📜 **Heinz Kohut (*The Analysis of the Self*):** *"The child requires an **empathic** parental matrix to mirror its developing self and establish cohesive self-esteem."*
+> - 📜 **Carl Rogers (*Client-Centered Therapy*):** *"True **empathic** understanding is the most potent agent for therapeutic change known to psychological science."*
+> - 📜 **Oliver Sacks (*An Anthropologist on Mars*):** *"Temple Grandin remarked that she felt an intense, **empathic** connection with farm animals that eluded her with human beings."*

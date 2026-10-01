@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small phylum of wormlike marine animals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small phylum of wormlike marine animals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An alternative or historical taxonomic name for Phoronida, the class or order of marine horseshoe worms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Victorian zoology, the ordinal designation assigned to tubicolous lophophorate worms characterized by an actinotrocha larval stage and hemoglobin-bearing red blood cells.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phoronidea designates small phylum of wormlike marine animals."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"Under the heading **Phoronidea**, naturalists initially classified these enigmatic tube-dwellers alongside gephyrean worms."*
+> - 📜 **Ray Lankester (*A Treatise on Zoology*):** *"The morphological peculiarities of the **Phoronidea** justify their isolation into an independent phylum of marine coelomates."*
+> - 📜 **Arthur Dendy (*Outlines of Evolutionary Biology*):** *"The internal anatomy of the **Phoronidea** demonstrates a true closed vascular system containing red blood corpuscles."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek mis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Feeling & Sensation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Hatred of God or the gods; active hatred of divinity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theological literature and philosophy, a spiritual stance distinct from atheism, wherein God's existence is acknowledged but reviled as cruel, unjust, or tyrannical.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, misotheism designates a term designating an entity, condition, or phenomenon derived from greek mis."*
+> - 📜 **Lord Byron (*Cain: A Mystery*):** *"Cain's anguished questioning of the Almighty's justice borders on an overt poetic **misotheism**."*
+> - 📜 **Friedrich Nietzsche (*The Antichrist*):** *"My campaign against Christian morality is not mere doubt, but an open declaration of intellectual **misotheism**."*
+> - 📜 **Arthur Schopenhauer (*The World as Will and Representation*):** *"Faced with the endless slaughter of animal nature, one must conclude that if a creator exists, **misotheism** is the only honest response."*

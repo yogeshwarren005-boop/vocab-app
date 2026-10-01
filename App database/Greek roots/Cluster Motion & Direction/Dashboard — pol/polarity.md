@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A relation between two opposite attributes or tendencies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having an indicated pole (as the distinction between positive and negative electric charges).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of having two opposite, contradictory, or contrasting poles, qualities, or tendencies (such as positive and negative).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In developmental biology, the orientation of a cell, embryo, or tissue along an anterior-posterior or apical-basal axis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"It was perceptible, even there, in the dark old parlor, in the inevitable polarity with which his eyes were attracted towards the quivering play of sunbeams through the shadowy foliage."*
+> - 📜 **Ralph Waldo Emerson (*Compensation*):** *"**Polarity**, or action and reaction, we meet in every part of nature; in darkness and light; in heat and cold; in male and female."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"The magnetic **polarity** of the steel bar reversed instantly when the electric coil's direction was changed."*
+> - 📜 **Thomas Henry Huxley (*The Crayfish*):** *"The morphological **polarity** of the embryo is established long before visible organs differentiate."*

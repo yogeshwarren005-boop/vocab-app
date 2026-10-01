@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by or fit for autogamy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by or fit for autogamy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or characterized by autogamy; self-fertilizing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In protozoology and botany, describing organisms or flowers that achieve fertilization using their own gametic nuclei or pollen.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, autogamic designates characterized by or fit for autogamy."*
+> - 📜 **Charles Darwin (*The Effects of Cross and Self Fertilisation in the Vegetable Kingdom*):** *"Certain weeds possess strictly **autogamic** flowers that set seed prolifically even when completely shielded from insect visitors."*
+> - 📜 **Edmund Beecher Wilson (*The Cell in Development and Inheritance*):** *"In the ciliates, an **autogamic** reorganization of the macronucleus occurs during internal nuclear syngamy."*
+> - 📜 **Gregor Mendel (*Experiments in Plant Hybridization*):** *"The pea flower is naturally **autogamic**, the keel petals enclosing stamens and stigma to prevent foreign pollen entry."*

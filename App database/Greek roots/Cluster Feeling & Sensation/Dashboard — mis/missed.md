@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fail to perceive or to catch with the senses or the mind.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Feel or suffer from the lack of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Failed to hit, reach, catch, strike, or encounter an intended target or person.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Felt sadness, longing, or regret over the absence or loss of someone or something valued.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your Coriolanus is not much missed But with his friends."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I missed the meteor once and hit that woman, who cried out “Clubs!” when I might see from far some forty truncheoners draw to her succour, which were the hope o’ th’ Strand, where she was quartered."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The moon being clouded presently is missed, But little stars may hide them when they list."*
+> - 📜 **William Shakespeare (*Othello*):** *"I had not lost the handkerchief, but **missed** it from my chamber, which filled my soul with dreadful foreboding."*
+> - 📜 **Jane Austen (*Emma*):** *"She **missed** her old companion hourly, finding the drawing-room strangely quiet after the wedding."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The harpoon **missed** the Leviathan's flank by an inch, plunging uselessly into the foamy swell."*

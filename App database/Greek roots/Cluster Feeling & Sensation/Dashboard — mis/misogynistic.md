@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hating women in particular.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hating women in particular.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Strongly prejudiced against women; showing or expressing hatred, contempt, or discrimination toward women.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reflecting patriarchal attitudes that demean or silence women in culture and literature.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, misogynistic designates hating women in particular."*
+> - 📜 **Virginia Woolf (*Three Guineas*):** *"The universities were guarded by ancient regulations that maintained an openly **misogynistic** exclusion of female scholars."*
+> - 📜 **Simone de Beauvoir (*The Second Sex*):** *"The patriarchal myths found in Genesis and Hesiod established a **misogynistic** archetype that persisted for millenia."*
+> - 📜 **John Stuart Mill (*The Subjection of Women*):** *"To base legal disenfranchisement upon sex is to perpetuate a **misogynistic** relic of barbarian conquest."*

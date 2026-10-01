@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek blast.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Life & Vitality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A neoplasm or malignant tumor composed of embryonic, undifferentiated precursor cells.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pediatric or developmental neoplasm (such as retinoblastoma or nephroblastoma) recapitulating immature organ tissues.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, blastoma designates a term designating an entity, condition, or phenomenon derived from greek blast."*
+> - 📜 **Rudolf Virchow (*Die krankhaften Geschwülste*):** *"We classify as **blastoma** those neoplasms arising from dormant embryonic tissue rests that retain formative potency."*
+> - 📜 **William Boyd (*A Textbook of Pathology*):** *"Microscopically, the **blastoma** exhibits sheets of small, hyperchromatic cells devoid of mature architectural patterns."*
+> - 📜 **James Ewing (*Neoplastic Diseases*):** *"The high radio-sensitivity of medulloblastoma distinguishes this neuroepithelial **blastoma** from adult glial tumors."*

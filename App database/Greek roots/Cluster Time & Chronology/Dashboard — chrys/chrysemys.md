@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Painted turtles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Painted turtles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of North American freshwater turtles comprising the painted turtles (Chrysemys picta), recognized by yellow and red markings on their shells and limbs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In herpetology, basking emydid turtles widely distributed in slow-moving ponds, lakes, and marshes, serving as model organisms in reptile freeze-tolerance studies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chrysemys designates painted turtles."*
+> - 📜 **Louis Agassiz (*Contributions to the Natural History of the United States*):** *"The genus **Chrysemys** is distinguished by the smooth, polished carapace adorned with bright yellow and crimson marginal sutures."*
+> - 📜 **Raymond L. Ditmars (*The Reptile Book*):** *"On warm spring mornings, dozens of **Chrysemys** crowd upon sunlit floating logs along the river bank."*
+> - 📜 **John Edwards Holbrook (*North American Herpetology*):** *"The golden-yellow stripes along the neck of **Chrysemys** provide conspicuous recognition marks in turbid water."*

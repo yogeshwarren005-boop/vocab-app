@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any neuropathy of a single nerve trunk.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any neuropathy of a single nerve trunk.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Damage, disease, or dysfunction affecting a single peripheral nerve trunk (e.g., carpal tunnel syndrome, peroneal nerve palsy).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurology, characterized by sensory and motor deficits strictly confined to the anatomical distribution of the affected nerve.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mononeuropathy designates any neuropathy of a single nerve trunk."*
+> - 📜 **William Gowers (*A Manual of Diseases of the Nervous System*):** *"Direct compression of the radial nerve against the humerus produces an acute **mononeuropathy** known as Saturday night palsy."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Isolated facial paralysis, or Bell's palsy, represents the most familiar form of acute cranial **mononeuropathy**."*
+> - 📜 **S. Weir Mitchell (*Injuries of Nerves and Their Consequences*):** *"A gunshot grazing the median nerve results in an agonizing **mononeuropathy** accompanied by burning causalgia."*

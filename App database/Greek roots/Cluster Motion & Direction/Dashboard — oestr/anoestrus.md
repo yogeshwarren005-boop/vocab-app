@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek oestr.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Motion & Direction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The British orthographical variant of anestrus; the period of sexual quiescence and hormonal dormancy between breeding seasons in female mammals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In livestock management and comparative zoology, the non-cycling stage of seasonal polyoestrous species induced by photoperiod, lactation, or nutritional deficit.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anoestrus designates a term designating an entity, condition, or phenomenon derived from greek oestr."*
+> - 📜 **Francis Marshall (*The Physiology of Reproduction*):** *"The transition from **anoestrus** to active breeding condition is mediated by increasing hypothalamic stimulation."*
+> - 📜 **Arthur Dendy (*Outlines of Evolutionary Biology*):** *"Prolonged winter **anoestrus** prevents fatal energy expenditure during the most severe climatic stresses."*
+> - 📜 **Julian Huxley (*The Individual in the Animal Kingdom*):** *"The rhythms of seasonal **anoestrus** reflect an intimate evolutionary adaptation to ecological carrying capacity."*

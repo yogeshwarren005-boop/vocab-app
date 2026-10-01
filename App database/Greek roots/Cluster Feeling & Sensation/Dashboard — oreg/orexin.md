@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek oreg.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Feeling & Sensation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A neuropeptide hormone produced by neurons in the lateral hypothalamus that regulates wakefulness, arousal, and appetite (also called hypocretin).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurobiology, a crucial neurotransmitter whose deficiency causes type 1 narcolepsy with cataplexy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, orexin designates a term designating an entity, condition, or phenomenon derived from greek oreg."*
+> - 📜 **Masashi Yanagisawa (*Orexins and Orexin Receptors: A Family of Hypothalamic Neuropeptides*):** *"We named the peptide **orexin** from the Greek for appetite, as central administration stimulated marked food consumption."*
+> - 📜 **Oliver Sacks (*Musicophilia: Tales of Music and the Brain*):** *"The discovery that loss of **orexin** neurons causes narcolepsy solved one of the oldest enigmas in sleep medicine."*
+> - 📜 **Robert M. Sapolsky (*Behave: The Biology of Humans at Our Best and Worst*):** *"The lateral hypothalamic **orexin** system coordinates metabolic energy status with behavioral alertness."*

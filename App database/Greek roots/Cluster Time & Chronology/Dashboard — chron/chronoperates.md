@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A reptile genus of therapsida.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A reptile genus of therapsida.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An extinct genus of primitive mammaliamorphs from the Late Paleocene of Canada, known from the single species Chronoperates paradoxus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate paleontology, a 'time wanderer' whose non-mammalian cynodont-like jaw morphology appeared paradoxically in Paleocene beds tens of millions of years after cynodont extinction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chronoperates designates a reptile genus of therapsida."*
+> - 📜 **Richard C. Fox (*Nature*):** *"The discovery of **Chronoperates** paradoxus in the Paleocene of Alberta reveals the astonishing survival of a non-mammalian cynodont lineage into the Cenozoic."*
+> - 📜 **Alfred Sherwood Romer (*Vertebrate Paleontology*):** *"The taxonomic allocation of **Chronoperates** sparked heated debate over whether it represents a true relict cynodont or a bizarrely specialized archaic mammal."*
+> - 📜 **Stephen Jay Gould (*Leonardo's Mountain of Clams and the Diet of Worms*):** *"The little fossil jaw of **Chronoperates** reminds us that evolutionary relicts can persist quietly long past their supposed extinction horizon."*

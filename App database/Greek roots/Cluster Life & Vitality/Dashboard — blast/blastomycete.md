@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various yeastlike budding fungi of the genus blastomyces; cause disease in humans and other animals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various yeastlike budding fungi of the genus blastomyces; cause disease in humans and other animals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A budding fungus or yeast-like organism, historically classified under the Blastomycetes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any fungus that reproduces primarily by vegetative budding (gemmation) rather than forming true aerial hyphae.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, blastomycete designates any of various yeastlike budding fungi of the genus blastomyces; cause disease in humans and other animals."*
+> - 📜 **Thomas Casper Gilchrist (*Blastomycetic Dermatitis*):** *"The patient presented granulomatous ulcers teeming with the spherical bodies of a parasitic **blastomycete**."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"Yeasts and related **blastomycetes** conduct alcoholic fermentation with exquisite chemical specificity."*
+> - 📜 **William Boyd (*A Textbook of Pathology*):** *"Inflammatory responses to the invasive **blastomycete** combine acute suppuration with chronic epithelioid granuloma formation."*

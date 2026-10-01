@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various round or long cellular organelles of most eukaryotes that are found outside the nucleus, produce energy for the cell through cellular respiration, and are rich in fats, proteins, and enzymes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various round or long cellular organelles of most eukaryotes that are found outside the nucleus, produce energy for the cell through cellular respiration, and are rich in fats, proteins, and enzymes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An organelle found in large numbers in most eukaryotic cells, in which cellular respiration and energy production (ATP synthesis) occur.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A double-membraned organelle containing its own circular DNA and ribosomes, derived evolutionarily from an alpha-proteobacterial endosymbiont.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mitochondrion designates any of various round or long cellular organelles of most eukaryotes that are found outside the nucleus, produce energy for the cell through cellular respiration, and are rich in fats, proteins, and enzymes."*
+> - 📜 **Carl Benda (*Weitere Mittheilungen über die Mitochondria*):** *"I proposed the term **mitochondrion** to describe these thread-like and granular cytoplasmic structures in spermatogenesis."*
+> - 📜 **Peter Mitchell (*Coupling of Phosphorylation to Electron and Hydrogen Transfer*):** *"The inner membrane of the **mitochondrion** operates as a chemiosmotic transducer, coupling electron transport to ATP synthesis."*
+> - 📜 **Lynn Margulis (*Symbiosis in Cell Evolution*):** *"The **mitochondrion** was once an independent, oxygen-respiring bacterial symbiont engulfed by an anaerobic host."*

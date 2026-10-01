@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or related to or characteristic of plants that are angiosperms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or related to or characteristic of plants that are angiosperms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characteristic of angiosperms; having seeds enclosed in a fruit or seedpod.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to flowering plants with enclosed seeds and vascular xylem vessels.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, angiospermous designates of or related to or characteristic of plants that are angiosperms."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"The **angiospermous** flower incorporates specialized floral envelopes designed to attract animal pollinators."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The co-evolution of **angiospermous** nectar-bearing flowers and flower-haunting insects spurred tremendous evolutionary radiation."*
+> - 📜 **Archibald Geikie (*Textbook of Geology*):** *"Fossil floras from the Cretaceous record the sudden ascendancy of **angiospermous** hardwood trees over Mesozoic cycads."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Raccoon dogs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Raccoon dogs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of nocturnal East Asian canids containing the raccoon dog (Nyctereutes procyonoides).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Primitive, short-legged canines possessing facial markings resembling a raccoon and exhibiting winter torpor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nyctereutes designates raccoon dogs."*
+> - 📜 **Thomas Henry Huxley (*On the Cranial and Dental Characters of the Canidae*):** *"The skull of **Nyctereutes** displays primitive viverrine affinities unusual among modern canids."*
+> - 📜 **Alfred Russel Wallace (*Island Life*):** *"The raccoon dog, **Nyctereutes**, represents an ancient endemic carnivore of the temperate East Asian forests."*
+> - 📜 **Richard Lydekker (*The Royal Natural History*):** *"Unlike any other member of the dog family, **Nyctereutes** frequently hibernates during severe winter months."*

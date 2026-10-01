@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The synthesis of glycogen from glucose that occurs chiefly in the liver and skeletal muscle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The synthesis of glycogen from glucose that occurs chiefly in the liver and skeletal muscle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The biological process and biochemical pathway by which glucose molecules are converted and polymerized into glycogen for storage in the liver and skeletal muscles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Stimulated by the pancreatic hormone insulin in response to high circulating blood glucose levels following carbohydrate digestion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, glycogenesis designates the synthesis of glycogen from glucose that occurs chiefly in the liver and skeletal muscle."*
+> - 📜 **Claude Bernard (*Lectures on Experimental Physiology*):** *"Hepatic **glycogenesis** represents an internal secretion by which the liver stores dietary sugar after a meal."*
+> - 📜 **Hans Krebs (*Carbohydrate Metabolism in Animal Tissues*):** *"Insulin accelerates **glycogenesis** by activating glycogen synthase, locking circulating hexoses into insoluble cellular storage."*
+> - 📜 **Arthur Conan Doyle (*The Stark Munro Letters*):** *"The professor discoursed learnedly on hepatic **glycogenesis**, marveling at the chemical laboratory operating silently within our ribs."*

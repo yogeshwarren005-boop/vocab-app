@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking pathways.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking pathways.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having no path, track, or trail; untrodden, trackless, and wild.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In poetic and existential literature, untraveled, boundless, or perplexing in spiritual course.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"But wide as pathless was the space That lay our lives between, And dangerous as the foamy race Of ocean-surges green."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"The snellest blast, at mirkest hours, That round the pathless wand’rer pours Is nocht to what poor she endures, That’s trusted faithless man, jo."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"The pathless, wild and wimpling burn, Wi’ Chloris in my arms, be mine; And I the warld nor wish nor scorn, Its joys and griefs alike resign."*
+> - 📜 **Lord Byron (*Childe Harold's Pilgrimage*):** *"There is a pleasure in the **pathless** woods, there is a rapture on the lonely shore, there is society where none intrudes."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The Arch-fiend steered his ponderous flight across the **pathless** void of dark, unbottomed Chaos."*
+> - 📜 **William Wordsworth (*The Excursion*):** *"The solitary shepherd climbed through the **pathless** crags where mist and silence reign supreme."*

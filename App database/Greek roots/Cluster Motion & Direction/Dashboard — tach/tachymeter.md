@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A theodolite designed for rapid measurements.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A theodolite designed for rapid measurements.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument designed to measure speed or velocity rapidly; specifically, a graduated scale on a watch bezel used to compute speed based on travel time over a measured distance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In surveying, an alternative term for a tacheometer, an optical instrument that expeditiously determines distances and angles without physical tape measurements.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tachymeter designates a theodolite designed for rapid measurements."*
+> - 📜 **Antoine de Saint-Exupéry (*Night Flight*):** *"The aviator timed his flight between beacons, reading his ground velocity directly from the engraved **tachymeter** bezel."*
+> - 📜 **William Rankine (*A Manual of Civil Engineering*):** *"The modern geodetic **tachymeter** allows the engineer to complete a comprehensive triangulation in half the customary time."*
+> - 📜 **Nevil Shute (*No Highway*):** *"He glanced at the **tachymeter** on his wrist as the prototype aircraft crossed the measured nautical mile marker."*

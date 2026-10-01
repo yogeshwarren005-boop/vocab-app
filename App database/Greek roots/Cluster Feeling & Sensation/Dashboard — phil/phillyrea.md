@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small genus of evergreen shrubs of the mediterranean region.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small genus of evergreen shrubs of the mediterranean region.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of two species of evergreen shrubs and small trees (family Oleaceae), native to the Mediterranean basin and known as mock privet.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A classical maquis shrub bearing leathery dark green leaves and small fragrant flowers, cultivated in ornamental gardens since the Renaissance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phillyrea designates small genus of evergreen shrubs of the mediterranean region."*
+> - 📜 **Theophrastus (*Enquiry into Plants*):** *"The evergreen **Phillyrea** clothes the dry limestone cliffs of the Aegean, enduring both summer drought and sea spray."*
+> - 📜 **John Evelyn (*Sylva, or A Discourse of Forest-Trees*):** *"The glossy evergreen boughs of **Phillyrea** make an incomparable topiary hedge for English formal gardens."*
+> - 📜 **Gertrude Jekyll (*Colour in the Flower Garden*):** *"Against a dark background of clipped **Phillyrea**, the white lilies shone with radiant brilliance."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek hemer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Time & Chronology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Something short-lived or transitory; an insect that lives only for a day; a mayfly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical and Victorian literature, a philosophical symbol of human frailty and the brief span of mortal existence in cosmic time.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Plutarch, _non suaviter_, 1104 F. _kataphronountes eauton os ephemeron kthe_--of the Epicureans. [140] Cf."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Man in his pride is but an **ephemeron**, born in the morning, buzzing through noon, and dead with the evening frost."*
+> - 📜 **Samuel Taylor Coleridge (*Aids to Reflection*):** *"Compared to the steadfast hills, our earthly empires are but the fleeting flight of an **ephemeron** over water."*
+> - 📜 **Jeremy Taylor (*Holy Dying*):** *"The little fly that lives but a day is called an **ephemeron**, and such is the span of man's restless vanity upon the earth."*

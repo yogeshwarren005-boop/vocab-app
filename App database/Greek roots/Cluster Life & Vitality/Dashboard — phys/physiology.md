@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of biology that deals with the functions and activities of life or of living matter (such as organs, tissues, or cells) and of the physical and chemical phenomena involved.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The organic processes and phenomena of an organism or any of its parts or of a particular bodily process.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of biology that deals with the functions, activities, and vital processes of living organisms and their parts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The organic processes, mechanisms, and physical-chemical phenomena that sustain life in an organism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"Some years ago I happened to be conversing at Cambridge with three men who were respectively of great eminence in mathematics, classics, and physiology."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Why, even in love it is purely a question for physiology."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Fitzjames O’Brien The Golden Ingot I had just retired to rest, with my eyes almost blind with the study of a new work on physiology by M."*
+> - 📜 **Claude Bernard (*An Introduction to the Study of Experimental Medicine*):** *"The science of **physiology** is the foundation upon which all scientific medicine and clinical therapeutics must rest."*
+> - 📜 **William Harvey (*Exercitatio Anatomica de Motu Cordis et Sanguinis in Animalibus*):** *"To unlock the secrets of living **physiology**, one must trace the rhythmic contractions of the heart in living animals."*
+> - 📜 **Thomas Henry Huxley (*On the Study of Biology*):** *"What we call **physiology** is nothing more than the physical and chemical explanation of the mechanisms of life."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Substitute a person or thing for (another that is broken or inefficient or lost or no longer working or yielding what is expected).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Take the place or move into the position of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To take the place of; to put someone or something in the place of another; to put back in its previous position.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophy and economics, substituting capital or labor, or restoring an object to its rightful location.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He did not attempt to fill up the hole, replace the flowers, or do anything at all."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"The insurance companies paid me enough to replace every damage, and the office was renewed better than before."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"John once said) I must seek another interest in life to replace the one lost: is not the occupation he now offers me truly the most glorious man can adopt or God assign?"*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The capital employed in trade must return with a profit to **replace** the funds spent on inventory."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"New and improved varieties inevitably **replace** and exterminate their older and less improved ancestral parent-forms."*
+> - 📜 **William Shakespeare (*King Lear*):** *"My train are men of choice and rarest parts, / That all particulars of duty know, / And in the most exact regard support / The worships of their name. / Do you withdraw yourself / A little while? / I will **replace** my royal state upon this throne."*

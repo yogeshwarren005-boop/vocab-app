@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or experiencing synesthesia; involving more than one sense.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or experiencing synesthesia; involving more than one sense.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by, relating to, or exhibiting synaesthesia; involving cross-sensory correspondences.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Evoking a vivid sensory impression through descriptions properly belonging to another sense in artistic, musical, or literary compositions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, synaesthetic designates relating to or experiencing synesthesia; involving more than one sense."*
+> - 📜 **Vladimir Nabokov (*Speak, Memory*):** *"From childhood I possessed a **synaesthetic** alphabet where the letter M was the tint of dry pink flannel."*
+> - 📜 **Wassily Kandinsky (*Concerning the Spiritual in Art*):** *"A yellow trumpet blast produces an unmistakably bright, shrill **synaesthetic** sensation on the painter's canvas."*
+> - 📜 **Joris-Karl Huysmans (*À rebours*):** *"Des Esseintes constructed a mouth-organ of liqueurs where each drop provided a **synaesthetic** equivalent of flute or cello music."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek blast.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Life & Vitality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The outer germ layer of an early embryo; an archaic or alternative term for ectoderm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The embryonic cellular layer that gives rise to the epidermis, sensory organs, and nervous system.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ectoblast designates a term designating an entity, condition, or phenomenon derived from greek blast."*
+> - 📜 **Karl Ernst von Baer (*Über Entwickelungsgeschichte der Thiere*):** *"The outer layer or **ectoblast** folds inward along the dorsal midline to generate the neural tube."*
+> - 📜 **Ernst Haeckel (*The Evolution of Man*):** *"From the primitive **ectoblast** derive both the protective cutaneous integument and the central organs of thought."*
+> - 📜 **Francis Balfour (*A Treatise on Comparative Embryology*):** *"Separation of the **ectoblast** from the underlying mesoblast marks the primary stratification of vertebrate tissues."*

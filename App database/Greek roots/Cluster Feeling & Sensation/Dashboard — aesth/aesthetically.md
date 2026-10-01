@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a tasteful way.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a tasteful way.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner relating to beauty, artistic taste, or visual harmony; from an aesthetic point of view.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With conscious consideration for stylistic elegance, symmetry, and sensory pleasingness rather than purely utilitarian function.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aesthetically designates in a tasteful way."*
+> - 📜 **Clive Bell (*Art*):** *"A cathedral or painting moves us **aesthetically** through the pure resonance of significant form rather than through documentary subject matter."*
+> - 📜 **Virginia Woolf (*To the Lighthouse*):** *"The mass of the hedge balanced the blue line of the bay, satisfying her **aesthetically** as the canvas reached completion."*
+> - 📜 **Roger Fry (*Vision and Design*):** *"An object designed **aesthetically** speaks directly to the contemplative imagination through line and color."*

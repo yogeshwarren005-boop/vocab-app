@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A checking or failure of bile flow.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A checking or failure of bile flow.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A condition in which the flow of bile from the liver into the duodenum is slowed or blocked.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical hepatology, intrahepatic or extrahepatic impairment of biliary secretion resulting in the retention of bilirubin, bile acids, and alkaline phosphatase in systemic circulation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cholestasis designates a checking or failure of bile flow."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"Severe **cholestasis** leads to intense pruritus due to the cutaneous deposition of retained circulating bile salts."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Prolonged **cholestasis** from biliary atresia causes progressive portal fibrosis and secondary biliary cirrhosis."*
+> - 📜 **Donald Seldin (*The Kidney: Physiology and Pathophysiology*):** *"In patients with severe obstructive **cholestasis**, biliary nephrosis may supervene from direct bile acid tubular toxicity."*

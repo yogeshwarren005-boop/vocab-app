@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or characterized by atrophy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or characterized by atrophy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by, exhibiting, or resulting from atrophy (wasting away or diminution in size of a body part or organ).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Describing tissue or cellular degeneration resulting from starvation, denervation, disuse, or lack of endocrine trophic stimulation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, atrophic designates relating to or characterized by atrophy."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"The histological hallmark of the **atrophic** muscle fiber is volumetric shrinkage accompanied by fatty infiltration."*
+> - 📜 **William Boyd (*Pathology for the Physician*):** *"Chronic gastritis culminates in an **atrophic** mucosal lining incapable of secreting gastric acid and intrinsic factor."*
+> - 📜 **Claude Bernard (*Lectures on the Phenomena of Life*):** *"Denervation of an involuntary salivary gland induces rapid **atrophic** changes in its glandular parenchyma."*

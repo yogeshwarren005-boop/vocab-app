@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ba.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Motion & Direction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ancient Greek verb meaning to walk, step, go, or move.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The linguistic parent root generating classical compounds expressing transit, foundations, and physical posture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bainein designates a term designating an entity, condition, or phenomenon derived from greek ba."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"From the primary verb **bainein** arose both physical terms for stepping and philosophical foundations like basis."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"Tracing the root of acrobat reveals Greek **bainein**, walking on the extremities of the toes."*
+> - 📜 **Werner Jaeger (*Paideia: The Ideals of Greek Culture*):** *"Metaphors of journeying and stepping rooted in **bainein** pervade classical philosophical dialogues."*

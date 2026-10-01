@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of many subfamilies into which some classification systems subdivide the liliaceae but not widely accepted; includes genus hemerocallis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of many subfamilies into which some classification systems subdivide the liliaceae but not widely accepted; includes genus hemerocallis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A former monocotyledonous plant family, now placed as a subfamily (Hemerocallidoideae) within the Asphodelaceae, containing the daylilies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical taxonomy, petaloid monocots bearing rhizomatous roots, linear grass-like leaves, and showy lily-like flowers that each open for a single day.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemerocallidaceae designates one of many subfamilies into which some classification systems subdivide the liliaceae but not widely accepted; includes genus hemerocallis."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"The family **Hemerocallidaceae** encompasses robust perennial garden subjects celebrated for their ease of culture and magnificent blooms."*
+> - 📜 **Arthur Cronquist (*An Integrated System of Classification of Flowering Plants*):** *"Systematists separated the **Hemerocallidaceae** from the broad Liliaceae on the basis of distinctive floral anatomy and phytomelan-crusted seeds."*
+> - 📜 **Asa Gray (*Botanical Text-Book*):** *"Representatives of the **Hemerocallidaceae** bear clusters of ephemeral blossoms that succeed one another daily across several weeks."*

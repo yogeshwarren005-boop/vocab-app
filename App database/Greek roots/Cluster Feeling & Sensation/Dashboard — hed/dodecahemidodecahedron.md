@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek hed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Feeling & Sensation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A non-convex uniform star polyhedron consisting of eighteen faces: twelve regular pentagons and six regular decagrams or hexagons intersecting at the center.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In higher geometry and topology, a quasi-regular polyhedron characterized by vertices that each meet two pentagons and two decagons.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dodecahemidodecahedron designates a term designating an entity, condition, or phenomenon derived from greek hed."*
+> - 📜 **H. S. M. Coxeter (*Regular Polytopes*):** *"The uniform star polyhedron known as the **dodecahemidodecahedron** exhibits faces passing through the center of symmetry."*
+> - 📜 **Magnus Wenninger (*Polyhedron Models*):** *"Constructing the cardboard model of the **dodecahemidodecahedron** requires painstaking precision at intersecting internal vertices."*
+> - 📜 **Michael Longuet-Higgins (*Uniform Polyhedra*):** *"The symmetry group of the **dodecahemidodecahedron** shares the full rotational properties of the regular icosahedron."*

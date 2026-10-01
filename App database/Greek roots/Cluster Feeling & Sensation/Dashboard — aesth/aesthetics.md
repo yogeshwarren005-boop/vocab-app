@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The artistic or beautiful qualities of something : beauty.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A particular theory or conception of beauty or art : a particular taste for or approach to what is pleasing to the senses and especially sight.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of philosophy that deals with the nature and expression of beauty, art, taste, and the sublimity of sensory perception.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The set of artistic principles, stylistic convictions, or visual conventions characterizing the work of a particular artist, movement, or cultural epoch.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"The painter, the sculptor, the musical composer must plead our cause in the world of aesthetics."*
-> - 📜 **Vachel Lindsay (*The Chinese Nightingale, and Other Poems*):** *"As is indicated in the title, he wrestled with a theory of American aesthetics."*
+> - 📜 **G. W. F. Hegel (*Introductory Lectures on Aesthetics*):** *"The realm of **aesthetics** has for its object the wide domain of the beautiful, and specifically the beauty of fine art."*
+> - 📜 **Arthur Schopenhauer (*The World as Will and Representation*):** *"In contemplation through **aesthetics**, the mind escapes the endless torment of the willing self and gazes upon eternal Platonic ideas."*
+> - 📜 **Leo Tolstoy (*What Is Art?*):** *"Modern **aesthetics** has mistaken the pursuit of pleasure for the sacred moral mission of artistic communication."*

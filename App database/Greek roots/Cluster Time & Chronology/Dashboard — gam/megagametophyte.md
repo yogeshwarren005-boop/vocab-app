@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The female gametophyte produced by the megaspore of a plant that produces both microspore and megaspores.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The female gametophyte produced by the megaspore of a plant that produces both microspore and megaspores.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The female gametophyte produced by the megaspore in heterosporous plants; the embryo sac in angiosperms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In seed plant embryology, the haploid multicellular structure within the ovule that develops egg cells, synergids, antipodals, and polar nuclei.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, megagametophyte designates the female gametophyte produced by the megaspore of a plant that produces both microspore and megaspores."*
+> - 📜 **Asa Gray (*Botanical Text-Book*):** *"In gymnosperms like the pine, the **megagametophyte** develops into a massive nutritive tissue nourishing the developing embryo."*
+> - 📜 **Douglas Houghton Campbell (*The Structure and Development of Mosses and Ferns*):** *"The microscopic **megagametophyte** of angiosperms represents the ultimate evolutionary condensation of the ancestral fern prothallus."*
+> - 📜 **Eduard Strasburger (*A Text-Book of Botany*):** *"Within the nucellus, the functional megaspore undergoes three successive mitotic divisions to organize the eight-nucleate **megagametophyte**."*

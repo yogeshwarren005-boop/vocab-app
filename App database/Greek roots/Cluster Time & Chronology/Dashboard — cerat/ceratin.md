@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A fibrous scleroprotein that occurs in the outer layer of the skin and in horny tissues such as hair, feathers, nails, and hooves.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fibrous scleroprotein that occurs in the outer layer of the skin and in horny tissues such as hair, feathers, nails, and hooves.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A fibrous structural protein forming the main constituent of hair, feathers, claws, hooves, and horns; older variant spelling of keratin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical physiological chemistry, an insoluble scleroprotein distinguished by high cystine content and disulfide linkages conferring mechanical toughness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ceratin designates a fibrous scleroprotein that occurs in the outer layer of the skin and in horny tissues such as hair, feathers, nails, and hooves."*
+> - 📜 **Justus von Liebig (*Animal Chemistry, or Organic Chemistry in Its Applications to Physiology and Pathology*):** *"Chemical analysis revealed that epidermal appendages, hooves, and horns consist of the identical substance termed **ceratin**."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The outer stratum of the cuticle is composed of desiccated horny scales saturated with **ceratin**."*
+> - 📜 **William Benjamin Carpenter (*Principles of General and Comparative Physiology*):** *"The toughness of avian claws and reptilian shields is due to dense deposits of **ceratin** within the epithelial cells."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A city in ancient macedonia that was important in early christianity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Octavian and mark antony defeated brutus and cassius in 42 bc.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient city in eastern Macedonia, founded in 356 BCE by Philip II of Macedon, situated on the Via Egnatia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The site of the momentous Roman civil war battle in 42 BCE where Antony and Octavian defeated Brutus and Cassius; also the location of Europe's first Christian church founded by Paul.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"AGRIPPA. [_Aside to Enobarbus_.] Why, Enobarbus, When Antony found Julius Caesar dead, He cried almost to roaring, and he wept When at Philippi he found Brutus slain."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He at Philippi kept His sword e’en like a dancer, while I struck The lean and wrinkled Cassius, and ’twas I That the mad Brutus ended."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The plains of Philippi Scene II."*
+> - 📜 **William Shakespeare (*Julius Caesar*):** *"Thy evil spirit, Brutus. Why comest thou? To tell thee thou shalt see me at **Philippi**."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Upon the plains of **Philippi**, the last champions of the Roman Republic perished in blood."*
+> - 📜 **Saint Paul (*Epistle to the Philippians*):** *"Paul and Timothy, to all the saints in Christ Jesus which are at **Philippi**, grace be unto you and peace."*

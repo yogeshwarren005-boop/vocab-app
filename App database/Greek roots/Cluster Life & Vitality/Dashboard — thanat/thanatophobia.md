@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek thanat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Life & Vitality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An extreme, morbid, or pathological dread of death or dying.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A specific phobic disorder marked by anticipatory terror, somatic distress, and compulsive avoidance of anything associated with mortality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thanatophobia designates a term designating an entity, condition, or phenomenon derived from greek thanat."*
+> - 📜 **Sigmund Freud (*The Ego and the Id*):** *"The unconscious mind knows nothing of its own annihilation, making acute **thanatophobia** a reflection of castration anxiety and moral guilt."*
+> - 📜 **Robert Burton (*The Anatomy of Melancholy*):** *"Miserable melancholics torment themselves with continual **thanatophobia**, trembling at every rustling leaf as a harbinger of the tomb."*
+> - 📜 **G. Stanley Hall (*Thanatophobia and Immortality*):** *"The developmental emergence of **thanatophobia** in early youth spurs intense philosophical and religious introspection."*

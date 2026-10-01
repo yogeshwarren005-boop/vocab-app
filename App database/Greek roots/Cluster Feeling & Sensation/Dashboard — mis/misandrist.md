@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who hates men.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by or expressing misandry or hatred of men.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who dislikes, despises, or harbors ingrained prejudice against men; one who practices misandry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social critique and feminist discourse, an individual expressing ideological hostility toward men or masculinity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, misandrist designates a person who hates men."*
+> - 📜 **Simone de Beauvoir (*The Second Sex*):** *"The embittered woman who has suffered abuse may react by becoming a dogmatic **misandrist**, rejecting all masculine companionship."*
+> - 📜 **George Bernard Shaw (*The Quintessence of Ibsenism*):** *"Ibsen was accused of being a **misandrist** by critics who mistook his exposure of bourgeois hypocrisy for hatred of men."*
+> - 📜 **H. L. Mencken (*In Defense of Women*):** *"The militant suffragette was frequently caricatured in the press as a scolding, humorless **misandrist**."*

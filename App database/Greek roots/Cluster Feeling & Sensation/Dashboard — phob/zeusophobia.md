@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek phob.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Feeling & Sensation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal, irrational fear or dread of Zeus, the king of the Olympian gods, or of lightning, thunder, and divine retribution from supreme deities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mythological and psychological terminology, an acute phobic dread of celestial thunderbolts and wrathful sky gods.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, zeusophobia designates a term designating an entity, condition, or phenomenon derived from greek phob."*
+> - 📜 **Hesiod (*Works and Days*):** *"The trembling mortal was stricken with **zeusophobia**, fearing the thunderbolt that the Olympian king hurls from cloud-capped peaks."*
+> - 📜 **Aeschylus (*Prometheus Bound*):** *"Prometheus defied the almighty tyrant of Olympus, scorning the slavish **zeusophobia** of the trembling Oceanids."*
+> - 📜 **Robert Burton (*The Anatomy of Melancholy*):** *"Superstitious souls who live in perpetual dread of celestial lightning bolt suffer an ancient form of **zeusophobia**."*

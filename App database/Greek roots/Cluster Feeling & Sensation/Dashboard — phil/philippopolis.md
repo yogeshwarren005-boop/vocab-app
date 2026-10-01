@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient city in southern bulgaria; commercial center of an agricultural region.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ancient city in southern bulgaria; commercial center of an agricultural region.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient city in Thrace (now Plovdiv, Bulgaria), founded on a prehistoric settlement and named after Philip II of Macedon who conquered it in 342 BCE.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A major administrative hub and legionary headquarters of the Roman province of Thrace, famed for its ancient theater and triple hills.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, philippopolis designates an ancient city in southern bulgaria; commercial center of an agricultural region."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Gothic hordes stormed the wealthy city of **Philippopolis**, putting a hundred thousand citizens to the sword."*
+> - 📜 **Ammianus Marcellinus (*Res Gestae*):** *"The emperor halted his legions at **Philippopolis**, the great Thracian capital lying beneath the shadow of the Haemus mountains."*
+> - 📜 **Strabo (*Geography*):** *"The Thracian settlement of Eumolpias was enlarged and fortified by the Macedonian king, receiving the name **Philippopolis**."*

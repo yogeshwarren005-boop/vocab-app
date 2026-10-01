@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: African genus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: African genus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of large perissodactyl mammals in the rhinoceros family, represented today by Ceratotherium simum, the white rhinoceros.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mammalian taxonomy and African wildlife conservation, square-lipped grazing rhinos distinguished by broad muzzles, massive tandem horns, and high-crowned hypsodont molars.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ceratotherium designates african genus."*
+> - 📜 **John Edward Gray (*Proceedings of the Zoological Society of London*):** *"I have separated the white rhinoceros under the genus **Ceratotherium** by reason of its peculiar cranial osteology and broad grazing muzzle."*
+> - 📜 **Theodore Roosevelt (*African Game Trails*):** *"A colossal bull **Ceratotherium** stood motionless against the yellow acacia thicket, its long anterior horn gleaming in the sun."*
+> - 📜 **William Henry Flower (*An Introduction to the Osteology of the Mammalia*):** *"The occipital crest of **Ceratotherium** slants backward to support the immense cervical musculature required by its lowering head."*

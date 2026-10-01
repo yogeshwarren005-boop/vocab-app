@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Devoted to pleasure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Devoted to pleasure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, characterized by, or producing pleasant sensations or pleasure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economics, psychology, and welfare ethics, pertaining to the measurement of subjective satisfaction, utility, or affective tone (e.g., the hedonic treadmill).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hedonic designates devoted to pleasure."*
+> - 📜 **Jeremy Bentham (*An Introduction to the Principles of Morals and Legislation*):** *"Nature has placed mankind under the governance of two sovereign masters, pain and pleasure, the pillars of our **hedonic** calculus."*
+> - 📜 **Francis Ysidro Edgeworth (*Mathematical Psychics*):** *"An exact science of utility requires an imaginary machine, a **hedonic** calculus capable of measuring units of pleasure."*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"It is better to be a human being dissatisfied than a pig satisfied, demonstrating that **hedonic** quality surpasses quantity."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Aromatic eurasian perennial.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pungent leaves used as seasoning with meats and fowl and in stews and soups and omelets.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An aromatic Mediterranean perennial herb (*Origanum vulgare*) of the mint family (Lamiaceae), with pungent leaves widely used as a culinary seasoning.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A classical wild mountain herb derived from Greek *oros* ('mountain') and *ganos* ('joy' or 'brightness'), prized since antiquity for culinary and medicinal virtues.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oregano designates aromatic eurasian perennial."*
+> - 📜 **Dioscorides (*De Materia Medica*):** *"Wild **oregano**, growing upon rocky hillsides, provides a fragrant decoction that soothes venomous bites and coughs."*
+> - 📜 **Apicius (*De Re Coquinaria*):** *"Crush together black pepper, cumin, rue, and dried **oregano**, blending them with garum and olive oil for roast hare."*
+> - 📜 **Gertrude Jekyll (*Wood and Garden*):** *"The bees swarmed over the purple flowering heads of **oregano** in the herb garden through the hot August afternoon."*

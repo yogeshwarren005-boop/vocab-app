@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: demon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: demon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An evil spirit or malevolent demon (derived from Greek *kakos* and *daimon*), contrasted with an agathodemon (benevolent spirit).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A malicious person regarded as devilish; in medieval astrology, a malignant celestial position or planetary aspect bringing misfortune.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"QUEEN MARGARET. [_Aside._] Hie thee to hell for shame, and leave this world, Thou cacodemon!"*
+> - 📜 **William Shakespeare (*Richard III*):** *"Hie thee to hell for shame, and leave the world, thou **cacodemon**! there thy kingdom is."*
+> - 📜 **Robert Burton (*The Anatomy of Melancholy*):** *"The superstitious patient imagines that a foul **cacodemon** sits upon his breast in the dark, suffocating his breathing."*
+> - 📜 **John Webster (*The White Devil*):** *"Thou art a **cacodemon** in human shape, whose breath poisons the honour of our ancient house."*

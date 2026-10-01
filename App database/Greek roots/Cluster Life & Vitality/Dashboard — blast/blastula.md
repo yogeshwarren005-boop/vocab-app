@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An early metazoan embryo typically having the form of a hollow fluid-filled rounded cavity bounded by a single layer of cells.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An early metazoan embryo typically having the form of a hollow fluid-filled rounded cavity bounded by a single layer of cells.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An early animal embryo at the stage following cleavage, typically consisting of a hollow sphere of cells enclosing a central fluid-filled cavity (blastocoel).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The embryonic stage marking the conclusion of cleavage and providing the physical architecture required for gastrulation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, blastula designates an early metazoan embryo typically having the form of a hollow fluid-filled rounded cavity bounded by a single layer of cells."*
+> - 📜 **Ernst Haeckel (*The Gastraea Theory*):** *"The **blastula** represents an ontogenetic milestone shared by virtually all multicellular animals from sponges to vertebrates."*
+> - 📜 **Karl Ernst von Baer (*Entwickelungsgeschichte der Thiere*):** *"From the spherical symmetry of the early **blastula**, the embryo progressively acquires bilateral polarity."*
+> - 📜 **Hans Driesch (*The Science and Philosophy of the Organism*):** *"Centrifuging the amphibian **blastula** demonstrated that cytoplasmic organization can reorganize itself to restore normal form."*

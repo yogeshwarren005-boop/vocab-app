@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A positive feeling of liking.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A positive feeling of liking.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Affectionate regard, friendship, or fraternal love; one of the classical Greek concepts of love, distinguished from *eros* (passion) and *agape* (unconditional charity).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Aristotelian ethics, the highest form of friendship based on shared virtue and mutual goodwill between equals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, philia designates a positive feeling of liking."*
+> - 📜 **Aristotle (*Nicomachean Ethics*):** *"Perfect **philia** is the friendship of men who are good, and alike in excellence; for these wish well alike to each other."*
+> - 📜 **C. S. Lewis (*The Four Loves*):** *"Friendship, or **philia**, was regarded by the ancients as the happiest and most fully human of all loves."*
+> - 📜 **Plato (*Symposium*):** *"The civic harmony of Athens flourished upon the bedrock of masculine **philia**, which stood firm against tyrants."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ba.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Motion & Direction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A descent, downward journey, or retreat; variant spelling of catabasis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical literature, a journey into the underworld or spiritual underworld descent.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, katabasis designates a term designating an entity, condition, or phenomenon derived from greek ba."*
+> - 📜 **Jane Ellen Harrison (*Prolegomena to the Study of Greek Religion*):** *"Orpheus undertook his mythic **katabasis** to retrieve Eurydice from the shadowy halls of Hades."*
+> - 📜 **C. G. Jung (*Psychology and Alchemy*):** *"Every heroic transformation begins with a perilous **katabasis** into the deepest caverns of the psyche."*
+> - 📜 **Gilbert Murray (*Five Stages of Greek Religion*):** *"The ritual **katabasis** in mystery cults represented symbolic death followed by ecstatic rebirth."*

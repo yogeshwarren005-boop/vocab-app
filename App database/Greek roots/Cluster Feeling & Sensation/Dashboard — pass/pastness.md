@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being past.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being past.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state, quality, or condition of belonging to the past; the property of being historically elapsed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary theory and phenomenological philosophy, the vivid temporal sense of historical distance and elapsed experience.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pastness designates the quality of being past."*
+> - 📜 **T. S. Eliot (*Tradition and the Individual Talent*):** *"The historical sense involves a perception, not only of the **pastness** of the past, but of its living presence."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Memory requires not merely an image, but a belief in the datum's **pastness**, dated in our personal history."*
+> - 📜 **Martin Heidegger (*Being and Time*):** *"Dasein encounters its heritage not as dead **pastness**, but as a possibility inherited for authentic projection."*

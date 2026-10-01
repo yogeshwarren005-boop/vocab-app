@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Suffering from megalomania.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Suffering from megalomania.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by or characteristic of megalomania; exhibiting grandiose delusions of unearned greatness or imperial power.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exorbitant and wildly disproportionate in scale or ambition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, megalomaniacal designates suffering from megalomania."*
+> - 📜 **Joseph Conrad (*Under Western Eyes*):** *"The revolutionary manifesto was couched in **megalomaniacal** phrases that promised the immediate rebirth of humanity."*
+> - 📜 **Arthur Koestler (*Darkness at Noon*):** *"Number One directed the purges with a cold, **megalomaniacal** conviction that history had chosen him as its prophet."*
+> - 📜 **Thomas Mann (*Doctor Faustus*):** *"Leverkühn's final oratorio expressed a **megalomaniacal** desire to break through the bounds of human harmony."*

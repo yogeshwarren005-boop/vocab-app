@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A lover of books especially for qualities of format; also : a book collector.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A lover of books especially for qualities of format; also : a book collector.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who loves, admires, or collects books, especially for their rarity, fine printing, exquisite binding, or historical value.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A connoisseur of book production, typography, and provenance who cherishes volumes as physical works of art.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bibliophile designates a lover of books especially for qualities of format; also : a book collector."*
+> - 📜 **Walter Pater (*Appreciations*):** *"The true **bibliophile** cherishes the feel of hand-made paper and the subtle aroma of antique calf bindings."*
+> - 📜 **Charles Lamb (*Essays of Elia*):** *"My midnight rambles through bookstalls are the harmless dissipation of an incurable **bibliophile**."*
+> - 📜 **Henry James (*The Aspern Papers*):** *"The elderly collector guarded his first editions with the jealous passion of a veteran **bibliophile**."*

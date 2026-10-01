@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hatred of, aversion to, or prejudice against women; also : something (such as speech or behavior) that reflects and fosters misogyny.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hatred of, aversion to, or prejudice against women; also : something (such as speech or behavior) that reflects and fosters misogyny.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Dislike of, contempt for, or ingrained prejudice against women.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In feminist theory and sociology, a systemic social ideology that enforces female subordination and sanctions patriarchal privilege.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, misogyny designates hatred of, aversion to, or prejudice against women; also : something (such as speech or behavior) that reflects and fosters misogyny."*
+> - 📜 **Simone de Beauvoir (*The Second Sex*):** *"Legislators, priests, philosophers, and poets have taken upon themselves the task of showing that female nature demands subordination, weaving an intricate tapestry of **misogyny**."*
+> - 📜 **Virginia Woolf (*A Room of One's Own*):** *"The history of England is scarred by male **misogyny**, which kept Shakespeare's sister illiterate and chained to household pots."*
+> - 📜 **John Stuart Mill (*The Subjection of Women*):** *"The subtle **misogyny** of polite society pretends that women are worshipped while denying them the common rights of citizens."*

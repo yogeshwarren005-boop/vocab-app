@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek treph.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Life & Vitality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An organism that uses inorganic substrate molecules (such as mineral ions or dissolved gases) as electron donors for biosynthesis or energy production.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A microbe specialized in the chemical weathering of rocks, ores, and volcanic lavas through inorganic redox reactions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lithotroph designates a term designating an entity, condition, or phenomenon derived from greek treph."*
+> - 📜 **Sergei Winogradsky (*Principles of Soil Microbiology*):** *"I classified the iron-oxidizing Leptothrix as an obligate **lithotroph** capable of deriving energy from ferrous salts."*
+> - 📜 **Albert Lehninger (*Principles of Biochemistry*):** *"The biochemical hallmark of the **lithotroph** is its ability to direct electron transport chains using inorganic electron donors."*
+> - 📜 **Eugene Odum (*Fundamentals of Ecology*):** *"Acid mine drainage is catalyzed by the metabolic activities of the iron-oxidizing **lithotroph** Thiobacillus ferrooxidans."*

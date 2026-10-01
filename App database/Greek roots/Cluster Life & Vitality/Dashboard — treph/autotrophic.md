@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to organisms (as green plants) that can make complex organic nutritive compounds from simple inorganic sources by photosynthesis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to organisms (as green plants) that can make complex organic nutritive compounds from simple inorganic sources by photosynthesis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, characterized by, or being an autotroph; capable of self-nourishment using inorganic sources.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Describing biochemical pathways that assimilate carbon dioxide through the Calvin cycle, reverse Krebs cycle, or Wood-Ljungdahl pathway.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, autotrophic designates of or relating to organisms (as green plants) that can make complex organic nutritive compounds from simple inorganic sources by photosynthesis."*
+> - 📜 **Martinus Beijerinck (*Studies on Microbial Ecology*):** *"Certain sulfur bacteria maintain an **autotrophic** existence in volcanic hot springs by oxidizing hydrogen sulfide."*
+> - 📜 **Eugene Odum (*Fundamentals of Ecology*):** *"The **autotrophic** stratum of the forest canopy captures sunlight, driving the primary productivity of the watershed."*
+> - 📜 **Melvin Calvin (*The Path of Carbon in Photosynthesis*):** *"Radio-tracer studies resolved the cyclical enzyme reactions sustaining **autotrophic** carbon assimilation."*

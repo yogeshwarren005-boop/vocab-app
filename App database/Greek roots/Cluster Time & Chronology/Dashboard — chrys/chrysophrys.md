@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Australian snapper.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Australian snapper.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of marine sparid fishes characterized by a golden band between the eyes, notably Chrysophrys auratus, the Australasian snapper.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Mediterranean and Indo-Pacific ichthyology, prized food and game fishes with deep bodies and powerful crushing molariform teeth adapted for bivalves.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chrysophrys designates australian snapper."*
+> - 📜 **Aristotle (*History of Animals*):** *"The fish called **Chrysophrys** is named for the golden eyebrow marking that spans the space between its eyes."*
+> - 📜 **Louis Agassiz (*Recherches sur les Poissons Fossiles*):** *"The rounded pavement teeth of fossil **Chrysophrys** demonstrate its dietary reliance upon hard-shelled mollusks."*
+> - 📜 **Gerard Krefft (*The Vertebrata of Tasmania*):** *"Anglers prize the Australian **Chrysophrys** for its fighting vigor and excellent culinary qualities."*

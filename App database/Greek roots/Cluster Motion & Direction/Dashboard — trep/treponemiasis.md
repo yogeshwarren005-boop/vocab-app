@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek trep.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Motion & Direction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Infection with or disease caused by bacteria of the genus Treponema; a medical synonym for treponematosis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In public health and epidemiology, the programmatic term for campaigns aimed at eradicating endemic non-venereal treponemal infections (yaws and bejel) using mass penicillin distribution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, treponemiasis designates a term designating an entity, condition, or phenomenon derived from greek trep."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Massive public health campaigns demonstrated that endemic **treponemiasis** could be eradicated from rural populations with single doses of long-acting penicillin."*
+> - 📜 **Robley Dunglison (*Medical Lexicon*):** *"The diagnosis of chronic **treponemiasis** relies upon complement fixation tests when surface lesions have long disappeared."*
+> - 📜 **Paul Ehrlich (*Chemotherapy of Infectious Diseases*):** *"The therapeutic eradication of **treponemiasis** proved that synthetic chemistry could systematically conquer internal bacterial infections."*

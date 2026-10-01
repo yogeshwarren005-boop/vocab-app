@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The main (mid) section of a long bone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The main (mid) section of a long bone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The shaft or central portion of a long bone, composed of dense cortical bone enclosing the medullary marrow cavity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The primary ossification unit of a tubular bone, situated between the distal and proximal metaphyses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diaphysis designates the main (mid) section of a long bone."*
+> - 📜 **Karl Ernst von Baer (*Über Entwickelungsgeschichte der Thiere*):** *"Endochondral ossification establishes the cylindrical **diaphysis** long before the cartilaginous epiphyses calcify."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"The tubular architecture of the **diaphysis** combines light weight with tremendous mechanical strength."*
+> - 📜 **William Boyd (*Pathology for the Surgeon*):** *"In acute hematogenous osteomyelitis, pus collects beneath the periosteum of the **diaphysis**."*

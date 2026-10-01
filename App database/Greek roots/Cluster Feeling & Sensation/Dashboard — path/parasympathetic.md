@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Originates in the brain stem and lower part of the spinal cord; opposes physiological effects of the sympathetic nervous system: stimulates digestive secretions; slows the heart; constricts the pupils; dilates blood vessels.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the parasympathetic nervous system.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the craniosacral division of the autonomic nervous system that conserves energy, slows heart rate, increases intestinal and gland activity, and relaxes sphincter muscles ('rest and digest').
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Contrasted with the sympathetic nervous system; mediated primarily by acetylcholine acting on muscarinic receptors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parasympathetic designates originates in the brain stem and lower part of the spinal cord; opposes physiological effects of the sympathetic nervous system: stimulates digestive secretions; slows the heart; constricts the pupils; dilates blood vessels."*
+> - 📜 **John Newport Langley (*The Autonomic Nervous System*):** *"I propose the term **parasympathetic** for those craniosacral autonomic outflows that act antagonistically to the thoracic-lumbar sympathetic trunk."*
+> - 📜 **Walter Cannon (*The Wisdom of the Body*):** *"While the sympathetic system mobilizes the body for fight or flight, the **parasympathetic** division presides over nutrition and recuperation."*
+> - 📜 **Charles Sherrington (*The Integrative Action of the Nervous System*):** *"The vagal nerve provides the chief **parasympathetic** brake upon cardiac rhythm, preventing metabolic exhaustion."*

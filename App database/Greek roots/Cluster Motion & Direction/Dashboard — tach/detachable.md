@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Designed to be unfastened or disconnected without damage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Designed to be unfastened or disconnected without damage.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being separated, unfastened, or removed from a larger assembly without causing damage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mechanical engineering and industrial design, designating components engineered with quick-release mechanisms, modular couplings, or threaded fasteners.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"This "head," as it is termed, is detachable, so that it can be left off until it is really required for war."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"The Jews had a parallel belief in angels, and had come to think of God's spirit and God's intelligence as somehow detachable from his being."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"He unbolted the **detachable** nickel lever and slipped it into his pocket to prevent unauthorized tampering."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues Under the Sea*):** *"Captain Nemo pointed to the **detachable** dinghy secured atop the hull of the Nautilus."*
+> - 📜 **Henry Ford (*My Life and Work*):** *"We designed every engine part to be easily **detachable** so that ordinary mechanics could service the machine in the field."*

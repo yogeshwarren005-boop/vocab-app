@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of hour.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of hour.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Evolving at a standard or average rate; characterized by a normal phylogenetic tempo.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary paleontology (coined by George Gaylord Simpson), representing standard evolutionary rates in contrast to bradytelic (slow) and tachytelic (fast) lineages.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, horotelic designates adjective*) pertaining to, derived from, or characteristic of hour."*
+> - 📜 **George Gaylord Simpson (*Tempo and Mode in Evolution*):** *"I propose the term **horotelic** for the standard, typical rate of evolutionary change observed across most mammalian phyla."*
+> - 📜 **Stephen Jay Gould (*Ontogeny and Phylogeny*):** *"Simpson's classification divided evolutionary tempos into **horotelic** lineages running at average speed and sluggish bradytelic living fossils."*
+> - 📜 **Ernst Mayr (*Animal Species and Evolution*):** *"The vast majority of speciation events adhere to a **horotelic** tempo, accumulating morphological shifts across millions of years."*

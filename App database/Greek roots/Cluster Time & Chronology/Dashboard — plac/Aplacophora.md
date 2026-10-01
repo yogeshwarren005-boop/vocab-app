@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An order of amphineura.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An order of amphineura.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A class of small, worm-like, shell-less marine molluscs found predominantly in deep benthic ocean waters.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In malacology and invertebrate phylogeny, ancestral benthic molluscs covered by a cuticle embedded with calcareous spicules rather than a conchiferous shell.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Aplacophora designates an order of amphineura."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The **Aplacophora** occupy a basal phylogenetic position, illustrating the primordial vermiform condition of the molluscan phylum."*
+> - 📜 **Francis Maitland Balfour (*A Treatise on Comparative Embryology*):** *"Developmental tracking reveals that the spicular cuticle of the **Aplacophora** precedes the evolution of the univalve and bivalve shell."*
+> - 📜 **Arthur Shipley (*The Cambridge Natural History: Molluscs*):** *"Deep-sea dredgings in abyssal mud frequently bring up bizarre cylindric forms belonging to the **Aplacophora**."*

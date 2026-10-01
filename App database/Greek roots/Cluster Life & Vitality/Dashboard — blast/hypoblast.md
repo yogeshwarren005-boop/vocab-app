@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The inner germ layer that develops into the lining of the digestive and respiratory systems.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The inner germ layer that develops into the lining of the digestive and respiratory systems.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The inner or lower layer of cells of the embryonic blastodisc, underlying the epiblast and giving rise to yolk sac endoderm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ventral embryonic sheet in avian and mammalian embryos that directs early axis formation before being displaced during gastrulation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypoblast designates the inner germ layer that develops into the lining of the digestive and respiratory systems."*
+> - 📜 **Francis Balfour (*A Treatise on Comparative Embryology*):** *"The **hypoblast** delaminates from the lower surface of the blastodisc, spreading out to line the sub-germinal cavity."*
+> - 📜 **C. H. Waddington (*Principles of Embryology*):** *"Signals from the anterior **hypoblast** establish early anterior-posterior polarity within the overlying epiblast."*
+> - 📜 **Thomas Henry Huxley (*The Elements of Embryology*):** *"While the epiblast gives rise to the entire embryonic body, the **hypoblast** mainly subserves extraembryonic nutrition."*

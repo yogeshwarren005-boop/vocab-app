@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Oregon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Oregon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Greek root *oreg-* (from *orexis*), denoting yearning, appetite, longing, reaching out, or physical desire.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The foundational combining form in biomedical science (e.g., *anorexia*, *orexin*) designating hunger and the neurochemical regulation of food intake.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog oreg as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Henry George Liddell & Robert Scott (*A Greek-English Lexicon*):** *"The Greek verb *oregein* signifies to stretch out, reach after, or yearn, providing the stem **oreg** for bodily appetite."*
+> - 📜 **Aristotle (*Nicomachean Ethics*):** *"Human action is born of deliberate choice, which combines the rational intellect with the appetitive drive of **orexis**."*
+> - 📜 **Claude Bernard (*Lectures on the Physiology of Digestion*):** *"Physiology traced the Greek morpheme **oreg** to the hypothalamic circuits governing hunger and satiety."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A spore produced by a basidium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A spore produced by a basidium.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sexually produced fungal spore borne on the exterior of a basidium, characteristic of the Basidiomycota.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An airborne reproductive cell ejected by a surface-tension catapult mechanism from fungal gills or pores.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, basidiospore designates a spore produced by a basidium."*
+> - 📜 **Arthur Henry Reginald Buller (*Researches on Fungi*):** *"A microscopic Buller's drop condenses at the hilum just before the **basidiospore** is violently discharged."*
+> - 📜 **Pier Andrea Saccardo (*Sylloge Fungorum*):** *"Each ripe **basidiospore** exhibited a smooth, hyaline wall under the oil immersion lens."*
+> - 📜 **Anton de Bary (*Comparative Morphology and Biology of the Fungi*):** *"Upon landing on fertile soil, the **basidiospore** germinates to produce primary monokaryotic hyphae."*

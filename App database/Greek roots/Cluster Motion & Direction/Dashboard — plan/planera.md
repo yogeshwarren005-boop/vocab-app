@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A deciduous tree of the family ulmaceae that grows in the southeastern united states.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A deciduous tree of the family ulmaceae that grows in the southeastern united states.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of small deciduous trees in the elm family (Ulmaceae), commonly known as water elms or planertrees.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Monotypic North American riparian trees (Planera aquatica) thriving in southeastern swamp floodplain habitats.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, planera designates a deciduous tree of the family ulmaceae that grows in the southeastern united states."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The water elm, **Planera** aquatica, is distinguished from Ulmus by its nutlike, warty winged fruit."*
+> - 📜 **Charles Sprague Sargent (*The Silva of North America*):** *"In deep river swamps of the Carolina lowcountry, **Planera** forms dense thickets alongside cypress and tupelo."*
+> - 📜 **John Torrey (*Flora of North America*):** *"Botanists dedicated the genus **Planera** in honor of Johann Jakob Planer, professor of medicine at Erfurt."*

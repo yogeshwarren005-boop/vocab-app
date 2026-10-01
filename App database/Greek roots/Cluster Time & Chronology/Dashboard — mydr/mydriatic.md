@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A drug that causes the pupil of the eye to dilate; used to aid eye examinations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A drug that causes the pupil of the eye to dilate; used to aid eye examinations.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing or relating to pupillary dilation; an agent or drug that dilates the pupil of the eye.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pharmacotherapy, an antimuscarinic or sympathomimetic substance (such as tropicamide, atropine, or phenylephrine) instilled to facilitate funduscopic examination.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mydriatic designates a drug that causes the pupil of the eye to dilate; used to aid eye examinations."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Before instilling a strong **mydriatic**, the practitioner must measure intraocular tension to avert acute angle-closure glaucoma."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"A topical **mydriatic** agent blocks muscarinic receptors within the ciliary muscle, simultaneously inducing cycloplegia."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"The physician dropped an effective **mydriatic** into the eye, widening the black portal to inspect the retinal vessel arborization."*

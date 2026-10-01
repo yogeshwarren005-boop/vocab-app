@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek heb.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Life & Vitality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An irrational fear, hatred, or prejudice directed against youth, adolescents, or teenagers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Societal moral panic characterized by excessive demonization and stigmatization of adolescent subcultures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ephebiphobia designates a term designating an entity, condition, or phenomenon derived from greek heb."*
+> - 📜 **G. Stanley Hall (*Adolescence*):** *"Sensationalist reports in the yellow press foment a reactionary **ephebiphobia** that misunderstands adolescent vitality."*
+> - 📜 **Margaret Mead (*Coming of Age in Samoa*):** *"Western cultural anxieties regarding teenage rebellion contrast sharply with Samoan societies untouched by **ephebiphobia**."*
+> - 📜 **Jane Addams (*The Spirit of Youth and the City Streets*):** *"Municipal curfews often reflect unreasoning adult **ephebiphobia** rather than genuine concern for juvenile welfare."*

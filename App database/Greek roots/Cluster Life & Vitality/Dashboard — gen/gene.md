@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A specific sequence of nucleotides in DNA or RNA that is located usually on a chromosome and that is the functional unit of inheritance controlling the transmission and expression of one or more traits by specifying the structure of a particular polypeptide and especially a protein or controlling the function of other genetic material.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A specific sequence of nucleotides in DNA or RNA that is located usually on a chromosome and that is the functional unit of inheritance controlling the transmission and expression of one or more traits by specifying the structure of a particular polypeptide and especially a protein or controlling the function of other genetic material.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A basic unit of heredity in living organisms; a specific sequence of nucleotides in DNA or RNA that encodes a functional RNA or protein.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A Mendelian factor residing at a distinct locus on a chromosome that undergoes replication, mutation, and transcription.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gene designates a specific sequence of nucleotides in dna or rna that is located usually on a chromosome and that is the functional unit of inheritance controlling the transmission and expression of one or more traits by specifying the structure of a particular polypeptide and especially a protein or controlling the function of other genetic material."*
+> - 📜 **Wilhelm Johannsen (*Elemente der exakten Erblichkeitslehre*):** *"I have proposed the word **gene** to designate the fundamental hereditary element underlying unit characters."*
+> - 📜 **Thomas Hunt Morgan (*The Physical Basis of Heredity*):** *"Our linkage maps prove that each **gene** occupies a definite linear locus along the chromosome of Drosophila."*
+> - 📜 **Francis Crick (*What Mad Pursuit*):** *"The central dogma asserted that sequence information flows unidirectionally from the **gene** to messenger RNA to protein."*

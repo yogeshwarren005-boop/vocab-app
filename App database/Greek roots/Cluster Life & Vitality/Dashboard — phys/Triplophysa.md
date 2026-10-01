@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek phys.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Life & Vitality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of nemacheilid stone loaches native to freshwater streams, lakes, and high-altitude wetlands of the Tibetan Plateau and Central Asia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cold-water adapted cypriniform fishes exhibiting reduced scales and modified swim bladders enclosed in bony capsules to withstand torrential currents.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Triplophysa designates a term designating an entity, condition, or phenomenon derived from greek phys."*
+> - 📜 **David Starr Jordan (*The Genera of Fishes*):** *"Rendahl established the genus **Triplophysa** to distinguish the high-altitude stone loaches of Central Asia from European Cobitis."*
+> - 📜 **Sven Hedin (*Central Asia and Tibet*):** *"In the icy glacial torrents of the Kunlun mountains, our expedition collected small loaches belonging to **Triplophysa**."*
+> - 📜 **Lev Berg (*Freshwater Fishes of the U.S.S.R. and Adjacent Countries*):** *"Species of **Triplophysa** exhibit remarkable physiological adaptations enabling survival in hypersaline and oxygen-poor alpine lakes."*

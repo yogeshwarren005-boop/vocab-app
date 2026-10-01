@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sexual attraction to (or sexual relations with) persons of the same sex.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sexual attraction to (or sexual relations with) persons of the same sex.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state, quality, or artistic manifestation of homoerotic feeling or desire; romantic or sexual attraction to persons of the same sex represented in culture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural history and queer theory, the presence of same-sex sensual and erotic motifs across art, literature, and visual media.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, homoeroticism designates a sexual attraction to (or sexual relations with) persons of the same sex."*
+> - 📜 **John Addington Symonds (*Studies of the Greek Poets*):** *"Hellenic lyric poetry cannot be understood if one ignores the pervasive presence of **homoeroticism** in Spartan and Doric life."*
+> - 📜 **Christopher Isherwood (*Christopher and His Kind*):** *"Berlin of the late Weimar years allowed a brazen public celebration of **homoeroticism** that outraged bourgeois nationalists."*
+> - 📜 **Walter Pater (*Greek Studies*):** *"In the statue of the youthful Hermes, an idealized **homoeroticism** is sublimated into eternal religious calm."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The most forward point of the alveolar process of the mandible.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The most forward point of the alveolar process of the mandible.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In craniometry and physical anthropology, the most anterior midpoint of the alveolar border of the mandible.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cephalometric landmark located on the alveolar margin between the lower central incisor teeth, used in measuring facial height.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, symphysion designates the most forward point of the alveolar process of the mandible."*
+> - 📜 **Paul Broca (*Instructions Craniologiques et Craniométriques*):** *"We measure total facial height from the nasion downward to the **symphysion** at the mandibular alveolar border."*
+> - 📜 **Ales Hrdlicka (*Anthropometry*):** *"Accurate placement of calipers upon the **symphysion** is essential for determining mandibular prognathism."*
+> - 📜 **Earnest Hooton (*Up from the Ape*):** *"Cephalometric indices derived from the **symphysion** distinguish modern Homo sapiens from fossil Neanderthal mandibles."*

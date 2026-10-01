@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Leaf beetles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Leaf beetles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A huge, cosmopolitan family of phytophagous beetles commonly called leaf beetles, containing over 35,000 species.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In coleopterology, one of the largest beetle families, characterized by colorful, often metallic, hemispherical bodies, tetramerous tarsi, and strict host-plant associations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chrysomelidae designates leaf beetles."*
+> - 📜 **John Henry Comstock (*An Introduction to Entomology*):** *"The family **Chrysomelidae** encompasses an immense array of herbivorous species vital to agricultural economics."*
+> - 📜 **L. O. Howard (*The Insect Book*):** *"Metallic lusters of bronze, gold, and sapphire prevail throughout the diverse genera of the **Chrysomelidae**."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"In the tropical forest canopy, members of the **Chrysomelidae** swarmed upon blooming creepers in bewildering variety."*

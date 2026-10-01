@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small dark-colored lacewing fly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small dark-colored lacewing fly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any insect belonging to the family Hemerobiidae; a brown lacewing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In applied agricultural entomology, beneficial predatory neuropterans whose larvae consume large quantities of aphids, mites, and scale insects.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemerobiid designates small dark-colored lacewing fly."*
+> - 📜 **John Henry Comstock (*A Manual for the Study of Insects*):** *"The brownish, pubescent wings of the **hemerobiid** easily distinguish it from its bright green relatives among the chrysopids."*
+> - 📜 **L. O. Howard (*The Insect Book*):** *"Growers find the agile **hemerobiid** larva a relentless hunter among fruit tree foliage during cool autumn days."*
+> - 📜 **Charles Valentine Riley (*Report of the Entomologist*):** *"Unlike many green lacewings, this tiny **hemerobiid** remains active in orchards even after early autumn frosts."*

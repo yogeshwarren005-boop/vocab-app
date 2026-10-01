@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek alges.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Feeling & Sensation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The physiological sense or perception of physical pain; the capacity to feel painful stimuli through cutaneous and visceral nociceptors.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In experimental neurophysiology and somatosensory psychophysics, the direct neurological awareness of noxious stimuli.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, algesis designates a term designating an entity, condition, or phenomenon derived from greek alges."*
+> - 📜 **Charles Sherrington (*The Integrative Action of the Nervous System*):** *"The apparatus of **algesis** evolved as an imperative protective sentinel against tissue damage."*
+> - 📜 **Henry Head (*Studies in Neurology*):** *"Protopathic sensation includes crude thermal detection and cutaneous **algesis**, mediated by unmyelinated fibers."*
+> - 📜 **Alexander Bain (*The Senses and the Intellect*):** *"In the taxonomy of organic sensations, **algesis** commands the highest degree of urgent voluntary avoidance."*

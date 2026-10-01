@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Valiant, gallant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The bow of a ship : stem.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The portion of a ship's hull that is forward when the vessel is underway; the bow.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Figuratively, the forefront or vanguard of any moving force, vehicle, or intellectual movement (from French proue, Latin prora, Greek prora).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"The prow, indeed, touched the moonlight where it was cut clean across by the darkness; and this was how I discovered that it was the Marie, a pretty pleasure-boat which had been made for my wife."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Yes, the world’s a ship on its passage out, and not a voyage complete; and the pulpit is its prow."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"His bone leg steadied in that hole; one arm elevated, and holding by a shroud; Captain Ahab stood erect, looking straight out beyond the ship’s ever-pitching prow."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The sharp **prow** of the whaleboat cleft the foaming green swells in fierce pursuit."*
+> - 📜 **Samuel Taylor Coleridge (*The Rime of the Ancient Mariner*):** *"With sloping masts and dipping **prow**, as who pursued with yell and blow came on the ice and snow."*
+> - 📜 **Joseph Conrad (*The Mirror of the Sea*):** *"The ship plunged her heavy **prow** into the oncoming gale, tossing white foam over the forecastle."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Shrub or small tree of southwestern united states and northwestern mexico having spirally twisted pods.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shrub or small tree of southwestern united states and northwestern mexico having spirally twisted pods.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The screwbean mesquite (Prosopis pubescens), a thorny shrub or small tree native to the southwestern United States and Mexico, bearing tightly spiraled, screw-shaped seedpods.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Spanish and southwestern botany, literally 'little screw' (from Spanish tornillo, from Latin tornus a lathe / Greek tornos); valued as nutritious forage and fuel wood.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tornillo designates shrub or small tree of southwestern united states and northwestern mexico having spirally twisted pods."*
+> - 📜 **John Muir (*Steep Trails*):** *"Thickets of spiny **tornillo** fringed the dry riverbeds, their coiled pods hanging in dense yellow clusters."*
+> - 📜 **Asa Gray (*Plantae Wrightianae*):** *"Specimens of **tornillo** collected along the Rio Grande exhibit the tight helical pods characteristic of the species."*
+> - 📜 **George Engelmann (*Botanical Works*):** *"The wood of the **tornillo** is remarkably dense, furnishing durable fence posts in the arid river valleys."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Happen at the same time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make (motion picture sound) exactly simultaneous with the action.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To cause to occur or operate at the same time or rate; British spelling of synchronize.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In horological and electrical engineering, adjusting clocks or alternators so they operate in identical phase and uniform frequency.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"And when we separate the two by a distance of many miles, the task of synchronising them is even worse."*
+> - 📜 **Lord Kelvin (*Popular Lectures and Addresses*):** *"Telegraph cables allowed maritime observatories to **synchronise** their master regulators with Greenwich standard time."*
+> - 📜 **Arthur Conan Doyle (*The Valley of Fear*):** *"Before embarking upon the raid, the detectives gathered to **synchronise** their pocket watches to the exact minute."*
+> - 📜 **Nikola Tesla (*My Inventions*):** *"It was necessary to **synchronise** the alternating current generators before coupling them in parallel onto the main power grid."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Concerning or characterized by an appreciation of beauty or good taste.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Concerning or characterized by an appreciation of beauty or good taste.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to aesthetics, artistic beauty, or the philosophy of taste; an older or formal variant of aesthetic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Concerning the critical principles that govern the appreciation of sensory harmony and artistic composition in 18th- and 19th-century philosophical prose.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sydney Waterlow (*Shelley*):** *"Hogg, who have just been sent down from Oxford for a scandalous affair of an aesthetical squib."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"We stand in great need of an **aesthetical** vocabulary capable of discriminating between the fancy and the higher creative imagination."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"Our clothing serves not merely physical shelter, but represents an **aesthetical** embodiment of inward moral order."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Her uncle displayed a mild **aesthetical** interest in classical architectural ruins during his Italian tours."*

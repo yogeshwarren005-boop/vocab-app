@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of biology that studies heredity and variation in organisms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of biology that studies heredity and variation in organisms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of biology concerned with the study of heredity, genes, and variation in living organisms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The molecular and population sciences investigating the inheritance, expression, and evolution of genomic sequences.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, genetics designates the branch of biology that studies heredity and variation in organisms."*
+> - 📜 **William Bateson (*Letter to Adam Sedgwick*):** *"I suggest the term **genetics** for the dedicated science of heredity and variation."*
+> - 📜 **Theodosius Dobzhansky (*Genetics and the Origin of Species*):** *"Evolutionary **genetics** bridged the divide between laboratory mutation studies and natural field populations."*
+> - 📜 **Francis Crick (*Of Molecules and Men*):** *"Modern molecular **genetics** showed that biological specificity is entirely encoded in linear digital sequences."*

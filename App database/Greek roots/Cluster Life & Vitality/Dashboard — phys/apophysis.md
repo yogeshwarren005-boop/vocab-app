@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (botany) a natural swelling or enlargement: at the base of the stalk or seta in certain mosses or on the cone scale of certain conifers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (anatomy) a natural outgrowth or projection on an organ or body part such as the process of a vertebra.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A natural outgrowth, projection, or swelling on an organ or bone, especially one serving for the attachment of muscles or ligaments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botany, the enlarged, sterile swelling beneath the capsule in certain mosses (such as *Splachnum*); in geology, an offshoot from an igneous intrusion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, apophysis designates (botany) a natural swelling or enlargement: at the base of the stalk or seta in certain mosses or on the cone scale of certain conifers."*
+> - 📜 **Richard Owen (*Archetype and Homologies of the Vertebrate Skeleton*):** *"The transverse **apophysis** projects laterally from the neural arch, anchoring deep dorsal tendons."*
+> - 📜 **Archibald Geikie (*Textbook of Geology*):** *"From the central granitic boss, a branching **apophysis** penetrated the surrounding schists."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The urn of Splachnum rests upon an extraordinarily expanded, colored **apophysis** attracting dung flies."*

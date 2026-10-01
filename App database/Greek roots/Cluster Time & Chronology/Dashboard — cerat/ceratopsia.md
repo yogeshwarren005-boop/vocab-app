@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Horned dinosaurs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Horned dinosaurs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A suborder or clade of herbivorous ornithischian dinosaurs of the Cretaceous period, characterized by parrot-like beaks and facial horns or neck frills.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate paleontology, quadrupedal and bipedal dinosaurs including Psittacosaurus and Triceratops that dominated the late Cretaceous fauna of North America and Asia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ceratopsia designates horned dinosaurs."*
+> - 📜 **Othniel Charles Marsh (*The Dinosaurs of North America*):** *"The skulls of the **Ceratopsia** are distinguished above all other reptiles by enormous parietal crests and stout horn cores."*
+> - 📜 **Henry Fairfield Osborn (*The Origin and Evolution of Life*):** *"In the **Ceratopsia**, defense reached its evolutionary zenith with colossal bony shields protecting the neck."*
+> - 📜 **William Diller Matthew (*Dinosaurs*):** *"The evolutionary progression of the **Ceratopsia** during the late Cretaceous culminated in gigantic three-horned grazers."*

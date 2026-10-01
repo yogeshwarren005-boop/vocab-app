@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a metaphysical manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a metaphysical manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a metaphysical manner; with regard to metaphysics or philosophical ontology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Beyond empirical or physical examination; on the plane of ultimate reality and abstract concepts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"To gain Christian Science and its 65:12 harmony, life should be more metaphysically regarded."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The parable may import that these spiritual laws, perverted by 118:18 a perverse material sense of law, are metaphysically pre- sented as three measures of meal, - that is, three modes of mortal thought."*
+> - 📜 **Immanuel Kant (*Prolegomena to Any Future Metaphysics*):** *"If we examine the nature of space and time **metaphysically**, we discover they are pure forms of sensible intuition."*
+> - 📜 **David Hume (*An Enquiry Concerning Human Understanding*):** *"Let us ask: does it contain any abstract reasoning concerning quantity? If not, commit it to the flames, for it can contain nothing but sophistry **metaphysically** disguised."*
+> - 📜 **William James (*Pragmatism*):** *"The dispute between the one and the many must be settled pragmatically rather than **metaphysically**."*

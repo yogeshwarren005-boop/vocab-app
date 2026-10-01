@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an endogenous manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an endogenous manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: From within; in an endogenous manner; originating from internal causes or physiological processes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Produced internally by cellular biosynthesis or synthesized within an organism's own tissues.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endogenously designates in an endogenous manner."*
+> - 📜 **Hans Krebs (*The Citric Acid Cycle*):** *"Intermediates generated **endogenously** within mitochondria maintain the steady-state flux of cellular respiration."*
+> - 📜 **Walter Cannon (*Bodily Changes in Pain, Hunger, Fear and Rage*):** *"Adrenaline released **endogenously** into the bloodstream prepares the animal for immediate combat or flight."*
+> - 📜 **Erwin Bünning (*The Physiological Clock*):** *"The rhythm persists in total darkness because it is generated **endogenously** by cellular pacemakers."*

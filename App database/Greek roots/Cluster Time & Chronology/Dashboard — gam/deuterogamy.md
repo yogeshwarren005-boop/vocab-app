@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek gam.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Time & Chronology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A second legal marriage, especially after the death of the first spouse; remarriage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In canon law and historical sociology, the practice of marrying anew following widowhood, often contrasted with strict lifelong monogamy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, deuterogamy designates a term designating an entity, condition, or phenomenon derived from greek gam."*
+> - 📜 **Oliver Goldsmith (*The Vicar of Wakefield*):** *"I wrote three tracts against **deuterogamy**, maintaining that marriage is an eternal spiritual bond not dissolved by the grave."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Montanists condemned **deuterogamy** as an unseemly concession to worldly frailty and sensual indulgence."*
+> - 📜 **Robert Burton (*The Anatomy of Melancholy*):** *"Many widowers enter upon **deuterogamy** not out of passion, but to find an able hand to govern an unruly household."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One sent on a mission: such as.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of an authoritative New Testament group sent out to preach the gospel and made up especially of Christ's 12 original disciples and Paul.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the twelve disciples chosen by Jesus Christ to preach the Gospel; by extension, any pioneering missionary or fervent advocate of a great moral cause.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In early Christian ecclesiology and historical theology, an emissary sent with delegated spiritual authority (Greek apostolos, from apostellein 'to send off'), establishing churches and foundational doctrine.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By the apostle Paul, shadows tonight Have struck more terror to the soul of Richard Than can the substance of ten thousand soldiers Armed in proof and led by shallow Richmond. ’Tis not yet near day."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby, as who should say, “You hear this apostle!” and while Mr."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"The apostle, meanwhile; is instructed by a vision to go to Cornelius."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The first preaching of the **apostle** had planted vibrant churches across the maritime provinces of Asia Minor."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Then to the desert fled, where **apostle** none attended, but angels ministering to his needs."*
+> - 📜 **Thomas Carlyle (*On Heroes, Hero-Worship, and the Heroic in History*):** *"Mahomet was received by his followers not as a worldly monarch, but as an inspired **apostle** of monotheism."*

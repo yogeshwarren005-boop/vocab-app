@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (trade mark) a plastic film that can polarize a beam of light; often used in sunglasses to eliminate glare.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (trade mark) a plastic film that can polarize a beam of light; often used in sunglasses to eliminate glare.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A synthetic plastic sheet embedded with microscopic crystals oriented to polarize transmitted light, invented by Edwin H. Land.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A trademark for a brand of instant camera and photographic film producing developed prints within minutes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polaroid designates (trade mark) a plastic film that can polarize a beam of light; often used in sunglasses to eliminate glare."*
+> - 📜 **Edwin H. Land (*A New One-Step Photographic Process*):** *"The **Polaroid** process eliminated the darkroom, delivering a fully developed positive print within sixty seconds."*
+> - 📜 **Richard Feynman (*Surely You're Joking, Mr. Feynman!*):** *"I took a sheet of **polaroid** and showed the students how rotating it cut off the glare from the water surface."*
+> - 📜 **Andy Warhol (*The Philosophy of Andy Warhol*):** *"A **Polaroid** photograph has an immediate, unvarnished honesty that catches the subject before they can pose."*

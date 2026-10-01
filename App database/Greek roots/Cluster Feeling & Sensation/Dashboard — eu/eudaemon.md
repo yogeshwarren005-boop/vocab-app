@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek eu.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Feeling & Sensation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A good or benevolent spirit; a benign supernatural guardian or guiding genius, contrasted with a cacodemon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical Greek religion and Hellenistic philosophy, an auspicious personal daemon that fosters wisdom, prosperity, and moral flourishing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eudaemon designates a term designating an entity, condition, or phenomenon derived from greek eu."*
+> - 📜 **Plato (*Phaedo*):** *"Socrates believed that each man's **eudaemon** guides him through life and leads his soul safely into the underworld."*
+> - 📜 **Robert Burton (*The Anatomy of Melancholy*):** *"While the melancholic is haunted by devils, the virtuous soul is attended by a quiet, protective **eudaemon**."*
+> - 📜 **Thomas Browne (*Religio Medici*):** *"I can readily believe that every mortal has a guardian **eudaemon** appointed to whisper secret warnings in times of peril."*

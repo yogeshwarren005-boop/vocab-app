@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek kine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Motion & Direction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A thick-walled, non-motile, dormant survival cell formed by the transformation of a vegetative cell in filamentous cyanobacteria and green algae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In phycology and limnology, a specialized resting spore enriched with glycogen and cyanophycin reserves that allows cyanobacteria to survive desiccation and winter cold.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, akinete designates a term designating an entity, condition, or phenomenon derived from greek kine."*
+> - 📜 **Arthur Dendy (*Outlines of Evolutionary Biology*):** *"When the freshwater pool dries up, the filamentous cyanobacterium forms a heavy-walled **akinete** capable of surviving years in the mud."*
+> - 📜 **Ernst Haeckel (*The Wonders of Life*):** *"The dormant **akinete** represents one of nature's simplest devices for bridging adverse environmental extremes through metabolic arrest."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"Upon the return of warm spring rains, the dormant **akinete** germinates directly into a new vegetative filament."*

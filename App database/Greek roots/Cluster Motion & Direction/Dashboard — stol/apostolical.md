@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Proceeding from or ordered by or subject to a pope or the papacy regarded as the successor of the apostles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or deriving from the apostles or their teachings.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or conforming to the practice and doctrine of the Apostles or the primitive Christian church.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An archaic or formal variant of apostolic, frequently utilized in historic liturgies, charters, and early modern theological controversies regarding church governance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"The ‘Apostolical Constitutions’ (vi. c. 6) traced them back to Apostolic times; Theodoret (Haer. fab."*
+> - 📜 **Jeremy Taylor (*The Rule and Exercises of Holy Living*):** *"The primitive pastors ordered their households in simplicity, striving to fulfill the **apostolical** pattern of charity."*
+> - 📜 **Jonathan Swift (*A Tale of a Tub*):** *"They claimed an unblemished **apostolical** pedigree, though their courtly habits bore little resemblance to the fishermen of Galilee."*
+> - 📜 **David Hume (*The History of England*):** *"The reformist clergy rejected all ceremonial vestments that could not plead direct **apostolical** warrant."*

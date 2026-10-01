@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek geu.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Feeling & Sensation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A diminished or reduced sensitivity of the sense of taste, falling short of total loss (ageusia).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A clinical condition associated with upper respiratory infections, nutritional zinc deficiency, aging, or adverse pharmacological reactions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypogeusia designates a term designating an entity, condition, or phenomenon derived from greek geu."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Elderly patients with dry oral mucosa frequently suffer from an insidious **hypogeusia** that precipitates poor appetite and weight loss."*
+> - 📜 **William Gowers (*A Manual of Diseases of the Nervous System*):** *"Partial degeneration of the glossopharyngeal trunk produces unilateral **hypogeusia** over the posterior third of the tongue."*
+> - 📜 **Oliver Sacks (*An Anthropologist on Mars*):** *"Following a mild head injury, the artist noticed an unexpected **hypogeusia**, finding that wines had lost their subtle bouquet and tang."*

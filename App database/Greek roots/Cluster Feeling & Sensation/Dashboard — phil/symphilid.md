@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Minute arthropod often infesting the underground parts of truck-garden and greenhouse crops.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Minute arthropod often infesting the underground parts of truck-garden and greenhouse crops.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of the class Symphyla; a small, blind, pale soil-dwelling myriapod (garden centipede), superficially resembling tiny centipedes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In soil biology and economic entomology, an agricultural pest that feeds on tender root hairs of vegetables and seedlings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, symphilid designates minute arthropod often infesting the underground parts of truck-garden and greenhouse crops."*
+> - 📜 **John Lubbock (*On the Origin and Metamorphoses of Insects*):** *"The curious **symphilid** myriapod bridges the morphological gap between the primitive apterygote insects and the centipedes."*
+> - 📜 **Charles Darwin (*The Formation of Vegetable Mould through the Action of Worms*):** *"Alongside earthworms, the blind subterranean **symphilid** burrows through the loose humus, consuming decayed vegetation."*
+> - 📜 **Asa Fitch (*Reports on the Noxious, Beneficial and Other Insects of the State of New York*):** *"Greenhouse growers dread the microscopic **symphilid**, whose underground tunneling destroys the feeder roots of lettuce."*

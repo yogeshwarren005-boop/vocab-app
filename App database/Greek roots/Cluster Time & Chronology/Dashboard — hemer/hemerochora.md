@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek hemer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Time & Chronology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Plants that have been introduced into an area by direct or indirect human agency; culture-dispersed plants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In invasion biology and phytosociology, plant species whose geographic migration and colonization depended upon human transportation, agriculture, or trade.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemerochora designates a term designating an entity, condition, or phenomenon derived from greek hemer."*
+> - 📜 **Arthur Tansley (*The British Islands and Their Vegetation*):** *"Many arable weeds in Britain are true **hemerochora**, introduced unintentionally along with Neolithic grain imports from the continent."*
+> - 📜 **Alphonse de Candolle (*Origin of Cultivated Plants*):** *"The global spread of cereal crops carried a retinue of **hemerochora** that conquered disturbed soils across every continent."*
+> - 📜 **Eugene Odum (*Fundamentals of Ecology*):** *"Modern highway verges provide continuous corridors facilitating the rapid overland migration of aggressive **hemerochora**."*

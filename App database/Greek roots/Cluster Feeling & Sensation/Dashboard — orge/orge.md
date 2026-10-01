@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek orge.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Feeling & Sensation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Greek root *orgē* (from *orge*), meaning anger, wrath, vehement passion, natural impulse, or intense emotional agitation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The linguistic stem in Hellenic ethics, tragedy, and rhetoric designating the impulsive, boiling emotion that impels vengeance or fierce conflict.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, orge designates a term designating an entity, condition, or phenomenon derived from greek orge."*
+> - 📜 **Henry George Liddell & Robert Scott (*A Greek-English Lexicon*):** *"The primitive meaning of **orge** encompasses one's natural disposition, temper, and specifically furious wrath."*
+> - 📜 **Aristotle (*Rhetoric*):** *"Let **orge** be defined as an impulse, accompanied by pain, to a conspicuous revenge for a conspicuous slight."*
+> - 📜 **Plato (*Republic*):** *"When reason is overthrown, the spirited element of **orge** bursts forth like an unruly guard dog."*

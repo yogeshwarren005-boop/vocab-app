@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek blast.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Life & Vitality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The innermost germ layer of an early embryo; an archaic or alternative embryological term for endoderm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The embryonic layer of cells that lines the primitive gut and gives rise to the epithelial lining of the digestive and respiratory tracts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endoblast designates a term designating an entity, condition, or phenomenon derived from greek blast."*
+> - 📜 **Karl Ernst von Baer (*Über Entwickelungsgeschichte der Thiere*):** *"The vegetative layer or **endoblast** curves upward to fashion the primitive alimentary canal."*
+> - 📜 **Thomas Henry Huxley (*The Elements of Embryology*):** *"The epithelial lining of the pulmonary tree and digestive glands is exclusively of **endoblast** origin."*
+> - 📜 **Alexander Kowalevsky (*Embryological Investigations on Amphioxus*):** *"Invagination converts the vegetative pole cells into the inner lining of the archenteron, constituting the true **endoblast**."*

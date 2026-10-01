@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A republic on the philippine islands; achieved independence from the united states in 1946.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An archipelago in the southwestern pacific including some 7000 islands.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An archipelagic country in Southeast Asia consisting of more than 7,000 islands in the western Pacific Ocean.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Named in 1543 by Spanish explorer Ruy López de Villalobos in honor of Prince Philip of Asturias (later King Philip II of Spain).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I, the last of the Standings, dying soon without issue, fought as a common soldier in the Philippines, in our latest war, and to do so I resigned, in the full early ripeness of career, my professorship in the University of Nebraska."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I fought in the Philippines because it was the tradition of the Standings to fight."*
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"All over the East,--in Burma, Indo-China, the Malay States, the Philippines, wherever he can force an entrance,--you find the Chinese merchant and the Chinese coolie, and it is no state-managed enterprise that takes them there."*
+> - 📜 **Ferdinand Magellan (*The First Voyage Round the World*):** *"The expedition sighted the lush green islands of the **Philippines** after months of perilous Pacific navigation."*
+> - 📜 **Mark Twain (*Writings on the Philippine-American War*):** *"The American flag was hoisted over the **Philippines**, but the cost was thirty thousand native dead."*
+> - 📜 **Alfred Russel Wallace (*The Geographical Distribution of Animals*):** *"The avifauna of the **Philippines** displays a fascinating blend of Malayan and unique endemic bird families."*

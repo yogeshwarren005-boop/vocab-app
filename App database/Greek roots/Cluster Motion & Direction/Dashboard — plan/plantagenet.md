@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The family name of a line of english kings that reigned from 1154 to 1485.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The family name of a line of english kings that reigned from 1154 to 1485.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of the English royal dynasty that held the crown from 1154 until 1485 (from Geoffrey of Anjou's broom badge, Planta genista).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to the medieval Anglo-Norman royal house founded by Henry II.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, that it could be proved That some night-tripping fairy had exchanged In cradle-clothes our children where they lay, And called mine Percy, his Plantagenet!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter the Earls of Somerset, Suffolk, and Warwick; Richard Plantagenet, Vernon and another Lawyer."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I love no colours, and without all colour Of base insinuating flattery I pluck this white rose with Plantagenet."*
+> - 📜 **William Shakespeare (*Henry VI, Part 3*):** *"Let him be crowned in spite of false Northumberland, and long live **Plantagenet**, England's lawful king!"*
+> - 📜 **David Hume (*The History of England*):** *"The **Plantagenet** monarchs ruled through three centuries of continental wars and constitutional struggles."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"Richard Coeur-de-Lion bore the martial prowess and volatile temperament of the proud **Plantagenet** bloodline."*

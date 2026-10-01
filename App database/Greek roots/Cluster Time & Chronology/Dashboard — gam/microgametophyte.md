@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The male gametophyte produced by a microspore.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The male gametophyte produced by a microspore.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The male gametophyte produced by the microspore in heterosporous plants; the germinated pollen grain in seed plants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In spermatophyte morphology, the reduced haploid male generation consisting of tube cell and generative cell (which divides to form two sperm nuclei).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microgametophyte designates the male gametophyte produced by a microspore."*
+> - 📜 **Asa Gray (*Botanical Text-Book*):** *"Upon the receptive stigma, the pollen grain germinates into an active **microgametophyte**, extending a siphonogamous pollen tube."*
+> - 📜 **Eduard Strasburger (*Handbook of Practical Botany*):** *"The mature **microgametophyte** of the lily contains merely three cells, completely specialized for transporting sperm to the embryo sac."*
+> - 📜 **G. Ledyard Stebbins (*Variation and Evolution in Plants*):** *"Extreme morphological reduction of the **microgametophyte** freed seed plants from reliance upon free surface water for fertilization."*

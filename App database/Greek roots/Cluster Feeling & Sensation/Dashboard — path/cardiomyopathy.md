@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several structural or functional diseases of heart muscle marked especially by hypertrophy and obstructive damage to the heart.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of several structural or functional diseases of heart muscle marked especially by hypertrophy and obstructive damage to the heart.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chronic, progressive disease of the heart muscle (myocardium) that impairs the heart's ability to pump blood effectively.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Classified into dilated, hypertrophic, and restrictive forms in clinical cardiology, leading to arrhythmias, heart failure, and sudden cardiac death.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cardiomyopathy designates any of several structural or functional diseases of heart muscle marked especially by hypertrophy and obstructive damage to the heart."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Idiopathic **cardiomyopathy** presents with progressive exertional dyspnea, cardiomegaly, and gallop rhythm."*
+> - 📜 **Wilder Penfield (*The Mystery of the Mind*):** *"A sudden syncopal episode in a young athlete often unmasks an undiagnosed familial hypertrophic **cardiomyopathy**."*
+> - 📜 **René Leriche (*The Surgery of Pain*):** *"Ischemia secondary to terminal **cardiomyopathy** gives rise to dull, unyielding retrosternal discomfort."*

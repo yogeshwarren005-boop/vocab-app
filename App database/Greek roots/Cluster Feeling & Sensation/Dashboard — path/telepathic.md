@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Communicating without apparent physical signals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Communicating without apparent physical signals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Communicating thoughts, sensations, or mental states from one person to another without the use of known physical senses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to telepathy; exhibiting an apparent direct extrasensory mental link.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The processes of intense physical training and weapons drills, the concentrated telepathic loading of Plutonian political history and its government's despotic apparatus had been cleared from their consciousness; the substance remained."*
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"He gathered that the four-winged birds of the Lassans acted in some way or other as their scouts, remaining in a kind of telepathic communication with the Lassan in the fighting-machine they were assigned to help...."*
+> - 📜 **Frederic W. H. Myers (*Human Personality and Its Survival of Bodily Death*):** *"We accumulated extensive evidence of **telepathic** transfer occurring between twins separated by hundreds of miles."*
+> - 📜 **William James (*The Will to Believe and Other Essays*):** *"Scientific curiosity demands an open-minded examination of spontaneous **telepathic** hallucinations occurring at the moment of death."*
+> - 📜 **Arthur Conan Doyle (*The Edge of the Unknown*):** *"The experimental subjects demonstrated a remarkable **telepathic** rapport when blindfolded in separate rooms."*

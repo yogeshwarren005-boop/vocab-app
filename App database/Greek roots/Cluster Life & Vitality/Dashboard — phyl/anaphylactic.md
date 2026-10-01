@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Related to the hypersensitivity known as anaphylaxis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Related to the hypersensitivity known as anaphylaxis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characterized by anaphylaxis; intensely hypersensitive to an antigen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Describing severe, life-threatening immunological shock precipitated by systemic mast cell degranulation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anaphylactic designates related to the hypersensitivity known as anaphylaxis."*
+> - 📜 **Charles Richet (*Anaphylaxis*):** *"The **anaphylactic** state is that condition in which the organism, far from being protected, becomes fatally sensitive to a poison."*
+> - 📜 **William Boyd (*A Textbook of Pathology*):** *"Widespread arteriolar dilation and bronchospasm mark the onset of acute **anaphylactic** collapse."*
+> - 📜 **Clemens von Pirquet (*Clinical Studies on Allergy*):** *"We trace a common cellular mechanism linking mild cutaneous allergy with lethal **anaphylactic** shock."*

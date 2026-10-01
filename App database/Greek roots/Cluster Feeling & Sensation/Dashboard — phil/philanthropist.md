@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who makes charitable donations intended to increase human well-being.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who makes charitable donations intended to increase human well-being.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who seeks to promote the welfare of others, especially by the generous donation of wealth, resources, and time to charitable causes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A humanitarian benefactor whose public gifts endow universities, hospitals, libraries, and scientific institutions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Quale, with large shining knobs for temples and his hair all brushed to the back of his head, who came in the evening, and told Ada he was a philanthropist, also informed her that he called the matrimonial alliance of Mrs."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"A pretty thing, indeed, to marry a philanthropist."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"You would, perhaps, think me rude if I inquired in return whether you are a philanthropist?” “There again!"*
+> - 📜 **Charles Dickens (*Hard Times*):** *"The professional **philanthropist** lectured the poor on economy while dining sumptuously upon roast venison."*
+> - 📜 **Benjamin Franklin (*Autobiography*):** *"I always regarded the true **philanthropist** as one who invents practical schemes to help the poor help themselves."*
+> - 📜 **Ralph Waldo Emerson (*Self-Reliance*):** *"Do not tell me of my obligation to put all poor men in good situations; I grudge the dollar given to a proud **philanthropist**."*

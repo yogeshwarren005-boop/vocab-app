@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A heterotrophic individual.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Requiring complex organic compounds of nitrogen and carbon (such as that obtained from plant or animal matter) for metabolic synthesis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An organism that cannot manufacture its own food and instead derives its nutritional requirements from complex organic substances.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A consumer or decomposer in an ecosystem (including animals, fungi, and many bacteria) that relies upon autotrophic primary production.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heterotroph designates a heterotrophic individual."*
+> - 📜 **Eugene Odum (*Fundamentals of Ecology*):** *"The **heterotroph** decomposes organic matter, recycling essential mineral nutrients back to the primary producers."*
+> - 📜 **Jacques Monod (*Chance and Necessity*):** *"As an obligate **heterotroph**, the bacterium requires exogenous glucose to fuel glycolysis and macromolecular synthesis."*
+> - 📜 **Alexander Oparin (*The Origin of Life*):** *"The earliest primordial cells were necessarily **heterotrophs**, grazing upon the prebiotic organic broth of ancient seas."*

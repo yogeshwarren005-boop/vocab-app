@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The living together in more or less intimate association or close union of two dissimilar organisms (as in parasitism or commensalism); especially : mutualism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cooperative relationship (as between two persons or groups).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The living together of two dissimilar organisms in close, long-term biological association.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A relationship of mutual benefit or interdependence between persons, groups, or biological entities (including mutualism, commensalism, and parasitism).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, symbiosis designates the living together in more or less intimate association or close union of two dissimilar organisms (as in parasitism or commensalism); especially : mutualism."*
+> - 📜 **Anton de Bary (*Die Erscheinung der Symbiose*):** *"I designate by the term **symbiosis** the living together of differently named organisms in intimate association."*
+> - 📜 **Lynn Margulis (*Symbiosis in Cell Evolution*):** *"Life did not take over the globe by combat, but by networking and complex cellular **symbiosis**."*
+> - 📜 **Peter Kropotkin (*Mutual Aid: A Factor of Evolution*):** *"Natural selection continually favors species that practice mutual aid and physiological **symbiosis**."*

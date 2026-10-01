@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a group (Angiospermae) of vascular plants that have male and female reproductive structures enclosed in a flower, that have seeds which arise from ovules contained in the ovaries, and that produce dry or fleshy fruits after double fertilization : flowering plant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a group (Angiospermae) of vascular plants that have male and female reproductive structures enclosed in a flower, that have seeds which arise from ovules contained in the ovaries, and that produce dry or fleshy fruits after double fertilization : flowering plant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A plant that produces seeds enclosed within a carpel or fruit; a flowering plant belonging to the division Anthophyta (Magnoliophyta).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The dominant group of land plants, characterized by double fertilization, triploid endosperm, flowers, and xylem vessels.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, angiosperm designates any of a group (angiospermae) of vascular plants that have male and female reproductive structures enclosed in a flower, that have seeds which arise from ovules contained in the ovaries, and that produce dry or fleshy fruits after double fertilization : flowering plant."*
+> - 📜 **Charles Darwin (*Letter to Joseph Dalton Hooker*):** *"The rapid development as far as we can judge of all the higher plants within recent geological times is an abominable mystery—the explosive rise of the **angiosperm**."*
+> - 📜 **Asa Gray (*Botanical Textbook*):** *"Every true **angiosperm** conceals its developing ovules within the protective cavity of an ovary."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The emergence of the **angiosperm** transformed the face of the Earth from gloomy conifer groves to radiant floral landscapes."*

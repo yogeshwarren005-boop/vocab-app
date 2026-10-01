@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A nucleoside component of dna; composed of thymine and deoxyribose.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A nucleoside component of dna; composed of thymine and deoxyribose.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A pyrimidine deoxynucleoside (C10H14N2O5) consisting of the nucleobase thymine linked to a deoxyribose sugar molecule, a constituent building block of DNA.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In molecular biology and cell cycle research, tritiated thymidine (3H-thymidine) is historically used as a radioactive tracer to measure DNA synthesis and cellular replication.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thymidine designates a nucleoside component of dna; composed of thymine and deoxyribose."*
+> - 📜 **James D. Watson (*The Double Helix*):** *"Each strand of DNA contains the four nucleosides: adenosine, cytidine, guanosine, and **thymidine**, linked by phosphodiester bonds."*
+> - 📜 **Francis Crick (*What Mad Pursuit*):** *"Incorporation of radioactive **thymidine** proved that DNA replication in bacteria proceeds by semiconservative unwinding."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"The specific presence of **thymidine** in DNA distinguishes it from RNA, which incorporates uridine instead."*

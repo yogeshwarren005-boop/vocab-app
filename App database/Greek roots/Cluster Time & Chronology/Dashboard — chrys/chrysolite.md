@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: olivine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: olivine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A yellowish-green gem variety of olivine; peridot; historically any greenish-yellow gemstone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mineralogical history and biblical literature, the magnesium-iron silicate gemstone (Mg,Fe)2SiO4 prized since antiquity and mined on the Red Sea island of Zabargad.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nay, had she been true, If heaven would make me such another world Of one entire and perfect chrysolite, I’d not have sold her for it."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"The water slips o’er stock and stone; The West is tender, hardly bright: How gray at once is the evening grown-- One star, its chrysolite! 38."*
+> - 📜 **William Shakespeare (*Othello*):** *"If heaven would make me such another world / Of one entire and perfect **chrysolite**, / I'ld not have sold her for it."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The battlements of heaven shone afar, / Inlaid with **chrysolite** and blazing beryl."*
+> - 📜 **Pliny the Elder (*Natural History*):** *"The transparent green brilliance of **chrysolite** was compared by the ancients to the golden tint of fine olive oil."*

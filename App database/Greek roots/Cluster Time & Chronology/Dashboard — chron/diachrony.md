@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of linguistic change.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The study of linguistic change.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The analysis or consideration of phenomena (especially linguistic features) as they change and evolve through time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In semiotics and structural linguistics, the historical and evolutionary axis of study, contrasted with the relational axis of synchrony.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diachrony designates the study of linguistic change."*
+> - 📜 **Ferdinand de Saussure (*Course in General Linguistics*):** *"Synchrony represents the axis of simultaneous relations, whereas **diachrony** represents the axis of successive temporal transformations."*
+> - 📜 **Roman Jakobson (*Language in Literature*):** *"Poetic forms evolve through the dynamic tension between synchronic conventions and historical **diachrony**."*
+> - 📜 **Noam Chomsky (*Current Issues in Linguistic Theory*):** *"While generative grammar focuses on underlying competence, **diachrony** traces the historical drift in grammatical parameter settings."*

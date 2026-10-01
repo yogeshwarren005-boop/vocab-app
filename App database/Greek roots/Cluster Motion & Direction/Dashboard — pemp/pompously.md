@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a pompous manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a pompous manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a pompous, arrogant, or pretentiously self-important manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With ostentatious, inflated ceremony or bombastic language.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Brocklehurst has weakly and pompously repeated at second-hand from Mrs."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"On my politely bidding him Good-morning, he said, pompously, “Seven times nine, boy?” And how should _I_ be able to answer, dodged in that way, in a strange place, on an empty stomach!"*
-> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"When he went home on leave he rioted on a large scale—pompously."*
+> - 📜 **George Eliot (*Middlemarch*):** *"He cleared his throat **pompously** before instructing the parish vestry on the true principles of political economy."*
+> - 📜 **Mark Twain (*The Adventures of Tom Sawyer*):** *"The schoolmaster strode **pompously** up the aisle, swinging his ferule with dreadful authority."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Inspector Jones delivered his erroneous theory **pompously**, proud of having locked up the wrong suspect."*

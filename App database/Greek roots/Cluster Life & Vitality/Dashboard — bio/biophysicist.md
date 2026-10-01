@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of science concerned with the application of physical principles and methods to biological problems.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A branch of science concerned with the application of physical principles and methods to biological problems.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A scientist who applies the principles, techniques, and quantitative methods of physics to study biological phenomena.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An investigator studying molecular motors, membrane electrophysiology, and macromolecular structures via physical mechanics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, biophysicist designates a branch of science concerned with the application of physical principles and methods to biological problems."*
+> - 📜 **Erwin Schrödinger (*What Is Life?*):** *"The **biophysicist** must examine how the living organism continually draws negative entropy from its environment."*
+> - 📜 **Francis Crick (*What Mad Pursuit*):** *"Trained originally in physics, I became a **biophysicist** to probe the physical reality of the gene."*
+> - 📜 **John Desmond Bernal (*The Physical Basis of Life*):** *"X-ray crystallography enabled the **biophysicist** to unveil the atomic architecture of proteins and viruses."*

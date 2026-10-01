@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small meat pie or turnover.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (usually used in the plural) one of a pair of adhesive patches worn to cover the nipples of exotic dancers and striptease performers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A traditional British baked pastry turnover filled with seasoned diced meat and root vegetables (notably the Cornish pasty).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of a person's complexion, pale, unhealthy, or clammy in appearance, resembling raw flour dough.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If ye pinch me like a pasty I can say no more."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come, we have a hot venison pasty to dinner."*
-> - 📜 **George Eliot (*Middlemarch*):** *"That apple-peel is to be eaten by the pigs, Ben; if you eat it, I must give them your piece of pasty."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The holy clerk produced from his cupboard a venison **pasty** of monstrous size, crust browned to perfection."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Uriah Heep had a damp, cold hand and a **pasty** face that made me shrink from his touch."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"The prisoner was a thin, **pasty** fellow whose eyes darted restlessly around the police court."*

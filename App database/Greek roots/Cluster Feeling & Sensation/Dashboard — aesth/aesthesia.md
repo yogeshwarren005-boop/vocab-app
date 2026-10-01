@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek aesth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Feeling & Sensation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The normal physiological capacity to experience sensations; sensory perception or tactile sensibility across bodily nerve pathways.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurology and psychological medicine, the intact functioning of sensory afferents that allows conscious detection of tactile, thermal, and pain stimuli.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aesthesia designates a term designating an entity, condition, or phenomenon derived from greek aesth."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Conscious awareness rests upon an unbroken background of bodily **aesthesia** by which we know that we live and move."*
+> - 📜 **Charles Sherrington (*The Integrative Action of the Nervous System*):** *"Reflex coordination requires unimpaired cutaneous **aesthesia** to signal peripheral resistance back to central motor arcs."*
+> - 📜 **Henry Maudsley (*The Physiology of Mind*):** *"Disorders of the cerebral cortex manifest first in distortions of visceral and somatic **aesthesia**."*

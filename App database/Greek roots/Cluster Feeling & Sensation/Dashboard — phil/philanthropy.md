@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Goodwill to fellow members of the human race; especially : active effort to promote human welfare.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An act or gift done or made for humanitarian purposes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The desire to promote the welfare of others, expressed especially by the generous donation of money to charitable causes; benevolent humanitarianism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ancient Greek ethics (*philanthrōpia*), the humane disposition of goodwill toward all fellow human beings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"He seemed to project those two shining knobs of temples of his into everything that went on and to brush his hair farther and farther back, until the very roots were almost ready to fly out of his head in inappeasable philanthropy."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In America a very little has yet been done in this way, and that mostly by private philanthropy.[5] § 5. #Public inspection of standards and of foods#."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Won in youth to religion, she has cultivated my original qualities thus:—From the minute germ, natural affection, she has developed the overshadowing tree, philanthropy."*
+> - 📜 **Francis Bacon (*Essays*):** *"I take goodness in this sense, the affecting of the weal of men, which is that the Grecians call **philanthropy**."*
+> - 📜 **Andrew Carnegie (*The Gospel of Wealth*):** *"The problem of our age is the proper administration of wealth, so that the ties of brotherhood may bind rich and poor in harmonious **philanthropy**."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"There are a thousand hacking at the branches of evil to one who is striking at the root; modern **philanthropy** often rewards the wrong man."*

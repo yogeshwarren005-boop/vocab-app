@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek cac.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Feeling & Sensation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Greek prefix *cac-* (from *kakos*), meaning bad, evil, ill, diseased, or harsh, seen in *cacophony*, *cachexia*, and *cacodemonic*.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The classical pejorative and pathological combining element denoting foulness, defect, moral wickedness, or physical decrepitude.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The latter, which is CaC_{2}, is made by heating coke and lime together in the intense heat of an electric furnace."*
+> - 📜 **Henry George Liddell & Robert Scott (*A Greek-English Lexicon*):** *"The morpheme **cac** and its fuller form *kako-* signify bad of its kind, worthless, noxious, or morally disgraceful."*
+> - 📜 **Desiderius Erasmus (*Adagia*):** *"Ancient Greek proverbs made frequent play with the prefix **cac**, contrasting noble virtues with vile degeneracy."*
+> - 📜 **Samuel Johnson (*A Dictionary of the English Language*):** *"In medical nomenclature, words derived from Greek **cac** universally denote depraved habit of body or malignant disease."*

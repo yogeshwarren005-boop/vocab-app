@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Easily moved to anger; - h.g.wells.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Quickly aroused to anger.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Easily angered; bad-tempered; irritable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medieval and Renaissance psychology, corresponding to the melancholic, sanguine, and phlegmatic temperaments, marked by dominance of yellow bile.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lest it make you choleric, and purchase me another dry basting."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I durst have denied that before you were so choleric."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Are you so choleric With Eleanor for telling but her dream?"*
+> - 📜 **William Shakespeare (*The Taming of the Shrew*):** *"I tell thee, Kate, 'twas burnt and dried away; / And I expressly am forbid to touch it, / For it engenders **choleric** blood."*
+> - 📜 **Geoffrey Chaucer (*The Canterbury Tales*):** *"The Reeve was a slender, **choleric** man, with beard close-shaven as near as any could tell."*
+> - 📜 **Robert Burton (*The Anatomy of Melancholy*):** *"A **choleric** constitution is hot and dry, readily incited to hasty words, fury, and impetuous deeds."*

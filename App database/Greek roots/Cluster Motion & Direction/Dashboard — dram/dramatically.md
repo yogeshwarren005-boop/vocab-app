@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a very impressive manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a dramatic manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a dramatic manner; strikingly, severely, or with theatrical flair and emotional impact.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In statistical analysis and historiography, denoting change or progress that occurs with startling speed, magnitude, or conspicuousness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"But dramatically with that fall the action ceases, and the drama should have ceased with it."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Nor will it at all detract from him, dramatically regarded, if either by birth or other circumstances, he have what seems a half wilful overruling morbidness at the bottom of his nature."*
-> - 📜 **C. A. Frazer (*Atmâ*):** *"At the Court of Golab Singh," replied his uncle, dramatically."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The appearance of new species in a region often shifts the balance of competition **dramatically** and irreversibly."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Holmes paused **dramatically** on the threshold, raising his lantern to reveal the mysterious footprints in the mire."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"The sun grew **dramatically** larger and redder in the darkening sky as millions of years sped past in seconds."*

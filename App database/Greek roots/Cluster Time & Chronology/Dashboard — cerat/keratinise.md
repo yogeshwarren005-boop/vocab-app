@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Convert into keratin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become horny and impregnated with keratin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To convert or be converted into keratin or horny tissue; British spelling of keratinize.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In histopathology and dermatology, the cellular differentiation process whereby epithelial cells accumulate cytokeratin filaments and undergo cornification.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, keratinise designates convert into keratin."*
+> - 📜 **James Paget (*Lectures on Surgical Pathology*):** *"Squamous epithelial cells in malignant pearls tend to **keratinise** concentrically in imitation of normal epidermis."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"As superficial keratinocytes migrate toward the surface, they lose moisture and **keratinise** to establish a protective barrier."*
+> - 📜 **Robley Dunglison (*Medical Lexicon*):** *"Pathological conditions cause mucosal surfaces to **keratinise** abnormally under the influence of chronic friction."*

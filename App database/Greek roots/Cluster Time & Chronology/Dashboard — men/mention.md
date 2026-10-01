@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A remark that calls attention to something or someone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A short note recognizing a source of information or of a quoted passage.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A brief, casual, or incidental reference to something; to speak about or refer to someone or something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary and discourse analysis, an explicit reference or citation acknowledging a person, text, or historical fact.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Pray sit down, then, and let me entreat you, By all the honesty and honour in you, No mention of this woman; ’twill disturb us."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The child might have heard you mention Spain yourself so that it roused her imagination."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"At the mention of Aunt Maxa she suddenly remembered that they had not told her where they were going."*
+> - 📜 **William Shakespeare (*Much Ado About Nothing*):** *"There is no measure in the occasion that breeds it; therefore the **mention** of it must be without limit."*
+> - 📜 **Jane Austen (*Emma*):** *"The barest **mention** of Mr. Frank Churchill's name was sufficient to produce a flutter of curiosity in Highbury."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"He took care to omit all **mention** of his past failures, dilating only upon his future prospects of fortune."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek heb.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Life & Vitality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sexual preference for or erotic attraction to persons undergoing puberty (early adolescents); hebephilia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical sexology and criminology, a diagnostic category distinguishing pubertal attraction from pedophilic or teleiophilic preferences.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hebophilia designates a term designating an entity, condition, or phenomenon derived from greek heb."*
+> - 📜 **Magnus Hirschfeld (*Sexual Pathology*):** *"The phenomenon of **hebophilia** must be evaluated with strict objectivity regarding the age and developmental stage of the subject."*
+> - 📜 **Havelock Ellis (*Studies in the Psychology of Sex*):** *"In forensic practice, distinguishing **hebophilia** from pedophilia is crucial for determining criminal recidivism risk."*
+> - 📜 **Richard von Krafft-Ebing (*Psychopathia Sexualis*):** *"Severe emotional trauma during early puberty was documented in several cases presenting with chronic **hebophilia**."*

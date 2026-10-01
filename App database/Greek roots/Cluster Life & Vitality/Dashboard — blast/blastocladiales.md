@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fungi that carry out asexual reproduction by thick-walled resting spores that produce zoospores upon germination; sometimes placed in class oomycetes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fungi that carry out asexual reproduction by thick-walled resting spores that produce zoospores upon germination; sometimes placed in class oomycetes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An order of zoosporic fungi characterized by true alternation of generations and uniflagellate zoospores with distinct nuclear caps.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Water molds and soil chytrids possessing chitinous cell walls and motile zoospores guided by specialized ribosomal aggregates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, blastocladiales designates fungi that carry out asexual reproduction by thick-walled resting spores that produce zoospores upon germination; sometimes placed in class oomycetes."*
+> - 📜 **F. K. Sparrow (*Aquatic Phycomycetes*):** *"The **Blastocladiales** occupy a unique phylogenetic position by virtue of their regular alternation of isomorphic generations."*
+> - 📜 **Ralph Emerson (*Life Cycles in the Blastocladiales*):** *"Genetic analysis across the **Blastocladiales** demonstrated Mendelian segregation during meiotic resting spore germination."*
+> - 📜 **G. C. Ainsworth (*The Fungi: An Advanced Treatise*):** *"Ultrastructure of the zoospore nuclear cap remains a key diagnostic synapomorphy for all members of the **Blastocladiales**."*

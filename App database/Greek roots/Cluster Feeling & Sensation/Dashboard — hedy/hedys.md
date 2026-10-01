@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek hedy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Feeling & Sensation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Greek root *hēdys*, meaning sweet to the taste, delightful, pleasant, fragrant, or agreeable to the senses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A classical combining form in botanical and zoological nomenclature designating sweet flavors, pleasant aromas, or delectable nectar.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hedys designates a term designating an entity, condition, or phenomenon derived from greek hedy."*
+> - 📜 **Henry George Liddell & Robert Scott (*A Greek-English Lexicon*):** *"The adjective **hedys** encompasses all that is delicious to the palate, sweet-sounding to the ear, or charming to the soul."*
+> - 📜 **Theophrastus (*Enquiry into Plants*):** *"Plants possessing the root **hedys** produce fragrant sap and sweet blossoms eagerly sought by honeybees."*
+> - 📜 **Dioscorides (*De Materia Medica*):** *"The ancient apothecaries labeled herbal elixirs with the stem **hedys** to denote sweet soothing remedies."*

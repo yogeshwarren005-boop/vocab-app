@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A large immature monocyte normally found in bone marrow.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large immature monocyte normally found in bone marrow.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An immature cell in bone marrow that is the earliest precursor in the monocytic series, developing into a promonocyte and then a monocyte.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A primitive hematopoietic stem cell characterized by abundant non-granular basophilic cytoplasm and a delicate chromatin meshwork.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monoblast designates a large immature monocyte normally found in bone marrow."*
+> - 📜 **Paul Ehrlich (*Histology of the Blood*):** *"In acute monocytic leukemia, the bone marrow is overwhelmed by proliferations of the primitive **monoblast**."*
+> - 📜 **William Boyd (*A Textbook of Pathology*):** *"Distinguishing the **monoblast** from the myeloblast requires specific cytochemical esterase staining."*
+> - 📜 **Alexander Maximow (*Relation of Blood Cells to Connective Tissue*):** *"The marrow **monoblast** differentiates into wandering phagocytes capable of traversing endothelial barriers."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek plan.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Motion & Direction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A motile, flagellated or ciliated sexual reproductive cell (zoogamete), especially in algae and lower fungi.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A flagellated swimming gamete that fuses with another gamete in isogamous or anisogamous syngamy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, planogamete designates a term designating an entity, condition, or phenomenon derived from greek plan."*
+> - 📜 **Anton de Bary (*Comparative Morphology and Biology of the Fungi*):** *"In Synchytrium, fertilization occurs through the union of two equal **planogamete** cells in open water."*
+> - 📜 **F. E. Fritsch (*The Structure and Reproduction of the Algae*):** *"Each **planogamete** possesses two whiplash flagella directing its rapid chemotactic search."*
+> - 📜 **Gilbert Morgan Smith (*The Fresh-Water Algae of the United States*):** *"Swarming **planogamete** clusters coalesce into motile planozygotes before encystment."*

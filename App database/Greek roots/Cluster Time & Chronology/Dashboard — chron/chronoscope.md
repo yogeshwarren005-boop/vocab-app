@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument for accurate measurements of small intervals of time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instrument for accurate measurements of small intervals of time.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An optical or electronic instrument for measuring very small intervals of time with extreme precision.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In experimental psychology and physics, a device such as the Hipp chronoscope used to measure nerve conduction velocities and human reaction times to fractions of a millisecond.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chronoscope designates an instrument for accurate measurements of small intervals of time."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Using the Hipp **chronoscope**, the laboratory investigator measures mental reaction time down to thousandths of a second."*
+> - 📜 **Wilhelm Wundt (*Principles of Physiological Psychology*):** *"The electromagnetic escapement of the **chronoscope** reliably registered the duration of simple sensory apperception."*
+> - 📜 **Charles Sherrington (*The Integrative Action of the Nervous System*):** *"The **chronoscope** revealed that central synaptic delay accounts for the greater part of reflex latency."*

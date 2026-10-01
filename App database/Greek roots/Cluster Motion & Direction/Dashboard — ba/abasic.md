@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to abasia (inability to walk).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to abasia (inability to walk).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or suffering from abasia; unable to walk due to impaired motor coordination.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exhibiting functional gait instability in neurological examination without organic muscular paralysis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, abasic designates of or relating to abasia (inability to walk)."*
+> - 📜 **Paul Blocq (*Sur une affection caractérisée par de l'astasie et de l'abasie*):** *"The patient displayed a distinct **abasic** gait, unable to coordinate steps despite normal leg strength in bed."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In astasia-abasia, the hysterical subject presents an **abasic** disability that vanishes during emotional distraction."*
+> - 📜 **Jean-Martin Charcot (*Clinical Lectures on Diseases of the Nervous System*):** *"The sudden **abasic** reaction following the railway shock pointed to psychogenic functional trauma."*

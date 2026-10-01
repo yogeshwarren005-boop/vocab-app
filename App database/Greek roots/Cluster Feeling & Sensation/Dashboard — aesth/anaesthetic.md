@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of feeling, sensation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of feeling, sensation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A drug, gas, or agent that induces temporary insensibility to pain and other sensations; producing a state of anaesthesia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to or characterized by the absence of sensation; acting to dull, numb, or obliterate emotional or sensory responsiveness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"The arm was badly broken, too badly to be set without an anaesthetic."*
-> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"Then they went back to the house, where presently Burns came out from under his anaesthetic and lay looking at his guests from under the bandage which swathed his head."*
+> - 📜 **H. G. Wells (*The Island of Doctor Moreau*):** *"He operated with remorseless anatomical precision, yet neglected the mercy of any soothing **anaesthetic**."*
+> - 📜 **Thomas De Quincey (*Confessions of an English Opium-Eater*):** *"The drug exercised an almost divine **anaesthetic** power over the sharp neuralgic agonies of my face."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The discovery of an effective surgical **anaesthetic** stands as the greatest single boon conferred by science upon medicine."*

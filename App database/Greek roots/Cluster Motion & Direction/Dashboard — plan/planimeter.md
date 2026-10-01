@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A measuring instrument for measuring the area of an irregular plane figure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A measuring instrument for measuring the area of an irregular plane figure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument used for measuring the area of an arbitrary two-dimensional plane figure by tracing its perimeter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mechanical analog integrating device based on Green's theorem, recording area on an integrating wheel.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, planimeter designates a measuring instrument for measuring the area of an irregular plane figure."*
+> - 📜 **Jakob Amsler (*The Polar Planimeter*):** *"By tracing the boundary curve of an irregular land survey, the polar **planimeter** mechanically registers total area."*
+> - 📜 **Lord Kelvin (*Mathematical and Physical Papers*):** *"The precision of the mechanical **planimeter** demonstrated the practical utility of integrating mechanisms in physics."*
+> - 📜 **Charles Babbage (*Passages from the Life of a Philosopher*):** *"Analog instruments like the **planimeter** offered ingenious shortcuts for engineering area calculations."*

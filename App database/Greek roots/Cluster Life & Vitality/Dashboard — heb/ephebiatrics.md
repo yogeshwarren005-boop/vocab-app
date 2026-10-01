@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek heb.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Life & Vitality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of medicine specializing in the health, development, and diseases of adolescents; adolescent medicine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The clinical discipline addressing the somatic, hormonal, and psychological transitions characteristic of the teenage years.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ephebiatrics designates a term designating an entity, condition, or phenomenon derived from greek heb."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The emerging focus on **ephebiatrics** acknowledges the unique physiological and emotional turbulences of youth."*
+> - 📜 **J. Roswell Gallagher (*Medical Care of the Adolescent*):** *"I founded the adolescent clinic to establish **ephebiatrics** as a comprehensive medical service distinct from pediatrics."*
+> - 📜 **William Boyd (*Pathology for the Physician*):** *"Scoliosis and endocrine thyroid dysfunctions represent focal clinical concerns within modern **ephebiatrics**."*

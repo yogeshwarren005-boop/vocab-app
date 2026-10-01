@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Usually localized death of living tissue.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Necrosis of bone tissue due to impaired or disrupted blood supply (as from traumatic injury or disease).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The death of body tissue or cells caused by disease, physical injury, radiation, or inadequate blood supply (ischemia).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Irreversible pathological cell death characterized by cellular swelling, membrane rupture, organelle dissolution, and acute inflammation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, necrosis designates usually localized death of living tissue."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"I define **necrosis** as the passive mortification of living parts within the living organism following vascular occlusion."*
+> - 📜 **William Boyd (*A Textbook of Pathology*):** *"Caseous **necrosis** in tuberculosis leaves behind cheesy, structureless debris devoid of living cellular landmarks."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Myocardial infarction represents ischemic coagulation **necrosis** resulting from sudden coronary artery occlusion."*

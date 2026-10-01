@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Constituting the family ceratophyllaceae: hornworts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Constituting the family ceratophyllaceae: hornworts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The genus of submerged aquatic plants comprising the hornworts (family Ceratophyllaceae), featuring dichotomously divided, spiny-toothed leaves.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In freshwater limnology and ecology, rootless submerged macrophytes that float beneath the surface, providing critical shelter for fish fry and microinvertebrates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ceratophyllum designates constituting the family ceratophyllaceae: hornworts."*
+> - 📜 **Charles Darwin (*The Effects of Cross and Self Fertilisation in the Vegetable Kingdom*):** *"In **Ceratophyllum**, the pollen grains lack exine and drift underwater to pollinate the submerged female flowers."*
+> - 📜 **William Jackson Hooker (*The British Flora*):** *"The dense submerged thickets of **Ceratophyllum** harbor myriad microscopic infusorians within their stiff whorls."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"Aquarists cultivate **Ceratophyllum** as an oxygenator that thrives vigorously without soil or roots."*

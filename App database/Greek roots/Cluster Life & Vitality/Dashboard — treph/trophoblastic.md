@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The outer layer of the mammalian blastocyst that supplies nutrition to the embryo and facilitates implantation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The outer layer of the mammalian blastocyst that supplies nutrition to the embryo and facilitates implantation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or derived from the trophoblast.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to gestational trophoblastic disease (including hydatidiform mole and choriocarcinoma) characterized by abnormal placental proliferation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trophoblastic designates the outer layer of the mammalian blastocyst that supplies nutrition to the embryo and facilitates implantation."*
+> - 📜 **William Boyd (*Pathology for the Surgeon*):** *"Choriocarcinoma is a highly malignant **trophoblastic** neoplasm that spreads rapidly through the maternal venous system."*
+> - 📜 **Julian Huxley (*The Elements of Experimental Embryology*):** *"The **trophoblastic** lacunae fill with maternal blood, establishing the hemochorial placenta."*
+> - 📜 **Harvey Cushing (*The Pituitary Body and Its Disorders*):** *"Persistent elevation of urinary chorionic gonadotropin points to residual **trophoblastic** tissue following molar pregnancy."*

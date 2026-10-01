@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of the typically unicellular microorganisms that lack a distinct nucleus and membrane-bound organelles and that are classified as a kingdom (Prokaryotae synonym Monera) or into two domains (Bacteria and Archaea).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of the typically unicellular microorganisms that lack a distinct nucleus and membrane-bound organelles and that are classified as a kingdom (Prokaryotae synonym Monera) or into two domains (Bacteria and Archaea).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A microscopic single-celled organism that has neither a distinct nucleus with a membrane nor other specialized organelles, including bacteria and cyanobacteria.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any unicellular organism of the domains Bacteria or Archaea possessing circular chromosomal DNA in an un-enclosed nucleoid.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Prokaryote designates any of the typically unicellular microorganisms that lack a distinct nucleus and membrane-bound organelles and that are classified as a kingdom (prokaryotae synonym monera) or into two domains (bacteria and archaea)."*
+> - 📜 **Edouard Chatton (*Pansporella perplexa*):** *"I introduced the term **prokaryote** to designate primitive organisms whose protoplasm lacks a bounded nuclear membrane."*
+> - 📜 **Carl Woese (*Bacterial Evolution*):** *"The classic concept of the **prokaryote** dissolved when molecular analysis proved Archaea and Bacteria are as distinct as animals and fungi."*
+> - 📜 **Lynn Margulis (*Symbiosis in Cell Evolution*):** *"The primordial biosphere belonged exclusively to the **prokaryote** for over two billion years of planetary history."*

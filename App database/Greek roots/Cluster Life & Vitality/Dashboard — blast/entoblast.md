@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek blast.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Life & Vitality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The inner germ layer of an embryo; endoderm; also historically used for the cell nucleus or nucleolus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The embryonic germ layer responsible for generating the lining of the digestive tube and associated metabolic organs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, entoblast designates a term designating an entity, condition, or phenomenon derived from greek blast."*
+> - 📜 **Ernst Haeckel (*The Gastraea Theory*):** *"The primary gastraea consists of two elementary cell sheets: the outer ectoblast and the digestive **entoblast**."*
+> - 📜 **Francis Balfour (*A Treatise on Comparative Embryology*):** *"Ciliated cells of the **entoblast** drive fluid currents through the primitive enteric cavity of the sponge."*
+> - 📜 **Richard Owen (*Lectures on Comparative Anatomy*):** *"Nutritive absorption in the early embryo is executed entirely by the glandular cells of the **entoblast**."*

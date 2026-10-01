@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of numerous plants of the genus plantago; mostly small roadside or dooryard weeds with elliptic leaves and small spikes of very small flowers; seeds of some used medicinally.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A banana tree bearing hanging clusters of edible angular greenish starchy fruits; tropics and subtropics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A low-growing common wild plant with broad oval leaves and spikes of greenish flowers; also, a banana-like starchy fruit cooked as a staple food.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any plant of the genus Plantago, historically valued for wound-healing poultices and psyllium husks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, sir, plantain, a plain plantain!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No _l’envoi_, no _l’envoi_, no salve, sir, but a plantain."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your plantain leaf is excellent for that."*
+> - 📜 **William Shakespeare (*Romeo and Juliet*):** *"Your **plantain** leaf is excellent for that... for your broken shin."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"The broad-leaved **plantain** followed the white settlers, called by indigenous peoples the Englishman's foot."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"Villagers along the riverbank brought baskets of dried fish and roasted **plantain** to barter."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Timely convenience.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Timely convenience.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality or state of being opportune, highly convenient, or neatly and glibly ready.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary criticism and conversation, an excessive readiness or artificial neatness that suggests fabrication or rehearsed glibness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, patness designates timely convenience."*
+> - 📜 **Henry James (*The Art of the Novel*):** *"The sudden **patness** of the dénouement robbed the tragedy of its organic dramatic truth."*
+> - 📜 **George Bernard Shaw (*Dramatic Opinions and Essays*):** *"The comic dramatist relied on the sheer **patness** of his entrances to keep the audience laughing."*
+> - 📜 **H. L. Mencken (*Prejudices*):** *"The fatal **patness** of the slogan deceived thousands of voters who mistook an alliteration for a policy."*

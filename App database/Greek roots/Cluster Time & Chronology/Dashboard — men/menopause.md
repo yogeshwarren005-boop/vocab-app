@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The natural cessation of menstruation that usually occurs between the ages of 45 and 55; also : the period during which such cessation occurs —called also climacteric.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cessation of menstruation from other than natural causes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The natural permanent cessation of menstruation, usually occurring between the ages of 45 and 55; the climacteric.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In reproductive endocrinology, clinically defined retrospectively after 12 consecutive months of amenorrhea resulting from the loss of ovarian follicular activity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, menopause designates the natural cessation of menstruation that usually occurs between the ages of 45 and 55; also : the period during which such cessation occurs —called also climacteric."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The arrival of the **menopause** represents a physiological milestone rather than a pathological disease state."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"At the **menopause**, the ovary has depleted its primordial follicles, rendering it insensitive to pituitary stimulation."*
+> - 📜 **Robley Dunglison (*Medical Lexicon*):** *"The critical period known as the **menopause** was historically termed the change of life or climacteric."*

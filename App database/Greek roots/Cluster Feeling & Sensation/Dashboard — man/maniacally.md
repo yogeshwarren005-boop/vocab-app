@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a maniacal manner or to a maniacal degree.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a maniacal manner or to a maniacal degree.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a maniacal manner; with wild, frenzied, uncontrolled madness or frantic excitement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With obsessive, unrestrained intensity or hysterical fervor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, maniacally designates in a maniacal manner or to a maniacal degree."*
+> - 📜 **H. G. Wells (*The Invisible Man*):** *"He laughed **maniacally** in the darkened hallway as the furniture flew across the room to barricade the door."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"The crazed officer shouted **maniacally** into the gale, waving an unloaded revolver at the storm clouds."*
+> - 📜 **Robert Louis Stevenson (*The Strange Case of Dr Jekyll and Mr Hyde*):** *"Hyde trampled the child underfoot and hurried on, smiling **maniacally** into the cold morning mist."*

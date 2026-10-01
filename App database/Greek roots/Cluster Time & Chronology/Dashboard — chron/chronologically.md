@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With respect to chronology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With respect to chronology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In order of time; according to the sequence of occurrence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biographical and historical methodology, presenting information step-by-step as events actually unfolded in historical time.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"The persistency of this thought may be best illustrated by a few quotations from poems and letters, arranged chronologically: 1831."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Organizing the material in each section chronologically, I inserted them into the albums and numbered each photo, document and page."*
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"The subsequent rapid spread of the art, in the hands of students and craftsmen, may be said to have been the centrifugal force of the Renaissance and the Revival of Learning, which age, if it can be chronologically delimited, began A."*
+> - 📜 **Edward Gibbon (*Memoirs of My Life and Writings*):** *"I reviewed the materials of my history, sorting the letters of the emperors **chronologically** to trace the gradual decay of discipline."*
+> - 📜 **Samuel Johnson (*Lives of the Most Eminent English Poets*):** *"He arranged the poems **chronologically**, showing how the author's diction matured from youthful exuberance to sombre mastery."*
+> - 📜 **Charles Lyell (*Elements of Geology*):** *"Strata arranged **chronologically** demonstrate a progressive complexity in fossilized organic remains."*

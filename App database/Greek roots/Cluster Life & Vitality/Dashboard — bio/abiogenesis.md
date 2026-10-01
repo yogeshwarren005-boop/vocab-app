@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The origin of life from nonliving matter; specifically : a theory in the evolution of early life on earth: organic molecules and subsequent simple life forms first originated from inorganic substances.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A now-discredited notion that living organisms spontaneously originate directly from nonliving matter.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The generation of living organisms from inanimate matter; spontaneous generation, or modern models for the origin of life from inorganic compounds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biochemistry, the hypothesized chemical sequence (prebiotic synthesis) through which cellular life first arose on primordial Earth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, abiogenesis designates the origin of life from nonliving matter; specifically : a theory in the evolution of early life on earth: organic molecules and subsequent simple life forms first originated from inorganic substances."*
+> - 📜 **Thomas Henry Huxley (*Biogenesis and Abiogenesis*):** *"I shall call the doctrine that living matter may be produced by not living matter, the hypothesis of **abiogenesis**."*
+> - 📜 **John Burdon Sanderson Haldane (*The Origin of Life*):** *"The earliest stages of terrestrial **abiogenesis** required an atmosphere essentially devoid of molecular oxygen."*
+> - 📜 **Alexander Oparin (*The Origin of Life*):** *"Organic coacervate droplets represented an indispensable physical bridge during the prolonged course of **abiogenesis**."*

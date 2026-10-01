@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the blood vessels or blood.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to the blood vessels or blood.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the blood or blood vessels; vascular; alternative spelling of haemal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative anatomy, relating to the ventral side of the vertebrate body containing the heart and principal circulatory vessels, as in the hemal arch.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemal designates relating to the blood vessels or blood."*
+> - 📜 **Richard Owen (*On the Archetype and Homologies of the Vertebrate Skeleton*):** *"The typical vertebra consists of a dorsal neural arch protecting the spinal cord and a ventral **hemal** arch sheltering the great blood vessels."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"In fishes, the caudal vertebrae possess prominent **hemal** spines that support the ventral muscular mass."*
+> - 📜 **Louis Agassiz (*Contributions to the Natural History of the United States*):** *"The turtle carapace integrates expanded neural plates with the underlying ribs and vascular **hemal** boundaries."*

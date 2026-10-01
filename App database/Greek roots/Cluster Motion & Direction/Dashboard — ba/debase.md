@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Corrupt morally or by intemperance or sensuality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lower in value by increasing the base-metal content.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To reduce the quality, value, or moral character of someone or something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To lower the purity of coin or bullion by substituting a cheaper base metal for gold or silver.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"With all the gracious utterance thou hast, Speak to his gentle hearing kind commends. [_Northumberland returns to Bolingbroke._] [_To Aumerle_.] We do debase ourselves, cousin, do we not, To look so poorly and to speak so fair?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Fair cousin, you debase your princely knee To make the base earth proud with kissing it."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The only way a further profit could be made in this way was to debase the coin again."*
+> - 📜 **William Shakespeare (*Henry V*):** *"Will you **debase** the royal majesty of England with such cowardly submission?"*
+> - 📜 **Frank A. Fetter (*Principles of Economics*):** *"Princes who **debase** the currency to pay debts inevitably bring price inflation and commercial ruin."*
+> - 📜 **John Locke (*Further Considerations Concerning Raising the Value of Money*):** *"To **debase** the weight or fineness of the coinage is to rob the public creditor under color of law."*

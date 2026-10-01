@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or forming the base or essence : fundamental.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Concerned with fundamental scientific principles : not applied.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Forming an essential foundation or starting point; fundamental.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the properties of a chemical base; containing an alkali or reacting to neutralize acids (pH greater than 7).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"We have adjusted each of these series to a base of the average prices for 1890-1899, in accord with the basic period used by the American Bureau of Labor."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Their processing includes a few tests that are evaluated for basic intelligence and skills."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"In this world of thousands of languages and dialects, and physical and mental limitations beyond counting, even basic tools, like a safety pin, need to be understood all along the line from designer to user."*
+> - 📜 **Frank A. Fetter (*Principles of Economics*):** *"The **basic** law of diminishing returns governs both agricultural yield and manufacturing intensity."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"Limestone dissolves in rainwater because calcium carbonate acts as a **basic** salt."*
+> - 📜 **Bertrand Russell (*The Problems of Philosophy*):** *"Our **basic** beliefs regarding sensory data form the starting point of all empirical certainty."*

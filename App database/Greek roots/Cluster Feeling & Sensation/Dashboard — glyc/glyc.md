@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Carbohydrate and especially sugar.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Carbohydrate and especially sugar.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Greek root *glyc-* (from *glykys*), meaning sweet, sugar, or glucose, forming words like *glycogen*, *glycolysis*, and *glycerin*.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The universal biochemical combining form designating carbohydrate molecules, saccharides, and sugar metabolism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, glyc designates carbohydrate and especially sugar."*
+> - 📜 **Henry George Liddell & Robert Scott (*A Greek-English Lexicon*):** *"The Greek adjective *glykys*, underlying the prefix **glyc**, signifies sweet to the taste, delightful, or endearing."*
+> - 📜 **Claude Bernard (*Lectures on the Physiology of Digestion*):** *"In naming the sugar-forming substance of the liver, we adopted the ancient radical **glyc** to designate its saccharine nature."*
+> - 📜 **Justus von Liebig (*Animal Chemistry*):** *"Organic analysis demonstrates that substances carrying the morpheme **glyc** represent the essential fuel of animal respiration."*

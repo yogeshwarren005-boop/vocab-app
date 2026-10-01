@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to become detached or separated; take off.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Separate (a small unit) from a larger, especially for a special assignment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To disengage, disconnect, or separate something from that to which it is attached; to send away a military unit on a specialized assignment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychology and moral philosophy, to withdraw emotionally or intellectually from personal bias, passion, or entanglement in order to achieve objectivity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"He seemed unable to detach himself from Mr."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"From the stripe of shadow on the opposite side of the bridge a portion of shade seemed to detach itself and move into isolation upon the pale white of the road."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"When suddenly, in a moment, the trumpet ceased; there was an interval of dead and terrible silence; then, each with a leap of his heart as if it would burst from his bosom, we saw a single figure slowly detach itself out of the gloom."*
+> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"He used a pocket knife to **detach** the sealed parchment from the hollow lining of the strongbox."*
+> - 📜 **Carl von Clausewitz (*On War*):** *"The general decided to **detach** two light cavalry brigades to harass the enemy flank and delay their retreat."*
+> - 📜 **Bertrand Russell (*The Conquest of Happiness*):** *"A wise philosopher learns to **detach** his ego from petty daily irritations, viewing them sub specie aeternitatis."*

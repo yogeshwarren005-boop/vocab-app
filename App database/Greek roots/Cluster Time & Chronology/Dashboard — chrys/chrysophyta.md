@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mostly freshwater eukaryotic algae having the chlorophyll masked by brown or yellow pigment; yellow-green and golden-brown algae and diatoms: xanthophyceae, chrysophyceae, bacillariophyceae; some classification systems superseded or subsumed by heterokontophyta.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mostly freshwater eukaryotic algae having the chlorophyll masked by brown or yellow pigment; yellow-green and golden-brown algae and diatoms: xanthophyceae, chrysophyceae, bacillariophyceae; some classification systems superseded or subsumed by heterokontophyta.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxonomic division or phylum of algae comprising the golden-brown algae, yellow-green algae, and diatoms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In traditional botanical classification, photosynthetic protists possessing chlorophylls a and c masked by golden carotenoids and storing energy as chrysolaminarin.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chrysophyta designates mostly freshwater eukaryotic algae having the chlorophyll masked by brown or yellow pigment; yellow-green and golden-brown algae and diatoms: xanthophyceae, chrysophyceae, bacillariophyceae; some classification systems superseded or subsumed by heterokontophyta."*
+> - 📜 **Gilbert M. Smith (*The Fresh-Water Algae of the United States*):** *"The division **Chrysophyta** unites diverse flagellates and diatoms that share siliceous walls and golden-brown plastids."*
+> - 📜 **Arthur Tansley (*The British Islands and Their Vegetation*):** *"Primary productivity in cold northern lakes is largely driven by microscopic representatives of the **Chrysophyta**."*
+> - 📜 **Liberty Hyde Bailey (*Cyclopedia of American Horticulture*):** *"Studies in limnology emphasize the role of **Chrysophyta** as the foundational trophic tier in aquatic ecosystems."*

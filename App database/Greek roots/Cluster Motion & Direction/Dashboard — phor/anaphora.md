@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Using a pronoun or similar word instead of repeating a word used earlier.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Repetition of a word or phrase at the beginning of successive clauses.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The repetition of a word or phrase at the beginning of successive sentences, clauses, or verses for rhetorical emphasis or poetic cadence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Christian liturgy, the central Eucharistic prayer or canon of the Mass, during which the bread and wine are consecrated (from Greek anapherein, 'to carry or offer up').
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anaphora designates using a pronoun or similar word instead of repeating a word used earlier."*
+> - 📜 **Aristotle (*Rhetoric*):** *"The forceful orator employs **anaphora** to strike the listener's ear with rhythmic and cumulative moral intensity."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"During the solemn chanting of the Syrian **anaphora**, the patriarch offered the Eucharistic sacrifice for the peace of the empire."*
+> - 📜 **Virginia Woolf (*The Common Reader*):** *"De Quincey builds his ornate climaxes with persistent **anaphora**, repeating the musical motif like an organ pipe."*

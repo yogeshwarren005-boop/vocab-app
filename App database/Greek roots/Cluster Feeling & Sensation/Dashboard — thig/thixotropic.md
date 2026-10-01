@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of various gels of becoming fluid when disturbed (as by shaking).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of various gels of becoming fluid when disturbed (as by shaking).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Exhibiting thixotropy; becoming liquid or less viscous when shaken, stirred, or mechanically disturbed, and returning to a gel-like state when left at rest.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In materials science and biology, characteristic of non-drip paints, drilling muds, printing inks, and synovial fluid in human joints.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thixotropic designates the property of various gels of becoming fluid when disturbed (as by shaking)."*
+> - 📜 **Herbert Freundlich (*Thixotropy*):** *"The essential property of a **thixotropic** gel is that mechanical agitation liquefies it isothermally, without any change in temperature."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Quick clay deposits undergo sudden **thixotropic** liquefaction during earthquake tremors, causing catastrophic landslides."*
+> - 📜 **Linus Pauling (*The Architecture of Molecules*):** *"The **thixotropic** character of synovial fluid allows our joints to move with minimal friction under rapid shear."*

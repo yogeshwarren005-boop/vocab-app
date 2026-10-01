@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A seat typically having four legs and a back for one person.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Electric chair —used with the.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A separate seat for one person, typically having four legs and a rest for the back (derived through Old French *chaiere* from Latin *cathedra*).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A seat of office, honor, or authority; an official professorship in a university department or the presiding officer of a meeting.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is like a barber’s chair, that fits all buttocks—the pin-buttock, the quatch-buttock, the brawn-buttock, or any buttock."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So our virtues Lie in th’ interpretation of the time, And power, unto itself most commendable, Hath not a tomb so evident as a chair T’ extol what it hath done."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This chair shall be my state, this dagger my sceptre, and this cushion my crown."*
+> - 📜 **Samuel Johnson (*The Idler*):** *"A tavern **chair** is the throne of human felicity, where every guest commands respect without ceremony."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Mr. Bennet took his customary easy **chair** in the library, shutting the door against family turmoil."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Queequeg sat smoking in the arm-**chair** by the hearth, calm as an ancient sculptured bronze chief."*

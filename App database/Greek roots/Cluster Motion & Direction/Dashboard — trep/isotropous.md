@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Invariant with respect to direction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Invariant with respect to direction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An archaic or formal scientific variant of isotropic; having properties identical in all directions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nineteenth-century optics and embryology, descriptive of media exhibiting no directional refraction or eggs lacking predetermined axes of cleavage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, isotropous designates invariant with respect to direction."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The newly fertilized ovum was regarded as an **isotropous** sphere capable of dividing with equal facility across any meridian."*
+> - 📜 **Archibald Geikie (*Text-Book of Geology*):** *"Under the polarizing microscope, the volcanic glass remains completely dark, proving its thoroughly **isotropous** physical constitution."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"The magnetic force acted with equal facility upon the **isotropous** fluid in all directions."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ptych.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Time & Chronology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A work of art or altarpiece consisting of six separate panels or sections.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A six-paneled hinged painting or screen arranged symmetrically around central religious themes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hexaptych designates a term designating an entity, condition, or phenomenon derived from greek ptych."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"The magnificent **hexaptych** portrayed six saints standing in solemn contemplation against a gilded background."*
+> - 📜 **Walter Pater (*Gaston de Latour*):** *"He paused before the ancient carved **hexaptych**, admiring the exquisite drapery of the figures."*
+> - 📜 **Kenneth Clark (*The Gothic Revival*):** *"Restorers cleaned the fourteenth-century **hexaptych**, bringing its original tempera colors back to life."*

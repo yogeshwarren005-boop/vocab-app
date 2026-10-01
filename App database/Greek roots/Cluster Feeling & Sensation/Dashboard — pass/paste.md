@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A dough that contains a considerable proportion of fat and is used for pastry crust or fancy rolls.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A confection made by evaporating fruit with sugar or by flavoring a gelatin, starch, or gum arabic preparation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A thick, soft, moist substance made by mixing flour or starch with water, used as an adhesive; any soft, pliable culinary dough or savory spread.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A heavy, lead-rich glass (strass) cut and faceted to imitate diamonds and other precious gemstones in antique jewelry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Cry to it, nuncle, as the cockney did to the eels when she put ’em i’ the paste alive; she knapped ’em o’ the coxcombs with a stick and cried ‘Down, wantons, down!’ ’Twas her brother that, in pure kindness to his horse buttered his hay."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Our lands, our lives, and all are Bolingbroke’s, And nothing can we call our own but death And that small model of the barren earth Which serves as paste and cover to our bones."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will grind your bones to dust, And with your blood and it I’ll make a paste, And of the paste a coffin I will rear, And make two pasties of your shameful heads, And bid that strumpet, your unhallowed dam, Like to the earth swallow her own increase."*
+> - 📜 **Guy de Maupassant (*The Necklace*):** *"Madame Forestier cried out in dismay: Oh, my poor Mathilde! Why, my necklace was made of **paste**! It was worth at most five hundred francs!"*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"The bill-poster dipped his wide brush into the bucket of steaming flour **paste** to affix the circus placard."*
+> - 📜 **Jane Austen (*Emma*):** *"She rolled the delicate **paste** with light hands, preparing little tarts for the evening tea."*

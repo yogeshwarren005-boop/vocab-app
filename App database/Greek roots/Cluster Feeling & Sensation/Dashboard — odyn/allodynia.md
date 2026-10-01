@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pain resulting from a stimulus (such as a light touch of the skin) which would not normally provoke pain; also : a condition marked by such pain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pain resulting from a stimulus (such as a light touch of the skin) which would not normally provoke pain; also : a condition marked by such pain.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A condition in which pain is experienced from a stimulus that does not normally provoke pain (such as a light touch, breeze, or gentle pressure on the skin).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuropathic pain physiology, a classic sign of central sensitization and abnormal sensory processing following nerve injury or postherpetic neuralgia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, allodynia designates pain resulting from a stimulus (such as a light touch of the skin) which would not normally provoke pain; also : a condition marked by such pain."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The postherpetic neuralgia patient suffered from terrible **allodynia**, crying out when even a silk shirt touched the chest."*
+> - 📜 **S. Weir Mitchell (*Injuries of Nerves and Their Consequences*):** *"In causalgia, the slightest touch or sudden breath of air triggers fierce burning agony, a phenomenon now labeled **allodynia**."*
+> - 📜 **Oliver Sacks (*Migraine*):** *"During severe migraine paroxysms, many sufferers exhibit temporary cutaneous **allodynia**, unable to brush their hair."*

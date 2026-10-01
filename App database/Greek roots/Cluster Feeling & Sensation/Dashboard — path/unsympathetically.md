@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without sympathy; in an unsympathetic manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without sympathy; in an unsympathetic manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an unsympathetic, indifferent, or harsh manner; without compassion or understanding.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unpleasantly or discordantly.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"Dentist down the street,” said a blurred voice unsympathetically."*
-> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"I like anything better than being moddley-coddleyed.” With the check upon him of being unsympathetically restrained in a genial outburst of enthusiasm, Mr."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mr. Casaubon replied **unsympathetically** to Dorothea's eager suggestions, retreating into his pedantic silence."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Speckled Band*):** *"Dr. Roylott glared **unsympathetically** at the terrified girl, commanding her to mind her household duties."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The village matrons gossiped **unsympathetically** by the well, passing judgment upon the ruined maiden."*

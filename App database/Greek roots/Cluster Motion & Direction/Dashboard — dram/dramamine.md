@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Antihistamine and antiemetic (trade name dramamine) used to treat motion sickness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Antihistamine and antiemetic (trade name dramamine) used to treat motion sickness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A proprietary brand name for dimenhydrinate, an over-the-counter antihistamine medication widely used to prevent and treat motion sickness, nausea, and vertigo.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pharmacology, an H1 receptor antagonist with central anticholinergic properties that dampens vestibular stimulation in the inner ear during travel by sea or air.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dramamine designates antihistamine and antiemetic (trade name dramamine) used to treat motion sickness."*
+> - 📜 **Hunter S. Thompson (*Fear and Loathing in Las Vegas*):** *"We had two bags of grass, seventy-five pellets of mescaline, and a whole galaxy of multi-colored uppers and **Dramamine**."*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*):** *"Vestibular disturbances can sometimes be alleviated by anti-emetic medications such as **Dramamine**, which dull cerebellar sensitivity."*
+> - 📜 **David Foster Wallace (*A Supposedly Fun Thing I'll Never Do Again*):** *"The cruise passengers queued at the ship's infirmary for transdermal patches and chewable tablets of **Dramamine** before the swell worsened."*

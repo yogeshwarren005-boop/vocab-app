@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The position of apostle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The position of apostle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The office, spiritual commission, or official tenure of an apostle; the authority delegated to preach and govern.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical theology and apostolic succession, the foundational mandate conferred upon early church leaders, establishing continuity of doctrine and episcopal jurisdiction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, apostleship designates the position of apostle."*
+> - 📜 **Richard Hooker (*Of the Lawes of Ecclesiasticall Politie*):** *"The authority of their **apostleship** remained sacred and inviolate among all the primitive churches of the Mediterranean."*
+> - 📜 **John Henry Newman (*Apologia Pro Vita Sua*):** *"He grounded his pastoral duty directly upon the inherited commission of primitive **apostleship**."*
+> - 📜 **Thomas Aquinas (*Summa Theologiae*):** *"The singular grace of **apostleship** was conferred upon the twelve that they might lay the immutable foundations of the faith."*

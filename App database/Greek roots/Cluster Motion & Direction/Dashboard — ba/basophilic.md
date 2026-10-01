@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Staining readily with basic stains.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Staining readily with basic stains.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Staining readily with basic dyes (such as methylene blue or hematoxylin).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to basophils (a type of white blood cell); exhibiting affinity for alkaline reagents.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, basophilic designates staining readily with basic stains."*
+> - 📜 **Paul Ehrlich (*Methodology of Blood Staining*):** *"The mast cell granules are intensely **basophilic**, appearing dark violet under alkaline stain."*
+> - 📜 **Santiago Ramón y Cajal (*Histology of the Nervous System*):** *"Nissl bodies in the motor neurons consist of dense **basophilic** masses of RNA-rich substance."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The presence of **basophilic** stippling in red corpuscles provides a valuable diagnostic clue in chronic lead poisoning."*

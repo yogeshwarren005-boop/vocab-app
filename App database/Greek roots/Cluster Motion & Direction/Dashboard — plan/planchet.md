@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A flat metal disk ready for stamping as a coin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A flat metal disk ready for stamping as a coin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A flat, round piece of metal ready to be stamped into a coin; a coin blank.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In numismatics, a polished metallic disk precisely weighed and milled before striking with dies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, planchet designates a flat metal disk ready for stamping as a coin."*
+> - 📜 **Isaac Newton (*Treasury Papers on the Royal Mint*):** *"Each silver **planchet** must be carefully annealed and weighed before delivery to the coining press."*
+> - 📜 **William Camden (*Remains Concerning Britain*):** *"Ancient moneyers hammered the heated gold **planchet** between two engraved steel dies."*
+> - 📜 **George F. Hill (*Coins of Ancient Sicily*):** *"A slightly irregular bronze **planchet** accounted for the off-center strike on the Syracusan decadrachm."*

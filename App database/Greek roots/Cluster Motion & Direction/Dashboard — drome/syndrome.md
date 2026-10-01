@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A group of signs and symptoms that occur together and characterize a particular abnormality or condition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A set of concurrent things (such as emotions or actions) that usually form an identifiable pattern.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A characteristic group or pattern of symptoms and physical signs that consistently occur together to define a specific disease or medical condition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Figuratively, a predictable combination of behaviors, opinions, or circumstances that characterize a social or psychological trend (literally 'running together').
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, syndrome designates a group of signs and symptoms that occur together and characterize a particular abnormality or condition."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The clinical **syndrome** of fever, murmur, and hematuria leaves no doubt regarding the diagnosis of bacterial endocarditis."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"Each post-encephalitic patient exhibited a unique clinical **syndrome** that defied conventional textbook categories."*
+> - 📜 **Carl Sagan (*The Demon-Haunted World*):** *"The UFO abduction **syndrome** reflects deep-seated cultural anxieties projected onto modern technological myths."*

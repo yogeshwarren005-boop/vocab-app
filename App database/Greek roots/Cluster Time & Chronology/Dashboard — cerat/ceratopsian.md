@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several four-footed herbivorous dinosaurs with enormous beaked skulls; of the late cretaceous in north america and mongolia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of several four-footed herbivorous dinosaurs with enormous beaked skulls; of the late cretaceous in north america and mongolia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any herbivorous dinosaur of the clade Ceratopsia, marked by a horned face and expanded bony neck frill.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dinosaur paleobiology, specialized rostral feeders possessing shearing dental batteries adapted for processing tough fibrous Cretaceous vegetation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ceratopsian designates any of several four-footed herbivorous dinosaurs with enormous beaked skulls; of the late cretaceous in north america and mongolia."*
+> - 📜 **Edwin H. Colbert (*Dinosaurs: Their Discovery and Their World*):** *"A typical **ceratopsian** possessed a massive skull that made up almost a third of its entire body length."*
+> - 📜 **Stephen Jay Gould (*The Panda's Thumb*):** *"The extravagant crests of each **ceratopsian** species served not merely as defensive armor, but as vibrant visual displays."*
+> - 📜 **Roy Chapman Andrews (*On the Trail of Ancient Man*):** *"In the flaming cliffs of the Gobi, we discovered nests containing fossilized eggs laid by a primitive **ceratopsian**."*

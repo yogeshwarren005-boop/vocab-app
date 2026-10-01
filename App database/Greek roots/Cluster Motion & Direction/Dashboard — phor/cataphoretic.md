@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to electrophoresis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to electrophoresis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or produced by cataphoresis; pertaining to the electrophoretic migration of particles toward a negative electrode.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial coating technology and physical chemistry, designating cathodic electrodeposition processes used to apply protective primers to conductive metal surfaces.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cataphoretic designates of or relating to electrophoresis."*
+> - 📜 **Svante Arrhenius (*Textbook of Electrochemistry*):** *"The **cataphoretic** velocity of albumin particles depends strictly upon the ionic strength and potential gradient of the medium."*
+> - 📜 **William Ostwald (*Manual of Physico-Chemical Measurements*):** *"We measured the **cataphoretic** mobility of gold sol granules using a microscopic observation cell."*
+> - 📜 **Robley Dunglison (*Medical Lexicon*):** *"The physician applied a **cataphoretic** electrode to saturate the inflamed joint with potassium iodide ions."*

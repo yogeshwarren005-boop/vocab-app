@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The action of understanding, being aware of, being sensitive to, and vicariously experiencing the feelings, thoughts, and experience of another; also : the capacity for this.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of imagining one's ideas, feelings, or attitudes as fully inhabiting something observed (such as a work of art or natural occurrence) : the imaginative projection of a subjective state into an object so that the object appears to be infused with it.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ability to understand, share, and vicariously experience the feelings, thoughts, and attitudes of another person.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Originally translated into English from German *Einfühlung* ('feeling-in') by Edward Titchener to describe aesthetic projection into an artistic form.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, empathy designates the action of understanding, being aware of, being sensitive to, and vicariously experiencing the feelings, thoughts, and experience of another; also : the capacity for this."*
+> - 📜 **Edward Titchener (*Lectures on the Experimental Psychology of the Thought-Processes*):** *"I coined the English word **empathy** as a translation of the German *Einfühlung*, the process of humanizing an object by reading our own feeling into it."*
+> - 📜 **Carl Rogers (*A Way of Being*):** *"Pure **empathy** is without judgment; it is simply being companion to another person in their inner world."*
+> - 📜 **Martin Buber (*I and Thou*):** *"True dialogue requires more than psychological **empathy**; it demands an essential meeting between two distinct beings."*

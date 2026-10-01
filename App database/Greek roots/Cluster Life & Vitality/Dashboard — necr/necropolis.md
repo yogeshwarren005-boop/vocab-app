@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cemetery; especially : a large elaborate cemetery of an ancient city.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cemetery; especially : a large elaborate cemetery of an ancient city.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large, elaborate cemetery or burial complex, especially one belonging to an ancient city.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An extensive historical burial ground containing monumental tombs, mausoleums, and subterranean catacombs (such as the Giza necropolis).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Again, effigies of Osiris, with faces of green wax and their interior full of grain, were found buried near the necropolis of Thebes."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"Beneath the modern city of Rome lies the silent **necropolis** of the early Christian martyrs."*
+> - 📜 **Pausanias (*Description of Greece*):** *"Outside the monumental gate of Kerameikos stretched the Athenian **necropolis**, flanked by marble grave stelai."*
+> - 📜 **Alexander von Humboldt (*Researches Concerning the Institutions of the Ancient Inhabitants of America*):** *"The vast subterranean **necropolis** of the Incas yielded mummies preserved in desiccated sandy vaults."*

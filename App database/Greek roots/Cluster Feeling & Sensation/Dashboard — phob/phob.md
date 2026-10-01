@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek phob.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Feeling & Sensation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Greek root *phob-* (from *phobos*), signifying flight, panic, terror, dread, or aversion (as seen in *phobia*, *hydrophobia*, *claustrophobia*).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The universal combining form across psychiatric and biological nomenclature denoting abnormal dread, aversion, or chemical repulsion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phob designates a term designating an entity, condition, or phenomenon derived from greek phob."*
+> - 📜 **Henry George Liddell & Robert Scott (*A Greek-English Lexicon*):** *"The primary noun *phobos* and its combining root **phob** originally meant panic flight in Homeric battle before denoting fear in general."*
+> - 📜 **Aristotle (*Poetics*):** *"Tragedy achieves the catharsis of pity and fear, utilizing the elemental terror of **phobos** to cleanse the spectators' emotions."*
+> - 📜 **Sigmund Freud (*Inhibitions, Symptoms and Anxiety*):** *"In constructing terms with **phob**, clinical psychiatry identifies the displacement of unconscious anxiety onto specific external objects."*

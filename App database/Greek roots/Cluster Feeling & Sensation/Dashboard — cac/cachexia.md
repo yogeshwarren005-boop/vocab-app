@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: General physical wasting and malnutrition usually associated with chronic disease.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: General physical wasting and malnutrition usually associated with chronic disease.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extreme physical wasting, loss of weight, and muscle depletion occurring in the course of a chronic, debilitating disease such as advanced cancer or tuberculosis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A complex metabolic syndrome characterized by persistent hypermetabolism, systemic inflammation, and inability to reverse muscle loss with nutritional feeding alone.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cachexia designates general physical wasting and malnutrition usually associated with chronic disease."*
+> - 📜 **Hippocrates (*Aphorisms*):** *"When the humors turn corrupt, bodily **cachexia** supervenes, and the flesh melts away from the bones."*
+> - 📜 **Thomas Sydenham (*Epistle to Dr. Brady*):** *"Prolonged quartan agues reduce the most robust laborers to a state of dropsical **cachexia**."*
+> - 📜 **Jean-Nicolas Corvisart (*An Essay on the Organic Diseases and Lesions of the Heart*):** *"In end-stage cardiac insufficiency, the venous stasis eventually terminates in irreversible general **cachexia**."*

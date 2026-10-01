@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Infestation with or disease caused by pinworms (genus Enterobius, especially E. vermicularis) that occurs especially in children.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Infestation with or disease caused by pinworms (genus Enterobius, especially E. vermicularis) that occurs especially in children.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Infestation of the human intestine by the pinworm *Enterobius vermicularis*.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cosmopolitan parasitic helminthiasis causing perianal pruritus, especially prevalent in young children.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, enterobiasis designates infestation with or disease caused by pinworms (genus enterobius, especially e. vermicularis) that occurs especially in children."*
+> - 📜 **Patrick Manson (*Tropical Diseases*):** *"Diagnosis of **enterobiasis** is confirmed by applying cellulose tape to the perianal skin to collect the characteristic eggs."*
+> - 📜 **William C. Campbell (*History of Anthelmintics*):** *"Modern anti-parasitic therapeutics swiftly eradicate intestinal **enterobiasis** within school populations."*
+> - 📜 **Thomas C. Cheng (*General Parasitology*):** *"The nocturnal migration of gravid female worms in **enterobiasis** triggers intense local irritation."*

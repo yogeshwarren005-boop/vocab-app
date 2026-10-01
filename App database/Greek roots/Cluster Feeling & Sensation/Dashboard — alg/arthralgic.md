@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to arthralgia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to arthralgia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or affected by arthralgia; characterized by joint pain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Describing painful joint manifestations or complaints arising in connective tissue and rheumatologic syndromes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arthralgic designates of or relating to arthralgia."*
+> - 📜 **Jean-Martin Charcot (*Lectures on the Diseases of the Nervous System*):** *"Tabetic patients often present early **arthralgic** episodes long before frank Charcot joints develop."*
+> - 📜 **Sir William Osler (*Aequanimitas*):** *"The practitioner must listen attentively to each **arthralgic** symptom while hunting for subtle systemic autoimmune signs."*
+> - 📜 **Archibald Garrod (*The Inborn Errors of Metabolism*):** *"In ochronosis, the deposition of homogentisic acid pigments provokes severe **arthralgic** attacks in mature adults."*

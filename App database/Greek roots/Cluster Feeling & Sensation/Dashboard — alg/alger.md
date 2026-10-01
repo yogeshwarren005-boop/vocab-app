@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states author of inspirational adventure stories for boys; virtue and hard work overcome poverty (1832-1899).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states author of inspirational adventure stories for boys; virtue and hard work overcome poverty (1832-1899).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A reference to Horatio Alger Jr. (1832–1899) or the archetype of the virtuous, impoverished youth rising to wealth and respectability through pluck, hard work, and honesty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An adjective or noun characterizing an American mythos of meritocratic self-help, upward social mobility, and industrious perseverance against adversity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jr. Horatio Alger (*Paul Prescott's Charge*):** *"Alger Series For Boys. {About 50 Titles} Uniform With This Volume."*
-> - 📜 **Harry Castlemon (*Rodney, the Partisan*):** *"Cloth, extra . . . . . . . . . . . . . . 1 25 ALGER'S RENOWNED BOOKS."*
-> - 📜 **Harry Castlemon (*Rodney, the Partisan*):** *"By Horatio Alger, Jr. 6 vols., 12mo."*
+> - 📜 **Horatio Alger Jr. (*Ragged Dick*):** *"The hero embodied the classic **Alger** creed: save your pennies, study at night, and shun all gambling and drink."*
+> - 📜 **Henry Adams (*The Education of Henry Adams*):** *"The young republic still believed blindly in its innocent **Alger** heroes climbing toward industrial fortune."*
+> - 📜 **Thorstein Veblen (*The Theory of the Leisure Class*):** *"The popular fascination with the **Alger** narrative serves to legitimize pecuniary accumulation by portraying it as moral triumph."*

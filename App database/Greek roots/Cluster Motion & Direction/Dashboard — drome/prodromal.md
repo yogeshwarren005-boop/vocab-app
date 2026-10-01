@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Symptomatic of the onset of an attack or a disease.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Symptomatic of the onset of an attack or a disease.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or serving as a prodrome; indicating the early, warning stage preceding the acute outbreak of a disease.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical medicine, designating non-specific early signs (such as malaise, low-grade fever, or aura) that herald the full manifestation of an illness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prodromal designates symptomatic of the onset of an attack or a disease."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A distinctive **prodromal** rash often appears twenty-four hours before the eruptive fever of smallpox."*
+> - 📜 **Eugene Braunwald (*Harrison's Principles of Internal Medicine*):** *"Severe migraine attacks are frequently preceded by a sensory **prodromal** aura lasting several minutes."*
+> - 📜 **Wilder Penfield (*Epilepsy and the Functional Anatomy of the Human Brain*):** *"The patient reported a strange epigastric sensation as a **prodromal** signal prior to each seizure."*

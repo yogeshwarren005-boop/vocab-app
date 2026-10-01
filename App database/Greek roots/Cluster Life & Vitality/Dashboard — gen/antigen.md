@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any substance (such as an immunogen or a hapten) foreign to the body that evokes an immune response either alone or after forming a complex with a larger molecule (such as a protein) and that is capable of binding with a product (such as an antibody or T cell) of the immune response.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various cells (such as a dendritic cell, macrophage, or B cell) that take up and process an antigen into a peptide fragment which when displayed at the cell surface in combination with a molecule of the major histocompatibility complex is recognized by and serves to activate cells of the immune system (such as helper T cells or cytotoxic T cells) —abbreviation APC.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any foreign substance that induces an immune response in the body, especially the production of specific antibodies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A macromolecule bearing distinct epitopes capable of binding specifically to T-cell receptors or B-cell surface immunoglobulins.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antigen designates any substance (such as an immunogen or a hapten) foreign to the body that evokes an immune response either alone or after forming a complex with a larger molecule (such as a protein) and that is capable of binding with a product (such as an antibody or t cell) of the immune response."*
+> - 📜 **Paul Ehrlich (*Studies on Immunity*):** *"The receptors of the side-chain theory bind specifically to the toxophore and haptophore groups of the invading **antigen**."*
+> - 📜 **Karl Landsteiner (*The Specificity of Serological Reactions*):** *"Chemical alteration of a single hapten group fundamentally alters the serological specificity of the artificial **antigen**."*
+> - 📜 **Peter Medawar (*The Uniqueness of the Individual*):** *"Graft rejection is driven by cell-surface **antigen** disparities encoded by the major histocompatibility complex."*

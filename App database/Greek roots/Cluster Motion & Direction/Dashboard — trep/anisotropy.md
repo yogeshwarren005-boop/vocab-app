@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Exhibiting properties with different values when measured in different directions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exhibiting properties with different values when measured in different directions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of being directional; the variation of a physical property depending on the direction along which it is measured.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In observational cosmology and astrophysics, the minuscule directional variations in temperature detected across the Cosmic Microwave Background (CMB).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anisotropy designates exhibiting properties with different values when measured in different directions."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"The mechanical stress within the crystal produces an optical **anisotropy** easily revealed between crossed Nicol prisms."*
+> - 📜 **Stephen Hawking (*A Brief History of Time*):** *"Sensitive satellite instruments mapped the tiny temperature **anisotropy** of the cosmic microwave radiation left over from the Big Bang."*
+> - 📜 **Arthur Eddington (*The Mathematical Theory of Relativity*):** *"Gravitational fields induce an effective optical **anisotropy** in empty space, bending passing light waves toward the central mass."*

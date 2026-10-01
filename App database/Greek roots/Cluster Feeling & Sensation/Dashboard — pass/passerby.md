@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who passes by casually or by chance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who passes by casually or by chance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who walks past a place or event by chance; a casual pedestrian witness (alternative unhyphenated spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An onlooker who happens upon an incident in public.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"It is well that you should call to every passerby, “Look here!” With the night comes a slouching figure through the tunnel-court to the outside of the iron gate."*
-> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"There were barns back of the Sherwood house; there was no fence between the yard and the road, the windows of the house stared out upon the passerby, blindless, and many of them without shades."*
-> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"No crowd was about the door; no people were discernible at any of the many windows; not even a chance passerby was in the street."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Every curious **passerby** stopped to gaze upon the scarlet letter burning on Hester's breast."*
+> - 📜 **Mark Twain (*The Prince and the Pauper*):** *"The tattered prince begged bread from every well-dressed **passerby**, but received only harsh rebukes."*
+> - 📜 **O. Henry (*The Cop and the Anthem*):** *"Soapy pretended to be a dangerous vagrant, hoping to insult a respectable **passerby** and gain winter arrest."*

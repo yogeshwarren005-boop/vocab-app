@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ba.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Motion & Direction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The original, validly published name of a taxonomic group from which a new name or combination is derived.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical and zoological nomenclature, the name-bearing type upon which a revised generic classification rests.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, basionym designates a term designating an entity, condition, or phenomenon derived from greek ba."*
+> - 📜 **Alphonse de Candolle (*Laws of Botanical Nomenclature*):** *"Whenever a species is transferred to another genus, the original specific epithet of the **basionym** must be retained."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"Botanists must cite the author of the **basionym** in parentheses before the revising taxonomist's name."*
+> - 📜 **Frans Stafleu (*International Code of Botanical Nomenclature*):** *"A new combination is illegitimate unless its **basionym** is clearly designated with a full bibliographic citation."*

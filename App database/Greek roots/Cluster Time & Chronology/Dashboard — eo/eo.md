@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Executive order.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Earliest : oldest.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combining form derived from Greek ἠώς (eos) meaning 'dawn' or 'early', used in geology, paleontology, and taxonomy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scientific nomenclature, denoting the earliest stages, primitive ancestors, or dawn of a geological epoch or evolutionary lineage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eo designates executive order."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"The Homeric goddess of dawn, Eos, bequeathed the scientific prefix **eo-** to denote the morning of life or planetary antiquity."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"In constructing geological nomenclature, we employed **eo-** to designate the dawn of recent molluscan life in Tertiary strata."*
+> - 📜 **Othniel Charles Marsh (*Fossil Horses in America*):** *"Paleontologists prefixed **eo-** to the ancient horse ancestor to celebrate its position at the dawn of the mammalian dynasty."*

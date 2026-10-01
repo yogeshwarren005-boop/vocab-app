@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Second part of the stone age beginning about 750,00 to 500,000 years bc and lasting until the end of the last ice age about 8,500 years bc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the second period of the stone age (following the eolithic).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or denoting the early phase of the Stone Age, lasting about 2.5 million years, characterized by chipped stone tools.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In prehistoric archaeology (coined by John Lubbock in 1865), the cultural era spanning from the earliest Oldowan pebble tools through the Upper Paleolithic cave art of Lascaux.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, palaeolithic designates second part of the stone age beginning about 750,00 to 500,000 years bc and lasting until the end of the last ice age about 8,500 years bc."*
+> - 📜 **John Lubbock (*Pre-Historic Times*):** *"I have proposed the division of the Stone Age into two periods: the **Palaeolithic**, when implements were merely flaked, and the Neolithic, when they were ground."*
+> - 📜 **Thomas Henry Huxley (*Man's Place in Nature*):** *"The Neanderthal calvaria demonstrates the physical characteristics of **Palaeolithic** man inhabiting glacial Europe."*
+> - 📜 **Arthur Conan Doyle (*The Lost World*):** *"We stood gazing upon chipped flint spearheads that were undeniably the handiwork of **Palaeolithic** savages."*

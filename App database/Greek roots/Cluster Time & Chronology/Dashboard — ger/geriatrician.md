@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialist in gerontology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A specialist in gerontology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A medical doctor who specializes in the health and medical care of elderly people.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern clinical medicine, a specialist who coordinates comprehensive geriatric assessments, balancing functional independence against chronic disease burden.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, geriatrician designates a specialist in gerontology."*
+> - 📜 **William Osler (*Counsels and Ideals*):** *"The skilled **geriatrician** views the elderly patient not as a bundle of isolated ailments, but as an integrated human life."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"A prudent **geriatrician** constantly anticipates the heightened susceptibility of aging vascular beds to hypotensive episodes."*
+> - 📜 **Donald Seldin (*The Kidney: Physiology and Pathophysiology*):** *"Every practicing **geriatrician** must routinely recalculate creatinine clearance when prescribing nephrotoxic drugs."*

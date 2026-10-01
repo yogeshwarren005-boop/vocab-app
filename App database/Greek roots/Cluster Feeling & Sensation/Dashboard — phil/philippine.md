@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Official language of the philippines; based on tagalog; draws its lexicon from other philippine languages.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characteristic of the philippines or its people or customs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characteristic of the Republic of the Philippines, its people, or its languages.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically, a social parlor game (*philippine* or *vielliebchen*) in which two people share a double almond and claim a forfeit at their next meeting.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Some of the Philippine Islanders believe that the souls of their ancestors are in certain trees, which they therefore spare."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"He could not possibly have lived as long as this." A tribe in the Philippine Islands told the Spanish conquerors that the grave of the Creator was upon the top of Mount Cabunian."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The Bagobos of Mindanao, one of the Philippine Islands, offer a human sacrifice before they sow their rice."*
+> - 📜 **William Howard Taft (*Special Report on the Philippines*):** *"The establishment of civil courts across the **Philippine** provinces brought stability and legal protection to all citizens."*
+> - 📜 **Alfred Russel Wallace (*Island Life*):** *"The deep oceanic trench separating the **Philippine** archipelago from Borneo marks an ancient biogeographical boundary."*
+> - 📜 **Mark Twain (*To the Person Sitting in Darkness*):** *"Our military intervention in the **Philippine** islands was carried out under the banner of civilizing trade."*

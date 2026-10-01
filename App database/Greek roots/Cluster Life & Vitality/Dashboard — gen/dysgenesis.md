@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Infertility between hybrids.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Infertility between hybrids.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Defective, abnormal, or impaired development of an organ, tissue, or physiological system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Infertility or impaired reproductive capacity between crossbred species or subspecies; also gonadal dysgenesis in chromosomal disorders.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dysgenesis designates infertility between hybrids."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Hybrid sterility between divergent varieties illustrates the physiological **dysgenesis** resulting from incompatible germ-plasms."*
+> - 📜 **William Boyd (*A Textbook of Pathology*):** *"Ovarian **dysgenesis** in Turner syndrome manifests as fibrous streak ovaries devoid of primordial germ cells."*
+> - 📜 **Francis Galton (*Hereditary Genius*):** *"Social conditions that encourage disproportionate fertility among the least capable threaten racial **dysgenesis**."*

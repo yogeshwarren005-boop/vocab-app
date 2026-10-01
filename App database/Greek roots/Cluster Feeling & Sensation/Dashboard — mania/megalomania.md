@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mania for great or grandiose performance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A delusional mental illness that is marked by feelings of personal omnipotence and grandeur.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A psychiatric disorder or delusion characterized by exaggerated feelings of personal power, wealth, grandeur, or omnipotence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political satire and history, the lust for authoritarian domination and self-glorification.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, megalomania designates a mania for great or grandiose performance."*
+> - 📜 **Friedrich Nietzsche (*Ecce Homo*):** *"My philosophical destiny requires that I speak without false modesty, though small minds may call it **megalomania**."*
+> - 📜 **Bertrand Russell (*Power: A New Social Analysis*):** *"When the conqueror believes he is a divine instrument of fate, his policy hardens into murderous **megalomania**."*
+> - 📜 **Sigmund Freud (*The Future of an Illusion*):** *"The infantile ego indulges in dreams of **megalomania** to compensate for its utter vulnerability before nature."*

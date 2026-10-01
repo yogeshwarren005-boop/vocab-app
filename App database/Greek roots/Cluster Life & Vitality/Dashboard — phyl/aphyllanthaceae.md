@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of many families or subfamilies into which some classification systems subdivide the liliaceae but not widely accepted; includes genus aphyllanthes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of many families or subfamilies into which some classification systems subdivide the liliaceae but not widely accepted; includes genus aphyllanthes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A botanical family (or subfamily Aphyllanthoideae) of monocotyledonous flowering plants containing the single Mediterranean genus *Aphyllanthes*.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A family of xerophytic plants in the order Asparagales characterized by rush-like photosynthetic stems and vestigial papery leaves.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aphyllanthaceae designates one of many families or subfamilies into which some classification systems subdivide the liliaceae but not widely accepted; includes genus aphyllanthes."*
+> - 📜 **Augustin Pyramus de Candolle (*Flore Française*):** *"The distinctive floral anatomy of the genus prompted botanists to separate it into the monotypic family **Aphyllanthaceae**."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"Within the **Aphyllanthaceae**, blue flowers emerge from papery involucral bracts crowning leafless rush stems."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"Phylogenetic revisions often treat the **Aphyllanthaceae** as an archaic lineage within the broader asparagoid complex."*

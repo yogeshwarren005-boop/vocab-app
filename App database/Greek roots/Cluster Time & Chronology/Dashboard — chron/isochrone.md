@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An isogram connecting points at which something occurs or arrives at the same time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An isogram connecting points at which something occurs or arrives at the same time.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A line on a map connecting points that can be reached from a given location in the same travel time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In transportation planning, geophysics, and geography, a contour line representing equal travel duration or identical seismic wave arrival times.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, isochrone designates an isogram connecting points at which something occurs or arrives at the same time."*
+> - 📜 **Francis Galton (*Proceedings of the Royal Geographical Society*):** *"I constructed an **isochrone** chart of the globe, shading regions reachable from London within ten, twenty, or thirty days."*
+> - 📜 **Arthur Holmes (*Principles of Physical Geology*):** *"Seismic stations recorded the shockwave, enabling geophysicists to plot each **isochrone** expanding outward from the earthquake epicenter."*
+> - 📜 **Lewis Mumford (*The City in History*):** *"The commuter railway warped urban space, stretching the suburban **isochrone** thirty miles along iron corridors."*

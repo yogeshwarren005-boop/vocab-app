@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the development of an embryo in the absence of fertilization.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the development of an embryo in the absence of fertilization.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by apogamy; developing without sexual union.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant developmental genetics, describing the direct vegetative proliferation of sporophytic tissue from gametophytic cells.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, apogamic designates of or relating to the development of an embryo in the absence of fertilization."*
+> - 📜 **Eduard Strasburger (*Handbook of Practical Botany*):** *"The prothallium of Pteris cretica regularly produces an **apogamic** bud directly from the cushion behind the apical notch."*
+> - 📜 **John Lindley (*The Elements of Botany*):** *"Such **apogamic** shortcuts eliminate the delicate archegonial stage when climate conditions prove inhospitable."*
+> - 📜 **C. D. Darlington (*Recent Advances in Cytology*):** *"Meiotic irregularities in polyploid ferns are routinely compensated by an **apogamic** life cycle."*

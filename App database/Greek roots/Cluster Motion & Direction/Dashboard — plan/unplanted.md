@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not planted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not planted.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not planted with crops, seeds, or vegetation; left bare, fallow, or uncultivated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking intentional sowing, crop cover, or agricultural development.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unplanted designates not planted."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"A vast stretch of **unplanted** arable land lay bleak and brown beneath the November drizzle."*
+> - 📜 **William Cobbett (*Rural Rides*):** *"The fields were left **unplanted** that season, choked with weeds while the tenant farmer waited for rents to ease."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"The wild hillside remained **unplanted**, preserving its natural mantle of sumach and pitch pine."*

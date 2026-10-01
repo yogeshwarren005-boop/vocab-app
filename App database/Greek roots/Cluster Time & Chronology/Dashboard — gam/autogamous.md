@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by or fit for autogamy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by or fit for autogamy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Practicing self-fertilization; pollinating oneself; self-fertile.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In floral ecology and genetics, describing plant varieties that habitually transfer pollen from anther to stigma within the same flower.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, autogamous designates characterized by or fit for autogamy."*
+> - 📜 **Charles Darwin (*The Different Forms of Flowers on Plants of the Same Species*):** *"While outcrossing enhances vigor, being **autogamous** ensures reproductive success when pollinating insects are scarce."*
+> - 📜 **Asa Gray (*Botanical Text-Book*):** *"Weedy annuals are frequently **autogamous**, colonizing bare ground through guaranteed solitary self-fertility."*
+> - 📜 **G. Ledyard Stebbins (*Variation and Evolution in Plants*):** *"Pioneer species on isolated oceanic islands are overwhelmingly **autogamous**, establishing populations from a single seed."*

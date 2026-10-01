@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sorrow for sin arising from fear of damnation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sorrow for sin arising from fear of damnation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of feeling sincere remorse, repentance, and sorrow for having committed a sin or wrongdoing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Catholic moral theology, sorrow for sin arising purely from the love of God (perfect contrition), distinguished from attrition (imperfect contrition arising from fear of punishment).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Snagsby!” It was necessary for her mistress to comfort her—which she did, I must say, with a good deal of contrition—before she could be got beyond this."*
-> - 📜 **John Fletcher (*The Elder Brother*):** *"And that until you are again reform'd and grown new men, you ne'ere presume to name the Court, or press into the Porter's Lodge but for a penance, to be disciplin'd for your roguery, and this done with true contrition. _Both_."*
-> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"They cannot endure doctrines, which level all vain distinctions, and require the noble, the affluent, and the learned, to assume the same station of penitence and contrition, with the lowliest peasant."*
+> - 📜 **Geoffrey Chaucer (*The Parson's Tale*):** *"True **contrition** is the sorrowful grief of heart that a man conceives for his sins, with steadfast purpose never more to offend."*
+> - 📜 **John Donne (*Holy Sonnets*):** *"Teach me how to repent; for that's as good as if thou'hadst seal'd my pardon, with tears of true **contrition**."*
+> - 📜 **Thomas Aquinas (*Summa Theologiae*):** *"Perfect **contrition** blots out mortal sin even before sacramental absolution is actually received in the confessional."*

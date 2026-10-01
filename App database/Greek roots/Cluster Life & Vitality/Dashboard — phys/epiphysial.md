@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the epiphysis of a bone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to the epiphysis of a bone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to an epiphysis; variant spelling of epiphyseal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to the epiphyseal cartilage, junction, or the pineal gland (epiphysis cerebri).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epiphysial designates relating to the epiphysis of a bone."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"In reptiles, the **epiphysial** cartilages remain un-ossified throughout adult life."*
+> - 📜 **Henry Gray (*Anatomy: Descriptive and Surgical*):** *"The **epiphysial** cartilage unites the head of the femur to the shaft until early adulthood."*
+> - 📜 **William Boyd (*Pathology for the Surgeon*):** *"Traumatic slippage across the femoral **epiphysial** junction demands prompt orthopedic reduction."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of bad.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of bad.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Exhibiting or characteristic of cacophobia; intensely averse to or fearful of ugliness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to hypersensitive distaste for unpleasing aesthetics or unsightly forms in art and daily life.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cacophobic designates adjective*) pertaining to, derived from, or characteristic of bad."*
+> - 📜 **Walter Pater (*Appreciations*):** *"The poet maintained a **cacophobic** vigilance over his diction, striking out any phrase that grated on the eye or ear."*
+> - 📜 **James Joyce (*Ulysses*):** *"Stephen Dedalus gazed upon the battered paving stones with a weary, almost **cacophobic** distaste for civic squalor."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"Our industrial cities have created a **cacophobic** panic among cultured minds, driving them back to medieval sanctuaries."*

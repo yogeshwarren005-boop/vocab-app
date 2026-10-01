@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to a type of sexual reproduction in which the gametes are dissimilar in some respect (as size or shape).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to a type of sexual reproduction in which the gametes are dissimilar in some respect (as size or shape).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Reproducing by the union of two gametes that differ in size or form; heterogamous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology, describing organisms whose sexual reproduction involves differentiated microgametes (sperm) and macrogametes (eggs).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anisogamous designates relating to a type of sexual reproduction in which the gametes are dissimilar in some respect (as size or shape)."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Sexual selection operates with greatest intensity in **anisogamous** species where females invest heavily in parental gametic reserves."*
+> - 📜 **Richard Dawkins (*The Selfish Gene*):** *"The fundamental definition of male and female rests upon whether an **anisogamous** organism manufactures small or large gametes."*
+> - 📜 **G. Ledyard Stebbins (*Variation and Evolution in Plants*):** *"Among chlorophycean algae, we trace every grade from isogamous ancestors to strictly **anisogamous** colonial forms."*

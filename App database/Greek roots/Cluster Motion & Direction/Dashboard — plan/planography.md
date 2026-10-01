@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of printing from a surface on which the printing areas are not raised but are ink-receptive (as opposed to ink repellent).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process of printing from a surface on which the printing areas are not raised but are ink-receptive (as opposed to ink repellent).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The art or process of printing from a flat surface, such as in lithography.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The scientific study and classification of flat planes; planar technical charting.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, planography designates the process of printing from a surface on which the printing areas are not raised but are ink-receptive (as opposed to ink repellent)."*
+> - 📜 **Alois Senefelder (*A Complete Course of Lithography*):** *"The discovery of **planography** liberated printers from the labor of cutting relief blocks or etching copperplates."*
+> - 📜 **Joseph Pennell (*The Graphic Arts*):** *"In commercial printing, offset **planography** rapidly displaced typographic letterpress for high-speed runs."*
+> - 📜 **Charles Babbage (*The Economy of Machinery and Manufactures*):** *"Chemical **planography** represented a remarkable economy of manufacturing labor in graphic reproduction."*

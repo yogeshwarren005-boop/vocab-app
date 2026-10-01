@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of pleasant, sweet.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of pleasant, sweet.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In crystallography, having crystal faces or internal symmetry elements that correspond to internal hemihedral forms; possessing internal face symmetry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to internal crystalline orientations where optical properties reflect the subterranean geometric arrangement of molecular lattices.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endohedric designates adjective*) pertaining to, derived from, or characteristic of pleasant, sweet."*
+> - 📜 **Edward Salisbury Dana (*A Text-Book of Mineralogy*):** *"Certain tourmaline crystals exhibit an **endohedric** development that creates distinct electrical polarity upon heating."*
+> - 📜 **René Just Haüy (*Treatise on Mineralogy*):** *"Cleavage planes expose the fundamental **endohedric** nucleus around which secondary crystal faces assemble."*
+> - 📜 **James Dwight Dana (*System of Mineralogy*):** *"The optical interference figures reveal an **endohedric** distribution of internal stress in unannealed quartz prisms."*

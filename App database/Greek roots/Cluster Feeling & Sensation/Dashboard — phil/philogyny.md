@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek gyn.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Society & Governance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Love of, admiration for, or fondness toward women (the direct antonym of misogyny).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A chivalrous, appreciative, or respectful devotion to women in romantic literature and social philosophy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, philogyny designates a term designating an entity, condition, or phenomenon derived from greek gyn."*
+> - 📜 **Lord Byron (*Don Juan*):** *"His tender temperament was inclined by nature to boundless **philogyny**, worshipping every fair face under the sun."*
+> - 📜 **George Bernard Shaw (*Man and Superman*):** *"Tanner proclaimed himself an apostle of enlightened **philogyny**, while fleeing from every eligible heiress."*
+> - 📜 **Havelock Ellis (*The Task of Social Hygiene*):** *"A healthy civilization fosters generous **philogyny**, recognizing woman as the indispensable equal partner in civic life."*

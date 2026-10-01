@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek phil.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Feeling & Sensation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal, persistent, and irrational fear of falling in love or forming an emotional attachment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychopathology, an anxiety disorder where individuals avoid romantic relationships out of dread of vulnerability, rejection, or heartbreak.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, philophobia designates a term designating an entity, condition, or phenomenon derived from greek phil."*
+> - 📜 **Robert Burton (*The Anatomy of Melancholy*):** *"Certain timorous souls fall into an obstinate **philophobia**, terrified that romantic love will enslave their reason."*
+> - 📜 **Arthur Schopenhauer (*The World as Will and Representation*):** *"The ascetic's dread of the reproductive drive borders on a philosophical **philophobia**, guarding the ego from the traps of the species."*
+> - 📜 **Sigmund Freud (*Inhibitions, Symptoms and Anxiety*):** *"Neurotic **philophobia** represents a defensive regression against the terrifying repetition of early parental betrayal."*

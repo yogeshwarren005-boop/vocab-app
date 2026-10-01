@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek heb.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Life & Vitality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of medicine concerned with the health, diseases, and development of adolescents; ephebiatrics; adolescent medicine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The clinical study of physical growth, hormonal changes, and psychosocial adaptation during the adolescent transition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hebiatrics designates a term designating an entity, condition, or phenomenon derived from greek heb."*
+> - 📜 **J. Roswell Gallagher (*Medical Care of the Adolescent*):** *"Specialized training in **hebiatrics** equips the clinician to navigate both the physical ailments and existential anxieties of teenagers."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The establishment of dedicated **hebiatrics** wards acknowledged that adolescents belong neither with children nor with adults."*
+> - 📜 **William Boyd (*Pathology for the Physician*):** *"The spectrum of disease in **hebiatrics** is dominated by endocrine reconfigurations and orthopedic growth disorders."*

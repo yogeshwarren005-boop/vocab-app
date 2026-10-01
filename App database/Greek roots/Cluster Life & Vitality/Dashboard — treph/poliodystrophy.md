@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek treph.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Life & Vitality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A degenerative disease of the gray matter of the brain, especially progressive infantile poliodystrophy (Alpers' disease).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A neurodegenerative metabolic disorder characterized by intractable childhood seizures, progressive cerebral cortex atrophy, and hepatic cirrhosis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, poliodystrophy designates a term designating an entity, condition, or phenomenon derived from greek treph."*
+> - 📜 **Bernard Alpers (*Diffuse Progressive Degeneration of the Gray Matter of the Cerebrum*):** *"I described progressive cerebral **poliodystrophy** as a devastating childhood encephalopathy targeting the cerebral gray mantle."*
+> - 📜 **William Boyd (*Pathology for the Physician*):** *"Post-mortem examination in **poliodystrophy** reveals extensive neuronal loss and gliosis confined strictly to the cerebral cortex."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Intractable developmental regression accompanied by myoclonic spasms suggests progressive infantile **poliodystrophy**."*

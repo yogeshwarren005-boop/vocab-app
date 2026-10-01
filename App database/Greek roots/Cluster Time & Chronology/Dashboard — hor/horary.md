@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the hours.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to the hours.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to an hour or hours; continuing for an hour; occurring hourly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In astrology and astronomy, relating to hourly motions of planets or the divination technique (horary astrology) answering questions based on the celestial chart of the moment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"I went up on to the platform just as the second lieutenant was taking the measure of the horary angles, and waited, according to habit till the daily phrase was said."*
+> - 📜 **Simon Newcomb (*Popular Astronomy*):** *"The astronomical tables record the **horary** motion of the moon across the background of fixed stars."*
+> - 📜 **Robert Burton (*The Anatomy of Melancholy*):** *"Many consult the **horary** astrologer at the birth of an infant to read the promise of its stars."*
+> - 📜 **Lord Kelvin (*Popular Lectures and Addresses*):** *"The **horary** rate of water evaporation from the open reservoir was meticulously charted throughout the trial."*

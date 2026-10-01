@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek chron.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Time & Chronology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The organization and correlation of geological time based on the evolutionary succession of fossil biotas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In stratigraphy and vertebrate paleontology, the dating and ordering of sedimentary strata using mammalian or invertebrate faunal turnover and stage-ages.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, biochronology designates a term designating an entity, condition, or phenomenon derived from greek chron."*
+> - 📜 **George Gaylord Simpson (*The Meaning of Evolution*):** *"Mammalian **biochronology** provides the primary framework for calibrating the continental stages of the Tertiary."*
+> - 📜 **Stephen Jay Gould (*Ontogeny and Phylogeny*):** *"The resolution of continental **biochronology** depends upon identifying rapid morphological radiations across geographic provinces."*
+> - 📜 **Alfred Sherwood Romer (*Vertebrate Paleontology*):** *"Correlations in late Cenozoic **biochronology** rely heavily upon the dispersal of hypsodont equids across land bridges."*

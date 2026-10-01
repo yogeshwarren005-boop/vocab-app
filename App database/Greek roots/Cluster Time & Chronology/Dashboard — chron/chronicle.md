@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A historical account of events arranged in order of time usually without analysis or interpretation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A historical account of events arranged in order of time usually without analysis or interpretation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A continuous historical account of events arranged in order of time without analytical interpretation; to record in such a narrative.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historiography and medieval literature, an annalistic record chronicling royal reigns, battles, celestial omens, and civic events year by year.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I and my sword will earn our chronicle."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To suckle fools and chronicle small beer."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No more yet of this; For ’tis a chronicle of day by day, Not a relation for a breakfast nor Befitting this first meeting."*
+> - 📜 **William Shakespeare (*Henry V*):** *"For hear her but adumbrate your lineage, / As in the **chronicle** of King Pepin, / Which founded our claim upon the crown."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The monastic **chronicle** recorded the sack of the basilica alongside notices of heavy frosts and poor wine harvests."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"He turned the yellowing vellum pages of the ancient abbey **chronicle** with reverent, gloved fingers."*

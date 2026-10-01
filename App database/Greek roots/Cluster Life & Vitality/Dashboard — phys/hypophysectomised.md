@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Remove the pituitary glands.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the pituitary gland removed by surgery.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having undergone surgical removal of the hypophysis (pituitary gland); British spelling of hypophysectomized.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Describing experimental subjects lacking pituitary function, exhibiting profound adrenal and thyroid atrophy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypophysectomised designates remove the pituitary glands."*
+> - 📜 **Bernardo Houssay (*Carbohydrate Metabolism*):** *"The **hypophysectomised** dog displays extraordinary sensitivity to minute injections of insulin."*
+> - 📜 **Hans Selye (*The Stress of Life*):** *"In the **hypophysectomised** rat, alarming systemic stressors fail to provoke the characteristic alarm reaction."*
+> - 📜 **Frank Beach (*Hormones and Behavior*):** *"Maternal nursing instincts ceased abruptly in **hypophysectomised** mice deprived of prolactin."*

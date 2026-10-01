@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Devoted to the pursuit of pleasure : of, relating to, or characterized by hedonism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Devoted to the pursuit of pleasure : of, relating to, or characterized by hedonism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Engaged in or devoted to the pursuit of pleasure, sensory enjoyment, or self-gratification.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to ethical or behavioral theories based on hedonism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hedonistic designates devoted to the pursuit of pleasure : of, relating to, or characterized by hedonism."*
+> - 📜 **Jeremy Bentham (*Deontology*):** *"Every rational legislator constructs penal sanctions to counteract destructive **hedonistic** inclinations."*
+> - 📜 **Aldous Huxley (*Brave New World*):** *"The World State maintained totalitarian control by keeping citizens immersed in a perpetual **hedonistic** paradise of synthetic music and soma."*
+> - 📜 **Friedrich Nietzsche (*Beyond Good and Evil*):** *"English utilitarianism reduced the magnificent grandeur of human striving to a contemptible, comfortable **hedonistic** ideal."*

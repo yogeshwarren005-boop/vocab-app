@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek bio.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Life & Vitality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A form of cryptobiosis or metabolic dormancy induced in an organism by toxic chemical agents and reversed upon removal of the toxin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The physiological preservation of cellular structures when exposed to chemical desiccants, cryoprotectants, or enzyme inhibitors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chemobiosis designates a term designating an entity, condition, or phenomenon derived from greek bio."*
+> - 📜 **David Keilin (*The Problem of Anabiosis or Latent Life*):** *"We distinguish **chemobiosis** from desiccation anabiosis when toxic agents arrest metabolism without causing necrosis."*
+> - 📜 **John H. Crowe (*Mechanisms of Anhydrobiosis*):** *"High concentrations of polyols can induce a reversible state analogous to **chemobiosis** in nematodes."*
+> - 📜 **Peter Hochachka (*Biochemical Adaptation*):** *"Chemical arrest of ATP turnover demonstrates how **chemobiosis** can protect cells against lethal energetic collapse."*

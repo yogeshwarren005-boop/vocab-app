@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek heb.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Life & Vitality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The sexual or romantic preference for late adolescents, typically individuals between the ages of 15 and 19.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically, the socially institutionalized erotic mentorship (pederasty) practiced between adult men and youths in classical ancient Greece.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ephebophilia designates a term designating an entity, condition, or phenomenon derived from greek heb."*
+> - 📜 **Magnus Hirschfeld (*Sexual Anomalies and Perversions*):** *"We distinguish between attraction to prepubescent children and **ephebophilia**, which centers upon post-pubertal youths."*
+> - 📜 **Havelock Ellis (*Studies in the Psychology of Sex*):** *"Classical Greek literature abundantly documents **ephebophilia** as an accepted cultural and educational institution."*
+> - 📜 **Michel Foucault (*The Use of Pleasure*):** *"The philosophical discourse surrounding Athenian **ephebophilia** interrogated the ethical mastery of desire between lovers."*

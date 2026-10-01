@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to genealogy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to genealogy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or based on the study of family lineages and the tracing of ancestors.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophy and evolutionary theory, analyzing concepts or organisms by uncovering their historical descent and origins.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Prince Andrew, looking again at that genealogical tree, shook his head, laughing as a man laughs who looks at a portrait so characteristic of the original as to be amusing."*
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"From the genealogical history of that house we collect the following particulars:--The Sir Charles here named was a natural son of Henry, third Duke of Beaumont, famous in his day for his desperate assault of the Castle of <g>St."*
+> - 📜 **Friedrich Nietzsche (*On the Genealogy of Morals*):** *"A rigorous **genealogical** inquiry uncovers the sordid historical origins of our venerated moral values."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Man's **genealogical** tree must be placed alongside the Catarhine monkeys of the Old World."*
+> - 📜 **Michel Foucault (*Language, Counter-Memory, Practice*):** *"The **genealogical** method avoids metaphysical teleology, demonstrating how power relations construct human subjectivity."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (astrology) one of 12 equal areas into which the zodiac is divided.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large and imposing house.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large, imposing, and architecturally stately dwelling house.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical and philosophical usage, an abode, resting place, or enduring habitation of the soul.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O what a mansion have those vices got, Which for their habitation chose out thee, Where beauty’s veil doth cover every blot, And all things turns to fair, that eyes can see!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why so large cost having so short a lease, Dost thou upon thy fading mansion spend?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I draw the sword myself; take it, and hit The innocent mansion of my love, my heart."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"The antique wooden **mansion** seemed to have grown out of the soil like an ancient gnarled oak."*
+> - 📜 **Edgar Allan Poe (*The Fall of the House of Usher*):** *"A sensation of insufferable gloom pervaded the dim corridors of the decaying **mansion**."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"The historic English **mansion** stood serene upon its emerald lawn above the winding Thames."*

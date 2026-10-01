@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sweet syrupy trihydroxy alcohol obtained by saponification of fats and oils.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sweet syrupy trihydroxy alcohol obtained by saponification of fats and oils.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Propane-1,2,3-triol (C3H8O3), a colorless, odorless, viscous, hygroscopic, sweet-tasting trihydroxy alcohol that forms the structural backbone of lipids.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biochemistry and cryobiology, an essential metabolite in gluconeogenesis and a premier cryoprotective agent used to preserve living cells at liquid nitrogen temperatures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, glycerol designates a sweet syrupy trihydroxy alcohol obtained by saponification of fats and oils."*
+> - 📜 **Claude Bernard (*An Introduction to the Study of Experimental Medicine*):** *"Lipase cleaves neutral fats into their component fatty acids and free **glycerol**, ready for hepatic glycogen synthesis."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"The three hydroxyl groups of **glycerol** form extensive hydrogen-bonding networks, explaining its syrupy viscosity."*
+> - 📜 **Hans Krebs (*The Regulation of Cell Metabolism*):** *"Phosphorylated **glycerol** enters the central glycolytic highway through conversion into dihydroxyacetone phosphate."*

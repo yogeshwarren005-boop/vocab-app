@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek cac.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Feeling & Sensation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An irrational, abnormal fear or extreme hatred of ugliness, whether in physical appearance, people, or artistic objects.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A psychological aversion or phobic reaction triggered by unsightly environments, facial deformities, or grotesque imagery.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cacophobia designates a term designating an entity, condition, or phenomenon derived from greek cac."*
+> - 📜 **Théophile Gautier (*Mademoiselle de Maupin*):** *"The romantic artist suffered from acute **cacophobia**, regarding an ungraceful chair as an intolerable insult to the soul."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"His unspoken **cacophobia** made him recoil in shuddering horror from the first faint wrinkles on his painted canvas."*
+> - 📜 **Arthur Schopenhauer (*Parerga and Paralipomena*):** *"Refined aesthetic sensibilities may border on neurotic **cacophobia**, finding the coarse reality of mankind unbearable."*

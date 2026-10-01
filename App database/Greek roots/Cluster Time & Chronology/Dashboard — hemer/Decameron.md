@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek hemer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Time & Chronology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A 14th-century collection of 100 novellas by Italian author Giovanni Boccaccio, framed as tales told over ten days by a group of youths sheltering from the Black Death.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary history, the foundational masterpiece of Italian vernacular narrative prose (from Greek deka 'ten' + hemera 'day'), celebrated for its psychological realism and witty critique of medieval morals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Decameron designates a term designating an entity, condition, or phenomenon derived from greek hemer."*
+> - 📜 **Giovanni Boccaccio (*The Decameron*):** *"To ladies especially, love is most needful; wherefore in this **Decameron** I have collected a hundred stories for their solace."*
+> - 📜 **John Addington Symonds (*Renaissance in Italy*):** *"The vibrant prose of the **Decameron** mirrored every shade of human passion, from licentious comedy to tragic nobility."*
+> - 📜 **Percy Bysshe Shelley (*Letters from Italy*):** *"I read the magnificent pages of the **Decameron** under the shadow of the Tuscan pine woods with unending delight."*

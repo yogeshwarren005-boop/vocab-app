@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Written in the form of or carried on by letters or correspondence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Written in the form of or carried on by letters or correspondence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to letters or letter-writing; an archaic or rare stylistic equivalent of epistolary.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical rhetoric, descriptive of the elaborate conventions, formal protocols, and ornate greetings required in classical and diplomatic correspondence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epistolatory designates written in the form of or carried on by letters or correspondence."*
+> - 📜 **Thomas De Quincey (*Confessions of an English Opium-Eater*):** *"He kept up an extensive **epistolatory** intercourse with eminent scholars scattered across the German universities."*
+> - 📜 **Walter Scott (*Guy Mannering*):** *"The Scottish solicitor managed his remote clients through voluminous **epistolatory** packets sent by stagecoach."*
+> - 📜 **Robert Southey (*The Life of Nelson*):** *"The admiral's **epistolatory** despatches were straightforward, concise, and devoid of diplomatic dissimulation."*

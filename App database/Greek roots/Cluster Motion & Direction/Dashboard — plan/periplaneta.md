@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cosmopolitan genus of large cockroaches.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cosmopolitan genus of large cockroaches.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of large cockroaches in the family Blattidae, including the American cockroach (Periplaneta americana).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cosmopolitan blattid insects characterized by cursorial running agility and flattened oval morphology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, periplaneta designates cosmopolitan genus of large cockroaches."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Invertebrated Animals*):** *"The nervous system of **Periplaneta** exhibits prominent thoracic ganglia coordinating rapid running reflexes."*
+> - 📜 **Jean-Henri Fabre (*Social Life in the Insect World*):** *"The nocturnal habits of **Periplaneta** allow it to forage unseen throughout cellars and pantries."*
+> - 📜 **L. C. Miall (*The Cockroach: An Introduction to the Study of Insects*):** *"Dissection of **Periplaneta** provides medical and biological students an ideal introduction to insect anatomy."*

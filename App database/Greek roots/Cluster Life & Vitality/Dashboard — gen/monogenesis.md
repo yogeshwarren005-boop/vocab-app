@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Asexual reproduction by the production and release of spores.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Asexual reproduction by the production and release of spores.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The theory that all human races are descended from a single ancestral pair or origin (monogenism).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The biological development of organisms from a single source or asexual parent; or the origin of a linguistic family from a single proto-language.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monogenesis designates asexual reproduction by the production and release of spores."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The evidence of comparative anatomy and embryology strongly supports the doctrine of human **monogenesis**."*
+> - 📜 **Thomas Henry Huxley (*Man's Place in Nature*):** *"Advocates of **monogenesis** rightly insisted upon the fundamental physical unity linking all varieties of mankind."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"Comparative philology seeks to ascertain whether the linguistic families point back to primeval **monogenesis**."*

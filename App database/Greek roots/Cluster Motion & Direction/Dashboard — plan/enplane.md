@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Board a plane.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Board a plane.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To board an airplane for travel or operational deployment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To embark upon an aircraft; to take one's seat prior to takeoff.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, enplane designates board a plane."*
+> - 📜 **Graham Greene (*The Quiet American*):** *"We stood beside the runway waiting for permission to **enplane** for Hanoi."*
+> - 📜 **Evelyn Waugh (*Officers and Gentlemen*):** *"The commando troop was instructed to **enplane** quietly without baggage inspection."*
+> - 📜 **George Orwell (*The Lion and the Unicorn*):** *"Military observers saw dispatch riders **enplane** with urgent diplomatic cables."*

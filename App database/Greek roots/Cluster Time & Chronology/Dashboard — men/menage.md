@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A social unit living together.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A social unit living together.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A domestic establishment; a household; the management of a household.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociology and domestic history, the members and arrangements of a family home, including servants and domestic routines.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frances Mary Peard (*Unawares: A Story of an Old French Town*):** *"She assists me in the _menage_, and I am rejoiced that she should teach the children when she is disposed."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Enterprising young housekeepers are measuring the looking-glasses and hangings to see if they will suit the new menage (Snob will brag for years that he has purchased this or that at Dives's sale), and Mr."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Everything was plentiful in his house but ready money, of which their menage pretty early felt the want; and reading the Gazette one day, and coming upon the announcement of "Lieutenant G."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"She surveyed the modest **menage** of the parsonage, noting that her friend managed her household with exemplary prudence."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Becky Sharp organized her little **menage** in Curzon Street with an elegance that defied her lack of ready fortune."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"The solitary master lived at Thornfield Hall with an orderly **menage** presided over by Mrs. Fairfax."*

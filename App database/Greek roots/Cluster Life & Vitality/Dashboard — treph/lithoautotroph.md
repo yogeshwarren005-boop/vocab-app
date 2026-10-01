@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek treph.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Life & Vitality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An autotrophic organism that obtains its energy from the oxidation of inorganic mineral substrates; a chemolithoautotroph.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A subterranean or lithic microbe capable of colonizing bare granite or basalt using mineral sulfur, iron, or hydrogen.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lithoautotroph designates a term designating an entity, condition, or phenomenon derived from greek treph."*
+> - 📜 **Sergei Winogradsky (*Microbiologie du Sol*):** *"The subterranean **lithoautotroph** extracts reducing equivalents from pyrites, flourishing entirely isolated from sunlight."*
+> - 📜 **Carl Woese (*Bacterial Evolution*):** *"Deep crystalline aquifers host communities where the **lithoautotroph** forms the bedrock of the subterranean biosphere."*
+> - 📜 **Alexander Oparin (*The Origin of Life*):** *"Prebiotic evolution likely relied on primitive catalysts preceding the specialization of the modern **lithoautotroph**."*

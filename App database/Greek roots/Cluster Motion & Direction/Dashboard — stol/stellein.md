@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek stol.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Motion & Direction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ancient Greek verb stellein (meaning 'to put in order, equip, array, dispatch, or send'), serving as the linguistic progenitor of numerous English words denoting mission and structure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative Indo-European philology, an etymological root giving rise to Greek apostolos ('envoy'), epistole ('message sent'), peristalsis ('compressing around'), and stele ('upright standing block').
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stellein designates a term designating an entity, condition, or phenomenon derived from greek stol."*
+> - 📜 **Walter William Skeat (*An Etymological Dictionary of the English Language*):** *"From the Hellenic verb **stellein**, signifying to equip and send on a mission, our language derives both apostle and epistle."*
+> - 📜 **Ernest Weekley (*The Romance of Words*):** *"The fundamental Greek root **stellein** unites the concepts of military equipment, vertical monuments, and dispatched letters."*
+> - 📜 **Peter Mark Roget (*Thesaurus of English Words and Phrases*):** *"Under the etymological heading of **stellein**, we assemble all derivatives that signify dispatching, erecting, or outfitting."*

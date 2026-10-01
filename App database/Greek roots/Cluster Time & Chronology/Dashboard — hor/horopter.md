@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek hor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Time & Chronology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The locus of all points in visual space whose images fall upon corresponding points on the retinas of both eyes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiological optics and binocular stereopsis, the curved spatial surface wherein objects are seen singly without binocular diplopia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, horopter designates a term designating an entity, condition, or phenomenon derived from greek hor."*
+> - 📜 **Hermann von Helmholtz (*Treatise on Physiological Optics*):** *"The mathematical form of the **horopter** varies from a torus to a vertical circle according to the convergence angle of the eyes."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Objects lying outside the binocular **horopter** produce double retinal images that the mind normally ignores."*
+> - 📜 **Charles Wheatstone (*Contributions to the Physiology of Vision*):** *"My experiments with the stereoscope proved that slight disparities from the theoretical **horopter** generate vivid depth perception."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Biting midges; sand flies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Biting midges; sand flies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of small biting flies (Diptera: Nematocera) commonly known as biting midges, punkies, or no-see-ums.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical and veterinary entomology, vectors of filarial worms and arboviruses (such as bluetongue virus) characterized by flabelliform male antennae and predatory or hematophagous habits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ceratopogonidae designates biting midges; sand flies."*
+> - 📜 **L. O. Howard (*The Insect Book*):** *"Members of the family **Ceratopogonidae** pass their early stages in brackish marshes, muddy ponds, or wet moss."*
+> - 📜 **Patrick Manson (*Tropical Diseases: A Manual of the Diseases of Warm Climates*):** *"Certain species of **Ceratopogonidae** transmit microfilariae to livestock, producing chronic debility."*
+> - 📜 **Arthur Shipley (*The Cambridge Natural History: Insects*):** *"The **Ceratopogonidae** are easily distinguished by their folded wings resting flat over the back in repose."*

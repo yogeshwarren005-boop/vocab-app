@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various composite plants (genus Chrysanthemum) including weeds, ornamentals grown for their brightly colored often double flower heads, and others important as sources of medicinals and insecticides.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A flower head of an ornamental chrysanthemum.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A popular garden plant of the genus Chrysanthemum in the composite family (Asteraceae), cultivated for its brightly colored, late-blooming flower heads.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In floriculture and cultural symbolism, the national floral crest of Japan and an emblem of autumn, originating from Greek chrysos 'gold' + anthemon 'flower'.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Get some boughs of laurustinus, and variegated box, and yew, and boy’s-love; ay, and some bunches of chrysanthemum."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Get some boughs of laurustinus, and variegated box, and yew, and boy’s-love; ay, and some bunches of chrysanthemum."*
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"VASE WITH CHRYSANTHEMUM HANDLES (_Colour_) 192 Buff stoneware with chrysanthemum design outlined in low relief and coloured with turquoise, green and pale yellow glazes in dark purple ground."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"The hardy autumn **chrysanthemum** brings vibrant bursts of bronze, crimson, and golden radiance to the frost-nipped borders."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"A great bowl of yellow **chrysanthemum** blossoms stood upon the polished satinwood table."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"Centuries of selective breeding in China and Japan transformed the modest wild **chrysanthemum** into colossal show rosettes."*

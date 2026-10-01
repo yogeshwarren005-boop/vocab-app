@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a philosophic manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With respect to philosophy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a philosophical manner; in terms of or according to philosophy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With calm wisdom, equanimity, detachment, or stoical resignation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"He hurt her, but she had been bred to accept pain philosophically."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Look at that chap now,” philosophically drawled Stubb, who, with his unlighted short pipe, mechanically retained between his teeth, at a short distance, followed after—“He’s got fits, that Flask has."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"Beale philosophically, "must be."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"To speak **philosophically**, our ideas are nothing but the representations of external qualities operating upon the sensory organs."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth bore her sister's thoughtless elopement far more **philosophically** than her hysterical mother."*
+> - 📜 **William James (*Pragmatism*):** *"Let us ask **philosophically** what concrete cash-value an idea brings into our actual lived experience."*

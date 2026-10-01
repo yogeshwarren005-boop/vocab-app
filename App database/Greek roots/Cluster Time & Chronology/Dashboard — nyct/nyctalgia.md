@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek nyct.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Time & Chronology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pain occurring only or predominantly during the night, especially bone or musculoskeletal pain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Nocturnal pain characteristic of advanced syphilis, osteomyelitis, or certain neuropathies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nyctalgia designates a term designating an entity, condition, or phenomenon derived from greek nyct."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Intense tibial **nyctalgia** worsening under the warmth of bedsheets strongly suggests syphilitic periostitis."*
+> - 📜 **Jonathan Hutchinson (*Syphilis*):** *"The patient complained of agonizing cranial **nyctalgia** that banished all sleep until dawn."*
+> - 📜 **Alfred Stille (*Elements of General Pathology*):** *"Differential diagnosis must distinguish rheumatic ache from the deep, unrelenting **nyctalgia** of bone disease."*

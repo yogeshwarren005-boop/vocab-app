@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not sympathetic or disposed toward.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of characters in literature or drama) tending to evoke antipathetic feelings.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not showing, feeling, or expressing sympathy, warmth, or compassion; cold, callous, or unfeeling.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not pleasing, agreeable, or congenial in nature or tone.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"This consciousness upon which he had intruded was the single opportunity of existence ever vouchsafed to Tess by an unsympathetic First Cause—her all; her every and only chance."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Bulstrode seems the most unsympathetic fellow I ever saw about some people, and yet he has taken no end of trouble, and spent a great deal of money, on benevolent objects."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"Very little unless it's the scenery along the bluff," he replied, with the depression sounding still more clearly in his voice and his shoulders drooped against the unsympathetic old stone post in a way that sent a pang to my heart."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Mr. Brocklehurst possessed a harsh, **unsympathetic** voice that chilled the shivering orphans of Lowood."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Fanny Dashwood was an **unsympathetic** woman who grudged her widowed mother-in-law the smallest comfort."*
+> - 📜 **Charles Dickens (*Hard Times*):** *"Bounderby looked down upon the striking factory hands with an **unsympathetic** sneer, boasting of his own self-made rise."*

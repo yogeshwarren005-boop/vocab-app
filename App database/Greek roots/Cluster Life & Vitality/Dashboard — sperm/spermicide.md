@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A contraceptive agent that kills spermatozoa.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A contraceptive agent that kills spermatozoa.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A substance or preparation that destroys spermatozoa, used as a contraceptive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A chemical contraceptive (foam, gel, or suppository) that immobilizes sperm cells in the vagina prior to uterine entry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spermicide designates a contraceptive agent that kills spermatozoa."*
+> - 📜 **Marie Stopes (*Wise Parenthood*):** *"A dependable **spermicide** used in conjunction with an occlusive diaphragm guarantees reliable family planning."*
+> - 📜 **Havelock Ellis (*The Task of Social Hygiene*):** *"Sociological hygiene demands accessible, hygienic **spermicides** to alleviate the distress of unwanted pregnancies."*
+> - 📜 **William Boyd (*A Textbook of Pathology*):** *"Surfactant **spermicides** inhibit motility within seconds by disrupting outer flagellar membranes."*

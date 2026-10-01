@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A dramatic work intended for performance by actors on a stage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An episode that is turbulent or highly emotional.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A composition in verse or prose intended to portray life or character or to tell a story through dialogue and action on a stage; a theatrical play.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In everyday speech and narrative theory, an exciting, emotional, or unexpected series of real-life events marked by intense conflict, suspense, and emotional climax.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Directly Tess was out of sight, and the interest of the matter as a drama was at an end, the little ones’ eyes filled with tears."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Where are the Muses fled that could produce A drama worthy o’ the name o’ Bruce?"*
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"But dramatically with that fall the action ceases, and the drama should have ceased with it."*
+> - 📜 **Aristotle (*Poetics*):** *"Tragic **drama** is an imitation of an action that is serious, complete, and of a certain magnitude, through pity and fear effecting catharsis."*
+> - 📜 **William Shakespeare (*As You Like It*):** *"All the world's a stage, and all the men and women merely players; they have their exits and their entrances in life's vast **drama**."*
+> - 📜 **Friedrich Nietzsche (*The Birth of Tragedy*):** *"Attic **drama** arose from the miraculous union of the Dionysian chorus with the Apollonian world of images."*

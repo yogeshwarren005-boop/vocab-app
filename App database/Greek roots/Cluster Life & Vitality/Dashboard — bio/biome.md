@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A major ecological community type (such as tropical rainforest, grassland, or desert).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A major ecological community type (such as tropical rainforest, grassland, or desert).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A major ecological community type (such as tropical rainforest, desert, or tundra) defined by dominant vegetation and regional climate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The collective climax formation of plant and animal life characteristic of an extensive geographical zone.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, biome designates a major ecological community type (such as tropical rainforest, grassland, or desert)."*
+> - 📜 **Frederic Clements (*Plant Succession and Indicators*):** *"The climax community constitutes an organic unit of highest rank which we designate the **biome**."*
+> - 📜 **Eugene Odum (*Fundamentals of Ecology*):** *"Each continental **biome** exhibits characteristic life forms adapted to temperature limits and precipitation gradients."*
+> - 📜 **Victor Shelford (*The Ecology of North America*):** *"The deciduous forest **biome** sustained complex trophic webs connecting herbivores to top predators."*

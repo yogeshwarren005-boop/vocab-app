@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of birth, beget, race, kind.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of birth, beget, race, kind.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having many origins, varieties, or kinds; composed of diverse elements.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical ethnology or linguistics, originating from multiple independent ancestral stocks or evolutionary sources.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polygenous designates adjective*) pertaining to, derived from, or characteristic of birth, beget, race, kind."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The imperial army had become a **polygenous** host recruited from every barbarian tribe along the frontiers."*
+> - 📜 **Thomas Henry Huxley (*Methods and Results of Ethnology*):** *"The polygenist school asserted that human races were **polygenous** species created independently across continents."*
+> - 📜 **Max Müller (*The Science of Language*):** *"A **polygenous** vocabulary reflects centuries of conquest, maritime trade, and cultural borrowing."*

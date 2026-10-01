@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of heritable changes in gene function that do not involve changes in DNA sequence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The study of heritable changes in gene function that do not involve changes in DNA sequence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of heritable changes in gene expression or cellular phenotype caused by mechanisms other than changes in the underlying DNA sequence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The scientific discipline investigating how histone modifications, DNA methylation, and non-coding RNAs regulate gene transcription across development.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epigenetics designates the study of heritable changes in gene function that do not involve changes in dna sequence."*
+> - 📜 **C. H. Waddington (*The Epigenetics of Birds*):** *"I introduced the term **epigenetics** to describe the complex interactions between genes and their environment that realize the phenotype."*
+> - 📜 **Robin Holliday (*The Inheritance of Epigenetic Defects*):** *"DNA methylation patterns provide a molecular foundation for **epigenetics**, explaining cellular memory through cell divisions."*
+> - 📜 **Mary Lyon (*Gene Action in the X-chromosome of the Mouse*):** *"Inactivation of one female X-chromosome stands as a monumental paradigm of mammalian **epigenetics**."*

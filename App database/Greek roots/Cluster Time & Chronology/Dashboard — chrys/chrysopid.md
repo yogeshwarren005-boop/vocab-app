@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pale green unpleasant-smelling lacewing fly having carnivorous larvae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pale green unpleasant-smelling lacewing fly having carnivorous larvae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any insect belonging to the family Chrysopidae; a green lacewing or golden-eyed fly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In beneficial insect entomology, delicate net-winged predators whose voracious larvae ('aphid lions') consume agricultural pests like aphids and mites.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chrysopid designates pale green unpleasant-smelling lacewing fly having carnivorous larvae."*
+> - 📜 **John Henry Comstock (*A Manual for the Study of Insects*):** *"The fragile green body and shining golden eyes make the adult **chrysopid** one of our most graceful summer insects."*
+> - 📜 **Charles Valentine Riley (*Report of the Entomologist*):** *"Growers release the hungry **chrysopid** larva into glasshouses to achieve biological suppression of greenhouse aphids."*
+> - 📜 **L. O. Howard (*The Insect Book*):** *"When handled, an adult **chrysopid** often emits a pungent, disagreeable odor to deter predators."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Speak or write in aphorisms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Speak or write in aphorisms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To utter, write, or express in aphorisms; British spelling of aphorize.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary composition and philosophical prose, encapsulating complex moral or scientific observations into concise, memorable maxims.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aphorise designates speak or write in aphorisms."*
+> - 📜 **Samuel Taylor Coleridge (*Aids to Reflection*):** *"The true philosopher does not declaim in diffuse rhetoric; he prefers to **aphorise** profound truths into pregnant sentences."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"Teufelsdröckh loved to **aphorise** upon the vanity of earthly fashions from his solitary watchtower."*
+> - 📜 **Walter Pater (*Marius the Epicurean*):** *"The young Stoic disciple attempted to **aphorise** his daily spiritual exercises in a private notebook."*

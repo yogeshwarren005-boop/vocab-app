@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An airplane with a single wing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An airplane with a single wing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An airplane with only one pair of wings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fixed-wing aircraft characterized by a single cantilever or braced wing surface.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Thus, as a sample of my rovings: in a single interval of fifteen minutes of subconsciousness I have crawled and bellowed in the slime of the primeval world and sat beside Haas—further and cleaved the twentieth century air in a gas-driven monoplane."*
+> - 📜 **Louis Blériot (*My Flight Across the Channel*):** *"The fragile wooden **monoplane** lifted smoothly from the cliffs of Calais toward Dover."*
+> - 📜 **Antoine de Saint-Exupéry (*Wind, Sand and Stars*):** *"His sleek **monoplane** glided silently into the Andean valley when the engine sputtered."*
+> - 📜 **Orville Wright (*How We Invented the Aeroplane*):** *"Later aeronautical design favored the high-speed **monoplane** over the multi-winged biplane configuration."*

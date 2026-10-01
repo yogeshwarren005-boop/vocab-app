@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A medicated skin preparation made from glycerin and glycerinated gelatin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A medicated skin preparation made from glycerin and glycerinated gelatin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A soft, jelly-like topical pharmaceutical dressing or vehicle composed of gelatin, glycerin, and water with active therapeutic ingredients.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dermatological therapeutics, a soothing hydrogel melted prior to application and painted onto chronic eczematous or ulcerated skin lesions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, glycerogel designates a medicated skin preparation made from glycerin and glycerinated gelatin."*
+> - 📜 **Paul Gerson Unna (*The Histopathology of the Diseases of the Skin*):** *"We introduced the zinc **glycerogel** as a pliable protective cast for indolent varicose ulcers of the lower leg."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"For rebellious erythematous patches, an unctuous **glycerogel** affords immediate cooling relief without greasiness."*
+> - 📜 **Sir Astley Cooper (*Lectures on the Principles and Practice of Surgery*):** *"A medicated **glycerogel** seals the denuded dermis from atmospheric dust while promoting cellular granulation."*

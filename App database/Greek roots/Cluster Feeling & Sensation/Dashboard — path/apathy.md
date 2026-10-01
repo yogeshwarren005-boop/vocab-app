@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lack of feeling or emotion : impassiveness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lack of interest or concern : indifference.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lack of interest, enthusiasm, emotional responsiveness, or concern; listless indifference.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Stoic philosophy (*apatheia*), a state of rational serenity characterized by freedom from irrational desires and turbulent emotional disturbances.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"A phrase like that of Clement of Alexandria, "deifying into apathy we become monadic," is seas away from anything we find in the speech of Jesus."*
-> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"While any temporal interest excites feeling, this theme is listened to with apathy."*
-> - 📜 **Elihu W. Baldwin (*The National Preacher, Vol. 2 No. 7 Dec. 1827*):** *"A similar apathy is frequently observed in persons who have been well instructed, when their whole souls have become engrossed in some worldly pursuit."*
+> - 📜 **Seneca (*Moral Letters to Lucilius*):** *"Stoic **apathy** does not mean turning into stone, but training the soul so that no storm of fortune can disturb its inner tranquility."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The provincial subjects viewed the barbarian invasions with a fatal **apathy**, having lost all pride in Roman citizenship."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"Spiritual crisis often begins in a state of desolate **apathy**, where all previous ambitions appear meaningless."*

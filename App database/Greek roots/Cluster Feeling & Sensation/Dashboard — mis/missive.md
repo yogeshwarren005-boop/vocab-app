@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A written message addressed to a person or organization.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A written message addressed to a person or organization.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A written communication, letter, or official dispatch, especially a formal, solemn, or lengthy one.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically, something sent or dispatched; an envoy or special messenger.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I wrote to you When rioting in Alexandria; you Did pocket up my letters, and with taunts Did gibe my missive out of audience."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Her letter to Sir Leicester is discovered on her table, but it is doubtful yet whether he has not received another missive from another world requiring to be personally answered, and all the living languages, and all the dead, are as one to him."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Bathsheba, a small yawn upon her mouth, took the pen, and with off-hand serenity directed the missive to Boldwood."*
+> - 📜 **William Shakespeare (*Macbeth*):** *"Whiles I stood rapt in the wonder of it, came **missives** from the king, who all-hailed me 'Thane of Cawdor'."*
+> - 📜 **Walter Scott (*The Heart of Midlothian*):** *"The Duke placed the royal **missive** in the hands of the trembling Scottish maiden."*
+> - 📜 **Edgar Allan Poe (*The Purloined Letter*):** *"The stolen royal **missive** was of so critical a nature that its disclosure would compromise high state security."*

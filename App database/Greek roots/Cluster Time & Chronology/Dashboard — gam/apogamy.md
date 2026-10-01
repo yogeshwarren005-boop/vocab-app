@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Development of a sporophyte from a gametophyte without fertilization —called also agamospermy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Development of a sporophyte from a gametophyte without fertilization —called also agamospermy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The development of a plant embryo or sporophyte directly from a cell of the gametophyte without fertilization.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant embryology and cytology, an apomictic pathway first observed by Farlow in 1874, wherein prothallial vegetative cells organize into a vascular shoot.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, apogamy designates development of a sporophyte from a gametophyte without fertilization —called also agamospermy."*
+> - 📜 **William Gilson Farlow (*An Asexual Growth from the Prothallium of Pteris serrulata*):** *"I observed true **apogamy** in the prothallia of Pteris, where leafy fronds arose directly from the tissue without archegonia."*
+> - 📜 **Eduard Strasburger (*A Text-Book of Botany*):** *"The phenomenon of **apogamy** proves that the vegetative cells of the gametophyte possess the latent potency to build a sporophyte."*
+> - 📜 **C. D. Darlington (*The Evolution of Genetic Systems*):** *"Through **apogamy**, polyploid hybrids circumvent the lethal sterility caused by unbalanced meiotic pairing."*

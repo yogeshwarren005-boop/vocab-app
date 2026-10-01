@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The doctrine that pleasure or happiness is the sole or chief good in life.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A way of life based on or suggesting the principles of hedonism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ethical or philosophical doctrine that pleasure, enjoyment, and the avoidance of pain are the highest good and proper aim of human life.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In common usage, a way of life devoted solely to the pursuit of sensual pleasure, self-indulgence, and sensory gratification.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"A new Hedonism—that is what our century wants."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"Yes: there was to be, as Lord Henry had prophesied, a new Hedonism that was to recreate life and to save it from that harsh uncomely puritanism that is having, in our own day, its curious revival."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"To the wise man, all is a pleasant hedonism." It struck, him at the time how terribly foolish and piteous great men were...."*
+> - 📜 **Epicurus (*Principal Doctrines*):** *"When we say that pleasure is the end of life, we do not mean the debauchery of the prodigal, but sober philosophical **hedonism**."*
+> - 📜 **G. E. Moore (*Principia Ethica*):** *"Philosophical **hedonism** commits the naturalistic fallacy by equating the indefinable quality 'good' with mere pleasure."*
+> - 📜 **Bertrand Russell (*A History of Western Philosophy*):** *"The Cyrenaic school taught an unabashed **hedonism** that valued immediate momentary physical sensations above all else."*

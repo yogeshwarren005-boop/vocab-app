@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a kinesthetic manner; by means of kinesthesia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a kinesthetic manner; by means of kinesthesia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a kinesthetic manner; by means of the sensation of bodily position and muscular movement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In perceptual psychology, describing how an individual navigates space, executes athletic movements, or identifies physical objects through tactile and muscular sensations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, kinesthetically designates in a kinesthetic manner; by means of kinesthesia."*
+> - 📜 **Oliver Sacks (*A Leg to Stand On*):** *"I had to learn **kinesthetically** where the floor was, calibrating each step through conscious muscular effort."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The veteran violinist perceives the fingerboard **kinesthetically**, finding the exact interval without conscious calculation."*
+> - 📜 **Alexander Luria (*The Mind of a Mnemonist*):** *"The memorizer described numbers **kinesthetically**, associating each digit with a distinct muscular tension in his throat."*

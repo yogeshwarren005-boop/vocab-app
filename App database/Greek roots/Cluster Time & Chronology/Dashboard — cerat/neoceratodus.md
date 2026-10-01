@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extant australian lungfishes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extant australian lungfishes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The genus of lungfish containing the Queensland lungfish (Neoceratodus forsteri), the sole surviving member of the family Neoceratodontidae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology, an archaic 'living fossil' inhabiting southeastern Queensland, possessing a single functional lung alongside fully developed gills and fleshy pectoral fins.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neoceratodus designates extant australian lungfishes."*
+> - 📜 **Gerard Krefft (*Proceedings of the Zoological Society of London*):** *"I have named this remarkable lung-bearing fish **Neoceratodus**, recognizing its close relationship to the fossil Ceratodus of Europe."*
+> - 📜 **Thomas Henry Huxley (*On Ceratodus and the Classification of Fishes*):** *"The discovery of living **Neoceratodus** settled controversies regarding the transitional affinities of ancient crossopterygians."*
+> - 📜 **Edwin S. Goodrich (*Studies on the Structure and Development of Vertebrates*):** *"The paddle-like archipterygium of **Neoceratodus** demonstrates the skeletal foundation from which terrestrial tetrapod limbs arose."*

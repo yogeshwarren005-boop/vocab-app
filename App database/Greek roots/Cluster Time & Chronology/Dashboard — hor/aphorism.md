@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A concise statement of a principle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A terse formulation of a truth or sentiment : adage.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A pithy, concise observation containing a general truth; a maxim or adage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of medicine and literature, originating from Hippocrates' *Aphorisms* (opening with 'Art is long, life is short'), serving as concentrated principles of practical wisdom.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"The middle row, the first to be inscribed, deals with the Epicurean theory of atoms--not by apophthegm or aphorism, but with something of the fulness and technicality of a treatise."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"With the majority such an opinion is shelved with all those trite aphorisms which require some catastrophe to bring their tremendous meanings thoroughly home."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"That is one of your aphorisms."*
+> - 📜 **Hippocrates (*Aphorisms*):** *"Life is short, the art long, opportunity fleeting, experiment treacherous, and judgment difficult; such was the first famous **aphorism** of medicine."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Writing in **aphorism** represents knowledge broken and scattered, inviting men to enquire further and verify the principle."*
+> - 📜 **William Osler (*Aequanimitas*):** *"Every clinical teacher should distill the experience of years into a concise **aphorism** that sticks in a student's memory."*

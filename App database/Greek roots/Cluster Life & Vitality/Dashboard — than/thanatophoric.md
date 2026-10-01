@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of death.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of death.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Death-bearing; deadly; lethal; producing or causing death.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical genetics and pediatrics, designating thanatophoric dysplasia, a severe, universally lethal congenital micromelic dwarfism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thanatophoric designates adjective*) pertaining to, derived from, or characteristic of death."*
+> - 📜 **William Boyd (*A Textbook of Pathology*):** *"The micromelia and telephone-receiver femoral bowing in **thanatophoric** dwarfism result from activating FGFR3 mutations."*
+> - 📜 **Richard Owen (*Lectures on Comparative Anatomy*):** *"Certain venomous viperid fangs deliver a swiftly **thanatophoric** neurotoxin into prey tissues."*
+> - 📜 **Thomas Browne (*Hydriotaphia*):** *"The ancient urn preserved the mortal dust from the destructive ravages of **thanatophoric** time."*

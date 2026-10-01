@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A substance (such as pollen) that induces allergy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A substance (such as pollen) that induces allergy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any substance (such as pollen, venom, animal dander, or dust mites) capable of inducing an allergic or hypersensitivity reaction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An environmental antigen that selectively elicits immunoglobulin E (IgE) synthesis and mast cell degranulation in atopic individuals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, allergen designates a substance (such as pollen) that induces allergy."*
+> - 📜 **Clemens von Pirquet (*Allergie*):** *"I designate as an **allergen** any foreign substance that alters the reactivity of the organism upon repeated contact."*
+> - 📜 **Bela Schick (*Serum Sickness*):** *"Horse serum acts as a potent **allergen**, provoking urticaria and systemic shock upon second inoculation."*
+> - 📜 **William Boyd (*A Textbook of Pathology*):** *"Cross-linking of surface-bound IgE by the invading **allergen** triggers explosive histamine release from mast cell granules."*

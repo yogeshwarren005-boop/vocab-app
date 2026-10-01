@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek odyn.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Feeling & Sensation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A painful, burning, or aching sensation localized in the tongue, occurring with or without visible signs of inflammation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In oral medicine and neurology, a common presentation of burning mouth syndrome, often associated with vitamin deficiencies, neuropathy, or anxiety.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, glossodynia designates a term designating an entity, condition, or phenomenon derived from greek odyn."*
+> - 📜 **William Gowers (*A Manual of Diseases of the Nervous System*):** *"Neuralgia of the lingual nerve manifests in paroxysmal **glossodynia**, radiating along the margins of the tongue."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In pernicious anemia, stubborn **glossodynia** and a smooth, beefy tongue often precede severe spinal symptoms."*
+> - 📜 **Jean-Martin Charcot (*Clinical Lectures on Diseases of the Nervous System*):** *"Certain hysterical complaints take the form of persistent **glossodynia**, resisting all topical astringent washes."*

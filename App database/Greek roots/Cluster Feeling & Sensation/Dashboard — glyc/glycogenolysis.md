@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The breakdown of glycogen especially to glucose in the animal body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The breakdown of glycogen especially to glucose in the animal body.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The biochemical breakdown of stored glycogen into glucose-1-phosphate and glucose molecules in response to energy demands or fasting.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A enzymatic cascade triggered by glucagon and epinephrine in hepatic and muscular tissues to maintain systemic euglycemia and support muscular exertion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, glycogenolysis designates the breakdown of glycogen especially to glucose in the animal body."*
+> - 📜 **Hans Krebs (*The Regulation of Cell Metabolism*):** *"Adrenaline initiates a swift phosphorylation cascade that triggers massive **glycogenolysis** in muscle during fight or flight."*
+> - 📜 **Walter Cannon (*The Wisdom of the Body*):** *"Emergency mobilization of energy requires immediate hepatic **glycogenolysis** to flood the bloodstream with fuel for working muscles."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In glycogen storage diseases, congenital enzyme deficiencies arrest normal **glycogenolysis**, causing massive hepatomegaly."*

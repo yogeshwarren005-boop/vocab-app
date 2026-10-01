@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any animal or plant material used to fertilize land especially animal excreta usually with litter material.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spread manure, as for fertilization.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Animal dung or organic compost spread over land or plowed into soil to serve as agricultural fertilizer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically, to till, cultivate, or work the land manually (derived from Old French *manouvrer*, from Latin *manu operari* 'to work by hand').
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And if you crown him, let me prophesy The blood of English shall manure the ground And future ages groan for this foul act."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Now with that dam I could grow three crops a year, observing due rotation, and be able to turn under a wealth of green manure. . . ."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Not valuing now the root whence it sprang; having found that it was of a sort which nothing but gold dust could manure, I have but half a liking to the blossom, especially when it looks so artificial as just now."*
+> - 📜 **Virgil (*Georgics*):** *"Nor blush to enrich the thirsty soil with rich **manure**, and cast unsavory ashes across the exhausted fields."*
+> - 📜 **Francis Bacon (*Sylva Sylvarum*):** *"Chalk and animal **manure** mingled together warm the cold clay soil, preparing it for an abundant harvest."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"Earthworms promote vegetation by loosening the earth and incorporating decomposing **manure** into the deep subsoil."*

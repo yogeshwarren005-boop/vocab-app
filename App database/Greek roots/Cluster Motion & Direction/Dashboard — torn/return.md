@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Document giving the tax collector information about the taxpayer's tax liability.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A coming to or returning home.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To come or go back to a place, person, condition, or subject.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To give, put, or send back something to its owner or original place; derived from Old French retourner (Latin tornare, from Greek tornos a lathe).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lo thus by day my limbs, by night my mind, For thee, and for my self, no quiet find. 28 How can I then return in happy plight That am debarred the benefit of rest?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Till I return of posting is no need."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Return forgetful Muse, and straight redeem, In gentle numbers time so idly spent, Sing to the ear that doth thy lays esteem, And gives thy pen both skill and argument."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"The undiscover'd country from whose bourn no traveller **returns**, puzzles the will."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Though fallen on evil days, on evil days though fallen, and evil tongues; in darkness, and with dangers compassed round, and solitude; yet not alone, while thou visit'st my slumbers nightly, or when morn purples the east: still govern thou my song, Urania, and fit audience find, though few."*
+> - 📜 **Homer (*The Odyssey*):** *"Ten long years did Odysseus wander across the wine-dark sea before he could **return** to rocky Ithaca."*

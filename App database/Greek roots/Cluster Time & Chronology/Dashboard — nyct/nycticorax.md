@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Old world night herons.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Old world night herons.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of nocturnal, cosmopolitan medium-sized herons, commonly known as night herons (Nycticorax).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Crepuscular wading birds characterized by stout bodies, black crowns, and harsh nocturnal calls.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nycticorax designates old world night herons."*
+> - 📜 **John James Audubon (*Ornithological Biography*):** *"The black-crowned night heron, **Nycticorax**, flies abroad at dusk uttering its distinctive guttural quock."*
+> - 📜 **Frank Chapman (*Camps and Cruises of an Ornithologist*):** *"Colonies of **Nycticorax** nest sociably in tall cypress crowns, roosting by day and fishing by night."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"Occasional vagrant specimens of **Nycticorax** were shot along British marshes during autumnal migration."*

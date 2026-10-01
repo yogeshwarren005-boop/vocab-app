@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Two species: golden chinkapins.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Two species: golden chinkapins.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small genus of evergreen trees and shrubs in the beech family (Fagaceae) native to the western United States, commonly called chinquapin or golden chinquapin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dendrology and systematic botany, Pacific Coast trees distinguished by leaves with dense, golden-yellow scales on their undersides and spiny, burr-enclosed nuts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chrysolepis designates two species: golden chinkapins."*
+> - 📜 **Asa Gray (*Synoptical Flora of North America*):** *"The evergreen foliage of **Chrysolepis** is rendered conspicuous by the powdery golden scales lining the lower surface of every leaf."*
+> - 📜 **John Muir (*The Mountains of California*):** *"On high mountain slopes, the dwarf **Chrysolepis** forms dense, impenetrable brush mats resilient beneath heavy snowfalls."*
+> - 📜 **Charles Sprague Sargent (*The Silva of North America*):** *"The golden chinquapin, **Chrysolepis**, bears a sharp, bristling burr containing edible, sweet chestnut-like nuts."*

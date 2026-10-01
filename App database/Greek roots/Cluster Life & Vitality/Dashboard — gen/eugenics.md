@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The practice or advocacy of controlled selective breeding of human populations (as by sterilization) to improve the populations' genetic composition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The practice or advocacy of controlled selective breeding of human populations (as by sterilization) to improve the populations' genetic composition.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The social movement and philosophy advocating the improvement of human genetic qualities through selective reproduction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A historical scientific and ideological movement in the 19th and 20th centuries that promoted forced sterilization, institutionalization, and selective breeding.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This is the problem of eugenics, the choice and biologic breeding of capable men to be the citizens of the nation, and broadly understood, it includes both the negro and the immigrant problems.] [Footnote 2: See Vol."*
-> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"You can understand that; it is a plain proposition in eugenics."*
+> - 📜 **Francis Galton (*Memories of My Life*):** *"I coined the word **eugenics** to express the science of improving stock, whether in animals or man."*
+> - 📜 **Stephen Jay Gould (*The Mismeasure of Man*):** *"The tragedy of American **eugenics** culminated in the Buck v. Bell ruling, legitimizing compulsory sterilization of the vulnerable."*
+> - 📜 **G. K. Chesterton (*Eugenics and Other Evils*):** *"Modern **eugenics** is not a science, but an arrogant terrorism wielded by self-appointed oligarchs over the poor."*

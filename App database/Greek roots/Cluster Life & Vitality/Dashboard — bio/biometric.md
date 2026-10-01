@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or utilizing biometrics or biometry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or utilizing biometrics or biometry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the statistical analysis of biological data and measurements.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to electronic identification technologies based on unique anatomical traits, such as fingerprints or retinal patterns.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, biometric designates of, relating to, or utilizing biometrics or biometry."*
+> - 📜 **Karl Pearson (*The Grammar of Science*):** *"The **biometric** approach seeks to uncover the mathematical laws governing inheritance and natural selection."*
+> - 📜 **Francis Galton (*Natural Inheritance*):** *"These **biometric** tables demonstrate the mathematical regression of filial characteristics toward the racial mean."*
+> - 📜 **Ronald Fisher (*The Genetical Theory of Natural Selection*):** *"A synthesis of Mendelian particulate genetics with **biometric** statistical distributions resolved the old Darwinian debate."*

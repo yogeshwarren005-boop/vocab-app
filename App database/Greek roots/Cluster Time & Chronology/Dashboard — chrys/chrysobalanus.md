@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Coco plums.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Coco plums.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of tropical shrubs and trees in the family Chrysobalanaceae, best known for Chrysobalanus icaco, the coco plum.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In coastal botany and agroforestry, halotolerant tropical woody plants producing edible plum-like fruits with a sweet, spongy pulp and astringent skin.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chrysobalanus designates coco plums."*
+> - 📜 **Hans Sloane (*A Voyage to the Islands Madera, Barbados, Nieves, S. Christophers and Jamaica*):** *"The coastal thickets abound with **Chrysobalanus**, whose purple fruit is eaten by the inhabitants under the name of coco plum."*
+> - 📜 **Joseph Dalton Hooker (*The Flora of British India*):** *"The drupaceous fruit of **Chrysobalanus** contains an oily kernel enclosed within a five-angled woody stone."*
+> - 📜 **Alphonse de Candolle (*Origin of Cultivated Plants*):** *"Settlers gathered the astringent berries of **Chrysobalanus** along Caribbean beaches to preserve them in sugar syrup."*

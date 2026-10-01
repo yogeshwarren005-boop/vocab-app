@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A science that deals with matter and energy and their interactions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The physical processes and phenomena of a particular system.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of science concerned with the nature and properties of matter and energy, including mechanics, heat, light, radiation, electricity, and magnetism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically, the systematic study of all natural phenomena and material bodies; modern fundamental science exploring the foundational constituents of the cosmos.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The labour we delight in physics pain."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is a gallant child; one that indeed physics the subject, makes old hearts fresh."*
-> - 📜 **Benedictus de Spinoza (*On the Improvement of the Understanding*):** *"Used, in part, with kind permission from: http://www.physics.wisc.edu/~shalizi/Spinoza/TIE/ 2."*
+> - 📜 **Aristotle (*Physics*):** *"Natural science or **physics** must take as its starting point the study of nature, which is a principle of motion and change."*
+> - 📜 **Isaac Newton (*Philosophiae Naturalis Principia Mathematica*):** *"Mathematical principles establish the foundation upon which the true **physics** of celestial bodies is reared."*
+> - 📜 **Niels Bohr (*Atomic Theory and the Description of Nature*):** *"The task of **physics** is not to find out how nature is, but what we can say about nature."*

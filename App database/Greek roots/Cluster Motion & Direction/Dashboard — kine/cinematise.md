@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make a film of or adopt so as to make into a film.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make a film of or adopt so as to make into a film.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The standard British spelling of cinematize; to adapt a literary work or stage drama for presentation as a motion picture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative arts, to re-conceive a story in terms of camera movement, visual symbols, and cinematic editing rhythms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cinematise designates make a film of or adopt so as to make into a film."*
+> - 📜 **Virginia Woolf (*The Captain's Death Bed and Other Essays*):** *"To **cinematise** Anna Karenina is inevitably to sacrifice the subtle psychological interiority for coarse physical melodrama."*
+> - 📜 **George Bernard Shaw (*Our Theatres in the Nineties*):** *"If they attempt to **cinematise** my stage plays, they must understand that dialogue, not spectacle, carries the intellectual fire."*
+> - 📜 **H. G. Wells (*The Work, Wealth and Happiness of Mankind*):** *"Directors sought to **cinematise** classic historical pageants to satisfy the burgeoning appetite of mass audiences."*

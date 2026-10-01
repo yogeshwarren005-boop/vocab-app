@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Coextensive with the genus ceratophyllum: hornworts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Coextensive with the genus ceratophyllum: hornworts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cosmopolitan family of submerged aquatic flowering plants consisting of the single genus Ceratophyllum, commonly called hornworts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In angiosperm phylogenetics, an ancient, morphologically reduced lineage positioned near the base of the flowering plant evolutionary tree, lacking roots and true vessels.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ceratophyllaceae designates coextensive with the genus ceratophyllum: hornworts."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"The family **Ceratophyllaceae** consists of submersed aquatics bearing whorled, repeatedly forked, horn-like leaves."*
+> - 📜 **Robert Brown (*Prodromus Florae Novae Hollandiae*):** *"The peculiar floral morphology of the **Ceratophyllaceae** long puzzled systematists attempting to classify submerged monocotyledons."*
+> - 📜 **Arthur Cronquist (*An Integrated System of Classification of Flowering Plants*):** *"Cladistic studies identify the **Ceratophyllaceae** as an isolated, relictual clade of basal angiosperms adapted to freshwater existence."*

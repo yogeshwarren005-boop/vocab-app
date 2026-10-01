@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or related to or exhibiting allotropism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or related to or exhibiting allotropism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An archaic or formal variant of allotropic; relating to or characterized by allotropy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nineteenth-century chemical literature, used to describe elements possessing multiple isomeric or structural modifications.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, allotropical designates of or related to or exhibiting allotropism."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"The gas ozone was suspected by early investigators to be an **allotropical** modification of condensed atmospheric oxygen."*
+> - 📜 **Thomas Graham (*Elements of Inorganic Chemistry*):** *"The **allotropical** states of elementary bodies demonstrate that physical properties depend as much upon molecular grouping as upon atomic mass."*
+> - 📜 **Robley Dunglison (*Medical Lexicon*):** *"Red phosphorus is an **allotropical** condition of the element, possessing neither the luminescence nor the violent toxicity of the yellow form."*

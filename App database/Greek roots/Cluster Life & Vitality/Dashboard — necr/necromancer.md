@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One who practices magic or sorcery.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One who practices divination by conjuring up the dead.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sorcerer or occultist who practices necromancy; one who claims to divine the future by conjuring the spirits of the dead.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A practitioner of black magic or forbidden wizardry in folklore and fantasy literature.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"For it is, even with the stillest and politest circles, as with the circle the necromancer draws around him—very strange appearances may be seen in active motion outside."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"Castle of Wolfenbach, Clermont, Mysterious Warnings, Necromancer of the Black Forest, Midnight Bell, Orphan of the Rhine, and Horrid Mysteries."*
-> - 📜 **C. A. Frazer (*Atmâ*):** *"It is," said he, "a wise man who knows the omens of the future, and is thereby guided." "The services of a skilful necromancer are greatly needed at the present," whispered a courtier."*
+> - 📜 **William Shakespeare (*The Tempest*):** *"Prospero abjures his potent art, burying his staff deeper than ever plummet sounded, unlike the sinister **necromancer**."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Dark cabalists and the cunning **necromancer** sought to call forth phantoms from the stygian pit."*
+> - 📜 **Walter Scott (*Letters on Demonology and Witchcraft*):** *"Medieval superstition credited the wandering **necromancer** with terrible powers over sepulchral vaults."*

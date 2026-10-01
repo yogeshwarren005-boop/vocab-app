@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek phil.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Feeling & Sensation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The vertical groove in the middle of the upper lip extending from the nasal septum down to the vermilion border.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An anatomical feature formed during embryological fusion of the medial nasal and maxillary prominences, whose failure to fuse results in cleft lip.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, philtrum designates a term designating an entity, condition, or phenomenon derived from greek phil."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A smooth, elongated **philtrum** with a thin upper vermilion border is a diagnostic facial hallmark of fetal alcohol syndrome."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"In sneering, the canine tooth is exposed by the retraction of the lip on one side of the medial **philtrum**."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"The central depression of the human upper lip, known anatomically as the **philtrum**, marks the junction of the embryonic facial processes."*

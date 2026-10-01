@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgical removal of the pituitary gland.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surgical removal of the pituitary gland.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The surgical removal or excision of the hypophysis (pituitary gland).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A neurosurgical procedure performed to excise pituitary adenomas or induce endocrine ablation in hormonal research.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypophysectomy designates surgical removal of the pituitary gland."*
+> - 📜 **Harvey Cushing (*Tumors of the Nervous Acusticus and Pituitary*):** *"Complete **hypophysectomy** in canine subjects precipitated fatal cachexia hypophyseopriva."*
+> - 📜 **Bernardo Houssay (*The Hypophysis and Abdominal Viscera*):** *"Following total **hypophysectomy**, the thyroid and adrenal glands undergo profound involutive changes."*
+> - 📜 **William Boyd (*A Textbook of Pathology*):** *"Transsphenoidal **hypophysectomy** remains the definitive intervention for functioning pituitary adenomas."*

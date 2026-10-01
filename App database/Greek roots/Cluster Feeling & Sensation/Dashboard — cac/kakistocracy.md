@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek cac.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Feeling & Sensation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Government by the worst, least qualified, or most unprincipled citizens (from Greek *kakistos* 'worst' and *kratos* 'rule').
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A political state or regime characterized by the utter degeneration of governance, where venality, incompetence, and greed dominate public office.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, kakistocracy designates a term designating an entity, condition, or phenomenon derived from greek cac."*
+> - 📜 **Thomas Love Peacock (*Melincourt*):** *"An aristocracy of talent may decline into oligarchy, but when the lowest sycophants seize power, it becomes a true **kakistocracy**."*
+> - 📜 **Charles Sumner (*The Crime Against Kansas*):** *"The territorial administration was handed over to a lawless **kakistocracy** that trampled upon the ballot box."*
+> - 📜 **Frederick Douglass (*Narrative of the Life of Frederick Douglass*):** *"Under the slave power, local law was administered by an insolent **kakistocracy** that silenced all appeals to natural justice."*

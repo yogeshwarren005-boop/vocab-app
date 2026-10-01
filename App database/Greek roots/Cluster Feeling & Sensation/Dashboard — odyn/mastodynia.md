@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek odyn.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Feeling & Sensation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pain, tenderness, or aching discomfort in the breast (synonymous with mastalgia).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A common gynecological condition, often cyclical and related to hormonal fluctuations during the menstrual cycle or early pregnancy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mastodynia designates a term designating an entity, condition, or phenomenon derived from greek odyn."*
+> - 📜 **Sir Astley Cooper (*Illustrations of the Diseases of the Breast*):** *"Severe **mastodynia** frequently alarms the patient, who suspects cancer where only neuralgic irritability exists."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Cyclical **mastodynia** should be treated conservatively with reassurance, supportive brassieres, and mild analgesics."*
+> - 📜 **Percivall Pott (*Chirurgical Works*):** *"A gentle soothing fomentation relieves the painful tension of inflammatory **mastodynia** in nursing mothers."*

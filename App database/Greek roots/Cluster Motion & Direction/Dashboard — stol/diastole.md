@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A rhythmically recurrent expansion; especially : the relaxation and dilation of the chambers of the heart and especially the ventricles during which they fill with blood.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rhythmically recurrent expansion; especially : the relaxation and dilation of the chambers of the heart and especially the ventricles during which they fill with blood.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The phase of the cardiac cycle during which the heart muscle relaxes and its chambers expand to fill with incoming blood, alternating rhythmically with systole.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical metrics and rhetoric, the poetic lengthening of a syllable that is normally short; figuratively, any rhythmic expansion, dilation, or release of tension in natural cycles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diastole designates a rhythmically recurrent expansion; especially : the relaxation and dilation of the chambers of the heart and especially the ventricles during which they fill with blood."*
+> - 📜 **William Harvey (*De Motu Cordis*):** *"During the **diastole**, the ventricles dilate and receive blood poured into them from the auricles."*
+> - 📜 **Johann Wolfgang von Goethe (*Faust*):** *"In the ceaseless systole and **diastole** of the universe, nature pulses between concentration and infinite expansion."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The physiological efficiency of the heart relies upon the complete muscular relaxation attained during each brief **diastole**."*

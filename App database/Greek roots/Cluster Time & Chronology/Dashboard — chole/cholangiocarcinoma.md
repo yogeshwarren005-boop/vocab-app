@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek chole.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Time & Chronology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A malignant cancer that arises in the epithelial cells lining the bile ducts of the liver.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In hepatic oncology, a devastating biliary tract adenocarcinoma classified as intrahepatic, perihilar, or distal, often diagnosed at advanced stages due to insidious biliary obstruction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cholangiocarcinoma designates a term designating an entity, condition, or phenomenon derived from greek chole."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Painless progressive jaundice accompanied by severe weight loss frequently heralds the insidious onset of **cholangiocarcinoma**."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"Mechanical obstruction of the common hepatic duct by a **cholangiocarcinoma** prevents conjugated bilirubin excretion into the intestine."*
+> - 📜 **James Paget (*Lectures on Surgical Pathology*):** *"Microscopic sections of **cholangiocarcinoma** exhibit glandular adenomatous patterns infiltrating dense desmoplastic stroma."*

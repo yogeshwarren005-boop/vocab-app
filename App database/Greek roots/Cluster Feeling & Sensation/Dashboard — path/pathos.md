@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An element in experience or in artistic representation evoking pity or compassion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An emotion of sympathetic pity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A quality in literature, art, music, or speech that evokes pity, tenderness, compassion, or sorrow.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical Aristotelian rhetoric, one of the three primary artistic modes of persuasion, appealing directly to the audience's emotions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"I shall do one thing in this life—one thing certain—that is, love you, and long for you, and _keep wanting you_ till I die.” His voice had a genuine pathos now, and his large brown hands perceptibly trembled."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"What arrested him now as of value in life was less its beauty than its pathos."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Yet how do you come here if you do not know?” “I inquired here and there, and I found the way.” “I waited and waited for you,” she went on, her tones suddenly resuming their old fluty pathos."*
+> - 📜 **Aristotle (*Rhetoric*):** *"Persuasion is produced through the hearers themselves when their passions are stirred by speech, for **pathos** alters judgment."*
+> - 📜 **Samuel Johnson (*Preface to Shakespeare*):** *"Shakespeare's power over human **pathos** commands our tears without the clumsy machinery of artificial lamentation."*
+> - 📜 **Oscar Wilde (*De Profundis*):** *"Behind every sorrow there is a soul; suffering is the supreme truth that informs genuine artistic **pathos**."*

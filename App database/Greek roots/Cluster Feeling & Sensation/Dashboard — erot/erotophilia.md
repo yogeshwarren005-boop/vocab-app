@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek erot.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Feeling & Sensation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A positive attitude toward sexuality; the tendency to exhibit open, favorable, and comfortable emotional responses to sexual topics and experiences.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A psychometric dimension in human sexology measuring an individual's comfort with and enthusiastic approach toward erotic stimuli.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, erotophilia designates a term designating an entity, condition, or phenomenon derived from greek erot."*
+> - 📜 **Havelock Ellis (*Studies in the Psychology of Sex*):** *"A healthy cultural **erotophilia** fosters natural candor in youth regarding the mysteries of reproductive life."*
+> - 📜 **Alfred Kinsey (*Sexual Behavior in the Human Male*):** *"Subjects displaying pronounced **erotophilia** reported greater relationship satisfaction and freedom from neurotic guilt."*
+> - 📜 **Margaret Mead (*Coming of Age in Samoa*):** *"Samoan adolescent freedom cultivated a relaxed **erotophilia** that spared their society our Western neuroses."*

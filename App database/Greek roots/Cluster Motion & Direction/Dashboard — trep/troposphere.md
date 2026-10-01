@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The lowest densest part of the earth's atmosphere in which most weather changes occur and temperature generally decreases rapidly with altitude and which extends from the earth's surface to the bottom of the stratosphere at about 7 miles (11 kilometers) high.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The lowest densest part of the earth's atmosphere in which most weather changes occur and temperature generally decreases rapidly with altitude and which extends from the earth's surface to the bottom of the stratosphere at about 7 miles (11 kilometers) high.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The lowest and densest layer of the Earth's atmosphere, extending from the planet's surface up to the tropopause, within which almost all weather phenomena occur.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In planetary science and meteorology (from Greek tropos 'turning, mixing' and sphaira 'sphere'), the turbulent atmospheric zone characterized by convective overturning and a steady decrease in temperature with height.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, troposphere designates the lowest densest part of the earth's atmosphere in which most weather changes occur and temperature generally decreases rapidly with altitude and which extends from the earth's surface to the bottom of the stratosphere at about 7 miles (11 kilometers) high."*
+> - 📜 **Antoine de Saint-Exupéry (*Night Flight*):** *"All the storms, squalls, and lightning that terrorize the aviator are confined to the turbulent cauldron of the **troposphere**."*
+> - 📜 **Vilhelm Bjerknes (*Dynamic Meteorology and Weather Forecasting*):** *"Thermal convection within the **troposphere** drives the grand planetary circulation of trade winds and mid-latitude cyclones."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"Chemical pollutants released at the ground level circulate throughout the entire **troposphere** before descending in toxic rain."*

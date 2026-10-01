@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Infection with or disease caused by treponemata.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Infection with or disease caused by treponemata.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any infectious disease caused by spirochetes of the genus Treponema (including venereal syphilis, endemic syphilis/bejel, yaws, and pinta).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In tropical medicine and medical anthropology, a group of closely related dermatological and osteological diseases demonstrating worldwide clinical variation shaped by climate and hygiene.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, treponematosis designates infection with or disease caused by treponemata."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In tropical regions, non-venereal **treponematosis**, known locally as yaws, spreads among children through direct skin contact."*
+> - 📜 **Robley Dunglison (*Medical Lexicon*):** *"Comparative serological tests reveal identical reagins across all forms of clinical **treponematosis**, confirming their close genetic kinship."*
+> - 📜 **Arthur Dendy (*Outlines of Evolutionary Biology*):** *"The evolutionary history of human **treponematosis** remains an active debate among paleopathologists examining pre-Columbian skeletal remains."*

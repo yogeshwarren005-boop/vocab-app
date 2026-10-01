@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of touch.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of touch.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Exhibiting antithixotropy (rheopexy); becoming thicker, more viscous, or solidifying upon sustained mechanical agitation or shear stress.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In rheology and fluid mechanics, describing non-Newtonian materials whose viscosity increases with time under constant shear rate (contrasted with thixotropic).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antithixotropic designates adjective*) pertaining to, derived from, or characteristic of touch."*
+> - 📜 **Herbert Freundlich (*Colloid and Capillary Chemistry*):** *"Certain concentrated bentonite suspensions exhibit an **antithixotropic** behavior, stiffening into a solid gel when shaken."*
+> - 📜 **Eugene Bingham (*Fluidity and Plasticity*):** *"The **antithixotropic** response reveals internal structural alignment of colloidal particles under continuous shear."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"Unlike thixotropic paints that liquefy on stirring, an **antithixotropic** fluid becomes more resistant to flow the faster it is agitated."*

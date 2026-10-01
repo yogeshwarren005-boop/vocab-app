@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ger.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Time & Chronology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The aristocratic council of elders in ancient Sparta, composed of twenty-eight men over sixty years of age and the two Spartan kings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical Greek political history, the supreme deliberative and judicial council established by Lycurgus that held lifelong veto power over the Spartan popular assembly.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gerousia designates a term designating an entity, condition, or phenomenon derived from greek ger."*
+> - 📜 **Plutarch (*Parallel Lives: Life of Lycurgus*):** *"Lycurgus established the **gerousia**, choosing twenty-eight elders of proven virtue to temper the rash impulses of the populace."*
+> - 📜 **Aristotle (*Politics*):** *"The Spartan **gerousia** possessed supreme judicial authority, trying capital offenses without appeal to ordinary courts."*
+> - 📜 **George Grote (*A History of Greece*):** *"Admission into the **gerousia** was the highest civic prize in Sparta, attained only after a lifetime of military obedience."*

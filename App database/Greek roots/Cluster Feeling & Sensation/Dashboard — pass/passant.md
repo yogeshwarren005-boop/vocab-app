@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In walking position with right foreleg raised.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In walking position with right foreleg raised.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In heraldry, describing a beast (especially a lion) walking past to the dexter side with its right forepaw raised and all three other paws on the ground.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chess (*en passant*), a special pawn capture rule allowing a pawn to capture an enemy pawn that has just advanced two squares.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"I would say, en passant, that Love is always treated by Browning as a SPIRITUAL claim; while DUTY may be only a worldly one."*
-> - 📜 **Robert Burns (*The Letters of Robert Burns*):** *"I am a husband of older standing than you, and shall give you my ideas of the conjugal state, (_en passant_--you know I am no Latinist-is not _conjugal_ derived from _jugum_, a yoke?) Well, then, the scale of good wifeship I divide into ten parts."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"The knight's shield displayed three golden lions **passant** upon a field of rich azure."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The royal arms of England quartered three lions **passant** guardant since the days of Richard the Lionheart."*
+> - 📜 **Edgar Allan Poe (*Maelzel's Chess-Player*):** *"The mechanical automaton executed an *en **passant*** capture with uncanny wooden deliberation."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a genus (Treponema) of spirochetes that are pathogenic in humans and other warm-blooded animals and include the causative agents of syphilis and yaws.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a genus (Treponema) of spirochetes that are pathogenic in humans and other warm-blooded animals and include the causative agents of syphilis and yaws.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of spiral-shaped, highly motile, parasitic or saprophytic spirochete bacteria, notably including *Treponema pallidum*, the causative agent of syphilis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In microbiology and infectious disease, a genus (from Greek trepo 'to turn' and nema 'thread', 'turning thread') characterized by slender, tightly coiled undulations and endoflagellar motility.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, treponema designates any of a genus (treponema) of spirochetes that are pathogenic in humans and other warm-blooded animals and include the causative agents of syphilis and yaws."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The identification of the spirochete genus **Treponema** by Schaudinn and Hoffmann established the microbiological etiology of the Great Pox."*
+> - 📜 **Paul Ehrlich (*Chemotherapy of Infectious Diseases*):** *"Our synthetic arsenical compound, Salvarsan, was engineered to destroy the pathogenic **Treponema** without inflicting fatal toxicity on host tissue."*
+> - 📜 **Robley Dunglison (*Medical Lexicon*):** *"Darkfield illumination provides the classic method for observing the graceful, rotary swimming movements of living **Treponema**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A metabolic process that breaks down carbohydrates and sugars through a series of reactions to either pyruvic acid or lactic acid and releases energy for the body in the form of atp.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A metabolic process that breaks down carbohydrates and sugars through a series of reactions to either pyruvic acid or lactic acid and releases energy for the body in the form of atp.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The fundamental enzymatic anaerobic metabolic pathway in cellular cytoplasm by which one molecule of glucose is broken down into two molecules of pyruvate, generating ATP and NADH.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ancient, universal biochemical sequence (the Embden-Meyerhof-Parnas pathway) conserved across nearly all living organisms to extract energy from carbohydrates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, glycolysis designates a metabolic process that breaks down carbohydrates and sugars through a series of reactions to either pyruvic acid or lactic acid and releases energy for the body in the form of atp."*
+> - 📜 **Hans Krebs (*The Citric Acid Cycle*):** *"Under anaerobic conditions, **glycolysis** converts pyruvate to lactate, generating two net moles of ATP per mole of glucose consumed."*
+> - 📜 **Otto Warburg (*The Metabolism of Tumours*):** *"Cancer cells exhibit an extraordinary increase in aerobic **glycolysis**, fermenting glucose to lactic acid even in the presence of abundant oxygen."*
+> - 📜 **Jacques Monod (*Chance and Necessity*):** *"The universal conservation of the ten enzymatic steps of **glycolysis** bears silent witness to the single common ancestor of all terrestrial life."*

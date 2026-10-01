@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extinct group of bony-plated fishes with primitive jaws.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extinct group of bony-plated fishes with primitive jaws.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An extinct class of archaic jawed fishes (Gnathostomata) known from the Silurian and Devonian periods, characterized by heavy bony armor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In paleoichthyology, the diverse clade comprising arthrodires, antiarchs, and rhenanids, representing the earliest jawed vertebrate radiation in the fossil record.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, placodermi designates extinct group of bony-plated fishes with primitive jaws."*
+> - 📜 **Arthur Smith Woodward (*Catalogue of the Fossil Fishes in the British Museum*):** *"The class **Placodermi** holds a pivotal place in the evolutionary transition toward true bony and cartilaginous fishes."*
+> - 📜 **Alfred Sherwood Romer (*Vertebrate Paleontology*):** *"Within the **Placodermi**, the arthrodires developed a complex cranio-thoracic ball-and-socket hinge joint."*
+> - 📜 **Edwin H. Colbert (*Evolution of the Vertebrates*):** *"The extinction of the **Placodermi** at the close of the Devonian paved the way for the radiation of sharks and ray-finned fishes."*

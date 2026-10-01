@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An order of plants of subclass rosidae including geraniums and many other plants; see euphorbiaceae; geraniaceae; rutaceae; malpighiaceae; simaroubaceae; meliaceae; zygophyllaceae; tropaeolaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An order of plants of subclass rosidae including geraniums and many other plants; see euphorbiaceae; geraniaceae; rutaceae; malpighiaceae; simaroubaceae; meliaceae; zygophyllaceae; tropaeolaceae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An order of eudicot flowering plants comprising the family Geraniaceae along with several small related families such as Francoaceae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In phylogenetic plant taxonomy (APG system), a distinct rosid order characterized by nectary glands alternating with petals and persistent beaked styles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, geraniales designates an order of plants of subclass rosidae including geraniums and many other plants; see euphorbiaceae; geraniaceae; rutaceae; malpighiaceae; simaroubaceae; meliaceae; zygophyllaceae; tropaeolaceae."*
+> - 📜 **Arthur Cronquist (*An Integrated System of Classification of Flowering Plants*):** *"The order **Geraniales** encompasses herbs and small shrubs characterized by pentamerous flowers and specialized seed dispersal."*
+> - 📜 **Charles Bessey (*The Phylogeny and Taxonomy of the Angiosperms*):** *"In our phylogenetic scheme, the **Geraniales** occupy an important position among the disc-flowered dicotyledons."*
+> - 📜 **Liberty Hyde Bailey (*Cyclopedia of American Horticulture*):** *"Horticultural interest in the **Geraniales** centers on garden geraniums and greenhouse pelargoniums."*

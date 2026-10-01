@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a metaphorical manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a metaphorical manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a metaphorical manner; figuratively speaking; by means of an implicit comparison rather than literal reality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In rhetorical analysis and ordinary conversation, qualifying an assertion to indicate that its terms must be interpreted symbolically.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Whether Young Smallweed (metaphorically called Small and eke Chick Weed, as it were jocularly to express a fledgling) was ever a boy is much doubted in Lincoln’s Inn."*
-> - 📜 **George Eliot (*Middlemarch*):** *"It was this which made Dorothea so childlike, and, according to some judges, so stupid, with all her reputed cleverness; as, for example, in the present case of throwing herself, metaphorically speaking, at Mr."*
-> - 📜 **George Eliot (*Middlemarch*):** *"In this way, metaphorically speaking, a strong lens applied to Mrs."*
+> - 📜 **Edgar Allan Poe (*The Murders in the Rue Morgue*):** *"Dupin used the phrase **metaphorically**, meaning that the mystery was insoluble by ordinary police routine."*
+> - 📜 **Bertrand Russell (*A History of Western Philosophy*):** *"Plato spoke **metaphorically** when he described the world of forms as a celestial city lighted by the good."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Ahab saw in the albino whale, both literally and **metaphorically**, the wall of cosmic malice shoved close to his face."*

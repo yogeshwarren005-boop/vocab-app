@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Out of fashion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Out of fashion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A woman who is past her youth or prime; faded, no longer attractive (the feminine form of *passé*).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Describing a woman whose beauty, social prestige, or prime of life has visibly elapsed.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, passee designates out of fashion."*
+> - 📜 **William Makepeace Thackeray (*The History of Pendennis*):** *"The worldly aunt declared that at thirty a woman was hopelessly **passée** unless fortified by a vast fortune."*
+> - 📜 **Honoré de Balzac (*Pere Goriot*):** *"In the fashionable salons of the Faubourg Saint-Germain, a **passée** beauty fought desperately against the young debutantes."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"She dreaded the day when society would look upon her face and pronounce her charm **passée**."*

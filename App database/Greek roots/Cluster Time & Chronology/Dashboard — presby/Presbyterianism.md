@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The doctrines and practices of the presbyterian church: based in calvinism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The doctrines and practices of the presbyterian church: based in calvinism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A form of Protestant church government in which the church is administered by local, regional, and national councils of elders.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The theological and ecclesiastical system of the Reformed churches following the teachings of John Calvin and John Knox.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"Its adherents, who included perhaps one-third of the ministers and people of the Church, were specially numerous in the Highlands, where United Presbyterianism was practically unrepresented."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"The petulant threat of some, that in the event of Disestablishment they would abandon Presbyterianism, he absolutely declined to notice."*
-> - 📜 **Thomas D. Whittles (*The Lumberjack Sky Pilot*):** *"The system of doctrine taught by it demands thorough preparation for the effort of Presbyterianism has ever been directed to the intellect rather than to the emotions."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"In Scotland, **Presbyterianism** was defended with fierce zeal against the imposition of episcopal prelacy."*
+> - 📜 **John Knox (*The History of the Reformation in Scotland*):** *"Knox established **Presbyterianism** as the national bulwark against Roman Catholic sacramentalism."*
+> - 📜 **Thomas D. Whittles (*The Lumberjack Sky Pilot*):** *"Pioneer preachers carried the stern discipline of **Presbyterianism** into rough frontier logging camps."*

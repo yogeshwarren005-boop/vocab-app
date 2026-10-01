@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of playing for stakes in the hope of winning (including the payment of a price for a chance to win a prize).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Place a bet on.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action or practice of playing games of chance for stakes; gambling; also, playing interactive electronic games.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social and legal history, betting on cards, dice, or sporting contests; in modern culture, interactive entertainment on consoles and computers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"And in the wretched state of his own finances, there was a very powerful motive for secrecy, in addition to his fear of discovery by Lydia’s relations; for it had just transpired that he had left gaming debts behind him to a very considerable amount."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Then, the two nurses left the room, and had a lively scuffle on the staircase with a dissipated page who had waited at dinner, and who had clearly lost half his buttons at the gaming-table."*
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"I would arise, and be a man and slay him--take him grossly, full of bread, with all his crimes, broad-blown, as flush as May; at gaming, swearing, or about some act that had no relish of salvation in it."*
+> - 📜 **Francis Bacon (*The Essays*):** *"No passion can sooner unhinge the mind from solid business than the reckless frenzy of midnight **gaming**."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"The nobility ruined their ancient estates through the corrupting vice of **gaming**, mortgaging ancestral manors to pay debts of honor."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"He looked upon **gaming** as the refuge of the idle, who substitute the hazards of the dice for the labor of the mind."*

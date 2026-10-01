@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of relieving pain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of relieving pain.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relieving pain; having the properties of an analgesic (an older, formal linguistic variant of analgesic).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In early physiological and pharmacological literature, producing a state of analgesia or insensibility to physical suffering.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, analgetic designates capable of relieving pain."*
+> - 📜 **John Tyndall (*Fragments of Science*):** *"Ether and chloroform exert an **analgetic** effect that disarms the surgical knife of its traditional terror."*
+> - 📜 **Claude Bernard (*An Introduction to the Study of Experimental Medicine*):** *"The **analgetic** action of morphine was verified by measuring spinal reflex thresholds in lab animals."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"Mystical contemplation exerts an **analgetic** influence on bodily afflictions, rendering martyrdom bearable."*

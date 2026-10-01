@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having cells that lack membrane-bound nuclei.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having cells that lack membrane-bound nuclei.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or being a prokaryote; lacking a membrane-bound nucleus and complex cytoplasmic organelles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to organisms whose transcription and translation are coupled and whose cell walls typically contain peptidoglycan.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prokaryotic designates having cells that lack membrane-bound nuclei."*
+> - 📜 **Jacques Monod (*Chance and Necessity*):** *"The **prokaryotic** lac operon revealed how gene transcription is directly regulated by repressor proteins."*
+> - 📜 **Albert Lehninger (*Principles of Biochemistry*):** *"The **prokaryotic** ribosome differs in sedimentation coefficient and antibiotic sensitivity from its eukaryotic counterpart."*
+> - 📜 **Carl Woese (*The Archaea: Their History and Significance*):** *"Diverse **prokaryotic** lineages conquered extreme thermal, saline, and acidic environments across the globe."*

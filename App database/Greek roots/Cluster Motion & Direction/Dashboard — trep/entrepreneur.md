@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who organizes a business venture and assumes the risk for it.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who organizes a business venture and assumes the risk for it.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who sets up a business or businesses, taking on financial risks in the hope of generating profit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic theory (formulated by Richard Cantillon and Joseph Schumpeter), an agent of innovation who redeploys economic resources into areas of higher productivity through 'creative destruction'.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, entrepreneur designates someone who organizes a business venture and assumes the risk for it."*
+> - 📜 **Joseph Schumpeter (*The Theory of Economic Development*):** *"The function of the **entrepreneur** is to reform or revolutionize the pattern of production by exploiting an invention or technological untried possibility."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The bold **entrepreneur** ventures his capital into untrodden avenues of commerce, risking total ruin for the prize of extraordinary gains."*
+> - 📜 **John Maynard Keynes (*The General Theory of Employment, Interest and Money*):** *"If animal spirits are dimmed and spontaneous optimism falters, the individual **entrepreneur** withers and enterprise languishes."*

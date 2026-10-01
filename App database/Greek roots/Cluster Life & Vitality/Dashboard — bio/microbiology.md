@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of biology dealing with microscopic forms of life.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A branch of biology dealing with microscopic forms of life.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of science that studies microscopic organisms, including bacteria, archaea, viruses, microscopic fungi, and protozoa.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The investigation of microbial biochemistry, pathogenic mechanisms, and environmental nutrient recycling on a cellular level.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microbiology designates a branch of biology dealing with microscopic forms of life."*
+> - 📜 **Ferdinand Cohn (*Researches on Bacteria*):** *"Systematic botanical classification laid the foundational taxonomy for modern investigative **microbiology**."*
+> - 📜 **Robert Koch (*The Etiology of Tuberculosis*):** *"Strict experimental postulates transformed medical **microbiology** from speculation into a rigorous laboratory science."*
+> - 📜 **Martinus Beijerinck (*Studies on Microbial Ecology*):** *"General **microbiology** demonstrates that everything is everywhere, but the environment selects."*

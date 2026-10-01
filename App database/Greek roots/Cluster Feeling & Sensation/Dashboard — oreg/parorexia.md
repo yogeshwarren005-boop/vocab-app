@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek oreg.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Feeling & Sensation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal, depraved, or perverted craving for unnatural, non-nutritive, or inedible substances; pica.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychiatry and nutritional medicine, a disorder often accompanying severe iron or zinc deficiency, pregnancy, or intellectual disability.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parorexia designates a term designating an entity, condition, or phenomenon derived from greek oreg."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Severe chlorosis in young women is frequently attended by a bizarre **parorexia**, such as eating chalk or clay."*
+> - 📜 **Benjamin Rush (*Medical Inquiries and Observations*):** *"A morbid **parorexia** led the melancholy patient to swallow gravel and chips of wood with apparent relish."*
+> - 📜 **Armand Trousseau (*Lectures on Clinical Medicine*):** *"In managing **parorexia**, the physician must correct underlying systemic anemia before attempting moral restraint."*

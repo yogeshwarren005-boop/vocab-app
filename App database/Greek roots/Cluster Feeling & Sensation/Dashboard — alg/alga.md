@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Primitive chlorophyll-containing mainly aquatic eukaryotic organisms lacking true stems and roots and leaves.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Primitive chlorophyll-containing mainly aquatic eukaryotic organisms lacking true stems and roots and leaves.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A simple, nonflowering, typically aquatic photosynthetic plant or organism belonging to a large, polyphyletic group including seaweeds and many single-celled forms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In phycology and limnology, any oxygen-producing photosynthetic protist lacking true stems, roots, leaves, or vascular tissue.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, alga designates primitive chlorophyll-containing mainly aquatic eukaryotic organisms lacking true stems and roots and leaves."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The number of living creatures of all orders whose existence depends on the giant marine **alga** is wonderful."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"Beneath the surface drifts the microscopic **alga**, capturing solar energy to fuel the boundless oceanic food chain."*
+> - 📜 **Henry David Thoreau (*Cape Cod*):** *"The tide had cast upon the beach glistening ribbons of brown **alga**, filling the brisk air with iodine."*

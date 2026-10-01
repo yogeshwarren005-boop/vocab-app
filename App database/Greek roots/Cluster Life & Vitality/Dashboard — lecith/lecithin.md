@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several waxy hygroscopic phospholipids that are widely distributed in animals and plants, form colloidal solutions in water, and have emulsifying, wetting, and antioxidant properties; also : a mixture of or substance rich in lecithins.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of several waxy hygroscopic phospholipids that are widely distributed in animals and plants, form colloidal solutions in water, and have emulsifying, wetting, and antioxidant properties; also : a mixture of or substance rich in lecithins.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A generic term for a mixture of glycerophospholipids (chiefly phosphatidylcholine) found in animal and plant tissues, notably egg yolks and soybeans.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A zwitterionic phospholipid essential for biological membrane structure, lipid emulsification, and pulmonary surfactant function.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lecithin designates any of several waxy hygroscopic phospholipids that are widely distributed in animals and plants, form colloidal solutions in water, and have emulsifying, wetting, and antioxidant properties; also : a mixture of or substance rich in lecithins."*
+> - 📜 **Maurice Gobley (*Recherches Chimiques sur le Jaune d'Œuf*):** *"From the fatty substances of egg yolk, I isolated and named **lecithin**, establishing its phosphorus and fatty acid composition."*
+> - 📜 **Claude Bernard (*Lectures on the Phenomena of Life*):** *"Biliary salts and pancreatic secretions utilize **lecithin** to emulsify dietary fats for intestinal absorption."*
+> - 📜 **Albert Lehninger (*Principles of Biochemistry*):** *"Dipalmitoyl **lecithin** is the primary surfactant component preventing alveolar collapse during mammalian expiration."*

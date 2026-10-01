@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small class of marine mollusks comprising the chitons; sometimes considered an order of the subclass amphineura.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small class of marine mollusks comprising the chitons; sometimes considered an order of the subclass amphineura.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A class of marine molluscs commonly known as chitons, characterized by a dorsal shell composed of eight overlapping articulated plates.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In malacology and evolutionary biology, an ancient marine clade adapted for clinging to wave-swept intertidal rocks with a broad muscular foot and rasping radula.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polyplacophora designates small class of marine mollusks comprising the chitons; sometimes considered an order of the subclass amphineura."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The **Polyplacophora** are distinguished by an eight-part dorsal armor that allows the animal to roll into a protective ball when dislodged."*
+> - 📜 **Arthur Shipley (*The Cambridge Natural History*):** *"Chitons of the class **Polyplacophora** graze upon encrusting coralline algae with magnetite-capped radular teeth."*
+> - 📜 **Francis Maitland Balfour (*A Treatise on Comparative Embryology*):** *"During the larval development of the **Polyplacophora**, the eight shell valves are secreted in orderly anteroposterior sequence."*

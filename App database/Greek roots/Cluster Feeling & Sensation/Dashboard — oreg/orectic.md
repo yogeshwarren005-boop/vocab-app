@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of reach.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of reach.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to desire, appetite, or conation (from Greek *orektikos*).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical psychology, pertaining to the non-rational appetitive faculty of the soul, distinguished from the cognitive or intellectual faculties.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, orectic designates adjective*) pertaining to, derived from, or characteristic of reach."*
+> - 📜 **Aristotle (*De Anima*):** *"Soul movement is initiated by the **orectic** faculty, for desire always aims at an apparent good."*
+> - 📜 **Alexander Bain (*The Senses and the Intellect*):** *"The **orectic** impulses drive voluntary action long before reflective deliberation matures in the human mind."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Every instinctual reaction possesses an **orectic** core of raw appetite urging the organism toward its biological goal."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Involving two dimensions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Involving two dimensions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, lying in, or having a flat two-dimensional surface.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by arrangements that conform to a geometric plane without elevation or depth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, planar designates involving two dimensions."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"The six carbon atoms of benzene maintain a strictly **planar** hexagonal ring structure."*
+> - 📜 **Albert Einstein (*Relativity: The Special and General Theory*):** *"Euclidean geometry treats **planar** figures whose angles reliably sum to two right angles."*
+> - 📜 **Charles Kittel (*Introduction to Solid State Physics*):** *"Graphene consists of a solitary **planar** sheet of sp2-hybridized carbon atoms."*

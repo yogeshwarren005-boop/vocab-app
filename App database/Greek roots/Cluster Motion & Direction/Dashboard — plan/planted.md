@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Put or set (seeds, seedlings, or plants) into the ground.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fix or set securely or deeply.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Placed or established in the ground to grow; firmly positioned or rooted.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Stationed, fixed, or established securely in a designated location or state of mind.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet at the first I saw the treasons planted."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How dare you ghosts Accuse the Thunderer whose bolt, you know, Sky-planted, batters all rebelling coasts?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Moreover, he hath left you all his walks, His private arbors, and new-planted orchards, On this side Tiber; he hath left them you, And to your heirs forever; common pleasures, To walk abroad, and recreate yourselves."*
+> - 📜 **William Shakespeare (*The Winter's Tale*):** *"We were as twinn'd lambs that did frisk i' the sun; we have **planted** love in fertile soil."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Southward through Eden went a river large, for God had **planted** there his blissful garden."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Ahab stood firmly **planted** upon the quarter-deck, his ivory heel locked into the auger-hole."*

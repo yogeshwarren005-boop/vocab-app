@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of marriage, wedding.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of marriage, wedding.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or practicing digamy; marrying twice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociological analysis, describing individuals, lineages, or cultures that permit or normalize second marriages after widowhood.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, digamous designates adjective*) pertaining to, derived from, or characteristic of marriage, wedding."*
+> - 📜 **Edward Westermarck (*The History of Human Marriage*):** *"In many agrarian societies, a **digamous** union was encouraged when young children required maternal nurture."*
+> - 📜 **Samuel Johnson (*Lives of the Most Eminent English Poets*):** *"His **digamous** state brought new domestic serenity after the melancholy grief of his early bereavement."*
+> - 📜 **Lewis Henry Morgan (*Systems of Consanguinity and Affinity of the Human Family*):** *"Kinship charts carefully record whether offspring descend from a monogamous or a **digamous** parental alliance."*

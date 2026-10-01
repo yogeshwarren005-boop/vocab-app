@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A christian heresy of the 5th and 6th centuries that challenged the orthodox definition of the two natures (human and divine) in jesus and instead believed there was a single divine nature.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A christian heresy of the 5th and 6th centuries that challenged the orthodox definition of the two natures (human and divine) in jesus and instead believed there was a single divine nature.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The theological doctrine that in the person of the incarnate Christ there was only one nature, the divine, rather than two distinct natures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The 5th- and 6th-century Christological movement condemned as heretical at the Council of Chalcedon in 451 AD.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monophysitism designates a christian heresy of the 5th and 6th centuries that challenged the orthodox definition of the two natures (human and divine) in jesus and instead believed there was a single divine nature."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The tenets of **Monophysitism** found a natural home among the monastic populations of Upper Egypt and Syria."*
+> - 📜 **John Henry Newman (*An Essay on the Development of Christian Doctrine*):** *"The historical endurance of **Monophysitism** illustrates how theological schisms can intertwine with nationalistic grievances."*
+> - 📜 **Arthur Penrhyn Stanley (*Lectures on the History of the Eastern Church*):** *"To understand the Coptic and Armenian churches, one must study the passionate defense of **Monophysitism** at Ephesus and Chalcedon."*

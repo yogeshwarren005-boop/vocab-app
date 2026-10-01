@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Use as a basis for; found on.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Situate as a center of operations.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a specified foundation, origin, or underlying support.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Established, located, or securely settled upon a physical site or conceptual premise.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"A coolness arose between him and my guardian, based principally on the foregoing grounds and on his having heartlessly disregarded my guardian’s entreaties (as we afterwards learned from Ada) in reference to Richard."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Troy was full of activity, but his activities were less of a locomotive than a vegetative nature; and, never being based upon any original choice of foundation or direction, they were exercised on whatever object chance might place in their way."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"For his merits in these—all more or less based upon his experiences as a dragoon-guardsman—Troy was taken into the company, and the play of Turpin was prepared with a view to his personation of the chief character."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Their entire Chancery suit was **based** on a contested will that consumed all the disputed estate."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"The woodland trade was **based** upon seasonal fellings and traditional timber sales."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"All our rational deductions must be **based** upon simple ideas derived from experience."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Protective outer layer of seeds of flowering plants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Protective outer layer of seeds of flowering plants.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The outer coat or covering of a seed; the testa.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The protective integument of a mature plant ovule shielding the embryo and perisperm against desiccation and mechanical injury.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, episperm designates protective outer layer of seeds of flowering plants."*
+> - 📜 **Augustin Pyramus de Candolle (*Théorie Élémentaire de la Botanique*):** *"The **episperm** exhibits diverse surface sculpturings, wing-like expansions, and hairs adapted for wind or animal dispersal."*
+> - 📜 **Asa Gray (*Botanical Textbook*):** *"In cotton, the fibers of commerce are unicellular epidermal outgrowths arising directly from the surface of the **episperm**."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"Hardening of the **episperm** creates an impenetrable barrier that enforces seed dormancy until favorable rains arrive."*

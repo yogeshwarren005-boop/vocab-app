@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek oestr.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Motion & Direction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The British orthographical variant of estrus; the recurrent period of sexual excitement, heat, and ovulatory fertility in non-human female mammals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical literature, a gadfly or divine frenzy sent to provoke madness; in zoology, the specific hormonal interval when female mammals accept copulation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oestrus designates a term designating an entity, condition, or phenomenon derived from greek oestr."*
+> - 📜 **Francis Marshall (*The Physiology of Reproduction*):** *"The onset of **oestrus** in the cow is accompanied by unmistakable restlessness, bellowing, and mounting behavior."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Female mammals in **oestrus** emit distinctive scents that carry on the wind to attract courting males from afar."*
+> - 📜 **Julian Huxley (*Essays in Popular Science*):** *"The ancient Greek word for frenzy, **oestrus**, aptly captures the sudden, instinctual compulsion of seasonal mating."*

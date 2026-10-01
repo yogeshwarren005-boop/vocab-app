@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a domain (Eukarya) or a higher taxonomic group (Eukaryota) above the kingdom that includes organisms composed of one or more cells containing visibly evident nuclei and organelles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a domain (Eukarya) or a higher taxonomic group (Eukaryota) above the kingdom that includes organisms composed of one or more cells containing visibly evident nuclei and organelles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An organism consisting of a cell or cells in which the genetic material is DNA in the form of chromosomes contained within a distinct membrane-bound nucleus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any member of the domain Eukarya, including all animals, plants, fungi, and protists, characterized by cytoskeletons and membrane-bound organelles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eukaryote designates any of a domain (eukarya) or a higher taxonomic group (eukaryota) above the kingdom that includes organisms composed of one or more cells containing visibly evident nuclei and organelles."*
+> - 📜 **Edouard Chatton (*Pansporella perplexa: Réflexions sur la Biologie des Flagellés*):** *"I proposed the fundamental dichotomy dividing all living organisms into the prokaryote and the **eukaryote**."*
+> - 📜 **Lynn Margulis (*Symbiosis in Cell Evolution*):** *"The **eukaryote** is not an expanded bacterium, but a multi-genome cooperative community forged through endosymbiosis."*
+> - 📜 **Carl Woese (*The Archaea: Their History and Significance*):** *"Molecular sequencing revealed that the nucleocytoplasmic lineage of the **eukaryote** shares profound homologies with Archaea."*

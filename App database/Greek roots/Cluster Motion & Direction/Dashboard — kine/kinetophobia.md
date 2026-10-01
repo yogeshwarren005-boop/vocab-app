@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek kine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Motion & Direction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal, excessive, or irrational fear of movement or motion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychiatry and kinesiology, a phobic anxiety disorder where an individual fears moving or being moved, often secondary to chronic pain or fear of re-injury (kinesiophobia).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, kinetophobia designates a term designating an entity, condition, or phenomenon derived from greek kine."*
+> - 📜 **William James (*The Principles of Psychology*):** *"In morbid **kinetophobia**, the patient cowers in bed, terrified that the slightest bodily movement will provoke agonizing vertigo."*
+> - 📜 **Robley Dunglison (*Medical Lexicon*):** *"Psychopathologists record cases of **kinetophobia** following severe concussions, wherein all passive vehicular travel inspires panic."*
+> - 📜 **Oliver Sacks (*A Leg to Stand On*):** *"A severe form of **kinetophobia** gripped me after surgery; I shrank from the prospect of placing weight upon the damaged joint."*

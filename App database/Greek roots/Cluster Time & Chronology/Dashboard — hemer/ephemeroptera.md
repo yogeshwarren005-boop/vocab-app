@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mayflies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mayflies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An order of paleopterous insects comprising the mayflies, characterized by aquatic nymphs, two pairs of membranous wings, and two or three long caudal filaments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In entomological phylogeny, one of the oldest surviving pterygote insect lineages, uniquely possessing a winged subimago stage (dun) that molts into the reproductive imago (spinner).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog ephemeroptera as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **John Henry Comstock (*An Introduction to Entomology*):** *"The order **Ephemeroptera** holds an isolated position among insects, being the only group that undergoes an ecdysis after reaching the winged state."*
+> - 📜 **Stephen Jay Gould (*The Panda's Thumb*):** *"The synchronized mass emergence of **Ephemeroptera** swarms the skies, satiating predators through overwhelming numerical abundance."*
+> - 📜 **Arthur Shipley (*The Cambridge Natural History*):** *"Fossil specimens of **Ephemeroptera** from the Permian demonstrate the conservative persistence of mayfly wing venation over geologic time."*

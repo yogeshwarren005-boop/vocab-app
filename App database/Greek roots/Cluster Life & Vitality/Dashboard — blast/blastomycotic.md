@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or characteristic of blastomycosis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characteristic of blastomycosis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or caused by blastomycosis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to infections, granulomas, or lesions produced by *Blastomyces* species.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, blastomycotic designates of or relating to or characteristic of blastomycosis."*
+> - 📜 **Thomas Casper Gilchrist (*Blastomycetic Dermatitis*):** *"Histological sections of the **blastomycotic** nodule showed dense microabscesses bordered by giant cells."*
+> - 📜 **William Boyd (*A Textbook of Pathology*):** *"The **blastomycotic** ulcer displays violaceous, elevated margins with cribriform micro-pustules."*
+> - 📜 **James Ewing (*Neoplastic Diseases*):** *"Chronic **blastomycotic** hyperplasia of the epidermis closely mimics well-differentiated squamous cell carcinoma."*

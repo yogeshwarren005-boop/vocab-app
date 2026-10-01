@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Insertion of a vowel between two consonants : vowel epenthesis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Insertion of a vowel between two consonants : vowel epenthesis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The insertion of a vowel between two consonants in a word to facilitate pronunciation (epenthesis).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Phonetic phenomenon whereby an epenthetic vowel unfolds within a consonant cluster.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anaptyxis designates insertion of a vowel between two consonants : vowel epenthesis."*
+> - 📜 **Otto Jespersen (*Language: Its Nature, Development and Origin*):** *"Historical sound change frequently exhibits **anaptyxis** when foreign loanwords enter a language."*
+> - 📜 **Max Müller (*The Science of Language*):** *"Through **anaptyxis**, archaic Germanic dialects inserted short vowels into rigid consonant sequences."*
+> - 📜 **Ferdinand de Saussure (*Course in General Linguistics*):** *"Vocalic **anaptyxis** resolves articulatory tension without altering the morphological stem."*

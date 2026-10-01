@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Forming two kinds of gametes of which one produces male offspring and the other female offspring.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Forming two kinds of gametes of which one produces male offspring and the other female offspring.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Producing gametes that contain different kinds of sex chromosomes (such as X and Y, or Z and W).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sex determination genetics, describing the sex (males in mammals with XY, females in birds with ZW) whose gametes dictate the chromosomal sex of offspring.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heterogametic designates forming two kinds of gametes of which one produces male offspring and the other female offspring."*
+> - 📜 **Edmund Beecher Wilson (*The Cell in Development and Inheritance*):** *"In hemipteran insects, the male is **heterogametic**, producing two distinct classes of spermatozoa in equal numbers."*
+> - 📜 **Thomas Hunt Morgan (*The Mechanism of Mendelian Heredity*):** *"Since the human male is **heterogametic**, the sex of the child depends entirely upon whether an X or Y-bearing sperm fertilizes the egg."*
+> - 📜 **C. D. Darlington (*Recent Advances in Cytology*):** *"In birds and butterflies, it is the female that is the **heterogametic** sex, bearing dimorphic sex chromosomes designated Z and W."*

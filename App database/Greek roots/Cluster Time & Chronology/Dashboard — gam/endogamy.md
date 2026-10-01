@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marriage within a specific group as required by custom or law.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marriage within a specific group as required by custom or law.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The custom of marrying only within the limits of a local community, clan, tribe, or social class.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In population genetics, inbreeding within an isolated demographic group, increasing genetic homozygosity and the incidence of recessive conditions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endogamy designates marriage within a specific group as required by custom or law."*
+> - 📜 **James George Frazer (*The Golden Bough*):** *"Tribal custom balanced exogamy of the totemic sept with the mandatory **endogamy** of the linguistic nation."*
+> - 📜 **Edward Westermarck (*The History of Human Marriage*):** *"Religious **endogamy** historically prohibited marriage between believers and those outside the faith."*
+> - 📜 **Francis Galton (*Hereditary Genius*):** *"Long-continued **endogamy** within aristocratic castes tended to accentuate both special talents and hereditary infirmities."*

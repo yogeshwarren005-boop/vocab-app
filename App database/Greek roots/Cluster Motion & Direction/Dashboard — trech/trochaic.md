@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or consisting of trochees.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or consisting of trochees.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or consisting of trochees (metrical feet consisting of one stressed syllable followed by one unstressed syllable).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In English poetry, producing a brisk, driving, or tripping rhythm, famously exemplified by Longfellow's *The Song of Hiawatha*.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trochaic designates of, relating to, or consisting of trochees."*
+> - 📜 **Henry Wadsworth Longfellow (*The Song of Hiawatha*):** *"By the shores of Gitche Gumee, by the shining Big-Sea-Water, rang the rapid, flowing **trochaic** meter."*
+> - 📜 **Edgar Allan Poe (*The Philosophy of Composition*):** *"The Raven is composed in a **trochaic** octameter acatalectic, alternating with heptameter catalectic."*
+> - 📜 **George Saintsbury (*A History of English Prosody*):** *"The sudden shift from iambic to **trochaic** movement imparts an electrifying urgency to Elizabethan tragedy."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek gen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Life & Vitality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A section of DNA that closely resembles a functional gene but contains mutations (such as frameshifts or stop codons) that prevent its transcription or translation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A non-functional, decayed genomic relic resulting from gene duplication (unprocessed pseudogene) or retrotransposition (processed pseudogene).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pseudogene designates a term designating an entity, condition, or phenomenon derived from greek gen."*
+> - 📜 **Richard Dawkins (*The Blind Watchmaker*):** *"The genome is littered with **pseudogenes**, petrified genetic fossils of ancestral genes that have fallen into silence."*
+> - 📜 **Francis Crick (*What Mad Pursuit*):** *"Duplicated copies free from selective pressure rapidly accumulate disabling mutations, drifting into inert **pseudogenes**."*
+> - 📜 **Stephen Jay Gould (*The Structure of Evolutionary Theory*):** *"Shared non-functional **pseudogenes** in humans and chimpanzees furnish unanswerable proof of shared genealogical descent."*

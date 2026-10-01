@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek gam.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Time & Chronology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Either of two uniting gametes that differ in size, structure, or behavior; a heterogamete.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In protistology and cell biology, a flagellated or non-motile gamete participating in anisogamy, where the smaller microgamete typically fertilizes the larger macrogamete.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anisogamete designates a term designating an entity, condition, or phenomenon derived from greek gam."*
+> - 📜 **Francis Maitland Balfour (*A Treatise on Comparative Embryology*):** *"In green algae like Chlamydomonas, the mobile **anisogamete** fuses with its larger, nutrient-laden partner."*
+> - 📜 **Edmund Beecher Wilson (*The Cell in Development and Inheritance*):** *"The morphological disparity of the **anisogamete** represents the evolutionary origin of spermatozoon and ovum."*
+> - 📜 **Ernst Haeckel (*The Evolution of Man*):** *"True sexual dimorphism began when the ancestral isogamete differentiated into an energetic male **anisogamete** and a quiescent female cell."*

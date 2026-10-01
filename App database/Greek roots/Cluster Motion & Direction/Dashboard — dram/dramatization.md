@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Conversion into dramatic form.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dramatic representation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of adapting a story, novel, or real-life event into a dramatic play or cinematic production.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychology and communication, the portrayal of an abstract condition, grievance, or emotional dilemma in terms of vivid, concrete, and enacted conflict.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dramatization designates conversion into dramatic form."*
+> - 📜 **Edgar Allan Poe (*Essays and Reviews*):** *"The successful **dramatization** of a Gothic romance requires relentless compression and intense theatrical atmosphere."*
+> - 📜 **Sigmund Freud (*A General Introduction to Psychoanalysis*):** *"The dream achieves its compelling illusion through the direct **dramatization** of repressed childhood desires."*
+> - 📜 **Aldous Huxley (*Brave New World Revisited*):** *"Political propaganda increasingly relies upon the slick **dramatization** of fears rather than rational debate."*

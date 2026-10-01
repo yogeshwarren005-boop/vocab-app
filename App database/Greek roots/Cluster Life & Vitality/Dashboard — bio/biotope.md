@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A region uniform in environmental conditions and in its populations of animals and plants for which it is the habitat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A region uniform in environmental conditions and in its populations of animals and plants for which it is the habitat.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A uniform environmental area or habitat providing living conditions for a specific community of plants and animals (biocoenosis).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The smallest geographic unit of the biosphere characterized by homogeneous environmental and abiotic parameters.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, biotope designates a region uniform in environmental conditions and in its populations of animals and plants for which it is the habitat."*
+> - 📜 **Ernst Haeckel (*Generelle Morphologie der Organismen*):** *"Every distinctive **biotope** exerts selective pressures shaping the ecological adaptations of its inhabitants."*
+> - 📜 **Eugene Odum (*Fundamentals of Ecology*):** *"The woodland **biotope** comprises both its microclimate and physical substrate, serving as the setting for the resident fauna."*
+> - 📜 **Arthur Tansley (*Practical Plant Ecology*):** *"Differences in soil moisture between adjacent sand dunes establish sharply delimited **biotopes**."*

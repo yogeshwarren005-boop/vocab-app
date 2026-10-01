@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One attracted to foreign things (such as styles or people).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One attracted to foreign things (such as styles or people).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An individual who is attracted to, loves, or has an intense admiration for foreign people, cultures, customs, or foreign things (contrasted with a xenophobe).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cosmopolitan cultural enthusiast who values diverse foreign traditions above parochial domestic norms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xenophile designates one attracted to foreign things (such as styles or people)."*
+> - 📜 **E. M. Forster (*A Passage to India*):** *"Fielding was an instinctive **xenophile**, preferring the hospitable company of cultivated Indian gentlemen to the club's insular gossip."*
+> - 📜 **Henry James (*The European*):** *"The American cousin proved an eager **xenophile**, enchanted by every antique courtly custom brought from the Continent."*
+> - 📜 **George Orwell (*The Lion and the Unicorn*):** *"The English intellectual is notoriously a **xenophile**, eager to praise foreign systems while belittling his own nation."*

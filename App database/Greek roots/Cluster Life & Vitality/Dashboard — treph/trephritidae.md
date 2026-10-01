@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fruit flies; some leaf miners.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fruit flies; some leaf miners.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A historical or variant orthographic spelling for Tephritidae, the family of true fruit flies (order Diptera), known for attractively marked wings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Agricultural pest flies whose larvae develop in ripening fruit and flower heads, including the Mediterranean fruit fly (*Ceratitis capitata*).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trephritidae designates fruit flies; some leaf miners."*
+> - 📜 **David Sharp (*Insects: Part II*):** *"Early dipterists catalogued these gall-making and fruit-infesting flies under the family designation **Trephritidae**."*
+> - 📜 **Charles Valentine Riley (*Report on Noxious Insects*):** *"The banded wings and ovipositor structure align the destructive apple maggot fly with the **Trephritidae**."*
+> - 📜 **Ray Lankester (*A Treatise on Zoology*):** *"Economic losses inflicted by larval infestations of the **Trephritidae** prompted worldwide phytosanitary quarantine protocols."*

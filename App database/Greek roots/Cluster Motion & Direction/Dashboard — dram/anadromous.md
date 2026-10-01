@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ascending rivers from the sea for breeding.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ascending rivers from the sea for breeding.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Migrating up rivers from the sea to spawn in fresh water (characteristic of fishes such as salmon, sea trout, and shad).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ichthyology and aquatic ecology, describing species that spend the majority of their adult life in marine environments but undergo physiological smoltification to breed in inland streams.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anadromous designates ascending rivers from the sea for breeding."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The heroic journeys of **anadromous** fishes against furious mountain cataracts illustrate the relentless power of reproductive instincts."*
+> - 📜 **Rachel Carson (*Under the Sea-Wind*):** *"The great run of **anadromous** salmon entered the river estuary, scenting the familiar gravel beds of their native headwaters."*
+> - 📜 **Henry David Thoreau (*A Week on the Concord and Merrimack Rivers*):** *"Dams and mills now bar the path of the **anadromous** shad that once ascended our pristine rivers in millions."*

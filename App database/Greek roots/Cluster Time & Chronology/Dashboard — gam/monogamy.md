@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or practice of having only one sexual partner at a time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state or custom of being married to only one person at a time.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The practice or state of being married to, or having a sexual relationship with, only one person at a time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In behavioral ecology and sociology, the social and biological mating system in which one male pairs with one female for reproduction and parental care.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Some of his works, such as that _On Monogamy_, bear the stamp of Montanism, for re-marriage was condemned by the Montanists."*
+> - 📜 **Edward Westermarck (*The History of Human Marriage*):** *"The historical record indicates that **monogamy** is not a recent invention of civilization, but an archaic human impulse."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"In species where **monogamy** prevails, secondary sexual armaments are generally equalized between the sexes."*
+> - 📜 **Lewis Henry Morgan (*Ancient Society*):** *"The advent of strict **monogamy** established the modern nuclear family as the sovereign economic building block of society."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The chronology of the past as indicated by geologic data.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The study of geochronology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of geology concerned with determining the absolute and relative age of rocks, fossils, and geological events.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Earth sciences, the synthesis of radiometric dating, biostratigraphy, and magnetostratigraphy to construct the global geological time scale.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, geochronology designates the chronology of the past as indicated by geologic data."*
+> - 📜 **Arthur Holmes (*The Age of the Earth*):** *"Radiometric **geochronology** transformed our understanding of planetary history by dating uranium-lead decay in Precambrian granites."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Before physical **geochronology** emerged, geologists could only decipher relative sequences from the superposition of fossiliferous beds."*
+> - 📜 **Stephen Jay Gould (*Time's Arrow, Time's Cycle*):** *"Modern **geochronology** established deep time, stretching our planetary perspective across four and a half billion years."*

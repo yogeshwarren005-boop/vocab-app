@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the gallbladder.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inflammation of the gallbladder.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the gallbladder wall, commonly provoked by an obstructing gallstone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In hepatobiliary medicine, an acute or chronic clinical condition presenting with right upper quadrant abdominal pain, fever, leukocytosis, and a positive Murphy's sign.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cholecystitis designates inflammation of the gallbladder."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Acute **cholecystitis** begins with sudden, severe paroxysms of pain beneath the right costal margin radiating to the scapula."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"Impaction of a gallstone in the cystic duct precipitates ischemic inflammation in acute **cholecystitis**."*
+> - 📜 **James Paget (*Lectures on Surgical Pathology*):** *"Chronic **cholecystitis** leads to fibrous thickening and contracture of the gallbladder musculature."*

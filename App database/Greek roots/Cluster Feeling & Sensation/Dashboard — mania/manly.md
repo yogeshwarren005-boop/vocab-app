@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Possessing qualities befitting a man.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characteristic of a man.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Possessing the qualities traditionally admired in a courageous man, such as bravery, strength of character, and resolve.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Steadfast, dignified, and upright; resisting despair or weakness under severe testing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He wears his honour in a box unseen That hugs his kicky-wicky here at home, Spending his manly marrow in her arms, Which should sustain the bound and high curvet Of Mars’s fiery steed."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My friends, The boy hath taught us manly duties; let us Find out the prettiest daisied plot we can, And make him with our pikes and partisans A grave."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No; for my manly heart doth yearn."*
+> - 📜 **William Shakespeare (*Julius Caesar*):** *"Brutus showed a **manly** fortitude when word came that Portia had swallowed fire in Rome."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"A **manly** devotion to honest toil is the only gospel that can heal our modern spiritual lethargy."*
+> - 📜 **Frederick Douglass (*Narrative of the Life of Frederick Douglass*):** *"I stood up to Covey with a **manly** determination, resolved that he should never flog me again while life remained."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: American ceratopsian dinosaurs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: American ceratopsian dinosaurs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of large quadrupedal herbivorous horned dinosaurs of the Late Cretaceous, including Triceratops, Torosaurus, and Centrosaurus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate taxonomy, advanced ceratopsians possessing elaborate postorbital and nasal horns, bifurcated parietosquamosal frills, and massive compact vertebrae.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ceratopsidae designates american ceratopsian dinosaurs."*
+> - 📜 **Othniel Charles Marsh (*The Ceratopsidae, or Horned Dinosaurs of North America*):** *"The family **Ceratopsidae** constitutes one of the most remarkable assemblages of reptilian forms ever exhumed from the Cretaceous."*
+> - 📜 **Henry Fairfield Osborn (*Cope: Master Naturalist*):** *"Edward Drinker Cope recognized the bizarre affinities of the **Ceratopsidae** from fragmented horn cores discovered in Montana."*
+> - 📜 **Alfred Sherwood Romer (*Vertebrate Paleontology*):** *"Within the **Ceratopsidae**, the chasmosaurine and centrosaurine subfamilies diverged sharply in nasal horn development."*

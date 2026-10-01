@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having no placenta.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having no placenta.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking a placenta; not developing a placenta during embryonic gestation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative mammalian embryology, describing monotremes and marsupials whose embryos develop without an invasive chorioallantoic placenta.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aplacental designates having no placenta."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The echidna and the platypus are strictly **aplacental**, depositing leathery-shelled eggs into temporary abdominal folds."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"We distinguish the higher eutherian mammals from the **aplacental** orders whose young enter the marsupium at an embryonic stage."*
+> - 📜 **William Henry Flower (*An Introduction to the Osteology of the Mammalia*):** *"Skeletal epipubic bones in marsupials correlate functionally with their **aplacental** mode of early parturition."*

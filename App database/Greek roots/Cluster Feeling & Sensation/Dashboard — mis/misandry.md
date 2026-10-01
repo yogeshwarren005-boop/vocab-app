@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hatred of men.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hatred of men.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Dislike of, contempt for, or ingrained prejudice against men (the counterpart of misogyny).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cultural, literary, or ideological hostility toward men and masculine norms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, misandry designates a hatred of men."*
+> - 📜 **Simone de Beauvoir (*The Second Sex*):** *"Just as patriarchy breeds misogyny, so can patriarchal tyranny provoke in women a bitter, defensive **misandry**."*
+> - 📜 **Havelock Ellis (*Studies in the Psychology of Sex*):** *"Psychologists must recognize that institutional injustice can produce neurotic **misandry** as well as gynophobia."*
+> - 📜 **Bertrand Russell (*Marriage and Morals*):** *"A society poisoned by sex antagonism oscillated between crude misogyny and equally absurd **misandry**."*

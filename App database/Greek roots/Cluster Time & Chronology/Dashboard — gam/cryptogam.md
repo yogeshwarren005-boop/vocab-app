@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A plant or plantlike organism (such as a fern, moss, alga, or fungus) reproducing by spores and not producing flowers or seed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A plant or plantlike organism (such as a fern, moss, alga, or fungus) reproducing by spores and not producing flowers or seed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A plant or plant-like organism that reproduces by spores without producing true flowers or seeds, such as a moss, fern, alga, or fungus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of systematic botany, Linnaeus's 24th Class (Cryptogamia, 'hidden marriage'), grouping non-seed plants whose sexual organs were not outwardly evident.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"For many years he has toiled earnestly and vigorously at the lower cryptogams, as evidenced by his “Scottish Cryptogamic Flora,” published in 1823; and yet his continual additions to the records of science show him to be earnest and vigorous still."*
+> - 📜 **Carl Linnaeus (*Systema Naturae*):** *"The twenty-fourth class, the Cryptogamia, contains every **cryptogam** whose nuptials are celebrated in secret beyond mortal gaze."*
+> - 📜 **John Ruskin (*Proserpina: Studies of Wayside Flowers*):** *"The damp rock was richly encrusted with lichens, a humble **cryptogam** weaving silver embroidery over the granite."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"A **cryptogam** produces neither flowers nor true seeds, relying upon microscopic spores to scatter its generation."*

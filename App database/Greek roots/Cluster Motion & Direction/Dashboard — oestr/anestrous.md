@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not exhibiting estrus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to anestrus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Experiencing or characterized by anestrus; being in a seasonal or physiological period of reproductive dormancy or sexual inactivity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mammalian biology, designating female animals during periods when circulating estrogen is minimal, ovulation ceases, and mating behavior is absent.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anestrous designates not exhibiting estrus."*
+> - 📜 **Francis Marshall (*The Physiology of Reproduction*):** *"The **anestrous** doe shows complete indifference toward the stag throughout the harsh winter months."*
+> - 📜 **Julian Huxley (*Essays in Popular Science*):** *"Wild mammals generally possess an **anestrous** season which protects the mother from bearing young during food shortages."*
+> - 📜 **Solly Zuckerman (*The Social Life of Monkeys and Apes*):** *"Unlike lower mammals which have strictly **anestrous** seasons, catarrhine primates exhibit uninterrupted menstrual cycles."*

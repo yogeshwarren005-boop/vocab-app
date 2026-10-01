@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ptych.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Time & Chronology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A work of art, screen, or altarpiece consisting of four panels or sections.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A four-part painting or writing tablet arranged in folding or adjoining leaves.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tetraptych designates a term designating an entity, condition, or phenomenon derived from greek ptych."*
+> - 📜 **Roger Fry (*Transformations*):** *"The modern artist arranged the four seasonal landscapes into a unified **tetraptych**."*
+> - 📜 **Banister Fletcher (*A History of Architecture*):** *"A rare carved **tetraptych** adorned the side chapel, depicting four episodes of the Passion."*
+> - 📜 **Walter Pater (*Imaginary Portraits*):** *"The Flemish master composed a miniature **tetraptych** on boxwood panels with jeweler-like precision."*

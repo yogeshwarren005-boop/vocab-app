@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Happen at the same time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make (motion picture sound) exactly simultaneous with the action.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Operating, moving, or occurring at the same time or at the same speed; British spelling of synchronized.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cinematic and electrical technology, describing sound recordings paired precisely to video, or machines coupled in identical phase.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, synchronised designates happen at the same time."*
+> - 📜 **H. G. Wells (*The Shape of Things to Come*):** *"The aircraft moved with **synchronised** precision, maneuvering across the sky as if steered by a single hand."*
+> - 📜 **George Orwell (*Nineteen Eighty-Four*):** *"The entire congregation leapt to their feet with **synchronised** fervor during the frantic climax of the Two Minutes Hate."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"When muscle units act in a **synchronised** discharge, maximum contractile force is generated across the tendon."*

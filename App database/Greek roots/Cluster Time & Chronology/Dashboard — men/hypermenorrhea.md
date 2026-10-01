@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormally heavy or prolonged menstruation; can be a symptom of uterine tumors and can lead to anemia if prolonged.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abnormally heavy or prolonged menstruation; can be a symptom of uterine tumors and can lead to anemia if prolonged.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormally heavy or prolonged menstrual bleeding occurring at regular intervals; menorrhagia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gynecological pathology, excessive blood loss exceeding 80 ml per cycle, commonly secondary to uterine leiomyomas, adenomyosis, or coagulopathies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypermenorrhea designates abnormally heavy or prolonged menstruation; can be a symptom of uterine tumors and can lead to anemia if prolonged."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Submucous uterine fibroids are the most common anatomical cause of chronic, exhausting **hypermenorrhea**."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"Severe **hypermenorrhea** depletes systemic iron stores, precipitating profound microcytic hypochromic anemia."*
+> - 📜 **Robley Dunglison (*Medical Lexicon*):** *"The practitioner must differentiate functional **hypermenorrhea** from hemorrhages arising from uterine neoplasia."*

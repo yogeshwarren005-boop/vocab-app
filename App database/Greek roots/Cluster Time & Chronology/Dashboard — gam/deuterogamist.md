@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek gam.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Time & Chronology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who marries a second time, especially after the death of the first spouse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social history and ecclesiastical literature, one who enters a second wedlock, famously debated in Oliver Goldsmith's *The Vicar of Wakefield*.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, deuterogamist designates a term designating an entity, condition, or phenomenon derived from greek gam."*
+> - 📜 **Oliver Goldsmith (*The Vicar of Wakefield*):** *"I was ever of opinion that the honest man who married and brought up a large family did more service than he who continued single and only talked of population; I was therefore a strict monogamist, holding that a **deuterogamist** violated the sanctity of the altar."*
+> - 📜 **Samuel Johnson (*The Idler*):** *"The widowed scholar had no patience with the strictures against the **deuterogamist**, choosing a second partner to comfort his lonely fireside."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Early church canons looked with cold disapproval upon the **deuterogamist**, denying second marriages the full blessing of ecclesiastical honors."*

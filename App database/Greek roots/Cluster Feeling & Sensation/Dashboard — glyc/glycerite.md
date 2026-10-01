@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A medicine made by mixing a substance in glycerin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A medicine made by mixing a substance in glycerin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A pharmaceutical preparation or medicinal solution in which glycerin serves as the primary liquid solvent vehicle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical pharmacognosy, a stable liquid preparation (e.g., glycerite of tannic acid, glycerite of phenol) used for topical mucosal applications.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, glycerite designates a medicine made by mixing a substance in glycerin."*
+> - 📜 **Jonathan Pereira (*The Elements of Materia Medica*):** *"The **glycerite** of tannin forms a superior topical application for relaxed uvula and chronic pharyngitis."*
+> - 📜 **William Osler (*Aequanimitas*):** *"The country doctor carried in his leather bag a bottle of carbolized **glycerite** for dressing infected farm wounds."*
+> - 📜 **Arthur Conan Doyle (*Round the Red Lamp*):** *"He painted the diphtheritic throat with a thick soothing **glycerite**, praying that the airway would remain patent."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something transitory; lasting a day.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Anything short-lived, as an insect that lives only for a day in its winged form.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Things that exist or are used or enjoyed for only a short time; collectable items that were originally intended to have short-term usefulness, such as ticket stubs or posters.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In archival studies and entomology, transient print artifacts illuminating everyday social history, or insects (such as mayflies) that survive only briefly as winged adults.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ephemera designates something transitory; lasting a day."*
+> - 📜 **Virginia Woolf (*The Common Reader*):** *"The dusty cabinet preserved old pamphlets and theatre bills, delicate **ephemera** surviving long after the actors had turned to dust."*
+> - 📜 **Walter Pater (*The Renaissance*):** *"Art gives the highest quality to our moments as they pass, rescuing precious emotions from the fading **ephemera** of life."*
+> - 📜 **Oliver Wendell Holmes Sr. (*The Autocrat of the Breakfast-Table*):** *"The morning newspaper is pure **ephemera**, read with avidity at breakfast and discarded into the fire by noon."*

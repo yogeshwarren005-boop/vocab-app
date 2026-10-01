@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a passive manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a passive manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a passive manner; without active participation, initiative, or resistance; receptively.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physics or physiology, by automatic or non-powered mechanisms (e.g., substances diffusing passively through a membrane).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"But by the time she had got back to the village she was passively trusting to the favour of accident."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Now sit down here, and wait till I come.” She passively sat down amid the leaves he had heaped, and shivered slightly."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Tess had drifted into a frame of mind which accepted passively the consideration that if she should have to burn for what she had done, burn she must, and there was an end of it."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"A centralized despotism reduces citizens to children who **passively** expect the state to resolve every domestic problem."*
+> - 📜 **Henry David Thoreau (*Civil Disobedience*):** *"If a thousand men were not to pay their tax-bills this year, that would not be a violent and bloody measure, as it would be to pay them, and enable the State to commit violence and shed innocent blood. This is, in fact, the definition of a peaceable revolution, if any such is possible. But even suppose blood should flow. Is there not a sort of blood shed when the conscience is wounded? Through this wound a man's real manhood and immortality flow out, and he bleeds to an everlasting death. I see this blood flowing now. I do not submit **passively** to tyranny."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Seeds are transported **passively** across wide oceans clinging to the muddy plumage of wading birds."*

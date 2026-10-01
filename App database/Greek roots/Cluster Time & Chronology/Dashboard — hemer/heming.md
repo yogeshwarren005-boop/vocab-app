@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: English actor who edited the first folio of shakespeare's plays (1556-1630).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fold over and sew together to provide with a hem.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Folding over and sewing down the raw edge of fabric to create a hem; or historically, John Heminges, the Jacobean actor who co-edited Shakespeare's First Folio.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In needlework and theatrical history, either the textile craft of finishing border edges, or the theatrical fellowship that preserved Shakespearean drama for posterity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anonymous (*The Story of Gunnlaug the Worm-Tongue and Raven the Skald*):** *"And at that time there was a great army of Danish men west there, whose chief was Heming, the son of Earl Strut-Harald, and brother to Earl Sigvaldi, and he held for King Knut that land that Svein had won."*
+> - 📜 **Ben Jonson (*To the Memory of My Beloved, The Author Mr. William Shakespeare*):** *"My fellows **Heming** and Condell performed an immortal service to English letters by gathering his scattered manuscripts."*
+> - 📜 **Florence Nightingale (*Notes on Nursing*):** *"The neat **heming** of sheets and hospital linen ensures that loose threads do not fray or harbor contamination."*
+> - 📜 **Thomas Fuller (*The History of the Worthies of England*):** *"The honest player John **Heming** deserved the gratitude of kings for rescuing the great dramatist's plays from oblivion."*

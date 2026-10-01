@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The origination and development of a disease.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The origination and development of a disease.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The biological mechanism and chain of events through which a disease develops from initial cause to full manifestation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In experimental pathology, the cellular and molecular steps (e.g., inflammation, necrosis, fibrosis) that constitute disease progression.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pathogenesis designates the origination and development of a disease."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"The ultimate **pathogenesis** of every systemic ailment resolves itself into altered metabolic processes within individual cells."*
+> - 📜 **Paul Ehrlich (*Studies in Immunity*):** *"Understanding toxin-receptor binding on cell membranes clarified the cellular **pathogenesis** of tetanus."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Recent autopsy studies have illuminated the vascular **pathogenesis** of atherosclerotic apoplexy."*

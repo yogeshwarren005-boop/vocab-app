@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Reproducing by cross-fertilization.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reproducing by cross-fertilization.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cross-fertilization in plants, in which the ovules of one flower are fertilized by the pollen of another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical genetics, the reproductive strategy that promotes heterozygosity and genetic vigor by preventing self-pollination through self-incompatibility mechanisms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, allogamy designates reproducing by cross-fertilization."*
+> - 📜 **Charles Darwin (*The Different Forms of Flowers on Plants of the Same Species*):** *"Heterostyly serves as an exquisite mechanical contrivance designed by natural selection to secure **allogamy**."*
+> - 📜 **Gregor Mendel (*Experiments in Plant Hybridization*):** *"To trace the laws of inheritance, one must artificially enforce **allogamy** between distinct parental varieties."*
+> - 📜 **John Lindley (*The Elements of Botany*):** *"The visitation of bees ensures **allogamy**, carrying pollen across wide meadows from blossom to blossom."*

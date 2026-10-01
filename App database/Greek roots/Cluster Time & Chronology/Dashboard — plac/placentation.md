@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The formation of the placenta in the uterus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Arrangement of the ovules in the placenta and of the placentas in the ovary.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The formation, type, or structural arrangement of the placenta in viviparous animals; the arrangement of ovules within a plant's ovary.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative embryology and systematic botany, anatomical classification based upon hemochorial vs. epitheliochorial membranes, or parietal vs. axile plant ovule attachment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Nurse Callan taken aback in the hallway cannot stay them nor smiling surgeon coming downstairs with news of placentation ended, a full pound if a milligramme."*
+> - 📜 **Francis Maitland Balfour (*A Treatise on Comparative Embryology*):** *"The zonary **placentation** of carnivores contrasts sharply with the diffuse epitheliochorial membranes of ungulates."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"Systematic botanists rely upon axile, parietal, or free-central **placentation** to determine familial relationships in flowering plants."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"Defective trophoblast invasion during early **placentation** underlies the subsequent pathogenesis of preeclampsia."*

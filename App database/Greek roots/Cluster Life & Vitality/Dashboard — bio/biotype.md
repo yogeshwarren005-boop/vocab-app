@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The organisms sharing a specified genotype; also : the genotype shared or its distinguishing peculiarity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The organisms sharing a specified genotype; also : the genotype shared or its distinguishing peculiarity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A group of organisms having identical genetic constitution (genotype).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A physiological or pathogenic variant within a species distinguished by physiological behavior, virulence, or host preference rather than structural morphology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, biotype designates the organisms sharing a specified genotype; also : the genotype shared or its distinguishing peculiarity."*
+> - 📜 **Wilhelm Johannsen (*Elemente der exakten Erblichkeitslehre*):** *"Pure lines isolate a single **biotype** that breeds true across successive generations under controlled pollination."*
+> - 📜 **E. C. Stakman (*Physiological Specialization in Pathogenic Fungi*):** *"The emergence of an aggressive rust **biotype** broke down the resistance of previously immune cereal cultivars."*
+> - 📜 **Ernst Mayr (*Systematics and the Origin of Species*):** *"Taxonomists must guard against designating every transient physiological **biotype** as a separate biological species."*

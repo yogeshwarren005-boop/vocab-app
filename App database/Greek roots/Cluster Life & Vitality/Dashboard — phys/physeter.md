@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the physeteridae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the physeteridae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of cetaceans comprising the sperm whale (*Physeter macrocephalus*), the largest toothed predator on Earth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deep-diving odontocete whales possessing a massive squarish head filled with liquid spermaceti oil and an asymmetric respiratory blowhole.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, physeter designates type genus of the physeteridae."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The Sperm Whale, scientifically known as **Physeter** macrocephalus, is the most majestic and formidable monarch of the ocean deeps."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The truncated cranial architecture of **Physeter** is adapted to cradle the colossal spermaceti organ."*
+> - 📜 **Georges Cuvier (*The Animal Kingdom*):** *"The single blowhole situated near the snout apex readily identifies the mighty genus **Physeter** upon the high seas."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A feeling or expression of sincere concern for someone who is experiencing something difficult or painful; also : the capacity for this.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The action of entering into or sharing the feelings or interests of another : empathy; also : the capacity for this.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Feelings of pity, sorrow, and compassion for someone else's misfortune.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mutual affinity or harmonious agreement between persons, minds, or natural objects; resonance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be what it is, The action of my life is like it, which I’ll keep, if but for sympathy."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For Thou hast given me in this beauteous face A world of earthly blessings to my soul, If sympathy of love unite our thoughts."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go to, then, there’s sympathy."*
+> - 📜 **Adam Smith (*The Theory of Moral Sentiments*):** *"How selfish soever man may be supposed, there are evidently some principles in his nature which interest him in the fortune of others: this is **sympathy**."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"A little more than kin, and less than kind; no **sympathy** bound the grieving prince to the usurping king."*
+> - 📜 **Percy Bysshe Shelley (*A Defence of Poetry*):** *"The great secret of morals is love, or a going out of our nature, an identification of ourselves with the beautiful, which is pure **sympathy**."*

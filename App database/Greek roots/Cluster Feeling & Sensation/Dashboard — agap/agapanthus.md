@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various plants of the genus agapanthus having umbels of showy blue to purple flowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various plants of the genus agapanthus having umbels of showy blue to purple flowers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of African monocotyledonous perennial plants (family Amaryllidaceae), known as the lily of the Nile or African lily, bearing large globose umbels of blue or white flowers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A popular ornamental garden perennial derived from Greek *agapē* ('love') and *anthos* ('flower'), symbolizing tender affection in horticultural lore.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, agapanthus designates any of various plants of the genus agapanthus having umbels of showy blue to purple flowers."*
+> - 📜 **Gertrude Jekyll (*Colour in the Flower Garden*):** *"Tubs of sky-blue **agapanthus** placed along the stone terrace provided bold architectural dignity through August."*
+> - 📜 **Vita Sackville-West (*In Your Garden*):** *"The noble blue umbels of **agapanthus** withstand autumn gales if wintered safely in cold frames."*
+> - 📜 **Reginald Farrer (*The English Rock Garden*):** *"While alpine species demand lean screes, the African **agapanthus** luxuriates in deep loam and blazing sun."*

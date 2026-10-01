@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to anestrus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to anestrus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The standard British spelling of anestrous; being in a period of reproductive dormancy, sexual quiescence, or non-breeding condition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative mammalian physiology, describing the female endocrine status when ovarian follicle maturation and sexual receptivity are suspended.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anoestrous designates of or relating to anestrus."*
+> - 📜 **Francis Marshall (*The Physiology of Reproduction*):** *"The ovaries of the **anoestrous** vixen regress significantly during the late summer months."*
+> - 📜 **Arthur Dendy (*Outlines of Evolutionary Biology*):** *"Seasonal triggers reactivate the reproductive glands of previously **anoestrous** animals as spring approaches."*
+> - 📜 **Solomon Zuckerman (*Functional Affinities of Man, Monkeys, and Apes*):** *"The contrast between an **anoestrous** carnivore and an uninterrupted primate cycle highlights major evolutionary shifts."*

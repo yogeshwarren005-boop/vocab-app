@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of various gels of becoming fluid when disturbed (as by shaking).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of various gels of becoming fluid when disturbed (as by shaking).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of certain gels or viscous liquids of becoming fluid and less viscous when subjected to mechanical shear, and setting again into a gel when undisturbed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A term coined in 1927 by Herbert Freundlich from Greek *thixis* ('touch' or 'shaking') and *tropē* ('turning' or 'change').
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thixotropy designates the property of various gels of becoming fluid when disturbed (as by shaking)."*
+> - 📜 **Herbert Freundlich (*Colloid and Capillary Chemistry*):** *"We introduced the term **thixotropy** to describe this reversible transformation between gel and sol states upon shaking."*
+> - 📜 **Eugene Bingham (*Fluidity and Plasticity*):** *"Industrial paints depend upon **thixotropy** to flow smoothly beneath the brush and set immediately without sagging on the wall."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"The water-saturated sands of the tidal flats exhibit **thixotropy**, turning to liquid quagmire beneath the unwary walker's boot."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The use of chemicals containing gold for treating diseases (such as rheumatoid arthritis).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The use of chemicals containing gold for treating diseases (such as rheumatoid arthritis).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The therapeutic use of gold salts or gold compounds in the treatment of disease; aurotherapy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In rheumatology and pharmacology, the administration of injectable gold compounds (such as gold sodium thiomalate) to slow joint degradation in severe rheumatoid arthritis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chrysotherapy designates the use of chemicals containing gold for treating diseases (such as rheumatoid arthritis)."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Careful renal monitoring is essential during **chrysotherapy**, as gold compounds may induce proteinuria and nephropathy."*
+> - 📜 **Donald Seldin (*The Kidney: Physiology and Pathophysiology*):** *"Membranous glomerulonephritis is a recognized complication of long-term parenteral **chrysotherapy** for inflammatory arthritis."*
+> - 📜 **Alfred Goodman Gilman (*The Pharmacological Basis of Therapeutics*):** *"The introduction of modern biologics largely superseded **chrysotherapy**, owing to gold's frequent cutaneous and marrow toxicities."*

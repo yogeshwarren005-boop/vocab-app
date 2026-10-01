@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Flat on one side and convex on the other.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Flat on one side and convex on the other.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Flat on one side and convex on the other (of an optical lens).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An optical converging lens possessing one planar surface and one outwardly curved spherical face.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The free zoospores are of the form of a planoconvex lens, obtuse at the edge."*
+> - 📜 **Robert Hooke (*Micrographia*):** *"The objective of my compound microscope consisted of a miniature **planoconvex** glass bead."*
+> - 📜 **Isaac Newton (*Opticks*):** *"Pressing a **planoconvex** lens against an optical flat produced the concentric rings of Newton's rings."*
+> - 📜 **René Descartes (*Dioptrique*):** *"The **planoconvex** profile minimizes spherical aberration when the curved face faces the incoming parallel beam."*

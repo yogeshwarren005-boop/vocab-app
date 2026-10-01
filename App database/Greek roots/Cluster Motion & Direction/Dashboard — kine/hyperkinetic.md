@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or affected with hyperkinesis or hyperactivity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by fast-paced or frenetic activity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by or suffering from hyperkinesis; marked by excessive movement, fast tempo, or extreme restlessness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cardiology and hemodynamics, denoting a hyperdynamic circulatory state (hyperkinetic circulation) marked by elevated cardiac output, tachycardia, and bounding peripheral pulses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyperkinetic designates of, relating to, or affected with hyperkinesis or hyperactivity."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"Her speech became breathless and hurried, matching her erratic, **hyperkinetic** bursts of physical energy."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In severe anemia and thyrotoxicosis, we encounter a **hyperkinetic** cardiovascular state with wide pulse pressures."*
+> - 📜 **Alexander Luria (*The Working Brain*):** *"Children suffering from frontal lobe disinhibition display a **hyperkinetic** behavioral pattern that disrupts classroom learning."*

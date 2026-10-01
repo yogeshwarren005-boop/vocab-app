@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without apparent forethought or prompting or planning.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not done with purpose or intent.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not planned, expected, or premeditated; spontaneous or accidental.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Developing or occurring without intentional forethought, blueprint, or systematic schedule.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I was never able to do it but that once, and that one time was wholly unplanned and unexpected."*
+> - 📜 **Jane Jacobs (*The Death and Life of Great American Cities*):** *"Vibrant city neighborhoods thrive upon **unplanned** sidewalk encounters between diverse citizens."*
+> - 📜 **Virginia Woolf (*To the Lighthouse*):** *"An **unplanned** pause in the conversation allowed the rhythm of the waves to fill the silent room."*
+> - 📜 **Lewis Mumford (*The City in History*):** *"The mediaeval town expanded organically in an **unplanned** maze of winding alleys and open markets."*

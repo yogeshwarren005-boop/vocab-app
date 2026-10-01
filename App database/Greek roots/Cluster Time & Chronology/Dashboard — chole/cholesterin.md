@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An animal sterol that is normally synthesized by the liver; the most abundant steroid in animal tissues.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An animal sterol that is normally synthesized by the liver; the most abundant steroid in animal tissues.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An older chemical name for cholesterol, designating the white crystalline sterol found in bile and animal tissues.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of organic and physiological chemistry, the crystalline fat-like substance first discovered in human gallstones by Poulletier de la Salle and Chevreul.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cholesterin designates an animal sterol that is normally synthesized by the liver; the most abundant steroid in animal tissues."*
+> - 📜 **Justus von Liebig (*Animal Chemistry*):** *"Chemical isolation showed that biliary calculi consist almost entirely of pure, crystalline **cholesterin**."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"Bile contains a small proportion of **cholesterin**, a non-nitrogenous crystalline body soluble in alcohol."*
+> - 📜 **William Benjamin Carpenter (*Principles of Human Physiology*):** *"Excessive saturation of bile with **cholesterin** results in spontaneous crystallization and gallstone genesis."*

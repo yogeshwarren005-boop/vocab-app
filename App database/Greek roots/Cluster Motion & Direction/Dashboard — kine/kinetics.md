@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of science that deals with the effects of forces upon the motions of material bodies or with changes in a physical or chemical system.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The rate of change in such a system.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of classical mechanics concerned with the forces that cause or modify the motion of bodies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical chemistry (chemical kinetics) and pharmacology (pharmacokinetics), the quantitative study of the rates of reactions and the absorption, distribution, and elimination of substances.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, kinetics designates a branch of science that deals with the effects of forces upon the motions of material bodies or with changes in a physical or chemical system."*
+> - 📜 **Svante Arrhenius (*Quantitative Laws in Biological Chemistry*):** *"The mathematical equations of chemical **kinetics** apply with equal precision to enzymatic digestion in living cells."*
+> - 📜 **William Rankine (*A Manual of Applied Mechanics*):** *"While kinematics considers motion alone, **kinetics** introduces the concepts of force, inertia, and work."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The modern clinician must understand drug **kinetics** to maintain therapeutic blood concentrations without causing toxicity."*

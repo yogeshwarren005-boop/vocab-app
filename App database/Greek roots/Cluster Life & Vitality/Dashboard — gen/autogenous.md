@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Produced independently of external influence or aid : endogenous.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Originating or derived from sources within the same individual.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Originating within an organism itself; self-produced; endogenous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In immunology and medicine, derived from the patient's own body (such as an autogenous skin graft or autogenous vaccine).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, autogenous designates produced independently of external influence or aid : endogenous."*
+> - 📜 **Alexis Carrel (*The Preservation of Tissues*):** *"The surgical survival of an **autogenous** vein graft far exceeds that achieved with homologous arterial transplants."*
+> - 📜 **Almroth Wright (*Studies on Immunisation*):** *"In intractable furunculosis, immunization with an **autogenous** bacterial vaccine provoked a decisive clinical cure."*
+> - 📜 **Claude Bernard (*An Introduction to the Study of Experimental Medicine*):** *"The internal milieu possesses **autogenous** regulatory mechanisms that maintain thermal and chemical constancy."*

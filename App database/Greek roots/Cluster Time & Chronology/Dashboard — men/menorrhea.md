@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek men.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Time & Chronology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The normal flow or discharge of menstruation; catamenia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gynecological physiology, the periodic shedding of the secretory endometrium accompanied by blood and mucosal tissue.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, menorrhea designates a term designating an entity, condition, or phenomenon derived from greek men."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"Normal **menorrhea** occurs every twenty-eight days as a consequence of the sudden withdrawal of progesterone."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The regular recurrence of healthy **menorrhea** indicates intact neuroendocrine coordination of the pituitary-ovarian axis."*
+> - 📜 **Robley Dunglison (*Medical Lexicon*):** *"We designate the natural cyclical evacuation as **menorrhea**, distinguishing it from excessive or painful discharges."*

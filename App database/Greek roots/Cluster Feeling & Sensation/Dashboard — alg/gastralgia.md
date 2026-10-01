@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek alg.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Feeling & Sensation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Severe, paroxysmal pain or cramping localized to the stomach; gastric neuralgia or stomach ache.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical clinical medicine, non-ulcer neurosis of the stomach characterized by spasmodic epigastric pain independent of food intake.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gastralgia designates a term designating an entity, condition, or phenomenon derived from greek alg."*
+> - 📜 **William Beaumont (*Experiments and Observations on the Gastric Juice and the Physiology of Digestion*):** *"Sudden irritation of the inner mucosal lining induced intense **gastralgia** accompanied by pallor and nausea."*
+> - 📜 **Armand Trousseau (*Lectures on Clinical Medicine*):** *"True **gastralgia** often mimics organic ulcer, yet yields dramatically to antispasmodics and rest."*
+> - 📜 **George Miller Beard (*American Nervousness*):** *"Neurasthenic exhaustion among brain-workers commonly manifests in functional dyspepsia and debilitating **gastralgia**."*

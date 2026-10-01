@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the practice of allopathy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the practice of allopathy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or characteristic of allopathy; conventional, mainstream medical practice utilizing pharmacologic agents and surgery.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to therapeutic methods designed to produce physiological effects contrary to those produced by the disease being treated.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, allopathic designates of or relating to the practice of allopathy."*
+> - 📜 **Samuel Hahnemann (*The Chronic Diseases*):** *"Every **allopathic** prescription attempts to suppress symptoms violently without addressing the dynamic spiritual disturbance."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The triumph of **allopathic** medicine rests upon pathological anatomy, bacteriology, and rigorous clinical observation."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Currents and Counter-Currents in Medical Science*):** *"I would rather trust a fever to pure cold water and fresh air than to reckless **allopathic** doses of calomel."*

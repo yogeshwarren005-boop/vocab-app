@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Exobiology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exobiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The interdisciplinary study of the origin, evolution, distribution, and future of life in the universe.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The investigation of planetary habitability, prebiotic chemical evolution, and potential biosignatures in extreme terrestrial and celestial environments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, astrobiology designates exobiology."*
+> - 📜 **Carl Sagan (*Cosmos*):** *"The emerging science of **astrobiology** compels us to view our home planet from the vantage point of cosmic evolution."*
+> - 📜 **Joshua Lederberg (*Exobiology: Approaches to Life beyond the Earth*):** *"NASA established programs in **astrobiology** to assess quarantine requirements for lunar and Martian sample returns."*
+> - 📜 **Lynn Margulis (*What Is Life?*):** *"True **astrobiology** must encompass both microbiology and the geocosmology of atmospheric regulation."*

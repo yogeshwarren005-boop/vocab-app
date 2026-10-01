@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek bio.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Life & Vitality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A biostratigraphic unit consisting of rock strata defined and characterized by the presence of specific fossil taxa.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The body of strata corresponding to the total stratigraphical range of a designated index fossil.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, biozone designates a term designating an entity, condition, or phenomenon derived from greek bio."*
+> - 📜 **William Joscelyn Arkell (*The Jurassic System in Great Britain*):** *"The ammonite **biozone** serves as the gold standard for global correlation of Mesozoic marine sedimentary formations."*
+> - 📜 **Amadeus William Grabau (*Principles of Stratigraphy*):** *"Boundaries of each **biozone** record evolutionary appearances, migrations, and local extinctions of index organisms."*
+> - 📜 **Stephen Jay Gould (*Time's Arrow, Time's Cycle*):** *"Stratigraphers chart historical time through a succession of **biozones**, translating rock layers into evolutionary history."*

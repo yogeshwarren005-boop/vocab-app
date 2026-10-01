@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With respect to pathology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With respect to pathology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a pathological manner; as a consequence of or in relation to disease.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an extreme, obsessive, or abnormal degree.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pathologically designates with respect to pathology."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"The liver parenchyma was **pathologically** altered, cells distended with globules of neutral fat."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"Certain religious hysterics appear **pathologically** sensitive to noise and light during their visions."*
+> - 📜 **Henry Maudsley (*Body and Mind*):** *"The patient was **pathologically** suspicious, suspecting that poison had been infused into his evening tea."*

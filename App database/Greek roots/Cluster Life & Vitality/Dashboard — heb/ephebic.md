@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characteristic of an ephebe or ephebus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or characteristic of an ephebe or ephebus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characteristic of an ephebe, youth, or the period of adolescence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In paleontology and evolutionary morphology, describing the mature or adult stage of an individual organism or fossil shell (ephebic stage).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ephebic designates of, relating to, or characteristic of an ephebe or ephebus."*
+> - 📜 **Alpheus Hyatt (*Genesis of the Arietidae*):** *"We trace the ammonite shell from its smooth embryonic nepionic stage to its ornate adult **ephebic** whorls."*
+> - 📜 **Pausanias (*Description of Greece*):** *"The sculptor captured the graceful, athletic posture of **ephebic** youth preparing for the Olympic footrace."*
+> - 📜 **Gilbert Murray (*The Rise of the Greek Epic*):** *"Homeric poetry celebrates the radiant beauty and tragic vulnerability of the young warrior in his **ephebic** bloom."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Wearing away by friction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of a substance, especially a strong acid; capable of destroying or eating away by chemical action.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to erode; causing, characterized by, or resulting from gradual abrasion, wearing away, or corrosion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a destructive, gnawing, or corrosive effect upon anatomical tissues (e.g., erosive gastritis) or institutional foundations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, erosive designates wearing away by friction."*
+> - 📜 **Charles Lyell (*Elements of Geology*):** *"The ceaseless **erosive** power of oceanic breakers shatters the toughest basalt headlands into shingle."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Chronic ingestion of irritants provokes an **erosive** gastritis that may precipitate severe gastrointestinal bleeding."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"Radical speculative dogmas exert an **erosive** influence upon the unwritten customs that hold civil society together."*

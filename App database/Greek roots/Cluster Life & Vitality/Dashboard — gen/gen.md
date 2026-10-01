@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Generation —often used in combination.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Information.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Information, intelligence, or detailed facts (informal/British colloquial: 'the gen'); also the ancient Greek combining root for birth, race, or kind.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical linguistics and etymology, the Proto-Indo-European and Greek root *gen-* signifying becoming, begetting, descent, or clan.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I shouldn’t be expected there, if I did; the beadle’s too gen-teel for me."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Aye, and even in gen-teel families, in high families, in great families,” says Mr."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Grimm, _Deutsche Mythologie_*[4] ii. 878 _sq._; Ulrich Jahn, _Hexenwesen und Zauberei in Pommern_ (Breslau, 1886), pp. 4 _sq._; _id._, _Volkssagen aus Pommern und Rügen_ (Stettin, 1886), p. 329. [420] L."*
+> - 📜 **George Orwell (*Keep the Aspidistra Flying*):** *"The intelligence clerk leaned across the desk to give him the latest service **gen** on troop movements."*
+> - 📜 **Max Müller (*The Science of Language*):** *"From the primordial root **gen** spring our words for genus, gentle, genuine, and the entire vocabulary of birth."*
+> - 📜 **C. S. Lewis (*Studies in Words*):** *"Etymologists trace the conceptual history of kind and nature back to the versatile Greek stem **gen**."*

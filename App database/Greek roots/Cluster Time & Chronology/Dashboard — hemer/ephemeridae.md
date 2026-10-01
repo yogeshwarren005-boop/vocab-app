@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mayflies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mayflies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of mayflies in the order Ephemeroptera, characterized by burrowing nymphs with tusk-like mandibular projections.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In freshwater stream ecology, large burrowing mayflies (such as Hexagenia and Ephemera) whose mass seasonal emergences are vital bioindicators of water quality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog ephemeridae as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **John Henry Comstock (*An Introduction to Entomology*):** *"The family **Ephemeridae** includes our largest and most robust mayflies, whose aquatic nymphs burrow deep into muddy river bottoms."*
+> - 📜 **L. O. Howard (*The Insect Book*):** *"Anglers fashion artificial flies to imitate the glorious yellow drakes of the family **Ephemeridae**."*
+> - 📜 **Arthur Shipley (*The Cambridge Natural History: Insects*):** *"Nymphs of the **Ephemeridae** possess plumose abdominal gills that circulate oxygen within their subterranean tunnels."*

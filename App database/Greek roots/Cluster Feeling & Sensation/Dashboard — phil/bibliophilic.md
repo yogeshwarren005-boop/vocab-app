@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to bibliophiles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to bibliophiles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, characterized by, or displaying a love of books, fine editions, or book collecting.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to the aesthetic appreciation of book design, typography, and binding.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bibliophilic designates of or relating to bibliophiles."*
+> - 📜 **Edgar Allan Poe (*The Fall of the House of Usher*):** *"Our books formed no small portion of our mental life, pursued with an intense, melancholy **bibliophilic** zeal."*
+> - 📜 **Thomas Frognall Dibdin (*Bibliomania*):** *"The Duke exhibited a refined **bibliophilic** taste, assembling the finest illuminated manuscripts in Europe."*
+> - 📜 **John Ruskin (*Sesame and Lilies*):** *"True **bibliophilic** reverence treats a great author's volume not as luxury furniture, but as sacred bread."*

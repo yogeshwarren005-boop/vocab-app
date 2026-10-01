@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ba.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Motion & Direction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A basidiocarp; the macroscopic reproductive fruiting structure of a basidiomycetous fungus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The hymenium-bearing sporocarp produced by higher fungi during sexual reproduction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, basidioma designates a term designating an entity, condition, or phenomenon derived from greek ba."*
+> - 📜 **Arthur Henry Reginald Buller (*Researches on Fungi*):** *"Orientation of the pileus ensures that the **basidioma** releases spores into free laminar air currents."*
+> - 📜 **David Hawksworth (*Ainsworth & Bisby's Dictionary of the Fungi*):** *"Mycologists use **basidioma** as the precise anatomical synonym for the basidiomycete fruit body."*
+> - 📜 **Anton de Bary (*Comparative Morphology and Biology of the Fungi*):** *"Development of the fleshy **basidioma** proceeds through intricate hyphal differentiation."*

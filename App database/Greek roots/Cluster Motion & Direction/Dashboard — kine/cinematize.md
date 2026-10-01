@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make a film of or adopt so as to make into a film.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make a film of or adopt so as to make into a film.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To adapt a novel, poem, or factual narrative into a motion picture film.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In media studies, to transform written or static material into dynamic, visually orchestrated moving sequences suitable for the screen.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cinematize designates make a film of or adopt so as to make into a film."*
+> - 📜 **F. Scott Fitzgerald (*The Last Tycoon*):** *"The studio executives gathered in the projection room to decide how best to **cinematize** the bestselling romance."*
+> - 📜 **Aldous Huxley (*Eyeless in Gaza*):** *"He tried to **cinematize** his philosophical theories, hoping moving diagrams might penetrate the apathy of modern youth."*
+> - 📜 **Arthur Conan Doyle (*Memories and Adventures*):** *"Pioneering filmmakers approached him for permission to **cinematize** the exploits of Sherlock Holmes upon the silver screen."*

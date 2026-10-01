@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Short-lived insect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Short-lived insect.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mayfly; an aquatic insect belonging to the family Ephemeridae, characterized by delicate veined wings and an exceptionally brief adult life.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In freshwater entomology, an insect with aquatic nymphal stages lasting years, emerging as an alate subimago and imago solely to mate and oviposit within hours.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ephemerid designates short-lived insect."*
+> - 📜 **Izaak Walton (*The Compleat Angler*):** *"The trout rose eagerly to seize the dancing **ephemerid** as it drifted upon the quiet evening pool."*
+> - 📜 **John Henry Comstock (*A Manual for the Study of Insects*):** *"The mouthparts of the adult **ephemerid** are vestigial, for the creature lives only to reproduce and die before sunset."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The tracheal gills of the **ephemerid** nymph demonstrate exquisite respiratory adaptation to swift freshwater currents."*

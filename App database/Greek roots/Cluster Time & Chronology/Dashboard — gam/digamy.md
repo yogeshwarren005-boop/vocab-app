@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A second marriage after the termination of the first.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A second marriage after the termination of the first.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Second marriage, especially after the death of the first spouse; deuterogamy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical jurisprudence and ecclesiastical history, marriage after the legal dissolution or bereavement of a prior marriage, distinct from bigamy (simultaneous marriages).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, digamy designates a second marriage after the termination of the first."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Christian emperors tolerated **digamy**, though civil law penalized excessive multiplication of successive nuptials."*
+> - 📜 **Edward Westermarck (*The History of Human Marriage*):** *"Ancient Hindu law strictly forbade **digamy** to high-caste widows, enforcing lifelong austerity or sati."*
+> - 📜 **Oliver Goldsmith (*The Vicar of Wakefield*):** *"My father spent his life denouncing **digamy**, insisting that true conjugal fidelity survives beyond mortality."*

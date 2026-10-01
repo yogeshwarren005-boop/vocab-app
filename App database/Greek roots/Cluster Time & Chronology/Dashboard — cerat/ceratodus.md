@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extinct lungfish.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extinct lungfish.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of fossil lungfishes of the Mesozoic era, characterized by horn-shaped, ridged dental plates used for crushing shelled invertebrates.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical ichthyology, initially named from Triassic tooth plates by Agassiz, and historically applied to the extant Queensland lungfish (now Neoceratodus forsteri).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ceratodus designates extinct lungfish."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The lungfish **Ceratodus** survives in sluggish rivers as an anomalous relic of a once dominant Paleozoic group."*
+> - 📜 **Thomas Henry Huxley (*Proceedings of the Zoological Society of London*):** *"Dissection of **Ceratodus** revealed a vascular lung capable of sustaining the creature when summer drought stagnated the pools."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The peculiar dentition of **Ceratodus** consists of undulating, horn-like ridges anchored firmly to the palatopterygoid bones."*

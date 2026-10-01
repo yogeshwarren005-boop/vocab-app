@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a blastoderm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a blastoderm.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or having the nature of a blastoderm; blastodermatic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Describing embryonic structures such as the blastodermic vesicle (blastocyst) or blastodermic disc.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, blastodermic designates of or relating to a blastoderm."*
+> - 📜 **Thomas Henry Huxley (*The Elements of Embryology*):** *"The **blastodermic** vesicle of the rabbit expands rapidly within the uterine lumen prior to attachment."*
+> - 📜 **Alexander Kowalevsky (*Embryological Studies*):** *"Superficial cleavage results in a continuous **blastodermic** monolayer enclosing the central unsegmented yolk."*
+> - 📜 **Hans Spemann (*Embryonic Development and Induction*):** *"The dorsal lip of the **blastodermic** margin exercises inductive control over neural tube formation."*

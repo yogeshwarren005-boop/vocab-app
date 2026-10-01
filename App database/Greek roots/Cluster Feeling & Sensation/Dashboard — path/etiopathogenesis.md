@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek path.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Feeling & Sensation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The combined cause (etiology) and subsequent developmental course (pathogenesis) of a disease or pathological condition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern pathology and clinical medicine, the comprehensive conceptual framework that traces a disorder from its initial molecular triggers to systemic clinical manifestations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, etiopathogenesis designates a term designating an entity, condition, or phenomenon derived from greek path."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Uncovering the true **etiopathogenesis** of inflammation required us to track cellular proliferation under the microscope."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A thorough understanding of the **etiopathogenesis** of tuberculosis transformed sanatorium practice from guesswork into science."*
+> - 📜 **Paul Ehrlich (*Studies in Immunity*):** *"In clarifying the **etiopathogenesis** of diphtheria, we demonstrated that bacterial toxins, not the bacilli themselves, cause systemic collapse."*

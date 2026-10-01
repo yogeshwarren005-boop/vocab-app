@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Convert into keratin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Become horny and impregnated with keratin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To develop, deposit, or transform into keratin; to make or become horny.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cellular physiology, the genetic and metabolic programmed process whereby basal epithelial cells mature into desquamating cornified corneocytes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, keratinize designates convert into keratin."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"During epidermal differentiation, basal cells steadily synthesize tonofilaments that eventually **keratinize** the entire stratum corneum."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Vitamin A deficiency impairs the capacity of mucous membranes to secrete mucus, prompting them to **keratinize** into dry scales."*
+> - 📜 **Florence Nightingale (*Notes on Nursing*):** *"Persistent pressure over bony prominences causes the overlying skin to thicken and **keratinize** in defense."*

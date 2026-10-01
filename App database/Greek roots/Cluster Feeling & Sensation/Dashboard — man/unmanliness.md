@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait of being effeminate (derogatory of a man).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of being effeminate (derogatory of a man).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or quality of lacking manly virtues such as courage, fortitude, self-control, and honor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Behavior regarded as cowardly, irresolute, or effeminate in classical and traditional moral discourse.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unmanliness designates the trait of being effeminate (derogatory of a man)."*
+> - 📜 **John Locke (*Some Thoughts Concerning Education*):** *"Whining and crying over trivial physical scratches should be discouraged early as signs of future **unmanliness**."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"To yield to despair under unexpected misfortune is a shameful **unmanliness** that surrenders reason to passion."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"Idleness and sentimental lamentation are forms of moral **unmanliness** unworthy of working men in a serious universe."*

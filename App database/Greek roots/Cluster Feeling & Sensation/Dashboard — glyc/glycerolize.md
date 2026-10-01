@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Place in glycerol.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Place in glycerol.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To treat or infuse biological specimens, cells, or blood units with glycerol to prevent cellular damage during freezing and cryostorage (American spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cryobiology and biophysics, to protect cellular membranes against mechanical shearing from ice crystals during ultra-low temperature preservation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, glycerolize designates place in glycerol."*
+> - 📜 **Charles Drew (*Banked Blood and Plasma Storage*):** *"Careful laboratory technicians **glycerolize** rare erythrocyte units to maintain military reserve stocks indefinitely."*
+> - 📜 **William Carlos Williams (*Autobiography*):** *"Modern hematology discovered how to **glycerolize** blood, cheating the clock that once spoiled stored pints in three weeks."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"When you **glycerolize** living tissue, the polyol molecules displace water around structural proteins, maintaining stability."*

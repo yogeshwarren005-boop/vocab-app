@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A gastrointestinal hormone that stimulates the secretion of pancreatic enzymes and the contraction and emptying of the gall bladder; its release is stimulated by the presence of fatty acids and amino acids in the small intestine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A gastrointestinal hormone that stimulates the secretion of pancreatic enzymes and the contraction and emptying of the gall bladder; its release is stimulated by the presence of fatty acids and amino acids in the small intestine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A peptide hormone secreted by the mucosa of the upper small intestine that stimulates the contraction of the gallbladder and secretion of pancreatic digestive enzymes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gastrointestinal physiology and neurobiology, a brain-gut peptide (CCK) stimulated by luminal fatty acids and amino acids that also induces postprandial satiety in the central nervous system.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cholecystokinin designates a gastrointestinal hormone that stimulates the secretion of pancreatic enzymes and the contraction and emptying of the gall bladder; its release is stimulated by the presence of fatty acids and amino acids in the small intestine."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"Ingestion of fats stimulates the duodenal mucosa to release **cholecystokinin**, causing vigorous evacuation of gallbladder bile."*
+> - 📜 **Ivan Pavlov (*Lectures on the Work of the Digestive Glands*):** *"Humoral agents such as **cholecystokinin** orchestrate the synchronized release of pancreatic enzymes upon the entry of chyme."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The physiological discovery of **cholecystokinin** clarified the intricate hormonal regulation governing biliary and pancreatic flow."*

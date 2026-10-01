@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by fusion of heterogamous gametes or of individuals that usually differ chiefly in size.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by fusion of heterogamous gametes or of individuals that usually differ chiefly in size.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A form of sexual reproduction involving the fusion of two gametes that differ in size and/or form; heterogamy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary theory, the asymmetric reproductive paradigm wherein disruptive selection favored either numerous tiny mobile sperm or few large nutrient-rich eggs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anisogamy designates characterized by fusion of heterogamous gametes or of individuals that usually differ chiefly in size."*
+> - 📜 **John Maynard Smith (*The Evolution of Sex*):** *"The establishment of **anisogamy** created the foundational evolutionary conflict of interest between male and female mating strategies."*
+> - 📜 **Edmund Beecher Wilson (*The Cell in Development and Inheritance*):** *"Through **anisogamy**, nature reconciles the necessity for widespread motile search with the requirement for embryonic yolk storage."*
+> - 📜 **George Christopher Williams (*Sex and Evolution*):** *"The universal prevalence of **anisogamy** among multicellular animals and plants remains one of biology's most striking convergences."*

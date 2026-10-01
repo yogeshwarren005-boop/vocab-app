@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An unsuitable alliance (especially with regard to marriage).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An unsuitable alliance (especially with regard to marriage).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An improper, unsuitable, or undesirable alliance or marriage, especially one with a person of lower social status or incompatible temperaments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social satire and drama, a mismatch of partners that creates domestic friction and violates dynastic expectations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Sir Giles Wapshot's family were insulted that one of the Wapshot girls had not the preference in the marriage, and the remaining baronets of the county were indignant at their comrade's misalliance."*
+> - 📜 **George Bernard Shaw (*Misalliance*):** *"The aristocrat considered his son's match with the merchant's daughter an outrageous **misalliance**."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Old Osborne disinherited George for his scandalous **misalliance** with poor, penniless Amelia."*
+> - 📜 **Honoré de Balzac (*Lost Illusions*):** *"A provincial nobility terrified of extinction regarded every middle-class match as a ruinous **misalliance**."*

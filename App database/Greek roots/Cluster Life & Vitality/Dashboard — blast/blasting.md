@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make a strident sound.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hit hard.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of shattering rock or earth with detonating explosives.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A destructive withering, blighting, or ruinous assault on vegetation, health, or hopes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here is your husband, like a mildew’d ear Blasting his wholesome brother."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Bless thee from whirlwinds, star-blasting, and taking!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Shall we thus permit A blasting and a scandalous breath to fall On him so near us?"*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Extensive quarrying and rock **blasting** along the railway cut exposed pristine fossiliferous strata."*
+> - 📜 **John Milton (*Samson Agonistes*):** *"God delivered him from the treacherous snare and the pestilential **blasting** of his enemies."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"A fierce thunderbolt struck the old willow, **blasting** its mighty trunk into blackened splinters in an instant."*

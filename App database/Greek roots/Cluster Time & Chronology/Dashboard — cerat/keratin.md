@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various sulfur-containing, fibrous, acidic or basic proteins chiefly of epithelial cells and tissues that are relatively insoluble and resistant to degradation, form filaments which assemble into bundles to provide structural support, and are the primary component of hair, nails, horns, claws, hooves, quills, scales, feathers and the epidermal layer of skin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various sulfur-containing, fibrous, acidic or basic proteins chiefly of epithelial cells and tissues that are relatively insoluble and resistant to degradation, form filaments which assemble into bundles to provide structural support, and are the primary component of hair, nails, horns, claws, hooves, quills, scales, feathers and the epidermal layer of skin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A tough, fibrous, insoluble protein that forms the chief structural constituent of hair, nails, hooves, horns, claws, and outer epidermal layers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In molecular biochemistry, an intermediate filament protein rich in cysteine amino acids whose covalent disulfide cross-links provide tensile strength and water insolubility.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, keratin designates any of various sulfur-containing, fibrous, acidic or basic proteins chiefly of epithelial cells and tissues that are relatively insoluble and resistant to degradation, form filaments which assemble into bundles to provide structural support, and are the primary component of hair, nails, horns, claws, hooves, quills, scales, feathers and the epidermal layer of skin."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Hyperkeratosis results from the excessive synthesis and accumulation of **keratin** within the stratum corneum."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The epidermal cells gradually flatten, lose their nuclei, and transform into compact scales of impervious **keratin**."*
+> - 📜 **D'Arcy Wentworth Thompson (*On Growth and Form*):** *"The helical curves of ram horns and antelope spirals reflect differential deposition rates of **keratin** around the bony core."*

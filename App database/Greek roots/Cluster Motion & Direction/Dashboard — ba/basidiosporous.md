@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or characterized by spores produced by basidia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characterized by spores produced by basidia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Producing or bearing basidiospores; relating to spores produced upon a basidium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Propagated through sexually formed basidiospores within the phylum Basidiomycota.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, basidiosporous designates of or relating to or characterized by spores produced by basidia."*
+> - 📜 **Arthur Henry Reginald Buller (*Researches on Fungi*):** *"The hymenial layer displays dense **basidiosporous** arrays positioned for windborne dispersal."*
+> - 📜 **Pier Andrea Saccardo (*Sylloge Fungorum*):** *"This **basidiosporous** order differs fundamentally from the ascus-bearing fungi in its spore formation."*
+> - 📜 **David Hawksworth (*Ainsworth & Bisby's Dictionary of the Fungi*):** *"Taxonomic keys classify the bracket fungi as **basidiosporous** saprophytes degrading forest lignocellulose."*

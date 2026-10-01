@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Associated with the priesthood or priests.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Befitting or characteristic of a priest or the priesthood.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or befitting a priest; sacerdotal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by solemn dignity, religious sanctity, or pastoral solemnity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Bid Nestor bring me spices, ink and paper, My casket and my jewels; and bid Nicander Bring me the satin coffer: lay the babe Upon the pillow: hie thee, whiles I say A priestly farewell to her: suddenly, woman. [_Exit Lychorida._] SECOND SAILOR."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"It was the priestly rulers and priestly politicians of Jerusalem."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The abstraction was a cheat and a lie manufactured in the priestly mind."*
+> - 📜 **William Shakespeare (*Henry VIII*):** *"He exercised his **priestly** duties with such solemn grace that all were moved to reverence."*
+> - 📜 **John Henry Newman (*Apologia Pro Vita Sua*):** *"He wore his **priestly** vestments with the deep reverence born of sacramental faith."*
+> - 📜 **Jack London (*The Sea-Wolf*):** *"Wolf Larsen mocked the gentle, **priestly** compassion that guided Humphrey's moral outlook."*

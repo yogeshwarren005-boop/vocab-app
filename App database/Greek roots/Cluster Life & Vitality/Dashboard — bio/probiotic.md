@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A microorganism (such as lactobacillus) that when consumed (as in a food or a dietary supplement) maintains or restores beneficial bacteria to the digestive tract; also : a product or preparation that contains such microorganisms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A microorganism (such as lactobacillus) that when consumed (as in a food or a dietary supplement) maintains or restores beneficial bacteria to the digestive tract; also : a product or preparation that contains such microorganisms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Promoting life or health; specifically, a live microorganism that confers health benefits to the host when consumed in adequate amounts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Beneficial bacterial strains (such as *Lactobacillus* and *Bifidobacterium*) that support mucosal barrier function and gut microbiome equilibrium.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, probiotic designates a microorganism (such as lactobacillus) that when consumed (as in a food or a dietary supplement) maintains or restores beneficial bacteria to the digestive tract; also : a product or preparation that contains such microorganisms."*
+> - 📜 **Élie Metchnikoff (*The Prolongation of Life*):** *"Consuming lactic acid bacteria exerts a **probiotic** influence, suppressing harmful putrefactive microbes within the colon."*
+> - 📜 **R. Fuller (*Probiotics in Man and Animals*):** *"We defined a **probiotic** as a live microbial feed supplement which beneficially affects the host animal by improving intestinal microbial balance."*
+> - 📜 **Martin Blaser (*Missing Microbes*):** *"Modern clinical therapies deploy targeted **probiotic** cultures to restore diversity depleted by aggressive broad-spectrum antibiotics."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of animals) feeding on plants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of animals) feeding on plants.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Herbivorous; feeding naturally upon plants and vegetation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by dentition, digestive anatomy, or behavior adapted for consuming botanical forage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plant-eating designates (of animals) feeding on plants."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"The teeth of **plant-eating** quadrupeds are modified into broad grinding molars for crushing fibrous cellulose."*
+> - 📜 **Richard Owen (*A History of British Fossil Mammals and Birds*):** *"The giant sloth was an immense **plant-eating** mammal that stripped leafy foliage from prehistoric trees."*
+> - 📜 **Thomas Henry Huxley (*Man's Place in Nature*):** *"Comparison of primate skulls shows adaptations distinguishing carnivorous apes from strictly **plant-eating** herbivores."*

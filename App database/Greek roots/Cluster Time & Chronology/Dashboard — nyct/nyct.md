@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek nyct.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Time & Chronology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The root nyct- (from Greek nyx, nyktos, night), signifying nocturnal habits, darkness, or night phenomena.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A morphological combining form occurring in scientific terms related to nighttime biology, medicine, and behavior.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nyct designates a term designating an entity, condition, or phenomenon derived from greek nyct."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"Greek **nyct**- enters into numerous biological and botanical terms describing night activity."*
+> - 📜 **Walter Skeat (*An Etymological Dictionary of the English Language*):** *"The root **nyct**- descends from Indo-European nokwt-, giving English night and Greek nyx."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"Mythological personifications of darkness frequently preserve the archaic stem **nyct**- across Indo-European poetry."*

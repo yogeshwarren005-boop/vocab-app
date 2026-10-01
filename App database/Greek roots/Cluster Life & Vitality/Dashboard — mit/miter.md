@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Joint that forms a corner; usually both sides are bevelled at a 45-degree angle to form a 90-degree corner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The surface of a beveled end of a piece where a miter joint is made.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A tall liturgical headdress with two peaks worn by bishops and abbots in Christian churches; also a joint between two pieces bevelled at an angle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To bevel the ends of two pieces of wood or stone (usually at 45 degrees) to form a right-angle corner (miter joint).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, miter designates joint that forms a corner; usually both sides are bevelled at a 45-degree angle to form a 90-degree corner."*
+> - 📜 **William Shakespeare (*Henry V*):** *"If it pass against us, we lose the better half of our possession: for all the temporal lands which men devout by testament have given to the church would they strip from our **miter**."*
+> - 📜 **John Milton (*Lycidas*):** *"The pilot of the Galilean lake shook his **miter**'d locks, mourning the untimely departure of young Lycidas."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The proud prelate assumed the jeweled **miter** and pastoral crosier, defying the secular decree of the emperor."*

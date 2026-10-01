@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Death instinct.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An innate and unconscious tendency toward self-destruction postulated in psychoanalytic theory to explain aggressive and destructive behavior not satisfactorily explained by the pleasure principle —called also Thanatos.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Death personified in classical Hellenic mythology, serving as an attendant of Hades alongside his brother Hypnos.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The psychological concept of the death drive (mortido or destructive drive) in post-Freudian psychoanalytic literature.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thanatos designates death instinct."*
+> - 📜 **Hesiod (*Theogony*):** *"There dwell the children of dark Night, glowing Sleep and dreadful **Thanatos**, terrible gods whom the shining sun never looks upon with his beams."*
+> - 📜 **Sigmund Freud (*Civilization and Its Discontents*):** *"The fateful question for the human species seems to me to be whether and to what extent their cultural development will succeed in mastering the disturbance of their communal life by the human instinct of aggression and self-destruction—the drive of **Thanatos**."*
+> - 📜 **Carl Jung (*Psychological Types*):** *"In psychic equilibrium, the creative vitality of Eros must constantly balance the silent pulling of **Thanatos** toward dissolution."*

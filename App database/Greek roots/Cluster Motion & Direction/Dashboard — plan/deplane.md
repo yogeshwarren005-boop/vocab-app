@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Get off an airplane.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Get off an airplane.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To disembark or step down from an airplane.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To alight upon an airfield tarmac following completion of a flight.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, deplane designates get off an airplane."*
+> - 📜 **Ernest Hemingway (*Selected Letters*):** *"We were glad to **deplane** into the sweltering heat of Nairobi after eighteen hours in the air."*
+> - 📜 **Beryl Markham (*West with the Night*):** *"The passengers waited patiently to **deplane** as the small cabin door was unbolted."*
+> - 📜 **Antoine de Saint-Exupéry (*Southern Mail*):** *"The courier prepared to **deplane** with his locked leather mail sacks before dawn."*

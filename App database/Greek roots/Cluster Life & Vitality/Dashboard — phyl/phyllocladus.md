@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Celery pine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Celery pine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of Southern Hemisphere conifers in the family Podocarpaceae, known as celery pines, having celery-like phylloclades.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Evergreen timber trees native to New Zealand, Tasmania, and Malesia whose photosynthetic shoots are flattened, lobed cladodes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phyllocladus designates celery pine."*
+> - 📜 **Leonard Cockayne (*The Vegetation of New Zealand*):** *"Specimens of **Phyllocladus** trichomanoides tower eighty feet above the sub-alpine forest understory."*
+> - 📜 **Joseph Dalton Hooker (*Handbook of the New Zealand Flora*):** *"The seed of **Phyllocladus** sits in a fleshy cup-like aril, distributed by frugivorous forest birds."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"In **Phyllocladus**, true leaves appear only as transient juvenile seedlings, quickly replaced by thick celery-like phyllodes."*

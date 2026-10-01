@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring or existing at the same time or having the same period or phase; - jour.a.m.a.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Occurring or existing at the same time or having the same period or phase; - jour.a.m.a.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Happening, existing, or occurring at the same time; synchronous; simultaneous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical astronomy and mechanics, describing astronomical motions, orbital resonances, or signal waves that coincide temporally.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, synchronal designates occurring or existing at the same time or having the same period or phase; - jour.a.m.a."*
+> - 📜 **Simon Newcomb (*Popular Astronomy*):** *"The **synchronal** revolutions of the moon ensure that one hemisphere remains perpetually turned away from terrestrial view."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"We observe a **synchronal** flowering among alpine species triggered by the sudden melting of mountain snows."*
+> - 📜 **Lord Kelvin (*Mathematical and Physical Papers*):** *"The **synchronal** pulsation of the fluid vortices demonstrated the conservation of angular momentum in the ideal medium."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Golden aster.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Golden aster.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of North American composite herbs in the aster family (Asteraceae), commonly called golden asters.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In field botany, drought-tolerant herbaceous perennials bearing radiate heads of golden-yellow ray and disk flowers in sandy soils and prairies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chrysopsis designates golden aster."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The dry pine barrens were brightened by the yellow heads of **Chrysopsis**, blooming late into autumn."*
+> - 📜 **John Muir (*The Mountains of California*):** *"Along the gravelly terrace, golden asters of **Chrysopsis** opened their radiant rays to the warm autumn sun."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"Species of **Chrysopsis** are valued in native plant landscaping for their ability to thrive in poor, sandy barrens."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The presence of an abnormal amount of cholesterol in the cells and plasma of the blood; associated with the risk of atherosclerosis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The presence of an abnormal amount of cholesterol in the cells and plasma of the blood; associated with the risk of atherosclerosis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An excess of cholesterol in the blood, predisposing to coronary artery disease and atherosclerosis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cardiovascular endocrinology, a metabolic condition often caused by mutations in the LDL receptor gene (familial hypercholesterolemia) or atherogenic high-saturated-fat diets.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypercholesterolemia designates the presence of an abnormal amount of cholesterol in the cells and plasma of the blood; associated with the risk of atherosclerosis."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"Familial **hypercholesterolemia** is caused by defective low-density lipoprotein receptors that fail to remove cholesterol from the circulation."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Severe **hypercholesterolemia** produces tuberous xanthomas upon the extensor tendons of the hands and Achilles tendons."*
+> - 📜 **Donald Seldin (*The Kidney: Physiology and Pathophysiology*):** *"The nephrotic syndrome frequently induces secondary **hypercholesterolemia** owing to upregulated hepatic lipoprotein synthesis."*

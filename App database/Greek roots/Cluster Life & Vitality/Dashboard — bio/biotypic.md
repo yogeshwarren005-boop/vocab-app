@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a biotype.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a biotype.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or having the characteristics of a biotype.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Describing hereditary identity or uniform genetic constitution across an inbred lineage or clone.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, biotypic designates of or relating to a biotype."*
+> - 📜 **Wilhelm Johannsen (*The Genotype Conception of Heredity*):** *"Selection within a **biotypic** strain yields no permanent hereditary alteration in the absence of mutation."*
+> - 📜 **Sewall Wright (*Evolution and the Genetics of Populations*):** *"Severe bottlenecks reduce population variance to a virtually uniform **biotypic** ensemble."*
+> - 📜 **G. Ledyard Stebbins (*Variation and Evolution in Plants*):** *"Apomictic plants produce swarms of microspecies that exhibit rigid **biotypic** stability."*

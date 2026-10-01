@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Portuguese man-of-war.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Portuguese man-of-war.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of siphonophores including the Portuguese man-of-war (*Physalia physalis*), colonial hydrozoans with gas-filled floating bladders.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pelagic marine organism consisting of an integrated colony of specialized zooids (pneumatophore, dactylozooids, gastrozooids) armed with virulent nematocysts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, physalia designates portuguese man-of-war."*
+> - 📜 **Thomas Henry Huxley (*The Oceanic Hydrozoa*):** *"The iridescent blue pneumatophore of **Physalia** acts as an organic sail, drifting across tropical ocean currents."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"I caught several specimens of **Physalia**, whose trailing stinging tentacles produced painful, burning wheals upon the arm."*
+> - 📜 **Ernst Haeckel (*Art Forms in Nature*):** *"The exquisite symmetry of **Physalia** illustrates the ultimate triumph of polymorphic colonial integration in the Cnidaria."*

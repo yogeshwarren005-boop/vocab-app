@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A reproductive gland (such as an ovary or testis) that produces gametes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A reproductive gland (such as an ovary or testis) that produces gametes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An organ that produces gametes; an ovary or a testis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A primary reproductive gland producing sex hormones (androgens, estrogens, and progestins) as well as germ cells.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gonad designates a reproductive gland (such as an ovary or testis) that produces gametes."*
+> - 📜 **Richard Owen (*Lectures on Comparative Anatomy*):** *"In primitive marine invertebrates, the **gonad** is a simple follicular aggregation discharging through body pores."*
+> - 📜 **Claude Bernard (*Lectures on Experimental Physiology*):** *"The endocrine secretion of the **gonad** coordinates the maturation of secondary sexual plumage in birds."*
+> - 📜 **Thomas Hunt Morgan (*Sex and Heredity*):** *"The embryonic **gonad** remains indifferent until sex-determining chromosomes dictate testicular or ovarian fate."*

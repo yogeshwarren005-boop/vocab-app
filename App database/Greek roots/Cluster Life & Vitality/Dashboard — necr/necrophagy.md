@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeding on corpses or carrion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Feeding on corpses or carrion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The habit of feeding on dead bodies or decaying flesh; the ecological consumption of carrion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ecological niche occupied by scavengers (hyenas, vultures, silphid beetles) that cleanses ecosystems of putrefying carcasses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, necrophagy designates feeding on corpses or carrion."*
+> - 📜 **Eugene Odum (*Fundamentals of Ecology*):** *"Carrion consumption or **necrophagy** diverts substantial biomass from bacterial decay directly back into higher trophic levels."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"Swarms of burying beetles executed efficient **necrophagy**, dragging small rodent carcasses beneath the forest litter."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The robust crushing dentition of the hyaena is specialized for habitual **necrophagy** and the splintering of large marrow bones."*

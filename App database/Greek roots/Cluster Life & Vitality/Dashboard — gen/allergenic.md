@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or having the effect of an allergen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or having the effect of an allergen.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the property of an allergen; capable of causing an allergic response.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by specific antigenic epitopes that stimulate IgE-mediated immunological hypersensitivity in sensitized hosts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, allergenic designates relating to or having the effect of an allergen."*
+> - 📜 **Clemens von Pirquet (*Clinical Studies on Allergy*):** *"Fractionation of ragweed extract isolated its most potent **allergenic** protein component."*
+> - 📜 **Bela Schick (*The Nature of Cutaneous Reactions*):** *"Intradermal injection elicited an immediate wheal-and-flare confirming the **allergenic** potency of the test serum."*
+> - 📜 **René Dubos (*The Bacterial Cell*):** *"Certain capsular polysaccharides display negligible toxicity yet evoke violent **allergenic** responses upon reinfection."*

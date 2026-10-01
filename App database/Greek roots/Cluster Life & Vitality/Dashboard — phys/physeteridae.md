@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sperm whales.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sperm whales.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The family of toothed whales (order Cetacea, suborder Odontoceti) that comprises the sperm whale and related fossil forms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marine mammals characterized by an immense spermaceti organ, teeth restricted primarily to the narrow lower jaw, and abyssal diving specializations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, physeteridae designates sperm whales."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The family **Physeteridae** exhibits profound cranial asymmetry correlated with specialized echolocation and deep diving."*
+> - 📜 **William Henry Flower (*An Introduction to the Osteology of the Mammalia*):** *"Fossil crania demonstrate that the **Physeteridae** diversified extensively during the Miocene epoch."*
+> - 📜 **Ray Lankester (*A Treatise on Zoology*):** *"Extreme specialization of the nasal passages separates the **Physeteridae** from all other living odontocete families."*

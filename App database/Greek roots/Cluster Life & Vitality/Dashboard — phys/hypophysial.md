@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the hypophysis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the hypophysis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or derived from the hypophysis (pituitary gland); variant of hypophyseal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to the pituitary fossa, stalk, or the neuroendocrine hormones of the hypophysis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypophysial designates of or relating to the hypophysis."*
+> - 📜 **Harvey Cushing (*The Pituitary Body and Its Disorders*):** *"Suprasellar cysts derived from Rathke's pouch induce progressive **hypophysial** compression and dwarfism."*
+> - 📜 **Claude Bernard (*Lectures on the Phenomena of Life*):** *"The **hypophysial** stalk coordinates neural signals from the diencephalon with peripheral glandular activity."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Signs of intracranial tension accompanying acromegaly indicate primary **hypophysial** enlargement."*

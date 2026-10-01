@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the family tachyglossidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the family tachyglossidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The genus of short-beaked echidnas (*Tachyglossus aculeatus*), characterized by spiny quills, an egg-laying reproductive strategy, and a rapid insect-catching tongue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mammalian zoology, the monotypic genus representing the short-beaked echidna of Australia and southern New Guinea, capable of entering deep torpor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tachyglossus designates type genus of the family tachyglossidae."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"Dissection of the palate in **Tachyglossus** reveals specialized horny spines that grind insect prey against the roof of the mouth."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"The skeleton of **Tachyglossus** retains primitive reptilian features in the shoulder girdle, notably an interclavicle."*
+> - 📜 **Arthur Dendy (*Outlines of Evolutionary Biology*):** *"When threatened by predators, **Tachyglossus** burrows straight down into the gravel with astonishing speed until only spines protrude."*

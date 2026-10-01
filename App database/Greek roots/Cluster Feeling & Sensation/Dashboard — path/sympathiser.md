@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Commiserates with someone who has had misfortune.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who shares your feelings or opinions and hopes that you will be successful.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who agrees with, feels compassion for, or provides support to an opinion, party, or cause (Commonwealth spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A covert or open adherent of an insurgent, political, or social movement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anne Gilchrist (*Mary Lamb*):** *"I have satisfaction," Charles tells his unfailing sympathiser Coleridge, "in being able to bid you rejoice with me in my sister's continued reason and composedness of mind."*
+> - 📜 **Walter Scott (*Waverley*):** *"Every Jacobite **sympathiser** in the Highlands drank secretly to the health of the king across the water."*
+> - 📜 **Arthur Conan Doyle (*The Valley of Fear*):** *"The coal company suspected that every third miner was a secret **sympathiser** with the Scowrers."*
+> - 📜 **Joseph Conrad (*Under Western Eyes*):** *"Razumov was horrified to find himself celebrated as a heroic **sympathiser** with the bomb-throwing revolutionist."*

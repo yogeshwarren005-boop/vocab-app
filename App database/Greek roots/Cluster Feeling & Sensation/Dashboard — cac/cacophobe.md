@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek cac.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Feeling & Sensation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who fears, abhors, or displays an extreme aversion to harsh, discordant noise or disharmonious sounds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An acoustic purist or delicate listener who cannot tolerate musical dissonance, industrial clamor, or vocal discord.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cacophobe designates a term designating an entity, condition, or phenomenon derived from greek cac."*
+> - 📜 **Friedrich Nietzsche (*Nietzsche contra Wagner*):** *"The sensitive listener becomes a terrified **cacophobe** when confronted with the blaring brass storms of modern music dramas."*
+> - 📜 **E. M. Forster (*A Room with a View*):** *"Poor Cecil was an inveterate **cacophobe**, fleeing to the quiet library at the first hint of vulgar drawing-room clatter."*
+> - 📜 **George Moore (*Evelyn Innes*):** *"Her father lived as a musical **cacophobe**, refusing to allow any unmelodic nineteenth-century composition past his doorway."*

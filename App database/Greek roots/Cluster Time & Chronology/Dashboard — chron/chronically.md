@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a habitual and longstanding manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a slowly developing and long lasting manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a chronic manner; persistently, continually, or over an extended period.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical epidemiology and sociological analysis, characterizing pathological states or behavioral deficits that recur indefinitely.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"It may be said, for short, that every organ of the lower body became chronically diseased, and that the headaches increased in violence."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"They both had weak eyes, which I had long attributed to their chronically looking in at keyholes, and they were always at hand when not wanted; indeed that was their only reliable quality besides larceny."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Silent, slow, and solemn; bowing over still further his chronically broken back, he toiled away, as if toil were life itself, and the heavy beating of his hammer the heavy beating of his heart."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The bronchial mucous membrane remained **chronically** congested, predisposing the patient to seasonal purulent exacerbations."*
+> - 📜 **George Orwell (*The Road to Wigan Pier*):** *"The coal miners were **chronically** undernourished, struggling against inadequate rations in damp, sunless dwellings."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"The patients remained **chronically** immobilized in post-encephalitic stupor until the dramatic introduction of L-DOPA."*

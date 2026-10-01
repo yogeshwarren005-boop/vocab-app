@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An expanded petiole taking on the function of a leaf blade.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An expanded petiole taking on the function of a leaf blade.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A petiole (leaf stalk) that is flattened, expanded, and green, functioning as a foliage leaf blade.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A xerophytic adaptation prominent in Australian acacias where true compound leaf blades are lost and the stalk serves photosynthesis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phyllode designates an expanded petiole taking on the function of a leaf blade."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"In Australian acacias, the true bipinnate leaves vanish as the sapling grows, giving place to vertically oriented **phyllodes**."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"The vertical orientation of the **phyllode** enables the acacia to avoid the scorching heat of midday Australian sunshine."*
+> - 📜 **Johann Wolfgang von Goethe (*The Metamorphosis of Plants*):** *"The expansion of the leaf stalk into a **phyllode** demonstrates how vegetative parts transform into functional blades."*

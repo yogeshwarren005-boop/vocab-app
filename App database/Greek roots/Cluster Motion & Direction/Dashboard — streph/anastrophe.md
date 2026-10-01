@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inversion of the usual syntactical order of words for rhetorical effect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inversion of the usual syntactical order of words for rhetorical effect.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rhetorical figure of speech in which the normal syntactic order of words is inverted for artistic effect or emphasis (e.g., 'Into the sea plunged she').
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical and English stylistics, literally 'a turning back' (Greek anastrophe), widely used in heroic epic and poetry to enhance dignity and rhythm.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anastrophe designates inversion of the usual syntactical order of words for rhetorical effect."*
+> - 📜 **John Milton (*Paradise Lost*):** *"In Milton's grand style, deliberate **anastrophe** lends an antique majesty to descriptions of the angelic rebellion."*
+> - 📜 **Alexander Pope (*The Art of Sinking in Poetry*):** *"The poet employs **anastrophe** to elevate common speech above the vulgar idiom of the market."*
+> - 📜 **George Saintsbury (*A History of English Prose Rhythm*):** *"Judicious **anastrophe** allows an author to place the most emphatic word precisely at the close of the period."*

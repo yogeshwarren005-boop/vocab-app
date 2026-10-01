@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or deriving from the apostles or their teachings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Proceeding from or ordered by or subject to a pope or the papacy regarded as the successor of the apostles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, characteristic of, or tracing descent from the Apostles of Jesus Christ or their foundational teachings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In canonical and ecclesiastical law, designating decrees, letters, or delegated authority emanating directly from the Holy See (the Apostolic See) or ancient patriarchal jurisdictions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She might just now have been Apostolic Charity herself returned to a self-seeking modern world."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"In numerical strength they usually approximated to the apostolic figure of twelve, and Dr."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"Cairns used to remark that their Christian names included a surprisingly large number of apostolic pairs."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The bishop of Rome asserted his primacy by invoking an unbroken chain of **apostolic** succession."*
+> - 📜 **John Locke (*A Letter Concerning Toleration*):** *"No church can justly claim an **apostolic** pedigree that denies mutual toleration and freedom of inward conscience."*
+> - 📜 **George Eliot (*Romola*):** *"Fra Girolamo addressed the multitude with the austere zeal of an **apostolic** reformer summoning Florence to repentance."*

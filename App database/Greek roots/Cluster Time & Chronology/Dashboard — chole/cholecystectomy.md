@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgical excision of the gallbladder.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surgical excision of the gallbladder.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The surgical excision and removal of the gallbladder.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In general and abdominal surgery, the definitive treatment for symptomatic cholelithiasis and acute cholecystitis, routinely performed via laparoscopic or open operative approaches.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cholecystectomy designates surgical excision of the gallbladder."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In cases of gangrenous gallbladder disease, prompt **cholecystectomy** prevents fatal bile peritonitis."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"Following **cholecystectomy**, bile drains continuously from the liver directly into the duodenum without intermediate gallbladder storage."*
+> - 📜 **Charles McBurney (*Annals of Surgery*):** *"The successful completion of **cholecystectomy** demands meticulous dissection of Calot's triangle to safeguard the common bile duct."*

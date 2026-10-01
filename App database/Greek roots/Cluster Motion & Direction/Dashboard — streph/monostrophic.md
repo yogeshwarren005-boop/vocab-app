@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of turn.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of turn.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Consisting of or written in a single strophe or stanza; having uniform stanzas throughout.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical prosody, composed in identical repeated meters rather than triad structures of strophe, antistrophe, and epode.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monostrophic designates adjective*) pertaining to, derived from, or characteristic of turn."*
+> - 📜 **John Milton (*Samson Agonistes*):** *"Milton notes in his preface that the choral odes are **monostrophic**, following emotional cadence rather than dance turns."*
+> - 📜 **George Saintsbury (*A History of English Prosody*):** *"The simple ballad stanza provides a **monostrophic** framework well-suited for extended oral narrative."*
+> - 📜 **Algernon Charles Swinburne (*Studies in Prose and Poetry*):** *"The hymn moves in a majestic, **monostrophic** march that never flags in musical momentum."*

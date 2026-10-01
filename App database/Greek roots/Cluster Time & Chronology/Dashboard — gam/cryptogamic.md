@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a cryptogam.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a cryptogam.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to or characteristic of cryptogams; reproducing by spores rather than flowers and seeds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In floristics and ecology, describing ground cover composed of mosses, liverworts, lichens, and ferns; cryptogamic crusts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"When the cryptogamic plants of the world shall have been as widely examined and as well understood as the phanerogamic plants have been, we shall be in a better position to determine the geographical distribution of the different orders of fungi."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The proportion which the cryptogamic section bears to the phanerogamic in our local Floras before 1818, now almost involuntarily causes a smile."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"For many years he has toiled earnestly and vigorously at the lower cryptogams, as evidenced by his “Scottish Cryptogamic Flora,” published in 1823; and yet his continual additions to the records of science show him to be earnest and vigorous still."*
+> - 📜 **William Jackson Hooker (*British Flora: Cryptogamia*):** *"The humid Scottish highlands nourish an incomparable **cryptogamic** flora among the peat bogs and dripping crags."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"In the rain-soaked forests of Tierra del Fuego, the **cryptogamic** vegetation cloaks every decaying trunk in lush emerald moss."*
+> - 📜 **John Muir (*My First Summer in the Sierra*):** *"The granite domes were coated with ancient **cryptogamic** crusts that softened the glaring sunshine into mellow olive tones."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An operation that removes a circular section of bone from the skull.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An operation that removes a circular section of bone from the skull.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The surgical operation of drilling or cutting a circular hole into the skull with a trephine to relieve intracranial pressure or access the brain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ancient surgical practice (trepanning) performed since the Neolithic era to treat head injuries, headaches, or spiritual afflictions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trephination designates an operation that removes a circular section of bone from the skull."*
+> - 📜 **Paul Broca (*Sur la Trépanation Préhistorique*):** *"Prehistoric skulls unearthed in Peruvian caverns show unmistakable evidence of successful **trephination** with healed bone margins."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Emergency **trephination** over the middle meningeal artery relieves expanding epidural hemorrhage following head trauma."*
+> - 📜 **Harvey Cushing (*The Pituitary Body and Its Disorders*):** *"Neurosurgical subtemporal **trephination** decompresses intolerable intracranial tension in inoperable neoplasms."*

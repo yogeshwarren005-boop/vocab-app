@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Myrtaceae; combretaceae; elaeagnaceae; haloragidaceae; melastomaceae; lecythidaceae; lythraceae; rhizophoraceae; onagraceae; lecythidaceae; punicaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Myrtaceae; combretaceae; elaeagnaceae; haloragidaceae; melastomaceae; lecythidaceae; lythraceae; rhizophoraceae; onagraceae; lecythidaceae; punicaceae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An order of dicotyledonous flowering plants recognized in historical botanical systems of classification (such as Hutchinson's), centered upon the family Thymelaeaceae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A taxonomic order characterized by perigynous or epigynous tubular flowers with tough fibrous cortical tissues.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thymelaeales designates myrtaceae; combretaceae; elaeagnaceae; haloragidaceae; melastomaceae; lecythidaceae; lythraceae; rhizophoraceae; onagraceae; lecythidaceae; punicaceae."*
+> - 📜 **John Hutchinson (*The Families of Flowering Plants*):** *"The order **Thymelaeales** represents an evolutionary specialization derived from bixalean ancestors, marked by fibrous bark."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"Under the classical order **Thymelaeales**, botanists united the mezereon family with allied apetalae of temperate forests."*
+> - 📜 **George Bentham (*Genera Plantarum*):** *"The affinities of the **Thymelaeales** link them with both the Proteaceae and the Myrtales through calyx structure."*

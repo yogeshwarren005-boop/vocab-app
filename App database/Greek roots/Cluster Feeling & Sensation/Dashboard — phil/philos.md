@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Philosophy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Philosophy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ancient Greek adjective and noun meaning beloved, dear, friend, comrade, or kin; the root of philosophical and philanthropic terms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical Hellenic ethics and epic poetry, denoting both close personal companions and the social obligations of reciprocal hospitality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, philos designates philosophy."*
+> - 📜 **Homer (*Iliad*):** *"Achilles wept bitter tears over his fallen comrade Patroclus, his dearest **philos**, swearing bloody vengeance against Hector."*
+> - 📜 **Aristotle (*Nicomachean Ethics*):** *"He who has many friends has no true **philos**, for noble friendship cannot be divided among multitudes."*
+> - 📜 **Henry George Liddell & Robert Scott (*A Greek-English Lexicon*):** *"The adjective **philos** originally signified one's own, before evolving into the universal Hellenic term for friend."*

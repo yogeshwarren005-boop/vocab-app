@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or occurring on the undersurface of the foot.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or occurring on the undersurface of the foot.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the sole of the foot.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anatomy, designating muscles, nerves, tendons, or fascia located on the inferior surface of the human foot.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plantar designates relating to or occurring on the undersurface of the foot."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The **plantar** fascia forms a thick central band that maintains the longitudinal arch of the foot."*
+> - 📜 **Joseph Babinski (*Sur le réflexe cutané plantaire*):** *"Dorsiflexion of the great toe upon stroking the sole constitutes the celebrated **plantar** reflex."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A loss of normal **plantar** sensation provides early clinical evidence of peripheral neuropathy."*

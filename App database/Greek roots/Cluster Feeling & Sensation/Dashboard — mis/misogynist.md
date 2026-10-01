@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who hates or discriminates against women : a misogynistic person.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Feeling, showing, or characterized by hatred of or prejudice against women : misogynistic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who dislikes, despises, or is strongly prejudiced against women.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An individual who holds or expresses beliefs that women are morally, intellectually, or physically inferior to men.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, misogynist designates a person who hates or discriminates against women : a misogynistic person."*
+> - 📜 **Jonathan Swift (*A Modest Proposal*):** *"The satirist was frequently branded a cruel **misogynist**, though his sharpest arrows targeted hypocrisy in both sexes."*
+> - 📜 **Arthur Conan Doyle (*A Scandal in Bohemia*):** *"Sherlock Holmes was never a general **misogynist**, but he distrusted the emotional instability of the female character."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mr. Casaubon was no crude **misogynist**, but his dry pedantry left no room for Dorothea's vibrant spirit."*

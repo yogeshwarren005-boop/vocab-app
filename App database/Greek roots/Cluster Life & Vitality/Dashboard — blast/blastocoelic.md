@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a segmentation cavity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a segmentation cavity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or situated within the blastocoel.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to the internal fluid-filled cavity of the cleavage-stage embryo and its biochemical microenvironment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, blastocoelic designates of or relating to a segmentation cavity."*
+> - 📜 **Hans Spemann (*Embryonic Development and Induction*):** *"Microsurgical injection of vital dyes into the **blastocoelic** cavity allowed continuous tracking of presumptive neural tissue."*
+> - 📜 **C. H. Waddington (*Principles of Embryology*):** *"The **blastocoelic** fluid contains extracellular matrix polymers that facilitate cellular crawling during epiboly."*
+> - 📜 **Ross Granville Harrison (*Organization of the Developing Embryo*):** *"Cells bordering the **blastocoelic** surface exhibit distinct apicobasal polarity essential for coordinated gastrulation."*

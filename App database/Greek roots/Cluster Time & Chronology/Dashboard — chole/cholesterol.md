@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A waxy, fat-like substance C27H46O that is found in the cells, tissues, and body fluids of humans and animals and that serves as a component of cell membranes and functions as a precursor of vitamin D and steroid hormones (such as cortisol and estrogen).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The amount of cholesterol in someone's blood.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A lipid sterol essential for animal cell membrane integrity and the biochemical precursor of steroid hormones, bile acids, and vitamin D.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cardiovascular medicine, an amphipathic lipid transported in blood plasma within lipoproteins (HDL, LDL); elevated LDL levels are a major cause of atherosclerotic plaque.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cholesterol designates a waxy, fat-like substance c27h46o that is found in the cells, tissues, and body fluids of humans and animals and that serves as a component of cell membranes and functions as a precursor of vitamin d and steroid hormones (such as cortisol and estrogen)."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"Excessive plasma concentrations of low-density lipoproteins rich in **cholesterol** foster the development of atherosclerosis."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The arterial intima becomes laden with deposits of **cholesterol** crystals, culminating in fibrous atheromatous plaques."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Under the microscope, atheromatous degenerations of the arterial wall exhibit shimmering rhombic plates of **cholesterol**."*

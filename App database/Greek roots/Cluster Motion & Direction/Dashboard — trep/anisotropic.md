@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not invariant with respect to direction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not invariant with respect to direction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having physical properties (such as conductivity, refractive index, or elasticity) that have different values when measured in different directions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In crystallography and materials science, describing non-cubic crystalline lattices or oriented polymeric matrices whose atomic arrangements depend on spatial orientation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anisotropic designates not invariant with respect to direction."*
+> - 📜 **Lord Kelvin (*Popular Lectures and Addresses*):** *"Light passing through an **anisotropic** crystal splits into two rays polarized in perpendicular planes."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"In an **anisotropic** dielectric medium, the electric displacement vector is not necessarily parallel to the applied electric field."*
+> - 📜 **William Henry Bragg (*X Rays and Crystal Structure*):** *"The unequal thermal expansion along the axes of calcite proves its thoroughly **anisotropic** molecular lattice."*

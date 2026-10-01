@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of tame.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of tame.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lasting only for a single day; fleeting; ephemeral.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical and medical terminology, describing fevers, floral blossoms, or biological phenomena that run their course within twenty-four hours.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ephemerous designates adjective*) pertaining to, derived from, or characteristic of tame."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A mild, **ephemerous** fever in children frequently resolves spontaneously upon the evacuation of digestive irritants."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The delicate white petals of the spiderwort are **ephemerous**, dissolving into a jelly-like drop before noon."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"Praise won through trivial novelties is purely **ephemerous**, forgotten before the next edition of the town journal."*

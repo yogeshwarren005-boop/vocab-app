@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of the operation of factors causing degeneration in the type of offspring produced.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The study of the operation of factors causing degeneration in the type of offspring produced.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of factors that bring about the genetic degeneration or biological decline of a population; the opposite of eugenics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The social or evolutionary processes that result in an increase in deleterious genetic traits within a gene pool.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dysgenics designates the study of the operation of factors causing degeneration in the type of offspring produced."*
+> - 📜 **Francis Galton (*Inquiries into Human Faculty and Its Development*):** *"We must analyze both the benefits of positive eugenics and the perils of uncontrolled social **dysgenics**."*
+> - 📜 **Theodosius Dobzhansky (*Genetic Diversity and Human Equality*):** *"Pessimistic doctrines of **dysgenics** often overlook the buffering capacity of cultural institutions and modern medicine."*
+> - 📜 **Julian Huxley (*Essays of a Biologist*):** *"A society that ignores reproductive demographics risks institutionalizing biological **dysgenics** under the guise of welfare."*

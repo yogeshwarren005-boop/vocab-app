@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to blastemata.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to blastemata.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or resembling a blastema.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to the undifferentiated cellular mass that drives biological epimorphic regeneration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, blastemal designates of or relating to blastemata."*
+> - 📜 **C. H. Waddington (*Principles of Embryology*):** *"Signaling gradients within the **blastemal** cone instruct proliferating cells regarding their distal positional identity."*
+> - 📜 **Ross Granville Harrison (*Experiments on the Development of the Limbs*):** *"Grafting experiments confirm that **blastemal** tissue retains intrinsic self-organizing autonomy under neutral culture."*
+> - 📜 **Julian Huxley (*Problems of Relative Growth*):** *"Differential mitotic rates in **blastemal** zones determine the relative proportions of developing appendages."*

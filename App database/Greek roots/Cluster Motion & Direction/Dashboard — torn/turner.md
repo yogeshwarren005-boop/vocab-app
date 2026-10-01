@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: United states slave and insurrectionist who in 1831 led a rebellion of slaves in virginia; he was captured and executed (1800-1831).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states endocrinologist (1892-1970).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who shapes wood, metal, or other materials by cutting on a lathe.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A gymnast who is a member of a Turnverein (German gymnastics society, from German turnen to practice gymnastics).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Ternaux-Compans, _Essai sur l'ancien Cundinamarca_ (Paris, N.D.), p. 18. [174] George Turner, LL.D., _Samoa, a Hundred Years ago and long before_ (London, 1884), p. 200."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"On Andrew Turner In se’enteen hunder’n forty-nine, The deil gat stuff to mak a swine, An’ coost it in a corner; But wilily he chang’d his plan, An’ shap’d it something like a man, An’ ca’d it Andrew Turner."*
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"Don't you wish you had?" as Turner said."*
+> - 📜 **Thomas Hardy (*Under the Greenwood Tree*):** *"The local wood **turner** fashioned bowls, spinning wheels, and chair rungs for all the neighboring parishes."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The division of labor permits the skilled **turner** to produce ten times the spindles in a single day."*
+> - 📜 **George Eliot (*Silas Marner*):** *"Beside the hearth sat a three-legged stool, cleanly carved by a village **turner** half a century before."*

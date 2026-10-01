@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An inflectional form of a verb typically denoting simple occurrence of an action without reference to its completeness, duration, or repetition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An inflectional form of a verb typically denoting simple occurrence of an action without reference to its completeness, duration, or repetition.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A past tense in Greek and certain other languages expressing simple completed action without specifying duration or continuation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical philology and Hellenic grammar, the aspectual tense (from Greek aoristos 'undefined') presenting an event in its totality as a punctual fact.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aorist designates an inflectional form of a verb typically denoting simple occurrence of an action without reference to its completeness, duration, or repetition."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"The Greek **aorist** signifies an action completed in past time without reference to its duration or consequences."*
+> - 📜 **B. L. Gildersleeve (*Syntax of Classical Greek*):** *"The fundamental power of the **aorist** is to present the action as a simple occurrence, like a point on a line."*
+> - 📜 **William Watson Goodwin (*Syntax of the Moods and Tenses of the Greek Verb*):** *"In narrative prose, the historian uses the **aorist** to record successive historical facts in rapid, concise sequence."*

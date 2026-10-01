@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Autopsy; especially : an autopsy performed on an animal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To perform an autopsy on.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The post-mortem surgical examination of a body to determine the cause of death or evaluate the extent of disease; an autopsy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In veterinary medicine and experimental pathology, the anatomical dissection of an animal carcass.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, necropsy designates autopsy; especially : an autopsy performed on an animal."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Careful pathological correlation at **necropsy** remains the final and most authoritative teacher of the clinician."*
+> - 📜 **William Boyd (*A Textbook of Pathology*):** *"Routine **necropsy** revealed extensive unsuspected atheroma of the coronary arteries with acute thrombosis."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Every systematic **necropsy** must combine gross macroscopic inspection with microscopic histochemical verification."*

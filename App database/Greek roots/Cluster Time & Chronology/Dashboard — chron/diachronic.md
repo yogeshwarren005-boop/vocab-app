@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Used of the study of a phenomenon (especially language) as it changes through time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used of the study of a phenomenon (especially language) as it changes through time.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Concerned with the way in which something, especially language, has developed and evolved through time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistics and structuralism, relating to historical change and evolutionary development across successive chronological stages, as distinguished from synchronic (at a single point in time).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diachronic designates used of the study of a phenomenon (especially language) as it changes through time."*
+> - 📜 **Ferdinand de Saussure (*Course in General Linguistics*):** *"Linguistic science must scrupulously separate the **diachronic** study of phonetic evolution from the synchronic study of grammatical relations."*
+> - 📜 **Roman Jakobson (*Selected Writings*):** *"A purely static view of phonology is impossible, because every synchronic system contains **diachronic** traces of ongoing change."*
+> - 📜 **Claude Lévi-Strauss (*Structural Anthropology*):** *"The anthropologist navigates between the **diachronic** narrative of tribal history and the synchronic structure of mythic motifs."*

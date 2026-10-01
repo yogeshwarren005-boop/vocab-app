@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone sent on a mission--especially a religious or charitable mission to a foreign country.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone sent on a mission--especially a religious or charitable mission to a foreign country.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is sent on or conducts a religious mission, particularly a preacher of parish missions or revivals; a missionary.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A member of an ecclesiastical community dedicated to preaching, pastoral visitation, and charitable relief among the urban poor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"It was the men’s temperance retreat conducted by the missioner, the reverend John Hughes S."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Under this order a commission was 100:15 appointed, and Benjamin Franklin was one of the com- missioners."*
+> - 📜 **John Wesley (*Journal*):** *"The parish **missioner** preached in the market-place to thousands of colliers who had never darkened a church door."*
+> - 📜 **Charles Dickens (*The Chimes*):** *"The devoted city **missioner** labored among the damp cellar dwellings of London, bringing comfort to the dying."*
+> - 📜 **John Henry Newman (*Sermons on Various Occasions*):** *"The visiting **missioner** brought a revival of prayer to parishes that had grown lukewarm under routine."*

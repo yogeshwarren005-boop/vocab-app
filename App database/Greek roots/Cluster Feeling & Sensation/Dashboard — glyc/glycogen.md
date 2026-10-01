@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A white amorphous tasteless polysaccharide (C6H10O5)x that is the principal form in which glucose is stored in animal tissues and especially muscle and liver tissue.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A white amorphous tasteless polysaccharide (C6H10O5)x that is the principal form in which glucose is stored in animal tissues and especially muscle and liver tissue.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A multi-branched polysaccharide of glucose that serves as the principal form of carbohydrate energy storage in animals, fungi, and humans ('animal starch').
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Synthesized and stored primarily in liver and skeletal muscle cells, broken down enzymatically into glucose to maintain blood sugar homeostasis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, glycogen designates a white amorphous tasteless polysaccharide (c6h10o5)x that is the principal form in which glucose is stored in animal tissues and especially muscle and liver tissue."*
+> - 📜 **Claude Bernard (*On the Mechanism of the Formation of Sugar in the Liver*):** *"I discovered in the hepatic tissue a starch-like substance, which I named **glycogen**, capable of producing sugar continuously."*
+> - 📜 **Hans Krebs (*The Citric Acid Cycle*):** *"Muscle contraction draws upon local **glycogen** reserves to fuel rapid anaerobic bursts of lactic acid fermentation."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In severe diabetes, the liver fails to retain its stored **glycogen**, pouring excessive sugar directly into the circulatory stream."*

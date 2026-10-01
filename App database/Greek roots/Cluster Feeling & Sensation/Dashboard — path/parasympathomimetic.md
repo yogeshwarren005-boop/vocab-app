@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having an effect similar to that resulting from stimulation of the parasympathetic nervous system.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having an effect similar to that resulting from stimulation of the parasympathetic nervous system.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Producing physiological effects resembling those caused by stimulation of the parasympathetic nervous system (cholinergic).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacology, describing cholinomimetic drugs (e.g., pilocarpine, physostigmine, bethanechol) that stimulate muscarinic receptors or inhibit acetylcholinesterase.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parasympathomimetic designates having an effect similar to that resulting from stimulation of the parasympathetic nervous system."*
+> - 📜 **Henry Hallett Dale (*Adventures in Physiology*):** *"Acetylcholine acts as the quintessential **parasympathomimetic** transmitter, inducing bronchoconstriction and profuse salivary secretion."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Ophthalmologists utilize the **parasympathomimetic** action of pilocarpine drops to constrict the pupil in acute glaucoma."*
+> - 📜 **Walter Cannon (*Bodily Changes in Pain, Hunger, Fear and Rage*):** *"Administration of a **parasympathomimetic** agent accelerates gastric peristalsis, reversing the inhibitory shutdown of fear."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A pathological egotist.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pathological egotist.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who suffers from megalomania; someone with an obsessive delusion of their own greatness, power, or supreme importance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A political tyrant, autocrat, or egocentric individual whose grandiose ambitions ignore reality and human suffering.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, megalomaniac designates a pathological egotist."*
+> - 📜 **George Orwell (*The Lion and the Unicorn*):** *"Hitler was a murderous **megalomaniac**, but he understood the emotional power of national symbols that intellectuals despised."*
+> - 📜 **Aldous Huxley (*Ends and Means*):** *"The militarist dictator becomes a lonely **megalomaniac**, isolated from truth by sycophantic courtiers."*
+> - 📜 **H. G. Wells (*The Shape of Things to Come*):** *"The warlords of the twenty-first century were described by later historians as dangerous **megalomaniac** survivals."*

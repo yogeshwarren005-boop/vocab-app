@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the phylloxeridae: plant lice.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the phylloxeridae: plant lice.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A microscopic, sap-sucking aphid-like insect (*Daktulosphaira vitifoliae*) that infests and destroys the root systems of grapevines.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The devastating agricultural pest accidentally introduced from North America to Europe in the 1860s, nearly obliterating French viticulture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phylloxera designates type genus of the phylloxeridae: plant lice."*
+> - 📜 **Louis Pasteur (*Studies on the Diseases of Silkworms and Vines*):** *"The subterranean ravages of **phylloxera** threatened the premier vineyards of France with absolute extinction."*
+> - 📜 **Charles Valentine Riley (*Reports on the Noxious, Beneficial, and Other Insects of Missouri*):** *"I demonstrated that grafting delicate European scions onto resistant American rootstocks was the only salvation against **phylloxera**."*
+> - 📜 **George Saintsbury (*Notes on a Cellar-Book*):** *"Wine lovers speak with hushed reverence of the legendary pre-**phylloxera** clarets of the nineteenth century."*

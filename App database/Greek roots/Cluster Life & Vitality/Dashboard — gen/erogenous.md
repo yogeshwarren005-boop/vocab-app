@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Producing sexual excitement or libidinal gratification when stimulated : sexually sensitive.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or arousing sexual feelings.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sensitive to sexual stimulation; giving rise to sexual excitement when stimulated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychoanalysis, designating specific anatomical bodily zones (oral, anal, genital) whose excitation yields libidinal pleasure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, erogenous designates producing sexual excitement or libidinal gratification when stimulated : sexually sensitive."*
+> - 📜 **Sigmund Freud (*Three Essays on the Theory of Sexuality*):** *"Infantile sexuality is characterized by the diffuse gratification yielded by diverse **erogenous** zones across the body."*
+> - 📜 **Havelock Ellis (*Studies in the Psychology of Sex*):** *"Cutaneous tactile sensitivity varies widely, transforming ordinary epidermal areas into intensely **erogenous** centers."*
+> - 📜 **Carl Jung (*Symbols of Transformation*):** *"Libidinal energy shifts across development, detaching from primitive **erogenous** attachments toward spiritual sublimations."*

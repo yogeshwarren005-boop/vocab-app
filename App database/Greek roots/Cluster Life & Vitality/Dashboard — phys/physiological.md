@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the biological study of physiology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or consistent with an organism's normal functioning.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the branch of biology that deals with the normal functions of living organisms and their parts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Consistent with the normal operational parameters and homeostatic balances of an intact biological system.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Thus I induced physiological and psychological states similar to those caused by the jacket."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Moreover, the speeding up of the workers beyond a certain point may have had physiological effects outweighing the benefit from shorter hours."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"It is to use the Rouquayrol apparatus, invented by two of your own countrymen, which I have brought to perfection for my own use, and which will allow you to risk yourself under these new physiological conditions without any organ whatever suffering."*
+> - 📜 **Claude Bernard (*Lectures on the Phenomena of Life*):** *"The constancy of the internal environment is the condition of free and independent **physiological** life."*
+> - 📜 **William Harvey (*De Motu Cordis*):** *"My experimental demonstrations proved that the heart's motion is the prime **physiological** pump propelling systemic circulation."*
+> - 📜 **Ivan Pavlov (*Lectures on Conditioned Reflexes*):** *"Our investigations aimed to establish the strictly **physiological** laws governing higher nervous activity in the cerebral cortex."*

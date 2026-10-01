@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the three Fates in Greek and Roman mythology who determine human destinies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of the three Fates in Greek and Roman mythology who determine human destinies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In Greek mythology, the eldest of the three Fates (Moirai) who cuts the thread of human life spun by Clotho and measured by Lachesis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical literature and etymology (from Greek a- 'not' and tropos 'turning', meaning 'the inflexible or unturning one'), representing the inexorable and irrevocable nature of mortality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Atropos designates one of the three fates in greek and roman mythology who determine human destinies."*
+> - 📜 **John Milton (*Lycidas*):** *"Comes the blind Fury with the abhorred shears, and slits the thin-spun life; so **Atropos** fulfills her silent decree."*
+> - 📜 **Thomas Browne (*Urn Burial*):** *"The thread of our days is spun in darkness and severed at last by the unpitying hand of **Atropos**."*
+> - 📜 **Percy Bysshe Shelley (*Prometheus Unbound*):** *"Neither prayers nor tears can bend the stony heart of **Atropos** when the fatal hour strikes."*

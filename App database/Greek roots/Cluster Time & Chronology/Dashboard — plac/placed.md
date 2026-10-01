@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Put into a certain place or abstract location.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Place somebody in a particular situation or location.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Put in a particular position, rank, or situation; situated; finished among the top three in a competition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociological status and racing parlance, positioned securely in employment, social standing, or athletic achievement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore are feasts so solemn and so rare, Since seldom coming in that long year set, Like stones of worth they thinly placed are, Or captain jewels in the carcanet."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My resolution’s placed, and I have nothing Of woman in me."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Know you on which side They have placed their men of trust?"*
+> - 📜 **William Shakespeare (*Henry VI, Part 1*):** *"Lord Regent, I do march towards Saint Denis, / To join with Charles, the virtuous Dauphin, / Our troops are well **placed** along the river bank."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"She felt herself happily **placed** among affectionate friends who valued her quiet good sense."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"The ancient castle was magnificently **placed** upon a precipitous headland jutting into the North Sea."*

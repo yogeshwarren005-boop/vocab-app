@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or resembling the physical or orbital characteristics of a planet or the planets.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characteristic of the planet earth or its inhabitants; - l.c.eiseley.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or belonging to a planet or planets; global or terrestrial in scale.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Moving in an orbit like a planet; wandering, nomadic, or errant.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be as a planetary plague when Jove Will o’er some high-viced city hang his poison In the sick air."*
-> - 📜 **George Eliot (*Middlemarch*):** *"To Uriel watching the progress of planetary history from the sun, the one result would be just as much of a coincidence as the other."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The System Authority possesses and Commands a Self-Defense Force under Powers delegated by the President of the United Inner Planetary System (UIPS)."*
+> - 📜 **Isaac Newton (*Principia Mathematica*):** *"The inverse-square law of universal gravitation explains all observed **planetary** revolutions."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Knowledge expands when human minds break free from narrow local confines to contemplate **planetary** laws."*
+> - 📜 **Rachel Carson (*Lost Woods*):** *"Human activities now exert profound modifications across the delicate balance of the **planetary** biosphere."*

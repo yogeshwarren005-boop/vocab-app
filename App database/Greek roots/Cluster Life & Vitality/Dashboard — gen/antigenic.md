@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to antigens.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to antigens.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or having the properties of an antigen; capable of triggering an immune reaction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exhibiting molecular features recognized by antibodies or immunocompetent lymphoid cells.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antigenic designates of or relating to antigens."*
+> - 📜 **Karl Landsteiner (*The Specificity of Serological Reactions*):** *"Conjugating simple aromatic radicals to proteins creates novel **antigenic** determinants with exquisite binding precision."*
+> - 📜 **Frank Macfarlane Burnet (*The Clonal Selection Theory of Acquired Immunity*):** *"Clonal selection postulates that **antigenic** challenge selects and expands preexisting antibody-producing clones."*
+> - 📜 **Alexander Fleming (*Chemotherapy and Serology*):** *"The bacterial capsule conceals somatic **antigenic** sites, shielding the pathogen from phagocytic recognition."*

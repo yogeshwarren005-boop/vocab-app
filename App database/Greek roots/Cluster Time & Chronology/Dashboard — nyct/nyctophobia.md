@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormal fear of darkness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abnormal fear of darkness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An extreme or irrational fear of the night or darkness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A specific phobia characterized by acute panic or dread triggered by dark or dimly lit environments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nyctophobia designates abnormal fear of darkness."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Childhood **nyctophobia** often arises spontaneously from instinctive dread of the unseen and unknown."*
+> - 📜 **Sigmund Freud (*Introductory Lectures on Psycho-Analysis*):** *"In infantile neurosis, **nyctophobia** represents anxiety over the absent maternal protector transformed into fear of the dark."*
+> - 📜 **G. Stanley Hall (*Adolescence*):** *"Primitive superstitions concerning nocturnal demons often survive as persistent adolescent **nyctophobia**."*

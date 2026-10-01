@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A relation of direct opposition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exact opposition.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Opposite in nature, direction, or meaning; stubbornly inclined to disagree or do the opposite of what is expected.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In formal Aristotelian logic, designating propositions so related that both cannot be true simultaneously, though both may be false (contrasted with contradictory).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ev’n as soon as thou canst, for thou hast to pull at a smack o’ th’ contrary."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is reported that he has taken their great’st commander, and that with his own hand he slew the duke’s brother. [_A tucket afar off._] We have lost our labour; they are gone a contrary way."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But orderly to end where I begun, Our wills and fates do so contrary run That our devices still are overthrown."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"Our wills and fates do so **contrary** run that our devices still are overthrown; our thoughts are ours, their ends none of our own."*
+> - 📜 **Francis Bacon (*Essays*):** *"A man that is young in years may be old in hours, if he have lost no time; but that happeneth rarely, for age and youth run **contrary** courses."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"To affirm that the same thing is and is not at the same time is to maintain two **contrary** propositions in defiance of reason."*

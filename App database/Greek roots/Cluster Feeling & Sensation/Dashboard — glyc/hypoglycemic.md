@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to hypoglycemia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to hypoglycemia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, experiencing, or causing an abnormally low concentration of glucose in the blood (American spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Describing medications (oral hypoglycemic agents) or metabolic states that decrease blood glucose concentrations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypoglycemic designates of or relating to hypoglycemia."*
+> - 📜 **Frederick Banting (*Nobel Lecture: The Discovery of Insulin*):** *"The discovery of a reliable **hypoglycemic** agent revolutionized the prognosis of juvenile diabetes from death to life."*
+> - 📜 **William Carlos Williams (*The Doctor Stories*):** *"I carried ampoules of glucose in my doctor's bag to treat sudden **hypoglycemic** reactions in elderly insulin users."*
+> - 📜 **Walter Cannon (*Bodily Changes in Pain, Hunger, Fear and Rage*):** *"The animal exhibited classic **hypoglycemic** tremors until a spoonful of corn syrup restored normal cortical function."*

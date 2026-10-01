@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek necr.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Life & Vitality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal, persistent, or irrational fear of dead bodies or death; thanatophobia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In behavioral psychology, acute panic, revulsion, and avoidance triggered by tombs, funeral homes, corpses, or mortuary symbols.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, necrophobia designates a term designating an entity, condition, or phenomenon derived from greek necr."*
+> - 📜 **William James (*The Principles of Psychology*):** *"A deep-seated instinctual shuddering at the presence of a corpse borders on irrational **necrophobia** in sensitive temperaments."*
+> - 📜 **Sigmund Freud (*Totem and Taboo*):** *"Primitive taboos surrounding the dead are rooted in an ambivalence of grief and unconscious **necrophobia**."*
+> - 📜 **Wilhelm Stekel (*Conditions of Nervous Anxiety*):** *"The phobic patient suffered from severe **necrophobia**, unable to pass a cemetery gate without debilitating palpitations."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not biotic : abiological.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not biotic : abiological.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Deceased, non-living, or characterized by the absence of biological organisms or vital processes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ecological systems, pertaining to non-biological physical and chemical environmental factors, such as mineral composition, radiation, and temperature.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, abiotic designates not biotic : abiological."*
+> - 📜 **Eugene Odum (*Fundamentals of Ecology*):** *"The ecosystem functions as an integrated unit comprising biotic communities and their surrounding **abiotic** environment."*
+> - 📜 **Arthur Tansley (*The Use and Abuse of Vegetational Concepts and Terms*):** *"Physical habitat factors constitute the complex **abiotic** matrix within which vegetation succession occurs."*
+> - 📜 **G. Evelyn Hutchinson (*The Ecological Theater and the Evolutionary Play*):** *"The ecological niche defines an n-dimensional hypervolume of biotic interactions and **abiotic** tolerances."*

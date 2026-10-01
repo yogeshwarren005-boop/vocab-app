@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Self-fertilization: such as.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pollination of a flower by its own pollen.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Self-fertilization, especially the fertilization of a flower by its own pollen or the fusion of two gametic nuclei from the same individual.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In protozoology (as in Paramecium), an internal process of nuclear reorganization and self-conjugation restoring vitality without an external partner.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, autogamy designates self-fertilization: such as."*
+> - 📜 **Charles Darwin (*The Effects of Cross and Self Fertilisation in the Vegetable Kingdom*):** *"Nature abhors perpetual **autogamy**, providing countless floral adaptations to favor pollen from neighboring plants."*
+> - 📜 **Herbert Spencer Jennings (*Genetics of the Protozoa*):** *"Following **autogamy** in Paramecium aurelia, the clone becomes completely homozygous at all genetic loci."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"The structure of the closed violet blossom enforces strict **autogamy**, ensuring seed production beneath the moss."*

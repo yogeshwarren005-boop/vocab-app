@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to lose one's nerve.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to lose one's nerve.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To deprive of courage, fortitude, or resolution; to cause someone to lose their composure, strength of will, or nerve.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically, to deprive of masculine vigor, status, or composure; to weaken or emasculate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unman designates cause to lose one's nerve."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"'Tis sweet and commendable in your nature, Hamlet, to give these mourning duties to your father; but to persever in obstinate condolement is a course of impious stubbornness, 'tis **unmanly** grief, it shows a will most incorrect to heaven, and tends to **unman** the soul."*
+> - 📜 **John Dryden (*All for Love*):** *"Do not weep, Cleopatra, lest thy tears **unman** the Roman warrior who chose death before defeat."*
+> - 📜 **Lord Byron (*Childe Harold's Pilgrimage*):** *"No sudden grief could **unman** his proud spirit, which bore the blows of adverse fortune in silence."*

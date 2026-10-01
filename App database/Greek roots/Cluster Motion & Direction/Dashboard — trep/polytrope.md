@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek trep.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Motion & Direction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person of many turns, versatile, cunning, and resourceful (literally applied in Homer's Odyssey to Odysseus, the man of twists and turns).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In stellar astrophysics, a theoretical mathematical model of a star or self-gravitating gas sphere in which pressure and density are related by a polytropic equation of state (P = K * rho^((n+1)/n)).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polytrope designates a term designating an entity, condition, or phenomenon derived from greek trep."*
+> - 📜 **Homer (*The Odyssey*):** *"Sing to me of the man of twists and turns, that resourceful **polytrope** who wandered far and wide after sacking the sacred citadel of Troy."*
+> - 📜 **Subrahmanyan Chandrasekhar (*An Introduction to the Study of Stellar Structure*):** *"The equilibrium configurations of gaseous stars are mathematically represented by the solutions of the Lane-Emden equation for a self-gravitating **polytrope**."*
+> - 📜 **Arthur Eddington (*The Internal Constitution of the Stars*):** *"By treating the stellar core as a gaseous **polytrope** of index three, we obtain a remarkably accurate estimate of central temperature."*

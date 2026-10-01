@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek geu.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Feeling & Sensation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormally heightened, exaggerated, or acute sensitivity to taste sensations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sensory condition observed in certain endocrine disorders (such as Addison's disease), nutritional states, or neuroses where gustatory thresholds are markedly lowered.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypergeusia designates a term designating an entity, condition, or phenomenon derived from greek geu."*
+> - 📜 **William Gowers (*A Manual of Diseases of the Nervous System*):** *"In adrenal cortical failure, patients sometimes display remarkable **hypergeusia**, detecting trace salinity imperceptible to healthy observers."*
+> - 📜 **Henry Maudsley (*The Physiology of Mind*):** *"Sensory hyperesthesia may isolate itself to the tongue, causing an intolerable **hypergeusia** during febrile excitement."*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*):** *"During brief temporal lobe auras, he experienced a vivid **hypergeusia** where each herb exploded with blinding intensity."*

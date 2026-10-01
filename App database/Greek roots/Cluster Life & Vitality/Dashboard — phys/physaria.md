@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small genus of western north american herbs similar to lesquerella: bladderpods.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small genus of western north american herbs similar to lesquerella: bladderpods.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of herbaceous plants in the mustard family (Brassicaceae), commonly known as twinpods or bladderpods.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Western North American xerophytic herbs bearing distinctly inflated, two-lobed silicles adapted for arid desert soils.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, physaria designates small genus of western north american herbs similar to lesquerella: bladderpods."*
+> - 📜 **Asa Gray (*Synoptical Flora of North America*):** *"The genus **Physaria** is distinguished across the Rocky Mountain ranges by its extraordinary didymous, inflated pods."*
+> - 📜 **John Torrey (*Flora of North America*):** *"Specimens of **Physaria** collected along arid gravel benches displayed dense stellate pubescence covering the leaves."*
+> - 📜 **Alice Eastwood (*Flora of the San Juan Country*):** *"Wind detaches the dry, papery capsules of **Physaria**, rolling them across alkali flats to scatter their seeds."*

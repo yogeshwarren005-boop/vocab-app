@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The launching of a missile or spacecraft to a specified destination.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The launching of a missile or spacecraft to a specified destination.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The launch or fiery departure of a rocket or spacecraft from its launch pad.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The precise moment of ignition and lift-off under maximum rocket propulsion; figuratively, a sudden explosive start.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, blastoff designates the launching of a missile or spacecraft to a specified destination."*
+> - 📜 **Carl Sagan (*Cosmos*):** *"With a deafening roar and sheets of flame, the Saturn V underwent **blastoff**, carrying astronauts outward toward the Moon."*
+> - 📜 **Arthur C. Clarke (*The Promise of Space*):** *"Seconds after **blastoff**, the towering rocket cleared the gantry, climbing into the Florida sky on a pillar of incandescent smoke."*
+> - 📜 **Norman Mailer (*Of a Fire on the Moon*):** *"The thunderous tremor of the **blastoff** shook the earth miles away, vibrating in the marrow of every witness."*

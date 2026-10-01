@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to megaloblasts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to megaloblasts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or characterized by the presence of megaloblasts, as in megaloblastic anemia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to erythropoietic marrow hyperplasia characterized by defective thymidine synthesis and gigantism of blood precursors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, megaloblastic designates of or relating to megaloblasts."*
+> - 📜 **William Castle (*Observations on the Etiologic Relationship of Achylia Gastrica to Pernicious Anemia*):** *"Deficiency of gastric intrinsic factor precipitates severe **megaloblastic** bone marrow conversion."*
+> - 📜 **William Boyd (*Pathology for the Physician*):** *"The peripheral blood smear in **megaloblastic** states exhibits oval macrocytes and hypersegmented neutrophils."*
+> - 📜 **Paul Ehrlich (*Histology of the Blood*):** *"True **megaloblastic** erythropoiesis reflects a reversion to an archaic, embryonic mode of red cell genesis."*

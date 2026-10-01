@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The drawing up and interpretation of horoscopes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The drawing up and interpretation of horoscopes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The art, practice, or science of casting and reading horoscopes; the calculation of astrological charts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of astronomy and folklore, the traditional practice of interpreting planetary aspects to predict human destinies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, horoscopy designates the drawing up and interpretation of horoscopes."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"We must distinguish between natural astrology, which predicts weather and eclipses, and the vain pretenses of judicial **horoscopy**."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The laws of Rome strictly prohibited the practice of nocturnal **horoscopy**, punishing imperial fortune-tellers with exile."*
+> - 📜 **Robert Burton (*The Anatomy of Melancholy*):** *"Many melancholic souls spend fortunes upon **horoscopy**, vainly seeking in the stars the relief which only virtue can bestow."*

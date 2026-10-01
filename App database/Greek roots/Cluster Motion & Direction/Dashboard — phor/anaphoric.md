@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to anaphora.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to anaphora.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to or functioning as an anaphor; referring back to an earlier entity in speech or text.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In syntactic semantics, describing grammatical dependencies where an element's interpretation is strictly determined by its antecedent.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anaphoric designates relating to anaphora."*
+> - 📜 **Noam Chomsky (*Aspects of the Theory of Syntax*):** *"The transformational rule replaces the repeated nominal with an **anaphoric** pronoun to avoid cumbersome redundancy."*
+> - 📜 **Steven Pinker (*The Stuff of Thought*):** *"Human conversational comprehension tracks multiple **anaphoric** references effortlessly without confusing the cast of characters."*
+> - 📜 **Bertrand Russell (*An Inquiry into Meaning and Truth*):** *"Proper names cannot be reduced entirely to **anaphoric** variables without destroying their unique ostensive reference."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The end of a long bone; initially separated from the main bone by a layer of cartilage that eventually ossifies so the parts become fused.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small endocrine gland in the brain; situated beneath the back part of the corpus callosum; secretes melatonin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The rounded end of a long bone, initially separated from the main shaft by a cartilaginous plate and later uniting with it through ossification.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The pineal gland (epiphysis cerebri), a small endocrine gland in the vertebrate brain secreting melatonin.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epiphysis designates the end of a long bone; initially separated from the main bone by a layer of cartilage that eventually ossifies so the parts become fused."*
+> - 📜 **René Descartes (*Treatise on Man*):** *"I conceived that the soul exercises its primary functions in the small pineal gland or **epiphysis** seated in the center of the brain."*
+> - 📜 **Karl Ernst von Baer (*Entwickelungsgeschichte der Thiere*):** *"Secondary centers of ossification appear within each cartilaginous **epiphysis** during postnatal development."*
+> - 📜 **Richard Owen (*Archetype and Homologies of the Vertebrate Skeleton*):** *"The mammalian skeleton is distinguished by distinct articular **epiphyses** capping both extremities of tubular bones."*

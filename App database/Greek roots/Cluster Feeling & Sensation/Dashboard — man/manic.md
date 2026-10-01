@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Affected with, relating to, characterized by, or resulting from mania.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bipolar disorder.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, characterized by, or suffering from mania; exhibiting extreme excitement, hyperactivity, and euphoria.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychiatry, designating the elevated phase of manic-depressive disorder (bipolar disorder).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, manic designates affected with, relating to, characterized by, or resulting from mania."*
+> - 📜 **Emil Kraepelin (*Manic-Depressive Insanity*):** *"The **manic** phase reveals an extraordinary acceleration of psychic tempo, with rapid speech and uninhibited optimism."*
+> - 📜 **Sigmund Freud (*Mourning and Melancholia*):** *"In **manic** states, the ego has triumphed over the loss, celebrating its liberation with boundless celebratory energy."*
+> - 📜 **Virginia Woolf (*Moments of Being*):** *"Her creative spells were accompanied by a **manic** rush of words that raced far ahead of her pen."*

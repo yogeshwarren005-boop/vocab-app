@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek gam.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Time & Chronology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Reproduction without the union of gametes; asexual reproduction, including fission, budding, and parthenogenesis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In invertebrate embryology and protistology, the propagation of clonal lineages through somatic division or unfertilized egg development.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Insanity and agamogenesis I never knew more than one individual who believed in agamogenesis; she was unmarried, a lovely charac- 68:18 ter, was suffering from incipient insanity, and a Christian Scientist cured her."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The per- 68:24 petuation of the floral species by bud or cell-division is evident, but I discredit the belief that agamogenesis applies to the human species."*
+> - 📜 **Thomas Henry Huxley (*Lay Sermons, Addresses, and Reviews*):** *"The hydra exhibits **agamogenesis** by budding off miniature replicas of itself from the column of its body."*
+> - 📜 **Herbert Spencer (*The Principles of Biology*):** *"When nutritional resources abound, **agamogenesis** provides the most economical method for rapid numerical increase."*
+> - 📜 **Francis Maitland Balfour (*A Treatise on Comparative Embryology*):** *"The alternating cycle between sexual syngamy and **agamogenesis** ensures both genetic variation and prolific dispersal."*

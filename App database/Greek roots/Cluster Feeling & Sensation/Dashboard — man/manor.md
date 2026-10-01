@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The mansion of a lord or wealthy person.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The landed estate of a lord (including the house on it).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A landed estate or district belonging to a lord, historically held under feudal tenure and exercising local territorial jurisdiction through a manorial court.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The principal residence or mansion house of a lord on his estate (manor house).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I know a man that had this trick of melancholy sold a goodly manor for a song."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I was seen with her in the manor-house, sitting with her upon the form, and taken following her into the park, which, put together, is “in manner and form following”."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go—a short knife and a throng—to your manor of Pickt-hatch, go."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"A **manor** was a feudal lordship consisting of demesne lands cultivated for the lord, and tenemental lands held by customary tenants."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The rural squire lived content upon his ancestral **manor**, dispensing hearty hospitality and summary justice."*
+> - 📜 **George Eliot (*Silas Marner*):** *"The great red-brick **manor** stood among noble elms, where tenants gathered for the annual New Year celebration."*

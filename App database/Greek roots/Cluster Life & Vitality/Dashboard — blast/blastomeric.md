@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a blastomere.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a blastomere.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or having the character of a blastomere.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to the cleavage divisions and spatial configuration of early embryonic cells.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, blastomeric designates of or relating to a blastomere."*
+> - 📜 **Hans Driesch (*The Science and Philosophy of the Organism*):** *"The developmental potential of each **blastomeric** unit proved to be far wider than its prospective fate in normal ontogeny."*
+> - 📜 **C. H. Waddington (*Principles of Embryology*):** *"Cytoplasmic localization within **blastomeric** lineages provides the maternal determinants that guide early differentiation."*
+> - 📜 **Alexander Kowalevsky (*Embryological Investigations*):** *"Careful tracking of **blastomeric** cleavage planes revealed conserved spiralian patterns across annelids and mollusks."*

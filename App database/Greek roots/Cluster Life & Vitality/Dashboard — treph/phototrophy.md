@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek treph.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Life & Vitality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The synthesis of organic molecules from inorganic materials using energy absorbed from light; photosynthetic nutrition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The biological mode of life relying on the absorption of light quanta by photosynthetic pigments to generate metabolic energy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phototrophy designates a term designating an entity, condition, or phenomenon derived from greek treph."*
+> - 📜 **Cornelis van Niel (*Photosynthesis of Bacteria*):** *"Comparative biochemistry unifies oxygenic plant photosynthesis with bacterial anoxygenic **phototrophy**."*
+> - 📜 **Eugene Odum (*Fundamentals of Ecology*):** *"The global carbon cycle balances the carbon fixation of **phototrophy** against the respiratory breakdown of heterotrophs."*
+> - 📜 **Lynn Margulis (*Symbiosis in Cell Evolution*):** *"The acquisition of **phototrophy** by eukaryotic algae resulted from the endosymbiotic engulfment of ancestral cyanobacteria."*

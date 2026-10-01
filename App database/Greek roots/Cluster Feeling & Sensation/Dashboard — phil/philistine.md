@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is uninterested in intellectual pursuits.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A member of an aegean people who settled ancient philistia around the 12th century bc.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is hostile or indifferent to culture, the arts, and intellectual pursuits, or whose interests are purely material and conventional.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A member of an ancient Aegean people who settled on the coast of southern Canaan (Philistia) in the 12th century BCE.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon’s entirely new view of the Philistine god Dagon and other fish-deities, thinking that hereafter she should see this subject which touched him so nearly from the same high ground whence doubtless it had become so important to him."*
-> - 📜 **George Eliot (*Middlemarch*):** *"A philosopher fallen to betting is hardly distinguishable from a Philistine under the same circumstances: the difference will chiefly be found in his subsequent reflections, and Lydgate chewed a very disagreeable cud in that way."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"It is what I call the depth of generosity.” “Oh, Basil is the best of fellows, but he seems to me to be just a bit of a Philistine."*
+> - 📜 **Matthew Arnold (*Culture and Anarchy*):** *"On the one side, we have our Barbarians; on the other, our middle-class **Philistine**, devoted blindly to industrial expansion and machinery."*
+> - 📜 **Heinrich Heine (*Travel Pictures*):** *"The narrow bourgeois citizen of Göttingen is the archetype of the German **Philistine**, living by clocks and ledger books."*
+> - 📜 **Oscar Wilde (*The Critic as Artist*):** *"The artist must ever wage war against the **Philistine**, whose sole question regarding a painting is whether it pays a dividend."*

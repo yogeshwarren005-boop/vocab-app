@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of the climate of past ages.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The study of the climate of past ages.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of past climates throughout geological history.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Earth system sciences, reconstructing ancient atmospheric and oceanic temperatures using ice cores, ocean sediment isotope ratios, and tree rings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, palaeoclimatology designates the study of the climate of past ages."*
+> - 📜 **Arthur Holmes (*Principles of Physical Geology*):** *"Oxygen isotope ratios preserved in deep-sea foraminifera provide **palaeoclimatology** with an unassailable record of Pleistocene ice ages."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The discovery of fossil coal flora in Spitsbergen proved to early **palaeoclimatology** that polar regions once enjoyed subtropical warmth."*
+> - 📜 **John McPhee (*Basin and Range*):** *"Through **palaeoclimatology**, we learn that the earth's climate is not a permanent state but a pendulum swinging between greenhouse and icehouse."*

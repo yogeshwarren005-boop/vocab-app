@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to monophysitism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to monophysitism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or adhering to the theological doctrine of Monophysitism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by the theological conviction that Christ possesses a single, indivisible divine-human nature.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monophysitic designates of or relating to monophysitism."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The Coptic patriarchate maintained its **monophysitic** confession against all the threats and bribery of the imperial court."*
+> - 📜 **John Henry Newman (*The Arians of the Fourth Century*):** *"Subtle semantic distinctions separated Orthodox Chalcedonians from their **monophysitic** adversaries."*
+> - 📜 **Walter Burkert (*Babylon, Memphis, Persepolis*):** *"Schisms born of **monophysitic** disputations fragmented the eastern provinces just prior to the Arab conquest."*

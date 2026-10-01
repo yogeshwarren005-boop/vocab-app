@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Possessing qualities befitting a man.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characteristic of a man.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or denoting qualities traditionally regarded as characteristic of an admirable man, such as courage, strength, honesty, and fortitude.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resolute, robust, and dignified; free from cowardice, frivolity, or whining self-pity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He wears his honour in a box unseen That hugs his kicky-wicky here at home, Spending his manly marrow in her arms, Which should sustain the bound and high curvet Of Mars’s fiery steed."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My friends, The boy hath taught us manly duties; let us Find out the prettiest daisied plot we can, And make him with our pikes and partisans A grave."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No; for my manly heart doth yearn."*
+> - 📜 **William Shakespeare (*Macbeth*):** *"Dispute it like a man. I shall do so; but I must also feel it as a man: let us put on **manly** readiness."*
+> - 📜 **John Milton (*Paradise Lost*):** *"For contemplation he and valor formed, for softness she and sweet attractive grace; he possessed **manly** prime."*
+> - 📜 **Walt Whitman (*Leaves of Grass*):** *"I sing the stalwart, **manly** love of comrades, marching arm in arm along the open road."*

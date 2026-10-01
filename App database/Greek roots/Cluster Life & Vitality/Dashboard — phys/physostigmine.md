@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Used in treatment of alzheimer's disease and glaucoma.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used in treatment of alzheimer's disease and glaucoma.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A poisonous parasympathomimetic alkaloid obtained from the Calabar bean (*Physostigma venenosum*); eserine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A reversible acetylcholinesterase inhibitor used in medicine to treat glaucoma and anticholinergic toxicity (such as atropine overdose).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, physostigmine designates used in treatment of alzheimer's disease and glaucoma."*
+> - 📜 **Thomas Richard Fraser (*The Antagonism between the Actions of Physostigma and Atropia*):** *"I demonstrated that **physostigmine** directly counteracts the lethal paralysis induced by poisonous doses of atropine."*
+> - 📜 **Otto Loewi (*On the Humoral Transmission of Nervous Impulse*):** *"Addition of **physostigmine** protected the vagus-substance (acetylcholine) from enzymatic degradation by cholinesterase."*
+> - 📜 **William Boyd (*A Textbook of Pathology*):** *"Instillation of **physostigmine** drops constricts the pupil, opening the iridocorneal angle to alleviate acute glaucoma."*

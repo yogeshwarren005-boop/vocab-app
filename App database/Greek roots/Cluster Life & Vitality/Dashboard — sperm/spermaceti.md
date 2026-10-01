@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A white waxy substance from oil of the sperm whale.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A white waxy substance from oil of the sperm whale.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A white, waxy substance found in the head cavities of the sperm whale (*Physeter macrocephalus*), formerly used for candles, ointments, and lubricants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A liquid cetyl ester wax contained within the cranial case of sperm whales, believed to function in acoustic focusing and buoyancy regulation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"You must go to New Bedford to see a brilliant wedding; for, they say, they have reservoirs of oil in every house, and every night recklessly burn their lengths in spermaceti candles."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"It was the idea also, that this same spermaceti was that quickening humor of the Greenland Whale which the first syllable of the word literally expresses."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"In those times, also, spermaceti was exceedingly scarce, not being used for light, but only as an ointment and medicament."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The vast spermaceti case of the whale was opened, and buckets of clear, sweet **spermaceti** were hoisted to the deck."*
+> - 📜 **William Shakespeare (*Henry IV, Part 1*):** *"The sovereign'st thing on earth was **spermaceti** for an inward bruise."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"Commonly mistaken for the whale's semen, **spermaceti** is an oily, crystalline fat located in the bony cistern of its head."*

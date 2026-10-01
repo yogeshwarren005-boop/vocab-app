@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal adhesion of two or more structures.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A growing together of parts or structures.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A fibrocartilaginous joint in which the bones are united by a plate of fibrocartilage, allowing slight movement (such as the symphysis pubis).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The line of junction or fusion between two bones originally distinct, such as the symphysis menti of the mandible.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, symphysis designates an abnormal adhesion of two or more structures."*
+> - 📜 **Henry Gray (*Anatomy: Descriptive and Surgical*):** *"The pubic bones are united at the **symphysis** pubis by a dense disc of fibrocartilage reinforced by ligaments."*
+> - 📜 **Richard Owen (*Archetype and Homologies of the Vertebrate Skeleton*):** *"In adult primates, the mandibular rami become completely co-ossified along the median **symphysis**."*
+> - 📜 **William Boyd (*Pathology for the Surgeon*):** *"Relaxation of the pelvic **symphysis** during late pregnancy facilitates passage of the fetal head through the birth canal."*

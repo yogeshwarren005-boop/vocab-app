@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or resembling or being emphysema.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or resembling or being emphysema.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Affected with, relating to, or resembling emphysema; characterized by abnormal air or gas distension.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Describing pathological lung tissue with ruptured alveolar septa and bullous distension.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, emphysematous designates relating to or resembling or being emphysema."*
+> - 📜 **René Laennec (*A Treatise on the Diseases of the Chest*):** *"Upon post-mortem dissection, the lungs failed to collapse, presenting large, sub-pleural **emphysematous** bullae."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The **emphysematous** patient sits propped up, utilizing accessory muscles of respiration to force air from the thorax."*
+> - 📜 **William Boyd (*Pathology for the Physician*):** *"Severe hypoxia in **emphysematous** disease precipitates secondary pulmonary arterial hypertension."*

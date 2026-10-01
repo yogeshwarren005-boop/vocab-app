@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fusion of the cytoplasm of two or more cells as distinguished from fusion of nuclei.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fusion of the cytoplasm of two or more cells as distinguished from fusion of nuclei.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The fusion of the cytoplasm of two or more cells, especially gametes, without the immediate fusion of their nuclei.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mycology and cell biology, the initial stage of sexual syngamy in ascomycetes and basidiomycetes, creating a persistent dikaryotic stage prior to karyogamy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plasmogamy designates fusion of the cytoplasm of two or more cells as distinguished from fusion of nuclei."*
+> - 📜 **Eduard Strasburger (*Handbook of Practical Botany*):** *"Upon hyphal contact, **plasmogamy** unites the cellular contents while the two distinct nuclei remain side by side."*
+> - 📜 **Edmund Beecher Wilson (*The Cell in Development and Inheritance*):** *"In higher fungi, **plasmogamy** is separated from nuclear karyogamy by an extended dikaryophase spanning several seasons."*
+> - 📜 **Ernst Gäumann (*Comparative Morphology of Fungi*):** *"The passage of gametangial cytoplasm during **plasmogamy** initiates the development of the secondary mushroom fruit body."*

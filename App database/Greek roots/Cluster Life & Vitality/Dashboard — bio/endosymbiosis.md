@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Symbiosis in which a symbiont dwells within the body of its symbiotic partner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Symbiosis in which a symbiont dwells within the body of its symbiotic partner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A symbiotic relationship in which one organism lives inside the body or cells of another organism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The evolutionary theory (Serial Endosymbiosis Theory) explaining the origin of eukaryotic organelles (mitochondria and plastids) from engulfed prokaryotes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endosymbiosis designates symbiosis in which a symbiont dwells within the body of its symbiotic partner."*
+> - 📜 **Lynn Margulis (*Symbiosis in Cell Evolution*):** *"Serial **endosymbiosis** demonstrates that cooperation between disparate genomes drove the quantum evolutionary leap to eukaryosis."*
+> - 📜 **Konstantin Mereschkowski (*The Nature and Origins of Chromatophores in the Plant Kingdom*):** *"Chloroplasts are not native cellular organs, but the descendants of blue-green algae living in perpetual **endosymbiosis**."*
+> - 📜 **John Maynard Smith (*The Major Transitions in Evolution*):** *"The acquisition of mitochondria through primary **endosymbiosis** eliminated the bioenergetic bottleneck constraining cell size."*

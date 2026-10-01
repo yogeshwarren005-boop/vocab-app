@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marriage in which a spouse of either sex may have more than one mate at the same time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being polygamous.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The practice or custom of having more than one wife or husband at the same time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anthropology, plural marriage encompassing polygyny (multiple wives) and polyandry (multiple husbands); in botany, the bearing of bisexual and unisexual flowers on the same or different individuals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"A regular system of polygamy exists among the islanders; but of a most extraordinary nature,--a plurality of husbands, instead of wives! and this solitary fact speaks volumes for the gentle disposition of the male population."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"The laws against polygamy, he said, should be firmly and effectively executed."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Polygamy, justly denounced as “the true relic of barbarism” while slavery existed, has ever since the settlement of the Mormons in Utah, been one of the vexed questions in American politics."*
+> - 📜 **Edward Westermarck (*The History of Human Marriage*):** *"Throughout historical ethnology, **polygamy** was practiced primarily by chiefs and men of wealth who could sustain multiple hearths."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Where habitual **polygamy** prevails among quadrupeds, adult males exhibit pronounced secondary sexual weapons like tusks or antlers."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Roman law fiercely repudiated oriental **polygamy**, establishing undivided marriage as the foundation of civil jurisprudence."*

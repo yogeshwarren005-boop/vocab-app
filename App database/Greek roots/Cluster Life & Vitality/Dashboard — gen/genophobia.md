@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek gen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Life & Vitality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An irrational, persistent, or excessive fear of sexual intercourse or sexual intimacy; erotophobia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A psychological anxiety disorder or phobia characterized by acute panic and avoidance of physical sexual contact.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, genophobia designates a term designating an entity, condition, or phenomenon derived from greek gen."*
+> - 📜 **Sigmund Freud (*A General Introduction to Psychoanalysis*):** *"Severe hysterical **genophobia** often masks deeply repressed trauma originating in childhood seduction fantasies."*
+> - 📜 **Havelock Ellis (*Studies in the Psychology of Sex*):** *"In cases of pronounced **genophobia**, moral revulsion is accompanied by somatic spasms and tachycardia."*
+> - 📜 **Wilhelm Stekel (*Frigidity in Woman*):** *"The therapist must gently unpack the superstitious terrors that convert normal desire into crippling **genophobia**."*

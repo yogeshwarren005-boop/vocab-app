@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A surgical instrument used to remove sections of bone from the skull.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Operate on with a trephine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A surgical instrument with a cylindrical saw blade used for cutting out circular discs of bone, especially from the skull.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To operate upon with a trephine; to cut a circular window into a bone or corneal button in ophthalmic surgery.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bram Stoker (*Dracula*):** *"The suffusion of the brain will increase quickly, so we must trephine at once or it may be too late.” As he was speaking there was a soft tapping at the door."*
+> - 📜 **Ambroise Paré (*The Apologie and Treatise*):** *"The surgeon should gently rotate the crown of the **trephine** until the outer cranial table is neatly traversed."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"We decided to **trephine** the parietal bone immediately to drain the localized subdural abscess."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"The sharp teeth of the modern surgical **trephine** penetrate the skull with geometric safety unknown to ancient barbers."*

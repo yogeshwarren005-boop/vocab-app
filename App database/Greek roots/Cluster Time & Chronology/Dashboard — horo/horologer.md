@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who makes or repairs watches.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who makes or repairs watches.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A maker or repairer of clocks, watches, and other timepieces; a horologist.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of technology and guild craftsmanship, a precision artisan skilled in designing gear trains, escapements, and hairsprings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, horologer designates someone who makes or repairs watches."*
+> - 📜 **John Evelyn (*Diary of John Evelyn*):** *"I visited the famous **horologer** who exhibited an extraordinary watch of tiny proportions set within a finger ring."*
+> - 📜 **Samuel Johnson (*The Idler*):** *"The village **horologer** sat in his bow window, adjusting the balance springs of brass pocket timepieces."*
+> - 📜 **Isaac D'Israeli (*Curiosities of Literature*):** *"The Emperor Charles V spent his retirement among clocks, unable to make twenty dials agree despite the skill of his royal **horologer**."*

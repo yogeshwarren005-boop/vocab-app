@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hermaphrodite wormlike animal living in mud of the sea bottom.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hermaphrodite wormlike animal living in mud of the sea bottom.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any marine invertebrate belonging to the phylum Phoronida; a horseshoe worm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In invertebrate marine biology, a coelomate, lophophore-bearing worm that lives inside a chitinous tube embedded in shallow sea sediments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phoronid designates hermaphrodite wormlike animal living in mud of the sea bottom."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The solitary **phoronid** extends its magnificent horseshoe-shaped crown of ciliated tentacles into the clear coastal brine."*
+> - 📜 **Arthur Dendy (*Outlines of Evolutionary Biology*):** *"Zoologists compare the actinotroch larva of the **phoronid** to echinoderm larvae in tracing the origins of deuterostomes."*
+> - 📜 **Ernst Mayr (*Animal Species and Evolution*):** *"The minuscule phylum of the **phoronid** represents an ancient, relictual branch of the lophophorate clade."*

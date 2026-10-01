@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek plan.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Motion & Direction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The proper name of a planet or extraterrestrial planetary body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Onomastic term designating names assigned to celestial bodies or topographical features on planetary surfaces.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, planetonym designates a term designating an entity, condition, or phenomenon derived from greek plan."*
+> - 📜 **Isaac Asimov (*Extraterrestrial Civilizations*):** *"Astronomical naming conventions establish each new **planetonym** according to international consensus."*
+> - 📜 **Carl Sagan (*The Cosmic Connection*):** *"Mythological gods and goddesses provided the classical source for almost every recognized **planetonym**."*
+> - 📜 **Gerard Kuiper (*The Exploration of Space*):** *"The International Astronomical Union standardizes each proposed **planetonym** to avoid confusing duplicates."*

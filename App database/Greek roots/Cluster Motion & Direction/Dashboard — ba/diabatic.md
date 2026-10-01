@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of to step.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of to step.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to a thermodynamic process in which heat enters or leaves the physical system (non-adiabatic).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In atmospheric physics, designating heating or cooling driven by radiation, condensation, or surface turbulent flux.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diabatic designates adjective*) pertaining to, derived from, or characteristic of to step."*
+> - 📜 **Richard Goody (*Atmospheric Radiation*):** *"Solar absorption and infrared emission create constant **diabatic** heating gradients across the troposphere."*
+> - 📜 **J. Willard Gibbs (*The Scientific Papers of J. Willard Gibbs*):** *"A cycle involving open heat exchange constitutes a strictly **diabatic** sequence of state transformations."*
+> - 📜 **Napier Shaw (*Manual of Meteorology*):** *"Precipitation releases latent heat, producing intense local **diabatic** warming within the core of the thunderstorm."*

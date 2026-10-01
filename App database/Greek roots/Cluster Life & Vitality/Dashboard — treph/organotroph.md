@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek treph.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Life & Vitality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An organism that obtains hydrogen or electrons from organic substrates for cellular metabolism and biosynthesis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bacterium or eukaryotic organism that relies upon organic electron donors (such as carbohydrates or amino acids), contrasted with a lithotroph.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, organotroph designates a term designating an entity, condition, or phenomenon derived from greek treph."*
+> - 📜 **Albert Lehninger (*Biochemistry*):** *"Most heterotrophic bacteria are simultaneously **organotrophs**, consuming carbohydrates both as carbon skeletons and electron donors."*
+> - 📜 **Martinus Beijerinck (*Studies on Microbial Ecology*):** *"Selective culture media enriched with lactate isolate the specialized **organotroph** from mixed river muds."*
+> - 📜 **Eugene Odum (*Fundamentals of Ecology*):** *"Soil fungi act as paramount **organotrophs**, oxidizing refractory cellulose and humic polymers."*

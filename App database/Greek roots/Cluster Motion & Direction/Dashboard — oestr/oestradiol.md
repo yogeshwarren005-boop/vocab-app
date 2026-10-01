@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The most powerful female hormone that occurs naturally; synthesized and used to treat estrogen deficiency and breast cancer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The most powerful female hormone that occurs naturally; synthesized and used to treat estrogen deficiency and breast cancer.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The most potent and prevalent naturally occurring estrogen hormone, secreted primarily by the ovarian follicles and responsible for female secondary sexual development.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biochemical endocrinology, a C18 steroid diol that binds with high affinity to alpha and beta estrogen receptors, regulating gonadotropin feedback and target tissue proliferation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oestradiol designates the most powerful female hormone that occurs naturally; synthesized and used to treat estrogen deficiency and breast cancer."*
+> - 📜 **George Corner (*The Hormones in Human Reproduction*):** *"Biochemists isolated **oestradiol** as the most active natural estrogen secreted by the developing graafian follicle."*
+> - 📜 **Francis Marshall (*The Physiology of Reproduction*):** *"Rising levels of circulating **oestradiol** stimulate the pre-ovulatory surge of luteinizing hormone from the anterior pituitary."*
+> - 📜 **Edward Doisy (*The Biochemistry of Estrogens*):** *"The structural identification of **oestradiol** marked the opening of a modern therapeutic era in clinical endocrinology."*

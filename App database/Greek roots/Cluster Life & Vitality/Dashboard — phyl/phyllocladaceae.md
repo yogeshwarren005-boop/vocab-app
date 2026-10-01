@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of phyllocladaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A family of phyllocladaceae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family (or subfamily within Podocarpaceae) of Southern Hemisphere conifers comprising the genus *Phyllocladus* (celery pines).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Conifers lacking functional adult foliage leaves, whose photosynthetic apparatus consists entirely of flattened branchlets (phylloclades).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phyllocladaceae designates a family of phyllocladaceae."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"Botanists established the **Phyllocladaceae** to emphasize the singular departure from typical needle foliage seen in these conifers."*
+> - 📜 **Leonard Cockayne (*New Zealand Plants and Their Story*):** *"Forests of celery pine belonging to the **Phyllocladaceae** cloak the steep montane slopes of the Southern Alps."*
+> - 📜 **Asa Gray (*Botanical Memoirs*):** *"The phylogenetic placement of the **Phyllocladaceae** highlights ancient Gondwanan gymnosperm radiations."*

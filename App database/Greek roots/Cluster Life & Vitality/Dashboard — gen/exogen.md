@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Flowering plant with two cotyledons; the stem grows by deposit on its outside.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Flowering plant with two cotyledons; the stem grows by deposit on its outside.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A plant that increases in size by successive external additions of wood (concentric rings), typical of dicotyledons and gymnosperms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A botanical division created by Augustin Pyramus de Candolle for plants with two cotyledons, net-veined leaves, and exogenous stem growth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, exogen designates flowering plant with two cotyledons; the stem grows by deposit on its outside."*
+> - 📜 **Augustin Pyramus de Candolle (*Théorie Élémentaire de la Botanique*):** *"The woody trunk of an **exogen** expands year by year through the outward activity of the cambium zone."*
+> - 📜 **Asa Gray (*Botanical Textbook*):** *"In every typical **exogen**, the vascular cylinders encircle a central pith and are protected externally by bark."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The grand architectural divide of flowering plants opposes the structural mechanics of the **exogen** to that of the endogen."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: All the yellow-green algae having flagella of unequal length.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: All the yellow-green algae having flagella of unequal length.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A class of predominantly freshwater unicellular or colonial algae known as golden or golden-brown algae, in the phylum Ochrophyta.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In phycology and limnology, photosynthetic flagellates characterized by fucoxanthin pigments, siliceous resting cysts (statospores), and mixotrophic nutrition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chrysophyceae designates all the yellow-green algae having flagella of unequal length."*
+> - 📜 **William Henry Harvey (*A Manual of the British Marine Algae*):** *"The golden-yellow chromatophores of the **Chrysophyceae** owe their color to an abundance of xanthophyll and carotene pigments."*
+> - 📜 **Gilbert M. Smith (*The Fresh-Water Algae of the United States*):** *"The silicified statospores of the **Chrysophyceae** survive harsh winter freezing in deep lake sediments."*
+> - 📜 **Arthur Tansley (*The British Islands and Their Vegetation*):** *"Plankton blooms of **Chrysophyceae** impart a distinct yellowish turbidity to nutrient-poor oligotrophic waters."*

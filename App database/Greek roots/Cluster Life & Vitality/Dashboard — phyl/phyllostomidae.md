@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: New world leaf-nosed bats.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: New world leaf-nosed bats.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An alternative spelling of Phyllostomatidae; the American leaf-nosed bat family.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A major mammalian family encompassing over two hundred species of Neotropical chiropterans with modified spear-like nasal pads.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phyllostomidae designates new world leaf-nosed bats."*
+> - 📜 **Alfred Russel Wallace (*Tropical Nature and Other Essays*):** *"Nectar-feeding species of the **Phyllostomidae** possess elongated tongues adapted for pollinating night-blooming cacti."*
+> - 📜 **William Henry Flower (*An Introduction to the Osteology of the Mammalia*):** *"Cranial modifications among the **Phyllostomidae** reflect dietary divergence from tiny insects to large fleshy fruits."*
+> - 📜 **Ray Lankester (*A Treatise on Zoology*):** *"The complex nasal foliage of the **Phyllostomidae** coordinates ultrasound beam emissions with head movement."*

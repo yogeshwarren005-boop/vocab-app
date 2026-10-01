@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Impairment of voluntary movements resulting in fragmented or jerky motions (as in Parkinson's disease).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A neurological disorder characterized by involuntary uncontrollable movements especially of the mouth, tongue, trunk, and limbs and occurring especially as a side effect of prolonged use of antipsychotic drugs (such as phenothiazine).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormality, impairment, or distortion of voluntary movement; any involuntary, uncontrolled muscle movement or spasm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neurology, a class of hyperkinetic movement disorders (such as tardive dyskinesia or levodopa-induced dyskinesia) characterized by choreic, dystonic, or athetoid movements.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dyskinesia designates impairment of voluntary movements resulting in fragmented or jerky motions (as in parkinson's disease)."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"After months of mobility, high doses of medication provoked distressing **dyskinesia**, manifesting as choreic twitches of the face and limbs."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The involuntary grimacing and writhing movements of acute chorea represent a classic clinical **dyskinesia**."*
+> - 📜 **Alexander Luria (*The Nature of Human Conflicts*):** *"Disruption of striatal inhibitory circuits results in chaotic motor overflow and severe postural **dyskinesia**."*

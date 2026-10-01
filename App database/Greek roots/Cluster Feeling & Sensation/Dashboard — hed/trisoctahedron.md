@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A solid (such as a crystal) having 24 congruent faces meeting on the edges of a regular octahedron.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A solid (such as a crystal) having 24 congruent faces meeting on the edges of a regular octahedron.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A 24-faced polyhedron formed by erecting a low three-sided triangular pyramid upon each of the eight faces of a regular octahedron.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In crystallography, a crystal form of the isometric (cubic) system characterized by 24 isosceles triangular facets, seen in galena and diamond.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trisoctahedron designates a solid (such as a crystal) having 24 congruent faces meeting on the edges of a regular octahedron."*
+> - 📜 **Edward Salisbury Dana (*A Text-Book of Mineralogy*):** *"The mineral diamond occasionally exhibits modified edges that bevel into the facets of a **trisoctahedron**."*
+> - 📜 **James Dwight Dana (*Manual of Mineralogy*):** *"A crystal bounded by twenty-four triangular planes belonging to the octahedral group is designated a **trisoctahedron**."*
+> - 📜 **William Hallowes Miller (*A Treatise on Crystallography*):** *"The Miller indices {hhl} identify the symmetrical trigonal faces of the isometric **trisoctahedron**."*

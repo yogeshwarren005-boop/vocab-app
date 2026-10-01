@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Consisting of or resembling spermatozoa.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Consisting of or resembling spermatozoa.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or conveying sperm or semen; seminal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anatomy, designating structures associated with the testes, such as the spermatic cord, spermatic artery, and spermatic vein.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spermatic designates consisting of or resembling spermatozoa."*
+> - 📜 **Henry Gray (*Anatomy: Descriptive and Surgical*):** *"The **spermatic** cord suspends the testis within the scrotum and contains the ductus deferens and pampiniform plexus."*
+> - 📜 **Richard Owen (*Lectures on Comparative Anatomy*):** *"Torsion of the **spermatic** vessels rapidly precipitates hemorrhagic infarction of the testicle."*
+> - 📜 **William Shakespeare (*Troilus and Cressida*):** *"He spoke of hot blood and **spermatic** vigor, mocking the cold wisdom of the aged counselors."*

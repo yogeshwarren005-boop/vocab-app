@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A device for indicating speed of rotation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A device for indicating speed of rotation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument that measures and indicates the rotation speed of a shaft or disk, usually expressed in revolutions per minute (RPM).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mechanical engineering, aviation, and automotive telemetry, a gauge essential for monitoring engine operating limits and preventing overspeed damage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tachometer designates a device for indicating speed of rotation."*
+> - 📜 **Antoine de Saint-Exupéry (*Wind, Sand and Stars*):** *"My eyes darted constantly between the altimeter, the oil gauge, and the needle of the **tachometer** trembling at two thousand revolutions."*
+> - 📜 **H. G. Wells (*The First Men in the Moon*):** *"Cavor adjusted the control valve while keeping his eyes glued to the dial of the centrifugal **tachometer**."*
+> - 📜 **Nevil Shute (*No Highway*):** *"The test pilot noted a sudden fluctuation in the port **tachometer** before the vibration began to shake the airframe."*

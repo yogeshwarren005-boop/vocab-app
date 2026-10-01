@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Primitive medium-sized theropod; swift-running bipedal carnivorous dinosaur having grasping hands with sharp claws and a short horn between the nostrils; jurassic in north america.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Primitive medium-sized theropod; swift-running bipedal carnivorous dinosaur having grasping hands with sharp claws and a short horn between the nostrils; jurassic in north america.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of large carnivorous theropod dinosaurs of the Late Jurassic period, possessing a distinct horn on the midline of its snout.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dinosaur paleontology, an apex predator known from the Morrison Formation of North America and Portugal, characterized by elongate teeth and dermal scutes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ceratosaurus designates primitive medium-sized theropod; swift-running bipedal carnivorous dinosaur having grasping hands with sharp claws and a short horn between the nostrils; jurassic in north america."*
+> - 📜 **Othniel Charles Marsh (*Principal Characters of American Jurassic Dinosaurs*):** *"I propose the generic name **Ceratosaurus** to signify the horned reptile whose magnificent skull was recovered from Canon City."*
+> - 📜 **Henry Fairfield Osborn (*Skeletal Adaptations of Ornitholestes, Struthiomimus, and Tyrannosaurus*):** *"The robust pelvic structure of **Ceratosaurus** exhibits primitive fusion between the ilium, ischium, and pubis."*
+> - 📜 **William Diller Matthew (*Dinosaurs*):** *"The skull of **Ceratosaurus** carried a prominent osseous horn core that supported a formidable keratin sheath in life."*

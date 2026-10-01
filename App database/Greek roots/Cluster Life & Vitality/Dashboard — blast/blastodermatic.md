@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a blastoderm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a blastoderm.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or derived from the blastoderm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to the primitive embryonic cellular layer that yields the primary germ layers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, blastodermatic designates of or relating to a blastoderm."*
+> - 📜 **Richard Owen (*Lectures on the Comparative Anatomy and Physiology of the Invertebrate Animals*):** *"The **blastodermatic** membrane envelops the yolk, initiating rhythmic nutrient absorption for the developing embryo."*
+> - 📜 **Francis Balfour (*A Treatise on Comparative Embryology*):** *"Invagination of the **blastodermatic** layers establishes the initial tripartite division of germ tissues."*
+> - 📜 **Karl Ernst von Baer (*Entwickelungsgeschichte der Thiere*):** *"Changes within the **blastodermatic** vesicle mark the definite emergence of cephalic and caudal poles."*

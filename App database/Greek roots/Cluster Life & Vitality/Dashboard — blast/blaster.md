@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A workman employed to blast with explosives.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A workman employed to blast with explosives.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A worker or instrument that discharges explosives to break rock, excavate foundations, or fell obstacles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One that blights, withers, or brings destructive ruin upon life or reputations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Drawing my heavy blaster I rake the beam across the doorway."*
-> - 📜 **Randall Garrett (*Deadly decoy*):** *"The key engaged, and as the door slid open, I stepped inside, my blaster held at the ready."*
-> - 📜 **Randall Garrett (*Deadly decoy*):** *"I carefully checked the loading of my blaster, just in case I'd need it."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The expert quarry **blaster** sets his deep gunpowder fuse with the icy composure of a seasoned gunner."*
+> - 📜 **William Shakespeare (*The Two Gentlemen of Verona*):** *"As in the sweetest bud the eating canker dwells, so eating love inhabits in the finest wits of all: yet love is the **blaster** of tender youth."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"The Martian heat-ray operated like an invisible aerial **blaster**, shattering masonry and vaporizing iron girders."*

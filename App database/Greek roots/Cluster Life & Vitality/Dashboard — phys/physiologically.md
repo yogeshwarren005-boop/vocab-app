@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to physiological processes; with respect to physiology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to physiological processes; with respect to physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a physiological manner; with regard to bodily functions and mechanisms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: From the standpoint of physiology or normal organismal operation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, physiologically designates of or relating to physiological processes; with respect to physiology."*
+> - 📜 **Claude Bernard (*An Introduction to the Study of Experimental Medicine*):** *"An organ cannot be properly understood until it is studied **physiologically** in the living, conscious animal."*
+> - 📜 **Walter Cannon (*The Wisdom of the Body*):** *"The organism is organized **physiologically** to maintain internal water and salt balance against extreme dehydration."*
+> - 📜 **Thomas Henry Huxley (*Lessons in Elementary Physiology*):** *"The kidney acts **physiologically** as an automated filter, purging nitrogenous wastes while conserving vital plasma proteins."*

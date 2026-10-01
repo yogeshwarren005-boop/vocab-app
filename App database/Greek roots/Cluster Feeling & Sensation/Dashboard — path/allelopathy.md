@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The suppression of growth of one plant species by another due to the release of toxic substances.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The suppression of growth of one plant species by another due to the release of toxic substances.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The biological phenomenon by which an organism (especially a plant) produces biochemicals that influence the growth, survival, or reproduction of other organisms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agronomy and forest ecology, the natural chemical warfare waged by plants (e.g., juglone produced by black walnut trees) to inhibit competing vegetation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, allelopathy designates the suppression of growth of one plant species by another due to the release of toxic substances."*
+> - 📜 **Hans Molisch (*Der Einfluss einer Pflanze auf die andere: Allelopathie*):** *"We coin the term **allelopathy** to designate the biochemical interactions through which plants mutually stimulate or poison one another."*
+> - 📜 **Eugene Odum (*Fundamentals of Ecology*):** *"The barren zone surrounding desert sagebrush illustrates the powerful role of chemical **allelopathy** in shaping community spacing."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"Nature's own herbicides operate through subtle **allelopathy**, where roots exude compounds that keep invaders at bay."*

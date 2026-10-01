@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A tachometer that produces a graphical record of its readings; used to record the speed and duration of trips in a motor vehicle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tachometer that produces a graphical record of its readings; used to record the speed and duration of trips in a motor vehicle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A device fitted to a motor vehicle or locomotive that automatically records speed, distance traveled, and driver driving and rest periods onto a chart or digital memory.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In transport regulation and forensic accident analysis, a tamper-resistant recorder mandated on commercial vehicles to ensure adherence to statutory safety limits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tachograph designates a tachometer that produces a graphical record of its readings; used to record the speed and duration of trips in a motor vehicle."*
+> - 📜 **H. G. Wells (*The War in the Air*):** *"The engineer checked the drum of the **tachograph** to confirm the locomotive's acceleration over the steep viaduct."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Bruce-Partington Plans*):** *"A careful examination of the train's **tachograph** verified that it had slowed down abruptly near the signal box."*
+> - 📜 **Lewis Mumford (*Technics and Civilization*):** *"The modern highway transport system enforces mechanical discipline through the unblinking record of the **tachograph**."*

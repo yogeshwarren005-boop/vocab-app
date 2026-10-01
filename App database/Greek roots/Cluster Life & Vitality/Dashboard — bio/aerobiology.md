@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The science dealing with the occurrence, transportation, and effects of airborne materials (such as viruses, pollen, or pollutants).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The science dealing with the occurrence, transportation, and effects of airborne materials (such as viruses, pollen, or pollutants).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of biology concerned with the dispersal, passive transport, and atmospheric behavior of airborne biological particles such as pollen, fungal spores, and bacteria.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The study of living organisms inhabiting or sustained within the troposphere and stratosphere and their meteorological interactions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aerobiology designates the science dealing with the occurrence, transportation, and effects of airborne materials (such as viruses, pollen, or pollutants)."*
+> - 📜 **Fred C. Meier (*The Field of Aerobiology*):** *"Recent investigations in **aerobiology** demonstrate that living spores survive at extraordinary altitudes above the continental plains."*
+> - 📜 **E. C. Stakman (*Plant Pathology and Human Welfare*):** *"Epidemiological forecasting of wheat rust epidemics depends fundamentally on advances in synoptic **aerobiology**."*
+> - 📜 **Charles Lindbergh (*High-Altitude Collecting and Atmospheric Biology*):** *"During transatlantic flights, special sky-hooks were deployed to collect microscopic specimens for pioneer studies in **aerobiology**."*

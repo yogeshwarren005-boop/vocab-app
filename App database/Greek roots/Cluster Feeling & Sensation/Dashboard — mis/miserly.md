@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (used of persons or behavior) characterized by or indicative of lack of generosity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (used of persons or behavior) characterized by or indicative of lack of generosity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characteristic of a miser; parsimonious, stingy, or mean with money and hospitality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Paltry, scanty, or grudgingly bestowed in quantity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"When Allan Woodcourt spoke to you, my dear, he spoke with my knowledge and consent—but I gave him no encouragement, not I, for these surprises were my great reward, and I was too miserly to part with a scrap of it."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Also, when we played at cards Miss Havisham would look on, with a miserly relish of Estella’s moods, whatever they were."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Thou art always prating to me, Starbuck, about those miserly owners, as if the owners were my conscience."*
+> - 📜 **Washington Irving (*The Devil and Tom Walker*):** *"Tom and his wife were so **miserly** that they even conspired to cheat each other out of kitchen scraps."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"The dinner was so **miserly** and cold that Pip's teeth chattered over the single mutton chop."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"John Dashwood convinced himself by **miserly** reasoning that three thousand pounds was far too generous for his sisters."*

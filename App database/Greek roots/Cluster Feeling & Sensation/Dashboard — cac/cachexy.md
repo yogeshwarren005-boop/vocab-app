@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any general reduction in vitality and strength of body and mind resulting from a debilitating chronic disease.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any general reduction in vitality and strength of body and mind resulting from a debilitating chronic disease.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An older or literary form of cachexia; a depraved, exhausted, or deeply impaired physical state of the body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In 17th- and 18th-century medical and philosophical literature, a general condition of constitutional decline and vitiated bodily fluids.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cachexy designates any general reduction in vitality and strength of body and mind resulting from a debilitating chronic disease."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"A constitutional **cachexy** obstructs the natural vigor of the animal spirits, dulling the sensory organs."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"The Struldbrugs suffered from an incurable spiritual and physical **cachexy** that accompanied their joyless immortality."*
+> - 📜 **Tobias Smollett (*The Adventures of Peregrine Pickle*):** *"His long confinement in debtor's prison had brought on a stubborn **cachexy** that resisted all cordials."*

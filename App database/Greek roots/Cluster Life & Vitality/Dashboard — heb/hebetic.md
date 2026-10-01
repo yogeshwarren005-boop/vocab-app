@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of youth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of youth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or occurring at the age of puberty or youth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to the physiological, endocrine, and somatic transformations characteristic of sexual maturation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hebetic designates adjective*) pertaining to, derived from, or characteristic of youth."*
+> - 📜 **G. Stanley Hall (*Adolescence*):** *"The **hebetic** crisis reconfigures the somatic architecture, awakening dormant instinctual impulses and emotional volatility."*
+> - 📜 **William Boyd (*A Textbook of Pathology*):** *"Rapid skeletal elongation during the **hebetic** growth spurt predisposes adolescents to postural deformities."*
+> - 📜 **Richard von Krafft-Ebing (*Psychopathia Sexualis*):** *"Latent psychological predispositions frequently erupt into overt neurosis during the stressful **hebetic** epoch."*

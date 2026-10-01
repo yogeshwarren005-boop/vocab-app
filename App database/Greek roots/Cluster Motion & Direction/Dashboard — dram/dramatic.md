@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to drama.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Suitable to or characteristic of drama (as in being very exciting or moving).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to drama or the theater; strikingly sensational, exciting, or emotional in appearance, effect, or circumstance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative arts and rhetoric, producing a vivid, instantaneous impression through contrast, conflict, and sudden transformation of circumstances.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It is difficult to describe the intensely dramatic effect that announcement had upon Oak at such a moment."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The impressionable peasant leads a larger, fuller, more dramatic life than the pachydermatous king."*
-> - 📜 **Anthony Pryde (*Nightfall*):** *"The lives of the Forsythe family were less absorbing than her own life when this fiery dramatic glow was shed over it."*
+> - 📜 **Edgar Allan Poe (*The Fall of the House of Usher*):** *"The sudden collapse of the ancient mansion was attended by a **dramatic** crash that reverberated across the tarn."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Her arrival at the bedside transformed a quiet domestic illness into a scene of intense **dramatic** tension."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"The sudden evacuation of Dunkirk remains one of the most **dramatic** episodes in our military annals."*

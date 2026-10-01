@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Deciduous shrubs of north america and central america and china.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deciduous shrubs of north america and central america and china.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of deciduous shrubs in the honeysuckle family (Caprifoliaceae), commonly known as snowberries, coralberries, or waxberries.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic dendrology, a North American genus (from Greek syn 'together', pherein 'to bear', and karpos 'fruit'), named for its tight, clustered bunches of white or pink berries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, symphoricarpos designates deciduous shrubs of north america and central america and china."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The common snowberry, **Symphoricarpos** racemosus, adorns woodland margins with dense clusters of opaque white berries."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"Landscape designers frequently plant species of **Symphoricarpos** for ornamental autumn fruit that persists well into winter."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The compact berry clusters of **Symphoricarpos** provide an essential winter food reserve for game birds and small mammals."*

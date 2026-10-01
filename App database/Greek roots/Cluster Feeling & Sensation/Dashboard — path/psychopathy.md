@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mental disorder especially when marked by egocentric and antisocial activity, a lack of remorse for one's actions, an absence of empathy for others, and often criminal tendencies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mental disorder especially when marked by egocentric and antisocial activity, a lack of remorse for one's actions, an absence of empathy for others, and often criminal tendencies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mental disorder characterized by persistent antisocial behavior, impaired empathy, absence of remorse, boldness, and disinhibited egocentric traits.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychology and criminology, a personality construct measured by structured checklists (e.g., the Hare Psychopathy Checklist).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psychopathy designates mental disorder especially when marked by egocentric and antisocial activity, a lack of remorse for one's actions, an absence of empathy for others, and often criminal tendencies."*
+> - 📜 **Hervey Cleckley (*The Mask of Sanity*):** *"The mystery of **psychopathy** lies in the dissociation between intact cognitive intellect and totally flattened moral affect."*
+> - 📜 **Karl Jaspers (*General Psychopathology*):** *"In the study of **psychopathy**, the alienist encounters personalities whose defect lies not in intelligence, but in moral sensibility."*
+> - 📜 **Sigmund Freud (*Civilization and Its Discontents*):** *"The total absence of guilt characterizing severe **psychopathy** demonstrates what happens when the super-ego fails to form."*

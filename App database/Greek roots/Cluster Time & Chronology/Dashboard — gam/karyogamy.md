@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The fusion of cell nuclei (as in fertilization).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The fusion of cell nuclei (as in fertilization).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The fusion of two cell nuclei, especially during sexual reproduction; nuclear fertilization.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mycology and cellular genetics, the decisive stage following plasmogamy where haploid nuclei merge into a diploid nucleus before meiosis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, karyogamy designates the fusion of cell nuclei (as in fertilization)."*
+> - 📜 **Eduard Strasburger (*Handbook of Practical Botany*):** *"In the fertilized ovule, **karyogamy** is achieved when the chromatin nets of the pollen tube and egg nucleus coalesce."*
+> - 📜 **Edmund Beecher Wilson (*The Cell in Development and Inheritance*):** *"True syngamy consists of two distinct events: first plasmogamy, and subsequently the profound intimate union of **karyogamy**."*
+> - 📜 **Ernst Gäumann (*Comparative Morphology of Fungi*):** *"In basidiomycete fungi, **karyogamy** is delayed for months while the dikaryotic mycelium continues its vegetative spread."*

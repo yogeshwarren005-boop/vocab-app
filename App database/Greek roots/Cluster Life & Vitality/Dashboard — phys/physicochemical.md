@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to physical chemistry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to physical chemistry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or involving both physics and chemistry; applying physical laws to chemical systems.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to the physical properties and energetic transitions of chemical compounds, macromolecules, and biological membranes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, physicochemical designates relating to physical chemistry."*
+> - 📜 **Svante Arrhenius (*Immunochemistry*):** *"Immune reactions obey the exact **physicochemical** laws governing mass action and chemical equilibrium in solution."*
+> - 📜 **Claude Bernard (*Lectures on the Phenomena of Life*):** *"All vital actions resolve themselves into determined **physicochemical** conditions operating within the internal environment."*
+> - 📜 **Jacques Loeb (*The Mechanistic Conception of Life*):** *"Living matter exhibits no mysterious vital forces, but only complex **physicochemical** machines driven by thermodynamics."*

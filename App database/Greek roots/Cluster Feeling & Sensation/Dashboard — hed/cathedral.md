@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any large and important church.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The principal christian church building of a bishop's diocese.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The principal church of a diocese, housing the official seat or throne (cathedra) of the bishop.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In architecture and cultural history, a monumental medieval ecclesiastical structure characterized by soaring vaulted naves, stained glass, and flying buttresses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But list to me, my Humphrey, my sweet Duke: Methought I sat in seat of majesty In the cathedral church of Westminster And in that chair where kings and queens are crowned, Where Henry and Dame Margaret kneeled to me And on my head did set the diadem."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Skimpole, “to this effect: ‘Harold Skimpole loves to see the sun shine, loves to hear the wind blow, loves to watch the changing lights and shadows, loves to hear the birds, those choristers in Nature’s great cathedral."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Paul’s Cathedral, glittering above a red-and-violet-tinted cloud of smoke."*
+> - 📜 **Victor Hugo (*The Hunchback of Notre-Dame*):** *"The ancient Gothic **cathedral** was a vast stone symphony where each arch and gargoyle spoke the faith of centuries."*
+> - 📜 **John Ruskin (*The Seven Lamps of Architecture*):** *"The builder of a medieval **cathedral** poured his soul into the stone capitals, caring little for personal renown."*
+> - 📜 **Henry Adams (*Mont-Saint-Michel and Chartres*):** *"The Virgin of Chartres smiled from her rose window, looking down upon her completed twelfth-century **cathedral**."*

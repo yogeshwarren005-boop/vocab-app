@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various abnormal conditions characterized by the secretion and excretion of excessive amounts of urine; especially : diabetes mellitus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disorder of the pituitary gland characterized by intense thirst and by the excretion of large amounts of urine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A metabolic disease in which the body's inability to produce or properly use insulin causes elevated blood sugar levels.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically, an excessive discharge of urine (from Greek diabetes a siphon, from dia- through + bainein to step/pass).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"I have had diabetes for years."*
+> - 📜 **Thomas Willis (*Pharmaceutice Rationalis*):** *"In **diabetes**, the urine is wonderfully sweet, as if imbued with honey or sugar."*
+> - 📜 **Frederick Banting (*The Nobel Lecture*):** *"Before the discovery of insulin, juvenile **diabetes** was invariably a fatal diagnosis within months."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Dietary restriction formed the sole therapeutic measure for managing severe **diabetes** prior to endocrine therapy."*

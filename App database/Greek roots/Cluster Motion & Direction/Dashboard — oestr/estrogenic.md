@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Promoting estrus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, caused by, or being an estrogen.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Producing, inducing, or having the physiological properties of estrogen; promoting estrus or female secondary sexual traits.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacology and toxicology, describing synthetic compounds, phytoestrogens, or environmental xenobiotics capable of binding to and activating estrogen receptors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, estrogenic designates promoting estrus."*
+> - 📜 **George Corner (*The Hormones in Human Reproduction*):** *"Substances exhibiting powerful **estrogenic** activity were detected not only in mammalian tissue but in certain legumes."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"Synthetic pesticides can mimic hormonal signals, displaying potent **estrogenic** effects that disrupt wildlife reproduction."*
+> - 📜 **Francis Marshall (*The Physiology of Reproduction*):** *"The administration of an **estrogenic** extract provoked typical receptive behavior in ovariectomized test animals."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek trep.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Motion & Direction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An isotropic substance; a medium or material whose physical properties are uniform and identical in all spatial directions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In developmental embryology and historical biology, an egg cell or structural matrix displaying no pre-existing directional polarities or asymmetries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, isotrope designates a term designating an entity, condition, or phenomenon derived from greek trep."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"An optical **isotrope** allows light waves to propagate with uniform speed regardless of the orientation of the wavefront."*
+> - 📜 **Arthur Dendy (*Outlines of Evolutionary Biology*):** *"The undifferentiated blastosphere appears as a morphological **isotrope** prior to the appearance of the primitive streak."*
+> - 📜 **William Henry Bragg (*The Crystalline State*):** *"Unlike birefringent crystals, an amorphous glass behaves as a perfect **isotrope** under optical examination."*

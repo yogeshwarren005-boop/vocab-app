@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sterile simple or branched filament or hair borne among sporangia; may be pointed or clubbed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sterile simple or branched filament or hair borne among sporangia; may be pointed or clubbed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sterile, filamentous, hair-like structure interspersed among the sporangia, asci, or reproductive organs of mosses, ferns, and fungi.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the vertebrate brain, an anterior vascular evagination from the roof of the diencephalon anterior to the epiphysis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paraphysis designates a sterile simple or branched filament or hair borne among sporangia; may be pointed or clubbed."*
+> - 📜 **Anton de Bary (*Comparative Morphology and Biology of the Fungi*):** *"The hymenium of the cup fungus is composed of fertile asci packed vertically alongside slender sterile **paraphyses**."*
+> - 📜 **Miles Joseph Berkeley (*Outlines of British Fungology*):** *"Capitate **paraphyses** secrete a lubricating gel that cushions the developing ascospores against desiccation."*
+> - 📜 **Richard Owen (*Lectures on Comparative Anatomy*):** *"In primitive amphibians, the embryonic **paraphysis** retains an ancient choroidal secretory function."*

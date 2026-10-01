@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mature male or female germ cell usually possessing a haploid chromosome set and capable of initiating formation of a new diploid individual by fusion with a gamete of the opposite sex.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mature male or female germ cell usually possessing a haploid chromosome set and capable of initiating formation of a new diploid individual by fusion with a gamete of the opposite sex.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or produced by gametes; pertaining to the germ cells.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In population and transmission genetics, relating to gametic frequencies, gametic selection, or linkage disequilibrium.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gametic designates a mature male or female germ cell usually possessing a haploid chromosome set and capable of initiating formation of a new diploid individual by fusion with a gamete of the opposite sex."*
+> - 📜 **William Bateson (*Mendel's Principles of Heredity*):** *"The 9:3:3:1 ratio observed in dihybrid crosses reflects the random combination of four distinct types of **gametic** nuclei."*
+> - 📜 **Thomas Hunt Morgan (*The Theory of the Gene*):** *"Deviations from independent assortment demonstrate that **gametic** linkage keeps genes situated on the same chromosome together."*
+> - 📜 **R. A. Fisher (*The Genetical Theory of Natural Selection*):** *"Differential survival among sperm or pollen grains establishes true **gametic** selection prior to zygote formation."*

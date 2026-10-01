@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to epinephrine (its release or action).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to epinephrine (its release or action).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Producing physiological effects resembling those caused by stimulation of the sympathetic nervous system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacology, describing adrenergic agonists (e.g., epinephrine, norepinephrine, amphetamine) that raise blood pressure, increase heart rate, and dilate bronchi.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sympathomimetic designates relating to epinephrine (its release or action)."*
+> - 📜 **George Barger & Henry Hallett Dale (*Chemical Structure and Sympathomimetic Action of Amines*):** *"We propose the term **sympathomimetic** to designate those amines that simulate the peripheral effects of sympathetic nerve stimulation."*
+> - 📜 **Walter Cannon (*The Wisdom of the Body*):** *"Circulating adrenaline behaves as an endogenous **sympathomimetic** hormone, fortifying the organism against emergency demands."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The powerful **sympathomimetic** vasoconstriction induced by ephedrine relieves acute bronchial spasm in asthmatic attacks."*

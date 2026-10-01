@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of youth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of youth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who experiences hebephilia (erotic attraction to individuals undergoing puberty, roughly ages 11 to 14).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In forensic psychology, an individual exhibiting sexual fixation upon pubertal rather than prepubescent or adult subjects.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hebophile designates adjective*) pertaining to, derived from, or characteristic of youth."*
+> - 📜 **Magnus Hirschfeld (*Sexual Pathology*):** *"Psychiatric evaluation of the accused confirmed he was a diagnosed **hebophile**, fixated on the earliest physical signs of puberty."*
+> - 📜 **Havelock Ellis (*Studies in the Psychology of Sex*):** *"The clinical history of the **hebophile** demonstrates an arrest of normal adult psychosexual maturation."*
+> - 📜 **Richard von Krafft-Ebing (*Psychopathia Sexualis*):** *"Therapeutic intervention seeks to redirect the impulses of the **hebophile** toward age-appropriate consensual partnerships."*

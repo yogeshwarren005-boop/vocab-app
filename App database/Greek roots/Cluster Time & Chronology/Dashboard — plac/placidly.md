@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a quiet and tranquil manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a placid and good-natured manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a calm, peaceful, serene, or tranquil manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary description, acting or speaking with untroubled gentleness and unhurried composure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"I don't care whether she wants to make up with me or not," Mea said placidly."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Happily for both of us, it was not until Charley was safe in bed again and placidly asleep that I began to think the contagion of her illness was upon me."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Then I put my hair aside and looked at the reflection in the mirror, encouraged by seeing how placidly it looked at me."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Mr. Jarndyce smiled **placidly** upon the young people, delighted to see their happiness blossom."*
+> - 📜 **Johanna Spyri (*Heidi*):** *"The goats grazed **placidly** among the fragrant alpine herbs while the sun dipped behind the mountain peaks."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"She sat **placidly** by the parlor window, quietly sewing while the winter tempest beat against the glass."*

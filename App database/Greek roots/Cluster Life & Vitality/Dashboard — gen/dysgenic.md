@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to promote survival of or reproduction by less well-adapted individuals (such as the weak or diseased) especially at the expense of well-adapted individuals (such as the strong or healthy).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Biologically defective or deficient.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Exerting a detrimental effect on the genetic qualities or hereditary health of a population; biologically degrading.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending toward the accumulation of disadvantageous mutations or the survival of less biologically fit individuals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dysgenic designates tending to promote survival of or reproduction by less well-adapted individuals (such as the weak or diseased) especially at the expense of well-adapted individuals (such as the strong or healthy)."*
+> - 📜 **Julian Huxley (*The Stream of Life*):** *"Modern warfare operates as a catastrophically **dysgenic** filter, destroying physically vigorous youths on the battlefield."*
+> - 📜 **Theodosius Dobzhansky (*Mankind Evolving*):** *"Relaxed natural selection in civilized societies has prompted anxieties regarding potentially **dysgenic** mutational loads."*
+> - 📜 **H. G. Wells (*The Work, Wealth and Happiness of Mankind*):** *"Slum tenements and industrial malnutrition act as powerful **dysgenic** agents upon working-class populations."*

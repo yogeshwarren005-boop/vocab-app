@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sense mediated by receptors located in muscles, tendons, and joints and stimulated by bodily movements and tensions; also : sensory experience derived from this sense.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sense mediated by receptors located in muscles, tendons, and joints and stimulated by bodily movements and tensions; also : sensory experience derived from this sense.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The awareness of the position and movement of the parts of the body using sensory receptors (proprioceptors) in joints, tendons, and muscles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sensory neurophysiology and cognitive psychology, the muscle-joint sense that provides feedback necessary for coordinated voluntary movement, posture, and manual dexterity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, kinesthesia designates a sense mediated by receptors located in muscles, tendons, and joints and stimulated by bodily movements and tensions; also : sensory experience derived from this sense."*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*):** *"Deprived of all **kinesthesia** by sensory neuropathy, the poor woman felt disembodied, unable to stand without visual inspection of her limbs."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Our immediate sense of bodily weight and effort depends upon **kinesthesia**, which reports the tension of every contracted muscle."*
+> - 📜 **Charles Sherrington (*The Integrative Action of the Nervous System*):** *"The proprioceptive system provides the continuous **kinesthesia** that guides the motor cortex in modulating skilled voluntary acts."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or derived from the mesoderm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or derived from the mesoderm.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or derived from the mesoblast (mesoderm).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to tissues, somites, or developmental structures of mesodermal origin.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mesoblastic designates relating to or derived from the mesoderm."*
+> - 📜 **Francis Balfour (*A Treatise on Comparative Embryology*):** *"Segmentation of the paraxial **mesoblastic** plate yields the paired somites flanking the notochord."*
+> - 📜 **C. H. Waddington (*Principles of Embryology*):** *"The **mesoblastic** mantle spreads forward between ectoderm and endoderm, providing the substratum for heart development."*
+> - 📜 **Karl Ernst von Baer (*Entwickelungsgeschichte der Thiere*):** *"Condensation of **mesoblastic** cells around the primitive chordal sheath initiates vertebral chondrogenesis."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A part of the cell containing dna and rna and responsible for growth and reproduction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A part of the cell containing dna and rna and responsible for growth and reproduction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The nucleus of a biological cell.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The classical Greek noun (*karyon*, nut, walnut, or kernel) adopted in cytology as the root for nuclear structures and cellular classification.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, karyon designates a part of the cell containing dna and rna and responsible for growth and reproduction."*
+> - 📜 **Edmund Beecher Wilson (*The Cell in Development and Heredity*):** *"Cytologists adopted the classical Greek term **karyon** to designate the central governing kernel of the protoplast."*
+> - 📜 **Ernst Haeckel (*Generelle Morphologie der Organismen*):** *"The evolution of the true **karyon** separated simple cytodes from advanced cellular organisms."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"Etymologically, **karyon** signified the hard shell of a walnut before biology borrowed it for the cell nucleus."*

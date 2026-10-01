@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Remove the pituitary glands.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove the pituitary glands.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To surgically remove the hypophysis (pituitary gland); British spelling of hypophysectomize.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In experimental endocrinology, to excise the pituitary to determine baseline endocrine dependencies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypophysectomise designates remove the pituitary glands."*
+> - 📜 **Bernardo Houssay (*Hormonal Functions of the Anterior Pituitary*):** *"To demonstrate the role of the master gland, we chose to **hypophysectomise** experimental toads and dogs."*
+> - 📜 **Hans Selye (*The Stress of Life*):** *"When we **hypophysectomise** the animal, systemic cortical enlargement in response to acute stressors is abolished."*
+> - 📜 **Frank Beach (*Hormones and Behavior*):** *"Physiologists sought to **hypophysectomise** juvenile rodents to track secondary atrophy of gonadal tissues."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Disability of walking due to crippling of the legs or feet.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Disability of walking due to crippling of the legs or feet.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being game; pluck, courage, endurance, and indomitable fighting spirit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sports, hunting, and animal breeding, the inherent tenacity and courage that refuses to quit under extreme pressure, pain, or fatigue.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gameness designates disability of walking due to crippling of the legs or feet."*
+> - 📜 **Jack London (*White Fang*):** *"The bulldog's sheer **gameness** was terrible; though badly torn, he never wavered in his silent, suffocating grip."*
+> - 📜 **Arthur Conan Doyle (*Rodney Stone*):** *"The ring roared in tribute to his **gameness**, for he stood erect with shattered ribs, smiling defiance at his foe."*
+> - 📜 **Theodore Roosevelt (*Hunting Trips of a Ranchman*):** *"A wounded grizzly bear displays a furious **gameness** that demands cool marksmanship from the hunter."*

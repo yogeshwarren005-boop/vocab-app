@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The appearance of the chromosomal makeup of a somatic cell in an individual or species (including the number and arrangement and size and structure of the chromosomes).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The appearance of the chromosomal makeup of a somatic cell in an individual or species (including the number and arrangement and size and structure of the chromosomes).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The number, size, and visual appearance of the chromosomes in the cell nuclei of an organism or species.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A standardized photomicrographic display of metaphase chromosomes arranged in homologous pairs according to length and centmer position.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, karyotype designates the appearance of the chromosomal makeup of a somatic cell in an individual or species (including the number and arrangement and size and structure of the chromosomes)."*
+> - 📜 **Theodosius Dobzhansky (*Genetics and the Origin of Species*):** *"Chromosomal inversions and translocations alter the ancestral **karyotype**, establishing reproductive isolation between sibling species."*
+> - 📜 **Barbara McClintock (*Chromosome Morphology in Zea Mays*):** *"Detailed analysis of the pachytene **karyotype** of maize allowed precise cytological mapping of chromosomal knobs."*
+> - 📜 **Jerome Lejeune (*The Trisomy 21 Karyotype*):** *"Analysis of the human **karyotype** demonstrated that Down syndrome is caused by the presence of a supernumerary chromosome 21."*

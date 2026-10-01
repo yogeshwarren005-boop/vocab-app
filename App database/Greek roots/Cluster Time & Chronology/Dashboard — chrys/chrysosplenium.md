@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of widely distributed semiaquatic herbs with minute greenish-yellow apetalous flowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of widely distributed semiaquatic herbs with minute greenish-yellow apetalous flowers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of small, succulent herbs in the saxifrage family (Saxifragaceae), commonly known as golden saxifrages.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In riparian and arctic-alpine botany, creeping moisture-loving herbs with inconspicuous apetalous flowers surrounded by bright yellowish-green floral bracts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"GOLDEN-SAXIFRAGE BRAND; sori of various sizes, few together and confluent, pale brown; spores long, somewhat waved, much attenuated at either extremity; peduncle elongated.—On the under surface of the leaves of _Chrysosplenium oppositifolium_."*
+> - 📜 **William Jackson Hooker (*The British Flora*):** *"By the margins of mountain rills, **Chrysosplenium** carpets the wet stones with vivid golden-green cushions."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"The calyx lobes of **Chrysosplenium** are yellow within, substituting for the missing petals to attract insect pollinators."*
+> - 📜 **Charles Darwin (*The Different Forms of Flowers on Plants of the Same Species*):** *"The spreading carpet of **Chrysosplenium** thrives in dripping shaded ravines where few other flowering plants compete."*

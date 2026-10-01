@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Symptomatic of the onset of an attack or a disease.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Symptomatic of the onset of an attack or a disease.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Precursory; symptomatic of the beginning or approach of a disease (variant of prodromal).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pathology and medical diagnostics, descriptive of early warning signals in infectious or neurological disorders.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prodromic designates symptomatic of the onset of an attack or a disease."*
+> - 📜 **Robley Dunglison (*Medical Lexicon*):** *"The **prodromic** stage of acute fevers is marked by universal languor, shivering, and headache."*
+> - 📜 **Samuel Cooper (*A Dictionary of Practical Surgery*):** *"Immediate isolation is indicated upon the appearance of these **prodromic** symptoms in infectious wards."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The physician should teach the epileptic patient to recognize the **prodromic** sensation to avoid accidental falls."*

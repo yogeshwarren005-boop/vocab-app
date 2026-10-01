@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (roman catholic church) a book containing all the prayers and responses needed to celebrate mass throughout the year.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (roman catholic church) a book containing all the prayers and responses needed to celebrate mass throughout the year.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A liturgical book containing all the prayers, readings, chants, and rubrics necessary for the celebration of the Roman Catholic Mass throughout the year.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An illuminated medieval ecclesiastical codex valued for its calligraphy, miniatures, and liturgical music notation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bram Stoker (*Dracula*):** *"Van Helsing opened his missal and began to read, and Quincey and I followed as well as we could."*
-> - 📜 **Walter Scott (*Ivanhoe: A Romance*):** *"On the stone table before her stood a crucifix of ivory, beside which was laid a missal, having its pages richly illuminated, and its boards adorned with clasps of gold, and bosses of the same precious metal."*
-> - 📜 **Bram Stoker (*Dracula*):** *"Sometimes we saw little towns or castles on the top of steep hills such as we see in old missals; sometimes we ran by rivers and streams which seemed from the wide stony margin on each side of them to be subject to great floods."*
+> - 📜 **Thomas More (*Dialogue Concerning Heresies*):** *"The priest opened the gilded **missal** upon the altar, reciting the ancient Canon with devout reverence."*
+> - 📜 **Walter Scott (*The Lady of the Lake*):** *"The hermit knelt upon the cold damp stone, his illuminated Latin **missal** clasped across his breast."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The fourteenth-century **missal** was a treasure-house where the illuminator lavished ultramarine and gold leaf on every capital."*

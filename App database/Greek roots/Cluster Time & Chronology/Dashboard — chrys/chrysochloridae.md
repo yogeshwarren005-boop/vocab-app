@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Golden moles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Golden moles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of subterranean, burrowing afrotherian mammals native to sub-Saharan Africa, known as golden moles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mammalian systematics, placental insectivores possessing iridescent golden-green fur, rudimentary non-functional eyes covered by skin, and powerful digging foreclaws.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chrysochloridae designates golden moles."*
+> - 📜 **Oldfield Thomas (*Annals and Magazine of Natural History*):** *"The fur of the **Chrysochloridae** presents an extraordinary metallic iridescence when illuminated by direct sunlight."*
+> - 📜 **William Henry Flower (*An Introduction to the Osteology of the Mammalia*):** *"In the skull of the **Chrysochloridae**, the auditory bulla is augmented by a colossal bony enlargement of the malleus."*
+> - 📜 **George Gaylord Simpson (*The Principles of Classification and a Classification of Mammals*):** *"Convergent burrowing adaptations in **Chrysochloridae** mask their true afrotherian affinities with tenrecs and aardvarks."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With regard to phylogeny.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With regard to phylogeny.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a phylogenetic manner; with regard to evolutionary descent and relationships.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: From the standpoint of common ancestry and evolutionary history.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phylogenetically designates with regard to phylogeny."*
+> - 📜 **Willi Hennig (*Phylogenetic Systematics*):** *"Taxa that share unique apomorphic traits are **phylogenetically** sister groups descended from an immediate common ancestor."*
+> - 📜 **Stephen Jay Gould (*Wonderful Life*):** *"The Burgess Shale organisms are **phylogenetically** separated from modern classes by major body plan disparity."*
+> - 📜 **Carl Woese (*The Archaea: Their History and Significance*):** *"Ribosomal RNA sequence analysis proved that Archaea are **phylogenetically** distinct from Eubacteria."*

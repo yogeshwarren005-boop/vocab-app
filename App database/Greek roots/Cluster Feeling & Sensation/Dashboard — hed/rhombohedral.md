@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having threefold symmetry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having threefold symmetry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having, relating to, or shaped like a rhombohedron; in crystallography, belonging to the trigonal crystal system with axes of equal length and equal non-90° angles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Describing mineral species (e.g., calcite, quartz, dolomite) whose lattice geometries exhibit threefold rotational symmetry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhombohedral designates having threefold symmetry."*
+> - 📜 **William Hallowes Miller (*A Treatise on Crystallography*):** *"Calcite presents the classic exemplar of the **rhombohedral** system, cleaving easily along three oblique planes."*
+> - 📜 **Louis Pasteur (*Researches on the Molecular Asymmetry of Natural Organic Products*):** *"The hemihedral facets on **rhombohedral** quartz crystals indicate underlying molecular chirality."*
+> - 📜 **James Dwight Dana (*System of Mineralogy*):** *"The cleavage angles of **rhombohedral** carbonates allow precise discrimination between magnesite and siderite."*

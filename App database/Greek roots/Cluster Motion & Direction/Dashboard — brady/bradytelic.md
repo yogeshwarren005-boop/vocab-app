@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of slow.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of slow.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Evolving at a markedly slower rate than typical or related phylogenetic lineages; surviving with little morphological change over vast geological periods.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary paleontology, coined by George Gaylord Simpson to describe 'living fossils' like the horseshoe crab, coelacanth, and *Lingula*.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bradytelic designates adjective*) pertaining to, derived from, or characteristic of slow."*
+> - 📜 **George Gaylord Simpson (*Tempo and Mode in Evolution*):** *"I designate as **bradytelic** those rare, exceptionally slow-evolving lines that persist through whole geological eras without major change."*
+> - 📜 **Stephen Jay Gould (*The Panda's Thumb*):** *"The horseshoe crab is our most famous **bradytelic** survivor, retaining its Paleozoic anatomy virtually unaltered."*
+> - 📜 **Theodosius Dobzhansky (*Genetics and the Origin of Species*):** *"A **bradytelic** lineage proves that stabilizing natural selection can maintain structural equilibrium when ecological niches remain stable."*

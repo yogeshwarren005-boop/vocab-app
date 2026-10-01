@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hatred of women.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hatred of women.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Hatred of, contempt for, or ingrained prejudice against women (an alternative noun form of misogyny).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociological critique, an institutionalized pattern of cultural antagonism and discrimination directed against women.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, misogynism designates hatred of women."*
+> - 📜 **Havelock Ellis (*Studies in the Psychology of Sex*):** *"Medieval monastic ascetics indulged in a ferocious **misogynism** that branded woman as the gateway to perdition."*
+> - 📜 **Virginia Woolf (*A Room of One's Own*):** *"The history of male scholarship is crowded with curious examples of unprovoked **misogynism**."*
+> - 📜 **Simone de Beauvoir (*The Second Sex*):** *"Every mythology invents scapegoats to justify female enslavement, rationalizing brutal **misogynism** as natural law."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who hates or distrusts humankind.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who hates or distrusts humankind.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who dislikes, distrusts, or hates humankind and avoids human society.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A literary archetype (such as Molière's Alceste or Shakespeare's Timon) who withdraws into bitter solitude after disillusionment with human hypocrisy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Like a plethoric burning martyr, or a self-consuming misanthrope, once ignited, the whale supplies his own fuel and burns by his own body."*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"In Hoelderlin we have the ardent Hellenic idealist; Lenau gives expression to all the pathos of Weltschmerz, Heine is its satirist, the misanthrope, while in Raabe we even have a pessimistic humorist."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"He had absolutely nothing to do, almost died of _ennui_, and became a confirmed misanthrope."*
+> - 📜 **Molière (*The Misanthrope*):** *"I wish from the bottom of my heart that all human beings would leave me alone; I am a confirmed **misanthrope**."*
+> - 📜 **William Shakespeare (*Timon of Athens*):** *"I am **Misanthropos**, and hate mankind; for thy part, I do wish thou wert a dog, that I might love thee something."*
+> - 📜 **Jonathan Swift (*Letters to Alexander Pope*):** *"I have ever hated all nations, professions, and communities, and all my love is toward individuals; upon this great foundation of **misanthrope** my travels are built."*

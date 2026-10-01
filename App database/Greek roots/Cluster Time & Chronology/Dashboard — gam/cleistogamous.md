@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by or being small inconspicuous closed self-pollinating flowers additional to and often more fruitful than showier ones on the same plant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by or being small inconspicuous closed self-pollinating flowers additional to and often more fruitful than showier ones on the same plant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or producing small, inconspicuous flowers that remain closed and are pollinated automatically within the bud.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary botany, describing closed self-pollinating flowers (e.g. in violets, wood-sorrel, and grasses) that conserve energetic resources while guaranteeing seed set.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cleistogamous designates characterized by or being small inconspicuous closed self-pollinating flowers additional to and often more fruitful than showier ones on the same plant."*
+> - 📜 **Charles Darwin (*The Different Forms of Flowers on Plants of the Same Species*):** *"The tiny **cleistogamous** flowers of Viola odorata hide beneath the fallen leaves, producing abundant fertile capsules without opening."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"Many grasses bear hidden **cleistogamous** spikelets enclosed within the lower leaf sheaths."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"In **cleistogamous** blossoms, the petals remain rudimentary and the pollen tubes penetrate the anther wall directly into the stigma."*

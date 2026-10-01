@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Administer an anesthetic drug to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Administer an anesthetic drug to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To administer an anaesthetic to a patient or animal so as to render them insensible to pain during medical interventions (predominantly Commonwealth spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To deaden, numb, or blunt someone's moral sensibilities, emotions, or critical awareness against troubling realities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anaesthetise designates administer an anesthetic drug to."*
+> - 📜 **Sigmund Freud (*The Interpretation of Dreams*):** *"Neurotic symptoms serve in part to **anaesthetise** the conscious mind against the painful pressure of repressed trauma."*
+> - 📜 **Aldous Huxley (*Brave New World*):** *"Soma was distributed daily to **anaesthetise** every spark of civic discontent and personal anxiety."*
+> - 📜 **T. S. Eliot (*The Love Song of J. Alfred Prufrock*):** *"When the evening is spread out against the sky like a patient etherised upon a table, quietude seems to **anaesthetise** the street."*

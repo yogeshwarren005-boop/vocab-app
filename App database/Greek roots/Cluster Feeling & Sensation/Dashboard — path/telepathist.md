@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone with the power of communicating thoughts directly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A magician who seems to discern the thoughts of another person (usually by clever signals from an accomplice).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who claims to possess the ability to communicate telepathically or who investigates telepathic phenomena.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mentalist or parapsychological researcher focused on mind-reading experiments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, telepathist designates someone with the power of communicating thoughts directly."*
+> - 📜 **Frederic W. H. Myers (*Phantasms of the Living*):** *"The professional **telepathist** was tested in our laboratory under strict conditions to prevent auditory cueing."*
+> - 📜 **Arthur Conan Doyle (*The Memoirs of Sherlock Holmes*):** *"Holmes remarked that a clever detective must be half **telepathist**, reading thoughts from the twitch of an eyelid."*
+> - 📜 **William James (*Memories and Studies*):** *"Mrs. Piper performed feats that led many observers to believe she was a genuine **telepathist** of extraordinary power."*

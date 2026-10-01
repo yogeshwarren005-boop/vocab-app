@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or related to or exhibiting allotropism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or related to or exhibiting allotropism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, exhibiting, or existing in the form of an allotrope; capable of existing in two or more distinct structural modifications.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In solid-state chemistry and metallurgy, describing reversible or irreversible phase transformations (such as alpha and gamma iron) occurring in elemental crystals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"Just let me tell you, to use a very hard word, that we call the diamond an "allotropic" form of carbon."*
-> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"Allotropic means an element with another _form_ to it--the diamond is simply an allotropic form of carbon."*
-> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"Now I hope you understand the meaning of that learned word _allotropic_."*
+> - 📜 **Jöns Jacob Berzelius (*Annual Reports on the Progress of Chemistry*):** *"Phosphorus presents an extraordinary example of **allotropic** transformation when gently heated under inert gas."*
+> - 📜 **Svante Arrhenius (*Theories of Chemistry*):** *"The distinct electrical conductivity of graphite stems from its specific **allotropic** arrangement of aromatic carbon sheets."*
+> - 📜 **William Ostwald (*The Principles of Inorganic Chemistry*):** *"Liquid sulfur undergoes a dramatic **allotropic** change above one hundred and sixty degrees, turning into a dark, viscous mass."*

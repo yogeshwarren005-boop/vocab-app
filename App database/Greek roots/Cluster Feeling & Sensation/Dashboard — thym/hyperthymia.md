@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek thym.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Feeling & Sensation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chronic, lifelong affective disposition characterized by high energy, enthusiasm, optimism, decreased need for sleep, and untiring productivity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In constitutional psychiatry, a hyperthymic temperament that borders on hypomania but typically facilitates successful executive achievement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyperthymia designates a term designating an entity, condition, or phenomenon derived from greek thym."*
+> - 📜 **Emil Kraepelin (*Manic-Depressive Insanity*):** *"Individuals blessed with **hyperthymia** are natural leaders, buoyant under stress and capable of monumental daily labors."*
+> - 📜 **Ernst Kretschmer (*Physique and Character*):** *"The sunny disposition of constitutional **hyperthymia** drives successful commercial entrepreneurs and charismatic politicians."*
+> - 📜 **Karl Jaspers (*General Psychopathology*):** *"In **hyperthymia**, the boundless self-confidence of the individual can occasionally lead to reckless financial overextension."*

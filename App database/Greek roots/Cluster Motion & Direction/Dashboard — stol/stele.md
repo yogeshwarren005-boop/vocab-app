@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The usually cylindrical central vascular portion of the axis of a vascular plant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A usually carved or inscribed stone slab or pillar used for commemorative purposes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An upright stone slab or pillar bearing inscriptions, reliefs, or commemorative emblems, erected as a gravestone or monument.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant anatomy, the central cylindrical vascular cylinder of a root or stem, comprising xylem, phloem, pericycle, and occasionally pith in vascular plants.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stele designates the usually cylindrical central vascular portion of the axis of a vascular plant."*
+> - 📜 **James George Frazer (*The Golden Bough*):** *"The sacred civic decrees were engraved upon an ancient marble **stele** standing in the center of the marketplace."*
+> - 📜 **Arthur Evans (*The Palace of Minos*):** *"Near the entrance corridor, workers unearthed a fragmented limestone **stele** incised with ritual double-axes."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"A microscopic cross-section of the fern rhizome reveals an intricate, siphonostelic **stele** surrounded by an endodermis."*

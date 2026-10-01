@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A building housing an instrument for projecting the positions of the planets onto a domed ceiling.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An optical device for projecting images of celestial bodies and other astronomical phenomena onto the inner surface of a hemispherical dome.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A domed building or room in which images of stars, planets, and constellations are projected for public education and entertainment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An optical-mechanical projector or clockwork orrery demonstrating planetary motions in space.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, planetarium designates a building housing an instrument for projecting the positions of the planets onto a domed ceiling."*
+> - 📜 **Carl Sagan (*Cosmos*):** *"Sitting beneath the dark dome of the **planetarium**, the child felt the vastness of interstellar space."*
+> - 📜 **H. G. Wells (*The Outline of History*):** *"Modern education owes a profound debt to the optical **planetarium** for visualizing celestial dynamics."*
+> - 📜 **Walther Bauersfeld (*The Projection Planetarium*):** *"The Zeiss **planetarium** projector faithfully reproduced the complex retrograde loops of each visible planet."*

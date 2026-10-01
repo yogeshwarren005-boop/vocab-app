@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type species.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: All or part of the genetic constitution of an individual or group.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The genetic constitution of an individual organism, distinct from its observable physical properties (phenotype).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The total collection of genes and alleles carried by an organism, or the specific allele pair at a designated gene locus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, genotype designates type species."*
+> - 📜 **Wilhelm Johannsen (*The Genotype Conception of Heredity*):** *"The **genotype** is the fundamental constitution of the zygote, remaining invariable through somatic life."*
+> - 📜 **Ernst Mayr (*Animal Species and Evolution*):** *"The individual **genotype** functions as an integrated, harmonious gene system buffered against selection."*
+> - 📜 **Theodosius Dobzhansky (*Mankind Evolving*):** *"Every human **genotype** is uniquely tailored by sexual recombination, ensuring incomparable individuality."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek eo.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Time & Chronology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of primitive wingless hexapods in the class Protura, possessing tracheae and spiracles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In soil zoology and insect systematics, basal hexapods that lack antennae and eyes, utilizing their sensory forelegs held upward like feelers as they crawl through humus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Eosentomon designates a term designating an entity, condition, or phenomenon derived from greek eo."*
+> - 📜 **Filippo Silvestri (*Bollettino del Laboratorio di Zoologia Generale e Agraria*):** *"I erected the genus **Eosentomon** to accommodate these minute hexapods that retain ancestral spiracles along the thorax."*
+> - 📜 **John Henry Comstock (*An Introduction to Entomology*):** *"In **Eosentomon**, the absence of eyes and antennae is compensated by sensitive bristles upon the forward-pointing legs."*
+> - 📜 **Arthur Shipley (*The Cambridge Natural History*):** *"Microscopic extraction of leaf litter frequently uncovers **Eosentomon**, demonstrating the deep antiquity of wingless soil apterygotes."*

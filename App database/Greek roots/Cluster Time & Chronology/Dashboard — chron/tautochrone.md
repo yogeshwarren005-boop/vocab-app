@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek chron.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Time & Chronology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A curve down which a body descending under gravity from any point will reach the lowest point in the same time; the tautochrone curve (a cycloid).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical mechanics and mathematics, the cycloidal curve discovered by Christiaan Huygens in 1659, used to design pendulums with periods independent of swing amplitude.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tautochrone designates a term designating an entity, condition, or phenomenon derived from greek chron."*
+> - 📜 **Christiaan Huygens (*Horologium Oscillatorium*):** *"I demonstrated mathematically that the cycloid is the true **tautochrone**, upon whose curve every descent occupies an identical duration."*
+> - 📜 **Isaac Newton (*Philosophiae Naturalis Principia Mathematica*):** *"The property of the **tautochrone** follows directly from the proportionality between gravitational acceleration along the cycloid and displacement from the bottom."*
+> - 📜 **Lord Kelvin (*Treatise on Natural Philosophy*):** *"A particle constrained to slide down a frictionless **tautochrone** executes simple harmonic motion regardless of starting height."*

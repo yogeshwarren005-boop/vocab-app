@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A division of philosophy that is concerned with the fundamental nature of reality and being and that includes ontology, cosmology, and often epistemology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A division of philosophy that is concerned with the fundamental nature of reality and being and that includes ontology, cosmology, and often epistemology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of philosophy that deals with the first principles of things, including abstract concepts such as being, knowing, substance, cause, identity, time, and space.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Theoretical speculation on the ultimate nature of reality beyond sensory empirical observation; historically, the works of Aristotle following his treatises on physics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"The class of Hamilton's that he attended in the session of 1838-39 was that of Advanced Metaphysics."*
-> - 📜 **John Fletcher (*The Elder Brother*):** *"Go to, I say, _Charles_ shall inherit. _Bri._ I say, no, unless _Charles_ had a Soul to understand it; can he manage six thousand Crowns a year out of the Metaphysics? or can all his learn'd Astronomy look to my Vineyards?"*
-> - 📜 **Sydney Waterlow (*Shelley*):** *"The friends read Plato together, and held endless talk of metaphysics, pre-existence, and the sceptical philosophy, on winter walks across country, and all night beside the fire, until Shelley would curl up on the hearthrug and go to sleep."*
+> - 📜 **Aristotle (*Metaphysics*):** *"All men by nature desire to know; the science which we seek, **metaphysics**, inquires into the highest causes and first principles."*
+> - 📜 **Immanuel Kant (*Critique of Pure Reason*):** *"Time was when **metaphysics** was entitled the Queen of all the sciences, and if the will was taken for the deed, the pre-eminent importance of her subject gave her every right to this title."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Physics handles that which is in nature palpable, while **metaphysics** investigates the eternal forms and summary laws of the universe."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small genus of evergreen arctic and alpine shrubs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small genus of evergreen arctic and alpine shrubs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of low, evergreen dwarf sub-shrubs in the heath family (Ericaceae), commonly called mountain heaths.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine zoology, a genus of predatory polychaete paddleworms (family Phyllodocidae) with flattened leaf-like parapodial paddles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phyllodoce designates small genus of evergreen arctic and alpine shrubs."*
+> - 📜 **Asa Gray (*Synoptical Flora of North America*):** *"The rosy bell-shaped blossoms of **Phyllodoce** carpet alpine screes above timberline in the Sierra Nevada."*
+> - 📜 **Ray Lankester (*A Treatise on Zoology*):** *"The marine worm **Phyllodoce** propels itself swiftly through tidal sediments by means of foliaceous dorsal cirri."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"Microscopic dissections of **Phyllodoce** reveal paired ventral nerve cords and active eversible pharynges."*

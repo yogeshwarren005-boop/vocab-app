@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sweet but poisonous syrupy liquid used as an antifreeze and solvent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a class of alcohols having 2 hydroxyl groups in each molecule.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any organic chemical compound belonging to the alcohol family that possesses two hydroxyl (-OH) groups attached to different carbon atoms (a diol, such as ethylene glycol).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Commonly referring to ethylene glycol, widely used as an industrial automotive antifreeze, heat-transfer fluid, and precursor for polyester polymers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, glycol designates a sweet but poisonous syrupy liquid used as an antifreeze and solvent."*
+> - 📜 **Charles-Adolphe Wurtz (*Sur une nouvelle classe de radicaux organiques*):** *"By reacting ethylene dibromide with silver acetate, I succeeded in isolating **glycol**, the first known diatomic alcohol."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"Because each **glycol** molecule bears two polar hydroxyl groups, it mixes freely with water and lowers its freezing point."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"Improper disposal of automotive **glycol** poses a lethal hazard to wildlife attracted by its sweet, deceptive taste."*

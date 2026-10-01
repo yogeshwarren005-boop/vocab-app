@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or being a diet based on the Chinese cosmological principles of yin and yang that consists of whole cereals and grains supplemented especially with beans and vegetables and that in its especially former more restrictive forms has been linked to nutritional deficiencies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or being a diet based on the Chinese cosmological principles of yin and yang that consists of whole cereals and grains supplemented especially with beans and vegetables and that in its especially former more restrictive forms has been linked to nutritional deficiencies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to prolong life; long-lived.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to a dietary and holistic lifestyle philosophy (macrobiotics) emphasizing whole grains, seasonal vegetables, and balanced energetic principles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, macrobiotic designates of, relating to, or being a diet based on the chinese cosmological principles of yin and yang that consists of whole cereals and grains supplemented especially with beans and vegetables and that in its especially former more restrictive forms has been linked to nutritional deficiencies."*
+> - 📜 **Christoph Wilhelm Hufeland (*Makrobiotik: The Art of Prolonging Life*):** *"The true **macrobiotic** philosophy cultivates temperance, fresh air, and serenity to extend human longevity."*
+> - 📜 **George Ohsawa (*Zen Macrobiotics*):** *"A balanced **macrobiotic** regimen harmonizes the yin and yang constituents of grain and natural salt."*
+> - 📜 **Aldous Huxley (*Island*):** *"They adopted a simple, largely **macrobiotic** diet that preserved youthful vitality into octogenarian years."*

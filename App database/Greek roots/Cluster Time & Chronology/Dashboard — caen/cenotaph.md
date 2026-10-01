@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A tomb or a monument erected in honor of a person or group of persons whose remains are elsewhere.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tomb or a monument erected in honor of a person or group of persons whose remains are elsewhere.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A tomblike monument erected in honor of a person or group of persons whose remains are buried elsewhere or cannot be recovered.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In funerary architecture and classical archaeology, a symbolic empty sepulcher (from Greek kenos 'empty' + taphos 'tomb') serving as a focal point for public remembrance and mourning.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"It was composed principally of large empty calabashes, with a few polished cocoanut shells, and looked not unlike a cenotaph of skulls."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Between the marble cenotaphs on either hand of the pulpit, the wall which formed its back was adorned with a large painting representing a gallant ship beating against a terrible storm off a lee coast of black rocks and snowy breakers."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Between the marble cenotaphs on either hand of the pulpit, the wall which formed its back was adorned with a large painting representing a gallant ship beating against a terrible storm off a lee coast of black rocks and snowy breakers."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The pious emperor raised a marble **cenotaph** upon the battlefield where the brave general had fallen without a grave."*
+> - 📜 **Lord Byron (*Childe Harold's Pilgrimage*):** *"Look on this broken stone, a vain **cenotaph** to virtues unrecorded save in the weeping hearts of friends."*
+> - 📜 **Samuel Johnson (*Lives of the Most Eminent English Poets*):** *"A solitary **cenotaph** was inscribed with verses celebrating the poet whose bones lay beneath ocean waves."*

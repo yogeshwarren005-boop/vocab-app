@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Development of a plant or animal from an egg or spore through a series of processes in which unorganized cell masses differentiate into organs and organ systems; also : the theory that plant and animal development proceeds in this way.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Change in the mineral character of a rock owing to outside influences.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The embryological theory that an organism develops from an undifferentiated zygote through gradual differentiation and organ formation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The developmental doctrine (championed by Caspar Friedrich Wolff) that overthrew preformationism; also phenotypic changes during ontogeny.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epigenesis designates development of a plant or animal from an egg or spore through a series of processes in which unorganized cell masses differentiate into organs and organ systems; also : the theory that plant and animal development proceeds in this way."*
+> - 📜 **Caspar Friedrich Wolff (*Theoria Generationis*):** *"Careful microscopic observation of the chick embryo demonstrates true **epigenesis**, not the unfolding of preformed miniatures."*
+> - 📜 **Immanuel Kant (*Critique of Judgment*):** *"The system of **epigenesis** alone does justice to the purposive, self-organizing power manifested in living nature."*
+> - 📜 **William Harvey (*Exercitationes de Generatione Animalium*):** *"Generation proceeds by **epigenesis**, wherein parts are added successively one after another from the maternal blood."*

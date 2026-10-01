@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek bio.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Life & Vitality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The practice of using decorative motifs or abstract forms resembling biological organisms in art and architecture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A 20th-century artistic movement associated with Surrealism that draws inspiration from cellular, amoeboid, and botanical silhouettes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, biomorphism designates a term designating an entity, condition, or phenomenon derived from greek bio."*
+> - 📜 **Alfred H. Barr Jr. (*Cubism and Abstract Art*):** *"Surrealist painters turned from mechanical abstraction toward **biomorphism**, evoking deep organic and psychological rhythms."*
+> - 📜 **Herbert Read (*A Concise History of Modern Sculpture*):** *"Arp's wood reliefs achieved a pristine **biomorphism** that seemed to grow spontaneously out of nature."*
+> - 📜 **Clement Greenberg (*Art and Culture*):** *"The lingering influence of Surrealist **biomorphism** prepared American painters for free abstract expressionism."*

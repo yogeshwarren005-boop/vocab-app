@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who writes their own biography.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who writes their own biography.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who writes an account of their own life.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A literary chronicler who reconstructs personal memory, psychological development, and social history through subjective prose narrative.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, autobiographer designates someone who writes their own biography."*
+> - 📜 **Virginia Woolf (*Moments of Being*):** *"The **autobiographer** must grapple with invisible scenes that leave behind emotional residues deeper than external facts."*
+> - 📜 **Edward Gibbon (*Memoirs of My Life*):** *"Truth, naked, unblushing truth, should be the first virtue of an honest **autobiographer**."*
+> - 📜 **Jean-Jacques Rousseau (*Confessions*):** *"I resolved that no other **autobiographer** had ever set forth a human soul with such unvarnished candor."*

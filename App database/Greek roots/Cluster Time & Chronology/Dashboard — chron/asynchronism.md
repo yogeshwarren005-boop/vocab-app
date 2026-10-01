@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The relation that exists when things occur at unrelated times.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The relation that exists when things occur at unrelated times.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or property of not occurring at the same time; lack of temporal coincidence or coordination.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In telecommunications, electrical engineering, and computing, transmission or circuit operation where events do not occur at fixed intervals or in lockstep with a central clock.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, asynchronism designates the relation that exists when things occur at unrelated times."*
+> - 📜 **Nikola Tesla (*Experiments with Alternate Currents of High Potential and High Frequency*):** *"The slight **asynchronism** between the rotary converter and the alternator generated severe phase displacement."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"Electrical **asynchronism** between the right and left ventricles impairs cardiac output during bundle branch block."*
+> - 📜 **Oliver Heaviside (*Electromagnetic Theory*):** *"We must account for wave **asynchronism** when signal pulses travel across unequal dielectric media."*

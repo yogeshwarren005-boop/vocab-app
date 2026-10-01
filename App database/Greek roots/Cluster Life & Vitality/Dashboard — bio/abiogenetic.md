@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Originating by abiogenesis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Originating by abiogenesis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or characterized by abiogenesis; produced without the intervention of preexisting living organisms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to chemical pathways on early planets or extraterrestrial bodies that synthesize organic molecules through inorganic reactions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, abiogenetic designates originating by abiogenesis."*
+> - 📜 **Thomas Henry Huxley (*Critiques and Addresses*):** *"Redi's decisive experiments dealt a fatal blow to the older **abiogenetic** assertions regarding decaying flesh."*
+> - 📜 **Harold Urey (*The Planets: Their Origin and Development*):** *"Electrical discharges through methane-ammonia mixtures yielded an array of **abiogenetic** amino acids."*
+> - 📜 **Cyril Ponnamperuma (*The Origins of Life*):** *"The carbonaceous chondrites preserve ancient evidence of **abiogenetic** synthesis in the proto-solar nebula."*

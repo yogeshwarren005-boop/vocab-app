@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek than.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Life & Vitality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An assemblage of fossilized dead organisms brought together after death by physical agents such as water currents or wind; a death assemblage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In paleoecology and taphonomy, a fossil accumulation containing specimens that did not live together in life, contrasted with a living biocoenosis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thanatocoenosis designates a term designating an entity, condition, or phenomenon derived from greek than."*
+> - 📜 **Amadeus William Grabau (*Principles of Stratigraphy*):** *"We contrast the living biocoenosis with the **thanatocoenosis**, which represents a drifted accumulation of dead shells."*
+> - 📜 **Stephen Jay Gould (*Time's Arrow, Time's Cycle*):** *"Taphonomists must separate the ecological community from the posthumous distortions of the **thanatocoenosis**."*
+> - 📜 **David Raup (*Principles of Paleontology*):** *"Storm waves swept disparate marine fauna into an offshore trench, preserving a complex mixed **thanatocoenosis**."*

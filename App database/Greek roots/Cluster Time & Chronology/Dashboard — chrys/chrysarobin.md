@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A bitter yellow powder used to treat skin diseases.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bitter yellow powder used to treat skin diseases.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A yellowish crystalline powder extracted from Goa powder (araroba), historically used in ointments to treat chronic skin conditions like psoriasis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dermatological pharmacology, a potent reducing agent and anthracene derivative that stains skin and linen brown, applied topically as a keratolytic.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chrysarobin designates a bitter yellow powder used to treat skin diseases."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Carefully titrated applications of **chrysarobin** ointment remain an effective measure against chronic inveterate psoriasis."*
+> - 📜 **James Paget (*Lectures on Surgical Pathology*):** *"The local application of **chrysarobin** stimulates active epidermal desquamation accompanied by temporary staining."*
+> - 📜 **Robley Dunglison (*Medical Lexicon*):** *"Goa powder yields **chrysarobin**, a yellow crystalline principle invaluable in intractable cutaneous eruptions."*

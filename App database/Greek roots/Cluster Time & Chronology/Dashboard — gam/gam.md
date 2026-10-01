@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: leg.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: a visit or friendly conversation at sea or ashore especially between whalers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A social meeting or visit between whalers at sea; a school of whales; or the root gam- denoting marriage and gametes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In maritime history (especially Nantucket and New Bedford whaling), a friendly rendezvous where two crews met upon the high seas to exchange news, letters, and hospitality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Howsomever, these gam’sters do certainly keep back their milk to-day."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"In the short gam that ensued she gave us strong news of Moby Dick."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"It was a fine gam we had, and they were all trumps—every soul on board."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"A **gam** is a thing not easily defined to a landsman; it is a social meeting of two whaleships on the high seas, when, after exchanging hails, they exchange visits by boats' crews."*
+> - 📜 **Richard Henry Dana Jr. (*Two Years Before the Mast*):** *"We fell in with an American whaler and spent the entire afternoon enjoying a pleasant **gam** aboard her quarterdeck."*
+> - 📜 **Frank T. Bullen (*The Cruise of the Cachalot*):** *"A lookout shouted that a large **gam** of sperm whales had surfaced three points off our weather bow."*

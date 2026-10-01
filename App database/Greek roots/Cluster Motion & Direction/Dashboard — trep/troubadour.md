@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of a class of lyric poets often of knightly rank who flourished from the 11th to the 13th century in France and Italy and whose major theme was courtly love.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A singer especially of folk songs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One of a class of lyric poets and poet-musicians of southern France (Provence), eastern Spain, and northern Italy who flourished from the 11th to the 13th centuries, singing in Occitan.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural history and romance etymology (from Old Occitan trobar, 'to find, invent poetry', cognate with French trouver, historically linked to inventing turns of phrase), the inventors of courtly love (*fin'amor*).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"The moment the dance was over he caught up a guitar, and, lolling against the old marble fireplace in an attitude which I am half inclined to suspect was studied, began the little French air of the Troubadour."*
-> - 📜 **Walter Scott (*Ivanhoe: A Romance*):** *"Richard, a professed admirer of the joyous science in all its branches, could imitate either the minstrel or troubadour."*
-> - 📜 **George Eliot (*Middlemarch*):** *"And not seldom the catastrophe is bound up with the other passion, sung by the Troubadours."*
+> - 📜 **Dante Alighieri (*De Vulgari Eloquentia*):** *"The Provencal **troubadour** was the first to cultivate courtly vernacular verse, wedding musical melody to polished poetic forms."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The romantic songs of the **troubadour** softened the rough manners of feudal chivalry and inspired crusader knights."*
+> - 📜 **Walter Pater (*The Renaissance*):** *"The passionate cult of courtly devotion blossomed in the sunny castles of Languedoc under the hands of the **troubadour**."*

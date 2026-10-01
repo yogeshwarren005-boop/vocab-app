@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of low branching shrubs of western north america.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of low branching shrubs of western north america.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of aromatic western North American shrubs in the aster family, commonly known as rabbitbrush.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In rangeland ecology and ethnobotany, resilient desert shrubs bearing prolific clusters of golden-yellow flowers in late summer, historically used by indigenous tribes for dye and rubber extraction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chrysothamnus designates genus of low branching shrubs of western north america."*
+> - 📜 **John Muir (*Steep Trails*):** *"The arid plains of the Great Basin were ablaze with the rich golden plumes of blossoming **Chrysothamnus**."*
+> - 📜 **Vernon Orlando Bailey (*Life Zones and Crop Zones of New Mexico*):** *"Dense stands of **Chrysothamnus** provide essential browse and wind shelter for desert wildlife during winter blizzards."*
+> - 📜 **Asa Gray (*Synoptical Flora of North America*):** *"The resinous, narrow foliage of **Chrysothamnus** enables the shrub to withstand extreme arid alkaline valley soils."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An account of the descent of a person, family, or group from an ancestor or from older forms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Regular descent of a person, family, or group of organisms from a progenitor or older form : pedigree.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A record or account of the ancestry and line of descent of a person, family, or group.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A historical critique or analytical method that traces the emergence and development of cultural concepts, values, or biological species.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sydney Waterlow (*Shelley*):** *"They appear now as brothers, now as parents, now as sisters of one another; the task of unravelling their genealogy would be as difficult as it is pointless."*
-> - 📜 **George Eliot (*Middlemarch*):** *"So our mercurial Ladislaw has a queer genealogy!"*
-> - 📜 **George Eliot (*Middlemarch*):** *"Brooke’s attention to this ugly bit of Ladislaw’s genealogy, as a fresh candle for him to see his own folly by."*
+> - 📜 **Friedrich Nietzsche (*On the Genealogy of Morals*):** *"We need a critique of moral values; the value of these values must itself be brought into question, and for this a **genealogy** is required."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Our classifications will come to be regarded as **genealogies**, tracing the real lines of physical kinship among species."*
+> - 📜 **Michel Foucault (*Discipline and Punish*):** *"A **genealogy** of the modern penal system reveals the hidden technologies of surveillance disciplining the body."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek alg.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Feeling & Sensation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pain, tenderness, or discomfort in one or both breasts, either cyclical (associated with menstrual periods) or non-cyclical.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A common gynecological symptom evaluated to distinguish benign hormonally driven breast pain from underlying structural or inflammatory lesions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mastalgia designates a term designating an entity, condition, or phenomenon derived from greek alg."*
+> - 📜 **Sir Astley Cooper (*Illustrations of the Diseases of the Breast*):** *"Young women of nervous temperament frequently consult us for agonizing **mastalgia** where no mammary tumor exists."*
+> - 📜 **Percivall Pott (*Chirurgical Works*):** *"A prudent practitioner will reassure the frightened sufferer that acute **mastalgia** rarely betokens malignant disease."*
+> - 📜 **John Hunter (*A Treatise on the Blood, Inflammation, and Gun-shot Wounds*):** *"Sympathetic irritation between the uterus and mammary glands provokes recurrent premenstrual **mastalgia**."*

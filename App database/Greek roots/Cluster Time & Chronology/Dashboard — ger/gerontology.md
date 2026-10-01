@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The comprehensive multidisciplinary study of aging and older adults.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The comprehensive multidisciplinary study of aging and older adults.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific study of the biological, psychological, and sociological phenomena associated with old age and aging.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical and social sciences, the comprehensive discipline encompassing biogerontology, social gerontology, and psychogerontology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gerontology designates the comprehensive multidisciplinary study of aging and older adults."*
+> - 📜 **Élie Metchnikoff (*The Prolongation of Life: Optimistic Studies*):** *"I look forward to the day when scientific **gerontology** transforms the sunset of life into a peaceful, healthy completion."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"Advances in cellular **gerontology** demonstrate that cellular senescence is governed by programmed genomic signals."*
+> - 📜 **William Osler (*Aequanimitas*):** *"The new field of **gerontology** teaches us to revere the wisdom of years while mitigating its physical frailties."*

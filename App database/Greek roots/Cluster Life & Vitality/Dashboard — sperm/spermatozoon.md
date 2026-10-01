@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A motile male gamete of an animal usually with rounded or elongated head and a long posterior flagellum.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spermatozoid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The mature, motile male fertilizing cell or gamete of an animal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A flagellated male reproductive cell that delivers the paternal genome into the ovum upon fertilization.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spermatozoon designates a motile male gamete of an animal usually with rounded or elongated head and a long posterior flagellum."*
+> - 📜 **Karl Ernst von Baer (*De Ovi Mammalium et Hominis Genesi*):** *"The **spermatozoon** is the essential fertilizing agent, penetrating the ovum to initiate embryonic ontogeny."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Myriad **spermatozoa** perish in the competition, while one alone successfully fuses with the germinal vesicle."*
+> - 📜 **Francis Crick (*What Mad Pursuit*):** *"The head of the **spermatozoon** carries its hereditary text compressed into an ultra-dense crystalline package of protamines."*

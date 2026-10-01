@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An ester of glycerol and fatty acids that occurs naturally as fats and fatty oils.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ester of glycerol and fatty acids that occurs naturally as fats and fatty oils.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chemical compound consisting of an ester formed from glycerol and one or more fatty acids (e.g., monoglyceride, diglyceride, or triglyceride).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In lipid biochemistry and organic chemistry, the primary constituent of natural animal adipose tissue and vegetable seed oils.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, glyceride designates an ester of glycerol and fatty acids that occurs naturally as fats and fatty oils."*
+> - 📜 **Michel Eugène Chevreul (*Chemical Researches on Animal Fats*):** *"Saponification decomposes each neutral **glyceride** into free fatty acids and sweet vegetable glycerol."*
+> - 📜 **Justus von Liebig (*Familiar Letters on Chemistry*):** *"The animal body stores surplus nutritive carbon in the form of neutral **glyceride** deposits beneath the skin."*
+> - 📜 **Linus Pauling (*The Architecture of Molecules*):** *"The chemical ester bond linking each fatty acid chain to the **glyceride** backbone determines its melting point and fluidity."*

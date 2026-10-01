@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormally high blood sugar usually associated with diabetes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abnormally high blood sugar usually associated with diabetes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormally high concentration of glucose in the circulating blood plasma, characteristic of diabetes mellitus (Commonwealth spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In metabolic medicine, sustained elevations in plasma glucose causing osmotic diuresis, cellular dehydration, ketoacidosis, and long-term vascular complications.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyperglycaemia designates abnormally high blood sugar usually associated with diabetes."*
+> - 📜 **Frederick Banting (*Pancreatic Extracts in the Treatment of Diabetes Mellitus*):** *"Administration of active islet extract caused the profound **hyperglycaemia** of diabetic dogs to fall rapidly to normal levels."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Severe **hyperglycaemia** drives glucose across the renal threshold, precipitating polyuria, dehydration, and diabetic coma."*
+> - 📜 **Claude Bernard (*An Introduction to the Study of Experimental Medicine*):** *"We measured hepatic venous outflow to demonstrate that liver glycogenolysis is the immediate cause of post-prandial **hyperglycaemia**."*

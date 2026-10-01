@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marriage within a specific group as required by custom or law.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marriage within a specific group as required by custom or law.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Marrying only within the limits of a local community, tribe, caste, or social group.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social anthropology and population genetics, practicing endogamy; describing mating patterns restricted to individuals sharing a common clan or genetic isolate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endogamous designates marriage within a specific group as required by custom or law."*
+> - 📜 **James George Frazer (*Totemism and Exogamy*):** *"While the totem clan was strictly exogamous, the greater tribe formed an **endogamous** unit against external nations."*
+> - 📜 **Edward Westermarck (*The History of Human Marriage*):** *"Caste regulations in India enforced rigid **endogamous** boundaries, punishing marriage across caste lines with social expulsion."*
+> - 📜 **Lewis Henry Morgan (*Ancient Society*):** *"An **endogamous** social system preserves ancestral property and tribal customs within the tight circle of the kindred."*

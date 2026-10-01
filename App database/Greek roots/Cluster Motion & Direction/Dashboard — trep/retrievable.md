@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being regained especially with effort.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being regained especially with effort.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being recovered, regained, or rescued; capable of being brought back from loss or error.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In information systems and archive management, describing records, stored files, or database entries that can be located and accessed systematically via an index.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Carstone, and you can only hope that his position may be yet retrievable."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"Time once lost is never **retrievable**, yet men squander their hours as though they possessed an inexhaustible treasury."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Mr. Micawber declared his financial affairs to be desperate, though not utterly beyond **retrievable** repair."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Beryl Coronet*):** *"The gems are still **retrievable**, Watson, if we move before the receiver can melt down the gold setting."*

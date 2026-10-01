@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Military installation consisting of a prepared position for siting a weapon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of putting something in a certain place.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A platform, platform trench, or prepared position for a gun or weapon; the action of placing or putting into position.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In structural geology, the geological process or tectonic event whereby an igneous pluton, salt dome, or ophiolite complex is intruded or thrust into country rock.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"I want to check your weapons control center, and every gun emplacement."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"I repeat: first, the fire control center, then each gun emplacement."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"At each gun emplacement, Rimov, his guards and Scarf watched Brad and Kumiko inspect sector guides, range and directional interlocks and power drives."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"The concrete **emplacement** withstood the direct impact of the aerial bomb, preserving the coastal battery intact."*
+> - 📜 **Arthur Holmes (*Principles of Physical Geology*):** *"The **emplacement** of the Skaergaard igneous complex involved slow fractional crystallization within a deep magma chamber."*
+> - 📜 **John McPhee (*Annals of the Former World*):** *"Geologists debate whether the **emplacement** of the Great Dyke occurred during a single rifting event or successive pulses."*

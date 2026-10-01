@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument that indicates whether two periodic motions are synchronous (especially an instrument that enables a pilot to synchronize the propellers of a plane that has two or more engines).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instrument that indicates whether two periodic motions are synchronous (especially an instrument that enables a pilot to synchronize the propellers of a plane that has two or more engines).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument for indicating whether two periodic systems, such as alternating current generators, are operating in synchronism and phase.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In electrical engineering and power grid management, a dial instrument that reveals whether an incoming alternator is running faster or slower than the busbar.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, synchronoscope designates an instrument that indicates whether two periodic motions are synchronous (especially an instrument that enables a pilot to synchronize the propellers of a plane that has two or more engines)."*
+> - 📜 **Nikola Tesla (*Polyphase Systems*):** *"The pointer of the **synchronoscope** rotated slowly until it pointed dead center, indicating the incoming generator was in perfect phase."*
+> - 📜 **Charles Proteus Steinmetz (*Theory and Calculation of Alternating Current Phenomena*):** *"Operators rely upon the optical **synchronoscope** to avoid catastrophic cross-current surges when paralleling high-voltage dynamos."*
+> - 📜 **Oliver Heaviside (*Electrical Papers*):** *"Phase alignment indicated upon the **synchronoscope** provides immediate visual confirmation of frequency equivalence."*

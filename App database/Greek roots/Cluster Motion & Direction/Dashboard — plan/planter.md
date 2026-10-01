@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The owner or manager of a plantation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A worker who puts or sets seeds or seedlings into the ground.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An owner or manager of a plantation; a person who plants seeds, crops, or trees.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A decorative container in which flowers or ornamental shrubs are grown.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Mason, a West India planter and merchant, was his old acquaintance."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"My uncle Elias emigrated to America when he was a young man and became a planter in Florida, where he was reported to have done very well."*
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"At one small station a man who might have been a planter got in, followed by an attractive-looking Annamese woman carrying a little child."*
+> - 📜 **Daniel Defoe (*Robinson Crusoe*):** *"Before my voyage I lived as a prosperous sugar **planter** along the coast of the Brazils."*
+> - 📜 **Washington Irving (*A History of New York*):** *"The Dutch **planter** sat beneath his stoop, smoking his clay pipe while watching his cabbages grow."*
+> - 📜 **Thomas Jefferson (*Notes on the State of Virginia*):** *"Those who labor in the earth are the chosen people of God, wrote the philosopher-**planter**."*

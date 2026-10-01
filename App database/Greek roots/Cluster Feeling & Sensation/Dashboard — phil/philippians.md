@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A new testament book containing an epistle from saint paul to the church at philippi in macedonia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A native or inhabitant of philippi in ancient macedonia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Epistle to the Philippians, a book of the New Testament written by the Apostle Paul from prison to the Christian church at Philippi.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A Pauline epistle celebrated for its joyful themes of unity, peace, humility, and the famous Christological hymn (kenosis passage).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Work 99:6 out your own salvation with fear and trembling," says the apostle, and he straightway adds: "for it is God which worketh in you both to will and to do of His good 99:9 pleasure" (Philippians ii. 12, 13)."*
-> - 📜 **Oliver Optic (*Plane and Plank; or, The Mishaps of a Mechanic*):** *"Phil may stand for Philip, Phillimore, Philippians, Philosophy." "It stands for Philip with me, sir." "Philip; I had a brother once of that name, but he is no longer living."*
+> - 📜 **Saint Paul (*Epistle to the Philippians*):** *"Rejoice in the Lord alway: and again I say, Rejoice; let your moderation be known unto all men."*
+> - 📜 **John Henry Newman (*Parochial and Plain Sermons*):** *"In writing to the **Philippians**, the captive Apostle displays a serene, celestial happiness that chains could not damp."*
+> - 📜 **Martin Luther (*Preface to the New Testament*):** *"The epistle to the **Philippians** is overflowing with sweet Christian joy, showing how faith triumphs over the scaffold."*

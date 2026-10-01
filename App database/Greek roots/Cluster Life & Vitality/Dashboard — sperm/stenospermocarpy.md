@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek sperm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Life & Vitality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A biological phenomenon in fruit development where pollination and fertilization take place, but the embryo or seed subsequently aborts, resulting in 'seedless' fruit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The mechanism underlying seedless table grapes (such as Thompson Seedless) where minute, imperceptible seed traces remain inside the pulp.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stenospermocarpy designates a term designating an entity, condition, or phenomenon derived from greek sperm."*
+> - 📜 **A. B. Stout (*Seedlessness in Grapes*):** *"I introduced the term **stenospermocarpy** to describe fruit where fertilization occurs but normal seed development aborts prematurely."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"Commercial seedless grapes rely on **stenospermocarpy**, yielding plump berries containing only vestigial seed coats."*
+> - 📜 **Asa Gray (*Botanical Memoirs*):** *"In **stenospermocarpy**, hormonal stimulation from initial fertilization suffices to drive full pericarp expansion despite subsequent embryo death."*

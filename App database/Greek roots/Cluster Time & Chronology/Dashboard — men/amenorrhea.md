@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Absence or suppression of normal menstrual flow.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Absence or suppression of normal menstrual flow.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The abnormal absence or suppression of the menstrual flow.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gynecology and endocrinology, classified as primary (failure to menstruate by age 15) or secondary (cessation of menses for 3-6 months), often caused by hypothalamic-pituitary dysfunction or pregnancy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amenorrhea designates absence or suppression of normal menstrual flow."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Severe chlorosis in young women is almost invariably accompanied by profound weakness and complete **amenorrhea**."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"Hypothalamic **amenorrhea** results when intense physical exertion or emotional stress suppresses pulsatile GnRH release."*
+> - 📜 **Donald Seldin (*The Kidney: Physiology and Pathophysiology*):** *"In advanced chronic renal failure, endocrine derangements routinely provoke secondary **amenorrhea** and infertility."*

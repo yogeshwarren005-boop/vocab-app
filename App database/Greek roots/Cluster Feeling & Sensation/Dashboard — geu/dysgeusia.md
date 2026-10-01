@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek geu.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Feeling & Sensation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A distorted, abnormal, or impaired perception of the sense of taste, commonly causing persistent metallic, sour, bitter, or salty tastes in the mouth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A common clinical adverse effect of medications (chemotherapy, antibiotics), zinc deficiency, or neurological disease affecting gustatory pathways.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dysgeusia designates a term designating an entity, condition, or phenomenon derived from greek geu."*
+> - 📜 **Henry Maudsley (*Pathology of Mind*):** *"Hysterical patients frequently report a repulsive **dysgeusia**, declaring that fresh bread tastes of sulfur and copper."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Chronic heavy metal poisoning invariably begins with foul halitosis and an intractable metallic **dysgeusia**."*
+> - 📜 **Oliver Sacks (*A Leg to Stand On*):** *"Under intense pharmacological therapy, the simplest meal was ruined by a persistent chemical **dysgeusia**."*

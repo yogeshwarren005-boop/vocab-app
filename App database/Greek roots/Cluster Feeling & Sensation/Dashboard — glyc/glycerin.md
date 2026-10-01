@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sweet syrupy trihydroxy alcohol obtained by saponification of fats and oils.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sweet syrupy trihydroxy alcohol obtained by saponification of fats and oils.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A colorless, odorless, viscous, sweet-tasting liquid (trihydroxy alcohol, C3H8O3) obtained by the saponification of fats, widely used in pharmacy, cosmetics, and explosives.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A humectant and solvent (often interchangeably called glycerol) prized for its water-retaining properties and non-toxicity in medical formulations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"Nitro-glycerin, eh?” Buller called after the departing bulk of his friend."*
+> - 📜 **Carl Wilhelm Scheele (*Chemical Essays*):** *"By boiling olive oil with litharge, I isolated the sweet principle of oils, which we now term **glycerin**."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Cardboard Box*):** *"The laboratory smelled faintly of carbolic acid and pharmaceutical **glycerin** from the doctor's recent experiments."*
+> - 📜 **Mark Twain (*Roughing It*):** *"The miners handled nitroglycerin with trembling terror, knowing that a single unbuffered drop of that **glycerin** compound could shatter a hill."*

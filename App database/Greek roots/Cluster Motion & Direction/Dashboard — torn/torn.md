@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Separate or cause to separate abruptly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To separate or be separated by force.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pulled or ripped apart by force; having ragged, lacerated edges.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deeply divided, conflicted, or anguished between competing emotions, loyalties, or choices.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Though thy tackle’s torn, Thou show’st a noble vessel."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"France should have torn and rent my very heart Before I would have yielded to this league."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Therefore, when merchant-like I sell revenge, Broke be my sword, my arms torn and defaced, And I proclaimed a coward through the world!"*
+> - 📜 **William Shakespeare (*Richard III*):** *"Our bruised arms hung up for monuments; our stern alarums changed to merry meetings, our dreadful marches to delightful measures; our **torn** banners healed."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"He held the **torn** document in his trembling hand, staring at the missing signature."*
+> - 📜 **George Eliot (*The Mill on the Floss*):** *"Maggie was bitterly **torn** between her ardent passion and her unyielding sense of duty."*

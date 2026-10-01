@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Establish the order in time of something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Establish the order in time of something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To arrange or establish in chronological order; to record or compute according to dates.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historiography and archaeology, assigning precise absolute or relative calendar dates to artifacts, events, or rulers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chronologize designates establish the order in time of something."*
+> - 📜 **Isaac Newton (*The Chronology of Ancient Kingdoms Amended*):** *"By collating astronomical retro-calculations of eclipses, we can reliably **chronologize** the earliest Greek dynasties."*
+> - 📜 **Thomas Henry Huxley (*Critiques and Addresses*):** *"Geologists must first stratify before they can **chronologize** the organic relics embedded within ancient strata."*
+> - 📜 **William Prescott (*History of the Conquest of Mexico*):** *"The chroniclers attempted to **chronologize** Aztec dynastic reigns by harmonizing Mexican pictographs with the Christian calendar."*

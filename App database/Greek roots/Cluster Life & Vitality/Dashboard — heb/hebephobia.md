@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek heb.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Life & Vitality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An irrational fear, dread, or intense aversion to youth, adolescents, or the state of puberty; ephebiphobia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Morbid anxiety triggered by the physical, sexual, or social manifestations of adolescent development.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hebephobia designates a term designating an entity, condition, or phenomenon derived from greek heb."*
+> - 📜 **G. Stanley Hall (*Adolescence*):** *"The puritanical condemnation of youthful sports often masks an unacknowledged psychological **hebephobia**."*
+> - 📜 **Jane Addams (*The Spirit of Youth and the City Streets*):** *"Adult **hebephobia** leads municipal authorities to suppress spontaneous street gatherings with repressive policing."*
+> - 📜 **Wilhelm Stekel (*Conditions of Nervous Anxiety*):** *"The neurotic patient experienced acute panic when confronted with adolescent sexuality, manifesting classic **hebephobia**."*

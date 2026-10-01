@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the menopause.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the menopause.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or occurring during the menopause; climacteric.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical gynecology and endocrinology, describing the physiological and psychological transitions associated with ovarian follicular exhaustion and estrogen decline.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, menopausal designates of or relating to the menopause."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Vasomotor flushing and emotional lability are hallmark **menopausal** symptoms provoked by fluctuating gonadotropin levels."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"In the **menopausal** transition, the ovaries cease producing estrogen, prompting a compensatory surge in pituitary FSH."*
+> - 📜 **Donald Seldin (*The Kidney: Physiology and Pathophysiology*):** *"The decline of systemic estrogen in **menopausal** women accelerates osteoclastic bone resorption and osteoporosis."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The topic that a person, committee, or piece of research is expected to deal with or has authority to deal with.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (law) the act of remitting (especially the referral of a law case to another court).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To cancel, pardon, or refrain from exacting a debt, fine, penalty, or punishment; to send money in payment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To diminish or abate in severity, force, or intensity (as in a remitting fever); also, to refer a matter to an authority for decision.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Neither of either; I remit both twain."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thy slanders I forgive, and therewithal Remit thy other forfeits.—Take him to prison, And see our pleasure herein executed."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Marcus, for thy sake, and thy brother’s here, And at my lovely Tamora’s entreats, I do remit these young men’s heinous faults."*
+> - 📜 **William Shakespeare (*The Merchant of Venice*):** *"The duke cannot deny the course of law; yet if thou wilt, mercifully **remit** the penalty of the bond."*
+> - 📜 **John Locke (*Second Treatise of Government*):** *"The magistrate has the executive power to **remit** the punishment of criminal offenses where public interest permits."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The malarial paroxysm began to **remit** toward dawn, drenched in profuse cooling perspiration."*

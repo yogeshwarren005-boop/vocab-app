@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An utterance (such as a speech) designed to instruct and persuade.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An utterance (such as a speech) designed to instruct and persuade.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Intended to exhort, persuade, or instruct; encouraging; an exhortative speech or treatise.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of philosophy, a recognized genre of hortatory literature (such as Aristotle's *Protrepticus* or Cicero's *Hortensius*) designed to awaken a passion for wisdom and ethical living.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, protreptic designates an utterance (such as a speech) designed to instruct and persuade."*
+> - 📜 **Aristotle (*Protrepticus*):** *"In every **protreptic** address, we must prove that the acquisition of wisdom is both possible and supreme in its intrinsic goodness."*
+> - 📜 **Cicero (*Hortensius*):** *"A powerful **protreptic** work possesses the virtue of tearing away the veil of sensual indulgence, awakening an unquenchable thirst for philosophy."*
+> - 📜 **Augustine of Hippo (*Confessions*):** *"The **protreptic** dialogue of Cicero altered my affections and turned my prayers to the Lord Himself."*

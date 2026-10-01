@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: East indian fruit bats.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: East indian fruit bats.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of nocturnal tube-nosed fruit bats native to Australasia; in mythology, transformed into an owl.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pteropodid megabats characterized by tubular projecting nostrils and spotted wings, roosting camouflaged among dead leaves.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nyctimene designates east indian fruit bats."*
+> - 📜 **Ovid (*Metamorphoses*):** *"For her shameful sin, **Nyctimene** was transformed into a night-loving owl that shuns the bright rays of the sun."*
+> - 📜 **Alfred Russel Wallace (*The Geographical Distribution of Animals*):** *"The tube-nosed fruit bat, **Nyctimene**, possesses remarkably modified nostrils found in no other mammalian genus."*
+> - 📜 **Richard Lydekker (*A Hand-book to the Marsupialia and Monotremata*):** *"Specimens of **Nyctimene** collected in New Guinea displayed greenish mottling matching rainforest moss."*

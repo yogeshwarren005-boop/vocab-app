@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek blast.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Life & Vitality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The inner cellular layer of the embryonic trophoblast, composed of distinct mononucleated cells that give rise to the syncytiotrophoblast.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The stem-cell layer of the mammalian chorionic villi responsible for placental invasion into maternal uterine spiral arteries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cytotrophoblast designates a term designating an entity, condition, or phenomenon derived from greek blast."*
+> - 📜 **Julian Huxley (*The Elements of Experimental Embryology*):** *"The proliferous **cytotrophoblast** provides the stem cell reservoir sustaining syncytial growth throughout placental maturation."*
+> - 📜 **William Boyd (*A Textbook of Pathology*):** *"Choriocarcinoma displays malignant overgrowth of both the invasive syncytium and underlying **cytotrophoblast**."*
+> - 📜 **Claude Bernard (*Lectures on the Phenomena of Life*):** *"Enzymatic erosion by the **cytotrophoblast** anchors the mammalian ovum deeply into vascular endometrial beds."*

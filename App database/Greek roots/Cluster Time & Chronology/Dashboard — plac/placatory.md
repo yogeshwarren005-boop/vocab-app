@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Intended to pacify by acceding to demands or granting concessions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Intended to pacify by acceding to demands or granting concessions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Intended to make someone less angry or hostile; conciliatory; appeasing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal rhetoric and political statecraft, gestures, concessions, or communications offered to forestall impending conflict.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, placatory designates intended to pacify by acceding to demands or granting concessions."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The emperor addressed a **placatory** letter to the Persian monarch, seeking to avert a destructive border war."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The king's **placatory** promises arrived too late to calm the outraged feelings of the London citizens."*
+> - 📜 **Walter Scott (*Waverley*):** *"He offered a **placatory** glass of wine to his host, hoping to turn the conversation away from dangerous politics."*

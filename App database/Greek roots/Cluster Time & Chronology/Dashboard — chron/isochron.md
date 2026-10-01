@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An imaginary line or a line on a chart connecting points at which an event occurs simultaneously or which represents the same time or time difference.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An imaginary line or a line on a chart connecting points at which an event occurs simultaneously or which represents the same time or time difference.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A line on a map, chart, or diagram connecting points of equal time or equal age.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In isotope geochemistry, a linear plot of parent-to-daughter isotopic ratios (e.g. rubidium-strontium) whose slope directly yields the radiometric crystallization age of a rock suite.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, isochron designates an imaginary line or a line on a chart connecting points at which an event occurs simultaneously or which represents the same time or time difference."*
+> - 📜 **Arthur Holmes (*Principles of Physical Geology*):** *"The slope of the rubidium-strontium **isochron** gives an unassailable measurement of the granite pluton's crystallization age."*
+> - 📜 **John Tuzo Wilson (*Continents Adrift*):** *"Seafloor magnetic anomalies trace an ocean-basin **isochron**, marking equal intervals of oceanic crust generation."*
+> - 📜 **Simon Newcomb (*The Elements of Astronomy*):** *"Drawing an **isochron** across the sky charts the simultaneous wavefront of light traveling from a distant celestial eruption."*

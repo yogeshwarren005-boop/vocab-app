@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Growing or produced by growth from deep tissue.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Caused by factors inside the organism or system.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Growing, originating, or produced from within; having an internal cause or origin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biochemistry and medicine, produced inside an organism or tissue (such as endogenous insulin or hormones) rather than ingested.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endogenous designates growing or produced by growth from deep tissue."*
+> - 📜 **Claude Bernard (*Lectures on the Phenomena of Life*):** *"Glycogen synthesis in the liver illustrates the capacity of internal organs for **endogenous** metabolic production."*
+> - 📜 **Sigmund Freud (*The Ego and the Id*):** *"Melancholia frequently arises from powerful **endogenous** psychological conflicts without an evident external bereavement."*
+> - 📜 **Walter Cannon (*The Wisdom of the Body*):** *"Homeostatic mechanisms regulate **endogenous** body temperature against harsh external fluctuations."*

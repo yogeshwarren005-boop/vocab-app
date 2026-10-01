@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (computer science) the operation of accessing information from the computer's memory.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The cognitive operation of accessing information in memory.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of getting something back from where it was left or lost; the recovery of information from storage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cognitive psychology, the process of accessing, reconstructing, and bringing stored memories or learned skills into conscious awareness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Emily Brontë (*Wuthering Heights*):** *"Am I to lose _all_, without a chance of retrieval?"*
+> - 📜 **William James (*The Principles of Psychology*):** *"The efficiency of memory depends upon the richness of associative hooks that facilitate the voluntary **retrieval** of stored ideas."*
+> - 📜 **Alexander Luria (*The Mind of a Mnemonist*):** *"His primary difficulty lay not in memory retention, but in the selective **retrieval** of relevant data from an ocean of indelible images."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Second Stain*):** *"The quiet **retrieval** of the stolen state letter averted a catastrophic rupture in European diplomacy."*

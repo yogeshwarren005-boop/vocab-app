@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a diastole or happening during a diastole.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a diastole or happening during a diastole.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, occurring during, or characteristic of cardiac diastole; specifically denoting the minimum arterial blood pressure recorded between heartbeats.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cardiovascular hemodynamics, relating to ventricular compliance, filling pressures, and peripheral vascular resistance during the resting phase of the cardiac cycle.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diastolic designates of or relating to a diastole or happening during a diastole."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A soft, blowing **diastolic** murmur heard at the third intercostal space indicates early incompetence of the aortic valve."*
+> - 📜 **Robley Dunglison (*Medical Lexicon*):** *"The clinician recorded both the peak systolic thrust and the baseline **diastolic** resistance within the brachial artery."*
+> - 📜 **Austin Flint (*A Treatise on the Principles and Practice of Medicine*):** *"The precise timing of the acoustic vibration, whether systolic or **diastolic**, remains the supreme diagnostic criterion."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of swift.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of swift.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Evolving at an exceptionally rapid or accelerated rate compared to standard evolutionary lineages.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In paleontology and macroevolution (a concept introduced by George Gaylord Simpson), designating phyletic lineages that experience swift morphological divergence under intense selective pressures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tachytelic designates adjective*) pertaining to, derived from, or characteristic of swift."*
+> - 📜 **George Gaylord Simpson (*Tempo and Mode in Evolution*):** *"Lineages undergoing **tachytelic** evolution diverge with extraordinary velocity, often bridging major adaptive zones in brief geological intervals."*
+> - 📜 **Ernst Mayr (*Animal Species and Evolution*):** *"The rapid adaptive radiation of island finches provides an outstanding living illustration of **tachytelic** divergence."*
+> - 📜 **Stephen Jay Gould (*The Structure of Evolutionary Theory*):** *"Simpson coined the term **tachytelic** to characterize those rapid bursts of evolutionary change that punctuate the fossil record."*

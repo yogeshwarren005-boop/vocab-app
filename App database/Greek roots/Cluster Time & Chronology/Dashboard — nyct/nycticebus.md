@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of lorisidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of lorisidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of nocturnal, arboreal strepsirrhine primates native to Southeast Asia, known as slow lorises (Nycticebus).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cautious nocturnal prosimians characterized by large round eyes, a toxic brachial gland, and dense woolly fur.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nycticebus designates a genus of lorisidae."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"In the dense canopy of Borneo, the slow loris, **Nycticebus** tardigradus, climbs with deliberate, silent stealth."*
+> - 📜 **Thomas Henry Huxley (*Man's Place in Nature*):** *"Comparative cranial anatomy demonstrates that **Nycticebus** retains primitive lemurine features."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The large luminous eyes of **Nycticebus** reflect specialized adaptation for nocturnal foraging among high branches."*

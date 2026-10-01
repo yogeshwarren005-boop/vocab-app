@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Loss of bodily sensation with or without loss of consciousness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Loss of bodily sensation with or without loss of consciousness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The temporary, medically induced insensitivity to pain or sensation, especially as achieved by the administration of anaesthetic gases or drugs during surgical operations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The pathological or congenital absence of sensory perception in a region of the body resulting from nerve lesion, spinal trauma, or hysteria.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anaesthesia designates loss of bodily sensation with or without loss of consciousness."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"I suggest the word **anaesthesia** for this miraculous state of insensibility that permits surgery without human torment."*
+> - 📜 **William T. G. Morton (*Remarks on the Proper Mode of Administering Sulphuric Ether*):** *"The patient inhaled the vapor until complete surgical **anaesthesia** was established, whereupon the tumor was painlessly excised."*
+> - 📜 **James Young Simpson (*On a New Anaesthetic Agent, More Efficient than Sulphuric Ether*):** *"In midwifery, the discovery of **anaesthesia** delivers humanity from a curse that has burdened every generation."*

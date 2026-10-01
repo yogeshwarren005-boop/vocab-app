@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek odyn.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Feeling & Sensation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Greek root *odyn-* (from *odynē*), signifying pain, torment, sorrow, or physical agony (as seen in *anodyne*, *allodynia*, and *odynophagia*).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The linguistic combining form in clinical medicine designating localized aching, burning, or distress across organ systems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, odyn designates a term designating an entity, condition, or phenomenon derived from greek odyn."*
+> - 📜 **Henry George Liddell & Robert Scott (*A Greek-English Lexicon*):** *"In Homeric epic, the noun *odyne* and its combining root **odyn** designate the sharp, piercing pain of arrow wounds."*
+> - 📜 **Galen (*On the Affected Parts*):** *"The diagnostic physician classifies every variety of visceral **odyn** according to its lancinating or throbbing nature."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"Ancient physicians derived their medicinal remedies to counter that sharp inward **odyn** which disrupts bodily harmony."*

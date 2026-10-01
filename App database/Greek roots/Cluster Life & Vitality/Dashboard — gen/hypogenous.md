@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of birth, beget, race, kind.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of birth, beget, race, kind.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Growing, originating, or situated on the lower or under side of an organ (especially of a leaf in botany).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Describing fungal mycelia or fructifications that develop on the abaxial surface of foliage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"PRIMROSE CLUSTER-CUPS; spots obliterated; peridia solitary, scattered, and crowded, hypogenous; spores whitish-yellow.—On the under surface of leaves of Primroses."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"BURNET CHAIN-BRAND; scattered, in small tufts, hypogenous; spores curved or straight, composed of from 5 to 15 articulations; obtuse at one extremity, slightly attenuate at the other.—On Burnet."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"ROSE BRAND; hypogenous, scattered over the leaves in minute tufts; spores 5- to 7-septate, terminal joint mucronate; peduncles incrassated below, fusiform.—On leaves of various Roses."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"Stomata in broadleaf evergreen trees are almost exclusively **hypogenous**, located on the shaded undersurface of the leaf."*
+> - 📜 **Miles Joseph Berkeley (*Outlines of British Fungology*):** *"The parasitic rust produces dense, powdery **hypogenous** sori covering the ventral face of infected leaves."*
+> - 📜 **Anton de Bary (*Comparative Morphology and Biology of the Fungi*):** *"Conidiophores rupture the lower epidermis to display their **hypogenous** fruiting structures to the morning dew."*

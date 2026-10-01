@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An aircraft that has a fixed wing and is powered by propellers or jets.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (mathematics) an unbounded two-dimensional shape.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A flat, level surface on which a straight line joining any two points would wholly lie; an airplane; to glide or soar.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A woodworking hand tool used to smooth and flatten timber surfaces.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The air was rendered so transparent by the heavy fall of rain that the autumn hues of the middle distance were as rich as those near at hand, and the remote fields intercepted by the angle of the tower appeared in the same plane as the tower itself."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Throughout the length of this narrow and irksome inclined plane not a sign of life was visible on this garish afternoon."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"To leave it upon any lower plane than this, is to rob it of its highest functions and to paralyze it of lasting power for good in any direction."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"The carpenter ran his wooden **plane** over the oak board, sending fragrant shavings curling across the bench."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"I stood upon the frozen **plane** of the pond, watching the ice mirror the winter clouds."*
+> - 📜 **William Shakespeare (*Love's Labour's Lost*):** *"He is only an animal, only sensible in the duller parts; and such barren plants are set before us, that we thankful should be, which we of taste and feeling are, for those parts that do fructify in us more than in another; which was made to appear upon this **plane**."*

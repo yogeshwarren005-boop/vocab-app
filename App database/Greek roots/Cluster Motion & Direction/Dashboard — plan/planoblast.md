@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek plan.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Motion & Direction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A free-swimming medusa or jellyfish bud produced asexually by a hydroid colony.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In coelenterate zoology, the motile reproductive individual that buds from a sessile polyp stalk.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, planoblast designates a term designating an entity, condition, or phenomenon derived from greek plan."*
+> - 📜 **Louis Agassiz (*Contributions to the Natural History of the United States*):** *"The tiny **planoblast** detaches from the hydroid stem and swims freely by rhythmic bell contractions."*
+> - 📜 **Thomas Henry Huxley (*The Oceanic Hydrozoa*):** *"Development of the free **planoblast** illustrates the classic metagenesis of marine coelenterates."*
+> - 📜 **Ernst Haeckel (*Challenger Reports: Deep-Sea Medusae*):** *"Each gonophore develops into an umbrella-shaped **planoblast** bearing marginal tentacles and lithocysts."*

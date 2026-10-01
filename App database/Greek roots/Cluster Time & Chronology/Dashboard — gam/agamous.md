@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of reproduction) not involving the fusion of male and female gametes in reproduction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of reproduction) not involving the fusion of male and female gametes in reproduction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having no visible sexual organs; asexual; agamic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cryptogamic botany, historically applied to non-flowering cryptogams (algae, mosses, fungi) whose sexual organs were microscopic or concealed.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, agamous designates (of reproduction) not involving the fusion of male and female gametes in reproduction."*
+> - 📜 **Asa Gray (*Botanical Text-Book*):** *"The older botanists designated lichens and fungi as **agamous**, unaware of their subtle microscopic reproductive cycles."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"In **agamous** plants, propagation is effected by detached gonidia or vegetative fragmentation rather than seeds."*
+> - 📜 **Joseph Dalton Hooker (*The Rhododendrons of Sikkim-Himalaya*):** *"Cryptogamic crusts upon alpine rocks were once cataloged as purely **agamous** vegetable growths."*

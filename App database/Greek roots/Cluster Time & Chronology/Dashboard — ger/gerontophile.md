@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of old.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of old.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is sexually, romantically, or emotionally attracted to elderly people.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychopathology and clinical sexology, an individual exhibiting gerontophilia, showing a strong erotic or romantic preference for partners significantly older.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gerontophile designates adjective*) pertaining to, derived from, or characteristic of old."*
+> - 📜 **Havelock Ellis (*Studies in the Psychology of Sex*):** *"Clinical case histories describe the true **gerontophile**, whose erotic desire is awakened exclusively by signs of advanced age."*
+> - 📜 **Richard von Krafft-Ebing (*Psychopathia Sexualis*):** *"The **gerontophile** finds aesthetic attraction in the silver hair and frail demeanor of elderly companions."*
+> - 📜 **Sigmund Freud (*Three Essays on the Theory of Sexuality*):** *"Psychoanalytic analysis reveals that the fantasies of the **gerontophile** often trace back to early fixations upon grandparents."*

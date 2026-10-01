@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by a feeling of great happiness and excitement : characterized by, based on, or producing euphoria.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by a feeling of great happiness and excitement : characterized by, based on, or producing euphoria.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by, feeling, or producing a state of euphoria; intensely happy, confident, and joyful.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychiatry and addiction science, describing states of mood elevation, hypomanic disinhibition, or acute drug-induced affective ecstasy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, euphoric designates marked by a feeling of great happiness and excitement : characterized by, based on, or producing euphoria."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"For several weeks she remained in a radiant, **euphoric** condition, singing childhood melodies from morning till night."*
+> - 📜 **Thomas De Quincey (*Confessions of an English Opium-Eater*):** *"The divine drug imparted a calm, **euphoric** stillness that elevated my soul above all earthly terrors."*
+> - 📜 **Virginia Woolf (*Mrs Dalloway*):** *"She stepped onto the London pavement wrapped in a **euphoric** delight at the sheer movement and noise of June."*

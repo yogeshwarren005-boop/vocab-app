@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek aesth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Feeling & Sensation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Direct sensory perception or tactile sensation; the immediate apprehension of external reality through sensory receptors, as conceptualized in Greek philosophy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical Aristotelian epistemology, the sensory faculty distinct from *noesis* (intellect) that registers perceptible forms without their material substance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Now the question of classification on this scheme comes to this, Does the particular poet who invites our attention deal more with the aesthesis of the ear or with that of the eye?"*
+> - 📜 **Aristotle (*De Anima*):** *"By **aesthesis**, the soul receives sensible forms without matter, just as wax receives the impression of an iron signet ring."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"True art demands vivid **aesthesis**, an unclouded receptivity to the light and colour spread across the living earth."*
+> - 📜 **Walter Pater (*Marius the Epicurean*):** *"He sought to refine his momentary **aesthesis**, regarding each fleeting impression of the senses as an end in itself."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the development of an embryo in the absence of fertilization.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the development of an embryo in the absence of fertilization.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or reproducing by apogamy; forming sporophytes directly from gametophytes without fertilization.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical taxonomy, describing fern species or cultivars that routinely reproduce without functional sex organs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, apogamous designates of or relating to the development of an embryo in the absence of fertilization."*
+> - 📜 **William Jackson Hooker (*Species Filicum*):** *"The horticulturist observed that this crested fern remained stably **apogamous**, producing fronds without antheridial intervention."*
+> - 📜 **Asa Gray (*Manual of Botany*):** *"In **apogamous** ferns, the young frond arises as a conical swelling upon the ventral surface of the prothallus."*
+> - 📜 **G. Ledyard Stebbins (*Chromosomal Evolution in Higher Plants*):** *"Obligately **apogamous** ferns thrive in arid limestone crevices where traditional flagellated sperm could never swim."*

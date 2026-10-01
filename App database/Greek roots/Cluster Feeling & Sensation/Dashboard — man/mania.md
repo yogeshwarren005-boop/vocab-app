@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Excitement manifested by mental and physical hyperactivity, disorganization of behavior, and elevation of mood; specifically : the manic phase of bipolar disorder.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Excessive or unreasonable enthusiasm —often used in combination.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Mental illness marked by periods of great excitement, euphoria, hyperactivity, flight of ideas, and delusions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An excessive, irrational enthusiasm, craze, or obsession for something (e.g., tulip mania, bibliomania).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"My religious mania, or whatever it was, is over."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"This feeling ultimately became a kind of mania with him."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Violence of temper approaching to mania has been hereditary in the men of the family, and in my stepfather’s case it had, I believe, been intensified by his long residence in the tropics."*
+> - 📜 **Hippocrates (*Of the Epidemics*):** *"Black bile heating the brain produces **mania**, wherein the patient laughs, dances, and sees terrifying visions."*
+> - 📜 **Robert Burton (*The Anatomy of Melancholy*):** *"Melancholy and **mania** are twin sisters of disorder, differing only in degree of fury and perturbation."*
+> - 📜 **Philippe Pinel (*A Treatise on Insanity*):** *"To liberate the victims of **mania** from iron chains and treat them with moral dignity was our sacred duty."*

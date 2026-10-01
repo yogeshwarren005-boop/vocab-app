@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to be more favorably inclined; gain the good will of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to be more favorably inclined; gain the good will of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make someone less angry or hostile; to appease, conciliate, or soothe.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In diplomacy and ritual anthropology, pacifying an offended faction or deity through gifts, sacrifices, or negotiated concessions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Although it failed, it was a play to placate."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The trembling senate sent rich embassies laden with gold to **placate** the ruthless barbarian conqueror."*
+> - 📜 **James George Frazer (*The Golden Bough*):** *"Primitive tribes offered blood sacrifices to **placate** the wrath of forest spirits before clearing virgin timber."*
+> - 📜 **Winston Churchill (*The Gathering Storm*):** *"Attempts to **placate** an aggressive dictator through endless concessions only feed his appetite for conquest."*

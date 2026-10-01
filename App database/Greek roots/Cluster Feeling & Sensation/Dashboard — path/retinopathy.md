@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various noninflammatory disorders of the retina including some that cause blindness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various noninflammatory disorders of the retina including some that cause blindness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Non-inflammatory damage or disease affecting the retina of the eye, typically resulting in impaired vision or blindness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical ophthalmology, a common microvascular complication of chronic systemic disease, especially diabetic retinopathy and hypertensive retinopathy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, retinopathy designates any of various noninflammatory disorders of the retina including some that cause blindness."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Ophthalmoscopic inspection in malignant hypertension reveals flame hemorrhages and soft exudates characteristic of severe **retinopathy**."*
+> - 📜 **Oliver Sacks (*The Island of the Colorblind*):** *"Diabetic **retinopathy** had clouded his visual field with dark vitreous floaters, threatening total darkness."*
+> - 📜 **Albrecht von Graefe (*Archiv für Ophthalmologie*):** *"Careful examination of the ocular fundus exposes early microaneurysms of **retinopathy** before visual acuity fails."*

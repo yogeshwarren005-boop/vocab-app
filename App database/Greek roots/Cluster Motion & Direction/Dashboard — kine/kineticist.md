@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialist in kinetics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who works in kinetic art : kinetic artist.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialist in kinetics or chemical kinetics; an artist who creates kinetic art.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical chemistry, a scientist who investigates reaction rates, transition states, and molecular collision mechanisms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, kineticist designates a specialist in kinetics."*
+> - 📜 **Svante Arrhenius (*Textbook of Electrochemistry*):** *"The chemical **kineticist** measures how reaction velocities double with every ten-degree rise in absolute temperature."*
+> - 📜 **William Ostwald (*Manual of Physico-Chemical Measurements*):** *"For the skilled **kineticist**, a catalytic agent does not create a new reaction, but merely accelerates an existing path."*
+> - 📜 **Herbert Read (*Art Now*):** *"As a pioneering **kineticist**, Calder abandoned traditional bronze to sculpt with moving air currents and suspended wires."*

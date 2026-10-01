@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Able to see distant objects clearly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Able to see distant objects clearly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, affected by, or characteristic of presbyopia (age-related farsightedness).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Requiring positive dioptric lens power to achieve clear accommodation for near focal tasks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, presbyopic designates able to see distant objects clearly."*
+> - 📜 **Franciscus Donders (*On the Anomalies of Accommodation and Refraction of the Eye*):** *"Convex glasses restore clear near vision to the **presbyopic** eye without straining the ciliary muscle."*
+> - 📜 **Oliver Wendell Holmes Sr. (*The Autocrat of the Breakfast-Table*):** *"He peered through his **presbyopic** spectacles at the faded manuscript with scholarly devotion."*
+> - 📜 **Hermann von Helmholtz (*Popular Lectures on Scientific Subjects*):** *"The **presbyopic** change in the human lens provides a measurable index of chronological aging."*

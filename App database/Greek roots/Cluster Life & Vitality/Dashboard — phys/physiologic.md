@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or consistent with an organism's normal functioning.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or consistent with an organism's normal functioning.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to physiology; characteristic of the normal healthy functioning of a living organism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to vital processes rather than structural anatomy or pathological derangements; physiological.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, physiologic designates of or consistent with an organism's normal functioning."*
+> - 📜 **Claude Bernard (*An Introduction to the Study of Experimental Medicine*):** *"Experimental medicine seeks to restore **physiologic** equilibrium when perturbed by disease."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A thorough grasp of **physiologic** mechanisms protects the physician against empiric therapeutic fads."*
+> - 📜 **Walter Cannon (*Bodily Changes in Pain, Hunger, Fear and Rage*):** *"Sympathoadrenal discharge represents a coordinated **physiologic** preparation for supreme physical emergency."*

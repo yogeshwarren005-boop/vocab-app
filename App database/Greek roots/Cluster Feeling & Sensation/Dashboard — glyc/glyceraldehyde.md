@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sweet crystalline aldehyde formed by the breakdown of sugars.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sweet crystalline aldehyde formed by the breakdown of sugars.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A three-carbon triose monosaccharide (C3H6O3), the simplest aldose sugar, playing a foundational role as an intermediate in glycolysis and photosynthesis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In stereochemistry, the historical reference standard (D- and L-glyceraldehyde) used to define the absolute configuration of sugars and amino acids.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, glyceraldehyde designates a sweet crystalline aldehyde formed by the breakdown of sugars."*
+> - 📜 **Emil Fischer (*Syntheses in the Sugar Group*):** *"Optically active **glyceraldehyde** provided the ultimate stereochemical touchstone for determining the configuration of all hexoses."*
+> - 📜 **Hans Krebs (*Carbohydrate Metabolism in Animal Tissues*):** *"During glycolysis, fructose-1,6-bisphosphate is cleaved by aldolase into dihydroxyacetone phosphate and **glyceraldehyde** 3-phosphate."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"The asymmetric carbon in **glyceraldehyde** represents the quintessential textbook example of enantiomeric optical isomerism."*

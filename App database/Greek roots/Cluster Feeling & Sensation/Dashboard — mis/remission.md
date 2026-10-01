@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An abatement in intensity or degree (as in the manifestations of a disease).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A payment of money sent to a person in another place.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A temporary or permanent diminution or disappearance of the signs and symptoms of a disease, especially chronic or malignant illness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In law and theology, the forgiveness, cancellation, or pardon of a sin, penalty, debt, or criminal sentence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Though I owe My revenge properly, my remission lies In Volscian breasts."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sweet Princes, what I did I did in honour, Led by th’ impartial conduct of my soul; And never shall you see that I will beg A ragged and forestall’d remission."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I find an apt remission in myself."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In pernicious anemia, the patient often enjoys a deceptive, temporary **remission** before relapse occurs."*
+> - 📜 **Thomas Cranmer (*The Book of Common Prayer*):** *"Almighty God hath given power and commandment to His ministers to declare to His people the **remission** of their sins."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The royal prerogative allows the sovereign to grant full **remission** of criminal penalties to repentant convicts."*

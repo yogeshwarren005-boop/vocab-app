@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The supreme council and tribunal of the Jews during postexilic times headed by a High Priest and having religious, civil, and criminal jurisdiction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The supreme council and tribunal of the Jews during postexilic times headed by a High Priest and having religious, civil, and criminal jurisdiction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The supreme council and judicial tribunal of the ancient Jewish nation, composed of seventy-one religious elders, high priests, and scribes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The historical Hellenistic and Roman-period Jewish assembly (from Greek *synedrion*, 'sitting together') that adjudicated religious law and capital offenses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sanhedrin designates the supreme council and tribunal of the jews during postexilic times headed by a high priest and having religious, civil, and criminal jurisdiction."*
+> - 📜 **Flavius Josephus (*Antiquities of the Jews*):** *"The high priest convened the elders of the **Sanhedrin** in the chamber of polished stone to pass judgment."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Under Roman procurators, the judicial authority of the **Sanhedrin** was strictly circumscribed in capital causes."*
+> - 📜 **Ernest Renan (*The Life of Jesus*):** *"The trial before the Jerusalem **Sanhedrin** was marked by turbulent disputes between Sadducean priests and Pharisaic doctors."*

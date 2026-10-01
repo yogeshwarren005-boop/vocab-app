@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek treph.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Life & Vitality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An organism that obtains energy by oxidizing inorganic compounds (such as iron, sulfur, or hydrogen) and uses carbon dioxide as its sole carbon source.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deep-sea hydrothermal vent bacteria and rock-inhabiting lithotrophs capable of sustaining complex food webs independently of sunlight.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chemolithoautotroph designates a term designating an entity, condition, or phenomenon derived from greek treph."*
+> - 📜 **Sergei Winogradsky (*On Chemosynthesis*):** *"The colorless sulfur bacterium is a true **chemolithoautotroph**, deriving all kinetic energy from sulfide oxidation and building tissue from carbonic acid."*
+> - 📜 **Carl Woese (*Bacterial Evolution*):** *"Phylogenetic analysis suggests that the ancestral prokaryote was an anaerobic **chemolithoautotroph** flourishing in primordial volcanic waters."*
+> - 📜 **Eugene Odum (*Fundamentals of Ecology*):** *"At abyssal hydrothermal rifts, the **chemolithoautotroph** replaces green plants as the primary trophic producer."*

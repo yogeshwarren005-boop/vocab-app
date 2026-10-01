@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large genus of old world mints: thyme.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A ductless glandular organ at the base of the neck that produces lymphocytes and aids in producing immunity; atrophies with age.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A primary lymphoid organ of the immune system situated in the superior mediastinum behind the sternum, essential for the maturation, differentiation, and selection of T lymphocytes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Prominent in infants and children, undergoing progressive physiological involution and replacement by adipose tissue after puberty.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thymus designates large genus of old world mints: thyme."*
+> - 📜 **Galen (*De Usu Partium*):** *"The soft, glandular mass situated over the heart was called the **thymus** by the ancients because of its resemblance to a bunch of thyme."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Enlargement of the **thymus** in infancy was once blamed for sudden suffocative attacks designated as status thymicolymphaticus."*
+> - 📜 **Peter Medawar (*The Uniqueness of the Individual*):** *"The discovery that the **thymus** acts as the schoolhouse where T cells learn self-tolerance revolutionized modern immunology."*

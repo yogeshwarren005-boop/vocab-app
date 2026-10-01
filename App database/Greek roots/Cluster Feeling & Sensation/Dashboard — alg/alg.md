@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: algebra.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: algebra.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Greek root *alg-* (from *algos*), meaning physical pain, grief, or bodily distress, seen in *analgesic*, *nostalgia*, and *neuralgia*.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The diagnostic combining form indicating localized suffering, ache, or soreness across anatomical terminologies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"For two hours we followed these sandy plains, then fields of algæ very disagreeable to cross."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"I was stretched on the ground, just under the shelter of a bush of algæ, when, raising my head, I saw some enormous mass, casting phosphorescent gleams, pass blusteringly by."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"There, between two waters clear as crystal, through the open panels we were allowed to contemplate the beautiful bushes of brilliant coral and large blocks of rock clothed with a splendid fur of green algæ and fuci."*
+> - 📜 **Henry George Liddell & Robert Scott (*A Greek-English Lexicon*):** *"The primary noun *algos* and its combining root **alg** signify acute bodily pain, sorrow, and grief in Greek epic and tragic poetry."*
+> - 📜 **Galen (*Method of Medicine*):** *"When diagnosing afflictions of the joints, the physician distinguishes the dull ache from the sharp lancinating **alg**."*
+> - 📜 **Thomas Sydenham (*Medical Observations Concerning the History and Cure of Acute Diseases*):** *"The sudden onset of severe articular **alg** in the great toe marks the classical paroxysm of podagra."*

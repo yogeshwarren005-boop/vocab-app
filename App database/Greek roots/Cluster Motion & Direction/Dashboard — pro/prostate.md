@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Prostate gland.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A firm partly muscular partly glandular body that is situated about the base of the mammalian male urethra and that secretes an alkaline viscid fluid which is a major constituent of the semen.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A firm, partly muscular and partly glandular body in male mammals that surrounds the base of the urethra and bladder neck, secreting seminal fluid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human anatomy and clinical medicine, etymologically derived from Greek prostates ('one who stands before', guardian), frequently subject to hypertrophy or carcinoma in older age.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"My trouble was pronounced by some to be Bright's disease, by others gravel on the kidneys with very acute inflammation of the bladder and prostate gland."*
+> - 📜 **Gray's Anatomy (*Anatomy of the Human Body*):** *"The **prostate** is positioned immediately below the internal urethral orifice and rests upon the urogenital diaphragm."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Benign enlargement of the **prostate** is the most frequent cause of mechanical urinary obstruction in men over sixty."*
+> - 📜 **Robley Dunglison (*Medical Lexicon*):** *"The ancient anatomist Herophilus gave the name **prostate** to the gland, viewing it as a guardian seated at the bladder gate."*

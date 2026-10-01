@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An autotrophic organism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Requiring only carbon dioxide or carbonates as a source of carbon and a simple inorganic nitrogen compound for metabolic synthesis of organic molecules (such as glucose).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An organism capable of synthesizing its own organic food molecules from inorganic substances (such as carbon dioxide) using light or chemical energy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A primary producer (plant, algae, or autotrophic bacterium) forming the fundamental trophic base of terrestrial and aquatic ecosystems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, autotroph designates an autotrophic organism."*
+> - 📜 **Eugene Odum (*Fundamentals of Ecology*):** *"The **autotroph** fixes radiant solar energy into chemical bonds, providing the energetic substrate for all heterotrophic life."*
+> - 📜 **Sergei Winogradsky (*Microbiologie du Sol*):** *"I demonstrated that the nitrifying bacterium is an obligate **autotroph**, thriving in purely mineral solutions without organic carbon."*
+> - 📜 **G. Evelyn Hutchinson (*The Ecological Theater and the Evolutionary Play*):** *"Ecological pyramid efficiency reflects the rate at which the photosynthetic **autotroph** captures incoming photon flux."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or fitted for the production of good offspring.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to eugenics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or promoting improvement in the hereditary qualities of a population or offspring.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Advocating selective breeding or policies intended to enhance desirable genetic traits in human lineages.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In such a view, a eugenic opportunity is presented in the selection and admission of immigrants that are distinctly above (not merely equal to) the average of our general population. § 15. #Population and militarism#."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This is the problem of eugenics, the choice and biologic breeding of capable men to be the citizens of the nation, and broadly understood, it includes both the negro and the immigrant problems.] [Footnote 2: See Vol."*
-> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"You can understand that; it is a plain proposition in eugenics."*
+> - 📜 **Francis Galton (*Inquiries into Human Faculty and Its Development*):** *"We pursue **eugenic** inquiries with the aim of giving the more suitable races a better chance of prevailing over the less suitable."*
+> - 📜 **Julian Huxley (*If I Were Dictator*):** *"A truly **eugenic** society must eliminate squalor and provide universal education before evaluating innate genetic potential."*
+> - 📜 **George Bernard Shaw (*Man and Superman*):** *"The philosopher must look to conscious **eugenic** selection if mankind is to transcend its chronic political barbarism."*

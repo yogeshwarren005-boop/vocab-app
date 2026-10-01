@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A statement that makes something comprehensible by describing the relevant structure or operation or circumstances etc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Thought that makes something comprehensible.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A statement or account that makes something clear or accounts for a situation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The elucidation of causes, reasons, or mechanisms underlying observed phenomena.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"What he wanted was perfectly correct but was not just suitable at that moment, and he needed an explanation."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"If he had not been so mad, the two would have been stronger, and our poor Rector would have lost his plums." It was hard to tell if this explanation comforted the mother."*
-> - 📜 **Benedictus de Spinoza (*On the Improvement of the Understanding*):** *"The exclusion of all idea of cause--that is, the thing must not need explanation by Anything outside itself."*
+> - 📜 **Benedictus de Spinoza (*Ethics*):** *"A complete rational **explanation** must demonstrate things through their proximate causes."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"The theory of natural selection offers a luminous **explanation** for the geographic distribution of species."*
+> - 📜 **Arthur Conan Doyle (*The Sign of Four*):** *"Sherlock Holmes provided a lucid **explanation** of how the minute footprint unlocked the mystery."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The theological doctrine taught by athanasius that christ the son is of the same substance as god the father.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The theological doctrine taught by athanasius that christ the son is of the same substance as god the father.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The theological system and doctrines championed by Athanasius of Alexandria, asserting the full divinity and co-equality of the Son with the Father (homoousios).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Orthodox Trinitarian Christianity as codified in the Nicene Creed, maintaining the eternal deity of Christ against Arianism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, athanasianism designates the theological doctrine taught by athanasius that christ the son is of the same substance as god the father."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The subtle distinctions of **Athanasianism** divided the Roman world into hostile theological factions."*
+> - 📜 **John Henry Newman (*The Arians of the Fourth Century*):** *"The steadfast endurance of **Athanasianism** preserved the core revelation of the Incarnation against rationalist dilution."*
+> - 📜 **Thomas Carlyle (*On Heroes, Hero-Worship, and the Heroic in History*):** *"Dante's vision was anchored firmly upon the rock of **Athanasianism**, the unshakeable Trinitarian cosmos of the Middle Ages."*

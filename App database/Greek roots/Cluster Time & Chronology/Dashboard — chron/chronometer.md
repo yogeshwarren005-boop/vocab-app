@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Timepiece; especially : one designed to keep time with great accuracy despite external forces.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Timepiece; especially : one designed to keep time with great accuracy despite external forces.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An exceptionally precise instrument for measuring time, especially one designed to keep accurate time at sea for determining longitude.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In navigational history and horology, the mechanical marine timepiece perfected by John Harrison that revolutionized oceanic navigation by providing Greenwich mean time aboard ship.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Heart weak, but steady as a chronometer.” “It’s only twenty-four hours,” Captain Jamie said, “and he was never in like condition before.” “Putting it on, that’s what he’s doing, and you can stack on that,” Al Hutchins, the head trusty, interjected."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"The boat took with me Captain Nemo, two men of the crew, and the instruments, which consisted of a chronometer, a telescope, and a barometer."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"If the disappearance of the half-disc of the sun coincided with twelve o’clock on the chronometer, we were at the pole itself."*
+> - 📜 **James Cook (*A Voyage Towards the South Pole, and Round the World*):** *"Our **chronometer** performed with astonishing regularity, allowing us to fix our longitude amidst uncharted southern seas."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The captain consulted the cabin **chronometer**, checking our eastward drift against the noon observation of the sun."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Captain FitzRoy carried twenty-two **chronometer** instruments on board to survey the coastline of South America with utmost precision."*

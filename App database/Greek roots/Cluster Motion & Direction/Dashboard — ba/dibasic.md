@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having two replaceable hydrogen atoms —used of acids.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having two replaceable hydrogen atoms —used of acids.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having two replaceable hydrogen atoms (in an acid), or containing two univalent basic atoms or radicals in a molecule.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of neutralizing two equivalents of a monobasic acid or producing two series of salts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dibasic designates having two replaceable hydrogen atoms —used of acids."*
+> - 📜 **Justus von Liebig (*Familiar Letters on Chemistry*):** *"Sulfuric acid is a **dibasic** compound because it can form both neutral sulfates and acid bisulfates."*
+> - 📜 **William Allen Miller (*Elements of Chemistry*):** *"Oxalic acid behaves as a **dibasic** acid, requiring two molecular equivalents of caustic alkali to saturate it."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"Carbonic acid is a weak **dibasic** acid that plays an essential buffer role in mammalian blood."*

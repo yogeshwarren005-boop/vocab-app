@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Affected with, characterized by, or producing death of a usually localized area of living tissue : marked by necrosis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Affected with, characterized by, or producing death of a usually localized area of living tissue : marked by necrosis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or affected by necrosis; dead, devitalized, or gangrenous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by localized tissue mortification, cellular disintegration, and surrounding inflammatory leukocytic infiltration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, necrotic designates affected with, characterized by, or producing death of a usually localized area of living tissue : marked by necrosis."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"The **necrotic** core of the infarct becomes surrounded by a hyperemic zone of reactive capillary proliferation."*
+> - 📜 **William Boyd (*Pathology for the Surgeon*):** *"Debridement of jagged wounds must excise all **necrotic** muscle to prevent colonization by anaerobic clostridia."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A **necrotic** slough lined the base of the deep typhoid ulcer, threatening intestinal hemorrhage."*

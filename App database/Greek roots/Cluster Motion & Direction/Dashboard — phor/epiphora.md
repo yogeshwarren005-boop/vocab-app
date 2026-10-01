@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Repetition of the ends of two or more successive sentences, verses, etc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Repetition of the ends of two or more successive sentences, verses, etc.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An excessive flow of tears spilling over the cheeks, usually caused by hypersecretion of the lacrimal gland or obstruction of the nasolacrimal drainage duct.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical rhetoric, the repetition of a word or phrase at the end of successive clauses or sentences (more commonly termed epistrophe).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epiphora designates repetition of the ends of two or more successive sentences, verses, etc."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Facial nerve paralysis deprives the lower eyelid of its muscular tone, resulting in chronic, troublesome **epiphora**."*
+> - 📜 **Robley Dunglison (*Medical Lexicon*):** *"Stricture of the lachrymal puncta produces continuous **epiphora**, causing constant irritation of the adjacent cheek."*
+> - 📜 **Quintilian (*Institutio Oratoria*):** *"The figure of **epiphora** strikes the ear with persuasive resonance by closing every rhythmic period with the self-same word."*

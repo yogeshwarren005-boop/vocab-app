@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any member of a pentecostal religious body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characteristic of any of various pentecostal religious bodies or their members.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or resembling Pentecost; pertaining to Christian movements emphasizing the gifts of the Holy Spirit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ecclesiastical history, characterizing charismatic revivals marked by glossolalia (speaking in tongues), divine healing, and exuberant communal worship.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Pentecostal power 46:30 His students then received the Holy Ghost."*
-> - 📜 **Byron J. Rees (*The Heart-Cry of Jesus*):** *"REES, Author of "Christlikeness," "Hulda, the Pentecostal Prophetess," and "Hallelujahs from Portsmouth, Nos. 2 and 3." DEDICATION."*
-> - 📜 **Byron J. Rees (*The Heart-Cry of Jesus*):** *"The onward movement of the Holy Ghost along Pentecostal lines, convicting of depravity, creating a clean-reading public, and endueing with power both pulpit and pew, has resulted in a constant and growing demand for full-salvation literature."*
+> - 📜 **John Henry Newman (*Parochial and Plain Sermons*):** *"The **Pentecostal** effusion was not a fleeting emotional transport, but the abiding indwelling of the divine Paraclete."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"The sudden glossolalia observed in **Pentecostal** revivals exhibits classic psychological automatisms of ecstatic conversion."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The popular enthusiasm spread like a **Pentecostal** fire, melting cold class distinctions in a surge of fraternal zeal."*

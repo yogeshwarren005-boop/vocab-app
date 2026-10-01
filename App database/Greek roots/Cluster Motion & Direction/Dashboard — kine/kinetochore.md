@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Centromere.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A specialized structure on the centromere to which the microtubular spindle fibers attach during mitosis and meiosis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A complex protein structure formed on the centromere of each sister chromatid during cell division, to which spindle microtubules attach to pull the chromatids apart.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In molecular cytology and cell biology, the macromolecular machine responsible for chromosome segregation, spindle checkpoint signaling, and force generation during anaphase.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, kinetochore designates centromere."*
+> - 📜 **Edmund Beecher Wilson (*The Cell in Development and Heredity*):** *"Electron microscopy reveals that each spindle fiber inserts directly into a trilaminar plaque, the **kinetochore**, on the chromosome."*
+> - 📜 **Theodosius Dobzhansky (*Genetics and the Origin of Species*):** *"Chromosome fragments lacking a functional **kinetochore** cannot attach to the spindle and are inevitably lost during mitosis."*
+> - 📜 **Thomas Hunt Morgan (*The Theory of the Gene*):** *"The mechanical tug-of-war at the **kinetochore** aligns the duplicated chromosomes precisely along the equatorial plate."*

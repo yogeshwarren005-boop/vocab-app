@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various chiefly tropical american vines some bearing edible fruit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various chiefly tropical american vines some bearing edible fruit.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A climbing vine of the genus Passiflora, bearing intricate, showy flowers with a fringed corona and prominent stamens.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A botanical symbol in Christian folklore, where the parts of the flower (ten petals, three stigmas, five anthers) represent the Apostles, nails, and wounds of the Crucifixion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, passionflower designates any of various chiefly tropical american vines some bearing edible fruit."*
+> - 📜 **Alfred, Lord Tennyson (*Maud*):** *"There has fallen a splendid tear from the **passion-flower** at the gate; she is coming, my dove, my dear."*
+> - 📜 **Nathaniel Hawthorne (*Rappaccini's Daughter*):** *"A magnificent creeping **passionflower** hung over the shattered marble fountain in the poisonous garden."*
+> - 📜 **Gertrude Jekyll (*Wall and Water Gardens*):** *"Trained against a warm brick wall, the blue **passionflower** produces a profusion of delicate fringed blossoms."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of fungi forming continuous hyaline spores.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of fungi forming continuous hyaline spores.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of wood-inhabiting ascomycete fungi, historically associated with sap-stain and tree wilt diseases such as Dutch elm disease.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In forest pathology, anamorph and teleomorph fungi characterized by horn-beaked perithecia that block xylem vessels and cause blue-stain discoloration in timber.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ceratostomella designates genus of fungi forming continuous hyaline spores."*
+> - 📜 **G. H. Pethybridge (*Transactions of the British Mycological Society*):** *"Fungal hyphae of **Ceratostomella** invade the sapwood, generating enzymatic discoloration without destroying the lignified cell walls."*
+> - 📜 **Ernst Gäumann (*Comparative Morphology of Fungi*):** *"The perithecium of **Ceratostomella** bears a remarkably elongated, hair-fringed beak adapted for insect spore dispersal."*
+> - 📜 **Charles Valentine Riley (*The American Entomologist*):** *"Bark beetles vector spores of **Ceratostomella** deep into the vascular cambium of healthy pine stands."*

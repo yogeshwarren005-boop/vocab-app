@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek kine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Motion & Direction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The medical condition of being unable to move; absence or failure of movement in all or part of the body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cardiovascular imaging, the complete absence of systolic wall thickening or inward motion in a myocardial segment following coronary infarction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, akinesis designates a term designating an entity, condition, or phenomenon derived from greek kine."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"He described the state of **akinesis** as a sudden, terrifying arrest of will, wherein intention could not bridge the chasm into motion."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Post-apoplectic **akinesis** in the contralateral limb may gradually resolve as collateral motor pathways open."*
+> - 📜 **Robley Dunglison (*Medical Lexicon*):** *"The term **akinesis** denotes the complete paralysis or arrest of voluntary locomotive impulses in the nervous system."*

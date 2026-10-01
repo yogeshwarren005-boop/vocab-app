@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to genealogy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to genealogy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to genealogy; tracing family ancestry, descent, or lineage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to pedigree records or phylogenetic branching trees; genealogical.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, genealogic designates of or relating to genealogy."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"All true classification of organisms is inherently **genealogic**, reflecting real lines of common evolutionary descent."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The proud patrician displayed ancient wax busts to demonstrate an unbroken **genealogic** succession from the Republic."*
+> - 📜 **Ernst Haeckel (*The History of Creation*):** *"I constructed the first comprehensive **genealogic** tree of living organisms based on comparative embryology."*

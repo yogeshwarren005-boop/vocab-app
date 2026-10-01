@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek lecith.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Life & Vitality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ancient Greek root (*lekithos*, egg yolk), denoting egg yolk or nutritive yolk reserves in animal ova.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In developmental biology, the combining form indicating yolk content and distribution in ova (alecithal, telolecithal, isolecithal).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lecith designates a term designating an entity, condition, or phenomenon derived from greek lecith."*
+> - 📜 **Karl Ernst von Baer (*Über Entwickelungsgeschichte der Thiere*):** *"The relative proportion of **lecith** or nutritive yolk fundamentally dictates the pattern of embryonic cleavage."*
+> - 📜 **Francis Balfour (*A Treatise on Comparative Embryology*):** *"Where the ovum is surcharged with **lecith**, cleavage is restricted to a minute superficial blastodisc."*
+> - 📜 **Ernst Haeckel (*The Evolution of Man*):** *"The accumulation of maternal **lecith** within the egg cell represents an evolutionary adaptation for nourishing the embryo."*

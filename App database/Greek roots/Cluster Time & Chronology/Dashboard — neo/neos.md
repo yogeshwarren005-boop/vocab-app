@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek neo.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Time & Chronology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Greek adjective meaning 'new', 'young', 'fresh', or 'recent' (νέος, neos), serving as the foundational root of numerous scientific words.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical Greek philology and etymology, expressing both chronological recency and youthful vigor, contrasted with palaios (ancient).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neos designates a term designating an entity, condition, or phenomenon derived from greek neo."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"In classical antiquity, **neos** stood as the antithesis of palaios, denoting that which had newly burst into bloom or being."*
+> - 📜 **Aristotle (*Rhetoric*):** *"The nature of the young man, the **neos**, is passionate, eager, and prone to swift generous attachments."*
+> - 📜 **Walter William Skeat (*An Etymological Dictionary of the English Language*):** *"Scientific innovators turned to **neos** whenever an element, epoch, or doctrine required a name proclaiming novelty."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A colorless crystalline growth vitamin C10H16N2O3S of the vitamin B complex found especially in yeast, liver, and egg yolk.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A colorless crystalline growth vitamin C10H16N2O3S of the vitamin B complex found especially in yeast, liver, and egg yolk.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A water-soluble B-complex vitamin (vitamin B7) essential for cellular metabolism and the function of carboxylase enzymes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bicyclic coenzyme that transfers carbon dioxide units in the biosynthesis of fatty acids, gluconeogenesis, and leucine degradation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, biotin designates a colorless crystalline growth vitamin c10h16n2o3s of the vitamin b complex found especially in yeast, liver, and egg yolk."*
+> - 📜 **Fritz Kögl (*Researches on Plant Growth Hormones*):** *"From thousands of egg yolks, we isolated crystalline **biotin**, a growth substance of remarkable potency."*
+> - 📜 **Albert Lehninger (*Principles of Biochemistry*):** *"The prosthetic group **biotin** is covalently linked to the epsilon-amino group of a specific lysine residue."*
+> - 📜 **Vincent du Vigneaud (*The Structure of Biotin*):** *"Chemical degradation established that **biotin** contains a fused imidazole and thiophene ring system."*

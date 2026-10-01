@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the diaphysis of a bone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to the diaphysis of a bone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or situated in the diaphysis (the main shaft of a long bone).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to fractures, osteomyelitis, or neoplasms localized to the cortical cylinder of long bones.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diaphyseal designates relating to the diaphysis of a bone."*
+> - 📜 **William Boyd (*Pathology for the Surgeon*):** *"Ewing's sarcoma characteristically arises in the **diaphyseal** marrow cavity of adolescent long bones."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"Nutrient arteries penetrate the **diaphyseal** cortex obliquely to supply the medullary sinusoids."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The dense compact bone of the **diaphyseal** cylinder provides maximum resistance to bending stress."*

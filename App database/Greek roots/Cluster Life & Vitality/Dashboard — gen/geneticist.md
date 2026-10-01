@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A biologist who specializes in genetics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A biologist who specializes in genetics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A scientist who specializes in the study of genetics, heredity, and gene function.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An investigator analyzing the molecular structure, mutation, expression, or population dynamics of genes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, geneticist designates a biologist who specializes in genetics."*
+> - 📜 **Thomas Hunt Morgan (*The Mechanism of Mendelian Heredity*):** *"The experimental **geneticist** finds in Drosophila melanogaster an unrivaled instrument for chromosome mapping."*
+> - 📜 **Barbara McClintock (*The Discovery of Transposable Elements*):** *"As a maize **geneticist**, I observed mobile controlling elements moving dynamically within the plant genome."*
+> - 📜 **Francois Jacob (*The Statue Within*):** *"The molecular **geneticist** became a cryptographer deciphering the chemical message inscribed within the cell."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek gen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Life & Vitality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The reproduction of offspring that are similar to the parents in structure, life cycle, and developmental stages; biogenesis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The biological law that living organisms reproduce their own kind through successive generations, contrasted with heterogenesis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, homogenesis designates a term designating an entity, condition, or phenomenon derived from greek gen."*
+> - 📜 **Thomas Henry Huxley (*Biogenesis and Abiogenesis*):** *"In **homogenesis**, the progeny passes through the same developmental cycle as that which produced the parents."*
+> - 📜 **Herbert Spencer (*The Principles of Biology*):** *"The universal law of organic heredity is **homogenesis**, ensuring the faithful perpetuation of species characters."*
+> - 📜 **Ernst Haeckel (*The History of Creation*):** *"The principle of **homogenesis** forms the bedrock of evolutionary stability across thousands of generations."*

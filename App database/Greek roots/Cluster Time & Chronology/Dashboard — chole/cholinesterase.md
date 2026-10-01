@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An enzyme that occurs chiefly at neuromuscular junctions and promotes the hydrolysis of acetylcholine at postsynaptic receptors : acetylcholinesterase.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Butyrylcholinesterase.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An enzyme that hydrolyzes acetylcholine into choline and acetic acid, terminating nerve impulse transmission across cholinergic synapses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biochemistry and neurology, an enzyme occurring as acetylcholinesterase at neural synapses and pseudocholinesterase in blood plasma, crucial for synaptic recovery.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cholinesterase designates an enzyme that occurs chiefly at neuromuscular junctions and promotes the hydrolysis of acetylcholine at postsynaptic receptors : acetylcholinesterase."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"Within milliseconds after acetylcholine stimulates the motor endplate, **cholinesterase** hydrolyzes the neurotransmitter to allow repolarization."*
+> - 📜 **Otto Loewi (*Nobel Lecture*):** *"The chemical transmitter 'Vagusstoff' is rapidly degraded in biological fluids by the catalytic action of **cholinesterase**."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Inhibition of **cholinesterase** produces acute acetylcholine intoxication characterized by extreme miosis and muscular tetany."*

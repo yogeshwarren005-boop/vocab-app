@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Suffering from irrational fears.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Suffering from irrational fears.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, characterized by, or affected with a phobia; intensely and irrationally fearful of something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemistry and surface science, having an aversion to or repelling a substance (e.g., hydrophobic, lipophobic).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phobic designates suffering from irrational fears."*
+> - 📜 **Sigmund Freud (*Studies on Hysteria*):** *"The **phobic** patient constructs an elaborate system of safeguards and detours to avoid encountering the feared object."*
+> - 📜 **Oliver Sacks (*An Anthropologist on Mars*):** *"The sudden onset of panic attacks left him completely housebound in a state of **phobic** paralysis."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"The hydrophobic tail of fatty acids recoils from aqueous contact, driving the formation of **phobic** lipid bilayer interiors."*

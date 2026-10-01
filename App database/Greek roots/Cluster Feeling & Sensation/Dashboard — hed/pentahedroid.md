@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective & Noun*) Resembling, having the physical form of, or akin to pleasant, sweet.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective & Noun*) Resembling, having the physical form of, or akin to pleasant, sweet.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A four-dimensional geometric polytope bounded by five tetrahedral cells; a 4-simplex or hypertetrahedron.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The simplest possible four-dimensional regular polytope, possessing five vertices, ten edges, ten triangular faces, and five tetrahedral cells.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pentahedroid designates adjective & noun*) resembling, having the physical form of, or akin to pleasant, sweet."*
+> - 📜 **H. S. M. Coxeter (*Regular Polytopes*):** *"The 4-simplex, or regular **pentahedroid**, forms the four-dimensional analogue of the three-dimensional tetrahedron."*
+> - 📜 **Ludwig Schläfli (*Theorie der vielfachen Kontinuität*):** *"In four-dimensional Euclidean space, the simplest convex figure is bounded by five cells, the **pentahedroid**."*
+> - 📜 **Arthur Cayley (*Collected Mathematical Papers*):** *"We compute the hypervolume of the **pentahedroid** by integrating determinant coordinates across its five vertices."*

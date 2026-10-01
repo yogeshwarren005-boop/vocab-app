@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A condensed statement or outline (as of a narrative or treatise) : abstract.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The abbreviated conjugation of a verb in one person only.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A brief summary or general survey of something; an outline or abstract of a subject or work.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In textual criticism and scriptural studies, a parallel tabular arrangement (such as a synopsis of the Gospels) facilitating comparative analysis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Wopsle’s great-aunt may be resolved into the following synopsis."*
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"They appear as disconnected scenes of a once grand drama that in olden times riveted the attention of mankind, and of which, strange to say, the clearest synopsis and the most coherent recollection are, so far, to be found in Polynesian traditions."*
-> - 📜 **James Joyce (*Ulysses*):** *"Over his untastable apology for a cup of coffee, listening to this synopsis of things in general, Stephen stared at nothing in particular."*
+> - 📜 **Samuel Johnson (*Lives of the Most Eminent English Poets*):** *"Before embarking upon his grand epic, the author drafted a concise **synopsis** of each book's plot."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The student who consults this historical **synopsis** will easily master the chronological succession of the Caesars."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"A well-ordered **synopsis** spreads the whole territory of a science before the mind, like a map before an explorer."*

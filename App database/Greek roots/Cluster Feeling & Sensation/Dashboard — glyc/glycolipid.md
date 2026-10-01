@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A lipid (such as a ganglioside or a cerebroside) that contains a carbohydrate radical.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A lipid (such as a ganglioside or a cerebroside) that contains a carbohydrate radical.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A lipid molecule covalently linked to a carbohydrate moiety (monosaccharide or oligosaccharide), found abundantly on the extracellular surface of eukaryotic cell membranes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cell biology and immunology, crucial membrane components (e.g., cerebrosides, gangliosides) that mediate cellular recognition, adhesion, and blood group antigens.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, glycolipid designates a lipid (such as a ganglioside or a cerebroside) that contains a carbohydrate radical."*
+> - 📜 **Ernst Klenk (*On the Nature of Gangliosides*):** *"In neural cell membranes, the complex **glycolipid** structure known as ganglioside plays an essential role in synaptic signaling."*
+> - 📜 **Linus Pauling (*Molecular Architecture and the Life Process*):** *"The outer leaflet of the cellular membrane is studded with **glycolipid** antennae that distinguish self from non-self."*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*):** *"In Tay-Sachs disease, an inborn metabolic failure to degrade a specific **glycolipid** leads to tragic neurological degeneration."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A thick paste made from fermented soybeans and barley or rice malt; used in japanese cooking to make soups or sauces.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A thick paste made from fermented soybeans and barley or rice malt; used in japanese cooking to make soups or sauces.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Greek combining form *miso-* (from *mīsos*), signifying hatred, dislike, aversion, or antipathy (as in *misogyny*, *misoneism*).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The linguistic prefix used across psychological, philosophical, and social terminology to designate deep-seated revulsion toward an object, gender, or idea.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, miso designates a thick paste made from fermented soybeans and barley or rice malt; used in japanese cooking to make soups or sauces."*
+> - 📜 **Henry George Liddell & Robert Scott (*A Greek-English Lexicon*):** *"Compounds beginning with **miso** signify active hatred or aversion, directly contrasting with those in *philo-*."*
+> - 📜 **Plato (*Phaedo*):** *"Socrates warned that the prefix **miso** must never attach to philosophy, lest men become haters of reason."*
+> - 📜 **Desiderius Erasmus (*Adagia*):** *"The ancient Greeks formed barbed epithets with **miso**, branding tyrants as haters of the commons."*

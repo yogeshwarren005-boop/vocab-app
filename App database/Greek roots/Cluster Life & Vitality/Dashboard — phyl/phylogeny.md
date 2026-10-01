@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (biology) the sequence of events involved in the evolutionary development of a species or taxonomic group of organisms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (biology) the sequence of events involved in the evolutionary development of a species or taxonomic group of organisms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The evolutionary history and genealogical relationship of a species or group of organisms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The representation of evolutionary lines of descent as a branching tree (phylogenetic tree).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phylogeny designates (biology) the sequence of events involved in the evolutionary development of a species or taxonomic group of organisms."*
+> - 📜 **Ernst Haeckel (*Generelle Morphologie der Organismen*):** *"Ontogeny is the short and rapid recapitulation of **phylogeny**, controlled by the physiological functions of inheritance."*
+> - 📜 **Theodosius Dobzhansky (*Genetics and the Origin of Species*):** *"The ultimate goal of evolutionary studies is the deciphering of the true organic **phylogeny** of life."*
+> - 📜 **Stephen Jay Gould (*Ontogeny and Phylogeny*):** *"The interplay between individual development and evolutionary **phylogeny** remains one of the central problems of biology."*

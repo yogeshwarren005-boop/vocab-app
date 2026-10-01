@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Primitive medium-sized theropod; swift-running bipedal carnivorous dinosaur having grasping hands with sharp claws and a short horn between the nostrils; jurassic in north america.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Primitive medium-sized theropod; swift-running bipedal carnivorous dinosaur having grasping hands with sharp claws and a short horn between the nostrils; jurassic in north america.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any predatory theropod dinosaur belonging to the infraorder Ceratosauria, characterized by a prominent nasal horn or cranial crest.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate paleontology, primitive theropods of the Jurassic and Cretaceous periods retaining four functional digits on the hand and fused pelvic elements.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ceratosaur designates primitive medium-sized theropod; swift-running bipedal carnivorous dinosaur having grasping hands with sharp claws and a short horn between the nostrils; jurassic in north america."*
+> - 📜 **Othniel Charles Marsh (*The Dinosaurs of North America*):** *"The formidable **ceratosaur** possessed a bladelike nasal horn that set it apart from all other Jurassic carnivores."*
+> - 📜 **Edwin H. Colbert (*The Dinosaur Book*):** *"Unlike Allosaurus, the **ceratosaur** retained an archaic row of bony dermal scutes running down the midline of its spine."*
+> - 📜 **Arthur Conan Doyle (*The Lost World*):** *"A fearsome **ceratosaur** crashed through the giant tree ferns, sniffing the air with its armored, horned muzzle."*

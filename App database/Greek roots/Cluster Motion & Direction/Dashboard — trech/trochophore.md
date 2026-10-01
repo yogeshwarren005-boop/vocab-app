@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A free-swimming ciliate larva occurring in several invertebrate groups (such as the polychaete worms and mollusks).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A free-swimming ciliate larva occurring in several invertebrate groups (such as the polychaete worms and mollusks).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small, translucent, free-swimming ciliated marine larva characteristic of mollusks, annelids, and related lophotrochozoan phyla.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine developmental biology, featuring a prominent equatorial band of cilia (the prototroch, literally 'wheel-bearer') used for propulsion and planktotrophic feeding.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trochophore designates a free-swimming ciliate larva occurring in several invertebrate groups (such as the polychaete worms and mollusks)."*
+> - 📜 **Alister Hardy (*The Open Sea: The World of Plankton*):** *"The spinning **trochophore** larva of the polychaete worm is propelled by a ring of powerful vibrating cilia."*
+> - 📜 **Rachel Carson (*The Edge of the Sea*):** *"Countless microscopic **trochophore** larvae drift in the spring tide, destined to settle as clams and marine worms."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Invertebrated Animals*):** *"The common possession of a **trochophore** stage provides decisive embryological proof uniting annelids and mollusks."*

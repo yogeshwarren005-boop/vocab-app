@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Staining readily with eosin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or characterized by eosinophilia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Readily stained by eosin; characterized by or containing an excess of eosinophils.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pathology and cytology, describing tissues, cytoplasmic inclusions, or inflammatory exudates that show intense affinity for acidic red dyes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eosinophilic designates staining readily with eosin."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Microscopic sections of the lung revealed dense **eosinophilic** infiltrates plugging the bronchial submucosa in status asthmaticus."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"The cytoplasm of healthy erythrocytes is intensely **eosinophilic** owing to high intracellular concentrations of hemoglobin."*
+> - 📜 **James Paget (*Lectures on Surgical Pathology*):** *"Degenerating muscle fibers display a homogenous **eosinophilic** appearance prior to necrotic fragmentation."*

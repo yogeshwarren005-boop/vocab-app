@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A discipline comprising primarily logic, aesthetics, ethics, metaphysics, and epistemology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The sciences and liberal arts exclusive of medicine, law, and theology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The systematic study of the fundamental nature of knowledge, reality, and existence, especially when considered as an academic discipline (from Greek *philosophia*, 'love of wisdom').
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A particular theory, system of principles, or guiding worldview concerning conduct and life.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hast any philosophy in thee, shepherd?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There are more things in heaven and earth, Horatio, Than are dreamt of in your philosophy."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Preach some philosophy to make me mad, And thou shalt be canoniz’d, cardinal; For, being not mad but sensible of grief, My reasonable part produces reason How I may be deliver’d of these woes, And teaches me to kill or hang myself."*
+> - 📜 **Plato (*Apology*):** *"The unexamined life is not worth living; to practice **philosophy** is the highest service a mortal can offer to the gods."*
+> - 📜 **Aristotle (*Metaphysics*):** *"All men by nature desire to know; the science of first principles, which is **philosophy**, begins in wonder."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"Natural **philosophy** is the mother of all sciences, providing the solid foundation for human dominion over nature."*

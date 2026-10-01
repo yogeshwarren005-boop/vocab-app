@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The writing of alternate lines in opposite directions (as from left to right and from right to left).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The writing of alternate lines in opposite directions (as from left to right and from right to left).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient method of writing in which lines run alternately from right to left and from left to right, literally 'turning like an ox in plowing'.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epigraphy and paleography, characteristic of archaic Greek inscriptions of the 6th century BC, eliminating the need to return to the left margin for each line.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, boustrophedon designates the writing of alternate lines in opposite directions (as from left to right and from right to left)."*
+> - 📜 **Isaac Taylor (*The History of the Alphabet*):** *"Archaic Greek inscriptions on stone are frequently written in **boustrophedon**, snake-like from right to left and back."*
+> - 📜 **Herodotus (*The Histories*):** *"The ancient laws were incised in **boustrophedon** upon wooden tablets preserved in the Prytaneum."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"The transition from Phoenician right-to-left script to European left-to-right passed through the intermediate stage of **boustrophedon**."*

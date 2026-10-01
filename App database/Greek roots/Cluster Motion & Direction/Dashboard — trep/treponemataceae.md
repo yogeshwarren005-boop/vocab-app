@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small spirochetes some parasitic or pathogenic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small spirochetes some parasitic or pathogenic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of spirochete bacteria (order Spirochaetales) comprising helical, flexible, unicellular microorganisms that move by axial filaments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic bacteriology, a taxonomic family historically grouping pathogenic and commensal helical organisms, including the genera *Treponema*, *Borrelia*, and *Leptospira*.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, treponemataceae designates small spirochetes some parasitic or pathogenic."*
+> - 📜 **Paul Ehrlich (*Studies in Immunity*):** *"Pathogens of the family **Treponemataceae** display an extraordinary antigenic resilience that complicates vaccine development."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The family **Treponemataceae** encompasses microorganisms responsible for devastating chronic scourges, from syphilis to relapsing fever."*
+> - 📜 **Robley Dunglison (*Medical Lexicon*):** *"Members of the **Treponemataceae** possess an internal undulating filament that confers rapid corkscrew locomotion through viscous fluids."*

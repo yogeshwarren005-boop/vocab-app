@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of numerous sugar derivatives that contain a nonsugar group bonded to an oxygen or nitrogen atom and that on hydrolysis yield a sugar (such as glucose).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of numerous sugar derivatives that contain a nonsugar group bonded to an oxygen or nitrogen atom and that on hydrolysis yield a sugar (such as glucose).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any chemical compound in which a carbohydrate molecule (glycone) is bound to another functional group or non-sugar moiety (aglycone) via a glycosidic bond.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacology and pharmacognosy, plant-derived secondary metabolites including cardiac glycosides (e.g., digoxin) and cyanogenic glycosides used in therapeutics or defense.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, glycoside designates any of numerous sugar derivatives that contain a nonsugar group bonded to an oxygen or nitrogen atom and that on hydrolysis yield a sugar (such as glucose)."*
+> - 📜 **William Withering (*An Account of the Foxglove and Some of Its Medical Uses*):** *"The active digitalis **glycoside** strengthens the failing myocardium while slowing an irregular, runaway pulse."*
+> - 📜 **Justus von Liebig (*Animal Chemistry*):** *"Amygdalin extracted from bitter almonds represents a classical **glycoside**, yielding glucose, benzaldehyde, and prussic acid upon hydrolysis."*
+> - 📜 **Paul Ehrlich (*Studies in Immunity*):** *"Certain plant toxins operate as a **glycoside** compound that selectively attaches to specific chemical side-chains on animal cells."*

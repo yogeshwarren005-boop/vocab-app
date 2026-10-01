@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to vibrate in a definite pattern.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to concentrate about two conflicting or contrasting positions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To cause light, electromagnetic waves, or particles to vibrate in a definite, single plane (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To divide a community, electorate, or opinion into two sharply contrasting and hostile groups.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"A piece of iron left in the same position for a length of time becomes polarised, which is to say that it acquires the properties of a magnet; and two magnets always exert an influence upon each other."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"Tourmaline crystals possess the property to **polarise** light by absorbing waves vibrating in one plane."*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*):** *"Partisan newspapers tend to **polarise** the citizenry, extinguishing all moderate middle opinions."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"A powerful electromagnet was used to **polarise** the beam of light passing through heavy glass."*

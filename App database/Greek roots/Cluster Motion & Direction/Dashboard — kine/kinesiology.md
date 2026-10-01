@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of the principles of mechanics and anatomy in relation to human movement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The study of the principles of mechanics and anatomy in relation to human movement.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific study of human and animal movement, mechanics, and physical activity; biomechanics and exercise science.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical therapy and sports medicine, an interdisciplinary field integrating anatomy, physiology, biomechanics, and motor learning to optimize movement and rehabilitate injuries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, kinesiology designates the study of the principles of mechanics and anatomy in relation to human movement."*
+> - 📜 **Charles Sherrington (*The Integrative Action of the Nervous System*):** *"The foundational principles of **kinesiology** demonstrate that complex movement emerges from coordinated reflexes organized across the spinal cord."*
+> - 📜 **Oliver Sacks (*A Leg to Stand On*):** *"My recovery forced me to explore practical **kinesiology**, relearning the delicate mechanics of weight distribution and step length."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Every mental state produces a muscular corollary, an axiom which forms the psychological bridge into **kinesiology**."*

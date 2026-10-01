@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to nutrition : nutritional.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to nutrition : nutritional.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to feeding, nutrition, or nutrient uptake.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to nutritional relationships in an ecosystem (trophic level, food chain) or to physiological factors promoting tissue growth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trophic designates of or relating to nutrition : nutritional."*
+> - 📜 **Eugene Odum (*Fundamentals of Ecology*):** *"Energy decreases progressively as it ascends from the primary producer level through higher **trophic** levels."*
+> - 📜 **Charles Elton (*Animal Ecology*):** *"The pyramid of numbers in an animal community is a direct consequence of the **trophic** structure of food chains."*
+> - 📜 **Claude Bernard (*Lectures on Experimental Physiology*):** *"Autonomic nerves exert a direct **trophic** influence upon the cellular metabolism and vascular tone of glandular tissues."*

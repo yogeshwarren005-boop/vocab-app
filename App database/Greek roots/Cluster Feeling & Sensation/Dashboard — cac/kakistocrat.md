@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek cac.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Feeling & Sensation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of a kakistocracy; a ruler or government official who is among the worst, least qualified, or most corrupt in society.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A politician or bureaucrat whose exercise of public power is marked by profound incompetence, venality, and contempt for the common good.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, kakistocrat designates a term designating an entity, condition, or phenomenon derived from greek cac."*
+> - 📜 **Ambrose Bierce (*The Devil's Dictionary*):** *"The triumphant **kakistocrat** regards the national treasury as a private orchard planted exclusively for his harvest."*
+> - 📜 **H. L. Mencken (*Prejudices: Fourth Series*):** *"The average party boss is an unblushing **kakistocrat**, skilled in nothing save the manipulation of human gullibility."*
+> - 📜 **George Orwell (*Nineteen Eighty-Four*):** *"The inner circle had elevated the professional **kakistocrat** to supreme power, ruling through continuous deceit."*

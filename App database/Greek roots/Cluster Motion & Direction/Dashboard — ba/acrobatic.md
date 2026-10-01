@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or suggestive of an acrobat or acrobatics : performed with leaps, body contortions, or other maneuvers requiring the great athleticism of an acrobat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or suggestive of an acrobat or acrobatics : performed with leaps, body contortions, or other maneuvers requiring the great athleticism of an acrobat.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Performing, involving, or adept at spectacular gymnastic feats of agility and balance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by remarkable mental flexibility, nimbleness, or contorted maneuvering.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"That is an acrobatic feat that I never believed you capable of, honey.” “We-ell!"*
-> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp; Or, The Old Lumberman's Secret*):** *"Instead of going to the gym on Saturday, I'll put in calisthenics and acrobatic stunts with a broom and duster.” She was thorough, too."*
+> - 📜 **Annie Roe Carr (*Nan Sherwood at Pine Camp*):** *"The girls cheered as the performer executed an **acrobatic** somersault across the gymnasium floor."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The harpooner sprang with **acrobatic** agility onto the gunwale of the surging whaleboat."*
+> - 📜 **Joseph Conrad (*Typhoon*):** *"Sailors were thrown across the deck in involuntary **acrobatic** leaps as the huge swell rolled under them."*

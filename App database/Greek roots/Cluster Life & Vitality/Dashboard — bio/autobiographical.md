@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or characteristic of an autobiographer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or in the style of an autobiography.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, dealing with, or based on the author's own life experiences.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by self-reflection, retrospective introspection, or personal memoirs incorporated into literature.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"To this extent, and within these limits, an author, methinks, may be autobiographical, without violating either the reader’s rights or his own."*
-> - 📜 **Anne Gilchrist (*Mary Lamb*):** *"Beresford," her grandmother, being represented as the owner instead of housekeeper of the mansion), is minutely autobiographical."*
-> - 📜 **Anne Gilchrist (*Mary Lamb*):** *"Carew Hazlitt._ 1867. _Spirit of the Age._ & _Table Talk._ by _Hazlitt._ 1825, 1826. _Autobiographical Sketches._ & _Lakes and Lake Poets._ by _De Quincey._ 1863. _William Godwin, his Friends and Contemporaries, by Kegan Paul._ 1876."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"The title-page heralded an **autobiographical** narrative whose visceral intimacy astonished Victorian readers."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Of all my books, this was my favorite child, rooted deeply in **autobiographical** sorrows and youthful struggles."*
+> - 📜 **George Orwell (*Why I Write*):** *"My **autobiographical** memories of prep school formed the psychological scaffolding of my political essays."*

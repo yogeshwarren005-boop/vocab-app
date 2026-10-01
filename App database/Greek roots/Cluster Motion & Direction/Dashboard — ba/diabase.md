@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: diorite.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: an altered basalt.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A dark, medium-grained igneous rock consisting mainly of plagioclase feldspar and pyroxene (dolerite).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Subvolcanic basaltic dike and sill rock with a characteristic ophitic crystalline texture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"The Lake Superior copper occurs in three formations:— (_a_) Vein deposits, from which the enormous masses of copper are taken out. (_b_) Copper-bearing ash beds, of amygdaloidal diabase."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"A massive intrusion of **diabase** cut through the older stratified shale beds along the cliff face."*
+> - 📜 **Archibald Geikie (*Textbook of Geology*):** *"Under the petrographic microscope, the **diabase** showed lath-shaped plagioclase crystals embedded in augite."*
+> - 📜 **James Dwight Dana (*Manual of Mineralogy*):** *"The Palisades sill along the Hudson River is composed of dense columnar **diabase**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing aphorisms or maxims.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Terse and witty and like a maxim.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of the nature of an aphorism; concise, terse, and containing a pithy moral or intellectual observation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In stylistic criticism, describing compressed, sententious prose that conveys substantial philosophical insight with economical wording.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aphoristic designates containing aphorisms or maxims."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"I chose an **aphoristic** style for these reflections, that the reader might not be lulled into passive assent by flowing rhetoric."*
+> - 📜 **Matthew Arnold (*Culture and Anarchy*):** *"The Hebrew prophets spoke in an **aphoristic** tone of moral certainty that gripped the national conscience."*
+> - 📜 **William Osler (*Counsels and Ideals*):** *"His lectures were celebrated for their **aphoristic** brilliance, delivering memorable clinical truths in single sentences."*

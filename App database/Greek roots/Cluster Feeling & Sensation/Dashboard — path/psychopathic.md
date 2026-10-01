@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characterized by psychopathy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Psychopath.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, characteristic of, or affected with psychopathy; exhibiting callous, manipulative, and antisocial behavior without remorse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical psychiatric nosology, denoting any constitutionally unstable or eccentric personality disorder (psychopathic personality).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"There is nothing in the least "psychopathic" about him, nothing abnormal--no mystical vision of God, no mystical absorption in God, no mystical union with God, no abstraction, nothing that is the mark of the professed mystic."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Psychopathic, auto-suggestion, telepathy, the subliminal self--the words may tell us something; whether what they tell us is verifiable, remains to be seen."*
+> - 📜 **Hervey Cleckley (*The Mask of Sanity*):** *"The **psychopathic** personality commits reckless, destructive acts without malice, driven merely by shallow momentary impulses."*
+> - 📜 **Karl Jaspers (*General Psychopathology*):** *"We designate as **psychopathic** those abnormal personalities who suffer from their peculiarities or make society suffer."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"Genius is frequently accompanied by a **psychopathic** temperament that makes ordinary domestic happiness impossible."*

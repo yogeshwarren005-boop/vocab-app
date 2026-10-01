@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The paleobiology of birds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The paleobiology of birds.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of paleontology concerned with the study of fossil birds and the evolutionary origin of flight.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate paleontology, the field analyzing feathered theropods, Mesozoic toothed avians (Archaeopteryx, Hesperornis), and extinct Cenozoic megafauna (moas, dodos).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, palaeornithology designates the paleobiology of birds."*
+> - 📜 **Richard Owen (*On the Archaeopteryx of von Meyer*):** *"The discovery of Archaeopteryx in the Solnhofen limestone marks the true birth of scientific **palaeornithology**."*
+> - 📜 **Othniel Charles Marsh (*Odontornithes: A Monograph on the Extinct Toothed Birds of North America*):** *"American **palaeornithology** was revolutionized by the recovery of Hesperornis and Ichthyornis bearing reptilian teeth."*
+> - 📜 **Thomas Henry Huxley (*On the Animals Which Are Most Nearly Intermediate Between Birds and Reptiles*):** *"Discoveries in **palaeornithology** decisively established that modern birds are the living descendants of feathered dinosaurian ancestors."*

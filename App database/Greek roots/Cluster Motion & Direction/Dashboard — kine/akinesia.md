@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek kine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Motion & Direction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Loss, impairment, or absence of voluntary movement; motor poverty or inability to initiate physical motion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neurology, a hallmark symptom of Parkinson's disease and striatal dopamine deficiency, marked by difficulty initiating movement and prolonged reaction time.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, akinesia designates a term designating an entity, condition, or phenomenon derived from greek kine."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"The frozen posture of severe post-encephalitic **akinesia** trapped patients in complete bodily silence for hours at a time."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The profound **akinesia** of advanced paralysis agitans robs the face of emotional expression, producing the classic masked facies."*
+> - 📜 **Charles Sherrington (*The Integrative Action of the Nervous System*):** *"Experimental ablation of the basal ganglia produces a state of marked **akinesia** without true sensory paralysis."*

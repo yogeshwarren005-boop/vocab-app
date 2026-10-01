@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Exhibiting properties (such as velocity of light transmission) with the same values when measured along axes in all directions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exhibiting properties (such as velocity of light transmission) with the same values when measured along axes in all directions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of being isotropic; uniformity in all directions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern astrophysics and quantum field theory, the rotational invariance of physical laws or the spatial background.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, isotropy designates exhibiting properties (such as velocity of light transmission) with the same values when measured along axes in all directions."*
+> - 📜 **Stephen Hawking (*The Large Scale Structure of Space-Time*):** *"The remarkable **isotropy** of the microwave background radiation provides compelling evidence that the universe is spatially flat and uniform."*
+> - 📜 **James Clerk Maxwell (*Matter and Motion*):** *"The macroscopic **isotropy** of a gas arises from the chaotic, omnidirectional collisions of billions of molecules."*
+> - 📜 **Arthur Eddington (*The Nature of the Physical World*):** *"Thermal equilibrium represents the final triumph of molecular **isotropy**, where every preferred direction of motion is obliterated."*

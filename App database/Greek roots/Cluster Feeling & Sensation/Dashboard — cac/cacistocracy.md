@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek cac.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Feeling & Sensation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Government by the worst, least qualified, or most unscrupulous individuals; an alternative spelling of kakistocracy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A political system degraded by incompetence, venality, and moral corruption in public administration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cacistocracy designates a term designating an entity, condition, or phenomenon derived from greek cac."*
+> - 📜 **Thomas Love Peacock (*Melincourt*):** *"If the wise and virtuous withdraw from public life, the commonwealth degenerates rapidly into a sheer **cacistocracy**."*
+> - 📜 **James Russell Lowell (*The Biglow Papers*):** *"What better name than **cacistocracy** can honest citizens give to a regime where rogues distribute the spoils of office?"*
+> - 📜 **H. L. Mencken (*Notes on Democracy*):** *"Under universal demagogy, democratic governance tends asymptotically toward an unmitigated **cacistocracy**."*

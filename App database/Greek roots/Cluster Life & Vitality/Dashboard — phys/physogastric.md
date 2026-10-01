@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of nature.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of nature.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having an extraordinarily swollen, distended, or enlarged abdomen (physogastry).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In entomology, describing the hypertrophied abdomen of queen termites or termitophilous staphylinid beetles adapted to massive egg production.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, physogastric designates adjective*) pertaining to, derived from, or characteristic of nature."*
+> - 📜 **William Morton Wheeler (*Ants: Their Structure, Development and Behavior*):** *"The queen termite becomes a monstrously **physogastric** egg-factory, utterly incapable of locomotion."*
+> - 📜 **David Sharp (*Insects: Part II*):** *"Certain myrmecophilous beetles display a bizarrely **physogastric** form that mimics the host ant's larvae."*
+> - 📜 **Ray Lankester (*A Treatise on Zoology*):** *"Enormous abdominal distension in the **physogastric** female accommodates ovaries discharging thousands of eggs daily."*

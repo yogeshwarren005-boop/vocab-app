@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek physalid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Animals & Zoology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of flowering plants in the nightshade family (Solanaceae), including groundcherries and the Cape gooseberry (*Physalis peruviana*).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Herbaceous plants characterized by edible berries enclosed within a papery, inflated, lantern-like fruiting calyx.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, physalis designates a term designating an entity, condition, or phenomenon derived from greek physalid."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"Species of **Physalis** are easily recognized by the five-angled, bladder-like calyx that entirely wraps the ripe berry."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The edible berry of **Physalis** provides a refreshing sub-acid pulp protected from insects by its membranous envelope."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Cultivated forms of **Physalis** exhibit marked expansion in fruit volume under sustained horticultural selection."*

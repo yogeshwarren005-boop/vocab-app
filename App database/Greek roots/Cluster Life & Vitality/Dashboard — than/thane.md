@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A feudal lord or baron.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A man ranking above an ordinary freeman and below a noble in anglo-saxon england (especially one who gave military service in exchange for land).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A man who held land granted by the king or by a nobleman in Anglo-Saxon and early medieval Scottish history, ranking between an ordinary freeman and a hereditary earl.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A feudal lord, military retainer, or baron in medieval Scotland, famously immortalized in Shakespeare's *Macbeth*.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Whence cam’st thou, worthy thane?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No more that Thane of Cawdor shall deceive Our bosom interest."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"All hail, Macbeth! hail to thee, Thane of Glamis!"*
+> - 📜 **William Shakespeare (*Macbeth*):** *"All hail, Macbeth! hail to thee, **thane** of Glamis! All hail, Macbeth! hail to thee, **thane** of Cawdor! All hail, Macbeth, that shalt be king hereafter!"*
+> - 📜 **Walter Scott (*The Fair Maid of Perth*):** *"The proud Scottish **thane** rode down from his Highland fastness with a retinue of armed clansmen."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The Saxon **thane** enjoyed extensive territorial rights, presiding over local hundred courts before the Norman conquest."*

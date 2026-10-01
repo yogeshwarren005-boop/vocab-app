@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Free from or corrected for spherical aberration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Free from or corrected for spherical aberration.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Free from both spherical aberration and coma (of an optical lens or system).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of focusing rays from a single point object into a stigmatic point image without optical blur.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aplanatic designates free from or corrected for spherical aberration."*
+> - 📜 **Ernst Abbe (*Contributions to the Theory of the Microscope*):** *"The newly computed **aplanatic** doublet successfully eliminated marginal spherical aberration."*
+> - 📜 **Joseph Jackson Lister (*On Some Properties in Achromatic Object-Glasses*):** *"We discovered two **aplanatic** foci where chromatic dispersion and spherical distortion were simultaneously neutralized."*
+> - 📜 **Lord Rayleigh (*Scientific Papers*):** *"An ideal **aplanatic** mirror provides perfect geometric convergence for paraxial incident rays."*

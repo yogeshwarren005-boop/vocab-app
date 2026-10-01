@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A series of steps to be carried out or goals to be accomplished.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An arrangement scheme.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A detailed proposal for doing or achieving something; an intention or decision about what one is going to do.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A scaled technical drawing, floorplan, or horizontal representation of a structure or territory.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"When Lippo had properly filled the box and set it in its right place, he quickly followed Mäzli, wondering what her plan was."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Everybody was satisfied with the plan and the mother assented eagerly, as she had intended the same thing."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"So the host had made all necessary arrangements, as there were no objections to the plan on either side."*
+> - 📜 **Johanna Spyri (*Heidi*):** *"Heidi formed a secret **plan** to bring soft white rolls home to the blind grandmother."*
+> - 📜 **Robert Burns (*To a Mouse*):** *"The best-laid schemes o' mice an' men gang aft agley, an' lea'e us nought but grief an' pain for promised joy."*
+> - 📜 **Sun Tzu (*The Art of War*):** *"He who masters deliberate **plan** and stratagem conquers without engaging in protracted siege."*

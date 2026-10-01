@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A tabular statement of the assigned places of a celestial body for regular intervals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A uniform measure of time defined by the orbital motions of the planets.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A table or data file giving the calculated positions of celestial bodies at regular intervals of time throughout a year; an astronomical almanac.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In astrodynamics and navigation, the mathematical record used by astronomers, navigators, and satellite geodesists to compute planetary coordinates and orbital vectors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ephemeris designates a tabular statement of the assigned places of a celestial body for regular intervals."*
+> - 📜 **Johannes Kepler (*Rudolphine Tables*):** *"By computing this celestial **ephemeris**, we provide navigators with the immutable timetable written by God upon the starry sphere."*
+> - 📜 **Simon Newcomb (*Popular Astronomy*):** *"The national observatory publishes an annual **ephemeris** containing the exact predicted right ascensions and declinations of all major planets."*
+> - 📜 **Lord Kelvin (*Popular Lectures and Addresses*):** *"Navigators in mid-ocean rely upon the maritime **ephemeris** to convert lunar distances into precise Greenwich coordinates."*

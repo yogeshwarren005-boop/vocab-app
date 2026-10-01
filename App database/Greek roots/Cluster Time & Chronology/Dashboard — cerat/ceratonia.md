@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Carobs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Carobs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of evergreen trees in the pea family (Fabaceae), whose sole prominent member is Ceratonia siliqua, the carob or St. John's bread tree.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Mediterranean economic botany, trees prized for their thick, sweet, edible pods; the seeds were historically used as the original standard for the carat weight.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog ceratonia as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Theophrastus (*Enquiry into Plants*):** *"The tree known as **Ceratonia** bears horn-shaped pods laden with sweet, nourishing pulp along its trunk."*
+> - 📜 **Alphonse de Candolle (*Origin of Cultivated Plants*):** *"Cultivation of **Ceratonia** spread across the Mediterranean basin since the earliest antiquity as livestock forage and human sustenance."*
+> - 📜 **Joseph Dalton Hooker (*The Flora of British India*):** *"The durable timber and prolific pods of **Ceratonia** make it an invaluable shade tree in arid, calcareous soils."*

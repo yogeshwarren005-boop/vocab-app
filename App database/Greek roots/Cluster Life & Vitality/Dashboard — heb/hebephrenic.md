@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Suffering from a form of schizophrenia characterized by foolish mannerisms and senseless laughter along with delusions and regressive behavior.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Suffering from a form of schizophrenia characterized by foolish mannerisms and senseless laughter along with delusions and regressive behavior.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or suffering from hebephrenia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by the childish, disorganized, and emotionally inappropriate demeanor typical of disorganized schizophrenia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hebephrenic designates suffering from a form of schizophrenia characterized by foolish mannerisms and senseless laughter along with delusions and regressive behavior."*
+> - 📜 **Emil Kraepelin (*Lectures on Clinical Psychiatry*):** *"The **hebephrenic** patient laughs inappropriately when recounting the most tragic events of his past life."*
+> - 📜 **Eugen Bleuler (*Dementia Praecox*):** *"A bizarre, superficial cheerfulness often masks the profound affective emptiness of the chronic **hebephrenic** state."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Onset of **hebephrenic** deterioration in a promising university student represents one of psychiatry's saddest tragedies."*

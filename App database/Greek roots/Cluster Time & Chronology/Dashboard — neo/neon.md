@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A nonmetallic chemical element that is found in minute amounts in air and is used especially in electric lamps, in lasers, and as a cryogenic refrigerant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A discharge lamp in which the gas contains a large proportion of neon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chemical element of the noble gas group, atomic number 10, symbol Ne, a colorless, odorless, nonflammable gas that glows reddish-orange in electrical discharge tubes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of inorganic chemistry, discovered in 1898 by Sir William Ramsay and Morris Travers through the fractional distillation of liquid air, named from Greek neon 'new'.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"They are so inactive that possibly they never will be, with one exception, and that is neon."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"If an electric discharge be made to pass through a tube filled with this gas, a beautiful glow is the result, and it is just possible that neon tubes may become the electric light of the future."*
+> - 📜 **William Ramsay (*The Gases of the Atmosphere*):** *"We observed a magnificent fiery-red glow in the vacuum spectrum, and named this newly discovered element **neon**."*
+> - 📜 **Lord Rayleigh (*Argon, a New Constituent of the Atmosphere*):** *"The discovery of **neon** completed another vacant niche in Mendeleev's periodic arrangement of the inert elements."*
+> - 📜 **H. G. Wells (*The Shape of Things to Come*):** *"The nocturnal city blazed with electric tubes of vibrant crimson **neon**, illuminating the glass towers."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: rabies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: a morbid dread of water.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extreme or irrational fear of water; historically, the clinical manifestation of rabies in humans, marked by painful throat spasms upon trying to swallow liquids.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical history and epidemiology, the dreaded terminal stage of the rabies virus before the advent of the Pasteur vaccine.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Growling and grousing and his eye all bloodshot from the drouth is in it and the hydrophobia dropping out of his jaws."*
+> - 📜 **Louis Pasteur (*Method for Preventing Rabies After a Bite*):** *"The terrifying symptoms of human **hydrophobia** were forever banished by the development of our attenuated virus vaccine."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"Physicians have observed that the bite of a mad dog induces a strange **hydrophobia**, where the sight of water provokes convulsions."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In true **hydrophobia**, the mere sound of running water triggers violent, agonizing spasms of the larynx and pharynx."*

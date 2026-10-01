@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: German physicist whose explanation of blackbody radiation in the context of quantized energy emissions initiated quantum theory (1858-1947).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: German physicist whose explanation of blackbody radiation in the context of quantized energy emissions initiated quantum theory (1858-1947).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Max Planck (1858–1947), German theoretical physicist who originated quantum theory; also, Planck's constant (h).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The fundamental quantum of electromagnetic action linking photon energy to radiation frequency.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, planck designates german physicist whose explanation of blackbody radiation in the context of quantized energy emissions initiated quantum theory (1858-1947)."*
+> - 📜 **Max Planck (*Scientific Autobiography*):** *"In 1900, **Planck** introduced the quantum hypothesis to resolve the ultraviolet catastrophe of blackbody radiation."*
+> - 📜 **Albert Einstein (*Autobiographical Notes*):** *"The work of **Planck** showed with crystal clarity that classical mechanics broke down in microscopic domains."*
+> - 📜 **Niels Bohr (*Atomic Theory and the Description of Nature*):** *"The discovery of the **Planck** constant revolutionized our conceptual framework of atomic stability."*

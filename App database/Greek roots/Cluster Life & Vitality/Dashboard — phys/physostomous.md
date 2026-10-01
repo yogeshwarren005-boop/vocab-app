@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of nature.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of nature.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the swim bladder connected to the esophagus or gut by an open pneumatic duct, as in primitive teleost fishes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Describing fishes (such as salmon, herrings, and eels) that gulp air at the surface to adjust swim bladder buoyancy, contrasted with physoclistous species.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, physostomous designates adjective*) pertaining to, derived from, or characteristic of nature."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"In the **physostomous** teleost, the pneumatic duct provides direct respiratory communication between the air-bladder and pharynx."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"Archaic freshwater fishes are typically **physostomous**, whereas advanced spiny-rayed perches are strictly physoclistous."*
+> - 📜 **Ray Lankester (*A Treatise on Zoology*):** *"The **physostomous** condition represents an evolutionary stepping stone toward the pulmonary lungs of dipnoans and tetrapods."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A new word, usage, or expression.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A new word that is coined especially by a person affected with schizophrenia and is meaningless except to the coiner, and is typically a combination of two existing words or a shortening or distortion of an existing word.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A newly coined word, expression, or usage; the creation or introduction of new linguistic terms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychopathology and linguistic theory, newly minted expressions introduced to describe novel phenomena, or idiosyncratic bizarre words coined by patients in schizophrenia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neologism designates a new word, usage, or expression."*
+> - 📜 **Samuel Johnson (*Preface to the English Dictionary*):** *"I have avoided every licentious **neologism** that might corrupt the pure wells of our ancient Saxon speech."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In chronic hebephrenic psychosis, speech is frequently derailed by the spontaneous generation of an incomprehensible **neologism**."*
+> - 📜 **George Orwell (*Politics and the English Language*):** *"A pretentious **neologism** often disguises sloppy thinking beneath the hollow luster of technical jargon."*

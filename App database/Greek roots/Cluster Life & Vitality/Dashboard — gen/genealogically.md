@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a genealogical manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a genealogical manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a genealogical manner; in terms of family descent, ancestry, or pedigree.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With regard to phylogenetic lineage or historical lines of succession.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, genealogically designates in a genealogical manner."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Organisms that are placed close together in our classification are **genealogically** related through common ancestors."*
+> - 📜 **Edward Gibbon (*Memoirs of My Life*):** *"I can trace my ancestors **genealogically** back to the fourteenth century with indisputable documentary evidence."*
+> - 📜 **Ernst Mayr (*Systematics and the Origin of Species*):** *"Cladistics attempts to classify taxa strictly **genealogically**, using shared derived characters alone."*

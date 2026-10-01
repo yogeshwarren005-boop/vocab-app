@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The fluid-filled cavity of a blastula.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The fluid-filled cavity of a blastula.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The central fluid-filled cleavage cavity of a blastula, enclosed by the blastoderm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The primary body cavity of the early metazoan embryo that provides physical space for inward cell migration during gastrulation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, blastocoel designates the fluid-filled cavity of a blastula."*
+> - 📜 **Hans Spemann (*Embryonic Development and Induction*):** *"Theinvaginating mesoderm creeps along the inner roof of the **blastocoel**, establishing the primary embryonic axis."*
+> - 📜 **C. H. Waddington (*Principles of Embryology*):** *"Expansion of the **blastocoel** is driven by active sodium transport accompanied by osmotic water influx."*
+> - 📜 **Ernst Mayr (*The Growth of Biological Thought*):** *"Comparative embryologists recognized the **blastocoel** as a universal developmental stage shared across bilateria."*

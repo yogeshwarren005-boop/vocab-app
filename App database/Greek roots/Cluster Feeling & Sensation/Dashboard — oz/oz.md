@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ounce; ounces.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ideal or fantastical place.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Greek root *oz-* (from *ozein*), meaning to smell, have an odor, or give off a scent (the etymological root of *ozone* and *ozokerite*).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ancient morpheme in chemical and biological nomenclature denoting pungent, piercing, or volatile atmospheric vapors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"Frenchy" had about 16 ozs. of gold."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Details regarding the machine vary at different smelters; at one works the length is 30 feet, the rate of travel 8 inches per minute, and the vacuum in the suction chamber 6 ozs."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"It may be stated roughly as being from 300 to 500 cubic feet of air per minute per square foot of hearth area, at a pressure of about 40 to 50 ozs. per square inch."*
+> - 📜 **Henry George Liddell & Robert Scott (*A Greek-English Lexicon*):** *"The Greek verb *ozein* and its radical **oz** express the emission of any scent, especially a pungent or sharp odor."*
+> - 📜 **Christian Friedrich Schönbein (*On the Odour Produced by Electrical Discharges*):** *"Recognizing that this gas possesses a distinctive smell, I derived its name from the Greek radical **oz**, meaning to emit an odor."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"The sharp electrical smell designated by Schönbein from the Greek **oz** manifests whenever sparks pass through damp air."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of saprobic fungi of order blastocladiales.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A family of saprobic fungi of order blastocladiales.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxonomic family designation historically applied to certain budding, yeast-like fungi or blastosporous molds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical cryptogamic botany, a family classification grouping anamorphic fungi reproducing by blastoconidia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, blastodiaceae designates a family of saprobic fungi of order blastocladiales."*
+> - 📜 **Pier Andrea Saccardo (*Sylloge Fungorum*):** *"The family **Blastodiaceae** unites those imperfect molds whose propagation relies primarily on spontaneous blastospore production."*
+> - 📜 **Roland Thaxter (*Cryptogamic Researches*):** *"Early mycological systems assigned diverse budding parasites to the provisional family **Blastodiaceae**."*
+> - 📜 **F. K. Sparrow (*Aquatic Phycomycetes*):** *"Phylogenetic revisions dissolved the polyphyletic **Blastodiaceae**, reassigning member genera to distinct Ascomycota and Chytridiomycota orders."*

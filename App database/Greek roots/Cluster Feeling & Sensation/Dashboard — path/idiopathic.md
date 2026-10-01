@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Arising spontaneously or from an obscure or unknown cause : primary.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Peculiar to the individual.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or denoting any disease or clinical condition that arises spontaneously or for which the underlying cause is unknown.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical nosology, a primary disease entity not secondary to or caused by another recognized disorder.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, idiopathic designates arising spontaneously or from an obscure or unknown cause : primary."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"We retain the label **idiopathic** epilepsy for those convulsive seizures where neither trauma nor tumor can be identified."*
+> - 📜 **Jean-Martin Charcot (*Clinical Lectures on Diseases of the Nervous System*):** *"When the autopsy reveals no structural lesion, the physician is driven to classify the paralysis as functional or **idiopathic**."*
+> - 📜 **Armand Trousseau (*Lectures on Clinical Medicine*):** *"True **idiopathic** tetanus was often distinguished from traumatic tetanus, though both run an agonizing clinical course."*

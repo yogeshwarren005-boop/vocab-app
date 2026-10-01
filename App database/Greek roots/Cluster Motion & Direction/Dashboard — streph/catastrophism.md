@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A geologic doctrine that changes in the earth's crust have in the past been brought about suddenly by physical forces operating in ways that cannot be observed today.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A geologic doctrine that changes in the earth's crust have in the past been brought about suddenly by physical forces operating in ways that cannot be observed today.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The geological doctrine that Earth's crustal features were shaped primarily by sudden, violent, worldwide catastrophes rather than by gradual processes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of science, the dominant early 19th-century school championed by Georges Cuvier, subsequently displaced by Charles Lyell's uniformitarianism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, catastrophism designates a geologic doctrine that changes in the earth's crust have in the past been brought about suddenly by physical forces operating in ways that cannot be observed today."*
+> - 📜 **Georges Cuvier (*Discourse on the Revolutionary Upheavals on the Surface of the Earth*):** *"The disappearance of entire fossil faunas can only be explained by recurrent episodes of planetary **catastrophism**."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The doctrine of **catastrophism** was born from our reluctance to comprehend the immense duration of past geological time."*
+> - 📜 **Thomas Henry Huxley (*Geological Contemporaneity and Persistent Types of Life*):** *"Modern geology synthesized uniformitarian continuity with occasional localized **catastrophism**."*

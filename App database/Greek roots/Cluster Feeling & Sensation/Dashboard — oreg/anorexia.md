@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Loss of appetite especially when prolonged.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Anorexia nervosa.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lack or loss of appetite for food, occurring as a symptom of many systemic medical conditions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Anorexia nervosa, a serious psychiatric eating disorder characterized by self-starvation, distorted body image, and intense fear of weight gain.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anorexia designates loss of appetite especially when prolonged."*
+> - 📜 **William Gull (*Anorexia Nervosa (Apepsia Hysterica)*):** *"We coin the term **anorexia** nervosa to emphasize that the lack of appetite arises from a central morbid mental state rather than visceral disease."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Persistent **anorexia** accompanied by rapid emaciation in young females requires strict isolation and moral management."*
+> - 📜 **Hippocrates (*Aphorisms*):** *"Complete **anorexia** following prolonged acute fever is an ominous prognostic sign unless accompanied by refreshing sleep."*

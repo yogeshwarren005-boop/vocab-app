@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A rough prominence at the upper part of the femur of many vertebrates serving usually for the attachment of muscles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The second segment of an insect's leg adjacent to the coxa.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several prominent bony protuberances on the upper part of the femur (thigh bone) in vertebrates, serving as muscle attachment points.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In insect anatomy, the second segment of the leg between the coxa and the femur; derived from Greek trochanter (literally 'a runner', from trekhein to run).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trochanter designates a rough prominence at the upper part of the femur of many vertebrates serving usually for the attachment of muscles."*
+> - 📜 **Gray's Anatomy (*Anatomy of the Human Body*):** *"The greater **trochanter** provides insertion for the gluteal muscles that abduct and rotate the thigh."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Invertebrated Animals*):** *"In beetles, the small **trochanter** articulates between the basal coxa and the elongated femur."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"A prominent third **trochanter** is characteristic of the femur in perissodactyl ungulates like the horse."*

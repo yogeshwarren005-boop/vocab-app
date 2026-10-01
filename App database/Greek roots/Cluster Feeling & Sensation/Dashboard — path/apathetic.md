@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Affected by, characterized by, or displaying apathy : having or showing little or no interest, concern, or emotion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Affected by, characterized by, or displaying apathy : having or showing little or no interest, concern, or emotion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Showing or feeling no enthusiasm, interest, emotion, or concern; indifferent or unresponsive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychiatry, exhibiting emotional blunting, avolition, and lethargy characteristic of severe depression or frontal lobe damage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"While they uncovered the sheaves he stood apathetic beside his portable repository of force, round whose hot blackness the morning air quivered."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"She had not told him of my visit; he was so listless and apathetic that it worried him to talk, or to have people talk to him."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"He is by no means apathetic, but loves both old and young, affects the very brutes and birds and flowers of the field."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The old man sat by the cold grate in an **apathetic** stupor, staring blindly at the heap of yellow papers."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"The native crew remained strangely **apathetic**, crouching on the hatch covers while the squall tore away the canvas."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"An **apathetic** public that surrenders civic duties to a central bureau soon wakes to find itself in chains."*

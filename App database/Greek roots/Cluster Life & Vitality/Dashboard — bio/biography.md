@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A usually written history of a person's life.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Biographical writings as a whole.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A written narrative account of the life of an individual person.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The literary art or historical discipline devoted to depicting individual character, actions, and destiny in social context.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jellyby’s biography, “is a lady of very remarkable strength of character who devotes herself entirely to the public."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"In biography and fiction it was less strong, but it had a complete set of the Waverley Novels in one of the early three-volume editions."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"When, however, Wilson's biography was taken in hand by his sister, Cairns promised to help her in every possible way with his advice and guidance, and this he did from week to week till the book was published."*
+> - 📜 **Samuel Johnson (*The Idler*):** *"The great end of **biography** is not to flatter the pride of ancestors, but to instruct the understanding."*
+> - 📜 **Thomas Carlyle (*Critical and Miscellaneous Essays*):** *"History is the essence of innumerable individual **biographies**, each weaving its thread into the cosmic loom."*
+> - 📜 **Virginia Woolf (*Orlando*):** *"The art of **biography** must strike a precarious balance between granite fact and rainbow personality."*

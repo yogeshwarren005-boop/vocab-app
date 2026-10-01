@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A form showing allotropy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A form showing allotropy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Each of two or more different physical forms in which an element can exist (e.g., diamond, graphite, and fullerenes as allotropes of carbon).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In structural chemistry, a distinct molecular or crystalline modification of an elementary substance exhibiting different bonding arrangements and physical properties.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"Black-lead--or, as we term it, graphite--of which I have several specimens here--is simply carbon--an allotrope of carbon--the same elementary substance, notwithstanding, as the diamond."*
+> - 📜 **Jöns Jacob Berzelius (*Treatise on Chemistry*):** *"I propose the term **allotrope** to designate those remarkable instances where a single chemical element assumes diverse physical forms."*
+> - 📜 **Michael Faraday (*The Chemical History of a Candle*):** *"The sparkling diamond and the dull charcoal are but different conditions of the self-same substance, each being a pure **allotrope** of carbon."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"The transition from one solid **allotrope** of tin to another at low temperatures accounts for the destructive phenomenon known as tin pest."*

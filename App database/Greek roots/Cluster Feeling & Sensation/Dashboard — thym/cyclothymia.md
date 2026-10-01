@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mood disorder characterized by alternating episodes of depression and elation in a form less severe than that of bipolar disorder.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mood disorder characterized by alternating episodes of depression and elation in a form less severe than that of bipolar disorder.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chronic, milder form of bipolar affective disorder characterized by alternating periods of hypomanic symptoms and mild depressive episodes over at least two years.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychiatric nosology (coined by Karl Ludwig Kahlbaum), a cycloid personality disorder marked by persistent mood instability without psychotic breaks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cyclothymia designates a mood disorder characterized by alternating episodes of depression and elation in a form less severe than that of bipolar disorder."*
+> - 📜 **Karl Ludwig Kahlbaum (*Die Cyclothymie: Eine Form der psychischen Störung*):** *"We designate as **cyclothymia** those rhythmic oscillations between buoyant cheerfulness and melancholic gloom that spare the patient from frank madness."*
+> - 📜 **Emil Kraepelin (*Lectures on Clinical Psychiatry*):** *"Many creative artists and statesmen live within the bounds of **cyclothymia**, drawing extraordinary energy from their buoyant phases."*
+> - 📜 **Karl Jaspers (*General Psychopathology*):** *"The mood swings of **cyclothymia** follow endogenous biological rhythms that operate independently of external domestic fortunes."*

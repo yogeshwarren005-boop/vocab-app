@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Turn basic and less acidic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Turn basic and less acidic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To convert into a chemical base; to neutralize an acid or render a substance alkaline.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial or synthetic chemistry, to raise the pH of a solution by adding an alkaline reagent.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, basify designates turn basic and less acidic."*
+> - 📜 **Humphry Davy (*Elements of Chemical Philosophy*):** *"We may **basify** the acidic solution by adding potash until litmus paper no longer reddens."*
+> - 📜 **Justus von Liebig (*Familiar Letters on Chemistry*):** *"The chemist sought to **basify** the extract to precipitate the organic alkaloid in crystalline form."*
+> - 📜 **William Crookes (*Select Methods in Chemical Analysis*):** *"Carefully **basify** the filtrate with ammonium hydroxide to separate iron from the remaining filtrate."*

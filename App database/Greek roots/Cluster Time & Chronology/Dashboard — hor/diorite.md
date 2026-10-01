@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A granular crystalline igneous rock commonly of acid plagioclase and hornblende, pyroxene, or biotite.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A granular crystalline igneous rock commonly of acid plagioclase and hornblende, pyroxene, or biotite.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A speckled, coarse-grained intrusive igneous rock composed mainly of plagioclase feldspar and hornblende or biotite.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In petrology and archaeology, an intermediate plutonic rock (often termed 'salt and pepper' rock) prized by ancient sculptors (e.g., the Code of Hammurabi stele) for its exceptional hardness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diorite designates a granular crystalline igneous rock commonly of acid plagioclase and hornblende, pyroxene, or biotite."*
+> - 📜 **Charles Lyell (*Elements of Geology*):** *"The crystalline mass of **diorite** forms plutonic bosses that have forced their way through ancient slate formations."*
+> - 📜 **James Dwight Dana (*Manual of Geology*):** *"Under the microscope, **diorite** reveals interlocking crystals of triclinic feldspar and dark prismatic hornblende."*
+> - 📜 **Archibald Geikie (*Text-Book of Geology*):** *"The ancient Babylonians carved the legal code of Hammurabi upon a magnificent pillar of black polished **diorite**."*

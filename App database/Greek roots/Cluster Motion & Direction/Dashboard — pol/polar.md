@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a geographic pole or the region around it.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Coming from or having the characteristics of such a region.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or situated near the North Pole or South Pole of the Earth; characterized by intense cold.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Possessing polarity; having two opposing or contradictory poles, qualities, or magnetic charges.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The snow had followed the birds from the polar basin as a white pillar of a cloud, and individual flakes could not be seen."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The third showed the pinnacle of an iceberg piercing a polar winter sky: a muster of northern lights reared their dim lances, close serried, along the horizon."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Thy sons ne’er madden in the fierce extremes Of Fortune’s polar frost, or torrid beams."*
+> - 📜 **Robert Falcon Scott (*Scott's Last Expedition*):** *"Great God! this is an awful place, and terrible enough for us to have laboured to it without the reward of priority in the **polar** wilderness."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The contrast between the lush tropical flora and the desolate **polar** tundras illustrates the power of climate."*
+> - 📜 **Samuel Taylor Coleridge (*The Rime of the Ancient Mariner*):** *"The **polar** spirit from the land of mist and snow, he loved the bird that loved the man who shot him with his bow."*

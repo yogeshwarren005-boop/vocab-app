@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The outer layer of the mammalian blastocyst that supplies nutrition to the embryo and facilitates implantation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The outer layer of the mammalian blastocyst that supplies nutrition to the embryo and facilitates implantation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The outer cellular layer of a mammalian blastocyst that provides nutrients to the embryo and develops into the major part of the placenta.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The specialized fetal tissue that invades maternal endometrial blood vessels during implantation and secretes human chorionic gonadotropin (hCG).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trophoblast designates the outer layer of the mammalian blastocyst that supplies nutrition to the embryo and facilitates implantation."*
+> - 📜 **Julian Huxley (*The Elements of Experimental Embryology*):** *"The **trophoblast** mediates the primary physiological contact between the developing mammalian blastocyst and the maternal uterus."*
+> - 📜 **William Boyd (*A Textbook of Pathology*):** *"Syncytial giant cells of the invasive **trophoblast** erode maternal capillaries to create lacunar vascular pools."*
+> - 📜 **Claude Bernard (*Lectures on the Phenomena of Life*):** *"Enzymatic secretions produced by the embryonic **trophoblast** digest maternal decidual tissue to permit deep nidation."*

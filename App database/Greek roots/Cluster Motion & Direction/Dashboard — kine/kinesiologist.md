@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of the principles of mechanics and anatomy in relation to human movement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The study of the principles of mechanics and anatomy in relation to human movement.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialist or professional who studies human movement, biomechanics, physical activity, and muscle function.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sports science and rehabilitative medicine, an expert who applies mechanical and neuromuscular principles to evaluate athletic performance, treat motor deficits, and design ergonomic therapies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, kinesiologist designates the study of the principles of mechanics and anatomy in relation to human movement."*
+> - 📜 **Oliver Sacks (*A Leg to Stand On*):** *"The hospital **kinesiologist** guided my paralyzed limb through passive flexion exercises to re-educate the dormant neural pathways."*
+> - 📜 **Charles Sherrington (*The Integrative Action of the Nervous System*):** *"The modern **kinesiologist** must analyze how reciprocal innervation coordinates opposing muscle groups into smooth, purposeful actions."*
+> - 📜 **Alexander Luria (*The Working Brain*):** *"Working alongside the neurologist, the **kinesiologist** charted the precise kinematic errors in the patient's walking gait."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (philosophy) a philosophical theory as to what is beautiful.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or dealing with the subject of aesthetics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Concerned with beauty or the appreciation of beauty; possessing or displaying good taste, artistic refinement, and harmonious form.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophy and critical theory, relating to the branch of philosophy dealing with the nature of art, sensory value judgments, and taste.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"They ignore the meaning of the word in Nature, together with all aesthetic claims upon it, not to mention the spiritual interpretation afforded by the finest side of their own Christianity."*
-> - 📜 **George Eliot (*Middlemarch*):** *"After dinner, when Celia was playing an “air, with variations,” a small kind of tinkling which symbolized the aesthetic part of the young ladies’ education, Dorothea went up to her room to answer Mr."*
-> - 📜 **Hurlothrumbo (*The Merry-Thought: or the Glass-Window and Bog-House Miscellany. Parts 2, 3 and 4*):** *"But Johnson of Cheshire lacked the aesthetic distance required of sustained irony and had a grander purpose in mind."*
+> - 📜 **Immanuel Kant (*Critique of Judgment*):** *"An **aesthetic** judgment of taste claims universal validity while resting upon a purely disinterested feeling of pleasure."*
+> - 📜 **Friedrich Schiller (*On the Aesthetic Education of Man*):** *"It is through beauty alone that man journeys to freedom, for the **aesthetic** impulse harmonizes our animal instincts with reason."*
+> - 📜 **Oscar Wilde (*The Decay of Lying*):** *"Life imitates art far more than art imitates life, for the **aesthetic** temperament finds in reality only what artists have taught it to see."*

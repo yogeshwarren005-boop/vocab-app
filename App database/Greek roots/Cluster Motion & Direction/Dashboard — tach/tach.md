@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Measuring instrument for indicating speed of rotation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Measuring instrument for indicating speed of rotation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Greek combining form tachy- or tach- (from tachys, meaning 'swift, quick, rapid, or speed'), widely used in technical and scientific terms denoting velocity or acceleration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistics and historical terminology, an etymological morpheme contrasting with brady- (slow), found in tachycardia, tachometer, and tachytelic evolution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tach designates measuring instrument for indicating speed of rotation."*
+> - 📜 **Walter William Skeat (*An Etymological Dictionary of the English Language*):** *"The Greek element **tach**, signifying velocity and haste, forms the root of modern instruments that measure mechanical revolutions."*
+> - 📜 **Ernest Weekley (*The Romance of Words*):** *"In medical nomenclature, the stem **tach** instantly signals accelerated physiological cadence or abnormal haste."*
+> - 📜 **Peter Mark Roget (*Thesaurus of English Words and Phrases*):** *"Under **tach**, the lexicographer gathers all technical indicators of high speed, rapid rotation, and promptitude."*

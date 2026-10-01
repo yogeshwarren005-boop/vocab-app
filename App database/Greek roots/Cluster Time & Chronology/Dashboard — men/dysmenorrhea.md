@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Painful menstruation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Painful menstruation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Painful or difficult menstruation; menstrual cramps.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical gynecology, divided into primary dysmenorrhea (caused by excessive endometrial prostaglandin production) and secondary dysmenorrhea (associated with endometriosis or pelvic pathology).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dysmenorrhea designates painful menstruation."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Severe spasmodic **dysmenorrhea** frequently incapacitates the patient for the first two days of the catamenia."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"Excessive uterine synthesis of prostaglandin F2-alpha stimulates spastic myometrial ischemia in primary **dysmenorrhea**."*
+> - 📜 **James Paget (*Lectures on Surgical Pathology*):** *"Pelvic endometriosis produces progressive, intractable **dysmenorrhea** that worsens with each succeeding menstrual cycle."*

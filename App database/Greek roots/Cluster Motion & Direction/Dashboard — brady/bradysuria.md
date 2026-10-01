@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek brady.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Motion & Direction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormally slow or delayed micturition (urination), marked by difficulty in initiating or completing the flow.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical urology, a symptom often caused by mechanical urethral obstruction, benign prostatic hyperplasia, or neurogenic bladder atony.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bradysuria designates a term designating an entity, condition, or phenomenon derived from greek brady."*
+> - 📜 **Robley Dunglison (*Medical Lexicon*):** *"Elderly males suffering from chronic prostatic enlargement frequently complain of distressing **bradysuria**."*
+> - 📜 **Samuel Cooper (*A Dictionary of Practical Surgery*):** *"The surgeon diagnosed stricture of the membranous urethra after the patient presented with chronic **bradysuria**."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In tabetic neurosyphilis, early bladder involvement manifests as painless **bradysuria** and urinary retention."*

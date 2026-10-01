@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek treph.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Life & Vitality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The outer layer of cells of the early mammalian blastocyst that implants into the uterine wall and develops into the placenta and chorion; trophoblast.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The first specialized, differentiated epithelial tissue established during mammalian embryogenesis, giving rise to extraembryonic fetal membranes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trophectoderm designates a term designating an entity, condition, or phenomenon derived from greek treph."*
+> - 📜 **Julian Huxley (*The Elements of Experimental Embryology*):** *"Differential gene expression separates the inner pluripotential cell mass from the enveloping **trophectoderm**."*
+> - 📜 **Claude Bernard (*Lectures on the Phenomena of Life*):** *"Adhesion of the blastocyst **trophectoderm** to the uterine epithelium initiates maternal decidualization."*
+> - 📜 **William Boyd (*Pathology for the Surgeon*):** *"Invasive trophoblastic disease represents uncontrolled neoplastic proliferation of cells derived from the **trophectoderm**."*

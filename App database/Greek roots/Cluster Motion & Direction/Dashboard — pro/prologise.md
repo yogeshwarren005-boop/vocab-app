@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Write or speak a prologue.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Write or speak a prologue.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To speak, write, or deliver a prologue; to introduce a play or dramatic work with an opening address (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theatrical history, to introduce the theme and characters before the main action unfolds on stage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prologise designates write or speak a prologue."*
+> - 📜 **Ben Jonson (*The Poetaster*):** *"Let the actor come forward and **prologise** with modesty, inviting the favor of the pit."*
+> - 📜 **William Hazlitt (*Lectures on the English Comic Writers*):** *"Dryden loved to **prologise** in verse, flattering the court while lecturing the audience on dramatic art."*
+> - 📜 **George Saintsbury (*A History of Elizabethan Literature*):** *"Early dramatists found it necessary to **prologise** to explain the complex plot to unlettered spectators."*

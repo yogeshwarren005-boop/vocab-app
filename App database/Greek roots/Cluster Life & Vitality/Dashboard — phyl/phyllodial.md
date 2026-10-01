@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a phyllode.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a phyllode.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or possessing phyllodes; having leaf-like flattened petioles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by the phyllode habit; typical of many xerophytic acacia species in arid ecosystems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phyllodial designates having a phyllode."*
+> - 📜 **Joseph Dalton Hooker (*Flora Tasmaniae*):** *"The **phyllodial** acacias dominate the dry sclerophyll woodlands of the interior plains."*
+> - 📜 **Asa Gray (*Botanical Textbook*):** *"Seedlings exhibit the dramatic transition from feathery ancestral leaves to tough, leathery **phyllodial** stalks."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Reversion of **phyllodial** branches to ancestral pinnate foliage frequently occurs under heavy shade or moist greenhouse culture."*

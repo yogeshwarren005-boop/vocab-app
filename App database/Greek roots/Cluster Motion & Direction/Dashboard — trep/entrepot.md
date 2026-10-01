@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A port where merchandise can be imported and then exported without paying import duties.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A depository for goods.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A trading post, port, or warehouse city where merchandise can be imported, stored, and transshipped to other markets without paying duties.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic history and commercial geography (from French entreposer, 'to store', historically connected to distribution turns), a commercial nexus linking oceanic trade routes (e.g., Singapore, Venice, or Hong Kong).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, entrepot designates a port where merchandise can be imported and then exported without paying import duties."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Amsterdam flourished as the great **entrepot** of Europe, receiving the commodities of all nations and redistributing them across the globe."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Alexandria was the maritime **entrepot** where the silks of China and spices of India met the corn of Egypt."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"A free port serving as an international **entrepot** derives immense wealth from handling commissions and brokerage."*

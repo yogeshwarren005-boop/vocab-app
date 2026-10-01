@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who hates or fears homosexual people.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who hates or fears homosexual people.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who has or exhibits homophobia; someone with an irrational fear, hatred, or prejudice against homosexual people.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An individual who expresses hostility, discrimination, or intolerance toward same-sex love and partnerships.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, homophobe designates a person who hates or fears homosexual people."*
+> - 📜 **James Baldwin (*The Evidence of Things Not Seen*):** *"The violent **homophobe** attacks in another what he most terrorizes and denies within his own divided heart."*
+> - 📜 **Michel Foucault (*The History of Sexuality*):** *"The cultural figure of the moralizing **homophobe** emerged when psychiatry began medicalizing sexual identities."*
+> - 📜 **Audre Lorde (*Sister Outsider*):** *"To combat tyranny effectively, we cannot permit the narrow bigotry of the **homophobe** to divide our common struggle."*

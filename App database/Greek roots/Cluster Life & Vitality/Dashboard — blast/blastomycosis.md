@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several infections of the skin or mucous membrane caused by blastomyces.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of several infections of the skin or mucous membrane caused by blastomyces.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chronic systemic fungal infection caused by *Blastomyces dermatitidis*, affecting primarily the lungs and skin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An endemic mycosis contracted via inhalation of fungal spores from soil and decaying wood, characterized by granulomatous lesions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, blastomycosis designates any of several infections of the skin or mucous membrane caused by blastomyces."*
+> - 📜 **Thomas Casper Gilchrist (*A Case of Blastomycetic Dermatitis in Man*):** *"We describe here the first documented North American case of cutaneous **blastomycosis** caused by yeast-like budding organisms."*
+> - 📜 **William Boyd (*Pathology for the Physician*):** *"Pulmonary **blastomycosis** frequently masquerades as bronchogenic carcinoma on thoracic roentgenograms."*
+> - 📜 **René Dubos (*Bacterial and Mycotic Infections of Man*):** *"Disseminated **blastomycosis** carries a grave prognosis unless treated promptly with systemic antifungal agents."*

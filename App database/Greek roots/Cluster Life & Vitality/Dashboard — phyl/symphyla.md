@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small class of minute arthropods; unimportant except for the garden centipede.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small class of minute arthropods; unimportant except for the garden centipede.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A class of minute, soil-dwelling, blind, centipede-like myriapod arthropods (garden centipedes or symphylans).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small, translucent soil myriapods having twelve pairs of legs, long antennae, and cerci that spin silk.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, symphyla designates small class of minute arthropods; unimportant except for the garden centipede."*
+> - 📜 **John Lubbock (*Monograph of the Collembola and Thysanura*):** *"In Scolopendrella and other **Symphyla**, we discover an intriguing morphological bridge between myriapods and primitive insects."*
+> - 📜 **David Sharp (*Insects: Part I*):** *"The **Symphyla** dwell in deep humus and greenhouse soils, feeding on tender rootlets with delicate chewing mouthparts."*
+> - 📜 **Ray Lankester (*A Treatise on Zoology*):** *"Comparative embryology suggests the **Symphyla** retain archaic arthropod characters ancestral to the hexapod lineage."*

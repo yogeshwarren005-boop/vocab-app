@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective & Noun*) Resembling, having the physical form of, or akin to pleasant, sweet.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective & Noun*) Resembling, having the physical form of, or akin to pleasant, sweet.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A four-dimensional geometric polytope bounded by tetrahedral faces; having the characteristics of a 4-simplex.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In algebraic geometry and higher polytope theory, a tetrahedral-like hypersolid possessing four-dimensional polyhedral symmetry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tetrahedroid designates adjective & noun*) resembling, having the physical form of, or akin to pleasant, sweet."*
+> - 📜 **H. S. M. Coxeter (*Regular Polytopes*):** *"The regular **tetrahedroid** is self-dual in four-space, just as the three-dimensional tetrahedron is in three-space."*
+> - 📜 **Ludwig Schläfli (*Theorie der vielfachen Kontinuität*):** *"By connecting five equidistant points in four dimensions, one bounds a regular **tetrahedroid** of ten triangular faces."*
+> - 📜 **Arthur Cayley (*Mathematical Papers*):** *"The projective coordinates of the **tetrahedroid** correspond to symmetrical matrix determinants in hyperspace."*

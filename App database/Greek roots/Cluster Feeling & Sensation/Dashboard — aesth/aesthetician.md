@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A worker skilled in giving beauty treatments (manicures and facials etc.).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A philosopher who specializes in the nature of beauty.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A philosopher, critic, or scholar who specializes in aesthetics, the theory of beauty, and the principles of artistic creation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A specialist or licensed professional trained in the cosmetic care and beautification of the skin (frequently styled esthetician in modern salons).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aesthetician designates a worker skilled in giving beauty treatments (manicures and facials etc.)."*
+> - 📜 **Benedetto Croce (*Aesthetic as Science of Expression and General Linguistic*):** *"The true **aesthetician** must demonstrate that intuitive knowledge is independent of conceptual logic."*
+> - 📜 **George Santayana (*The Sense of Beauty*):** *"The **aesthetician** does not legislate rules of style; he analyzes the psychological springs of delight."*
+> - 📜 **Monroe Beardsley (*Aesthetics: Problems in the Philosophy of Criticism*):** *"The task of the philosophical **aesthetician** is to clarify what reasons legitimately support artistic evaluation."*

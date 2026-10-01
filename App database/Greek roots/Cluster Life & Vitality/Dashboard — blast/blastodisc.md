@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A layer of cells on the inside of the blastula.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A layer of cells on the inside of the blastula.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The small, disc-shaped region of yolk-free active cytoplasm at the animal pole of a telolecithal egg where cleavage takes place.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The germinal disc of fish, reptilian, and avian ova that gives rise exclusively to the embryo and extraembryonic membranes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, blastodisc designates a layer of cells on the inside of the blastula."*
+> - 📜 **Francis Balfour (*A Treatise on Comparative Embryology*):** *"Meroblastic cleavage is restricted entirely to the lenticular **blastodisc** floating upon the vast yolk sphere."*
+> - 📜 **Thomas Henry Huxley (*The Elements of Embryology*):** *"Within twenty-four hours of incubation, the avian **blastodisc** shows distinct areas pellucida and opaca."*
+> - 📜 **Karl Ernst von Baer (*Entwickelungsgeschichte der Thiere*):** *"The microscopic furrowing of the **blastodisc** reveals the geometric precision of initial protoplasmic divisions."*

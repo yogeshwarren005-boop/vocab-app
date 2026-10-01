@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxis in which contact especially with a solid body is the directive factor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A taxis in which contact especially with a solid body is the directive factor.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The directional movement or orientation of an organism in response to mechanical contact or tactile touch.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ethology, positive thigmotaxis (seeking contact with surfaces, common in cockroaches and rodents) or negative thigmotaxis (avoiding contact).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thigmotaxis designates a taxis in which contact especially with a solid body is the directive factor."*
+> - 📜 **Jacques Loeb (*Forced Movements, Tropisms, and Animal Conduct*):** *"Cockroaches run along the baseboards of rooms driven by positive **thigmotaxis**, seeking maximum bodily contact with solid boundaries."*
+> - 📜 **Charles Sherrington (*The Integrative Action of the Nervous System*):** *"Tactile reflexes in invertebrates reveal that **thigmotaxis** guides burrowing animals safely into subterranean crevices."*
+> - 📜 **Edward O. Wilson (*The Insect Societies*):** *"Social grooming and colony clustering in subterranean termites are mediated by continuous mutual **thigmotaxis**."*

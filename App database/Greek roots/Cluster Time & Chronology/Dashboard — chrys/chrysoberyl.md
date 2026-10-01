@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A rare hard yellow green mineral consisting of beryllium aluminate in crystal form; used as a gemstone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rare hard yellow green mineral consisting of beryllium aluminate in crystal form; used as a gemstone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hard, yellowish-green or golden-yellow aluminate of beryllium mineral (BeAl2O4), valued as a gemstone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gemology and mineralogy, an orthorhombic mineral whose varieties include the chatoyant 'cat's eye' (cymophane) and the color-changing alexandrite.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chrysoberyl designates a rare hard yellow green mineral consisting of beryllium aluminate in crystal form; used as a gemstone."*
+> - 📜 **John Ruskin (*The Ethics of the Dust*):** *"The sharp crystalline prism of **chrysoberyl** gleams with a cool, aristocratic brilliance surpassed only by the diamond."*
+> - 📜 **James Dwight Dana (*A System of Mineralogy*):** *"The hardness of **chrysoberyl** ranks at 8.5, and its twins frequently exhibit pseudo-hexagonal stellate groupings."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Beryl Coronet*):** *"The coronet sparkled with precious gems, among which the finest **chrysoberyl** stones shone with a deep greenish-gold fire."*

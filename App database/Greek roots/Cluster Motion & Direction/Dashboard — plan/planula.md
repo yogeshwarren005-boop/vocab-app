@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The flat ciliated free-swimming larva of hydrozoan coelenterates.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The flat ciliated free-swimming larva of hydrozoan coelenterates.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The free-swimming, flattened, ciliated larva of a coelenterate (cnidarian), such as a jellyfish or coral polyp.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A microscopic, bilateral larval stage that swims through plankton before settling on the sea floor to transform into a sessile polyp.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, planula designates the flat ciliated free-swimming larva of hydrozoan coelenterates."*
+> - 📜 **Louis Agassiz (*Contributions to the Natural History of the United States*):** *"The ciliated **planula** swarms out of the medusa, swimming actively before fixing itself to the reef rock."*
+> - 📜 **Thomas Henry Huxley (*The Oceanic Hydrozoa*):** *"Microscopic dissection showed the **planula** consists of an outer ectoderm and an inner cellular endoderm."*
+> - 📜 **Ernst Haeckel (*Generelle Morphologie der Organismen*):** *"The gastrula-like morphology of the swimming **planula** suggested an ancestral bilateral archetype."*

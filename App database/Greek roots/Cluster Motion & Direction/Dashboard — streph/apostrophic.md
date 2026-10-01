@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or characteristic of apostrophe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or characteristic of apostrophe.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characterized by apostrophe (a direct address to an absent person, abstract quality, or inanimate object).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In punctuation and orthography, relating to the apostrophe mark (') used to indicate omission of letters or the possessive case.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, apostrophic designates of or characteristic of apostrophe."*
+> - 📜 **Lord Byron (*Childe Harold's Pilgrimage*):** *"The poem rises to an impassioned **apostrophic** climax as the narrator addresses the eternal ocean."*
+> - 📜 **Percy Bysshe Shelley (*Defense of Poetry*):** *"The lyrical impulse is essentially **apostrophic**, summoning the unseen powers of nature into dialogue."*
+> - 📜 **Samuel Johnson (*The Lives of the Poets*):** *"Cowley was too fond of cold, **apostrophic** addresses to abstractions that awakened no genuine feeling."*

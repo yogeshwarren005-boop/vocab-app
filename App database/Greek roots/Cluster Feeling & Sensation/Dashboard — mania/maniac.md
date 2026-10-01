@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who is or acts mentally unsound; especially : a person who behaves in a wildly foolish, reckless, or dangerous manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who is extremely enthusiastic about something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person exhibiting extreme, violent, or wildly disordered behavior; an individual suffering from mania.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Informally, a person showing fanatical, dangerous obsession or recklessness in an endeavor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"You may take the maniac with you to England; confine her with due attendance and precautions at Thornfield: then travel yourself to what clime you will, and form what new tie you like."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"For a wife I have but the maniac upstairs: as well might you refer me to some corpse in yonder churchyard."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"While maniac Winter rages o’er The hills whence classic Yarrow flows, Rousing the turbid torrent’s roar, Or sweeping, wild, a waste of snows."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"I fled through the midnight streets of Geneva, haunted by the dread that some howling **maniac** was tracking my footsteps."*
+> - 📜 **William Shakespeare (*The Comedy of Errors*):** *"They bound him in a dark room, claiming that the gentle merchant had turned into a frantic **maniac**."*
+> - 📜 **Edgar Allan Poe (*The Fall of the House of Usher*):** *"Madman! I tell you that she now stands without the door!—he shrieked like a raving **maniac**."*

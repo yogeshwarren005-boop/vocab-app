@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ruffs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ruffs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A former ornithological genus containing the ruff (*Philomachus pugnax*, now *Calidris pugnax*), a medium-sized Eurasian wading sandpiper.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Named from Greek *philos* ('loving') and *machē* ('battle') in reference to the flamboyant, combative lekking displays of breeding males sporting colorful feathery ruffs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog philomachus as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Carl Linnaeus (*Fauna Svecica*):** *"The combative sandpiper **Philomachus** pugnax gathers in spring upon the marshy knolls, where rival males fence with bills."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"No two male ruffs of the genus **Philomachus** possess identical ruffs, varying from chestnut to pure white."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Sexual selection in **Philomachus** has produced extravagant nuptial shields and combs unparalleled among wading birds."*

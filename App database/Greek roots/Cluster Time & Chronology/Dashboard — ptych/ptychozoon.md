@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Flying geckos.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Flying geckos.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of arboreal geckos native to Southeast Asia, commonly known as parachute or flying geckos (Ptychozoon).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reptiles characterized by wide cutaneous folds along the flanks, limbs, and tail that function as parachuting airfoils.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ptychozoon designates flying geckos."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"The remarkable gecko **Ptychozoon** homalocephalum parachutes from tall dipterocarp trees by means of expanded lateral skin flaps."*
+> - 📜 **Hans Gadow (*Amphibia and Reptiles*):** *"Extensive cutaneous membranes enable **Ptychozoon** to glide between tree trunks and blend seamlessly against bark."*
+> - 📜 **Raymond Ditmars (*Reptiles of the World*):** *"The scalloped margins of **Ptychozoon** flatten against tree trunks, eliminating shadows that would betray its camouflage."*

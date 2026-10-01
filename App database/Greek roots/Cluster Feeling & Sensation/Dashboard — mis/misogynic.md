@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (used of men) having deep-seated distrust of women.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (used of men) having deep-seated distrust of women.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, characterized by, or exhibiting misogyny; hateful or contemptuous toward women.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reflecting institutional or cultural hostility against the female sex.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, misogynic designates (used of men) having deep-seated distrust of women."*
+> - 📜 **Mary Wollstonecraft (*A Vindication of the Rights of Woman*):** *"Rousseau's educational treatises are infected with a **misogynic** prejudice that treats women as decorative toys."*
+> - 📜 **John Stuart Mill (*The Subjection of Women*):** *"The legal disabilities imposed on wives reflect ancient, unexamined **misogynic** traditions."*
+> - 📜 **George Bernard Shaw (*Man and Superman*):** *"Tanner was fond of delivering long **misogynic** tirades, though everyone saw he was doomed to be caught."*

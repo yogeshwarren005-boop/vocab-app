@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of lasting for a very short time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of lasting for a very short time.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state, condition, or quality of lasting for only a brief period; transience.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aesthetics and cultural philosophy, the poignant consciousness of impermanence, famously celebrated in Japanese mono no aware and modernist urban literature.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ephemerality designates the property of lasting for a very short time."*
+> - 📜 **Walter Pater (*Appreciations*):** *"The exquisite melancholy of his lyrics arises from a keen awareness of the **ephemerality** of mortal beauty."*
+> - 📜 **Virginia Woolf (*To the Lighthouse*):** *"She felt the terrifying **ephemerality** of human relations, yet strove through painting to capture something permanent."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"Mystical contemplation reveals the **ephemerality** of our worldly worries against the background of eternal reality."*

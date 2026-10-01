@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having been flattened.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having been flattened.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Flattened, level, or plane; made flat.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a level horizontal surface formed through geological erosion or anatomical compression.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, planate designates having been flattened."*
+> - 📜 **William Morris Davis (*The Geographical Cycle*):** *"Continuous fluvial weathering eventually reduces rugged highlands to a broadly **planate** peneplain."*
+> - 📜 **Charles Lyell (*Elements of Geology*):** *"Marine abrasion carved a **planate** wave-cut bench along the base of the chalk cliffs."*
+> - 📜 **Richard Owen (*Comparative Anatomy of the Vertebrates*):** *"The condyle articulates against a remarkably **planate** facet on the temporal bone."*

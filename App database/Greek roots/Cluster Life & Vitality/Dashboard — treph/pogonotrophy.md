@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek treph.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Life & Vitality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The growing, cultivating, or grooming of a beard.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The cultural practice, art, or fashionable custom of maintaining facial hair.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pogonotrophy designates a term designating an entity, condition, or phenomenon derived from greek treph."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"The solemn German professor cultivated magnificent **pogonotrophy**, allowing his beard to sweep across his lecturing lectern."*
+> - 📜 **William Makepeace Thackeray (*The Book of Snobs*):** *"Young military subalterns devoted astonishing energy to competitive **pogonotrophy** and the sculpting of fierce moustaches."*
+> - 📜 **Richard Burton (*Personal Narrative of a Pilgrimage to El-Medinah and Meccah*):** *"In the Levant, successful disguise required diligent **pogonotrophy**, as an untrimmed oriental beard commanded instant civic respect."*

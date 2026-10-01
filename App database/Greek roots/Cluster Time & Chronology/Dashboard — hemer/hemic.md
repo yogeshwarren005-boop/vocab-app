@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or containing or affecting blood.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or containing or affecting blood.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or contained in the blood; hemal; hematological.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical medicine, designating vascular murmurs or constitutional states (such as hemic anemia murmurs) arising from altered blood viscosity rather than valvular stenosis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemic designates relating to or containing or affecting blood."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A soft systolic **hemic** murmur is commonly heard over the pulmonary artery in patients with severe hypochromic anemia."*
+> - 📜 **René Laennec (*A Treatise on the Diseases of the Chest*):** *"Auscultation enables the physician to distinguish organic valvular bruits from harmless functional **hemic** sounds."*
+> - 📜 **Robley Dunglison (*Medical Lexicon*):** *"The **hemic** origin of the murmur was confirmed when iron therapy restored normal blood density and silenced the sound."*

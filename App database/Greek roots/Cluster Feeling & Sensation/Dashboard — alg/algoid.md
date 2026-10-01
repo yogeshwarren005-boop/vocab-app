@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or resembling algae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or resembling algae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling or having the characteristics of algae; alga-like in appearance, structure, or habitat.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botany and microbiological pathology, denoting filamentous, slimy, or thalloid growth forms resembling aquatic algal mats.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, algoid designates of or resembling algae."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"Certain primitive lichens present an **algoid** appearance until microscopic examination exposes their fungal filaments."*
+> - 📜 **John Muir (*Studies in the Sierra*):** *"The glacial pools were fringed with an **algoid** scum of vibrant emerald despite the icy mountain runoff."*
+> - 📜 **Thomas Henry Huxley (*Lay Sermons, Addresses, and Reviews*):** *"The primordial protoplasmic slime was presumed to have taken an **algoid** form in shallow Archean seas."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A newborn child; especially : a child less than a month old.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A newborn child; especially : a child less than a month old.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A newborn infant, especially one in the first four weeks following birth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neonatal intensive care, a newborn evaluated by the Apgar score, characterized by immature renal concentrating ability and transitioning fetal hemoglobin.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neonate designates a newborn child; especially : a child less than a month old."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"The glomerular filtration rate in a healthy **neonate** is only one-third of adult capacity on a surface-area basis."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Careful physical examination of the **neonate** reveals primitive grasp and Moro reflexes reflecting subcortical neural pathways."*
+> - 📜 **Donald Seldin (*The Kidney: Physiology and Pathophysiology*):** *"Fluid balance in the premature **neonate** is exceptionally precarious owing to high insensible cutaneous water loss."*

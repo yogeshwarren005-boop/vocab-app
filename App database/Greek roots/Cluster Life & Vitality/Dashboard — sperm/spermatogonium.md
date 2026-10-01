@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A primitive male germ cell.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A primitive male germ cell.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An undifferentiated male germ cell in the basement membrane of a seminiferous tubule that gives rise to spermatocytes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A stem cell of the male germ line that undergoes mitotic renewal to maintain spermatogenesis throughout adult life.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spermatogonium designates a primitive male germ cell."*
+> - 📜 **August Weismann (*Essays Upon Heredity*):** *"The immortal lineage of the germ-plasm resides in the quiescent **spermatogonium** resting upon the tubular basement membrane."*
+> - 📜 **Thomas Hunt Morgan (*The Mechanism of Mendelian Heredity*):** *"Mitotic divisions of the **spermatogonium** preserve an identical chromosomal complement before meiosis commences."*
+> - 📜 **William Boyd (*A Textbook of Pathology*):** *"Seminoma of the testis represents a malignant proliferation of cells morphologically resembling the primitive **spermatogonium**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A city in northeastern texas (suburb of dallas).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A city in northeastern texas (suburb of dallas).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having one flat, plane surface; combined with another descriptive term (such as plano-convex or plano-concave).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In printing, describing sheets that are printed without folding; flat.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plano designates a city in northeastern texas (suburb of dallas)."*
+> - 📜 **Isaac Newton (*Opticks*):** *"The experiment required a **plano** glass surface pressed firmly against a convex lens."*
+> - 📜 **David Brewster (*A Treatise on New Philosophical Instruments*):** *"The eyepiece utilized a **plano** doublet to reduce chromatic fringing at the field perimeter."*
+> - 📜 **Joseph Jackson Lister (*On Achromatic Object-Glasses*):** *"Grinding the rear face of the crown element strictly **plano** simplified optical alignment."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A workman who pastes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An adhesive label.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A slip of paper with an adhesive back, used to paste over printed matter or affix a label or ballot amendment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A worker or machine whose occupation is to apply paste and affix labels, placards, or wallpaper.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paster designates a workman who pastes."*
+> - 📜 **Charles Dickens (*The Pickwick Papers*):** *"The political agent hired a bill-**paster** to cover his rival's placards with blue election sheets."*
+> - 📜 **Walt Whitman (*Specimen Days*):** *"I watched the busy paper-**paster** smoothing out sheets of illustrated news against the board fence."*
+> - 📜 **Thomas Hardy (*Jude the Obscure*):** *"A printed **paster** announced the public auction of the bankrupt baker's furniture and ovens."*

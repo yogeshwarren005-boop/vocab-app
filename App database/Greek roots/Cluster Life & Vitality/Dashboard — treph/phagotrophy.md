@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek treph.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Life & Vitality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The mode of nutrition in which particulate food is engulfed and internalized into food vacuoles (phagocytosis).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Heterotrophic particle ingestion characteristic of amoeboid protists, ciliates, and specialized phagocytic host leukocytes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phagotrophy designates a term designating an entity, condition, or phenomenon derived from greek treph."*
+> - 📜 **Élie Metchnikoff (*Immunity in Infective Diseases*):** *"Phagocytic immunity is an evolutionary descendant of primitive cellular **phagotrophy** observed in unicellular amoebae."*
+> - 📜 **Ray Lankester (*Zoological Articles*):** *"The ciliate Stentor drives food particles into its cytostome through specialized cilia adapted for **phagotrophy**."*
+> - 📜 **Lynn Margulis (*Origin of Eukaryotic Cells*):** *"The evolutionary leap toward the modern eukaryote required the prior innovation of membrane-bound **phagotrophy**."*

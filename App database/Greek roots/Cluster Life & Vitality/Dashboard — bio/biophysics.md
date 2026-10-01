@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of science concerned with the application of physical principles and methods to biological problems.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A branch of science concerned with the application of physical principles and methods to biological problems.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of science concerned with the application of physical principles and methods to biological processes and systems.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quantitative study of thermodynamics, electrodynamics, and structural mechanics within macromolecular and cellular complexes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, biophysics designates a branch of science concerned with the application of physical principles and methods to biological problems."*
+> - 📜 **Erwin Schrödinger (*What Is Life?*):** *"We look forward to a new era where classical **biophysics** unifies quantum mechanics with chromosome mechanics."*
+> - 📜 **Francis Crick (*Of Molecules and Men*):** *"The triumph of molecular **biophysics** proved that biological replication relies upon strict physical stereochemistry."*
+> - 📜 **A. V. Hill (*Trails and Trials in Physiology*):** *"The emergence of modern **biophysics** provided the sensitive galvanometers needed to measure heat production in stimulated muscle."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek chron.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Time & Chronology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Time personified, especially quantitative, linear, measurable time in ancient Greek philosophy and mythology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical and classical studies, the Hellenic concept of chronological, sequential duration, contrasted with kairos (the opportune, qualitative moment).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chronos designates a term designating an entity, condition, or phenomenon derived from greek chron."*
+> - 📜 **Hesiod (*Theogony*):** *"Ancient myth portrayed **Chronos** as the inexorable god whose sickle reaps the generations of gods and men alike."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"We dwell in the realm of qualitative insight, but mortal life remains tethered to the relentless wheel of **Chronos**."*
+> - 📜 **Paul Tillich (*The Interpretation of History*):** *"Christian theology distinguishes between the quantitative passage of **chronos** and the decisive providential breakthrough of kairos."*

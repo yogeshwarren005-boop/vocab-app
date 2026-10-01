@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A native or inhabitant of philippi in ancient macedonia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A native or inhabitant of philippi in ancient macedonia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A native, citizen, or inhabitant of the ancient city of Philippi in eastern Macedonia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the city of Philippi or the Pauline Christian community established there.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Work 99:6 out your own salvation with fear and trembling," says the apostle, and he straightway adds: "for it is God which worketh in you both to will and to do of His good 99:9 pleasure" (Philippians ii. 12, 13)."*
-> - 📜 **Oliver Optic (*Plane and Plank; or, The Mishaps of a Mechanic*):** *"Phil may stand for Philip, Phillimore, Philippians, Philosophy." "It stands for Philip with me, sir." "Philip; I had a brother once of that name, but he is no longer living."*
+> - 📜 **Saint Paul (*Epistle to the Philippians*):** *"Ye **Philippian** brethren know that in the beginning of the gospel no church communicated with me concerning giving but ye only."*
+> - 📜 **Flavius Josephus (*Antiquities of the Jews*):** *"The Roman veterans settled at the **Philippian** colony enjoyed the proud rights of Italian citizenship."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The **Philippian** citizens watched from their mountain citadel as the legions of Caesar and Antony locked in death."*

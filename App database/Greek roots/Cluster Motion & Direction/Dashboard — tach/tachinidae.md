@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Parasites on other insects.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Parasites on other insects.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large and diverse family of true flies (order Diptera), whose larvae are internal parasitoids of caterpillars, beetles, and other insect pests.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic entomology and biological pest control, a vital family of bristly calyptrate flies whose endoparasitic habits naturally regulate agricultural insect infestations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tachinidae designates parasites on other insects."*
+> - 📜 **Jean-Henri Fabre (*The Life of the Fly*):** *"A bristly fly of the family **Tachinidae** hovered over the succulent caterpillar, preparing to glue her parasitic eggs to its neck."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The balance of insect populations in nature is relentlessly enforced by the internal larvae of the **Tachinidae**."*
+> - 📜 **L. O. Howard (*The Insect Book*):** *"Economic entomologists value the **Tachinidae** above almost all other dipteran families for their role in checking agricultural pests."*

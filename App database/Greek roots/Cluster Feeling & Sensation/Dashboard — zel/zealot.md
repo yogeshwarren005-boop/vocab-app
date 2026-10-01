@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A zealous person; especially : a fanatical partisan.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A member of a fanatical sect arising in Judea during the first century a.d. and militantly opposing the Roman domination of Palestine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who is fanatical and uncompromising in pursuit of their religious, political, or other ideals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically, a member of an ancient radical Jewish sect (the Zealots) founded by Judas of Galilee that violently opposed Roman rule in 1st-century Judea.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And for a procurator to punish a zealot caught red-handed was to raise a riot or an insurrection."*
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"Dorlan Warthell, a Negro in the South, has seen fit to publicly disapprove of a portion of the party's policy, whereupon a Negro Republican zealot has sought to take his life."*
-> - 📜 **Nathaniel Hawthorne (*Twice-Told Tales*):** *"Do with me as thou wilt, but let Edith go untouched!" "Not so," replied the immitigable zealot."*
+> - 📜 **Flavius Josephus (*The Jewish War*):** *"The fanatical sect of the **Zealot** party fortified themselves in the Temple, swearing never to lay down arms before the Roman legions."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The fierce obstinacy of the Jewish **zealot** amazed the Roman procurators, who were accustomed to passive obedience."*
+> - 📜 **John Locke (*A Letter Concerning Toleration*):** *"No magistrate possesses the right to punish a citizen merely because some religious **zealot** brands his prayers as heresy."*

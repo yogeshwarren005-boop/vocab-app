@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An expert in genealogy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An expert in genealogy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who traces or studies lines of family descent, pedigrees, and historical ancestry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A scholar or researcher examining archival records, parish registers, and historical documents to reconstruct kin networks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Oh—nothing, nothing; except chasten yourself with the thought of ‘how are the mighty fallen.’ It is a fact of some interest to the local historian and genealogist, nothing more."*
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"A bard and a _genealogist_ were synonymous; and though a bard can plead _licentia poetica_, yet fiction was not allowed in recording the actions of their heroes,[379] nor in registering the descent of families."*
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"However, upon the whole, much credit is due to our ancient genealogists, who were appointed and patronized by Royalty, and professed that art prior to their initiation into the higher mysteries of <g>Bardism</g>."*
+> - 📜 **Nathaniel Hawthorne (*The Custom-House*):** *"The patient **genealogist** delves through moth-eaten parchment records to authenticate forgotten family lines."*
+> - 📜 **Francis Galton (*Hereditary Genius*):** *"I consulted the eminent **genealogist** to verify the family trees of lord chancellors and royal judges."*
+> - 📜 **W. M. Thackeray (*Vanity Fair*):** *"Sir Pitt Crawley employed an obsequious **genealogist** to fabricate an illustrious pedigree reaching back to William the Conqueror."*

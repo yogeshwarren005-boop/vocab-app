@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek hed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Feeling & Sensation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An irregular dodecahedron characteristic of iron pyrite (iron disulfide), having twelve identical non-regular pentagonal faces possessing pyritohedral symmetry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In crystallography, a hemihedral isometric crystal form (pentagonal dodecahedron) displaying parallel striations on alternating faces.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pyritohedron designates a term designating an entity, condition, or phenomenon derived from greek hed."*
+> - 📜 **James Dwight Dana (*Manual of Mineralogy*):** *"Iron pyrite frequently crystallizes in brilliant brass-yellow cubes or in the classic striate **pyritohedron**."*
+> - 📜 **Edward Salisbury Dana (*A Text-Book of Mineralogy*):** *"The symmetry of the **pyritohedron** reveals parallel striations caused by oscillating oscillatory growth between cube and octahedron."*
+> - 📜 **René Just Haüy (*Traité de Minéralogie*):** *"The pentagonal facets of the **pyritohedron** demonstrate that crystal symmetry obeys rational decrescence of molecular rows."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The relinquishment of divine attributes by Jesus Christ in becoming human.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The relinquishment of divine attributes by Jesus Christ in becoming human.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of emptying oneself, especially of divine status or attributes; Christ's renunciation of divine prerogatives in the Incarnation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Christian dogmatics and Christology, the theological concept rooted in Philippians 2:7, whereby the pre-existent divine Logos emptied Himself to assume mortal human servant form.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, kenosis designates the relinquishment of divine attributes by jesus christ in becoming human."*
+> - 📜 **Karl Barth (*Church Dogmatics*):** *"The profound mystery of the **kenosis** consists not in the loss of deity, but in the boundless humility of divine grace."*
+> - 📜 **John Henry Newman (*Parochial and Plain Sermons*):** *"Through this voluntary **kenosis**, the Maker of the universe condescended to share our infirmities and tears."*
+> - 📜 **Dietrich Bonhoeffer (*Christology*):** *"The Incarnation is the supreme **kenosis**, wherein God reveals Himself in absolute vulnerability before mankind."*

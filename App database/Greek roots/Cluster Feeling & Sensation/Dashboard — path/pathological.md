@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to pathology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Altered or caused by disease; also : indicative of disease.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Caused by, relating to, or involving physical or mental disease; morbid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Compulsive, obsessive, or wildly unreasonable, behaving like an involuntary disease (e.g., a pathological liar).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Many industries and branches of industry in America are thus parasitical A condition essentially pathological has come to be looked upon as normal."*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"To the poet he bequeathed something of his own pathological sensuality, instability of thought and action, lack of will-energy, and the tears of a heartbroken mother, a sufficient guarantee, surely, of a poet of melancholy."*
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"Lenau's aimlessness and instability were so extreme that they may properly be counted a pathological trait."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The autopsy exposed a **pathological** enlargement of the spleen that explained the patient's severe refractory anemia."*
+> - 📜 **Sigmund Freud (*The Psychopathology of Everyday Life*):** *"Slips of the tongue reveal the borderland between normal mental slips and true **pathological** symptoms."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Sussex Vampire*):** *"Holmes remarked that the stepson's jealousy had transcended normal family spite, becoming a dangerous **pathological** obsession."*

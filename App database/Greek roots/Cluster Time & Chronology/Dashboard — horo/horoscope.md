@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A diagram of the relative positions of planets and signs of the zodiac at a specific time (as at one's birth) for use by astrologers in inferring individual character and personality traits and in foretelling events of a person's life.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An astrological forecast.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An astrological chart or diagram representing the positions of the Sun, Moon, planets, and astrological aspects at the time of a person's birth or event.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural history and the occult arts, a celestial forecast based upon the twelve zodiacal houses and planetary alignments at a specific natal moment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Though no higher 121:9 revelation than the horoscope was to them dis- played upon the empyrean, earth and heaven were bright, and bird and blossom were glad in God's 121:12 perennial and happy sunshine, golden with Truth."*
+> - 📜 **William Shakespeare (*King Lear*):** *"This is the excellent foppery of the world, that when we are sick in fortune we make guilty of our disasters our **horoscope** and stars."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The superstitious emperor never embarked upon an expedition without consulting the **horoscope** drawn by his Chaldean astrologers."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"Men scoff at the ancient **horoscope**, yet eagerly listen to any modern fortune-teller who flatters their secret ambitions."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A trodden way.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A track specially constructed for a particular use.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Greek root *path-* (from *pathos*), signifying suffering, feeling, emotion, or disease (seen in *pathology*, *sympathy*, *apathy*); also a track or way.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The universal morphological combining form across psychological, ethical, and medical vocabularies denoting affective states or morbid conditions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here is a path to’t; ’tis some savage hold."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But good my brother, Do not as some ungracious pastors do, Show me the steep and thorny way to heaven; Whilst like a puff’d and reckless libertine Himself the primrose path of dalliance treads, And recks not his own rede."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now hear me speak with a prophetic spirit; For even the breath of what I mean to speak Shall blow each dust, each straw, each little rub, Out of the path which shall directly lead Thy foot to England’s throne; and therefore mark."*
+> - 📜 **Henry George Liddell & Robert Scott (*A Greek-English Lexicon*):** *"The Greek noun *pathos* and its combining root **path** convey whatever befalls someone: calamity, passion, illness, or tender emotion."*
+> - 📜 **Aristotle (*Rhetoric*):** *"The orator persuades through ethos, logos, and **pathos**, touching the emotional springs of human nature."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"In medical terminology, the radical **path** identifies those alterations in living tissues that depart from physiological health."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek trech.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Motion & Direction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An invertebrate belonging to the Trochelminthes, an archaic grouping comprising the rotifers and related microscopic aquatic worms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In invertebrate zoology, characterized by a ciliated corona or wheel-organ (*trochus*) used for both locomotion and suspension feeding.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trochelminth designates a term designating an entity, condition, or phenomenon derived from greek trech."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Invertebrated Animals*):** *"The typical **trochelminth** uses its anterior ciliated disk to create a feeding vortex in freshwater ponds."*
+> - 📜 **Richard Owen (*Lectures on Invertebrate Animals*):** *"Microscopists were captivated by the rapid rotation of the cilia in each minute **trochelminth**."*
+> - 📜 **Alister Hardy (*The Open Sea*):** *"Plankton hauls in coastal lagoons frequently yield millions of microscopic **trochelminth** rotifers."*

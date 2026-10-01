@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek dram.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Motion & Direction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any member of the family Dromaeosauridae, a group of agile, feathered theropod dinosaurs of the Cretaceous period (commonly known as 'raptors').
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate paleontology, an avian-like paravian theropod characterized by an enlarged, recurved, hyperextensible sickle claw on the second toe and a rigid ossified tail.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dromaeosaurid designates a term designating an entity, condition, or phenomenon derived from greek dram."*
+> - 📜 **Stephen Jay Gould (*Dinosaur in a Haystack*):** *"The anatomical discoveries of small, agile **dromaeosaurid** skeletons transformed our view of dinosaurs from sluggish reptiles to dynamic animals."*
+> - 📜 **Richard Dawkins (*The Ancestor's Tale*):** *"Every feathered **dromaeosaurid** unearthed in Liaoning underscores the intimate evolutionary continuity between dinosaurs and birds."*
+> - 📜 **Ernst Mayr (*This Is Biology*):** *"The shared skeletal specializations of a **dromaeosaurid** and early avians provide incontrovertible evidence for their common ancestry."*

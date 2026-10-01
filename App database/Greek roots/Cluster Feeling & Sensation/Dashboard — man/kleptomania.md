@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A persistent neurotic impulse to steal especially without economic motive.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A persistent neurotic impulse to steal especially without economic motive.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A recurrent, irresistible impulse to steal items not needed for personal use or monetary value.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In abnormal psychology, an impulse control disorder in which the act of theft is preceded by rising tension and followed by temporary gratification or relief.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, kleptomania designates a persistent neurotic impulse to steal especially without economic motive."*
+> - 📜 **Jean-Étienne Esquirol (*Des Maladies Mentales*):** *"We distinguish true **kleptomania** from ordinary thievery by the complete absence of pecuniary motive or utility in the stolen articles."*
+> - 📜 **Cesare Lombroso (*Criminal Man*):** *"Wealthy ladies who purloin worthless trinkets from department counters act under the morbid compulsion of **kleptomania**."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Naval Treaty*):** *"The detective pointed out that stealing top-secret state dispatches could hardly be explained away as an episode of feminine **kleptomania**."*

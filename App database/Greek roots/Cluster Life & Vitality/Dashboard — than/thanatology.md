@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The description or study of the phenomena of death and of psychological mechanisms for coping with them.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The description or study of the phenomena of death and of psychological mechanisms for coping with them.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific study of death, dying, and the psychological, social, and medical practices associated with mortality and bereavement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An interdisciplinary academic field investigating hospice palliative care, end-of-life decision making, and cultural grief rituals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thanatology designates the description or study of the phenomena of death and of psychological mechanisms for coping with them."*
+> - 📜 **Elisabeth Kübler-Ross (*On Death and Dying*):** *"Modern **thanatology** teaches us to listen to the dying patient, illuminating the emotional stages preceding death."*
+> - 📜 **William Osler (*Science and Immortality*):** *"The physician's role in bedside **thanatology** is to alleviate physical agony and comfort the bereaved family."*
+> - 📜 **Philippe Ariès (*Western Attitudes toward Death*):** *"Historical **thanatology** charts how Western society shifted from familiar domestic dying to institutional concealment."*

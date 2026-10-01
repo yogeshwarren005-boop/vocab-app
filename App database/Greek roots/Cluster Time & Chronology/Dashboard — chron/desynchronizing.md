@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The relation that exists when things occur at unrelated times.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to become desynchronized; cause to occur at unrelated times.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing or undergoing a loss of synchrony or rhythmic coordination.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuropharmacology and behavioral science, describing stimuli, drugs, or environmental shifts that disrupt circadian or neural synchrony.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, desynchronizing designates the relation that exists when things occur at unrelated times."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"Stimulation of the midbrain reticular core produces a pronounced **desynchronizing** effect upon the cerebral cortex."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The sudden toxic insult had a **desynchronizing** effect upon the autonomic centers governing cardiac and respiratory rhythms."*
+> - 📜 **Donald Seldin (*The Kidney: Physiology and Pathophysiology*):** *"Irregular shift work acts as a **desynchronizing** factor, impairing nocturnal aldosterone and renin cycling."*

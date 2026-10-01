@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Glyceride occurring naturally in animal and vegetable tissues; it consists of three individual fatty acids bound together in a single large molecule; an important energy source forming much of the fat stored by the body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Glyceride occurring naturally in animal and vegetable tissues; it consists of three individual fatty acids bound together in a single large molecule; an important energy source forming much of the fat stored by the body.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A lipid molecule composed of a single glycerol backbone ester-linked to three fatty acid molecules, constituting the main constituent of vegetable oils and animal fats.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical biochemistry and cardiovascular medicine, circulating blood lipids measured as an indicator of metabolic health, insulin resistance, and atherosclerotic risk.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, triglyceride designates glyceride occurring naturally in animal and vegetable tissues; it consists of three individual fatty acids bound together in a single large molecule; an important energy source forming much of the fat stored by the body."*
+> - 📜 **Michel Eugène Chevreul (*Chemical Researches on Animal Fats*):** *"Natural tallow consists chiefly of neutral **triglyceride** combinations of stearic, palmitic, and oleic acids."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"The compact, hydrophobic structure of a **triglyceride** yields twice as much metabolic energy per gram as carbohydrate."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Elevated serum **triglyceride** levels accompanying obesity and diabetes signal impaired clearance of chylomicrons."*

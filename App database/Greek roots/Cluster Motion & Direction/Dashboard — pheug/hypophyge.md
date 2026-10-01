@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek pheug.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Motion & Direction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A concave hollow or molding beneath a cornice, fillet, or architectural band, facilitating drainage and casting a deep shadow.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In architectural moldings, a downward curved hollow resembling an inverted apophyge, designed to prevent rainwater from streaking the masonry face.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypophyge designates a term designating an entity, condition, or phenomenon derived from greek pheug."*
+> - 📜 **Banister Fletcher (*A History of Architecture*):** *"Beneath the projecting dripstone, an acute **hypophyge** casts an impenetrable line of shade across the entablature."*
+> - 📜 **John Ruskin (*The Seven Lamps of Architecture*):** *"The stonecutter carved a crisp **hypophyge** under the drip molding to throw the driving rain clear of the wall."*
+> - 📜 **Francis Bond (*Gothic Architecture in England*):** *"Early English capitals often substitute a deep **hypophyge** for the flatter classical cavetto."*

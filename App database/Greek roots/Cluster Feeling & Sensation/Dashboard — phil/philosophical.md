@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to philosophy or philosophers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by the attitude of a philosopher; meeting trouble with level-headed detachment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating or devoted to the study of the fundamental nature of knowledge, reality, and existence; rational, speculative, and deep.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Calm, stoical, and resigned in the face of difficulty or disappointment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They say miracles are past; and we have our philosophical persons to make modern and familiar things supernatural and causeless."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The one grand recipe remains for you—the profound philosophical prescription—the be-all and the end-all of your strange existence upon earth."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"For the first five years of his ministry Cairns devoted himself entirely to the work which it entailed upon him, and steadily refused to be drawn aside to the literary and philosophical tasks which many of his friends urged him to undertake."*
+> - 📜 **René Descartes (*Meditations on First Philosophy*):** *"I found myself obliged to dismantle all my former beliefs and begin again from the foundation to establish a firm **philosophical** science."*
+> - 📜 **David Hume (*An Enquiry Concerning Human Understanding*):** *"Be a **philosophical** thinker, but amidst all your philosophy, be still a man."*
+> - 📜 **Ralph Waldo Emerson (*Nature*):** *"Every man's condition is a solution in hieroglyphic to those inquiries he would put; he acts it as life before he apprehends it as **philosophical** truth."*

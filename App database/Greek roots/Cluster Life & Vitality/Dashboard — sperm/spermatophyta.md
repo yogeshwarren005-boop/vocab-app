@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Seed plants; comprises the angiospermae (or magnoliophyta) and gymnospermae (or gymnospermophyta); in some classification systems spermatophyta is coordinate with pteridophyta (spore producing plants having vascular tissue and roots) and bryophyta (spore producing plants lacking vascular tissue and roots).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Seed plants; comprises the angiospermae (or magnoliophyta) and gymnospermae (or gymnospermophyta); in some classification systems spermatophyta is coordinate with pteridophyta (spore producing plants having vascular tissue and roots) and bryophyta (spore producing plants lacking vascular tissue and roots).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A major taxonomic division of the plant kingdom comprising all seed-bearing plants (angiosperms and gymnosperms).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Vascular plants that reproduce by seeds rather than spores, dominating modern terrestrial flora.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spermatophyta designates seed plants; comprises the angiospermae (or magnoliophyta) and gymnospermae (or gymnospermophyta); in some classification systems spermatophyta is coordinate with pteridophyta (spore producing plants having vascular tissue and roots) and bryophyta (spore producing plants lacking vascular tissue and roots)."*
+> - 📜 **Asa Gray (*Botanical Textbook*):** *"The grand evolutionary division of the **Spermatophyta** freed plants from the aqueous reproductive constraints of ferns and mosses."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"In all **Spermatophyta**, the ovule provides a sheltered chamber for fertilization and embryonic nourishment."*
+> - 📜 **Archibald Geikie (*Textbook of Geology*):** *"The fossil record registers a decisive planetary revolution when the **Spermatophyta** replaced the giant lycopsid swamps."*

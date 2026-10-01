@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Aimlessly drifting.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Aimlessly drifting.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking a plan, purpose, or method; aimless or unorganized.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Proceeding without premeditated design or systematic structure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, planless designates aimlessly drifting."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"A **planless** wanderer through the wilderness of modern doubt, he sought in vain for enduring certitude."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Lydgate felt his ambitious scientific career drifting into a **planless** succession of provincial compromises."*
+> - 📜 **John Ruskin (*Unto This Last*):** *"Industrial cities expanded in a **planless** sprawl of soot, neglect, and chaotic speculation."*

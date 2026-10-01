@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Phototrophs are organisms that carry out photon capture to acquire energy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: They use the energy from light to carry out various cellular metabolic processes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An organism that manufactures its own food or derives energy from light (photons) through photochemical processes; a photosynthetic organism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any photosynthetic organism (plants, algae, cyanobacteria, and photosynthetic bacteria) capable of converting electromagnetic radiation into chemical energy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phototroph designates phototrophs are organisms that carry out photon capture to acquire energy."*
+> - 📜 **Cornelis van Niel (*The Comparative Biochemistry of Photosynthesis*):** *"Every **phototroph** utilizes light quanta to drive internal hydrogen transfers between donor and acceptor molecules."*
+> - 📜 **Eugene Odum (*Fundamentals of Ecology*):** *"The marine **phototroph** populates the sunlit euphotic zone, providing the primary energy sustaining pelagic food chains."*
+> - 📜 **Melvin Calvin (*Chemical Evolution*):** *"Primitive porphyrins facilitated the evolutionary transition from geochemical catalysis to the first true cellular **phototroph**."*

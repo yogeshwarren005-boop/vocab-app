@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ba.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Motion & Direction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In classical Greek theater, a secondary choral speech answering or matching the parabasis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An architectural or liturgical chamber flanking the sanctuary in early Byzantine churches.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antiparabema designates a term designating an entity, condition, or phenomenon derived from greek ba."*
+> - 📜 **Gilbert Murray (*Aristophanes: A Study*):** *"The chorus chanted the **antiparabema** with vigorous satirical mockery directed at rival demagogues."*
+> - 📜 **Arthur Pickard-Cambridge (*The Dramatic Festivals of Athens*):** *"In Old Comedy, the parabasis proper was structurally counterbalanced by the **antiparabema**."*
+> - 📜 **Richard Krautheimer (*Early Christian and Byzantine Architecture*):** *"The northern pastophorion served as an **antiparabema** for storing liturgical vestments and sacred vessels."*

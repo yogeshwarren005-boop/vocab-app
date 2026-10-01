@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (roman catholic church) greek patriarch of alexandria who championed christian orthodoxy against arianism; a church father, saint, and doctor of the church (293-373).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (roman catholic church) greek patriarch of alexandria who championed christian orthodoxy against arianism; a church father, saint, and doctor of the church (293-373).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Saint Athanasius of Alexandria (c. 296–373 AD), 20th bishop of Alexandria, Church Father, and chief champion of the Nicene doctrine of the Trinity against Arianism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A masculine proper name derived from the Greek *athanatos*, meaning 'immortal' or 'deathless'.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, athanasius designates (roman catholic church) greek patriarch of alexandria who championed christian orthodoxy against arianism; a church father, saint, and doctor of the church (293-373)."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"Five times was **Athanasius** expelled from his episcopal throne; twenty years he passed as an exile or a fugitive."*
+> - 📜 **John Henry Newman (*Select Treatises of St. Athanasius*):** *"In the history of dogma, **Athanasius** stands as an immovable tower resisting the waves of imperial heresy."*
+> - 📜 **Arthur Penrhyn Stanley (*Lectures on the History of the Eastern Church*):** *"The small, energetic figure of **Athanasius** dominated the debates of the Council of Nicaea."*

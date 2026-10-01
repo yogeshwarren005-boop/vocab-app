@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Includes chiefly saprophytic fungi typically with shelflike bodies; sometimes placed in class hymenomycetes or included in agaricales.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Includes chiefly saprophytic fungi typically with shelflike bodies; sometimes placed in class hymenomycetes or included in agaricales.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An order of basidiomycete fungi lacking gills, including bracket fungi, polypores, chanterelles, and tooth fungi.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A historical taxonomic group of non-agaric homobasidiomycetes characterized by tough, woody, or leathery basidiocarps with pored or smooth hymenia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aphyllophorales designates includes chiefly saprophytic fungi typically with shelflike bodies; sometimes placed in class hymenomycetes or included in agaricales."*
+> - 📜 **Pier Andrea Saccardo (*Sylloge Fungorum*):** *"The **Aphyllophorales** embrace a tremendous variety of wood-decaying bracket fungi and terrestrial clavarioid molds."*
+> - 📜 **G. C. Ainsworth (*The Fungi: An Advanced Treatise*):** *"Lignicolous species of the **Aphyllophorales** play an indispensable ecological role in forest lignin decomposition."*
+> - 📜 **Miles Joseph Berkeley (*Outlines of British Fungology*):** *"Unlike soft agarics, members of the **Aphyllophorales** persist for months upon rotting timber trunks."*

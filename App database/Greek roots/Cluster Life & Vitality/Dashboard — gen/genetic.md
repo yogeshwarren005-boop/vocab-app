@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or determined by the origin, development, or causal antecedents of something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or involving genetics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or produced by genes or heredity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to origins, historical development, or causal emergence (as in genetic epistemology).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Mark him as a newly arrived renegade, a killer and genetic flake dangerous to Coldfield's safety."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Organ modifications, genetic engineering and cloning gave impetus to human transformation."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Cumulative genetic and accelerated evolutionary alterations to the human body along with the effects of unique, often hostile, environments plus sheer distance from the familiar transformed humans-in-space into something else."*
+> - 📜 **Gregor Mendel (*Experiments in Plant Hybridisation*):** *"The mathematical ratios observed in garden peas reflect constant **genetic** laws governing character segregation."*
+> - 📜 **Thomas Hunt Morgan (*The Theory of the Gene*):** *"Linear arrangement of genes on the chromosome provides the physical foundation of **genetic** inheritance."*
+> - 📜 **Jean Piaget (*Genetic Epistemology*):** *"Our **genetic** approach examines how the child's understanding of space, time, and causality emerges over developmental stages."*

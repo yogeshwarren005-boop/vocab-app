@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Horizontal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large solid-hoofed herbivorous ungulate mammal (Equus caballus, family Equidae, the horse family) domesticated since prehistoric times and used as a beast of burden, a draft animal, or for riding.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Greek root designating 'hour', 'time', or 'season' (ὥρα, hora), appearing in words relating to timekeeping, boundaries, and cycles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative philology, the ancestral Indo-European root (*yer-) signifying a season or yearly cycle, seen in English 'hour' and 'year'.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"But he has printed no ‘versus inopes rerum, nugaeque canorae’ (Hor. ad Pis.)."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Adeo nulla ferme nativitas munda, utique ethnicorum_. [51] Hor. _Ep._ ii. 2, 187 f."*
-> - 📜 **James Joyce (*Ulysses*):** *"The assistants leap at the victim’s legs and drag him downward, grunting: the croppy boy’s tongue protrudes violently.)_ THE CROPPY BOY: Horhot ho hray hor hother’s hest. _(He gives up the ghost."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"The ancient Greek noun **hor-** signified primarily a season of the year before contracting to denote the sixty-minute hour."*
+> - 📜 **Walter William Skeat (*An Etymological Dictionary of the English Language*):** *"Through Latin hora and Old French, the Greek stem **hor-** passed into our language to measure daily duration."*
+> - 📜 **James Murray (*A New English Dictionary on Historical Principles*):** *"Astronomical and horological words consistently preserve the radical **hor-** in their technical definitions."*

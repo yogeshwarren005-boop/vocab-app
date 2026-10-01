@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek nyct.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Time & Chronology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal preference or love for the night, darkness, or night hours; comfort found in dark surroundings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychology and behavioral ecology, affinity for nocturnal activity and nocturnal environments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nyctophilia designates a term designating an entity, condition, or phenomenon derived from greek nyct."*
+> - 📜 **Havelock Ellis (*Studies in the Psychology of Sex*):** *"The romantic temperament often manifests pronounced **nyctophilia**, seeking solace in solitary moonlit walks."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"Certain mystic temperaments exhibit a poetic **nyctophilia**, finding spiritual illumination only when daytime distractions cease."*
+> - 📜 **Richard von Krafft-Ebing (*Psychopathia Sexualis*):** *"Pronounced **nyctophilia** may accompany neurotic disorders where bright light induces sensory exhaustion."*

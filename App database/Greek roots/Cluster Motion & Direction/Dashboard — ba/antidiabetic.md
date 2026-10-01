@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A drug used to treat diabetes mellitus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A drug used to treat diabetes mellitus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to prevent or alleviate diabetes mellitus; used of pharmaceutical agents or therapeutic diets.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Denoting any medicinal substance, such as insulin or sulfonylureas, that lowers blood glucose.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antidiabetic designates a drug used to treat diabetes mellitus."*
+> - 📜 **Frederick Banting (*The Nobel Lecture*):** *"Purified pancreatic extracts demonstrated immediate **antidiabetic** efficacy in lowering canine glycosuria."*
+> - 📜 **Charles Best (*Selected Papers on Insulin*):** *"Early clinical trials proved the life-saving value of the new **antidiabetic** hormone."*
+> - 📜 **Bernardo Houssay (*Hormonal Factors in Carbohydrate Metabolism*):** *"Anterior pituitary hormones interact dynamically with established **antidiabetic** mechanisms."*

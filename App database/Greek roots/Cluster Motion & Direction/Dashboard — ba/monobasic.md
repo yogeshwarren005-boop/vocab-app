@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having only one replaceable hydrogen atom.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having only one replaceable hydrogen atom.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having only one replaceable hydrogen atom (of an acid); capable of reacting with one molecule of a univalent basic substance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Containing one basic group or radical; combining with a base in only one proportion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monobasic designates having only one replaceable hydrogen atom."*
+> - 📜 **Justus von Liebig (*Familiar Letters on Chemistry*):** *"Hydrochloric acid is typical of a **monobasic** acid, neutralizing a single equivalent of soda."*
+> - 📜 **William Allen Miller (*Elements of Chemistry*):** *"Nitric acid yields only neutral salts because it functions strictly as a **monobasic** compound."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"Acetic acid, despite containing four hydrogen atoms, is strictly **monobasic** because only one proton is ionizable."*

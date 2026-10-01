@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The flora and fauna of a region.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The flora and fauna of a region.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The total flora and fauna of a specific geographical region, habitat, or geological period.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The combined living component of an ecosystem, distinct from its abiotic soil, air, and water components.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, biota designates the flora and fauna of a region."*
+> - 📜 **Edward O. Wilson (*The Diversity of Life*):** *"Human land clearance is eradicating an irreplaceable fraction of the tropical rainforest **biota**."*
+> - 📜 **Alfred Russel Wallace (*Island Life*):** *"The insular **biota** of oceanic archipelagos exhibits a striking paucity of terrestrial mammals and amphibians."*
+> - 📜 **Stephen Jay Gould (*Wonderful Life*):** *"The Burgess Shale preserved a soft-bodied marine **biota** whose anatomical disparity astounded modern paleontologists."*

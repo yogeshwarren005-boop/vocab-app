@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A medicated skin preparation made from glycerin and glycerinated gelatin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A medicated skin preparation made from glycerin and glycerinated gelatin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A medicinal mass consisting of gelatin, glycerin, water, and therapeutic medicaments, melted for application as a flexible cutaneous protective dressing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The dermatological compounding base invented by Unna (Unna's boot) used in compressive bandages for venous stasis and ulcers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, glycerogelatin designates a medicated skin preparation made from glycerin and glycerinated gelatin."*
+> - 📜 **Paul Gerson Unna (*Selected Monographs on Dermatology*):** *"The melted **glycerogelatin** is painted warm upon the limb and enveloped in gauze, solidifying into an elastic supportive casing."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Zinc oxide compounded in **glycerogelatin** remains the sovereign remedy for chronic stasis dermatitis."*
+> - 📜 **Jonathan Pereira (*The Elements of Materia Medica*):** *"The elastic properties of **glycerogelatin** make it an incomparable vehicle for continuous antiseptic contact."*

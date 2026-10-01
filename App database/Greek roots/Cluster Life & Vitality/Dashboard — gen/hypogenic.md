@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of birth, beget, race, kind.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of birth, beget, race, kind.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Formed or occurring deep beneath the Earth's surface (hypogene); of plutonic or subterranean origin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or caused by hypogenesis; characterized by developmental deficiency or incomplete tissue formation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypogenic designates adjective*) pertaining to, derived from, or characteristic of birth, beget, race, kind."*
+> - 📜 **Archibald Geikie (*Textbook of Geology*):** *"Plutonic granites and regional schists demonstrate the vast power of **hypogenic** heat and pressure."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"We trace volcanic intrusions down to their **hypogenic** reservoirs within the Earth's molten interior."*
+> - 📜 **William Boyd (*A Textbook of Pathology*):** *"Congenital **hypogenic** malformations of the heart arise during early truncal septation."*

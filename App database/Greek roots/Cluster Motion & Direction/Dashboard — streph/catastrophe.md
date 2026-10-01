@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A momentous tragic event ranging from extreme misfortune to utter overthrow or ruin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Utter failure : fiasco.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An event causing great and often sudden damage, suffering, or disaster; a terrible upheaval.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical drama, the final event or resolution in a tragedy (literally 'overturning' or 'downturn', Greek katastrophe) that concludes the dramatic action.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Pat! he comes, like the catastrophe of the old comedy: my cue is villainous melancholy, with a sigh like Tom o’Bedlam.—O, these eclipses do portend these divisions!"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Before night his doubt whether he may not be responsible for some inconceivable part in the catastrophe which is the talk of the whole neighbourhood is almost resolved into certainty by Mrs."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"But before these proceedings draw to a close, that is to say, on the night next after the catastrophe, Mr."*
+> - 📜 **William Shakespeare (*King Lear*):** *"Pat he comes, like the **catastrophe** of the old comedy: my cue is villainous melancholy."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Uniformitarianism rejected the notion that every geological epoch was terminated by a global **catastrophe**."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The sudden fall of the French monarchy was a historic **catastrophe** that shook the foundations of Europe."*

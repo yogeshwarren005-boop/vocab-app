@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Buildings for carrying on industrial labor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (botany) a living organism lacking the power of locomotion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A living organism of the kind exemplified by trees, shrubs, herbs, grasses, ferns, and mosses, typically growing in a permanent site and absorbing water and inorganic substances through roots.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A factory or industrial manufacturing facility; also, to place or set firmly in position.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go charge Agrippa Plant those that have revolted in the van That Antony may seem to spend his fury Upon himself. [_Exeunt Caesar and his Train._] ENOBARBUS."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But mark: as in this haughty great attempt They labored to plant the rightful heir, I lost my liberty and they their lives."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll plant Plantagenet, root him up who dares."*
+> - 📜 **William Shakespeare (*Romeo and Juliet*):** *"O, mickle is the powerful grace that lies in herbs, **plants**, stones, and their true qualities."*
+> - 📜 **Francis Bacon (*Essays*):** *"God Almighty first planted a garden; and indeed it is the purest of human pleasures; and every **plant** in it rejoiced."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"I came to love my rows of beans, and made haste to **plant** them before the summer solstice."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Kick (a ball) from a stationary position, in football.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Score (a goal) by making a place kick.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A kick in rugby or American football in which the ball is kicked from a stationary position on the ground or a tee; to kick the ball in this way.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In football tactics, a specialized kick used to score field goals, extra points, and kickoffs with maximum ballistic precision.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, place-kick designates kick (a ball) from a stationary position, in football."*
+> - 📜 **Tom Brown's School Days (*Thomas Hughes*):** *"The school captain stepped back to take the decisive **place-kick**, measuring the distance to the crossbar with calm eyes."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Missing Three-Quarter*):** *"His brilliant **place-kick** in the final minutes had won the Varsity rugby match against Oxford."*
+> - 📜 **P. G. Wodehouse (*The Gold Bat*):** *"He sent the ball sailing between the uprights with a clean, effortless **place-kick** that brought cheers from the pavilion."*

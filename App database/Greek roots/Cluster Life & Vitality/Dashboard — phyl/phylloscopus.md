@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Warblers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Warblers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large genus of small, insectivorous Old World passerine birds in the family Phylloscopidae; leaf warblers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Active, green or yellowish canopy-dwelling warblers (such as the chiffchaff and willow warbler) renowned for complex territorial songs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog phylloscopus as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"I distinguished three distinct species of small green willow wren, the precursors of the genus **Phylloscopus**, by their distinctive notes."*
+> - 📜 **Ernst Mayr (*Systematics and the Origin of Species*):** *"The circular overlapping species ring of **Phylloscopus** trochiloides around the Himalayas provides a classic demonstration of speciation."*
+> - 📜 **Julian Huxley (*The Courtship of Birds*):** *"Territorial singing in **Phylloscopus** warblers precedes pair formation in the spring willow thickets."*

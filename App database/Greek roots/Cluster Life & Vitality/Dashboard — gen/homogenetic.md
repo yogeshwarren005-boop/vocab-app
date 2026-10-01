@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of birth, beget, race, kind.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of birth, beget, race, kind.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to or characterized by homogenesis; of similar origin or descent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In embryology and genetics, having uniform genetic origin or derived from homologous structures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, homogenetic designates adjective*) pertaining to, derived from, or characteristic of birth, beget, race, kind."*
+> - 📜 **Thomas Henry Huxley (*Lay Sermons, Addresses, and Reviews*):** *"The **homogenetic** continuity of the germ-cell lineage explains the constancy of specific vertebrate anatomy."*
+> - 📜 **Karl Ernst von Baer (*Entwickelungsgeschichte der Thiere*):** *"Embryos of related classes share **homogenetic** pathways before diverging into specialized adult forms."*
+> - 📜 **August Weismann (*Essays Upon Heredity*):** *"Strict **homogenetic** reproduction guarantees that parental determiners pass uncorrupted to the filial generation."*

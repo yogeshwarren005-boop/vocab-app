@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to anestrus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to anestrus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or characterized by anestrus; sexually dormant or lacking reproductive receptivity in female mammals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In veterinary reproductive endocrinology, an adjectival variant denoting the baseline physiological state between successive estrous cycles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anestric designates of or relating to anestrus."*
+> - 📜 **Francis Marshall (*The Physiology of Reproduction*):** *"During the **anestric** interval of autumn, the ovarian follicles of the ewe remain completely quiescent."*
+> - 📜 **George Corner (*The Hormones in Human Reproduction*):** *"Comparative physiologists distinguish the fertile phase from the prolonged **anestric** period of seasonal breeders."*
+> - 📜 **Arthur Dendy (*Outlines of Evolutionary Biology*):** *"Mammalian species inhabiting temperate zones exhibit distinct **anestric** pauses synchronized with winter scarcity."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek phor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Motion & Direction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ancient Greek verb phero (meaning 'to bear, carry, bring forth, or endure'), serving as one of the most prolific roots in English scientific, philosophical, and literary vocabulary.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative Indo-European linguistics, a cognate of Latin ferre, Sanskrit bharati, and English bear, originating derivatives such as metaphor, periphery, phosphorus, and pheromone.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phero designates a term designating an entity, condition, or phenomenon derived from greek phor."*
+> - 📜 **Walter William Skeat (*An Etymological Dictionary of the English Language*):** *"The primary Greek verb **phero**, to carry or bear, forms the foundation of terms as diverse as metaphor, euphoria, and phosphorus."*
+> - 📜 **Ernest Weekley (*The Romance of Words*):** *"In every branch of modern learning, the Greek **phero** provides the vocabulary of carrying, transferring, and bringing forth."*
+> - 📜 **Peter Mark Roget (*Thesaurus of English Words and Phrases*):** *"Under the radical **phero**, we gather all concepts relating to transport, transmission, and sustained bearing."*

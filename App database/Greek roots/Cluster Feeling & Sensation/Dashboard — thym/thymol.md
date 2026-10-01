@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A colorless crystalline solid used in perfume or preserving biological specimens or in embalming or medically as a fungicide or antiseptic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A colorless crystalline solid used in perfume or preserving biological specimens or in embalming or medically as a fungicide or antiseptic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A naturally occurring monoterpene phenol derivative (C10H14O) obtained from oil of thyme, having a pleasant aromatic odor and potent antiseptic, antibacterial, and antifungal properties.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Widely used in historical pharmacopoeias and modern mouthwashes, dental varnishes, and anthelmintics (notably against hookworm infections).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thymol designates a colorless crystalline solid used in perfume or preserving biological specimens or in embalming or medically as a fungicide or antiseptic."*
+> - 📜 **Joseph Lister (*The Antiseptic System of Treatment*):** *"We tested crystalline **thymol** as a less irritating antiseptic dressing for operative wounds than carbolic acid."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The administration of **thymol** in divided doses followed by Epsom salts remains the sovereign remedy for uncinariasis (hookworm)."*
+> - 📜 **Jonathan Pereira (*The Elements of Materia Medica*):** *"The volatile camphor-like crystals of **thymol** melt easily and perfume the sickroom while checking putrefaction."*

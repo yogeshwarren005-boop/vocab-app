@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of feed, grow.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of feed, grow.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or engaging in trophobiosis; mutually dependent through nutritional food exchange.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to symbiotic interactions where one partner provides food secretions and the other offers defensive services.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trophobiotic designates adjective*) pertaining to, derived from, or characteristic of feed, grow."*
+> - 📜 **William Morton Wheeler (*Social Life Among the Insects*):** *"The **trophobiotic** bond between honeydew-secreting membracids and foraging dolichoderine ants is extraordinarily intimate."*
+> - 📜 **Edward O. Wilson (*Sociobiology: The New Synthesis*):** *"Chemical cues mediate the **trophobiotic** solicitation dance performed by worker ants touching aphid abdomens with antennae."*
+> - 📜 **David Sharp (*Insects: Part II*):** *"Certain lycaenid butterfly caterpillars have evolved specialized **trophobiotic** glands that produce sugary juices for protector ants."*

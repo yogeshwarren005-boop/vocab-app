@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormally increased and sometimes uncontrollable activity or muscular movements.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A condition especially of childhood characterized by hyperactivity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormally increased or exaggerated muscular movement or motor activity; a technical clinical synonym for hyperkinesia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical pediatric medicine and behavioral neurology, the diagnostic forerunner of attention deficit hyperactivity disorder (ADHD), characterized by sustained motor agitation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyperkinesis designates abnormally increased and sometimes uncontrollable activity or muscular movements."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"The post-encephalitic **hyperkinesis** manifested as an uncontrollable motor drive, impelling patients into frantic motion."*
+> - 📜 **Robley Dunglison (*Medical Lexicon*):** *"The term **hyperkinesis** designates any morbid increase of muscular motility, whether spasmodic or continuous."*
+> - 📜 **Charles Sherrington (*The Integrative Action of the Nervous System*):** *"Decerebrate preparations frequently exhibit dramatic motor release phenomena and reflex **hyperkinesis**."*

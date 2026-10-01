@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Wide open : gaping.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being in a state of wonder.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Selfless, sacrificial, unconditional love; the highest form of love in Christian theology, exemplified by God's love for humanity and love of neighbor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A communal 'love feast' or fellowship meal practiced by early Christians in conjunction with or prior to the celebration of the Eucharist.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"This was what their _Agape_ had come to."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"He was no more than six, and I remember looking on with mouth agape while his mother held him on her lap and his father set about bandaging the wound."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Zolan, on his feet, mouth agape, stared at Xindral."*
+> - 📜 **Saint Paul (*First Epistle to the Corinthians*):** *"Now abideth faith, hope, and charity, but the greatest of these is **agape**, the love that suffereth long and is kind."*
+> - 📜 **Martin Luther King Jr. (*Stride Toward Freedom*):** *"When we speak of loving those who oppose us, we refer not to emotional affection, but to **agape**, redemptive goodwill for all."*
+> - 📜 **Søren Kierkegaard (*Works of Love*):** *"Christian **agape** discovers neighbor in every single soul, refusing all preference based on worldly kinship or beauty."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to an entrepreneur.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Willing to take risks in order to make a profit.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by the taking of financial risks in the hope of profit; enterprising, innovative, and commercially ambitious.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In organizational sociology, describing corporate cultures or individual mindsets that prioritize agility, opportunity recognition, and calculated risk over bureaucratic caution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, entrepreneurial designates of or relating to an entrepreneur."*
+> - 📜 **Joseph Schumpeter (*Capitalism, Socialism and Democracy*):** *"The capitalist process gradually depersonalizes economic management, replacing individual **entrepreneurial** drive with bureaucratic committees."*
+> - 📜 **Max Weber (*The Protestant Ethic and the Spirit of Capitalism*):** *"The ascetic ethos of early Calvinism fostered an intense **entrepreneurial** energy that treated commercial success as a sign of divine favor."*
+> - 📜 **Peter Drucker (*Innovation and Entrepreneurship*):** *"Every established institution requires an **entrepreneurial** discipline to systematically abandon obsolete practices and pioneer new ones."*

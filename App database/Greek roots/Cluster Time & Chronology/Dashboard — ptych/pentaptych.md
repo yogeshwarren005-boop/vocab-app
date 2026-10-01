@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ptych.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Time & Chronology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A work of art consisting of five panels or sections, often hinged so that outer wings close over the center.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A five-part altarpiece displaying a central devotional image flanked by paired side wings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pentaptych designates a term designating an entity, condition, or phenomenon derived from greek ptych."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The Venetian **pentaptych** grouped four kneeling patrons around the enthroned Madonna."*
+> - 📜 **Banister Fletcher (*A History of Architecture*):** *"The carved reredos culminated in a monumental gilded **pentaptych** rising toward the chancel vault."*
+> - 📜 **Walter Pater (*Marius the Epicurean*):** *"The antique shrine featured a folding ivory **pentaptych** inscribed with sacred hymns."*

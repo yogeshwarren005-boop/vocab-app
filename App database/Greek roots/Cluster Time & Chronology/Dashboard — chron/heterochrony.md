@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek chron.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Time & Chronology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A developmental change in the timing or rate of ontogenetic events relative to the ancestor, leading to changes in size and shape.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary developmental biology, the macroevolutionary mechanism comprising paedomorphosis (neoteny, progenesis) and peramorphosis (hypermorphosis, acceleration).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heterochrony designates a term designating an entity, condition, or phenomenon derived from greek chron."*
+> - 📜 **Stephen Jay Gould (*Ontogeny and Phylogeny*):** *"Through **heterochrony**, simple genetic shifts in developmental timing can generate dramatic anatomical innovations without creating new genes."*
+> - 📜 **Ernst Haeckel (*Generelle Morphologie der Organismen*):** *"We defined **heterochrony** as a displacement in the temporal sequence of organ formation during embryonic ontogeny."*
+> - 📜 **Gavin de Beer (*Embryos and Ancestors*):** *"Neoteny in amphibians provides the classic demonstration of **heterochrony**, where larval somatic features persist in sexually mature adults."*

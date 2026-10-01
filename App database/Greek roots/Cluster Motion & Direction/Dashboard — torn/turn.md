@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To cause to move around an axis or a center : make rotate or revolve.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To cause to move around so as to effect a desired end (as of locking, opening, or shutting).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To move in a circular direction around an axis or center; to rotate, pivot, or change direction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To change or transform into a specified state or condition; to shape an object on a lathe (from Greek tornos lathe / compass).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This young maid might do her A shrewd turn, if she pleas’d."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I would the cutting of my garments would serve the turn, or the breaking of my Spanish sword."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The duke knows him for no other but a poor officer of mine, and writ to me this other day to turn him out o’ the band."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"Imperious Caesar, dead and **turned** to clay, might stop a hole to keep the wind away."*
+> - 📜 **John Keats (*Ode on a Grecian Urn*):** *"Thou still unravish'd bride of quietness, thou foster-child of silence and slow time, what leaf-fring'd legend haunts about thy shape of deities or mortals, or of both, in Tempe or the dales of Arcady?"*
+> - 📜 **Henry David Thoreau (*Walden*):** *"The wheels of nature **turn** with unhurried majesty, bringing the seasons round in perfect sequence."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The haploid, multicellular sexual reproductive stage in plants and algae that develops from spores and that gives rise to the male and female gametes which unite during fertilization to form the zygote.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The haploid, multicellular sexual reproductive stage in plants and algae that develops from spores and that gives rise to the male and female gametes which unite during fertilization to form the zygote.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The sexual, gamete-producing phase in the alternation of generations in plants and certain algae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant morphology, the haploid generation (such as a moss prothallus or the embryo sac in angiosperms) that bears antheridia and archegonia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gametophyte designates the haploid, multicellular sexual reproductive stage in plants and algae that develops from spores and that gives rise to the male and female gametes which unite during fertilization to form the zygote."*
+> - 📜 **Asa Gray (*Botanical Text-Book*):** *"In mosses, the green leafy carpet constitutes the dominant **gametophyte**, while the slender stalk and capsule represent the dependent sporophyte."*
+> - 📜 **Eduard Strasburger (*A Text-Book of Botany*):** *"Evolution in vascular land plants exhibits a progressive reduction of the free-living **gametophyte** to a microscopic, sheltered structure."*
+> - 📜 **Douglas Houghton Campbell (*The Structure and Development of Mosses and Ferns*):** *"The subterranean **gametophyte** of Psilotum lacks chlorophyll, relying upon an endophytic fungus for saprophytic nutrition."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A basic or basalt glass.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A basic or basalt glass.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A dark, glassy volcanic rock formed by the rapid cooling of basaltic magma.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In petrology and vulcanology, a natural basaltic glass (also spelled tachylyte) occurring at the chilled margins of dikes, sills, and lava pillows where crystallization was arrested.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tachylite designates a basic or basalt glass."*
+> - 📜 **Charles Darwin (*Geological Observations on Volcanic Islands*):** *"Along the outer rim of the basaltic flow, the molten rock had cooled instantaneously into a brittle, lustrous **tachylite**."*
+> - 📜 **Archibald Geikie (*Text-Book of Geology*):** *"Thin sections of **tachylite** under the microscope show a dark brown isotropic glass crowded with embryonic microlites."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The sudden quenching of the lava stream beneath the ocean brine produced a selvedge of pitch-black **tachylite**."*

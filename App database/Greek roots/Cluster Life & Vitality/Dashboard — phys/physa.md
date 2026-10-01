@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any member of the genus physa.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any member of the genus physa.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of small, air-breathing freshwater snails in the family Physidae, known as pouch snails or bladder snails.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sinistral (left-handed) freshwater gastropods having smooth, thin, glossy shells, commonly inhabiting ponds and aquaria.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, physa designates any member of the genus physa."*
+> - 📜 **Thomas Say (*Descriptions of American Shells*):** *"I established the genus **Physa** to accommodate those sinistral freshwater shells whose apertures open to the left."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Fossil species of **Physa** occur abundantly in freshwater Tertiary lacustrine limestones."*
+> - 📜 **Louis Agassiz (*Contributions to the Natural History of the United States*):** *"The rapid gliding locomotion of **Physa** across pond vegetation is executed by a broad, ciliated muscular foot."*

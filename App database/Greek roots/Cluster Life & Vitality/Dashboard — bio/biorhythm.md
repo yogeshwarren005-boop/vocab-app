@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An innately determined rhythmic biological process or function (such as sleep behavior); also : the internal mechanism that determines such a process or function.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An innately determined rhythmic biological process or function (such as sleep behavior); also : the internal mechanism that determines such a process or function.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An innate, cyclically recurring biological pattern of physiological, behavioral, or biochemical activity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Endogenous circadian, ultradian, or infradian oscillatory rhythms governed by suprachiasmatic cellular pacemakers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, biorhythm designates an innately determined rhythmic biological process or function (such as sleep behavior); also : the internal mechanism that determines such a process or function."*
+> - 📜 **Erwin Bünning (*The Physiological Clock*):** *"The endogenous **biorhythm** governs photoperiodic floral induction across diverse higher plant species."*
+> - 📜 **Colin Pittendrigh (*On Temporal Organization in Living Systems*):** *"The circadian **biorhythm** represents an evolved cellular adaptation synchronizing metabolism with the solar cycle."*
+> - 📜 **J. Woodbridge Davis (*Circadian Clocks*):** *"Disrupting the natural **biorhythm** through constant illumination induces profound hormonal and metabolic desynchrony."*

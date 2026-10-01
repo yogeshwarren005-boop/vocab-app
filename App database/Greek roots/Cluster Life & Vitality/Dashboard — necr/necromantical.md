@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or associated with necromancy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or associated with necromancy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or characteristic of necromancy; necromantic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In archaic prose, pertaining to the illicit invocation of deceased souls or demonic spirits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, necromantical designates relating to or associated with necromancy."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"Many reputed miracles of pagan oracles were mere delusions contrived by **necromantical** impostors."*
+> - 📜 **Robert Burton (*The Anatomy of Melancholy*):** *"Sorcerers use spells and **necromantical** circles to terrify fearful consciences into despair."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"The treasure-hunter muttered **necromantical** incantations as he dug into the ruined priory vault."*

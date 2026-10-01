@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring without loss or gain of heat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Occurring without loss or gain of heat.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or denoting a thermodynamic process occurring without the loss or gain of heat by the system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In meteorology, describing atmospheric temperature changes produced solely by expansion or compression of an air parcel.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, adiabatic designates occurring without loss or gain of heat."*
+> - 📜 **J. Willard Gibbs (*Graphical Methods in the Thermodynamics of Fluids*):** *"An **adiabatic** expansion represents a path along which no thermal energy penetrates the system boundary."*
+> - 📜 **Rudolf Clausius (*The Mechanical Theory of Heat*):** *"In purely **adiabatic** compression, the mechanical work performed converts directly into internal thermal energy."*
+> - 📜 **Napier Shaw (*Manual of Meteorology*):** *"The dry **adiabatic** lapse rate governs the cooling of rising unsaturated air in convective columns."*

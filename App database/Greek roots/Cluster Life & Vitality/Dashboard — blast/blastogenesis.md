@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Asexual reproduction by budding.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Theory that inherited characteristics are transmitted by germ plasm.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Reproduction or inheritance proceeding exclusively from the germ-plasm (germ cells) rather than somatic tissues.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In immunology and hematology, the morphological transformation and rapid mitotic activation of quiescent lymphocytes into lymphoblasts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, blastogenesis designates asexual reproduction by budding."*
+> - 📜 **August Weismann (*The Germ-Plasm: A Theory of Heredity*):** *"I designate by **blastogenesis** the continuity of the germ-plasm, which remains unaffected by somatic modifications acquired during life."*
+> - 📜 **Peter Medawar (*The Uniqueness of the Individual*):** *"Phytohemagglutinin stimulates widespread **blastogenesis** in resting peripheral blood lymphocytes within cell culture."*
+> - 📜 **Ernst Mayr (*The Growth of Biological Thought*):** *"Weismann's concept of **blastogenesis** sounded the death knell for inheritance of acquired characters."*

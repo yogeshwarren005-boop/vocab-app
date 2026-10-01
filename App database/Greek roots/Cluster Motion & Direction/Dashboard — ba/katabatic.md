@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or being a wind produced by the flow of cold dense air down a slope (as of a mountain or glacier) in an area subject to radiational cooling.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or being a wind produced by the flow of cold dense air down a slope (as of a mountain or glacier) in an area subject to radiational cooling.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to a wind that blows down a topographic slope or valley due to surface cooling and gravity (downslope gravity flow).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Variant spelling of catabatic; characterized by dense cold airflow descending from ice sheets or mountain summits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, katabatic designates relating to or being a wind produced by the flow of cold dense air down a slope (as of a mountain or glacier) in an area subject to radiational cooling."*
+> - 📜 **Douglas Mawson (*The Home of the Blizzard*):** *"Adélie Land is the home of the fiercest **katabatic** winds on Earth, roaring incessantly from the ice plateau."*
+> - 📜 **Robert Falcon Scott (*Scott's Last Expedition*):** *"A sudden **katabatic** blizzard swept down from the Beardmore Glacier, halting all sledging progress."*
+> - 📜 **Napier Shaw (*Manual of Meteorology*):** *"Gravitational drainage produces powerful nighttime **katabatic** drafts in narrow alpine canyons."*

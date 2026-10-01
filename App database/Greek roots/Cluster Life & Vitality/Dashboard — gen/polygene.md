@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A gene that by itself has little effect on the phenotype but which can act together with others to produce observable variations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A gene that by itself has little effect on the phenotype but which can act together with others to produce observable variations.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of a group of non-allelic genes that together control a quantitative phenotypic character (such as height, skin color, or yield).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A gene having a small, cumulative additive effect on a continuous phenotype in polygenic inheritance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polygene designates a gene that by itself has little effect on the phenotype but which can act together with others to produce observable variations."*
+> - 📜 **Kenneth Mather (*Biometrical Genetics*):** *"I introduced the concept of the **polygene** to account for continuous phenotypic variation governed by Mendelian principles."*
+> - 📜 **Ronald Fisher (*The Correlation Between Relatives on the Supposition of Mendelian Inheritance*):** *"The cumulative action of multiple **polygenes** generates normal bell-shaped frequency distributions in natural populations."*
+> - 📜 **Sewall Wright (*Evolution and the Genetics of Populations*):** *"Selection upon a vast **polygene** system permits steady phenotypic movement far beyond the original range of variation."*

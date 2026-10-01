@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek treph.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Life & Vitality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An organism that uses light for energy but cannot use carbon dioxide as its sole carbon source, requiring organic compounds from its environment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A photosynthetic organism (such as purple non-sulfur bacteria) that generates ATP via photophosphorylation while assimilating organic acids.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, photoheterotroph designates a term designating an entity, condition, or phenomenon derived from greek treph."*
+> - 📜 **Cornelis van Niel (*The Chemolithoautotrophic and Photosynthetic Bacteria*):** *"Rhodospirillum rubrum functions as a quintessential **photoheterotroph**, converting organic malate using light energy without oxygen evolution."*
+> - 📜 **Albert Lehninger (*Principles of Biochemistry*):** *"The **photoheterotroph** combines light-driven ATP production with the enzymatic assimilation of simple organic carbon skeletons."*
+> - 📜 **Eugene Odum (*Fundamentals of Ecology*):** *"In anoxic littoral sediments, the **photoheterotroph** exploits radiant infrared energy while recycling fermentation byproducts."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: treponema.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: treponema.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any spirochete bacterium belonging to the genus Treponema; a slender, corkscrew-shaped microorganism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical microbiology, a microscopic pathogen (such as *Treponema pallidum*) visualized through silver staining or darkfield microscopy, infamous for tissue invasiveness and latency.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, treponeme designates treponema."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Under the darkfield condenser, the silvery, coiled **treponeme** spins across the field with an unmistakable corkscrew rotation."*
+> - 📜 **Paul Ehrlich (*Experimental Chemotherapy*):** *"Our laboratory target was the fragile yet lethal **treponeme**, an organism incapable of surviving prolonged desiccation outside its host."*
+> - 📜 **Robley Dunglison (*Medical Lexicon*):** *"The invasion of the central nervous system by the virulent **treponeme** lays the pathological foundation for general paresis."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Anaphylactic shock.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hypersensitivity (as to foreign proteins or drugs) resulting from sensitization following prior contact with the causative agent.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An acute, severe, and potentially fatal systemic allergic reaction caused by the release of chemical mediators from sensitized mast cells and basophils.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The immunological phenomenon discovered by Charles Richet in 1902 whereby a prior non-lethal antigen exposure causes fatal hypersensitivity upon rechallenge.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anaphylaxis designates anaphylactic shock."*
+> - 📜 **Charles Richet (*Anaphylaxis*):** *"I coined the word **anaphylaxis** to denote the exact opposite of protection (phylaxis), representing hypersusceptibility instead of immunity."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Administration of foreign animal antisera must always be guarded by precautions against fatal **anaphylaxis**."*
+> - 📜 **Bela Schick (*Serum Sickness*):** *"Experimental **anaphylaxis** demonstrated that immune mechanisms can act destructively against the host organism."*

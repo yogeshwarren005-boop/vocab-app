@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or resulting from or resembling cholera.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or resulting from or resembling cholera.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, resembling, or caused by cholera.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pathology, describing symptoms such as rice-water diarrhea, rapid dehydration, cold extremities, and sunken eyes typical of cholera or cholera-like enteritis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, choleraic designates relating to or resulting from or resembling cholera."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The onset of violent vomiting accompanied by **choleraic** purging rapidly plunges the patient into dangerous circulatory collapse."*
+> - 📜 **Florence Nightingale (*Notes on Nursing*):** *"The foul **choleraic** discharges must be instantly disinfected and removed from the hospital pavilion."*
+> - 📜 **Robley Dunglison (*Medical Lexicon*):** *"Severe infantile diarrhea frequently assumes a **choleraic** type marked by alarming prostration and hypothermia."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek horo.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Time & Chronology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific measurement of time, especially the computation or calculation of hours.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical astronomy and dialling, the mathematical theory and practical method of graduating sundials and water clocks to mark equal and unequal hours.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, horometry designates a term designating an entity, condition, or phenomenon derived from greek horo."*
+> - 📜 **Simon Newcomb (*The Elements of Astronomy*):** *"The ancient Greeks mastered practical **horometry** by combining the shadow of the gnomon with the geometry of the sphere."*
+> - 📜 **Vitruvius (*De Architectura*):** *"In my treatise on **horometry**, I have explained the mathematical principles governing both winter and summer dials."*
+> - 📜 **Lord Kelvin (*Treatise on Natural Philosophy*):** *"Accurate terrestrial **horometry** demands that we calibrate mechanical ticks against the rotational momentum of the earth."*

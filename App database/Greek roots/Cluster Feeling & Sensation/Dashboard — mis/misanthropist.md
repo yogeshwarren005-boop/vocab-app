@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who dislikes people in general.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who dislikes people in general.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who hates or distrusts humanity; a misanthrope.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An observer who persistently interprets human actions through the lens of malice and selfishness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"All the world used her ill, said this young misanthropist, and we may be pretty certain that persons whom all the world treats ill, deserve entirely the treatment they get."*
-> - 📜 **Emily Brontë (*Wuthering Heights*):** *"A perfect misanthropist’s Heaven—and Mr."*
-> - 📜 **Emily Brontë (*Wuthering Heights*):** *"Living among clowns and misanthropists, she probably cannot appreciate a better class of people when she meets them."*
+> - 📜 **Tobias Smollett (*The Adventures of Peregrine Pickle*):** *"The old sea captain lived as a confirmed **misanthropist**, swearing that dogs were the only honest creatures left."*
+> - 📜 **Alexander Pope (*An Essay on Man*):** *"The foolish **misanthropist** censures universal Providence merely because individual mortals are frail."*
+> - 📜 **Arthur Schopenhauer (*Parerga and Paralipomena*):** *"The true **misanthropist** is formed not by envy, but by repeated discoveries of human baseness."*

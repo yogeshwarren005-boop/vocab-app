@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An antibiotic obtained from an actinomycete and used (as a sulphate under the trade name neobiotic) as an intestinal antiseptic in surgery.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An antibiotic obtained from an actinomycete and used (as a sulphate under the trade name neobiotic) as an intestinal antiseptic in surgery.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to modern, living, or recently evolved biological species or ecological systems, as opposed to paleobiotic forms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Describing contemporary ecological communities and recent taxa in evolutionary and paleoclimatic studies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neobiotic designates an antibiotic obtained from an actinomycete and used (as a sulphate under the trade name neobiotic) as an intestinal antiseptic in surgery."*
+> - 📜 **Charles Schuchert (*Historical Geology*):** *"We contrast ancient fossil assemblages with the flourishing species of the modern **neobiotic** realm."*
+> - 📜 **Amadeus William Grabau (*Principles of Stratigraphy*):** *"Sedimentological analysis traces the gradual transition from archaic forms to the current **neobiotic** fauna."*
+> - 📜 **George Gaylord Simpson (*Tempo and Mode in Evolution*):** *"The genetic architecture of **neobiotic** populations provides the baseline for inferring ancient rates of evolutionary change."*

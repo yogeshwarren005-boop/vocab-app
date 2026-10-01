@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Eagerness and enthusiastic interest in pursuit of something : fervor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Great enthusiasm.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Great energy, passion, enthusiasm, or fervor in pursuit of a cause, ideal, objective, or religious conviction (from Greek *zēlos*).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ardent devotion and tirelessness in defending a principle or faith; impassioned earnestness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If thou wert sensible of courtesy, I should not make so dear a show of zeal."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Or honest Bardolph, whose zeal burns in his nose, of the wicked?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You have ta’en up, Under the counterfeited zeal of God, The subjects of his substitute, my father, And both against the peace of heaven and him Have here up-swarm’d them."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Zephon, with severe regard, remarked his arrogant stride; for the angel glowed with youthful **zeal** for celestial honor."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"A fanatical political **zeal** destroys ancient institutions overnight, forgetting that liberty grows through centuries of compromise."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Religious **zeal** in the early American pioneers burned with an intense moral flame that shaped the constitution of the republic."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek opsi.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Time & Chronology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who begins to learn or study late in life; a late-blooming student.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary and philosophical portraiture, an individual who undertakes serious scholarly acquisition in advanced age, celebrated by Theophrastus in his *Characters*.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, opsimath designates a term designating an entity, condition, or phenomenon derived from greek opsi."*
+> - 📜 **Theophrastus (*Characters*):** *"The **opsimath** is one who in his sixty-seventh year memorizes epic verses and undertakes to learn the dance."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"Cato was an admirable **opsimath**, taking up the study of Greek in his green old age with stubborn vigor."*
+> - 📜 **Isaac D'Israeli (*Curiosities of Literature*):** *"History abounds with the triumphant achievements of the **opsimath**, proving that genius needs no youth to bear golden fruit."*

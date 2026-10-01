@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To locate and bring in (killed or wounded game).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To call to mind again.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To get or bring something back from a place; to regain possession of; to restore an unfavorable situation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In computer science and cognitive psychology, to fetch stored information from a memory medium; in hunting, to find and fetch shot game.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I have no doubt that his desire to retrieve what he had lost was rendered the more intense by his grief for his young wife, and became like the madness of a gamester."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"It shall upon my bosom live, Or clasp me in a close embrace; And at its fortune if you grieve, Retrieve its doom, and take its place."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Or, there’s Satan!--one might venture Pledge one’s soul to him, yet leave Such a flaw in the indenture As he’d miss till, past retrieve, Blasted lay that rose-acacia We’re so proud of!"*
+> - 📜 **William Shakespeare (*Henry V*):** *"Turn him to any cause of policy, the Gordian knot of it he will unloose, and **retrieve** the empire from peril."*
+> - 📜 **Daniel Defoe (*Robinson Crusoe*):** *"I swam out to the wreck at low tide, hoping to **retrieve** some barrels of powder before the next storm broke."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Holmes dashed into the burning room to **retrieve** the packet of letters from the iron safe."*

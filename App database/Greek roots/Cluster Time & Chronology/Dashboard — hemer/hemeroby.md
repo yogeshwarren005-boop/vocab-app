@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek hemer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Time & Chronology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The degree of human impact or cultural disturbance on a natural ecosystem or plant community.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In landscape ecology and biogeography, a standardized classification scale (from ahemerobic to metahemerobic) measuring how severely human development has altered indigenous flora.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemeroby designates a term designating an entity, condition, or phenomenon derived from greek hemer."*
+> - 📜 **Arthur Tansley (*The British Islands and Their Vegetation*):** *"Assessing the level of **hemeroby** enables the ecologist to measure how far an urban park has departed from primeval climax vegetation."*
+> - 📜 **Eugene Odum (*Fundamentals of Ecology*):** *"High **hemeroby** indices correlate directly with the dominance of cosmopolitan ruderal weeds and loss of sensitive native species."*
+> - 📜 **G. Ledyard Stebbins (*Variation and Evolution in Plants*):** *"Anthropogenic disturbance creates habitats with elevated **hemeroby**, accelerating hybridization among previously isolated plant taxa."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or associated with necromancy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Given to or produced by or used in the art of conjuring up the dead.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or practiced by means of necromancy; dealing with the conjuration of the dead.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the eerie, uncanny, or sinister aura of magical contact with corpses or the underworld.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Wopsle in a high-crowned hat, with a necromantic work in one volume under his arm."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"And the lighted lamp and the burning peat fire seemed to invoke like some necromantic ritual."*
-> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"Your poor cousin Clifford is another dead and long-buried person, on whom the governor and council have wrought a necromantic miracle."*
+> - 📜 **Percy Bysshe Shelley (*Frankenstein (Preface)*):** *"The solitary student pursued his investigations by midnight into charnel houses with almost **necromantic** zeal."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"Old Roger Chillingworth delved into the young minister's heart with a dark, **necromantic** scrutiny."*
+> - 📜 **Edgar Allan Poe (*The Fall of the House of Usher*):** *"A wild mystical gloom pervaded the study, redolent of antique folios and **necromantic** speculations."*

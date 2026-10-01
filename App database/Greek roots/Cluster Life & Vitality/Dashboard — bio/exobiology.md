@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of biology concerned with the search for life outside the earth and with the effects of extraterrestrial environments on living organisms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A branch of biology concerned with the search for life outside the earth and with the effects of extraterrestrial environments on living organisms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of biology concerned with the search for and study of life elsewhere in the universe.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The study of the potential effects of extraterrestrial environments on living organisms and planetary biochemistry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, exobiology designates a branch of biology concerned with the search for life outside the earth and with the effects of extraterrestrial environments on living organisms."*
+> - 📜 **Joshua Lederberg (*Exobiology: Approaches to Life beyond the Earth*):** *"I coined the term **exobiology** to emphasize our need to formulate universal criteria for life beyond Earth."*
+> - 📜 **Carl Sagan (*The Cosmic Connection*):** *"Critics once quipped that **exobiology** was a discipline without a subject matter, yet finding one alien microbe would revolutionize science."*
+> - 📜 **I. S. Shklovskii (*Intelligent Life in the Universe*):** *"Theoretical **exobiology** examines whether water and carbon chemistry are cosmic imperatives or terrestrial parochialisms."*

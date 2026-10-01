@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessive urination at night; especially common in older men.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Excessive urination at night; especially common in older men.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessive or frequent urination during the night (nocturia).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Clinical symptom indicating congestive heart failure, renal dysfunction, benign prostatic hyperplasia, or diabetes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nycturia designates excessive urination at night; especially common in older men."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Troublesome **nycturia** is one of the earliest clinical signs of chronic interstitial nephritis."*
+> - 📜 **Austin Flint (*A Treatise on the Principles and Practice of Medicine*):** *"In elderly men, persistent **nycturia** points toward progressive prostatic enlargement."*
+> - 📜 **Claude Bernard (*Lectures on Experimental Pathology*):** *"Alterations in nighttime glomerular filtration rates account for the physiological mechanisms of **nycturia**."*

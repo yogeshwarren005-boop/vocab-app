@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an apathetic manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an apathetic manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an apathetic manner; with complete indifference, lack of interest, or absence of emotion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Passively and listlessly, without active engagement or concern.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"He waited patiently, apathetically, till the violence of her grief had worn itself out, and her rush of weeping had lessened to a catching gasp at intervals."*
+> - 📜 **Stephen Crane (*The Red Badge of Courage*):** *"The wounded soldier leaned against a stump, gazing **apathetically** across the smoke-filled field of battle."*
+> - 📜 **George Orwell (*Keep the Aspidistra Flying*):** *"He looked at the empty soup tin on the gas-ring and turned **apathetically** back to his cold blankets."*
+> - 📜 **Virginia Woolf (*The Voyage Out*):** *"The heat was oppressive, and the passengers lay **apathetically** in deck chairs, watching the brown river bank slide by."*

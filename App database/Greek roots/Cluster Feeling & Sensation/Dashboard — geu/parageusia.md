@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek geu.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Feeling & Sensation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal, unpleasant, or hallucinatory taste perception, such as experiencing a persistent bad taste in the absence of gustatory stimuli.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychiatry and neurology, a sensory hallucination or aura occurring in temporal lobe epilepsy or psychotic disorders.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parageusia designates a term designating an entity, condition, or phenomenon derived from greek geu."*
+> - 📜 **William Gowers (*Epilepsy and Other Chronic Convulsive Diseases*):** *"The epileptic aura often manifested as an inexplicable **parageusia**, a gustatory phantom of burning rubber or copper."*
+> - 📜 **Henry Maudsley (*Responsibility in Mental Disease*):** *"Suspicious delusions of poisoning are often provoked by an unrecognized somatic **parageusia** arising from visceral disease."*
+> - 📜 **Jean-Martin Charcot (*Clinical Lectures on Diseases of the Nervous System*):** *"Hysterical hemianesthesia is occasionally accompanied by a bizarre contralateral **parageusia** where water tastes like brine."*

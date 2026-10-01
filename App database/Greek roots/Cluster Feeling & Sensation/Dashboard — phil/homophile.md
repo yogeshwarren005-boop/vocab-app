@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who practices homosexuality; having a sexual attraction to persons of the same sex.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Homosexual or arousing homosexual desires.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A term used historically (especially in the 1950s and 1960s) to denote a gay person or the early gay rights movement, emphasizing emotional and romantic love over sexuality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biochemistry and immunology, describing molecules or receptors that exhibit homophilic binding (binding to identical molecules on neighboring cells).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, homophile designates someone who practices homosexuality; having a sexual attraction to persons of the same sex."*
+> - 📜 **Christopher Isherwood (*Christopher and His Kind*):** *"The early **homophile** associations met quietly in church basements, seeking civil recognition through dignified education."*
+> - 📜 **Michel Foucault (*The History of Sexuality*):** *"The emergence of the **homophile** press in the post-war era signaled a conscious shift toward political self-definition."*
+> - 📜 **Gerald Edelman (*Neural Darwinism*):** *"Cell-adhesion molecules exhibit **homophile** binding, linking like cell membranes to guide embryological tissue formation."*

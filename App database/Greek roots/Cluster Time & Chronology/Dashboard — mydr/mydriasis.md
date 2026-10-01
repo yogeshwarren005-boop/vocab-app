@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessive or prolonged dilatation of the pupil of the eye.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Excessive or prolonged dilatation of the pupil of the eye.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Prolonged or excessive abnormal dilation of the pupil of the eye, whether physiological, pharmacological, or pathological.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurology and ophthalmology, dilation caused by parasympathetic oculomotor nerve paralysis, sympathetic overstimulation, or topical antimuscarinic drugs like atropine.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mydriasis designates excessive or prolonged dilatation of the pupil of the eye."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Unilateral **mydriasis** paired with ptosis strongly suggests an expanding aneurysm of the posterior communicating artery."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"Instillation of belladonna alkaloids paralyzes the constrictor pupillae, resulting in maximal, unreactive **mydriasis**."*
+> - 📜 **Hermann von Helmholtz (*Treatise on Physiological Optics*):** *"Under complete drug-induced **mydriasis**, spherical aberration at the lens margins becomes markedly pronounced."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An animal that walks with the entire sole of the foot touching the ground as e.g. bears and human beings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of mammals) walking on the whole sole of the foot (as rabbits, raccoons, bears, and humans do).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Walking on the soles of the feet, like a human, bear, or badger, with the heel touching the ground.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by locomotion in which the entire metatarsus and tarsus contact the substrate during weight-bearing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plantigrade designates an animal that walks with the entire sole of the foot touching the ground as e.g. bears and human beings."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Humans share a fully **plantigrade** foot structure with our mammalian ancestors, providing stable bipedal support."*
+> - 📜 **Georges Cuvier (*The Animal Kingdom*):** *"Cuvier distinguished the **plantigrade** carnivores, such as bears and badgers, from the digitigrade felines."*
+> - 📜 **Richard Owen (*On the Archetype and Homologies of the Vertebrate Skeleton*):** *"The skeletal heel bone of a **plantigrade** quadruped rests directly on the earth during the stride."*

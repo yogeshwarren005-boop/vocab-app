@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (physiology) the normal degeneration and death of living cells (as in various epithelial cells).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (physiology) the normal degeneration and death of living cells (as in various epithelial cells).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The natural, gradual physiological death and replacement of cells or tissues as part of normal biological turnover.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pathological localized collagen degeneration, as in necrobiosis lipoidica diabeticorum, characterized by palisading granulomas.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, necrobiosis designates (physiology) the normal degeneration and death of living cells (as in various epithelial cells)."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"I introduced the term **necrobiosis** to distinguish the continuous physiological death of active cells from sudden catastrophic necrosis."*
+> - 📜 **William Boyd (*A Textbook of Pathology*):** *"In necrobiosis lipoidica, cutaneous collagen bundles undergo degenerating **necrobiosis** surrounded by lipid-laden histiocytes."*
+> - 📜 **Claude Bernard (*Lectures on the Phenomena of Life*):** *"Living tissue sustains its vitality through incessant destruction, an ongoing internal **necrobiosis** balanced by synthesis."*

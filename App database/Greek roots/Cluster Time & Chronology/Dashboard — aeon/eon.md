@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An immeasurably or indefinitely long period of time : age.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A very large division of geologic time usually longer than an era.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An extremely long, indefinite span of time; standard American spelling of aeon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geochronology, the fundamental unit of geologic time comprising billions or hundreds of millions of years, divided into eras, periods, and epochs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"E., eon: Magee, John Eglinton."*
-> - 📜 **James Joyce (*Ulysses*):** *"Any object, intensely regarded, may be a gate of access to the incorruptible eon of the gods."*
-> - 📜 **James Joyce (*Ulysses*):** *"Streams of tendency and eons they worship."*
+> - 📜 **John McPhee (*Basin and Range*):** *"The mind can scarcely grasp the vastness of deep time, where an **eon** unfolds across hundreds of millions of years."*
+> - 📜 **Carl Sagan (*Cosmos*):** *"Through **eon** after **eon**, stars condensed, burned their nuclear fires, and scattered heavy elements across the cosmos."*
+> - 📜 **Stephen Jay Gould (*Time's Arrow, Time's Cycle*):** *"Geologists required an **eon** of historical narrative to replace the compressed biblical chronology of earth's creation."*

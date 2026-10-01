@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek thanat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Life & Vitality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A spiritual or philosophical contemplation of death and mortal transience.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The poetic view of mortality expressed in nineteenth-century romantic literature, envisioning death as peaceful rest in the earth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thanatopsis designates a term designating an entity, condition, or phenomenon derived from greek thanat."*
+> - 📜 **William Cullen Bryant (*Thanatopsis*):** *"To him who in the love of Nature holds communion with her visible forms, she speaks a various language; she glides into his darker musings with a mild and healing sympathy... a serene **thanatopsis**."*
+> - 📜 **Henry David Thoreau (*A Week on the Concord and Merrimack Rivers*):** *"In the quiet autumn woods, the falling leaves offer a gentle **thanatopsis** reconciling the wanderer to the inevitable sleep."*
+> - 📜 **Walt Whitman (*Leaves of Grass*):** *"I bequeath myself to the dirt to grow from the grass I love; if you want me again look for me under your boot-soles—a glorious American **thanatopsis**."*

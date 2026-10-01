@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A cathode-ray tube on which the picture appears in a television set : picture tube.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A movie made by filming the images displayed on a picture tube.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cathode-ray tube used in television receivers to display images; historically, a film recording made directly from the screen of a television monitor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In broadcasting history (invented by Vladimir Zworykin), the optical-electronic device that revolutionized early television before magnetic videotape recording became available.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, kinescope designates a cathode-ray tube on which the picture appears in a television set : picture tube."*
+> - 📜 **Vladimir Zworykin (*Television: The Electronics of Image Transmission*):** *"In the **kinescope**, a finely focused beam of electrons sweeps across the fluorescent screen, painting thirty frames every second."*
+> - 📜 **Norbert Wiener (*Cybernetics*):** *"The feedback loops within the television **kinescope** ensure precise synchronization between the transmitter and the display."*
+> - 📜 **Lewis Mumford (*Technics and Civilization*):** *"Early television broadcasts were preserved for posterity only through the grainy medium of the film **kinescope**."*

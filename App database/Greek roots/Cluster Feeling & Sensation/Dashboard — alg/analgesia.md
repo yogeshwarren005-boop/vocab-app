@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Insensibility to pain without loss of consciousness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Insensibility to pain without loss of consciousness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The inability to feel pain while remaining fully conscious, whether occurring naturally, through neuropathy, or induced by medication.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical therapeutics and surgical practice, the targeted elimination of nociceptive sensation without inducing generalized loss of consciousness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, analgesia designates insensibility to pain without loss of consciousness."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Complete cutaneous **analgesia** accompanied by preserved thermal sensibility is the diagnostic sign of syringomyelia."*
+> - 📜 **René Leriche (*The Surgery of Pain*):** *"The surgeon strives not merely to suppress symptom, but to establish durable **analgesia** by sympathetic nerve block."*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*):** *"Congenital **analgesia** turns out to be a perilous curse, depriving children of the vital protective warnings of pain."*

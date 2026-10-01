@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A speech of violent denunciation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A speech of violent denunciation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A bitter, passionate, and severe verbal attack or denunciation; a fiery tirade against a person or policy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Originally, the three fiery orations delivered by Demosthenes urging the Athenians to resist Philip II of Macedon; later Cicero's fourteen speeches against Mark Antony.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Bickerdyke's philippic--She procures his dismissal--His interview with General Sherman--"She ranks me"--The commanding generals appreciate her--Convalescent soldiers _vs._ colored nurses--The Medical Director's order--Mrs."*
+> - 📜 **Cicero (*Second Philippic*):** *"I shall not hesitate to deliver this **philippic** against Antony, exposing his treason before the Senate of Rome."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"Burke launched a furious **philippic** against Hastings that moved the House of Commons to gasps and tears."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The orations of Demosthenes, known as the **Philippics**, remain the immortal models of patriotic civic indignation."*

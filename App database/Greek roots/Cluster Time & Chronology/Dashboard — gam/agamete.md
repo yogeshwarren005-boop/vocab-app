@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An asexual reproductive cell.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An asexual reproductive cell.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An asexual reproductive cell that develops into a new individual without undergoing sexual fusion or fertilization; an asexual spore.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In protozoology and algology, a naked swarm-spore, zoospore, or merozoite that reproduces the organism directly without uniting with another gamete.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, agamete designates an asexual reproductive cell."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"In sporozoan life cycles, the **agamete** multiplies schizogonously within host tissue before sexual elements appear."*
+> - 📜 **Francis Maitland Balfour (*A Treatise on Comparative Embryology*):** *"The flagellated **agamete** settles upon the substrate, secreting a cell wall to form a sedentary vegetative colony."*
+> - 📜 **Ernst Haeckel (*The Wonders of Life*):** *"We distinguish the sexual gamete from the non-conjugating **agamete** that propagates the species purely by fission."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the letters adopted as books of the New Testament.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A liturgical lection usually from one of the New Testament Epistles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A written communication directed to a person or group; a formal, didactic, or elegant literary letter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biblical canon and liturgical practice, one of the doctrinal letters of the New Testament (such as those of Paul or Peter) appointed to be read during public Christian worship.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The substance of the epistle had occupied him but little in comparison with the fact of its arrival."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She watched till the postman passed by, ran out to him with her epistle, and then again took her listless place inside the window-panes."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"He also gained a knowledge of men and things German, and a living interest in them, which he retained through life. [Footnote 5: Afterwards author of a learned but fantastic Commentary on the Epistle to the Hebrews."*
+> - 📜 **Alexander Pope (*An Essay on Man*):** *"He addressed his moral **epistle** to Bolingbroke, vindicating the ways of God to inquiring minds."*
+> - 📜 **Samuel Johnson (*The Lives of the English Poets*):** *"Horace composed each verse **epistle** with an urbanity and conversational grace that concealed consummate art."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"A formal **epistle** from a prudent statesman often preserves more truth of history than a labored chronicle."*

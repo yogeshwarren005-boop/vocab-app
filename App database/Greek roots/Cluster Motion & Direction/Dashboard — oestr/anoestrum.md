@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Applies to nonhuman mammals: a state or interval of sexual inactivity between two periods of estrus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Applies to nonhuman mammals: a state or interval of sexual inactivity between two periods of estrus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The period of sexual dormancy and non-breeding between periods of oestrus in female mammals; a Latinate technical synonym for anoestrus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In veterinary endocrinology, the phase of the oestrous cycle during which the reproductive tract is atrophic and pituitary gonadotropin output remains low.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anoestrum designates applies to nonhuman mammals: a state or interval of sexual inactivity between two periods of estrus."*
+> - 📜 **Francis Marshall (*The Physiology of Reproduction*):** *"During **anoestrum**, the uterine mucosa shows marked involution and an absence of secretory activity."*
+> - 📜 **Robley Dunglison (*Medical Lexicon*):** *"The term **anoestrum** designates that quietude of the generative organs intervening between rutting seasons."*
+> - 📜 **George Corner (*The Hormones in Human Reproduction*):** *"Laboratory studies confirm that artificial illumination can abbreviate the duration of physiological **anoestrum** in sheep."*

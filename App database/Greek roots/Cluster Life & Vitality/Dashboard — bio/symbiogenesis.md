@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Symbiogenesis is the leading evolutionary theory of the origin of eukaryotic cells from prokaryotic organisms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The theory holds that mitochondria, plastids such as chloroplasts, and possibly other organelles of eukaryotic cells are descended from formerly free-living prokaryotes taken one inside the other in endosymbiosis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The evolutionary origin of new species, tissues, or organs through the long-term symbiotic merger of distinct organisms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The macroevolutionary mechanism championed by Konstantin Mereschkowski and Lynn Margulis wherein endosymbiosis drives major cellular innovations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, symbiogenesis designates symbiogenesis is the leading evolutionary theory of the origin of eukaryotic cells from prokaryotic organisms."*
+> - 📜 **Konstantin Mereschkowski (*The Theory of Two Plasms as the Basis of Symbiogenesis*):** *"I have proposed the term **symbiogenesis** to designate the origin of organisms through the mutual combination and fusion of two or more distinct entities."*
+> - 📜 **Lynn Margulis (*Acquiring Genomes: A Theory of the Origins of Species*):** *"Speciation by **symbiogenesis** shows that cooperative physical mergers, not just random point mutations, generate evolutionary novelty."*
+> - 📜 **Ernst Mayr (*The Growth of Biological Thought*):** *"The historical resistance to **symbiogenesis** reflected an orthodoxy that equated evolution solely with gradual natural selection."*

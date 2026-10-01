@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek phob.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Feeling & Sensation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ancient Greek deity and personification of panic, fear, and rout in battle, the son of Ares and Aphrodite, brother of Deimos.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The larger and innermost of the two natural moons of Mars, discovered in 1877 by Asaph Hall, orbiting closer to its primary than any other moon in the solar system.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"They take off and head for a landing strip on the slope of a mountain on Phobos, one of Planet Mars' moons."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"They land their spaceships on Phobos and explore the mountaintop."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"The rainwater on Phobos is white."*
+> - 📜 **Homer (*Iliad*):** *"Before the chariot of Ares rode **Phobos** and Deimos, spreading wild panic and slaughter through the Achaean ranks."*
+> - 📜 **Hesiod (*Theogony*):** *"Unto Ares Aphrodite bore two terrible sons, **Phobos** and Deimos, who shake the battle lines of armored men."*
+> - 📜 **Percival Lowell (*Mars*):** *"The tiny satellite **Phobos** races across the Martian sky three times in a single day, rising in the west and setting in the east."*

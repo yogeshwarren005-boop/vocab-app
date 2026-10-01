@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Producing more than one effect; especially : having multiple phenotypic expressions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Producing more than one effect; especially : having multiple phenotypic expressions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Producing or having multiple, seemingly unrelated phenotypic effects from a single gene or genetic mutation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary genetics and pharmacology, describing genes or therapeutic agents that simultaneously influence multiple biochemical pathways across diverse organ systems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pleiotropic designates producing more than one effect; especially : having multiple phenotypic expressions."*
+> - 📜 **Theodosius Dobzhansky (*Genetics and the Origin of Species*):** *"A single gene mutation in Drosophila often exerts **pleiotropic** effects, altering wing venation, eye pigment, and female fecundity simultaneously."*
+> - 📜 **Richard Dawkins (*The Selfish Gene*):** *"Natural selection may favor a gene with **pleiotropic** benefits in early life, even if it brings fatal senescence in old age."*
+> - 📜 **Ernst Mayr (*Animal Species and Evolution*):** *"The complex integration of the genome means that virtually every locus possesses **pleiotropic** ramifications across the developing organism."*

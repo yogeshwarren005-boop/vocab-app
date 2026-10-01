@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek caen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Time & Chronology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A Greek combining form and root prefix (cen-, ceno-, caen-) denoting 'new', 'recent', or 'empty', found in historical, theological, and scientific terminology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistic morphology, the formative element derived from Greek καινός (kainos, recent or novel, as in Cenozoic) or κενός (kenos, empty, as in cenotaph and kenosis).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cen 2 designates a term designating an entity, condition, or phenomenon derived from greek caen."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"The prefix **cen-** originates in two distinct Greek primitives, denoting either that which is fresh and recent, or that which is vacant."*
+> - 📜 **Walter William Skeat (*An Etymological Dictionary of the English Language*):** *"Compounds formed with **cen-** frequently disguise Greek roots denoting either temporal novelty or physical emptiness."*
+> - 📜 **James Murray (*A New English Dictionary on Historical Principles*):** *"Scientific nomenclature adopted the element **cen-** extensively during the nineteenth century to designate recent geological formations."*

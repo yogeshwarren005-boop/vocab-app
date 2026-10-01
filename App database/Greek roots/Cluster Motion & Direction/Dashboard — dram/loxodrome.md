@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Rhumb line.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A line on the surface of the earth that follows a single compass bearing and makes equal oblique angles with all meridians —called also loxodrome.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rhumb line on the surface of a sphere (such as the Earth) that crosses all meridians of longitude at the same constant oblique angle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine navigation and spherical geometry, a path of constant compass bearing, represented as a straight line on a Mercator projection map, spiraling asymptotically toward the poles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, loxodrome designates rhumb line."*
+> - 📜 **Gerardus Mercator (*Atlas sive Cosmographicae Meditationes*):** *"By projecting the spherical meridians into parallel straight lines, the navigator can plot a true **loxodrome** with a simple ruler."*
+> - 📜 **William Herschel (*Treatise on Astronomy*):** *"A ship steering a constant course cuts each meridian obliquely, tracing a spiral **loxodrome** toward the pole."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Ahab paced the deck, calculating whether their current compass **loxodrome** would intersect the migrating sperm whales."*

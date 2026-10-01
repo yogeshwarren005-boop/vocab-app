@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek treph.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Life & Vitality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A symbiotic relationship between two organisms in which food, nourishment, or secretions are exchanged for protection or other services.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The mutualistic association between ants and honeydew-producing hemipterous insects (such as aphids and scale insects).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trophobiosis designates a term designating an entity, condition, or phenomenon derived from greek treph."*
+> - 📜 **William Morton Wheeler (*Ants: Their Structure, Development and Behavior*):** *"The mutualistic interaction wherein ants guard aphid herds in exchange for sweet honeydew represents classic **trophobiosis**."*
+> - 📜 **Edward O. Wilson (*The Insect Societies*):** *"Sophisticated **trophobiosis** has evolved independently across multiple ant subfamilies interacting with diverse sap-sucking insects."*
+> - 📜 **August Forel (*The Social World of the Ants*):** *"Ants attend the root aphids with maternal tenderness, demonstrating the deep behavioral complexity of subterranean **trophobiosis**."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a plucky manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a plucky manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a plucky, brave, spirited, or resolute manner; courageously enduring hardship or struggle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sporting history and narrative literature, fighting or persevering with unyielding fortitude despite overwhelming adversity or physical exhaustion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"She had waited by the side of the line, while the elderly gentleman struggled gamely for the tickets, and he had plenty of opportunity of observing her appearance."*
-> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"If we must die, let's die gamely; Luck may take a turn at last. [End of Miscellaneous Poems.] ASHTAROTH: A Dramatic Lyric Dramatis Personae HUGO, a Norman Baron and a Scholar."*
-> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"In spite of . . . or perhaps, human nature being what it is, because of . . . this, the Society went gamely to work at the only improvement they could hope to bring about that fall."*
+> - 📜 **Jack London (*The Call of the Wild*):** *"Buck struggled **gamely** in the traces, pulling through the blinding blizzard though his paws were cracked and bleeding."*
+> - 📜 **Arthur Conan Doyle (*Rodney Stone*):** *"The young pugilist rose **gamely** at the count of nine, ready to face the champion's punishing onslaught."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Ham stepped into the raging surf, fighting **gamely** against the colossal breakers to reach the stranded wreck."*

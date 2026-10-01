@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hatred of marriage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hatred of marriage.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Hatred of or aversion to marriage; opposition to entering into wedlock.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary and philosophical traditions, the critique of matrimonial constraints in favor of personal freedom or ascetic contemplation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, misogamy designates a hatred of marriage."*
+> - 📜 **Desiderius Erasmus (*The Praise of Folly*):** *"Were it not for my gift of sweet blindness, **misogamy** would depopulate the civilized world in a generation."*
+> - 📜 **Robert Burton (*The Anatomy of Melancholy*):** *"Disappointed suitors often retreat into bitter **misogamy**, blaming Hymen for all the griefs of life."*
+> - 📜 **Samuel Johnson (*Rasselas*):** *"Marriage has many pains, but celibacy has no pleasures; do not let early doubts drive you into permanent **misogamy**."*

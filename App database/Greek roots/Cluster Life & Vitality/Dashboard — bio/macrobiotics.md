@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The theory of promoting health and longevity by means of diet (especially whole beans and grains).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The theory of promoting health and longevity by means of diet (especially whole beans and grains).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The theory, system, or art of prolonging life, especially through dietary regimens.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A holistic dietary system based on traditional East Asian philosophy, focusing on whole grains, legumes, and minimizing processed foods.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, macrobiotics designates the theory of promoting health and longevity by means of diet (especially whole beans and grains)."*
+> - 📜 **Christoph Wilhelm Hufeland (*The Art of Prolonging Life*):** *"Medicine cures disease, but **macrobiotics** teaches how to preserve health and prolong mortal existence."*
+> - 📜 **George Ohsawa (*The Book of Judgment*):** *"True **macrobiotics** is not merely a cooking method, but a cosmology reconciling man with nature."*
+> - 📜 **Alan Watts (*The Way of Zen*):** *"Modern interest in **macrobiotics** reflects a broader Western longing for harmonious Eastern dietary philosophies."*

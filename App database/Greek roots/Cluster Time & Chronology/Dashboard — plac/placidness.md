@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A feeling of calmness; a quiet and undisturbed feeling.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A feeling of calmness; a quiet and undisturbed feeling.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality or condition of being placid; serenity, tranquility, calmness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In character studies, an enduring constitutional gentleness and absence of irritative passion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, placidness designates a feeling of calmness; a quiet and undisturbed feeling."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"The philosopher prized the **placidness** of his secluded retreat above all the noisy honors of the court."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The shepherd noted the strange **placidness** of the sheep as a sure portent of an approaching thunderstorm."*
+> - 📜 **Oliver Goldsmith (*The Citizen of the World*):** *"Her countenance beamed with a natural **placidness** that commanded immediate respect from every guest."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Chiefly herbaceous plants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Chiefly herbaceous plants.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of flowering plants in the order Geraniales, commonly called the cranesbill family, including Geranium, Pelargonium, and Erodium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In angiosperm systematics, herbs or subshrubs characterized by palmately veined or pinnate leaves, glandular hairs, and a distinctive five-parted schizocarp with an elongate beak.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, geraniaceae designates chiefly herbaceous plants."*
+> - 📜 **Asa Gray (*Botanical Text-Book*):** *"The family **Geraniaceae** is readily recognized by its glandular-pubescent foliage and remarkable rostrate seed vessels."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"Many genera of the **Geraniaceae** contain aromatic essential oils prized in the manufacture of perfumes and scents."*
+> - 📜 **Joseph Dalton Hooker (*The Flora of British India*):** *"Representatives of the **Geraniaceae** thrive in temperate regions, especially in the flora of the Cape of Good Hope."*

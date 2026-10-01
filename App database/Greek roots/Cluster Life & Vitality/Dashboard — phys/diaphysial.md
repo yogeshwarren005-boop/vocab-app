@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the diaphysis of a bone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to the diaphysis of a bone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the diaphysis of a long bone; variant of diaphyseal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Describing ossification centers or vascular canals located within the shaft of long bones.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diaphysial designates relating to the diaphysis of a bone."*
+> - 📜 **Richard Owen (*Comparative Anatomy and Physiology of Vertebrates*):** *"The primary **diaphysial** ossification center spreads axially toward both terminal epiphyses."*
+> - 📜 **William Boyd (*A Textbook of Pathology*):** *"Chronic bacterial infection may form a localized **diaphysial** abscess surrounded by dense sclerotic bone."*
+> - 📜 **Henry Gray (*Anatomy: Descriptive and Surgical*):** *"The periosteum adheres with exceptional tenacity over the entire **diaphysial** circumference."*

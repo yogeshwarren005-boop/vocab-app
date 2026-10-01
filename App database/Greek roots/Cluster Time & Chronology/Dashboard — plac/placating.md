@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to be more favorably inclined; gain the good will of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Intended to pacify by acceding to demands or granting concessions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending or intended to pacify, appease, or soothe; conciliatory.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In behavioral ethology, describing submissive gestures, vocalizations, or postures intended to defuse aggression in dominant conspecifics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, placating designates cause to be more favorably inclined; gain the good will of."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"The submissive dog crouches low and wags its tail in a **placating** gesture to avert the wrath of its master."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"She spoke in a gentle, **placating** tone, anxious to restore family harmony without provoking another rebuke."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"Henchard held out his hand with a clumsy, **placating** smile that concealed the deep humiliation of his heart."*

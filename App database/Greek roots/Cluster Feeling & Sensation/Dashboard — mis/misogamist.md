@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hatred of marriage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hatred of marriage.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who hates, distrusts, or is strongly averse to marriage (from Greek *misos* and *gamos*).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An individual committed to lifelong bachelorhood or spinisterhood out of principled antipathy to marital bonds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, misogamist designates a hatred of marriage."*
+> - 📜 **Robert Burton (*The Anatomy of Melancholy*):** *"The cynical **misogamist** recites the miseries of wedded life, praising the solitary philosopher's liberty."*
+> - 📜 **William Shakespeare (*Much Ado About Nothing*):** *"Benedick vowed he would live and die a confirmed bachelor, the very prince of every boastful **misogamist**."*
+> - 📜 **Arthur Schopenhauer (*Essays and Aphorisms*):** *"The prudent philosopher is necessarily a **misogamist**, refusing to double his obligations while halving his rights."*

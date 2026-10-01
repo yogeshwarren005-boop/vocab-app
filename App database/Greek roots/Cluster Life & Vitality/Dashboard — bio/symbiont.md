@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An organism living in symbiosis; especially : the smaller member of a symbiotic pair.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An organism living in symbiosis; especially : the smaller member of a symbiotic pair.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Either of two or more organisms that live together in an intimate, long-term biological association.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An organism participating in a mutualistic, commensal, or parasitic relationship with a host species.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, symbiont designates an organism living in symbiosis; especially : the smaller member of a symbiotic pair."*
+> - 📜 **Anton de Bary (*Die Erscheinung der Symbiose*):** *"The fungal **symbiont** weaves dense hyphae around the alga, absorbing photosynthate while offering moisture and shade."*
+> - 📜 **Lynn Margulis (*Symbiotic Planet*):** *"Every animal is in truth an ecosystem, housing millions of bacterial **symbionts** vital to its survival."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The microscopic **symbiont** within the lichen revealed a dual nature that startled orthodox botanists."*

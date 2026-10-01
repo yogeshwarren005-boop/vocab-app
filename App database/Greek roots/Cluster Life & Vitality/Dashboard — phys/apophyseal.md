@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to an apophysis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to an apophysis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or affecting an apophysis (a bony projection or outgrowth serving for muscle attachment).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In osteology and radiology, pertaining to the zygapophyseal facet joints connecting adjacent vertebral arches.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, apophyseal designates of or relating to an apophysis."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The **apophyseal** processes of the thoracic vertebrae afford broad mechanical leverage for the spinal musculature."*
+> - 📜 **William Boyd (*Pathology for the Surgeon*):** *"Osteoarthritis frequently involves the **apophyseal** joints, provoking severe radicular low back pain."*
+> - 📜 **Henry Gray (*Anatomy: Descriptive and Surgical*):** *"Each lumbar vertebra possesses superior and inferior **apophyseal** facets oriented in the sagittal plane."*

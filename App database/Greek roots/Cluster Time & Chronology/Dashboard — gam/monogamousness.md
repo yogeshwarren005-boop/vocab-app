@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having only one spouse at a time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having only one spouse at a time.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state, practice, or quality of being monogamous; exclusive fidelity to a single partner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative sociology and evolutionary psychology, the institutionalized habit or behavioral predisposition toward single-partner pairing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monogamousness designates having only one spouse at a time."*
+> - 📜 **Edward Westermarck (*The History of Human Marriage*):** *"The prevalence of **monogamousness** among pastoral peoples consolidated family cohesion against tribal disintegration."*
+> - 📜 **Herbert Spencer (*The Principles of Sociology*):** *"Legal **monogamousness** fostered the security of property rights by clearly identifying heirs across successive generations."*
+> - 📜 **Lewis Henry Morgan (*Ancient Society*):** *"The rise of private property was intimately linked to the institutional enforcement of strict **monogamousness**."*

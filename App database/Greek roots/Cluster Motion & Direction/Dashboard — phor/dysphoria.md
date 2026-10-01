@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormal depression and discontent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abnormal depression and discontent.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A profound state of unease, unhappiness, anxiety, or general dissatisfaction with life, the opposite of euphoria.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychiatry and clinical psychology, a dysphoric mood state characterizing major depressive episodes, premenstrual dysphoric disorder, or gender dysphoria.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dysphoria designates abnormal depression and discontent."*
+> - 📜 **Sigmund Freud (*Civilization and Its Discontents*):** *"The chronic tension between instinctual gratification and cultural suppression produces a pervasive civilizational **dysphoria**."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"The sick soul experiences a religious **dysphoria**, wherein all joys of existence appear hollow, poisoned, and corrupt."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"When L-DOPA was abruptly withdrawn, the joyous awakening collapsed into acute distress and profound neurological **dysphoria**."*

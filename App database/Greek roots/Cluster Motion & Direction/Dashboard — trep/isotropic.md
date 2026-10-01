@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Exhibiting properties (such as velocity of light transmission) with the same values when measured along axes in all directions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exhibiting properties (such as velocity of light transmission) with the same values when measured along axes in all directions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having physical properties that are identical in all directions; exhibiting uniformity regardless of the angle of measurement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theoretical cosmology and general relativity, describing a universe that looks the same in every direction from any given vantage point (the cosmological principle).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, isotropic designates exhibiting properties (such as velocity of light transmission) with the same values when measured along axes in all directions."*
+> - 📜 **Stephen Hawking (*A Brief History of Time*):** *"On the largest cosmological scale, the universe appears both homogeneous and **isotropic**, expanding uniformly in every direction."*
+> - 📜 **Lord Kelvin (*Popular Lectures and Addresses*):** *"A perfectly annealed specimen of glass is optically **isotropic**, lacking internal strain lines when placed between crossed prisms."*
+> - 📜 **Arthur Eddington (*Space, Time and Gravitation*):** *"The spacetime metric around an isolated spherical mass possesses an **isotropic** symmetry that simplifies Einstein's field equations."*

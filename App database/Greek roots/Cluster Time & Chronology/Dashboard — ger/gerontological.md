@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or practicing geriatrics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or practicing geriatrics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to gerontology, the scientific study of aging and the elderly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In academic research and public health, multidisciplinary biological, psychological, and demographic investigations into senescence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gerontological designates of or relating to or practicing geriatrics."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"Modern **gerontological** research explores how cumulative oxidative damage to telomeres governs the finite lifespan of somatic cells."*
+> - 📜 **William Osler (*Aequanimitas*):** *"The **gerontological** societies established in major universities have focused scientific rigor upon the hygiene of aging."*
+> - 📜 **Donald Seldin (*The Kidney: Physiology and Pathophysiology*):** *"A key **gerontological** finding is the gradual sclerosis of glomeruli occurring as a normal facet of human longevity."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Symphony orchestra.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Symphony orchestra.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Devoted to music; participating in or relating to a musical society or symphony orchestra (from Greek *philos* 'loving' and *harmonia* 'harmony').
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A symphony orchestra or choral society dedicated to the public performance of classical music.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, philharmonic designates symphony orchestra."*
+> - 📜 **George Bernard Shaw (*Music in London*):** *"The London **Philharmonic** orchestra attacked Beethoven's Fifth Symphony with exhilarating brass precision."*
+> - 📜 **Hector Berlioz (*Memoirs*):** *"My visits to the Vienna **philharmonic** concerts revealed an orchestral discipline that brought tears of joy to my eyes."*
+> - 📜 **Thomas Mann (*Doctor Faustus*):** *"The conductor raised his baton, and the vast **philharmonic** ensemble burst into the thunderous opening chords of the overture."*

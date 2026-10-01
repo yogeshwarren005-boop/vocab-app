@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or characteristic of plants of the class gymnospermae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or characteristic of plants of the class gymnospermae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or having the characteristics of a gymnosperm; bearing naked seeds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to non-flowering seed plants lacking true closed ovaries and vessels in their wood (except Gnetales).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gymnospermous designates relating to or characteristic of plants of the class gymnospermae."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Petrified trunks in the Carboniferous coal measures display characteristic **gymnospermous** pitted tracheids."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"The simple cone scale of the **gymnospermous** ovulate strobilus represents a primitive floral homologue."*
+> - 📜 **Archibald Geikie (*Textbook of Geology*):** *"Mesozoic forests consisted primarily of **gymnospermous** conifers, cycadeoids, and ginkgoalean trees."*

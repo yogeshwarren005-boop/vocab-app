@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek treph.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Life & Vitality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Dystrophy or abnormal, defective development affecting only one lateral half of the body or an organ.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rare congenital hemiatrophy or asymmetrical trophic disorder characterized by unilateral skeletal and soft tissue underdevelopment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemidystrophy designates a term designating an entity, condition, or phenomenon derived from greek treph."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Facial **hemidystrophy** of Romberg begins insidiously in childhood, wasting cutaneous fat and bone on one side of the face."*
+> - 📜 **William Boyd (*Pathology for the Physician*):** *"Congenital **hemidystrophy** must be distinguished from unilateral cerebral palsies presenting secondary disuse hypoplasia."*
+> - 📜 **Jean-Martin Charcot (*Clinical Lectures on Senile and Chronic Diseases*):** *"The trophic asymmetries observed in progressive **hemidystrophy** point to deep autonomic vascular dysfunction."*

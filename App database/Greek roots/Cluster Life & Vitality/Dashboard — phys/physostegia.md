@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various plants of the genus physostegia having sessile linear to oblong leaves and showy white or rose or lavender flowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various plants of the genus physostegia having sessile linear to oblong leaves and showy white or rose or lavender flowers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of North American herbaceous perennial plants in the mint family (Lamiaceae), commonly called false dragonheads or obedient plants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Garden perennials noted for their spiked snapdragon-like flowers that remain temporarily in whatever position they are pushed.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, physostegia designates any of various plants of the genus physostegia having sessile linear to oblong leaves and showy white or rose or lavender flowers."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The showy spikes of **Physostegia** virginiana grace moist prairie borders in late summer with rose-purple blossoms."*
+> - 📜 **John Torrey (*Flora of the State of New York*):** *"Children delight in moving the individual flowers of **Physostegia**, which remain docilely in the chosen direction."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"Cultivars of **Physostegia** are prized in perennial borders for their sturdy upright spikes and long flowering season."*

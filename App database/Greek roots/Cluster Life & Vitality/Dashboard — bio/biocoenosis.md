@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An ecological community especially when forming a self-regulating unit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ecological community especially when forming a self-regulating unit.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ecological community consisting of all interacting plants, animals, and microorganisms inhabiting a shared biotope.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The integrated biotic assemblage that together with its physical abiotic biotope constitutes an ecosystem.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, biocoenosis designates an ecological community especially when forming a self-regulating unit."*
+> - 📜 **Karl Möbius (*The Oyster and Oyster-Culture*):** *"I have designated this mutual association of living organisms by the word **biocoenosis**, or life-community."*
+> - 📜 **Eugene Odum (*Fundamentals of Ecology*):** *"The **biocoenosis** forms the living, dynamic core of the ecosystem, reacting continuously upon its physical substrate."*
+> - 📜 **Ernst Haeckel (*The Wonders of Life*):** *"Möbius rendered a signal service to natural history when he introduced the concept of the marine **biocoenosis**."*

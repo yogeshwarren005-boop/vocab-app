@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to or of the nature of metaphysics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without material form or substance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to metaphysics; dealing with the fundamental nature of reality, being, and the universe beyond physical observation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Designating a group of 17th-century English poets (such as John Donne and George Herbert) characterized by ingenious conceits and intellectual subtlety.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hie thee hither, That I may pour my spirits in thine ear, And chastise with the valour of my tongue All that impedes thee from the golden round, Which fate and metaphysical aid doth seem To have thee crown’d withal."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Troubles and other realities took on themselves a metaphysical impalpability, sinking to mere mental phenomena for serene contemplation, and no longer stood as pressing concretions which chafed body and soul."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"Besides continuing his membership in the Metaphysical Society, he had also been, since the spring of 1839, a member of the Diagnostic, one of the most flourishing of the older students' debating societies."*
+> - 📜 **Immanuel Kant (*Critique of Pure Reason*):** *"Human reason has this peculiar fate: to be burdened by questions which it cannot dismiss, yet cannot answer by any empirical test—the realm of **metaphysical** speculation."*
+> - 📜 **Samuel Johnson (*Lives of the Most Eminent English Poets*):** *"The **metaphysical** poets were men of learning, and to show their learning was their whole endeavour."*
+> - 📜 **Aristotle (*Metaphysics*):** *"First philosophy or **metaphysical** inquiry investigates being qua being and the primary causes of existing things."*

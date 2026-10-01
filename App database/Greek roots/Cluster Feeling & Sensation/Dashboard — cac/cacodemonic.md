@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to evil spirits.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to evil spirits.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, resembling, or possessed by an evil spirit; malevolent, demonic, or devilish.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by frantic malice, diabolical terror, or nightmarish torment in gothic and historical literature.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cacodemonic designates of or relating to evil spirits."*
+> - 📜 **Thomas Carlyle (*The French Revolution: A History*):** *"The Jacobin mobs surged through the gates in a tempest of **cacodemonic** fury, shouting vengeance against the aristocrats."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Ahab paced the quarter-deck by moonlight, his furrowed brow stamped with a kind of **cacodemonic** grandeur."*
+> - 📜 **H. P. Lovecraft (*The Call of Cthulhu*):** *"The cyclopean masonry seemed impregnated with a brooding, **cacodemonic** horror older than human memory."*

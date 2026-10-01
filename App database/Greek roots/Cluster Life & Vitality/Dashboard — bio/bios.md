@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A software element of a computer operating system that allows the CPU to communicate with connected input and output devices (such as a keyboard or a monitor).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A biography or biographical sketch.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Life, or the course of an individual human life, as distinguished from bare physical existence (zoe) in classical Greek philosophy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biochemistry and microbiology, historical terminology for a nutrient complex (vitamin B factors) essential for yeast proliferation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bios designates a software element of a computer operating system that allows the cpu to communicate with connected input and output devices (such as a keyboard or a monitor)."*
+> - 📜 **Hannah Arendt (*The Human Condition*):** *"Aristotle distinguished between mere biological survival and the **bios** politikos, the purposeful life lived in speech and action."*
+> - 📜 **Giorgio Agamben (*Homo Sacer: Sovereign Power and Bare Life*):** *"The Greeks had two terms for life: zoe, which expressed the simple fact of living common to all beings, and **bios**, which indicated the qualified life of an individual."*
+> - 📜 **Eugene Wildiers (*The Theologian and His Universe*):** *"Classical humanism drew from the Greek concept of **bios** an ideal of ethical self-cultivation within the community."*

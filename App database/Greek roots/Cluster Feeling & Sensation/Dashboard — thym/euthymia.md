@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek thym.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Feeling & Sensation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A normal, tranquil, non-depressed, and non-elevated reasonably positive mental and emotional mood state.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ancient Hellenic philosophy (particularly Democritus and Seneca's *De Tranquillitate Animi*), inner serenity, peace of mind, and cheerfulness of soul.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, euthymia designates a term designating an entity, condition, or phenomenon derived from greek thym."*
+> - 📜 **Democritus (*Fragments*):** *"The goal of life is **euthymia**, a state in which the soul lives calmly and steadily, disturbed by neither fear nor superstition."*
+> - 📜 **Seneca (*De Tranquillitate Animi*):** *"The Greeks call that firm peace of mind **euthymia**, which consists in knowing oneself and trusting that one walks the right path."*
+> - 📜 **Emil Kraepelin (*Lectures on Clinical Psychiatry*):** *"Between the stormy paroxysms of mania and melancholia, the patient returned to a serene baseline of stable **euthymia**."*

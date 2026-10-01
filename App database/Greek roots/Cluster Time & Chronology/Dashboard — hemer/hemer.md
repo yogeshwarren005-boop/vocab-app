@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek hemer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Time & Chronology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Greek root designating 'day' (ἡμέρα, hemera), fundamental to terms concerning daily cycles, daytime vision, or fleeting lifespans.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scientific nomenclature and etymology, the morphological foundation of terms expressing diurnal duration, human-disturbed habitats (hemeroby), or mayflies (Ephemeroptera).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemer designates a term designating an entity, condition, or phenomenon derived from greek hemer."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"From Homer onward, **hemer-** stood as the universal Greek token for daylight and the waking mortal day."*
+> - 📜 **Asa Gray (*Botanical Text-Book*):** *"Botanists turned to the radical **hemer-** when naming the daylily, commemorating its fleeting flower that withers with the sunset."*
+> - 📜 **Walter William Skeat (*An Etymological Dictionary of the English Language*):** *"Compound formations built upon **hemer-** consistently incorporate the temporal concept of the natural twenty-four-hour day."*

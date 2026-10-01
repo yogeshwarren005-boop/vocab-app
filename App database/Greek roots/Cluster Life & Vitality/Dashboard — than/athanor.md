@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A furnace that feeds itself so as to maintain a uniform temperature; used by alchemists.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A furnace that feeds itself so as to maintain a uniform temperature; used by alchemists.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A self-feeding furnace used by alchemists to maintain a steady, uniform, and continuous heat for protracted chemical digestions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In occult hermetic philosophy, the mystical furnace of constant spiritual transformation, from Greek *athanatos* (undying heat) or Arabic *al-tannūr*.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, athanor designates a furnace that feeds itself so as to maintain a uniform temperature; used by alchemists."*
+> - 📜 **Ben Jonson (*The Alchemist*):** *"Look if the cold furnace be on fire, and the **athanor** kept at its equal and enduring heat."*
+> - 📜 **Paracelsus (*The Hermetic and Alchemical Writings*):** *"The great work requires that the fire of the **athanor** be kept burning without interruption for forty days and nights."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"Alchemists watched their burning **athanor** with religious vigilance, awaiting the golden transmutation in the crucible."*

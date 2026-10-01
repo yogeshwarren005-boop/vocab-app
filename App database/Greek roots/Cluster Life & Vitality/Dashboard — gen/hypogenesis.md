@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek gen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Life & Vitality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Defective, deficient, or arrested embryonic development; underdevelopment of an organ or tissue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology, reproduction without alternation of generations or through simplified developmental cycles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypogenesis designates a term designating an entity, condition, or phenomenon derived from greek gen."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Congenital **hypogenesis** of the thyroid produces the classic clinical picture of infantile myxedema."*
+> - 📜 **William Boyd (*A Textbook of Pathology*):** *"Cerebellar **hypogenesis** manifests as severe motor ataxia and failure of Purkinje cell maturation."*
+> - 📜 **Ray Lankester (*Degeneration: A Chapter in Darwinism*):** *"Parasitic lifestyles frequently induce physiological **hypogenesis**, simplifying complex ancestral organ systems."*

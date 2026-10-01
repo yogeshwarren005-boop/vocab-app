@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek streph.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Motion & Direction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A poem, choral song, or musical composition consisting of a single strophe or stanza.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical metrics, a composition in which a single metrical pattern is sustained throughout without alternating strophes and antistrophes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monostrophe designates a term designating an entity, condition, or phenomenon derived from greek streph."*
+> - 📜 **John Milton (*Samson Agonistes*):** *"The tragic dialogue gives way to an impassioned choral **monostrophe** celebrating Samson's final strength."*
+> - 📜 **George Saintsbury (*A History of English Prosody*):** *"Collins constructed an exquisite **monostrophe** where unrhymed lyrical stanzas mirror the stillness of evening."*
+> - 📜 **John Addington Symonds (*Studies of the Greek Poets*):** *"The Spartan marching chant was a concise **monostrophe** designed to keep soldiers in rhythmic step."*

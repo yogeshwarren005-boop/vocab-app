@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek kine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Motion & Direction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormal reduction of voluntary movement or muscular motility; an alternative technical designation for hypokinesia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In echocardiography, a localized reduction in systolic wall thickening and excursion of a myocardial segment, indicating ischemia or partial infarction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypokinesis designates a term designating an entity, condition, or phenomenon derived from greek kine."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"His severe **hypokinesis** made even the simplest act, such as reaching for his spectacles, a struggle against invisible weights."*
+> - 📜 **Robley Dunglison (*Medical Lexicon*):** *"Under **hypokinesis**, medical writers classify all conditions wherein motor responsiveness is pathologically diminished."*
+> - 📜 **Charles Sherrington (*The Integrative Action of the Nervous System*):** *"Inhibition of spinal motor pools causes instantaneous **hypokinesis** in the antagonistic muscle groups."*

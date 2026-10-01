@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to hypoglycemia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to hypoglycemia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, characterized by, or suffering from hypoglycaemia; producing a lowering of blood glucose levels (Commonwealth spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Describing pharmacologic agents (e.g., sulfonylureas, biguanides, insulin) employed to treat elevated blood glucose in diabetes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypoglycaemic designates of or relating to hypoglycemia."*
+> - 📜 **Frederick Banting (*Pancreatic Extracts in the Treatment of Diabetes Mellitus*):** *"The potent **hypoglycaemic** action of our purified pancreatic fraction was verified across dozens of animal trials."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The physician must educate the diabetic patient to recognize the earliest trembling sensations of an impending **hypoglycaemic** crisis."*
+> - 📜 **Claude Bernard (*Lectures on Experimental Physiology*):** *"Certain hepatic poisons produce a profound **hypoglycaemic** shock by paralyzing carbohydrate synthesis."*

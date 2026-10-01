@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of across, beyond.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of across, beyond.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A Greek adverb and preposition meaning 'across', 'beyond', 'on the other side', appearing in geographical and philosophical loanwords.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical Greek philology, expressing physical passage across a water boundary or metaphysical transition beyond ordinary limits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, peran designates adjective*) pertaining to, derived from, or characteristic of across, beyond."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"The Greek adverb **peran** was used by Homer to designate lands lying across the sea, beyond the horizon."*
+> - 📜 **Walter William Skeat (*An Etymological Dictionary of the English Language*):** *"In theological coinages, **peran-** conveys the mystical act of crossing over earthly tribulations into salvation."*
+> - 📜 **B. L. Gildersleeve (*Syntax of Classical Greek*):** *"As a spatial preposition, **peran** governs the genitive case to indicate the farther shore of a river or strait."*

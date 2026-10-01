@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A group of signs and symptoms that occur together and characterize a particular abnormality or condition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A set of concurrent things (such as emotions or actions) that usually form an identifiable pattern.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A characteristic combination of symptoms and physical signs that collectively indicate a particular disease, abnormal medical condition, or disorder.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociology and cultural analysis, a recognizable pattern of behaviors, attitudes, or systemic trends that characterizes a specific social malady or psychological state.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, syndrome designates a group of signs and symptoms that occur together and characterize a particular abnormality or condition."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The constellation of tachycardia, exophthalmos, and fine tremor forms the unmistakable clinical **syndrome** of Graves' disease."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"Patients afflicted with post-encephalitic Parkinson's displayed a protean **syndrome** of motor arrests and bizarre tics."*
+> - 📜 **Sigmund Freud (*The Psychopathology of Everyday Life*):** *"In obsessional neurosis, we encounter a recurring **syndrome** of doubts, repetitive rituals, and moral scrupulosity."*

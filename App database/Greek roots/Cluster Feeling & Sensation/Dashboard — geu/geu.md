@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek geu.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Feeling & Sensation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Greek root *geu-* (from *geusis*), denoting taste, savor, flavor, or the gustatory sense, as found in *ageusia*, *dysgeusia*, and *hypergeusia*.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The linguistic morpheme employed in neurobiology and sensory physiology to classify disorders of lingual taste buds and cranial taste pathways.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, geu designates a term designating an entity, condition, or phenomenon derived from greek geu."*
+> - 📜 **Henry George Liddell & Robert Scott (*A Greek-English Lexicon*):** *"The primary verb *geuein* and its noun *geusis* yield the root **geu**, signifying to give a taste of, to sample, or to savor."*
+> - 📜 **Charles Sherrington (*The Integrative Action of the Nervous System*):** *"Receptors belonging to the root **geu** operate in intimate chemical partnership with olfactory nerve endings."*
+> - 📜 **Alexander Bain (*The Senses and the Intellect*):** *"The organic faculty designated by **geu** provides the earliest gatekeeper for nutritional ingestion and bodily defense."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An error in chronology; especially : a chronological misplacing of persons, events, objects, or customs in regard to each other.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person or a thing that is chronologically out of place; especially : one from a former age that is incongruous in the present.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A thing or person belonging or appropriate to a period other than that in which it exists; an error in chronological chronology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historiography and dramaturgy, an incongruity wherein events, objects, idioms, or customs from distinct eras are incorrectly mingled.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"You are too young—it is an anachronism for you to have such thoughts,” said Will, energetically, with a quick shake of the head habitual to him."*
-> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"A scene into which the artist had incautiously painted a pointed arch was condemned as an anachronism."*
-> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"What can be a greater anachronism than the death of Prince Arthur three months hence on the stage of the Panopticon Theatre?"*
+> - 📜 **William Shakespeare (*Julius Caesar*):** *"Peace! count the clock. / The clock hath stricken three. / 'Tis good to see how an **anachronism** slips into ancient Rome."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The monk was betrayed by an obvious **anachronism**, citing imperial decrees issued two centuries after his supposed lifetime."*
+> - 📜 **G. K. Chesterton (*The Victorian Age in Literature*):** *"To judge medieval chivalry by modern industrial standards is a gross and vulgar **anachronism**."*

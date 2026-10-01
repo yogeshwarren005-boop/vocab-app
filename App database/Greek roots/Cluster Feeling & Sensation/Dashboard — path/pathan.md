@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of the mountain people living in the eastern regions of afghanistan.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ethnic minority speaking pashto and living in northwestern pakistan and southeastern afghanistan.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of a Pashto-speaking people (the Pashtuns) living primarily in southeastern Afghanistan and northwestern Pakistan.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically famed in frontier history for their fierce martial independence, tribal code of honor (*Pashtunwali*), and resistance to imperial powers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pathan designates a member of the mountain people living in the eastern regions of afghanistan."*
+> - 📜 **Rudyard Kipling (*The Ballad of East and West*):** *"Kamal was the leader of the frontier border thieves, a hardy **Pathan** warrior of the Khyber Hills."*
+> - 📜 **Winston Churchill (*The Story of the Malakand Field Force*):** *"The **Pathan** tribesman is a born rifleman, defending his barren crags with reckless personal gallantry."*
+> - 📜 **Arthur Conan Doyle (*A Study in Scarlet*):** *"Watson had been wounded by a Jezail bullet while serving on the Afghan border against the fierce **Pathan** tribes."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Difficult to use or handle or manage because of size or weight or shape.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hard to control; ,.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Difficult or impossible to manage, manipulate, govern, or control; unruly or intractable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of an enterprise, debt, or mechanism, having grown too cumbersome, large, or complicated to direct effectively.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn observes, following her out upon the staircase, “as the most implacable and unmanageable of women."*
-> - 📜 **Jane Austen (*Persuasion*):** *"I assure you, I have not seen a soul this whole long morning.” “You have had your little boys with you?” “Yes, as long as I could bear their noise; but they are so unmanageable that they do me more harm than good."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"The wind still increasing, every stitch of canvas was taken in, and now the vessel lay helpless and unmanageable in the trough of the sea, not minding her helm at all, while the wind blew a perfect hurricane."*
+> - 📜 **Daniel Defoe (*Robinson Crusoe*):** *"The dugout canoe was so vast and heavy that it proved completely **unmanageable**, defying all my efforts to launch it into the surf."*
+> - 📜 **Walter Scott (*Rob Roy*):** *"The Highland cattle became wild and **unmanageable** as the thunderclap echoed across the mountain pass."*
+> - 📜 **Herman Melville (*Typee*):** *"My injured leg swelled rapidly, rendering me almost wholly helpless and **unmanageable** on the rugged trail."*

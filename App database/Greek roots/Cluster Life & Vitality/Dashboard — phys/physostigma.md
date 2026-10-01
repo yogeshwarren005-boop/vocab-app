@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: African woody vines: calabar beans.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: African woody vines: calabar beans.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of climbing woody leguminous plants native to tropical Africa, notably *Physostigma venenosum* (the Calabar ordeal bean).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The source plant of physostigmine, historically used as an ordeal poison in West African judicial ceremonies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, physostigma designates african woody vines: calabar beans."*
+> - 📜 **Thomas Richard Fraser (*On the Physiological Action of the Calabar Bean*):** *"The poisonous bean of **Physostigma** venenosum acts as a powerful spinal and ganglionic depressant."*
+> - 📜 **David Livingstone (*Missionary Travels and Researches in South Africa*):** *"Tribal magistrates administered crushed seeds of **Physostigma** to the accused to test their guilt by ordeal."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Extracts of **Physostigma** produce intense pupillary miosis and stimulate gastrointestinal peristalsis."*

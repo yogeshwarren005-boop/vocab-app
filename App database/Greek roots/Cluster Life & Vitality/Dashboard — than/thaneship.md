@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The position of thane.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The position of thane.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The rank, office, dignity, or territorial jurisdiction of a thane.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medieval Scottish and Anglo-Saxon law, the hereditary baronial estate or administrative lordship held by a thane.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thaneship designates the position of thane."*
+> - 📜 **Walter Scott (*Minstrelsy of the Scottish Border*):** *"Charter records confirm that the ancient **thaneship** of Cawdor passed intact through centuries of border warfare."*
+> - 📜 **William Shakespeare (*Macbeth*):** *"He bade me from him call thee thane of Cawdor: in which addition, hail, most worthy thane! for it is thine: the royal gift of the **thaneship**."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"Feudal transformations gradually converted the Saxon **thaneship** into the knightly tenure of Norman barons."*

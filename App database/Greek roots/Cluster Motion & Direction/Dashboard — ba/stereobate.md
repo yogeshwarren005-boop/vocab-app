@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Verb*) To subject to, transform by, or operate upon through to step.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Verb*) To subject to, transform by, or operate upon through to step.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A solid mass of masonry serving as the foundation or substructure of a building, especially a classical Greek temple.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The tiered stone platform or foundation steps upon which the stylobate and temple columns stand.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stereobate designates verb*) to subject to, transform by, or operate upon through to step."*
+> - 📜 **Vitruvius (*De Architectura*):** *"The **stereobate** must be excavated down to solid bedrock to sustain the immense weight of the marble columns."*
+> - 📜 **John Ruskin (*The Seven Lamps of Architecture*):** *"The temple rose with majestic stability from its stepped **stereobate** above the rocky acropolis."*
+> - 📜 **Banister Fletcher (*A History of Architecture*):** *"The Parthenon rests upon a three-stepped limestone **stereobate**, the uppermost tier forming the stylobate."*

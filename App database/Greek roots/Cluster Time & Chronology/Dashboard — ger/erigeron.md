@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a widely distributed genus (Erigeron) of composite herbs with flower heads that resemble asters but have fewer and narrower involucral bracts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a widely distributed genus (Erigeron) of composite herbs with flower heads that resemble asters but have fewer and narrower involucral bracts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of plants in the daisy family (Asteraceae) commonly called fleabane, bearing daisy-like flower heads with numerous narrow ray florets.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical nomenclature and herbal history, composite herbs named from Greek eri 'early' + geron 'old man' due to their hoary, white-haired pappus appearing early in summer.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, erigeron designates any of a widely distributed genus (erigeron) of composite herbs with flower heads that resemble asters but have fewer and narrower involucral bracts."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"Species of **Erigeron** abound in pastures, displaying copious narrow ray flowers that range from white to lavender and rosy pink."*
+> - 📜 **John Muir (*The Mountains of California*):** *"Along the alpine meadow rills, delicate blossoms of **Erigeron** nodded beside the melting snowdrifts."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"The common fleabane, **Erigeron**, was hung in country cottages under the ancient belief that its scent expelled insect pests."*

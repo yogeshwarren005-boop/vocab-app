@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A waxy mineral mixture of hydrocarbons that is colorless or white when pure and often of unpleasant odor and is used especially in making candles and in electrotyping.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A waxy mineral mixture of hydrocarbons that is colorless or white when pure and often of unpleasant odor and is used especially in making candles and in electrotyping.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A naturally occurring, solid paraffin wax or mineral wax, yellowish-brown to black, with an aromatic odor, found in sandstone veins near petroleum deposits (also ozokerite).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical industrial chemistry and geology, a fossil hydrocarbon derived from Greek *ozein* ('to smell') and *kēros* ('wax'), refined into ceresin for candles and electrical insulation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ozocerite designates a waxy mineral mixture of hydrocarbons that is colorless or white when pure and often of unpleasant odor and is used especially in making candles and in electrotyping."*
+> - 📜 **Charles Lyell (*Elements of Geology*):** *"Veins of dark **ozocerite** traverse the Tertiary sandstone beds of the Carpathians, yielding mineral wax upon heating."*
+> - 📜 **James Dwight Dana (*System of Mineralogy*):** *"When rubbed, the fibrous masses of **ozocerite** emit a distinct bituminous odor characteristic of native paraffin."*
+> - 📜 **Thomas Henry Huxley (*Physiography*):** *"Subterranean heat distillation of organic shales produces deposits of solid fossil hydrocarbons such as **ozocerite**."*

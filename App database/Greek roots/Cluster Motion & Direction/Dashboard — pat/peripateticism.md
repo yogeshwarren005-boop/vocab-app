@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or given to walking.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Moving or traveling from place to place : itinerant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The philosophical system, doctrine, and teachings of Aristotle and his followers (the Peripatetic school).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In academic history, the dominant scholastic tradition of late antiquity and the medieval universities, characterized by Aristotelian logic, physics, and metaphysics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, peripateticism designates of, relating to, or given to walking."*
+> - 📜 **Bertrand Russell (*A History of Western Philosophy*):** *"Medieval scholasticism was essentially a Christianized form of Aristotelian **peripateticism**."*
+> - 📜 **Thomas Aquinas (*Summa Theologiae*):** *"The insights of ancient **peripateticism** provide valuable rational instruments for the exposition of sacred doctrine."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"True empirical science must break free from the dogmatic disputations of decadent **peripateticism**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a philanthropic manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a philanthropic manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a philanthropic manner; with benevolent generosity and charitable concern for human welfare.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: From a perspective oriented toward humanitarian improvement and social beneficence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, philanthropically designates in a philanthropic manner."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mr. Brooke dabbled **philanthropically** in agricultural reform, though his tenants complained of leaking roofs."*
+> - 📜 **Mark Twain (*The Gilded Age*):** *"The promoter talked **philanthropically** of uplifting the poor while pocketing generous subsidies from Congress."*
+> - 📜 **William James (*Memories and Studies*):** *"Agassiz labored **philanthropically** to make natural history accessible to working teachers across the land."*

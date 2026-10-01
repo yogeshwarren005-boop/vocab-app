@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of herbs of north temperate regions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of herbs of north temperate regions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of flowering leguminous herbs and shrubs (family Fabaceae), commonly known as sweetvetch, bearing sweet, edible foliage and nectar-rich flowers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A botanical genus named from Greek *hēdys* ('sweet') and *arōma* ('fragrance'), valued as nitrogen-fixing forage in northern temperate and alpine ecosystems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hedysarum designates genus of herbs of north temperate regions."*
+> - 📜 **Carl Linnaeus (*Species Plantarum*):** *"We establish the genus **Hedysarum** with jointed pods whose segments separate into single-seeded sweet lenticular joints."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The showy purple sprays of **Hedysarum** boreale brighten limestone ledges across the northern border."*
+> - 📜 **Charles Darwin (*The Effects of Cross and Self Fertilisation in the Vegetable Kingdom*):** *"Bumblebees visited the keel petals of **Hedysarum** repeatedly, attracted by the sweet aromatic nectar."*

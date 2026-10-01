@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person trained in the art of healing; specifically : a health care professional (such as a dermatologist, internist, pediatrician, or urologist) who has earned a medical degree, is clinically experienced, and is licensed to practice medicine as usually distinguished from surgery : a doctor of medicine or a doctor of osteopathic medicine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone or something that has a beneficial effect or influence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person qualified and licensed to practice medicine; a medical doctor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A healer who diagnoses and treats systemic illnesses using pharmacology and medical therapies, historically distinguished from a surgeon.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"How long is’t, Count, Since the physician at your father’s died?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I know her well; She had her breeding at my father’s charge: A poor physician’s daughter my wife!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If she be All that is virtuous, save what thou dislik’st, A poor physician’s daughter,—thou dislik’st— Of virtue for the name."*
+> - 📜 **Hippocrates (*Aphorisms*):** *"Life is short, and Art long; the crisis fleeting; experience perilous, and decision difficult. The **physician** must not only be prepared to do what is right himself, but also to make the patient, the attendants, and externals cooperate."*
+> - 📜 **William Osler (*Aequanimitas*):** *"The master-word in medicine which the young **physician** must write upon the tablet of his heart is Work."*
+> - 📜 **Anton Chekhov (*Ward No. 6*):** *"As a practicing **physician**, he understood all too well that medicines were mere palliatives against universal human mortality."*

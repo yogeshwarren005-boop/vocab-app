@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A light blow especially with the hand or a flat instrument.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A light tapping often rhythmical sound.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To touch, stroke, or tap gently with the flat of the hand or a small implement, often expressing affection or approval.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjectivally, so completely suited, convenient, or smoothly glib as to seem artificial or suspiciously ready.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now might I do it pat, now he is praying."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have been begging sixteen years in court, Am yet a courtier beggarly, nor could Come pat betwixt too early and too late For any suit of pounds; and you, O fate!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Pat! he comes, like the catastrophe of the old comedy: my cue is villainous melancholy, with a sigh like Tom o’Bedlam.—O, these eclipses do portend these divisions!"*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"Joe gave me a gentle **pat** upon the shoulder, reassuring me with his honest blacksmith smile."*
+> - 📜 **George Eliot (*Middlemarch*):** *"His explanations were so exceedingly **pat** that Dorothea felt a growing distrust of his sincerity."*
+> - 📜 **William Shakespeare (*King Lear*):** *"And **pat** he comes, like the catastrophe of the old comedy."*

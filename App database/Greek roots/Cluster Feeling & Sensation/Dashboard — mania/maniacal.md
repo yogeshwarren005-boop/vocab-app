@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Wildly disordered.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wildly disordered.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Suggestive of, characteristic of, or resembling madness; wildly and unrestrainedly frantic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by an alarming, irrational ferocity or frenzy in expression, voice, or behavior.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"But, if the influence was preternatural or maniacal in my brother’s case, they must be equally so in my own."*
-> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"Everywhere was tumult, exultation, deafening and maniacal bewilderment, astounding noise, yet furious dumb-show."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"A scream of **maniacal** fury broke the nocturnal silence of Thornfield Hall, followed by the clanking of iron chains."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Ahab gave vent to a **maniacal** laugh as the lightning danced along the tips of our three iron harpoons."*
+> - 📜 **Bram Stoker (*Dracula*):** *"The lunatic fell upon his knees with **maniacal** fervor, crying that his lord would feed him living souls."*

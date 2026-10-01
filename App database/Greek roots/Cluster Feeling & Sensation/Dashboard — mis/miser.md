@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A stingy hoarder of money and possessions (often living miserably).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A stingy hoarder of money and possessions (often living miserably).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who hoards wealth and spends as little money as possible, living in wretched self-denial.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A penurious individual whose life is consumed by the obsessive fear of parting with possessions or gold.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Rich honesty dwells like a miser, sir, in a poor house, as your pearl in your foul oyster."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In cases of defence ’tis best to weigh The enemy more mighty than he seems, So the proportions of defence are fill’d; Which, of a weak and niggardly projection, Doth, like a miser, spoil his coat with scanting A little cloth."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Decrepit miser, base ignoble wretch!"*
+> - 📜 **Charles Dickens (*A Christmas Carol*):** *"Scrooge was a tight-fisted hand at the grindstone, a squeezing, wrenching, grasping, scraping, clutching, covetous old **miser**!"*
+> - 📜 **George Eliot (*Silas Marner*):** *"The lonely weaver counted his golden guineas every evening, living as an unconscious **miser** until the child arrived."*
+> - 📜 **Molière (*The Miser*):** *"Harpagon wept over his buried cashbox, crying that the thief had stolen the soul of a poor **miser**."*

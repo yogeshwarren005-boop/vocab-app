@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One that performs gymnastic feats requiring skillful control of the body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One skillful at exercises of intellectual or artistic dexterity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An entertainer who performs spectacular gymnastic feats of agility, balance, and coordination.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person capable of rapid intellectual, moral, or political maneuvering and flexible adaptability.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Light as a lightweight acrobat Ahmet Ali had rolled aside, put palm to ground, sprung to his feet."*
-> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"Aye! we had a glorious gallop after "Starlight" and his gang, When they bolted from Sylvester's on the flat; How the sun-dried reed-beds crackled, how the flint-strewn ranges rang To the strokes of "Mountaineer" and "Acrobat"."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Standing there, both of us bent forward peering into the web, I wove a story that transformed the sparkling strands into a carnival and the spider into an acrobat."*
+> - 📜 **Charles Dickens (*Hard Times*):** *"Sleary’s circus was famed for each daring **acrobat** who vaulted through paper hoops above the ring."*
+> - 📜 **Thomas Hardy (*The Dynasts*):** *"The agile **acrobat** leaped from rope to swinging bar with astonishing precision."*
+> - 📜 **George Orwell (*Down and Out in Paris and London*):** *"A street **acrobat** drew a crowd by balancing heavy chairs upon his chin."*

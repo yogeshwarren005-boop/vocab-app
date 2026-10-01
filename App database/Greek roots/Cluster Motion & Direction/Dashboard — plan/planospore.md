@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek plan.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Motion & Direction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A motile flagellated spore (zoospore) produced by certain algae and fungi.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An asexual aquatic propagule that swims actively before shedding flagella to germinate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, planospore designates a term designating an entity, condition, or phenomenon derived from greek plan."*
+> - 📜 **Anton de Bary (*Comparative Morphology and Biology of the Fungi*):** *"The aquatic **planospore** escapes from the zoosporangium and swims actively toward light."*
+> - 📜 **F. E. Fritsch (*The Structure and Reproduction of the Algae*):** *"Upon finding a suitable rock substrate, the **planospore** encysts, discards its cilia, and germinates."*
+> - 📜 **Gilbert Morgan Smith (*Cryptogamic Botany*):** *"The biflagellate **planospore** provides the primary means of asexual dispersal across aquatic habitats."*

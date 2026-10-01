@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Political organization.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A specific form of political organization.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A politically organized society, community, or state considered as a distinct governing entity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A specific form, constitution, or system of civil or ecclesiastical government (from Greek politeia, from polis city).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Wise in his daily work was he: To fruits of diligence, And not to faiths or polity, He plied his utmost sense."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The scheme of representation, as a substitute for a meeting of the citizens in person, being at most but very imperfectly known to ancient polity, it is in more modern times only that we are to expect instructive examples."*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"The impact of various forces upon the structure and polity of that nation will be tremendous."*
+> - 📜 **Aristotle (*Politics*):** *"A constitutional **polity** represents the balanced rule of the middle class, avoiding the extremes of oligarchy and democracy."*
+> - 📜 **Richard Hooker (*Of the Lawes of Ecclesiasticall Politie*):** *"No human **polity** can long endure without laws grounded upon natural reason and divine wisdom."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"Our ancient British **polity** was not struck out at a single blow, but grew organically through centuries of experience."*

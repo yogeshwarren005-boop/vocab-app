@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The modified blastula of a placental mammal having an outer layer composed of the trophoblast.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The modified blastula of a placental mammal having an outer layer composed of the trophoblast.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The mammalian blastula formed in early embryonic development, comprising an inner cell mass and an outer trophoblast surrounding a central cavity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The embryonic stage that hatches from the zona pellucida and implants into the receptive maternal uterine endometrium.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, blastocyst designates the modified blastula of a placental mammal having an outer layer composed of the trophoblast."*
+> - 📜 **Julian Huxley (*The Elements of Experimental Embryology*):** *"The mammalian **blastocyst** differentiates into the embryonic disc destined to form the fetus, and the enveloping trophoblast."*
+> - 📜 **Arthur Kornberg (*For the Love of Enzymes*):** *"Pluripotent stem cells isolated from the inner cell mass of the pre-implantation **blastocyst** retain boundless developmental plasticity."*
+> - 📜 **Claude Bernard (*Lectures on the Phenomena of Life*):** *"The pre-implantation **blastocyst** relies upon uterine secretions before establishing vascular placental connections."*

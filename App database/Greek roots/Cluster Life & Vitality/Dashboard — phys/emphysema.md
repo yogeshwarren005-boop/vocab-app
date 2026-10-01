@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal condition of the lungs marked by decreased respiratory function; associated with smoking or chronic bronchitis or old age.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abnormal condition of the lungs marked by decreased respiratory function; associated with smoking or chronic bronchitis or old age.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chronic, progressive lung disease characterized by abnormal, permanent enlargement and destruction of the air spaces distal to the terminal bronchioles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pathological condition characterized by the abnormal presence or accumulation of air or gas in body tissues (subcutaneous emphysema).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Alex. _Paedag._ i, 7, _to philtron endon estin en to anthropo touth' oper emphysema legetai theou_. [20] _c."*
+> - 📜 **René Laennec (*A Treatise on the Diseases of the Chest*):** *"Mediate auscultation reveals that pulmonary **emphysema** diminishes the respiratory murmur while producing a hyper-resonant percussion note."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In advanced **emphysema**, the chest assumes a permanent barrel shape with flattened diaphragm and rigid intercostal spaces."*
+> - 📜 **William Boyd (*A Textbook of Pathology*):** *"Loss of alveolar elasticity in **emphysema** leads to progressive air-trapping and debilitating expiratory dyspnea."*

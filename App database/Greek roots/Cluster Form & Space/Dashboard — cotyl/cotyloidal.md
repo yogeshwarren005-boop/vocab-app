@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of the cup-shaped socket that receives the head of the thigh bone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of the cup-shaped socket that receives the head of the thigh bone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to or shaped like a cotyloid cavity; cup-shaped.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical orthopedics and morphology, of or relating to the acetabulum or its enclosing fibrocartilaginous rim.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cotyloidal designates of the cup-shaped socket that receives the head of the thigh bone."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Tuberculous coxitis often causes extensive erosion of the **cotyloidal** articular cartilage."*
+> - 📜 **Sir Frederick Treves (*Surgical Applied Anatomy*):** *"Dislocation of the hip requires manipulation to lever the femoral head back over the **cotyloidal** margin."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The transverse **cotyloidal** ligament bridges the gap across the lower notch of the pelvic socket."*

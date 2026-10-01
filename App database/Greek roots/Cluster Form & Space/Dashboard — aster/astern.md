@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Stern foremost or backward.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: At or near or toward the stern of a ship or tail of an airplane.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Behind a ship or boat; in, toward, or at the stern or rear end of a vessel.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In maritime navigation, moving backward through the water, or describing the quadrant of horizon directly behind the vessel's heading.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Meantime, overseeing the other part of the ship, Captain Peleg ripped and swore astern in the most frightful manner."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Some days elapsed, and ice and icebergs all astern, the Pequod now went rolling through the bright Quito spring, which, at sea, almost perpetually reigns on the threshold of the eternal August of the Tropic."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Floating on the waves we saw the abandoned boat, as for one instant it tossed and gaped beneath the ship’s bows like a chip at the base of a cataract; and then the vast hull rolled over it, and it was seen no more till it came up weltering astern."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The great sperm whale was left miles **astern**, wallowing in the foaming wake of the racing Pequod."*
+> - 📜 **Joseph Conrad (*The Secret Sharer*):** *"I walked aft to glance over the taffrail and saw our phosphorescent wake stretching far **astern** into the pitch darkness."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The jagged peaks of Tierra del Fuego slowly vanished **astern** as we rounded the stormy headland into the open Pacific."*

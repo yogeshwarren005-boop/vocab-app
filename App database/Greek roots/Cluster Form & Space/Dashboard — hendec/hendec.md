@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek hendec.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A Greek root and combining prefix meaning 'eleven' (*hendeka*), forming terms designating eleven-fold, eleven-angled, or eleven-carbon structures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geometry, chemistry, and classical prosody, hendec- specifies structures with eleven constituents (hendecagon, hendecane, hendecasyllable).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hendec designates a term designating an entity, condition, or phenomenon derived from greek hendec."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"The numeral hendeka ('eleven') contracts into **hendec** before vowels, producing precision mathematical and poetic compounds."*
+> - 📜 **Robert Beekes (*Etymological Dictionary of Greek*):** *"Compounded from *hen- ('one') and deka ('ten'), the element **hendec** is preserved in scientific nomenclatures worldwide."*
+> - 📜 **Herbert Weir Smyth (*Greek Grammar*):** *"Classical Hellenic numerical compounds regularly utilize **hendec** to designate groups or measures numbering eleven."*

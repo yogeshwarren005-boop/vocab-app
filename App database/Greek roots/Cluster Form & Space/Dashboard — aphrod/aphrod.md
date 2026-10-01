@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek aphrod.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combining form derived from the Greek goddess Aphrodite, signifying love, sexual desire, venereal matters, or erotic passion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biomedical and mythological etymology, the lexical root present in words like aphrodisiac, anaphrodisia, and hermaphrodite.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aphrod designates a term designating an entity, condition, or phenomenon derived from greek aphrod."*
+> - 📜 **Richard Chenevix Trench (*On the Study of Words*):** *"Medical and biological lexicons rely on **aphrod** whenever denoting phenomena pertaining to sexual affection or reproduction."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"The sea-foam origin of the goddess preserves the ancient root **aphrod** in classical Greek poetry."*
+> - 📜 **William Benjamin Carpenter (*Principles of General and Comparative Physiology*):** *"Terms rooted in **aphrod** distinguish reproductive instincts from vegetative physiological processes."*

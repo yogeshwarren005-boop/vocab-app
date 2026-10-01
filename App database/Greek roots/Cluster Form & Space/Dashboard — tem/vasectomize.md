@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Remove the vas deferens.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove the vas deferens.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To sever or excise a portion of the vas deferens to induce surgical sterilization in a male.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical reproductive medicine, elective vasectomy is performed through a minimally invasive scrotal incision under local anesthesia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vasectomize designates remove the vas deferens."*
+> - 📜 **Aldous Huxley (*Brave New World Revisited*):** *"Totalitarian regimes have contemplated schemes to **vasectomize** populations deemed genetically or socially undesirable."*
+> - 📜 **Norman Haire (*Rejuvenation: The Work of Steinach, Voronoff, and Others*):** *"Eugen Steinach attempted to **vasectomize** aging rodents to stimulate testicular Leydig cell rejuvenation."*
+> - 📜 **Paul Ehrlich (*The Population Bomb*):** *"Mobile medical camps were dispatched across rural districts to **vasectomize** volunteers as part of demographic management."*

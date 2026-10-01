@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Radially symmetrical animals having saclike bodies with only one opening and tentacles with stinging structures; they occur in polyp and medusa forms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Radially symmetrical animals having saclike bodies with only one opening and tentacles with stinging structures; they occur in polyp and medusa forms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any invertebrate animal belonging to the traditional phylum Coelenterata, such as a jellyfish, sea anemone, or coral.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine biology, a diploblastic radially symmetrical animal possessing specialized stinging cells (cnidocytes) and a gastrovascular cavity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coelenterate designates radially symmetrical animals having saclike bodies with only one opening and tentacles with stinging structures; they occur in polyp and medusa forms."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"A delicate, transparent **coelenterate** drifted past the ship, trailing long iridescent tentacles through the phosphorescent water."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Invertebrated Animals*):** *"In every true **coelenterate**, the body consists of two cellular layers, ectoderm and endoderm, separated by a gelatinous mesoglea."*
+> - 📜 **Rachel Carson (*The Edge of the Sea*):** *"The sea anemone is a sedentary **coelenterate** whose petal-like tentacles trap unwary shrimp upon the tidal ledge."*

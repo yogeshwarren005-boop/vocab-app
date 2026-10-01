@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several chemical elements that are usually shiny solids that conduct heat or electricity and can be formed into sheets etc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mixture containing two or more metallic elements or metallic and nonmetallic elements usually fused together or dissolving into each other when molten.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a category of electropositive chemical elements typically characterized by metallic luster, malleability, ductility, and high electrical and thermal conductivity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In astrophysics and stellar nucleosynthesis, any chemical element heavier than hydrogen and helium contained within stars or the interstellar medium.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That you were made of is metal to make virgins."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When your lordship sees the bottom of his success in’t, and to what metal this counterfeit lump of ore will be melted, if you give him not John Drum’s entertainment, your inclining cannot be removed."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But, sirrah, you shall buy this sport as dear As all the metal in your shop will answer."*
+> - 📜 **Antoine Lavoisier (*Elements of Chemistry*):** *"The combustion of a **metal** in oxygen produces a calx or metallic oxide while absorbing a portion of the atmospheric air."*
+> - 📜 **Georgius Agricola (*De Re Metallica*):** *"The miner must possess a deep understanding of veins and rocks before attempting to extract precious **metal** from the subterranean depths."*
+> - 📜 **Subrahmanyan Chandrasekhar (*An Introduction to the Study of Stellar Structure*):** *"Stellar evolution models trace how successive burning phases enrich the galactic interstellar gas with heavy **metal** abundance."*

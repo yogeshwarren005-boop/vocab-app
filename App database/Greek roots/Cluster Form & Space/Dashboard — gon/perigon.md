@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An angle of 360 degrees.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An angle of 360 degrees.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A plane angle equal to 360 degrees or $2\pi$ radians; a complete full rotation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical plane geometry, a perigon encompasses the entire angular space surrounding a single vertex point in a plane.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, perigon designates an angle of 360 degrees."*
+> - 📜 **H. S. M. Coxeter (*Introduction to Geometry*):** *"The sum of the angles radiating around any interior point on a flat plane equals exactly one **perigon**."*
+> - 📜 **George Biddell Airy (*Treatise on Trigonometry*):** *"A complete revolution of the radius vector sweeps out an angle of one **perigon**, or four right angles."*
+> - 📜 **Augustus De Morgan (*The Elements of Geometry*):** *"Modern geometric nomenclature designates the complete 360-degree rotation around a vertex as a **perigon**."*

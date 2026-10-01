@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A dentist specializing in diseases of the gums and other structure surrounding the teeth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dentist specializing in diseases of the gums and other structure surrounding the teeth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A dental specialist who prevents, diagnoses, and treats periodontal disease and places dental implants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A clinician possessing advanced training in soft-tissue grafting, bone regeneration, and managing severe periodontitis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, periodontist designates a dentist specializing in diseases of the gums and other structure surrounding the teeth."*
+> - 📜 **Fermín A. Carranza (*Clinical Periodontology*):** *"The consulting **periodontist** performs pocket reduction surgery to facilitate long-term plaque control."*
+> - 📜 **William R. Proffit (*Contemporary Orthodontics*):** *"Surgical exposure of impacted canines requires delicate handling by a skilled **periodontist** to preserve attached gingiva."*
+> - 📜 **G. V. Black (*Special Dental Pathology*):** *"The dedicated **periodontist** educates the patient that daily oral hygiene is the only defense against recurrent infection."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek opisth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A Greek combining form meaning behind, at the back, or posterior, used in anatomical and zoological terminology to denote rear-facing structures or positions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical philology and morphological analysis, opisth- derives from opisthen and systematically generates terms contrasting with anterior or frontal counterparts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, opisth designates a term designating an entity, condition, or phenomenon derived from greek opisth."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"The prefix **opisth-** from opisthen denotes the rear or hinder part in Greek compound formations."*
+> - 📜 **Pierre Chantraine (*Dictionnaire etymologique de la langue grecque*):** *"Greek **opisth-** regularly forms anatomical compounds indicating posterior position relative to a reference point."*
+> - 📜 **Robert Beekes (*Etymological Dictionary of Greek*):** *"The element **opisth-** combines freely with body-part nouns to specify dorsal or caudal orientation."*

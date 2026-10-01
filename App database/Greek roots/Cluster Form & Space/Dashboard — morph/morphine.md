@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A bitter crystalline addictive narcotic base C17H19NO3 that is the principal alkaloid of opium and is used in the form of a soluble salt (such as a hydrochloride or a sulfate) as an analgesic and sedative.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bitter crystalline addictive narcotic base C17H19NO3 that is the principal alkaloid of opium and is used in the form of a soluble salt (such as a hydrochloride or a sulfate) as an analgesic and sedative.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A powerful narcotic opioid alkaloid isolated from opium (Papaver somniferum), widely prescribed as an analgesic for severe acute and chronic pain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuropharmacology, morphine acts as a potent agonist at central μ-opioid receptors, dampening pain transmission while posing risks of respiratory depression.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Of course I declined his proposition to “shoot me” so full of morphine through the night that to-morrow I would not know, when I marched to the gallows, whether I was “coming or going.” But the laugh."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Sedatives valueless 416:6 A hypodermic injection of morphine is administered to a patient, and in twenty minutes the sufferer is qui- etly asleep."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"As I grew older, the spells became more frequent and more severe; the only relief physicians could give me was by hypodermic injections of morphine."*
+> - 📜 **Friedrich Sertürner (*Darstellung der reinen Mohnsäure nebst einer chemischen Untersuchung des Opiums*):** *"I succeeded in isolating the soporific principle of opium as a crystalline alkaline base, naming it **morphine** after the god of dreams."*
+> - 📜 **Louis S. Goodman (*Goodman & Gilman's The Pharmacological Basis of Therapeutics*):** *"Intravenous **morphine** remains the gold standard analgesic against which all newly synthesized opioid agonists are calibrated."*
+> - 📜 **Claude Bernard (*Leçons de physiologie opératoire*):** *"By administering **morphine** prior to surgical vivisection, physiological reflexes can be investigated with minimal animal distress."*

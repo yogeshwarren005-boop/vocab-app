@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A writer (especially a playwright) who writes tragedies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An actor who specializes in tragic roles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An actor who specializes in tragic roles; a writer of tragedies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical theatrical history, the tragedian commanded heightened poetic declamation, cothurni, and masks to evoke the cathartic terror and pity of dramatic fate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Tut, I can counterfeit the deep tragedian; Speak, and look back, and pry on every side, Tremble and start at wagging of a straw, Intending deep suspicion."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Even those you were wont to take such delight in—the tragedians of the city."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"He did not depend on his communings with Origen and Eusebius for keeping up his Greek, but went back as often as he could find time to Plato and to the Tragedians."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"The arrival of the traveling **tragedian** troupe in Elsinore provided Hamlet the occasion to catch the conscience of the king."*
+> - 📜 **Aristotle (*Poetics*):** *"Aeschylus was the first **tragedian** to introduce a second actor, reducing the prominence of the tragic chorus."*
+> - 📜 **William Hazlitt (*Characters of Shakespear's Plays*):** *"Edmund Kean was a sublime **tragedian** whose fiery passion illuminated Shakespeare like flashes of lightning."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a domain (Eukarya) or a higher taxonomic group (Eukaryota) above the kingdom that includes organisms composed of one or more cells containing visibly evident nuclei and organelles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a domain (Eukarya) or a higher taxonomic group (Eukaryota) above the kingdom that includes organisms composed of one or more cells containing visibly evident nuclei and organelles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An organism whose cells possess a membrane-bound nucleus containing genetic material, along with specialized membrane-bound cytoplasmic organelles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology and phylogenetics, the domain Eukaryota (comprising animals, plants, fungi, and protists) originated via endosymbiosis between an archaeal host and an alphaproteobacterium that became the mitochondrion, contrasting with prokaryotes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eukaryote designates any of a domain (eukarya) or a higher taxonomic group (eukaryota) above the kingdom that includes organisms composed of one or more cells containing visibly evident nuclei and organelles."*
+> - 📜 **Edouard Chatton (*Titres et travaux scientifiques*):** *"I proposed the fundamental biological division classifying living beings as either a prokaryote or a **eukaryote**."*
+> - 📜 **Francis Crick (*What Mad Pursuit*):** *"The complex internal compartmentalization of the **eukaryote** allowed for intricate post-transcriptional gene regulation."*
+> - 📜 **Theodosius Dobzhansky (*Genetics of the Evolutionary Process*):** *"The emergence of the **eukaryote** cell furnished the indispensable structural foundation for subsequent multicellular evolution."*

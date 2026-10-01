@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek pyel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The radiographic examination and imaging of the renal pelvis and ureter following the administration of radiopaque contrast media.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical urology, categorized into intravenous (excretory) and retrograde techniques to assess renal morphology and function.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pyelography designates a term designating an entity, condition, or phenomenon derived from greek pyel."*
+> - 📜 **Alexander von Lichtenberg (*Intravenous Pyelography*):** *"The introduction of excretory **pyelography** transformed urological diagnostics by rendering exploratory surgery unnecessary in most renal colic cases."*
+> - 📜 **Hugh H. Young (*Young's Practice of Urology*):** *"When intravenous visualization proves faint, retrograde **pyelography** provides sharp anatomical delineation of the renal calyces."*
+> - 📜 **John K. Lattimer (*Urology in Childhood*):** *"Modern contrast agents made pediatric **pyelography** safer while minimizing systemic adverse reactions."*

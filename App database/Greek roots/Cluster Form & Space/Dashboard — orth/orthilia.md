@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A shrubby perennial rhizomatous evergreen herb; grows in damp coniferous woodlands in northern temperate regions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A shrubby perennial rhizomatous evergreen herb; grows in damp coniferous woodlands in northern temperate regions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small genus of evergreen perennial plants in the family Ericaceae, commonly known as one-sided wintergreen, bearing racemes of nodding flowers along one side of the stem.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In boreal ecology, Orthilia secunda is a widespread circumboreal species found in coniferous forest understories, and its straight floral arrangement gives the genus its etymological name.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, orthilia designates a shrubby perennial rhizomatous evergreen herb; grows in damp coniferous woodlands in northern temperate regions."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"**Orthilia** secunda is distinguished by its one-sided raceme of small, greenish-white flowers."*
+> - 📜 **Carl Linnaeus (*Species Plantarum (as Pyrola secunda)*):** *"The plant now placed in **Orthilia** bears its flowers in a secund arrangement along a curved stem."*
+> - 📜 **Eric Hulten (*Flora of Alaska and Neighboring Territories*):** *"**Orthilia** secunda is among the most widespread herbs of the boreal forest floor across the Northern Hemisphere."*

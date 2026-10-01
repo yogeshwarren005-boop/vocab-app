@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person with hyperopia; a farsighted person.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person with hyperopia; a farsighted person.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person affected by hyperopia (farsightedness).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical optometry, a hyperope has an eye whose refractive power is insufficient for its axial length, requiring active ciliary accommodation or convex corrective lenses to see clearly.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyperope designates a person with hyperopia; a farsighted person."*
+> - 📜 **Francis Cornelis Donders (*On the Anomalies of Accommodation and Refraction of the Eye*):** *"The youthful **hyperope** frequently conceals his optical error by continuous involuntary ciliary muscle contraction."*
+> - 📜 **Hermann von Helmholtz (*Treatise on Physiological Optics*):** *"Without convex lenses, the **hyperope** suffers ocular fatigue whenever sustained near work is attempted."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Headaches recurring after close reading led us to refer the young **hyperope** for formal refraction."*

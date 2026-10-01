@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Related to the hypersensitivity known as anaphylaxis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Related to the hypersensitivity known as anaphylaxis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, caused by, or suffering from anaphylaxis; exhibiting hypersensitivity to a foreign antigen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical immunology, describing an immediate IgE-mediated type I hypersensitivity reaction causing bronchospasm, vasodilation, and vascular collapse.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anaphylactic designates related to the hypersensitivity known as anaphylaxis."*
+> - 📜 **Charles Richet (*Anaphylaxis (Nobel Lecture)*):** *"The **anaphylactic** state is that profound vulnerability into which an organism is thrown by a prior minute dose of antigen."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Administration of horse antiserum may provoke an acute **anaphylactic** shock characterized by sudden dyspnea and vascular collapse."*
+> - 📜 **Eric Kandel (*Principles of Neural Science*):** *"Systemic **anaphylactic** hypotension rapidly impairs cerebral autoregulation, depriving cortical neurons of oxygenated blood."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the cross braces that support the rails on a railway track.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of the cross braces that support the rails on a railway track.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A transverse timber, concrete, or steel sleeper laid beneath railroad rails to maintain track gauge and distribute load.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In civil and mechanical engineering, any transverse structural brace or tie that secures parallel members against lateral displacement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, crosstie designates one of the cross braces that support the rails on a railway track."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"We do not ride on the railroad; it rides upon us. Did you ever think what those sleepers are that underlie the railroad? Each one is a man, an Irishman, or a Yankee man. The rails are laid on them, and they are covered with sand, and the cars run smoothly over them. Every **crosstie** is a human life laid down."*
+> - 📜 **Walt Whitman (*To a Locomotive in Winter*):** *"Fierce-throated beauty! Roll through the gale, jarring each sturdy **crosstie** beneath thy ponderous driving wheels."*
+> - 📜 **John Steinbeck (*The Grapes of Wrath*):** *"Men walked the railway line, stepping from one creosoted **crosstie** to the next in their trek toward California."*

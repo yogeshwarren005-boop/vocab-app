@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An illuminated usually fiber-optic flexible or rigid tubular instrument for visualizing the interior of a hollow organ or part (such as the bladder or esophagus) for diagnostic or therapeutic purposes that typically has one or more channels to enable passage of instruments (such as forceps or scissors).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An illuminated usually fiber-optic flexible or rigid tubular instrument for visualizing the interior of a hollow organ or part (such as the bladder or esophagus) for diagnostic or therapeutic purposes that typically has one or more channels to enable passage of instruments (such as forceps or scissors).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The medical procedure of examining the interior of a hollow organ, joint, or body cavity using an endoscope.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical gastroenterology and pulmonology, diagnostic and interventional endoscopy allows tissue biopsy, polyp resection, stent placement, and laser ablation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endoscopy designates an illuminated usually fiber-optic flexible or rigid tubular instrument for visualizing the interior of a hollow organ or part (such as the bladder or esophagus) for diagnostic or therapeutic purposes that typically has one or more channels to enable passage of instruments (such as forceps or scissors)."*
+> - 📜 **Eugene Braunwald (*Harrison's Principles of Internal Medicine*):** *"Upper gastrointestinal **endoscopy** provides unmatched diagnostic accuracy for evaluating persistent dyspepsia and dysphagia."*
+> - 📜 **Courtney M. Townsend (*Sabiston Textbook of Surgery*):** *"Therapeutic **endoscopy** has replaced exploratory laparotomy for many conditions of acute biliary obstruction."*
+> - 📜 **Jerome Groopman (*The Measure of Our Days*):** *"Routine screening via colon **endoscopy** intercepts pre-malignant adenomatous polyps before invasive transformation occurs."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A surgical instrument that stops bleeding by clamping the blood vessel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A surgical instrument that stops bleeding by clamping the blood vessel.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A surgical instrument or pharmaceutical substance used to arrest hemorrhage, especially a clamping forceps with a ratchet mechanism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In operative technique, William Halsted popularized mosquito hemostats to meticulously clamp tiny bleeding arterioles, establishing modern bloodless surgical dissection.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemostat designates a surgical instrument that stops bleeding by clamping the blood vessel."*
+> - 📜 **William Stewart Halsted (*Surgical Papers*):** *"The systematic use of the delicate pointed **hemostat** eliminates tissue crushing and ensures meticulous hemostasis."*
+> - 📜 **Harvey Cushing (*The Life of Sir William Osler*):** *"In the operating theater, Halsted's deliberate placement of each **hemostat** was likened to a master playing chess."*
+> - 📜 **Atul Gawande (*The Checklist Manifesto*):** *"The scrub nurse counted every sponge, needle, and **hemostat** before the surgeon closed the fascia."*

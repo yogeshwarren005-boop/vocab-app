@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek rhod.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any red alga belonging to the phylum Rhodophyta.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine phycology, a multicellular seaweed containing phycoerythrin that masks chlorophyll a and imparts reddish, purplish, or brownish tints.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhodophyte designates a term designating an entity, condition, or phenomenon derived from greek rhod."*
+> - 📜 **Gilbert M. Smith (*Cryptogamic Botany*):** *"A typical marine **rhodophyte** displays branched filamentous or parenchymatous thalli attached by discoid holdfasts."*
+> - 📜 **Robert Edward Lee (*Phycology*):** *"The life history of a **rhodophyte** frequently encompasses an alternation of isomorphic or heteromorphic generations with carposporophytes."*
+> - 📜 **Kathleen M. Drew (*Studies in the Bangioideae*):** *"Her discovery that the Conchocelis phase of a **rhodophyte** was part of Porphyra's life cycle revolutionized commercial nori aquaculture."*

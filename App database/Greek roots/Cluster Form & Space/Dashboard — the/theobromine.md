@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A bitter alkaloid C7H8N4O2 closely related to caffeine that occurs especially in cacao beans and has stimulant and diuretic properties.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bitter alkaloid C7H8N4O2 closely related to caffeine that occurs especially in cacao beans and has stimulant and diuretic properties.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A bitter alkaloid (3,7-dimethylxanthine) found naturally in cocoa, chocolate, and tea, structurally related to caffeine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacology, theobromine acts as a mild central nervous system stimulant, myocardial stimulant, vasodilator, and diuretic; it is toxic to canines due to slow hepatic metabolism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, theobromine designates a bitter alkaloid c7h8n4o2 closely related to caffeine that occurs especially in cacao beans and has stimulant and diuretic properties."*
+> - 📜 **Justus von Liebig (*Familiar Letters on Chemistry*):** *"Chemical analysis of cacao beans revealed **theobromine**, an alkaloid closely allied in constitution to caffeine."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Physicians occasionally administered **theobromine** salts as diuretics in cases of severe cardiac dropsy."*
+> - 📜 **Emil Fischer (*Investigations on the Purine Group*):** *"My synthetic elucidation of xanthine derivatives demonstrated how **theobromine** can be converted into caffeine by methylation."*

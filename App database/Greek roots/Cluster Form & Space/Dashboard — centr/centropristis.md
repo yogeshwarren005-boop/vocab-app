@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sea basses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sea basses.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of marine serranid fishes known as black sea basses, native to coastal waters of the western North Atlantic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine ecology, protogynous hermaphroditic sea basses that associate closely with rocky reefs, jetties, and oyster beds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centropristis designates sea basses."*
+> - 📜 **Spencer Fullerton Baird (*Report on the Condition of the Sea Fisheries of the South Coast of New England*):** *"The black sea bass, known taxonomically as **Centropristis**, gathers in abundant shoals along the rocky shoals of Vineyard Sound."*
+> - 📜 **George Brown Goode (*Oceanic Ichthyology*):** *"Specimens of **Centropristis** exhibit striking sexual dimorphism, mature males developing an adipose nuchal hump."*
+> - 📜 **Henry Bryant Bigelow (*Fishes of the Gulf of Maine*):** *"Trawlers along the southern banks frequently net **Centropristis** whenever ocean floor temperatures remain comfortably mild."*

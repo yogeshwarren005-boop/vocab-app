@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling a circle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resembling a circle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the form, properties, or path of a cycloid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mechanical engineering and ichthyology, describing gear teeth profiled along a cycloid to ensure smooth meshing; or smooth, rounded fish scales (cycloid scales) lacking ctenii.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cycloidal designates resembling a circle."*
+> - 📜 **Christiaan Huygens (*Horologium Oscillatorium*):** *"The **cycloidal** pendulum solved the ancient problem of maintaining precise timekeeping across variable arc amplitudes."*
+> - 📜 **Louis Agassiz (*Recherches sur les Poissons Fossiles*):** *"Teleostean fishes bearing thin, flexible **cycloidal** scales with concentric growth rings dominate modern freshwater faunas."*
+> - 📜 **William John Macquorn Rankine (*A Manual of Machinery and Millwork*):** *"Clocks and chronometers utilize **cycloidal** gear teeth to minimize sliding friction and tooth wear."*

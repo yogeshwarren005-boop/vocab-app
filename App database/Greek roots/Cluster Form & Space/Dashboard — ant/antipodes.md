@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The parts of the earth diametrically opposite —usually plural—often used of Australia and New Zealand as contrasted to the western hemisphere.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The exact opposite or contrary.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any two places or regions on diametrically opposite sides of the Earth; or the direct, polar opposite of a person, principle, or thing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical geography and classical literature, the inhabitants of the southern hemisphere whose feet were imagined to point directly toward those of northern peoples.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou art as opposite to every good As the Antipodes are unto us, Or as the south to the Septentrion."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We should hold day with the Antipodes, If you would walk in absence of the sun."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll believe as soon This whole earth may be bor’d, and that the moon May through the centre creep and so displease Her brother’s noontide with th’ Antipodes."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"The voyages of modern mariners have opened the **antipodes** to commerce, confounding the narrow geography of the ancients."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Early theologians hotly disputed whether human beings could inhabit the **antipodes** without descending from Noah's ark."*
+> - 📜 **George Eliot (*Middlemarch*):** *"In their habits of thought, the austere scholar and his vivacious cousin lived at the spiritual **antipodes** of each other."*

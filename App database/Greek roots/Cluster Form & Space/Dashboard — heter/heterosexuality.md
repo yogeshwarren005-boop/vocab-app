@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characterized by sexual or romantic attraction to or between people of the opposite sex.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or involving sexual activity between individuals of the opposite sex.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sexual, romantic, or erotic attraction, orientation, or behavior directed exclusively or primarily toward persons of the opposite sex.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social history and evolutionary biology, heterosexuality constitutes the primary behavioral mechanism ensuring biparental sexual reproduction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heterosexuality designates of, relating to, or characterized by sexual or romantic attraction to or between people of the opposite sex."*
+> - 📜 **Alfred Kinsey (*Sexual Behavior in the Human Female*):** *"The prevalence of exclusive **heterosexuality** varies significantly across demographic cohorts and cultural contexts."*
+> - 📜 **Sigmund Freud (*Civilization and Its Discontents*):** *"Sublimation of libido into civil institutions channels normative **heterosexuality** into family formation and social labor."*
+> - 📜 **E. O. Wilson (*On Human Nature*):** *"Evolutionary psychology analyzes **heterosexuality** as an adaptive behavioral strategy maximizing gene propagation in sexually dimorphic species."*

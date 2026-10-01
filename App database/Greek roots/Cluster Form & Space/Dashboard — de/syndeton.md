@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek de.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A syntactic construction in which words, phrases, or clauses are joined together by explicit coordinating conjunctions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical rhetoric, syndeton represents the standard, balanced grammatical construction from which polysyndeton and asyndeton deviate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, syndeton designates a term designating an entity, condition, or phenomenon derived from greek de."*
+> - 📜 **G. H. Matthews (*Syntax and Style in Classical Authors*):** *"Normal prose discourse relies upon standard **syndeton** to establish clear, logical relations between successive thoughts."*
+> - 📜 **Richard A. Lanham (*A Handlist of Rhetorical Terms*):** *"Departures from straightforward **syndeton** allow authors to inject poetic haste or ceremonial grandeur into sentence architecture."*
+> - 📜 **Edward P. J. Corbett (*Classical Rhetoric for the Modern Student*):** *"The disciplined orator balances abrupt asyndeton against regular **syndeton** to sustain listener engagement."*

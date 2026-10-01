@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An egg before maturation : a female gametocyte.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An egg before maturation : a female gametocyte.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cell in the ovary that undergoes meiosis to form a mature ovum; a female gametocyte at any stage of maturation before completion of the second meiotic division.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In assisted reproductive technology, oocyte retrieval, cryopreservation, and in vitro maturation are foundational procedures for fertility treatments including IVF.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oocyte designates an egg before maturation : a female gametocyte."*
+> - 📜 **Robert Edwards (*A Matter of Life*):** *"The successful fertilization of a human **oocyte** in vitro opened an entirely new chapter in reproductive medicine."*
+> - 📜 **Edmund Beecher Wilson (*The Cell in Development and Heredity*):** *"The primary **oocyte** enters a prolonged arrest at the diplotene stage of the first meiotic prophase."*
+> - 📜 **Bruce Alberts (*Molecular Biology of the Cell*):** *"Asymmetric division of the **oocyte** produces one large egg cell and a diminutive polar body."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of a center party.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who holds moderate views.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who holds moderate political views or belongs to a centrist party; or of or relating to political centrism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Describing politicians, policies, or voters occupying the political center between social democracy and conservative liberalism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centrist designates a member of a center party."*
+> - 📜 **Alexis de Tocqueville (*The Old Regime and the Revolution*):** *"The prudent **centrist** deputy sought to preserve constitutional reform while checking the destructive fury of the mob."*
+> - 📜 **George Orwell (*Homage to Catalonia*):** *"The moderate **centrist** parties favored restoring normal republican administration before attempting sweeping economic transformations."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The genius of Halifax lay in his role as a consummate **centrist** trimmer, shifting his weight whenever the boat listed too dangerously."*

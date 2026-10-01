@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek morph.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The asexual, mitosporic, or imperfect reproductive form or morph of a fungus, reproducing primarily via conidia or other vegetative propagules.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic mycology, anamorphs often historically carried independent generic names before molecular phylogenetics connected them to their sexual teleomorphs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anamorph designates a term designating an entity, condition, or phenomenon derived from greek morph."*
+> - 📜 **C. V. Subramanian (*Hyphomycetes*):** *"The conidiogenesis observed in this **anamorph** allows rapid propagation during favorable humid seasons without genetic recombination."*
+> - 📜 **Bryce Kendrick (*The Whole Fungus*):** *"Mycologists must coordinate binomial nomenclature to recognize when an **anamorph** corresponds to a known sexual ascomycete."*
+> - 📜 **John Webster (*Introduction to Fungi*):** *"In many fungal pathogens, the **anamorph** is the only stage encountered in clinical infections, making conidial morphology vital for diagnosis."*

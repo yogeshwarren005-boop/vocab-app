@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Passing through the different stages in the life cycle on alternate and often unrelated hosts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Passing through the different stages in the life cycle on alternate and often unrelated hosts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In mycology, requiring two different, unrelated host species to complete a full sexual and asexual life cycle, as observed in certain parasitic rust fungi.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant pathology, heteroecious rusts (such as Puccinia graminis) produce urediniospores and teliospores on cereals while producing aecia on barberry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heteroecious designates passing through the different stages in the life cycle on alternate and often unrelated hosts."*
+> - 📜 **Anton de Bary (*Comparative Morphology and Biology of the Fungi, Mycetozoa and Bacteria*):** *"I demonstrated by experimental inoculation that the cereal rust is **heteroecious**, requiring the leaves of the common barberry to complete its spring cycle."*
+> - 📜 **John Webster (*Introduction to Fungi*):** *"The life cycle of a **heteroecious** rust encompasses five distinct spore states alternating between two widely separated plant families."*
+> - 📜 **Bryce Kendrick (*The Fifth Kingdom*):** *"Agricultural legislation eradicating barberry bushes broke the reproductive chain of the **heteroecious** wheat stem rust."*

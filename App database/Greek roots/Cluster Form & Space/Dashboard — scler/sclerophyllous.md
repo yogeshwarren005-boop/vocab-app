@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of hard.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of hard.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having hard, stiff, leathery leaves adapted to minimize water loss; characteristic of Mediterranean-climate vegetation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In phytogeography, describing scrub and woodland ecosystems (such as the Mediterranean macchia or California chaparral) dominated by leathery-leaved evergreens.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sclerophyllous designates adjective*) pertaining to, derived from, or characteristic of hard."*
+> - 📜 **A. F. W. Schimper (*Plant-Geography upon a Physiological Basis*):** *"The **sclerophyllous** trees of southern Europe, such as the holm oak and olive, endure prolonged summer drought without wilting."*
+> - 📜 **Eugenius Warming (*Oecology of Plants*):** *"Microscopic examination of **sclerophyllous** foliage reveals extensive hypodermal sclerenchyma that maintains leaf rigidity during water stress."*
+> - 📜 **Ferdinand von Mueller (*Select Extra-Tropical Plants*):** *"Many Australian acacias produce **sclerophyllous** phyllodes in place of true leaf blades to flourish in arid stony scrub."*

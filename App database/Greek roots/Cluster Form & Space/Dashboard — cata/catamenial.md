@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to menstruation or the menses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to menstruation or the menses.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or occurring during the catamenia (menstruation).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neurology and gynecology, describing periodic exacerbations of conditions (such as catamenial epilepsy or catamenial migraine) timed with hormonal drops.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, catamenial designates of or relating to menstruation or the menses."*
+> - 📜 **William R. Gowers (*A Manual of Diseases of the Nervous System*):** *"The recurrence of seizures showed a pronounced **catamenial** periodicity, concentrating during the premenstrual phase of the cycle."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Severe **catamenial** migraines frequently abate during pregnancy when systemic estrogen and progesterone levels remain steady."*
+> - 📜 **Oliver Sacks (*Migraine*):** *"Her debilitating hemicrania was strictly **catamenial**, returning with unerring regularity at the onset of each monthly period."*

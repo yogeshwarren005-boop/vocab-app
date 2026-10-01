@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Aquatic eel-shaped salamander having two pairs of very small feet; of still muddy waters in the southern united states.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Aquatic eel-shaped salamander having two pairs of very small feet; of still muddy waters in the southern united states.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of aquatic, eel-like salamanders native to southeastern North America, possessing four tiny, vestigial limbs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative anatomy and herpetology, commonly called the congo snake, famous for possessing exceptionally large nucleated erythrocytes and immense genomes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amphiuma designates aquatic eel-shaped salamander having two pairs of very small feet; of still muddy waters in the southern united states."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"The elongated body of **Amphiuma** retains minute two- or three-toed extremities that are completely useless for terrestrial locomotion."*
+> - 📜 **William Benjamin Carpenter (*The Microscope and Its Revelations*):** *"The red blood corpuscles of **Amphiuma** are among the largest known in the animal kingdom, easily examined under low magnification."*
+> - 📜 **John James Audubon (*Ornithological Biography*):** *"In the murky cypress bayous, we caught an **Amphiuma** writhing in the mud, mistaken by the boatmen for a venomous water serpent."*

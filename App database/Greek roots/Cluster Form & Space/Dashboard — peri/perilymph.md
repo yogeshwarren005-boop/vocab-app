@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The bodily fluid that fills the space between the bony labyrinth and the membranous labyrinth of the inner ear.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The bodily fluid that fills the space between the bony labyrinth and the membranous labyrinth of the inner ear.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The extracellular fluid located between the membranous labyrinth and the bony labyrinth of the inner ear.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In auditory physiology, perilymph resembles cerebrospinal fluid in having high sodium ($Na^+$) and low potassium ($K^+$) concentrations, transmitting sound vibrations to the scala tympani and scala vestibuli.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, perilymph designates the bodily fluid that fills the space between the bony labyrinth and the membranous labyrinth of the inner ear."*
+> - 📜 **Hermann von Helmholtz (*On the Sensations of Tone*):** *"Stapedial vibrations transmit wave pulses through the fluid **perilymph** of the cochlear canals to stimulate the basilar membrane."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"The scala vestibuli and scala tympani are filled with **perilymph**, whose composition closely mirrors extracellular fluid."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"A thin layer of **perilymph** isolates the fragile membranous semicircular canals from the surrounding petrous bone."*

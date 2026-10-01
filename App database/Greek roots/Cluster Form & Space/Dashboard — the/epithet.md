@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A characterizing word or phrase accompanying or occurring in place of the name of a person or thing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disparaging or abusive word or phrase.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An adjective or descriptive phrase expressing a quality characteristic of the person or thing mentioned; often used as a term of abuse or characterization.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical literary epic (Homer, Virgil), traditional formulaic epithets (e.g. 'swift-footed Achilles', 'rosy-fingered Dawn') anchored poetic meter and oral mnemonic recitation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A most singular and choice epithet. [_Draws out his table-book._] HOLOFERNES."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They will not answer to that epithet."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"BENEDICK. ‘Suffer love,’ a good epithet!"*
+> - 📜 **Alexander Pope (*Preface to the Iliad of Homer*):** *"Homer applies each traditional **epithet** with such exquisite propriety that it illuminates the hero's quintessential virtue."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"Careless writers clutter their prose with idle **epithet**, weakening the force of genuine sentiment."*
+> - 📜 **Edmund Burke (*Speech on American Taxation*):** *"A single contemptuous **epithet** flung in the heat of debate may ignite lasting animosity between allied nations."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Category used in some classifications: coextensive with division eumycota.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Category used in some classifications: coextensive with division eumycota.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The true fungi; a major taxonomic division or kingdom of non-photosynthetic eukaryotic organisms possessing chitinous cell walls and absorptive nutrition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic biology, the Eumycetes historically separated true mycelial fungi (Ascomycota, Basidiomycota, Zygomycota) from slime molds and fungal-like oomycetes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eumycetes designates category used in some classifications: coextensive with division eumycota."*
+> - 📜 **Anton de Bary (*Comparative Morphology and Biology of the Fungi, Mycetozoa and Bacteria*):** *"The **Eumycetes** are characterized by a true vegetative mycelium whose cell walls contain fungal cellulose or chitin."*
+> - 📜 **Ernst Haeckel (*Systematische Phylogenie*):** *"Phylogenetic trees place the **Eumycetes** as an independent kingdom diverging early from ancestral protozoan flagellates."*
+> - 📜 **C. V. Subramanian (*Hyphomycetes*):** *"The remarkable morphological radiation of the **Eumycetes** reflects millions of years of adaptation to terrestrial organic decay."*

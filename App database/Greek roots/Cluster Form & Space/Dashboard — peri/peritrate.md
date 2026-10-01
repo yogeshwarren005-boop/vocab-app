@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A coronary vasodilator (trade name peritrate) used to treat angina pectoris.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A coronary vasodilator (trade name peritrate) used to treat angina pectoris.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A brand name for pentaerythritol tetranitrate (PETN), a long-acting organic nitrate vasodilator used in the prophylactic management of angina pectoris.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cardiovascular pharmacotherapy, peritrate releases nitric oxide to dilate coronary and systemic collateral vessels, reducing myocardial oxygen demand.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, peritrate designates a coronary vasodilator (trade name peritrate) used to treat angina pectoris."*
+> - 📜 **Louis Sanford Goodman (*The Pharmacological Basis of Therapeutics*):** *"Long-acting nitrate preparations like **peritrate** provide sustained prophylaxis against exertional anginal attacks."*
+> - 📜 **Eugene Braunwald (*Heart Disease*):** *"Administering **peritrate** promotes collateral coronary vasodilation while lowering ventricular preload."*
+> - 📜 **Tinsley R. Harrison (*Principles of Internal Medicine*):** *"Patients receiving **peritrate** must observe nitrate-free intervals to prevent pharmacologic tolerance."*

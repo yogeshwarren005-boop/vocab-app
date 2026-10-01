@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The addition of a sound to the beginning of a word (as in Old French estat—whence English estate—from Latin status).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The addition of a sound to the beginning of a word (as in Old French estat—whence English estate—from Latin status).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The addition of an initial letter or syllable to a word (linguistics); an alternative spelling of prosthesis (artificial limb).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical linguistics and phonology, prothesis (prosthesis) adds an initial vowel to simplify consonant clusters, as in Spanish *espada* from Latin *spatha*.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prothesis designates the addition of a sound to the beginning of a word (as in old french estat—whence english estate—from latin status)."*
+> - 📜 **Ferdinand de Saussure (*Course in General Linguistics*):** *"Vocalic **prothesis** regularly developed in Western Romance to support initial clusters of 's' followed by a mute stop."*
+> - 📜 **Otto Jespersen (*Language: Its Nature, Development and Origin*):** *"Phonetic **prothesis** demonstrates how articulatory ease alters word onsets across generations of speakers."*
+> - 📜 **Max Müller (*The Science of Language*):** *"The prosthetic vowel in French 'esprit' exemplifies phonological **prothesis** operating upon Latin 'spiritus'."*

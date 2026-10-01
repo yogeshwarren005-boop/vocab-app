@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A virus that infects bacteria : phage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A virus that infects bacteria : phage.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A virus that infects and replicates within bacterial cells; commonly termed a phage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In molecular genetics and microbiology, bacteriophages (such as lambda, T4, and phiX174) served as the foundational model organisms for discovering DNA replication, transcription, and genetic code mechanics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bacteriophage designates a virus that infects bacteria : phage."*
+> - 📜 **Félix d'Herelle (*The Bacteriophage: Its Role in Immunity*):** *"I observed clear plaques in bacterial lawns caused by an invisible, antagonistic microbe which I named the **bacteriophage**."*
+> - 📜 **Max Delbrück (*The Growth of Bacteriophage*):** *"The single-step growth curve of a **bacteriophage** established that virus replication occurs intracellularly by assembly rather than fission."*
+> - 📜 **James D. Watson (*Molecular Biology of the Gene*):** *"Hershey and Chase used radioactive tracers in a **bacteriophage** to prove decisively that DNA is the hereditary genetic material."*

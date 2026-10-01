@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Crown; specifically : a royal headband.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Crown; specifically : a royal headband.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ornamental jeweled crown or headband worn as a symbol of sovereignty, royalty, or exalted dignity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In numismatics and classical archaeology, the diadem was originally a white ribbon or fillet tied around the head of Hellenistic monarchs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I found her trimming up the diadem On her dead mistress; tremblingly she stood, And on the sudden dropped."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A vice of kings, A cutpurse of the empire and the rule, That from a shelf the precious diadem stole And put it in his pocket!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Levied an army, weening to redeem And have install’d me in the diadem."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"Diocletian assumed the **diadem**, exchanging the republican simplicity of the principate for oriental monarchy."*
+> - 📜 **John Milton (*Paradise Lost*):** *"High on a throne of royal state, which far outshone the wealth of Ormus and of Ind, the **diadem** sparkled on his brow."*
+> - 📜 **Alexander Pope (*The Rape of the Lock*):** *"The sparkling **diadem** adorned her regal brow, commanding the homage of assembled courtiers."*

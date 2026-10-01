@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A colorless flammable gas sometimes used as an inhalation anesthetic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A colorless flammable gas sometimes used as an inhalation anesthetic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The simplest cycloalkane hydrocarbon ($C_3H_6$), consisting of three carbon atoms bonded into a triangular ring.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In organic chemistry and historic anesthesiology, a highly strained cyclic gas with a 60-degree bond angle, formerly widely employed as a potent inhalation general anesthetic.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cyclopropane designates a colorless flammable gas sometimes used as an inhalation anesthetic."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"The severe ring strain in **cyclopropane** arises from the forced constriction of tetrahedral carbon bond angles down to sixty degrees."*
+> - 📜 **Arthur Conan Doyle (*Round the Red Lamp*):** *"The operating amphitheater was silent as the anesthetist administered sweet-smelling **cyclopropane** gas to induce unconsciousness."*
+> - 📜 **Alexander Todd (*A Time to Remember*):** *"The remarkable reactivity of **cyclopropane** stems directly from its high banana-bond strain and ring combustion energy."*

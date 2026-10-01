@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek aster.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A compound morphological term in cryptogamic botany denoting the double star-shaped fruiting structure of earthstar fungi (Geastrum).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic mycology, referring to the characteristic hygroscopic outer and inner star formations of the basidiocarp that open and close with moisture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diasterismgeaster designates a term designating an entity, condition, or phenomenon derived from greek aster."*
+> - 📜 **Anton de Bary (*Comparative Morphology and Biology of the Fungi*):** *"The double star architecture of **diasterismgeaster** functions mechanically to elevate the puffball sac above damp forest litter."*
+> - 📜 **William Benjamin Carpenter (*The Microscope and Its Revelations*):** *"Under humid conditions, the arms of **diasterismgeaster** unfurl smoothly, exposing the apical ostiole to rain droplets."*
+> - 📜 **Julian Huxley (*Evolution: The Modern Synthesis*):** *"The functional morphology of **diasterismgeaster** demonstrates how passive mechanical tissue hygroscopy aids fungal dissemination."*

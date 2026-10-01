@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek syring.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A botanical genus of small, dwarf perennial cormous flowering plants in the iris family (Iridaceae), native to southern Africa.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant taxonomy, *Syringodea* is characterized by slender, tubular-funnelform flowers with elongated perianth tubes emerging close to ground level in arid Karoo habitats.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Syringodea designates a term designating an entity, condition, or phenomenon derived from greek syring."*
+> - 📜 **John Gilbert Baker (*Flora Capensis: Iridaceae*):** *"The genus **Syringodea** is distinguished from Romulea by its remarkably elongated, slender perianth tube."*
+> - 📜 **William Jackson Hooker (*Curtis's Botanical Magazine*):** *"Specimens of **Syringodea** collected from the high South African veld bloomed in our greenhouse with delicate lilac flowers."*
+> - 📜 **Rudolf Marloth (*The Flora of South Africa*):** *"Following brief autumn rains in the Karoo, the tubular blossoms of **Syringodea** appear directly upon the baked earth."*

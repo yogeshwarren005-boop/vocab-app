@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to normal binocular vision.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to normal binocular vision.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to normal, straight, or coordinated binocular vision, or to the non-surgical treatment of visual anomalies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ophthalmology and optometry, pertaining to exercises and techniques used to correct strabismus and improve binocular fusion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, orthoptic designates of or relating to normal binocular vision."*
+> - 📜 **Duke-Elder (*System of Ophthalmology*):** *"A thorough **orthoptic** evaluation determines the degree of binocular sensory fusion before surgical alignment is planned."*
+> - 📜 **G. Keith Burian (*Binocular Vision and Ocular Motility*):** *"Prescribing **orthoptic** exercises assists patients in overcoming small-angle suppression and accommodative asthenopia."*
+> - 📜 **Mary Catterall (*Practical Orthoptics in the Treatment of Squint*):** *"The goal of **orthoptic** training is the establishment of spontaneous, comfortable stereopsis."*

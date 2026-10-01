@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the peritoneum.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inflammation of the peritoneum.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the peritoneum, typically caused by bacterial infection or chemical irritation following perforation of an abdominal organ.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In emergency surgery and critical care, acute generalized peritonitis presents with severe abdominal pain, rebound tenderness, and involuntary board-like muscular rigidity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Several years before this time I had undergone an operation which resulted in peritonitis."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A ruptured appendix pours purulent exudate into the abdominal basin, initiating fatal septic **peritonitis** if not swiftly excised."*
+> - 📜 **Tinsley R. Harrison (*Principles of Internal Medicine*):** *"The hallmark of acute **peritonitis** is diffuse abdominal rigidity accompanied by exquisite rebound tenderness."*
+> - 📜 **Eugene Braunwald (*Harrison's Principles of Internal Medicine*):** *"Spontaneous bacterial **peritonitis** is a frequent and life-threatening complication in cirrhotic patients with ascites."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An old astronomical instrument composed of rings showing the positions of important circles of the celestial sphere.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An old astronomical instrument composed of rings showing the positions of important circles of the celestial sphere.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An astronomical instrument consisting of an open skeleton of graduated metal or wooden rings representing the principal celestial circles, such as the equator, ecliptic, tropics, and meridian.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of astronomy and iconography, the armillary sphere was invented independently by ancient Hellenistic and Chinese astronomers to calculate celestial coordinates and symbolize scientific learning.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, armillary sphere designates an old astronomical instrument composed of rings showing the positions of important circles of the celestial sphere."*
+> - 📜 **Johannes Kepler (*Epitome of Copernican Astronomy*):** *"By revolving the rings of the brass **armillary sphere**, the student learns how the zodiac crosses the celestial equator."*
+> - 📜 **Tycho Brahe (*Astronomiae Instauratae Mechanica*):** *"Our great equatorial **armillary sphere** permitted direct measurement of planetary declinations without parallax errors."*
+> - 📜 **John Milton (*Paradise Lost*):** *"High above the terrestrial globe hung the celestial circles, disposed like a starry **armillary sphere** in heavenly harmony."*

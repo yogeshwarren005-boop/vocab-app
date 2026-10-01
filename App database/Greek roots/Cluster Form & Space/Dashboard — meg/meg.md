@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: megabyte.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: megohm.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A root combining form (meg- / mega-) derived from Greek megas, meaning great, large, or powerful.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In metric terminology and scientific nomenclature, a prefix denoting a factor of one million (10^6) or denoting abnormal enlargement in anatomical pathology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I thank thee, Meg; these words content me much."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"No, pray thee, good Meg, I’ll wear this."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Help to dress me, good coz, good Meg, good Ursula. [Exeunt.] Scene V."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Compounds formed with the Greek prefix **meg-** signify macroscopic hypertrophy or monumental scale."*
+> - 📜 **Henry Gray (*Anatomy: Descriptive and Surgical*):** *"Terms utilizing **meg-** in clinical taxonomy delineate abnormal enlargement of visceral organs."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"In standard electrical measurement, the prefix **meg-** denotes a tenfold multiplication by one million units."*

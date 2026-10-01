@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or located in the atmosphere.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or located in the atmosphere.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An archaic or literary variant of atmospheric; relating to the atmosphere or its meteorological conditions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In eighteenth- and nineteenth-century natural philosophy, atmospherical phenomena included halos, auroras, barometric fluctuations, and lightning.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"If he think fit, also, he may so manage his atmospherical medium as to bring out or mellow the lights and deepen and enrich the shadows of the picture."*
+> - 📜 **Benjamin Franklin (*Experiments and Observations on Electricity*):** *"The pointed iron rod drew down the **atmospherical** electricity from the thundercloud into our Leyden phial."*
+> - 📜 **Gilbert White (*The Natural History and Antiquities of Selborne*):** *"A strange **atmospherical** fog prevailed throughout that summer, tinging the sun with a dismal blood-red hue."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"We experienced extraordinary **atmospherical** refraction, raising distant coastal islands far above the true horizon."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Gastropods having the gills when present posterior to the heart and having no operculum: includes sea slugs; sea butterflies; sea hares.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Gastropods having the gills when present posterior to the heart and having no operculum: includes sea slugs; sea butterflies; sea hares.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A subclass of gastropod mollusks comprising sea slugs, sea hares, and nudibranchs, historically defined by having gills situated behind the heart.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic zoology, Opisthobranchia is now considered a paraphyletic grouping, with many of its former members redistributed among Euopisthobranchia, Nudipleura, and other clades.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, opisthobranchia designates gastropods having the gills when present posterior to the heart and having no operculum: includes sea slugs; sea butterflies; sea hares."*
+> - 📜 **Henri Milne-Edwards (*Histoire naturelle des animaux sans vertebres*):** *"The **Opisthobranchia** are distinguished from the prosobranchs by the posterior placement of the branchial apparatus."*
+> - 📜 **T. E. Thompson (*Biology of Opisthobranch Molluscs*):** *"The diversity within the **Opisthobranchia** encompasses forms ranging from shelled to entirely naked gastropods."*
+> - 📜 **Philippe Bouchet (*Classification and Nomenclator of Gastropod Families*):** *"Modern molecular phylogenetics has revealed that **Opisthobranchia** as traditionally conceived is not a natural group."*

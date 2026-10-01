@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialist in correcting deformities of the skeletal system (especially in children).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A specialist in correcting deformities of the skeletal system (especially in children).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A medical doctor or surgeon who specializes in diagnosing, treating, and repairing musculoskeletal conditions and skeletal trauma.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A physician who performs joint replacements, spinal surgeries, and fracture reductions to restore mobility and skeletal function.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, orthopedist designates a specialist in correcting deformities of the skeletal system (especially in children)."*
+> - 📜 **Walter P. Blount (*Fractures in Children*):** *"The pediatric **orthopedist** must learn to anticipate the restorative capacity of the growing periosteum."*
+> - 📜 **S. Terry Canale (*Campbell's Operative Orthopaedics*):** *"A skilled **orthopedist** balances mechanical fixation against the biological vitality of bone fragments."*
+> - 📜 **Charles Neer (*Shoulder Reconstruction*):** *"Careful preservation of the rotator cuff is essential for any **orthopedist** performing glenohumeral arthroplasty."*

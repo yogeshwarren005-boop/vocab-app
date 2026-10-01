@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: sleep.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: hypnotism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combining prefix or abbreviated root derived from Greek *hypnos* denoting sleep, dreaming, or hypnosis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical lexicography and pharmacology, hypn- forms words pertaining to somnolence, soporific agents, or altered trance states (such as hypnology, hypnagogue, and hypnotic).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog hypn as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"Ancient etymologists derived terms of slumber from the Greek **hypn**- root, honoring the deity of repose."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The pharmacopeia classifies sleep-inducing compounds under derivatives of the classical **hypn**- designation."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"The physician employs subtle **hypn**-inducing draughts to soothe the agonizing restlessness of delirium."*

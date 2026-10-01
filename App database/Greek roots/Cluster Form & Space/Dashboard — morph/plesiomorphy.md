@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek morph.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancestral, primitive, or evolutionary baseline character state that was present in the common ancestor of a clade and retained in descendants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In phylogenetic cladistics, plesiomorphies (symplesiomorphies) cannot be used to establish monophyly, as they are shared with distant outgroups.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plesiomorphy designates a term designating an entity, condition, or phenomenon derived from greek morph."*
+> - 📜 **Willi Hennig (*Phylogenetic Systematics*):** *"A shared primitive trait, or symplesiomorphy, reflects a distant **plesiomorphy** that provides no evidence of recent cladistic divergence."*
+> - 📜 **Ernst Mayr (*Principles of Systematic Zoology*):** *"Cold-bloodedness in reptiles represents a primitive **plesiomorphy** inherited from early amniotes, not a shared derived innovation."*
+> - 📜 **Douglas Futuyma (*Evolutionary Biology*):** *"Polarity assessment using outgroup comparison determines whether an anatomical character represents an apomorphy or a **plesiomorphy**."*

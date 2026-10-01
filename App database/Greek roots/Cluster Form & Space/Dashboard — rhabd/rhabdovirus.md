@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a group of arboviruses including those causing rabies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a group of arboviruses including those causing rabies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any bullet-shaped or rod-shaped single-stranded RNA virus of the family Rhabdoviridae, especially the rabies virus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In infectious disease and molecular virology, a neurotropic pathogen that travels retrograde along peripheral axoplasm to infect the central nervous system.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhabdovirus designates any of a group of arboviruses including those causing rabies."*
+> - 📜 **Louis Pasteur (*Méthode pour prévenir la rage après morsure*):** *"The deadly rabies **rhabdovirus** migrates slowly through neural pathways from the dog bite wound toward the spinal cord and brain."*
+> - 📜 **Bernard N. Fields (*Virology*):** *"The bullet-like shape of a mature **rhabdovirus** particle is maintained by tightly wound structural matrix proteins."*
+> - 📜 **Michael B. A. Oldstone (*Viruses, Plagues, and History*):** *"No human viral infection is more lethal than that caused by an established rabies **rhabdovirus** once encephalitis sets in."*

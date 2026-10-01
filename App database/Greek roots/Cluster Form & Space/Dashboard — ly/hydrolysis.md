@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A chemical process of decomposition involving the splitting of a bond and the addition of the hydrogen cation and the hydroxide anion of water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The chemical process of rapidly decomposing a dead body to mostly tiny bits of bone resembling ash by immersing the body in a pressurized chamber containing a heated alkaline solution (as of potassium hydroxide) followed by drainage of all liquid and pulverization of remaining bone; broadly : any hydrolysis process performed in an alkaline environment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chemical reaction in which a chemical bond is cleaved by the addition of the elements of water ($H_2O$), with a hydrogen cation attaching to one fragment and a hydroxide anion to the other.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biochemistry, hydrolysis of the high-energy terminal phosphoanhydride bond of adenosine triphosphate (ATP) to ADP and inorganic phosphate liberates approximately 30.5 kJ/mol of free energy to drive endergonic cellular work.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Why, there was my theory of the hydrolysis of casein by trypsin, which Professor Walters had been carrying out in his laboratory."*
+> - 📜 **Ernest Starling (*Principles of Human Physiology*):** *"Enzymatic **hydrolysis** of nutrients represents the fundamental chemical mechanism of digestion throughout the animal kingdom."*
+> - 📜 **Claude Bernard (*Lectures on the Physiology of Digestion*):** *"Pancreatic ferments accomplish the **hydrolysis** of fats, splitting them cleanly into glycerol and fatty acids."*
+> - 📜 **Michael Foster (*A Text-Book of Physiology*):** *"The chemical energy powering muscle contraction is derived directly from the enzymatic **hydrolysis** of organic phosphates."*

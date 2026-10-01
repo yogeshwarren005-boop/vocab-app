@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek sacchar.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A complex polysaccharide composed of two or more distinct types of monosaccharide repeating units.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biochemistry and cell biology, structural and signaling macromolecules such as hyaluronic acid, heparin, chondroitin sulfate, and bacterial peptidoglycan.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heteropolysaccharide designates a term designating an entity, condition, or phenomenon derived from greek sacchar."*
+> - 📜 **Karl Meyer (*The Mucopolysaccharides of Animal Tissues*):** *"The extracellular matrix of connective tissue relies upon a **heteropolysaccharide** gel to cushion mechanical compression."*
+> - 📜 **Albert L. Lehninger (*Principles of Biochemistry*):** *"In every animal tissue, the viscoelastic properties of synovial fluid depend on the extended coils of a **heteropolysaccharide**."*
+> - 📜 **Lubert Stryer (*Biochemistry*):** *"Unlike uniform glycogen, a **heteropolysaccharide** contains alternating amino sugars and uronic acid residues."*

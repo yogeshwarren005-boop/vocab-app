@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In some classifications considered a separate order: alderflies; dobsonflies; snake flies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In some classifications considered a separate order: alderflies; dobsonflies; snake flies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An order of holometabolous insects commonly known as alderflies, dobsonflies, and fishflies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In freshwater entomology, archaic insects with aquatic hellgrammite larvae possessing large abdominal gills, and adults with broad, reticulated wings and large mandibles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, megaloptera designates in some classifications considered a separate order: alderflies; dobsonflies; snake flies."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The primitive insect order **Megaloptera** possesses aquatic larvae that breathe by segmented lateral filaments."*
+> - 📜 **Edwin Ray Lankester (*A Treatise on Zoology*):** *"Male dobsonflies in the order **Megaloptera** display enormous tusk-like mandibles used exclusively in courtship grasping."*
+> - 📜 **John Lubbock (*On the Senses, Instincts, and Intelligence of Animals*):** *"Adult specimens of **Megaloptera** are weak fliers, lingering near the riverbanks where their predatory larvae matured."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Very small genus of twining vines of north america and asia: hog peanut.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Very small genus of twining vines of north america and asia: hog peanut.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The standardized botanical generic name for the genus Amphicarpaea (hog-peanut) in the legume family Fabaceae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant systematics, a genus of twining nitrogen-fixing plants famous for dimorphic seed production as an ecological bet-hedging strategy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amphicarpaea designates very small genus of twining vines of north america and asia: hog peanut."*
+> - 📜 **Asa Gray (*Scientific Papers of Asa Gray*):** *"The legal botanical spelling **Amphicarpaea** designates the hog-peanut, whose underground fruits were gathered by indigenous peoples."*
+> - 📜 **Charles Darwin (*The Movements and Habits of Climbing Plants*):** *"The revolving nutation of **Amphicarpaea** shoots ensures rapid attachment to supporting woodland undergrowth."*
+> - 📜 **Liberty Hyde Bailey (*Cyclopedia of American Horticulture*):** *"Species of **Amphicarpaea** thrive in shaded deciduous valleys, flourishing where moist humus permits geocarpic rooting."*

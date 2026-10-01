@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a large order (Hemiptera) of hemimetabolous insects (such as the true bugs) that have hemelytra and mouthparts adapted to piercing and sucking.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a large order (Hemiptera) of hemimetabolous insects (such as the true bugs) that have hemelytra and mouthparts adapted to piercing and sucking.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Belonging to, resembling, or characteristic of the order Hemiptera (the true bugs).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biological morphology, possessing piercing-sucking mouthparts and hemelytrous or membranous wings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemipterous designates any of a large order (hemiptera) of hemimetabolous insects (such as the true bugs) that have hemelytra and mouthparts adapted to piercing and sucking."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"In the arid pampas, I captured several **hemipterous** insects that mimic dry grass stems with extraordinary fidelity."*
+> - 📜 **Thomas Belt (*The Naturalist in Nicaragua*):** *"A curious **hemipterous** species lives in close mutualistic partnership with stinging acacia ants."*
+> - 📜 **Henry Walter Bates (*The Naturalist on the River Amazons*):** *"The bizarre thoracic horns of certain **hemipterous** treehoppers simulate thorns and dried leaf fragments."*

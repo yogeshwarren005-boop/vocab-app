@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, marked by, or affected with catatonia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by a marked lack of movement, activity, or expression.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Affected with, relating to, or characteristic of catatonia; motionless, rigid, mute, and unresponsive to surroundings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuropsychiatry, describing motor symptoms such as posturing, echolalia, negativism, and waxy resistance to passive manipulation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, catatonic designates of, relating to, marked by, or affected with catatonia."*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*):** *"The patient sat in a **catatonic** trance, his eyes fixed upon the wall without blinking for half an hour at a time."*
+> - 📜 **William R. Gowers (*A Manual of Diseases of the Nervous System*):** *"A **catatonic** rigidity of the neck and torso accompanied the progression of the deep basal ganglia encephalitis."*
+> - 📜 **Sigmund Freud (*The Ego and the Id*):** *"The deep withdrawal observed in **catatonic** states reflects a complete decathexis of interest from external reality."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Consisting of 11 syllables or composed of verses of 11 syllables.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Consisting of 11 syllables or composed of verses of 11 syllables.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Consisting of or having eleven syllables, especially designating a classical poetic meter composed of eleven-syllable verses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical metrics (Catullus and Martial), hendecasyllabic verse (Phalaecean meter) is a lively, colloquial lyric meter featuring a spondee, dactyl, and three trochees.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hendecasyllabic designates consisting of 11 syllables or composed of verses of 11 syllables."*
+> - 📜 **Catullus (*Poems of Catullus*):** *"The sharp, mocking wit of Catullus sparkles with unrivaled vigor in his rapid **hendecasyllabic** verses."*
+> - 📜 **Alfred Tennyson (*Hendecasyllabics*):** *"O you chorus of indolent reviewers, irresponsible, indolent reviewers, look, I come to the test, a tiny poem all composed in a metre **hendecasyllabic**."*
+> - 📜 **Algernon Charles Swinburne (*Poems and Ballads*):** *"Swinburne mastered the musical cadence of the **hendecasyllabic** line, adapting Latin quantitative metrics to English stress."*

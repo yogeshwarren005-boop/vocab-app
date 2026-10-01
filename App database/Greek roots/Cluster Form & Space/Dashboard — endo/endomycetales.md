@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fungi having a zygote or a single cell developing directly into an ascus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fungi having a zygote or a single cell developing directly into an ascus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An order of primitive budding and fission ascomycetous fungi, encompassing true yeasts such as the family Saccharomycetaceae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In fungal taxonomy, members of Endomycetales do not form ascocarps, producing naked asci directly from zygotes or single vegetative cells.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endomycetales designates fungi having a zygote or a single cell developing directly into an ascus."*
+> - 📜 **C. J. Alexopoulos (*Introductory Mycology*):** *"The order **Endomycetales** comprises unicellular and simple pseudomycelial fungi that reproduce by budding or fission."*
+> - 📜 **David L. Hawksworth (*Ainsworth & Bisby's Dictionary of the Fungi*):** *"Brewer's yeast, Saccharomyces cerevisiae, historically represented the defining model organism of the **Endomycetales**."*
+> - 📜 **John Webster (*Introduction to Fungi*):** *"Because asci develop without surrounding fruit bodies, **Endomycetales** were regarded as phylogenetically primitive ascomycetes."*

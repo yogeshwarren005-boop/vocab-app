@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Outside : external.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Outside : external.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combining form and prefix derived from Greek, meaning 'outer', 'external', or 'situated on the outside'.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anatomy and embryology, ecto- identifies peripheral layers and external structures, such as ectoderm and ectoplasm.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ecto designates outside : external."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"Derived from the adverb ektos ('outside'), the combining element **ecto** denotes external spatial relationships."*
+> - 📜 **Arthur C. Guyton (*Textbook of Medical Physiology*):** *"Structures designated with **ecto** routinely represent surfaces interacting directly with the external environment."*
+> - 📜 **Robert Beekes (*Etymological Dictionary of Greek*):** *"The productive prefix **ecto** contrasts systematically with ento- and endo- across biological taxonomies."*

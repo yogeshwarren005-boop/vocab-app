@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or caused by an upright posture.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or caused by an upright posture.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, caused by, or occurring during an upright standing posture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical cardiology and neurology, orthostatic hypotension is defined as a sustained drop in systolic blood pressure of at least 20 mmHg upon standing, caused by autonomic dysfunction or hypovolemia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, orthostatic designates of, relating to, or caused by an upright posture."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The patient complained of dizziness and transient amaurosis caused by pronounced **orthostatic** hypotension upon rising from bed."*
+> - 📜 **Ernest Starling (*Principles of Human Physiology*):** *"Baroreceptor reflexes in the carotid sinus and aortic arch provide immediate **orthostatic** compensation against venous pooling."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"Postural instability in parkinsonian patients is frequently exacerbated by severe **orthostatic** drops in cerebral perfusion."*

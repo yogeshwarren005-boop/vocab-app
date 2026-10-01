@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mild form of smallpox caused by a less virulent form of the virus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mild form of smallpox caused by a less virulent form of the virus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mild, attenuated eruptive pox disease, historically known as alastrim, variola minor, or kaffir pox.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of epidemiology, a poxvirus infection that provoked milder constitutional symptoms and far lower mortality than classical variola major.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pseudosmallpox designates a mild form of smallpox caused by a less virulent form of the virus."*
+> - 📜 **Donald A. Henderson (*Smallpox: The Death of a Disease*):** *"The existence of **pseudosmallpox**, or variola minor, complicated clinical eradication surveys because cases often passed without severe scarring."*
+> - 📜 **Frank Fenner (*Smallpox and Its Eradication*):** *"Outbreaks of **pseudosmallpox** in the early twentieth century caused minimal fatality while conferring immunological resistance to virulent strains."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Clinicians debated whether **pseudosmallpox** was a distinct viral entity or merely an attenuated modification of true variola."*

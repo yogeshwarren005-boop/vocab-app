@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The dialect of english used in scotland.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characteristic of scotland or its people or culture or its english dialect or gaelic language.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characteristic of Scotland, its inhabitants, language, literature, or culture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historiography and political philosophy, the Scottish Enlightenment contributed foundational texts to economics, sociology, and common-sense epistemology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"What think you of the Scottish lord, his neighbour?"*
-> - 📜 **John Cairns (*Principal Cairns*):** *"In place of a Bible, however, his mother had given him a copy of the Scottish Metre Version of the Psalms, with a "Preface" to each Psalm and notes by John Brown of Haddington."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"The Christian religion has acted both directly and indirectly on the Scottish peasantry, and it has done so the more powerfully because of the democratic character of the Presbyterian form which that religion took in Scotland."*
+> - 📜 **David Hume (*Letters of David Hume*):** *"I am pleased to find that our **scottish** circle in Edinburgh matches any intellectual capital in Europe for wit and learning."*
+> - 📜 **Adam Smith (*The Theory of Moral Sentiments*):** *"The plain, frugal manners of the **scottish** peasantry have nurtured habits of temperance and industry."*
+> - 📜 **Walter Scott (*Minstrelsy of the Scottish Border*):** *"These ancient **scottish** ballads preserve the rough heroism and tragic feuds of our border forebears."*

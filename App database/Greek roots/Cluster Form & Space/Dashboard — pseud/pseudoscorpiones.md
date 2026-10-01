@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: False scorpions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: False scorpions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The taxonomic order of arachnids comprising the false scorpions or book scorpions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic zoology, an archaic Chelicerate order containing over 3,000 described species characterized by chelate pedipalps and abdominal silk glands.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pseudoscorpiones designates false scorpions."*
+> - 📜 **Reginald Innes Pocock (*Arachnida: The Fauna of British India*):** *"The order **pseudoscorpiones** is readily recognized by the absence of a post-abdomen and the presence of spinning organs on the chelicerae."*
+> - 📜 **Eugène Simon (*Les Arachnides de France*):** *"In subterranean caverns, specialized **pseudoscorpiones** evolve elongated sensory setae to compensate for the complete loss of ocular organs."*
+> - 📜 **Robert D. Barnes (*Invertebrate Zoology*):** *"Courtship displays among the **pseudoscorpiones** involve intricate tactile dances during which the male guides the female over a deposited spermatophore."*

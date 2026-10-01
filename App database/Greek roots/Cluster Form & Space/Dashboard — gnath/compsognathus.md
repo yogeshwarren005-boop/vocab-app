@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek gnath.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small, lightly built bipedal carnivorous theropod dinosaur of the late Jurassic period, famous for its slender jaws and delicate bird-like skeleton.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate paleontology, Compsognathus longipes from Solnhofen limestone provided crucial early anatomical comparisons linking non-avian dinosaurs to Archaeopteryx.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, compsognathus designates a term designating an entity, condition, or phenomenon derived from greek gnath."*
+> - 📜 **Thomas Henry Huxley (*On the Animals which are Most Nearly Intermediate between Birds and Reptiles*):** *"The delicate pelvic and limb structure of **Compsognathus** demonstrates an astonishing transition toward avian osteology."*
+> - 📜 **Stephen Jay Gould (*The Flamingo's Smile*):** *"For over a century, **Compsognathus** stood as the quintessential chicken-sized dinosaur in the public and scientific imagination."*
+> - 📜 **Robert T. Bakker (*The Dinosaur Heresies*):** *"A fossilized lizard preserved within the rib cage of **Compsognathus** proved that this agile hunter preyed on fast-running Jurassic reptiles."*

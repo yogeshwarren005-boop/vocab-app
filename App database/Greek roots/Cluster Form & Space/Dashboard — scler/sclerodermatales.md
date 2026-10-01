@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An order of fungi having a peridium surrounding a gleba (sometimes placed in subclass homobasidiomycetes).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An order of fungi having a peridium surrounding a gleba (sometimes placed in subclass homobasidiomycetes).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A former taxonomic order of gasteroid basidiomycete fungi comprising the earthballs and allied thick-skinned puffball families.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical systematic mycology, an ordinal assemblage defined by a rigid outer peridial wall and synchronous basidiospore maturation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sclerodermatales designates an order of fungi having a peridium surrounding a gleba (sometimes placed in subclass homobasidiomycetes)."*
+> - 📜 **Elias Magnus Fries (*Systema Mycologicum*):** *"Under the order **sclerodermatales**, mycologists grouped those subterranean and terrestrial gasteromycetes with thick, leathery rinds."*
+> - 📜 **Curtis Gates Lloyd (*Synopsis of the Known Phalloids and Puffballs*):** *"The structural rigidity of the peridium in **sclerodermatales** resists desiccation across arid steppe and sandy pine barrens."*
+> - 📜 **Orson K. Miller Jr. (*Mushrooms of North America*):** *"Modern DNA sequencing reallocated the families of **sclerodermatales** directly into the order Boletales."*

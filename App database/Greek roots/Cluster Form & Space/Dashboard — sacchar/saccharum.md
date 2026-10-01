@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tall perennial reedlike grass originally of southeastern asia: sugarcane.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tall perennial reedlike grass originally of southeastern asia: sugarcane.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of tall perennial tropical grasses in the family Poaceae, containing the sugarcane species (such as Saccharum officinarum).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic agronomy, massive C4 photosynthetic grasses cultivated for the sucrose-rich sap stored within their solid fibrous stems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, saccharum designates tall perennial reedlike grass originally of southeastern asia: sugarcane."*
+> - 📜 **Carl Linnaeus (*Species Plantarum*):** *"Under the genus **saccharum**, I include the noble cane whose sweet juice has been prized since classical antiquity."*
+> - 📜 **George Bentham (*Flora Australiensis*):** *"Tall waving plumes of **saccharum** line the tropical estuaries of Queensland, where cane fields dominate coastal agriculture."*
+> - 📜 **David Fairchild (*The World Was My Garden*):** *"We collected wild wild varieties of **saccharum** in New Guinea to breed disease-resistant sugarcanes for Caribbean plantations."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not connected to the sternum or breastbone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not connected to the sternum or breastbone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not attached or connected directly to the sternum (breastbone).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human and comparative vertebrate anatomy, describing false ribs or floating ribs whose costal cartilages join adjacent ribs or terminate freely in the abdominal wall.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, asternal designates not connected to the sternum or breastbone."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"In mammals, the posterior costal elements are **asternal**, failing to reach the ventral presternum directly."*
+> - 📜 **Georges Cuvier (*Lectures on Comparative Anatomy*):** *"The whale possesses only a solitary pair of true sternal ribs, the remainder being loosely **asternal** floating arches."*
+> - 📜 **William Benjamin Carpenter (*Principles of Human Physiology*):** *"Respiratory mobility depends largely on the elastic recoil of the lower **asternal** costal cartilages."*

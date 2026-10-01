@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Amphibology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Amphibology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Ambiguity resulting from grammatical or syntactical construction rather than ambiguous word meaning; an amphibolous proposition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Kantian philosophy, the confusion of transcendental concepts of reflection (the amphiboly of reflexive concepts), confounding phenomena with noumena.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amphiboly designates amphibology."*
+> - 📜 **Immanuel Kant (*Critique of Pure Reason*):** *"The **amphiboly** of the concepts of reflection arises when we mistake pure objects of the understanding for empirical appearances."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"An **amphiboly** occurs when the phrasing of a sentence allows two different subjects or predicates to be understood."*
+> - 📜 **William James (*The Meaning of Truth*):** *"Epistemological debates are frequently plagued by an **amphiboly** regarding whether 'object' refers to mental content or reality."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of medical science concerned with disorders or deformities of the spine and joints.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of medical science concerned with disorders or deformities of the spine and joints.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of medical surgery that deals with the prevention, diagnosis, and treatment of disorders and injuries of the bones, joints, ligaments, and tendons.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In healthcare systems, the medical specialty encompassing sports medicine, trauma surgery, pediatric deformity correction, and total joint replacement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, orthopedics designates the branch of medical science concerned with disorders or deformities of the spine and joints."*
+> - 📜 **S. Terry Canale (*Campbell's Operative Orthopaedics*):** *"Advances in biomaterials and minimally invasive instrumentation have revolutionized clinical **orthopedics**."*
+> - 📜 **Walter P. Blount (*Fractures in Children*):** *"Pediatric **orthopedics** demands constant respect for the remodeling power of the active physis."*
+> - 📜 **John Insall (*Surgery of the Knee*):** *"The introduction of modular total condylar prostheses marked an epochal transformation in reconstructive **orthopedics**."*

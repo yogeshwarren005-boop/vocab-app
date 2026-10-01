@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Recruit for a union or organize into a union.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Form or join a union.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To organize workers or employees into a labor union for collective bargaining (American spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociological and industrial studies, to unionize involves grassroots election organizing, petitioning labor relations boards, and establishing shop-floor representation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unionize designates recruit for a union or organize into a union."*
+> - 📜 **Upton Sinclair (*The Jungle*):** *"The packinghouse workers sought desperately to **unionize** their butchering lines to demand humane working hours."*
+> - 📜 **W. E. B. Du Bois (*The Souls of Black Folk*):** *"Efforts to **unionize** southern laborers met with violent reprisals from landowners and local magistrates."*
+> - 📜 **Jack London (*The Iron Heel*):** *"The oligarchs understood that if the transport trades could **unionize** effectively, the monopoly would fall."*

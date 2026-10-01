@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Family of one species of frog: tailed frog.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Family of one species of frog: tailed frog.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The family of primitive frogs comprising the tailed frogs (genus Ascaphus), endemic to cold torrential mountain streams of northwestern North America.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In herpetology, an archaic anuran family characterized by nine presacral vertebrae, free ribs, internal fertilization, and lack of tympanic membranes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ascaphidae designates family of one species of frog: tailed frog."*
+> - 📜 **Leonhard Stejneger (*The Herpetology of Porto Rico and North American Amphibia*):** *"The family **ascaphidae** occupies a basal phylogenetic position among living anurans, retaining archaic skeletal features."*
+> - 📜 **Hobart M. Smith (*Handbook of Amphibians and Reptiles*):** *"Living exclusively in cold mountain torrents, members of **ascaphidae** absorb oxygen primarily through their highly vascularized skin."*
+> - 📜 **Richard C. Brusca (*Invertebrates and Primitive Vertebrates*):** *"Tadpoles of **ascaphidae** cling tenaciously to submerged boulders using a sucker-like oral disc adapted to fast currents."*

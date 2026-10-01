@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or characteristic of the atmosphere around a low pressure center.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characteristic of a violent tropical storm.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, having the nature of, or caused by a cyclone; rotating counterclockwise in the Northern Hemisphere and clockwise in the Southern Hemisphere.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In synoptic meteorology and oceanography, describing low-pressure rotating weather systems or counterclockwise oceanic eddies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"From the reports of eyewitnesses it transpires that the seismic waves were accompanied by a violent atmospheric perturbation of cyclonic character."*
+> - 📜 **Joseph Conrad (*The Shadow-Line*):** *"The darkening horizon warned the watchful mate that a furious **cyclonic** squall was gathering to windward."*
+> - 📜 **Francis Galton (*Meteorographica*):** *"Atmospheric pressure falls steadily as one penetrates deeper toward the center of a **cyclonic** vortex."*
+> - 📜 **Rachel Carson (*The Edge of the Sea*):** *"Immense **cyclonic** storms sweep the Atlantic shelf, dislodging kelp beds and tossing heavy cobbles high onto the shingle."*

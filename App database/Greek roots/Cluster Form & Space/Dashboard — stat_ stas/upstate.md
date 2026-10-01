@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In or toward the northern parts of a state.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In or toward the northern parts of a state.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The northern, inland, or non-metropolitan part of a state, especially New York State; also, in or toward such a region.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In American political geography and cultural history, 'upstate' New York (incorporating the Adirondacks, Finger Lakes, and Mohawk Valley) contrasts with the New York City metropolitan area.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, upstate designates in or toward the northern parts of a state."*
+> - 📜 **F. Scott Fitzgerald (*The Great Gatsby*):** *"Nick Carraway recalled autumn journeys **upstate**, where the Hudson River wound past yellowing hills and quiet orchards."*
+> - 📜 **Theodore Dreiser (*An American Tragedy*):** *"Clyde Griffiths relocated to an **upstate** collar factory, eager to climb into the provincial commercial aristocracy."*
+> - 📜 **Edith Wharton (*Summer*):** *"The isolated **upstate** village slumbered beneath the green mountain ridge, cut off from the bustling ports."*

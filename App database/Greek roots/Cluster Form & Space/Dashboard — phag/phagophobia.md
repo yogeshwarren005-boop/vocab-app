@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek phag.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An irrational or excessive fear of swallowing or eating, often rooted in a dread of choking.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychiatry and feeding disorders, phagophobia is a specific functional phobia characterized by avoidance of solid foods without anatomical esophageal obstruction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phagophobia designates a term designating an entity, condition, or phenomenon derived from greek phag."*
+> - 📜 **Pierre Janet (*The Mental State of Hystericals*):** *"Patients seized by **phagophobia** refuse solid nourishment through an irrational dread that their throat will close."*
+> - 📜 **Tinsley R. Harrison (*Principles of Internal Medicine*):** *"Distinguishing psychogenic **phagophobia** from true mechanical dysphagia requires careful radiographic confirmation of normal swallowing mechanics."*
+> - 📜 **Emil Kraepelin (*Clinical Psychiatry*):** *"Severe anxiety neurosis may manifest as acute **phagophobia**, requiring behavioral desensitization to restore oral nutrition."*

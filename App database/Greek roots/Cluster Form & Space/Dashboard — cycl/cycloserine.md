@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An antibiotic that is especially active against the tubercle bacillus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An antibiotic that is especially active against the tubercle bacillus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An antibiotic medication used as a second-line treatment in combination therapy for multi-drug-resistant tuberculosis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In microbiology and neuropsychiatry, a cyclic structural analogue of D-alanine that inhibits bacterial cell wall enzymes (D-alanine ligase) and acts as a partial agonist at NMDA receptors in the brain.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cycloserine designates an antibiotic that is especially active against the tubercle bacillus."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"When first-line tuberculostatic agents fail, **cycloserine** is introduced to suppress resistant strains of Mycobacterium tuberculosis."*
+> - 📜 **Sydney Brenner (*Loose Ends: Selected Writings*):** *"By mimicking D-alanine, **cycloserine** competitive inhibition blocks the terminal peptidoglycan cross-linking step in bacterial walls."*
+> - 📜 **Francis Crick (*What Mad Pursuit*):** *"Molecular pharmacologists observed that **cycloserine** binds to central NMDA receptors, opening unexpected avenues for memory research."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having circular columniation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having circular columniation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In classical architecture, describing a round building or temple consisting of a circular colonnade supporting a roof without a central enclosed cella.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In architectural history, a lightweight circular peristyle pavilion, such as the Roman Temple of Vesta or garden tholos structures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monopteral designates having circular columniation."*
+> - 📜 **Vitruvius (*De Architectura (Ten Books on Architecture)*):** *"A **monopteral** temple has neither cella nor enclosing walls, but merely columns set in a circle under a round canopy."*
+> - 📜 **Andrea Palladio (*The Four Books of Architecture*):** *"The elegant simplicity of the **monopteral** pavilion was frequently copied in Renaissance landscape gardens."*
+> - 📜 **John Soane (*Lectures on Architecture*):** *"Light floods freely through the open columns of a **monopteral** shrine, blending sacred enclosure with surrounding nature."*

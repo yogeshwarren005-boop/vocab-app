@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek trema.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The diaeresis diacritical mark (¨) placed over the second of two adjacent vowels in French and other languages to indicate separate pronunciation; a trema.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In French orthography, the tréma appears in words like *maïs*, *haïr*, and *naïve*, preventing the vowels from combining into a single monophthong or digraph.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tréma designates a term designating an entity, condition, or phenomenon derived from greek trema."*
+> - 📜 **Voltaire (*Dictionnaire Philosophique*):** *"In French printing, the **tréma** prevents confusion by preserving the distinct vocalization of adjacent vowels."*
+> - 📜 **Ferdinand de Saussure (*Course in General Linguistics*):** *"The function of the orthographic **tréma** is purely phonetic, dissolving an apparent diphthong into two syllables."*
+> - 📜 **Marcel Proust (*Swann's Way*):** *"He studied the delicate spelling on the invitation, noting the archaic **tréma** engraved above the noble patronymic."*

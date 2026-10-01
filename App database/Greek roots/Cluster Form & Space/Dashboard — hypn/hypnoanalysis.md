@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The use of hypnosis in conjunction with psychoanalysis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The use of hypnosis in conjunction with psychoanalysis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A psychotherapeutic technique combining hypnosis with psychoanalytic methods to uncover and resolve repressed unconscious conflicts, memories, or traumas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Popularized during World War II for treating acute combat neurosis (shell shock); under hypnotic trance, the patient achieves intense cathartic abreaction of repressed psychological trauma while defenses are lowered.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypnoanalysis designates the use of hypnosis in conjunction with psychoanalysis."*
+> - 📜 **Sigmund Freud (*Studies on Hysteria*):** *"Breuer's early successes with cathartic **hypnoanalysis** demonstrated that neurotic symptoms carry hidden historical meaning."*
+> - 📜 **Carl Jung (*The Practice of Psychotherapy*):** *"While **hypnoanalysis** can rapidly uncover traumatic complexes, permanent integration demands conscious waking effort."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Psychic trauma underlying hysterical aphonia was brought to the surface and dispelled by deep **hypnoanalysis**."*

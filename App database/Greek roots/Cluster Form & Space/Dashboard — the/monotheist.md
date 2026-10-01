@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A believer in one god.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A believer in one god.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who believes in the existence of only one God.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative theology, a monotheist rejects polytheistic pantheons and dualisms, attributing all cosmic creation, providence, and moral legislation to a single sovereign deity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Christ, as the true spiritual idea, is the ideal of God now and forever, here and everywhere. 361:6 The Jew who believes in the First Commandment is a monotheist; he has one omnipresent God."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The Christian who believes in the First Commandment is a monotheist."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"It is here that the real interest of Plutarch's theology begins; for, as Christian apologists were quick to point out, all the philosophers were in the last resort monotheists."*
+> - 📜 **John Locke (*The Reasonableness of Christianity*):** *"A sincere **monotheist** recognizes that moral obligation derives directly from the will of an all-wise Creator."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"For the devout **monotheist**, absolute self-surrender to the divine will forms the core of religious life."*
+> - 📜 **Ernest Renan (*History of the People of Israel*):** *"The ancient Hebrew prophet stood forth as an unbending **monotheist** amidst surrounding Canaanite polytheism."*

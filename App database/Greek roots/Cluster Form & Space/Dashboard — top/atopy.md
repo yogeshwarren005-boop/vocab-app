@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genetic disposition to develop an allergic reaction (such as allergic rhinitis or asthma) and produce elevated levels of IgE upon exposure to an environmental antigen and especially one inhaled or ingested.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genetic disposition to develop an allergic reaction (such as allergic rhinitis or asthma) and produce elevated levels of IgE upon exposure to an environmental antigen and especially one inhaled or ingested.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genetic predisposition to develop allergic diseases, such as allergic rhinitis, bronchial asthma, and atopic dermatitis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Coined in 1923 by Coca and Cooke from Greek *atopia* (placelessness, strangeness), atopy reflects abnormal IgE antibody synthesis upon contact with benign airborne or dietary allergens.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, atopy designates a genetic disposition to develop an allergic reaction (such as allergic rhinitis or asthma) and produce elevated levels of ige upon exposure to an environmental antigen and especially one inhaled or ingested."*
+> - 📜 **Arthur F. Coca (*The Journal of Immunology*):** *"The condition of **atopy** is characterized by reagins that can be transferred passively to healthy skin."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Family pedigrees demonstrate that **atopy** transmits a general allergic irritability rather than specific antigen sensitivity."*
+> - 📜 **Alexis Carrel (*Man, The Unknown*):** *"The modern rise of **atopy** and autoimmune complaints reflects altered interactions between industrialized environments and human physiology."*

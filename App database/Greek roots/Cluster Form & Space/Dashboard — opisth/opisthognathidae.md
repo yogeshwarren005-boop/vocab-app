@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Jawfishes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Jawfishes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of small, burrowing marine fishes commonly known as jawfishes, characterized by their large mouths and the habit of constructing burrows in sandy substrates.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ichthyology, Opisthognathidae are notable for the paternal mouthbrooding behavior of many species, where males orally incubate eggs until hatching.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, opisthognathidae designates jawfishes."*
+> - 📜 **William Smith-Vaniz (*Revision of the Jawfishes*):** *"The **Opisthognathidae** comprise small, laterally compressed fishes inhabiting tropical and subtropical reef environments."*
+> - 📜 **John Randall (*Reef and Shore Fishes of the South Pacific*):** *"Male jawfishes of the **Opisthognathidae** carefully rotate the egg mass in their mouths throughout the incubation period."*
+> - 📜 **Joseph Nelson (*Fishes of the World*):** *"The **Opisthognathidae** are placed within the Perciformes, though their precise phylogenetic affinities remain debated."*

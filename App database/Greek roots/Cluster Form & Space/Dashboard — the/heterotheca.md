@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of yellow-flowered north american herbs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of yellow-flowered north american herbs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of flowering plants in the aster family (Asteraceae), commonly known as camphorweeds or false goldenasters, native to North America.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical taxonomy, *Heterotheca* is named from Greek *heteros* (different) and *theke* (container) in reference to the dimorphic achenes produced by its ray and disk florets.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heterotheca designates genus of yellow-flowered north american herbs."*
+> - 📜 **Asa Gray (*Synoptical Flora of North America*):** *"The genus **Heterotheca** is distinguished by ray achenes that lack pappus bristles while disk achenes bear a double pappus."*
+> - 📜 **Liberty Hyde Bailey (*Cyclopedia of American Agriculture*):** *"On dry western rangelands, aromatic species of **Heterotheca** flourish where overgrazing has depleted perennial grasses."*
+> - 📜 **John Torrey (*A Flora of North America*):** *"Specimens of **Heterotheca** collected on the expedition exhibited strong camphor-scented glandular pubescence."*

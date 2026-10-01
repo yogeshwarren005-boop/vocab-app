@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek phag.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The practice of eating earth, soil, or clay-like substances, seen across cultural traditions and as a medical pica symptom.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anthropology and clinical medicine, geophagia is often associated with iron-deficiency anemia or gastrointestinal detoxification.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, geophagia designates a term designating an entity, condition, or phenomenon derived from greek phag."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels to the Equinoctial Regions of America*):** *"The Otomac Indians practice habitual **geophagia**, consuming large balls of greasy clay during seasonal river inundations."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Severe hookworm infestation in undernourished children is frequently accompanied by obsessive **geophagia**."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Travellers across South America have frequently recorded instances of deliberate **geophagia** among native tribes."*

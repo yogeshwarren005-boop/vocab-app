@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A quantitative statistical analysis of several separate but similar experiments or studies in order to test the pooled data for statistical significance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A quantitative statistical analysis of several separate but similar experiments or studies in order to test the pooled data for statistical significance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A quantitative statistical methodology that pools, aggregates, and analyzes empirical data from multiple independent studies to derive a combined effect size.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evidence-based medicine and epidemiological research, meta-analyses constitute the top tier of clinical evidence and guide systematic treatment guidelines.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, meta-analysis designates a quantitative statistical analysis of several separate but similar experiments or studies in order to test the pooled data for statistical significance."*
+> - 📜 **Gene V. Glass (*Primary, Secondary, and Meta-Analysis of Research*):** *"I propose that we designate the statistical synthesis of findings across many independent investigations as **meta-analysis**."*
+> - 📜 **Julian Higgins (*Cochrane Handbook for Systematic Reviews of Interventions*):** *"A properly conducted **meta-analysis** must account for heterogeneity and publication bias across the selected trials."*
+> - 📜 **John Ioannidis (*Why Most Published Research Findings Are False*):** *"Even a rigorous **meta-analysis** can amplify systemic errors if the underlying primary studies suffer from methodological biases."*

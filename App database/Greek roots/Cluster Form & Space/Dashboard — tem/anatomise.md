@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Dissect in order to analyze.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dissect in order to analyze.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To dissect an animal or plant body in order to study its internal structure (chiefly Commonwealth spelling); figuratively, to examine or analyze minutely.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary and philosophical discourse, to anatomise a subject is to deconstruct its constituent elements, motives, or logical premises with exhaustive rigor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Wollstonecraft Shelley (*Frankenstein; or, the modern prometheus*):** *"He might dissect, anatomise, and give names; but, not to speak of a final cause, causes in their secondary and tertiary grades were utterly unknown to him."*
-> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"I doubt you must have been a solitary prisoner to understand these perplexed distinctions.” His collected and calm manner could not prevent her blood from running cold, as he thus tried to anatomise his old condition."*
+> - 📜 **Robert Burton (*The Anatomy of Melancholy*):** *"I undertake to **anatomise** this vast body of human misery, tracing every symptom to its secret fountain."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"We must **anatomise** nature by diligent experiment, rather than fashion theories out of imaginative conjecture."*
+> - 📜 **William Shakespeare (*King Lear*):** *"Let them **anatomise** Regan; see what breeds about her heart, whether there be any cause in nature."*

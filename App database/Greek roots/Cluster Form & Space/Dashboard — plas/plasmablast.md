@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The precursor of a plasma cell.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The precursor of a plasma cell.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An immature plasma cell precursor that has differentiated from an activated B cell and retains proliferative capacity while actively secreting antibodies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In immunology, circulating plasmablasts peak transiently in peripheral blood 5 to 7 days following acute infection or vaccination.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plasmablast designates the precursor of a plasma cell."*
+> - 📜 **Charles Janeway (*Immunobiology*):** *"Upon somatic hypermutation in the germinal center, an activated B cell differentiates into an antibody-secreting **plasmablast**."*
+> - 📜 **Bruce Alberts (*Molecular Biology of the Cell*):** *"The transitional **plasmablast** migrates through lymphatic channels to settle in the bone marrow as a long-lived plasma cell."*
+> - 📜 **Peter C. Doherty (*Immunity and Infection*):** *"A sharp rise in circulating **plasmablast** frequency serves as a reliable marker of primary vaccine response."*

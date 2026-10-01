@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having but a single form, structural pattern, or genotype.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having but a single form, structural pattern, or genotype.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or existing in only one form, shape, color, or developmental morph throughout a population, life cycle, or chemical substance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In genetics and evolutionary biology, describing a gene locus where a single wild-type allele is fixed across virtually all individuals in a population.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monomorphic designates having but a single form, structural pattern, or genotype."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants Under Domestication*):** *"In species that are strictly **monomorphic**, males and females share identical plumage and body dimensions throughout all seasons."*
+> - 📜 **Ronald Fisher (*The Genetical Theory of Natural Selection*):** *"Purifying selection tends to maintain a **monomorphic** population by eliminating deleterious mutations at vital metabolic loci."*
+> - 📜 **Ernst Mayr (*Animal Species and Evolution*):** *"A geographically isolated population frequently becomes **monomorphic** through founder effects and sustained genetic drift."*

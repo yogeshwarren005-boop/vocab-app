@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of jaw.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of jaw.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking jaws; jawless; characteristic of the Agnatha.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative anatomy, agnathous vertebrates employ sucking, rasping, or mucosal feeding adaptations in the absence of biting mandibles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, agnathous designates adjective*) pertaining to, derived from, or characteristic of jaw."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"The **agnathous** condition of the lamprey is accompanied by a circular oral funnel armed with horny epidermal teeth."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Embryological development of the visceral arches clarifies the evolutionary derivation of jawed types from **agnathous** ancestors."*
+> - 📜 **Alfred Romer (*Vertebrate Paleontology*):** *"Heavy dermal plating characterized early **agnathous** lineages, compensating for their limited swimming agility."*

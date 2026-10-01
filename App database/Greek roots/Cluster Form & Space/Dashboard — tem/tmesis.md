@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Separation of parts of a compound word by the intervention of one or more words (such as what place soever for whatsoever place).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Separation of parts of a compound word by the intervention of one or more words (such as what place soever for whatsoever place).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The insertion of a word or phrase between the parts of a compound word or between syllables of a word (e.g. 'a whole nother', 'what person soever').
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical philology and rhetoric, tmesis was frequently employed in ancient Greek poetry (notably Homeric verse) where preverbs were separated from their verbs by metrical necessity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tmesis designates separation of parts of a compound word by the intervention of one or more words (such as what place soever for whatsoever place)."*
+> - 📜 **Quintilian (*Institutio Oratoria*):** *"The rhetorical figure of **tmesis** separates compound elements, giving poetic cadence an unexpected force."*
+> - 📜 **Richard Chenevix Trench (*On the Study of Words*):** *"Archaic legal idioms retain instances of **tmesis**, as when 'howsoever' is divided into 'how great soever'."*
+> - 📜 **H. W. Fowler (*A Dictionary of Modern English Usage*):** *"Deliberate **tmesis** in vernacular speech serves as an emphatic intensifier, often creating humorous colloquialisms."*

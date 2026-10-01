@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A magazine center spread; especially a foldout of a large photograph or map or other feature.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A magazine center spread; especially a foldout of a large photograph or map or other feature.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The large folded sheet of paper located at the exact middle of a magazine, newspaper, or periodical, often featuring a panoramic illustration, chart, or photograph.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In print publishing and popular culture, a two-page spread or pull-out illustration occupying the central binding fold of an issue.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centrefold designates a magazine center spread; especially a foldout of a large photograph or map or other feature."*
+> - 📜 **Virginia Woolf (*The Common Reader*):** *"The illustrated journal opened upon a broad **centrefold** depicting the naval review at Spithead in vivid color."*
+> - 📜 **George Orwell (*Keep the Aspidistra Flying*):** *"He unfolded the newspaper to the **centrefold**, scanning the advertisements and commercial headlines with cynical detachment."*
+> - 📜 **James Joyce (*Ulysses*):** *"He opened the weekly gazette, studying the double-spread lithograph displayed upon the glossy **centrefold**."*

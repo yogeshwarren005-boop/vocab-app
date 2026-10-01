@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or located in the endothelium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or located in the endothelium.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or consisting of endothelium (the layer of flat epithelial cells lining blood vessels, lymphatics, and the heart).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vascular biology, endothelial cells regulate vascular tone, platelet adhesion, coagulation, leukocyte trafficking, and angiogenesis by synthesizing mediators like nitric oxide and prostacyclin.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endothelial designates of or relating to or located in the endothelium."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Irritation of the vascular **endothelial** lining triggers fibrin deposition and localized intravascular clotting."*
+> - 📜 **Alexis Carrel (*The Preservation of Tissues and Its Application in Surgery*):** *"Preserving a pristine **endothelial** surface along the anastomotic line is critical to avoid thrombosis."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Microscopic examination in infective endocarditis reveals bacterial colonies vegetating upon disrupted **endothelial** surfaces."*

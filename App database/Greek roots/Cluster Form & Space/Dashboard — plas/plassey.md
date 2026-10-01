@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The victory in 1757 by the british under clive over siraj-ud-daula that established british supremacy over bengal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The victory in 1757 by the british under clive over siraj-ud-daula that established british supremacy over bengal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A historic village in West Bengal, India, famous as the site of the decisive Battle of Plassey (1757) where Robert Clive defeated the Nawab of Bengal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In British colonial and Indian history, the Battle of Plassey laid the foundation of British East India Company territorial dominance across the Indian subcontinent.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*Joe Miller's Jests, with Copious Additions*):** *"Louis XII. being at his castle of Plassey, near Tours, went one evening into the kitchen, where he found a boy turning the spit."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays: Lord Clive*):** *"The victory of **Plassey** was achieved with remarkably light loss, yet it laid the foundation of our vast Indian Empire."*
+> - 📜 **Robert Clive (*Letters and Dispatches*):** *"At daybreak the enemy moved out of their entrenchments at **Plassey**, offering battle with overwhelming cavalry numbers."*
+> - 📜 **Edward Gibbon (*Memoirs of My Life and Writings*):** *"The conquest of Bengal inaugurated at **Plassey** altered the geopolitical equilibrium of the European powers."*

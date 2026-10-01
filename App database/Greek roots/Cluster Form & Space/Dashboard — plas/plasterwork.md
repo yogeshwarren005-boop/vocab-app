@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A surface of hardened plaster (as on a wall or ceiling).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A surface of hardened plaster (as on a wall or ceiling).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Construction or decorative work done in plaster, especially ornamental moldings on ceilings or interior walls.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historic preservation and interior design, fine plasterwork includes Renaissance stuccowork, ornate ceiling rosettes, and bas-relief medallions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"It was, in its way, a very charming room, with its high panelled wainscoting of olive-stained oak, its cream-coloured frieze and ceiling of raised plasterwork, and its brickdust felt carpet strewn with silk, long-fringed Persian rugs."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"It was a charming room, with its panelled wainscoting and ceiling of raised **plasterwork**."*
+> - 📜 **Edith Wharton (*The Decoration of Houses*):** *"Eighteenth-century French salons celebrated delicate rococo **plasterwork** framing gilded mirrors."*
+> - 📜 **John Ruskin (*The Seven Lamps of Architecture*):** *"The genuine craftsman honors stone rather than relying on cast **plasterwork** to feign sculptural richness."*

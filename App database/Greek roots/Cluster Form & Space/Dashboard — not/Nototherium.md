@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek not.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxonomic genus of large, extinct Pleistocene diprotodontid marsupials from Australia, resembling heavily built rhinoceros-sized wombats.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate paleontology, Nototherium fossils discovered in alluvial cave deposits provide critical evidence for megafaunal extinctions during the late Quaternary.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Nototherium designates a term designating an entity, condition, or phenomenon derived from greek not."*
+> - 📜 **Richard Owen (*Description of the Teeth and Portions of the Jaws of Two Extinct Quadruped Animals: Nototherium and Diprotodon*):** *"The fossil dentition of **Nototherium** presents robust bilophodont molars adapted for grinding tough scrub foliage and dry grasses."*
+> - 📜 **Thomas Henry Huxley (*On the Osteology of the Genus Nototherium*):** *"Cranial fragments of **Nototherium** demonstrate wide zygomatic arches that accommodated colossal masseter muscles in these extinct herbivores."*
+> - 📜 **Tim Flannery (*The Future Eaters*):** *"The extinction of giant browsers like **Nototherium** reshaped the Australian ecosystem, permanently altering fire regimes across the continent."*

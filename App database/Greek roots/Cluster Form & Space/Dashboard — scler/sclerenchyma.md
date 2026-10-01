@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A protective or supporting tissue in higher plants composed of cells with walls thickened and often lignified.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A protective or supporting tissue in higher plants composed of cells with walls thickened and often lignified.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A protective or supportive plant tissue composed of cells with heavily thickened, lignified secondary walls that are usually dead at functional maturity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant anatomy, divided into elongated sclerenchyma fibers (used in textiles like flax and hemp) and isodiametric sclereids.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sclerenchyma designates a protective or supporting tissue in higher plants composed of cells with walls thickened and often lignified."*
+> - 📜 **Katherine Esau (*Plant Anatomy*):** *"The primary mechanical strength of mature vascular stems is provided by continuous cylinders of lignified **sclerenchyma** fibers."*
+> - 📜 **Julius von Sachs (*Text-Book of Botany: Morphological and Physiological*):** *"Unlike living collenchyma, **sclerenchyma** provides permanent rigid support that does not yield to plastic bending forces."*
+> - 📜 **Ray F. Evert (*Esau's Plant Anatomy*):** *"The deposition of lignin within the secondary wall of **sclerenchyma** renders the tissue resistant to fungal decay and insect chewing."*

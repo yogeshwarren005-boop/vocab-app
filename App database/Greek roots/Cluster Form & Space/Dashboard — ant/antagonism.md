@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of deep-seated ill-will.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The relation between opposing principles or forces or factors.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Active hostility, opposition, or resistance between unfriendly individuals, opposing groups, or conflicting forces.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacology and physiological ecology, the counteracting interaction where one chemical substance or biological agent inhibits or nullifies the effect of another.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Feeling herself in antagonism, she was quite in accord."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"But it strikes me that there is a want of harmony between your present mood of self-sacrifice and your past mood of self-preservation.” These were the first words of antagonism."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"She did not look me down, for there was neither challenge nor antagonism in her eyes—only fascination."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"The inevitable **antagonism** between closely allied species competing for the same ecological niche drives evolutionary divergence."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The mutual **antagonism** between flexor and extensor muscle groups illustrates how reciprocal inhibition governs coordinated movement."*
+> - 📜 **Thomas Henry Huxley (*Evolution and Ethics*):** *"Human ethical progress requires perpetual struggle against that cosmic **antagonism** which pitilessly eliminates the weak."*

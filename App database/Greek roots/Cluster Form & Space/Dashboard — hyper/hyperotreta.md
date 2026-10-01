@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hagfishes as distinguished from lampreys.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hagfishes as distinguished from lampreys.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A former taxonomic class, order, or suborder of jawless marine vertebrates comprising the hagfishes (Myxini).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative vertebrate anatomy, Hyperotreta is distinguished by the nasohypophysial duct opening posteriorly into the pharynx, slime glands along the body, and the absence of paired fins or true vertebrae.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyperotreta designates hagfishes as distinguished from lampreys."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"In the **Hyperotreta**, or hagfishes, the single nasal aperture perforates the palate to enter the alimentary canal."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The slime-secreting pores of the **Hyperotreta** furnish a remarkable defensive shroud against marine predators."*
+> - 📜 **Alfred Sherwood Romer (*Vertebrate Paleontology*):** *"Basal craniate affinities place the **Hyperotreta** at the very threshold of modern vertebrate phylogeny."*

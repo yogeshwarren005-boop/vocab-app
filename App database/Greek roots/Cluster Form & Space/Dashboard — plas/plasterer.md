@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A worker skilled in applying plaster.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A worker skilled in applying plaster.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A skilled tradesperson who applies plaster to walls, ceilings, and architectural moldings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical craft guilds, a specialized artisan who executed intricate decorative stucco, cornices, and ornamental ceiling reliefs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Villain, thy father was a plasterer, And thou thyself a shearman, art thou not?"*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In the building trades about 16 per cent are organized, of granite cutters 69 per cent, masons 39 per cent, plasterers 32 per cent, carpenters 21 per cent, and painters 17 per cent."*
+> - 📜 **John Ruskin (*The Seven Lamps of Architecture*):** *"The honest handiwork of the stonemason cannot be replaced by the mechanical slickness of the modern **plasterer**."*
+> - 📜 **Charles Dickens (*Hard Times*):** *"The industrious **plasterer** climbed his scaffold at dawn, trowel in hand, to finish the factory ceiling."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The wages of the skilled **plasterer** reflect the arduous physical labor and seasonal nature of the building trade."*

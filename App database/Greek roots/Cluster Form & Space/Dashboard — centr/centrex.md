@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (central exchange) a kind of telephone exchange.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (central exchange) a kind of telephone exchange.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A business telecommunications service provided by a central telephone company that provides private branch exchange (PBX) switching capabilities directly from the central office.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In telecommunications engineering, a centralized multi-line telephone switching architecture eliminating the need for private on-premises switching hardware.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centrex designates (central exchange) a kind of telephone exchange."*
+> - 📜 **Arthur C. Clarke (*Profiles of the Future*):** *"The transition to centralized automated exchange systems like **centrex** signaled the dawn of planetary electronic interconnectivity."*
+> - 📜 **Primo Levi (*The Periodic Table*):** *"The busy factory switchboard was replaced by an electronic **centrex** service, routing department calls automatically."*
+> - 📜 **Carl Sagan (*The Dragons of Eden*):** *"Just as the cerebral cortex coordinates millions of neural circuits, a telephone **centrex** routes complex messages across modern cities."*

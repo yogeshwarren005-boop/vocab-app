@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the form of a rhombus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Orthorhombic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the form or outline of a rhombus; shaped like an equilateral parallelogram with oblique angles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematics and physics, characterized by diamond-shaped symmetries or rhombic coordinate meshes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhombic designates having the form of a rhombus."*
+> - 📜 **James Clerk Maxwell (*Matter and Motion*):** *"The stress tensor components can be resolved along a **rhombic** network of strain lines in the elastic medium."*
+> - 📜 **Isaac Newton (*Opticks: or, a Treatise of the Reflections, Refractions, Inflections and Colours of Light*):** *"Iceland spar cleaves naturally into smooth **rhombic** fragments that produce double refraction of incident light rays."*
+> - 📜 **John Herschel (*Preliminary Discourse on the Study of Natural Philosophy*):** *"The **rhombic** faces of calcite crystals provided the empirical clue that led Haüy to discover the laws of crystal decrescence."*

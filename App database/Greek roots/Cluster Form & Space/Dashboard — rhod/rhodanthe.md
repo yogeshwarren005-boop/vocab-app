@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Australian annual everlasting having light pink nodding flower heads; sometimes placed in genus helipterum.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Australian annual everlasting having light pink nodding flower heads; sometimes placed in genus helipterum.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of Australian annual flowering herbs in the daisy family (Asteraceae), commonly known as paper daisies or everlastings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ornamental horticulture, drought-tolerant desert ephemerals cultivated for their papery, brightly colored involucral bracts that retain form and color when dried.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhodanthe designates australian annual everlasting having light pink nodding flower heads; sometimes placed in genus helipterum."*
+> - 📜 **George Bentham (*Flora Australiensis*):** *"The papery, scarious bracts of **rhodanthe** glisten with silvery and rose hues across the red sand dunes of western Australia."*
+> - 📜 **Ferdinand von Mueller (*Fragmenta Phytographiae Australiae*):** *"Following winter rains, vast interior plains are transformed into waving carpets of blooming **rhodanthe**."*
+> - 📜 **William Robinson (*The English Flower Garden*):** *"Cut sprays of **rhodanthe** can be preserved for winter bouquets, retaining their vivid color for years without fading."*

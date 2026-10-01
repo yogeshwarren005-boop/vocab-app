@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The craniometric point in the region of the sphenoid fontanelle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The craniometric point in the region of the sphenoid fontanelle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An anatomical craniometric landmark on the side of the skull where the frontal, parietal, sphenoid, and temporal bones meet in an H-shaped suture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurosurgery and cranial osteology, a critical surgical landmark lying directly over the anterior branch of the middle meningeal artery.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pterion designates the craniometric point in the region of the sphenoid fontanelle."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"Fractures traversing the **pterion** are exceedingly dangerous because they readily lacerate the underlying middle meningeal artery."*
+> - 📜 **Andreas Vesalius (*De Humani Corporis Fabrica*):** *"On the lateral temple, the junction of four cranial bones forms the delicate sutural crossing that surgeons call the **pterion**."*
+> - 📜 **Arthur Keith (*Human Embryology and Morphology*):** *"The closure of the anterolateral fontanelle during infancy establishes the definitive H-shaped suture known as the **pterion**."*

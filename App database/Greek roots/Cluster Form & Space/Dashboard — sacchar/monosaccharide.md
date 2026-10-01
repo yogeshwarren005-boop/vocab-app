@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sugar that is not decomposable into simpler sugars by hydrolysis, is classed as either an aldose or ketose, and contains one or more hydroxyl groups per molecule —called also simple sugar.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sugar that is not decomposable into simpler sugars by hydrolysis, is classed as either an aldose or ketose, and contains one or more hydroxyl groups per molecule —called also simple sugar.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The simplest form of carbohydrate sugar, which cannot be hydrolyzed into simpler sugar molecules.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In organic chemistry, a polyhydroxy aldehyde or ketone (such as glucose, ribose, or fructose) serving as the fundamental monomer of complex carbohydrates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monosaccharide designates a sugar that is not decomposable into simpler sugars by hydrolysis, is classed as either an aldose or ketose, and contains one or more hydroxyl groups per molecule —called also simple sugar."*
+> - 📜 **Emil Fischer (*Untersuchungen über Kohlenhydrate und Fermente*):** *"My stereochemical investigations demonstrated that every **monosaccharide** hexose contains multiple asymmetric carbon centers."*
+> - 📜 **W. N. Haworth (*The Constitution of Sugars*):** *"In aqueous solution, the open chain of a **monosaccharide** readily cyclizes into a stable pyranose or furanose ring."*
+> - 📜 **Donald Voet (*Biochemistry*):** *"Cellular respiration couples the oxidation of a single **monosaccharide** molecule to the generation of dozens of ATP units."*

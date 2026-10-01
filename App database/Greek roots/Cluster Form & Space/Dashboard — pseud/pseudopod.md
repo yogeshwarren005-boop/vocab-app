@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pseudopodium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pseudopodium.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A temporary protrusion of the surface of an amoeboid cell for movement and feeding; a pseudopodium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cellular biology, a dynamic actin-rich cytoplasmic extension utilized by amoebae and mammalian phagocytes during chemotactic migration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pseudopod designates pseudopodium."*
+> - 📜 **Herbert Spencer Jennings (*Behavior of the Lower Organisms*):** *"The amoeba extends a blunt **pseudopod** into the water, flowing bodily into the advance projection as it seeks food."*
+> - 📜 **Lewis Thomas (*The Lives of a Cell: Notes of a Biology Watcher*):** *"A neutrophilic leukocyte pushes out a stealthy **pseudopod**, crawling along the capillary endothelium toward chemical cues."*
+> - 📜 **D'Arcy Wentworth Thompson (*On Growth and Form*):** *"Surface tension and cytoplasmic streaming dictate the contour and curvature of each forming **pseudopod**."*

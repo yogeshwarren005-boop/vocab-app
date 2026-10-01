@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek spher.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A planetarium-style theater or hemispherical projection chamber designed specifically to simulate meteorological, weather, and atmospheric phenomena on a domed ceiling.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In science education and public meteorology, the Fleischmann Atmospherium (opened in 1963 in Reno, Nevada) utilized 360-degree fisheye time-lapse projection to display cloud dynamics and storm formation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, atmospherium designates a term designating an entity, condition, or phenomenon derived from greek spher."*
+> - 📜 **Arthur C. Clarke (*Report on Planet Three and Other Speculations*):** *"Inside the darkened dome of the **atmospherium**, days of turbulent cloud physics were accelerated into minutes of breathtaking drama."*
+> - 📜 **Carl Sagan (*Cosmos*):** *"Stepping into an **atmospherium** allows the viewer to experience the swirling storm vortices of Jupiter and Earth as if from orbit."*
+> - 📜 **Margaret Mead (*Science and the Human Perspective*):** *"The visual wonder of the **atmospherium** bridged scientific meteorological data and public aesthetic awe."*

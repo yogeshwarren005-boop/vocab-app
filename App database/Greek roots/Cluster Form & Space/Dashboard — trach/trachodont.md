@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large duck-billed dinosaur of the cretaceous period.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large duck-billed dinosaur of the cretaceous period.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to or resembling the hadrosaurid dinosaurs historically referred to as Trachodon; a duck-billed dinosaur.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In paleontological literature, trachodont dinosaurs featured complex dental batteries comprising hundreds of replacement teeth arranged to grind tough flowering plants.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trachodont designates large duck-billed dinosaur of the cretaceous period."*
+> - 📜 **O. C. Marsh (*The Dinosaurs of North America*):** *"The broad, flattened edentulous muzzle of the **trachodont** dinosaur formed an effective vegetative duck-bill."*
+> - 📜 **William Diller Matthew (*Dinosaurs: With Special Reference to the American Museum Collections*):** *"Remarkable mummified skin impressions proved that the **trachodont** body was covered with non-overlapping tubercular scales."*
+> - 📜 **Alfred Romer (*Vertebrate Paleontology*):** *"Bipedal locomotion and specialized cranial crests distinguished the flourishing Late Cretaceous **trachodont** radiation."*

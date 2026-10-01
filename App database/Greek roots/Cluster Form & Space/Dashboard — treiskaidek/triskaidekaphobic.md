@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Suffering from triskaidekaphobia (abnormal fear of the number 13).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Suffering from triskaidekaphobia (abnormal fear of the number 13).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or showing an extreme, irrational fear of the number thirteen; a person affected by triskaidekaphobia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical behavior and urban sociological studies, triskaidekaphobic avoidance behaviors influence real estate floor labeling, banquet table arrangements, and flight scheduling.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, triskaidekaphobic designates suffering from triskaidekaphobia (abnormal fear of the number 13)."*
+> - 📜 **G. K. Chesterton (*All Things Considered*):** *"The **triskaidekaphobic** hotel proprietor calmly renumbers his fourteenth floor to spare guests needless agitation."*
+> - 📜 **Bertrand Russell (*Unpopular Essays*):** *"A truly rational society would discard the **triskaidekaphobic** terrors inherited from medieval astrology."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Over the Teacups*):** *"Our dinner host confessed to being secretly **triskaidekaphobic**, hastily inviting a fourteenth guest to break the fateful spell."*

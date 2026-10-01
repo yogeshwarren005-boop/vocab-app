@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek peg.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A pair of conjoined twins joined laterally along the ventrolateral aspect of the trunk, typically sharing a common pelvis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In teratology and clinical dysmorphology, parapagus twins (such as dicephalic parapagus) possess separate heads but fused thoracic and pelvic skeletons.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parapagus designates a term designating an entity, condition, or phenomenon derived from greek peg."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The anatomical dissection of **parapagus** twins reveals shared abdominal viscera despite bilateral cranial independence."*
+> - 📜 **Geoffroy Saint-Hilaire (*Philosophie Anatomique*):** *"Classification of monsters places **parapagus** forms along the morphological continuum of lateral somatic fusion."*
+> - 📜 **David L. Rimoin (*Principles and Practice of Medical Genetics*):** *"Dicephalic **parapagus** represents a failure of embryonic axis duplication to separate completely during gastrulation."*

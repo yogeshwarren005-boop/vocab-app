@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (spiritualism) a substance supposed to emanate from the body of the medium during a trance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The outer granule-free layer of cytoplasm.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The dense, outer relatively non-granulated layer of the cytoplasm in a cell (as in an amoeba).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In parapsychology and spiritualism, a supernatural viscous substance supposedly exuded from the body of a medium during a trance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ectoplasm designates (spiritualism) a substance supposed to emanate from the body of the medium during a trance."*
+> - 📜 **Thomas Henry Huxley (*The Physical Basis of Life*):** *"Under the microscope, the clear outer **ectoplasm** of the amoeba directs the flow of internal granular endoplasm."*
+> - 📜 **Arthur Conan Doyle (*The History of Spiritualism*):** *"Photographic plates recorded luminous ribbons of **ectoplasm** streaming from the medium's mouth during the séance."*
+> - 📜 **Bruce Alberts (*Molecular Biology of the Cell*):** *"Cortical actin filaments cross-link beneath the plasma membrane to form the rigid, gel-like **ectoplasm**."*

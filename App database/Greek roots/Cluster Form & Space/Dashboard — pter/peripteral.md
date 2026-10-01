@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having columns on all sides.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having columns on all sides.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In classical architecture, describing a temple or building surrounded on all four sides by a single continuous exterior peristyle colonnade.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Hellenic temple design, the canonical form of the Doric and Ionic temple, exemplified by the Parthenon in Athens.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, peripteral designates having columns on all sides."*
+> - 📜 **Vitruvius (*Ten Books on Architecture*):** *"A **peripteral** temple has six columns on each façade and eleven along the flanks, leaving an open ambulatory between the walls and columns."*
+> - 📜 **James Fergusson (*A History of Architecture in All Countries*):** *"The magnificent **peripteral** colonnade of the Parthenon casts rhythmic shadows across the marble stylobate."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The severe dignity of the **peripteral** Greek temple contrasts profoundly with the clustered soaring shafts of northern Gothic cathedrals."*

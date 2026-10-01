@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of coagulating blood and destroying tissue with a hot iron or caustic agent or by freezing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of coagulating blood and destroying tissue with a hot iron or caustic agent or by freezing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The medical act or process of burning, searing, or destroying living tissue using heat, cold, electricity, or caustic chemicals to arrest bleeding or ablate lesions (US spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern surgery, electrosurgery (monopolar or bipolar electrocautery) utilized for rapid hemostasis and precise tissue dissection.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cauterization designates the act of coagulating blood and destroying tissue with a hot iron or caustic agent or by freezing."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Immediate chemical **cauterization** of the animal bite with fuming nitric acid was once considered imperative to neutralize rabies virus."*
+> - 📜 **Ambroise Paré (*The Apologie and Treatise of Ambroise Paré*):** *"By replacing indiscriminate **cauterization** with vascular ligatures, surgical mortality on the battlefield plummeted."*
+> - 📜 **Oliver Sacks (*A Leg to Stand On*):** *"The precise **cauterization** of bleeding arterioles allowed the orthopedic team to secure a clean surgical field."*

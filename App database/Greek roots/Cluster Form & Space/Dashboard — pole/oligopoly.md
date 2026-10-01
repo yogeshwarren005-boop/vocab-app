@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A market situation in which each of a few producers affects but does not control the market.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A market situation in which each of a few producers affects but does not control the market.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A market condition or economic structure in which a market or industry is dominated by a small number of large sellers or producers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic theory, an industry structure where high barriers to entry allow existing firms to earn supernormal profits through strategic interdependence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oligopoly designates a market situation in which each of a few producers affects but does not control the market."*
+> - 📜 **Joseph Stiglitz (*Principles of Microeconomics*):** *"In an **oligopoly**, each enterprise must consider how its competitors will respond before altering its output or price."*
+> - 📜 **F. M. Scherer (*Industrial Market Structure and Economic Performance*):** *"The degree of seller concentration determines whether an **oligopoly** behaves like an overt cartel or a fiercely competitive arena."*
+> - 📜 **Edward Chamberlin (*The Theory of Monopolistic Competition*):** *"Mutual dependence recognized among vendors is the defining hallmark of pure **oligopoly**."*

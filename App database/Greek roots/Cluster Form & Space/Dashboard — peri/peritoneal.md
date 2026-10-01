@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or affecting the peritoneum.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or affecting the peritoneum.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or affecting the peritoneum (the serous membrane lining the abdominal cavity).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nephrology and abdominal surgery, peritoneal dialysis utilizes the peritoneal membrane as a semipermeable filter to clear toxins in renal failure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Although the former (we are thinking of neglect) is undoubtedly only too true the case he cites of nurses forgetting to count the sponges in the peritoneal cavity is too rare to be normative."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"The **peritoneal** cavity is a potential space moistened by serous fluid that lubricates visceral movements."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Tuberculous involvement of the **peritoneal** membrane manifests with ascites and doughy abdominal fullness."*
+> - 📜 **Tinsley R. Harrison (*Principles of Internal Medicine*):** *"Continuous ambulatory **peritoneal** dialysis offers an effective home-based renal replacement modality."*

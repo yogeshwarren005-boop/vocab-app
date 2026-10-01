@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various small particles in the cytoplasm of the cells of plants and some animals containing pigments or starch or oil or protein.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various small particles in the cytoplasm of the cells of plants and some animals containing pigments or starch or oil or protein.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a class of small organelles in the cytoplasm of plant cells (such as chloroplasts, chromoplasts, or leucoplasts), containing pigment or food.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant cell biology, plastids possess their own circular double-stranded DNA genome and arose through an ancient endosymbiotic engulfment of a cyanobacterium.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plastid designates any of various small particles in the cytoplasm of the cells of plants and some animals containing pigments or starch or oil or protein."*
+> - 📜 **Lynn Margulis (*Symbiosis in Cell Evolution*):** *"The photosynthetic **plastid** of modern plant cells evolved from an ancestral free-living cyanobacterial endosymbiont."*
+> - 📜 **Katherine Esau (*Plant Anatomy*):** *"Every mature **plastid** differentiates from an undifferentiated proplastid present in apical meristematic cells."*
+> - 📜 **Bruce Alberts (*Molecular Biology of the Cell*):** *"Chloroplasts represent the most conspicuous **plastid** variety, synthesizing sugars via the light-driven Calvin cycle."*

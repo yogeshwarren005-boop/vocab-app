@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to xerography.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to xerography.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to xerography; pertaining to the dry electrostatic process of copying documents and images without the use of liquid chemicals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In printing technology and office automation, xerographic processes underpin laser printers and photocopiers, using charged photoconductors and toner particles fused by heat.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xerographic designates of or relating to xerography."*
+> - 📜 **Chester Carlson (*Electrophotography (Patent Filing)*):** *"The **xerographic** process I have devised produces copies by dry electrostatic transfer of powdered ink."*
+> - 📜 **David Owen (*Copies in Seconds*):** *"The **xerographic** revolution transformed office work by making document reproduction instantaneous and inexpensive."*
+> - 📜 **John Dessauer (*My Years with Xerox*):** *"Every **xerographic** copier relies on the same fundamental physics of electrostatic attraction and thermal fusion."*

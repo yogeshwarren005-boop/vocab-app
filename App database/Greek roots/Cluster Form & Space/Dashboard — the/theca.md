@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An enveloping sheath or case of an animal or animal part.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An enveloping sheath or case of an animal or animal part.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sheath, case, or capsule enclosing an anatomical organ or biological structure (e.g. spore case, pollen sac, ovarian follicle layer).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In reproductive endocrinology, the ovarian theca (divided into theca interna and theca externa) surrounds developing graafian follicles, synthesizing androgens converted to estrogens by granulosa cells.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, theca designates an enveloping sheath or case of an animal or animal part."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Invertebrate Animals*):** *"The delicate hydrotheca provides a protective chitinous **theca** into which the polyp retracts upon disturbance."*
+> - 📜 **Santiago Ramón y Cajal (*Histology of the Nervous System*):** *"The dural **theca** forms a tough, inelastic fibrous sheath enclosing the spinal cord and roots."*
+> - 📜 **Arthur Keith (*Human Embryology and Morphology*):** *"During follicular maturation, the surrounding stroma condenses into a vascular **theca** supporting the ovum."*

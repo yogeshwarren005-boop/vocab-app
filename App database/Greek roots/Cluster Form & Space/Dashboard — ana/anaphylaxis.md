@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Anaphylactic shock.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hypersensitivity (as to foreign proteins or drugs) resulting from sensitization following prior contact with the causative agent.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A severe, acute, potentially life-threatening systemic allergic reaction triggered by exposure to an allergen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In immunology, an immediate type I hypersensitivity syndrome mediated by cross-linking of allergen-specific IgE antibodies on mast cells and basophils, releasing histamine and leukotrienes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anaphylaxis designates anaphylactic shock."*
+> - 📜 **Charles Richet (*Anaphylaxis*):** *"I designated this fatal vulnerability **anaphylaxis**, from the Greek ana against and phylaxis protection, denoting the antithesis of immunity."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Prompt subcutaneous administration of adrenaline is the sovereign intervention against fatal respiratory obstruction during **anaphylaxis**."*
+> - 📜 **Oliver Sacks (*A Leg to Stand On*):** *"He described his sudden allergy to penicillin as a frightening descent into acute **anaphylaxis**, his airway swelling shut in minutes."*

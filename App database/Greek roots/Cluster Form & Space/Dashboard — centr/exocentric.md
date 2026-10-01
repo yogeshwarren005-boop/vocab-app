@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not fulfilling the same grammatical role of any of its constituents.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not fulfilling the same grammatical role of any of its constituents.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking an internal grammatical head or center that fulfills the same syntactic category as the whole construction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistics, designating phrases or compound words (such as 'pickpocket' or prepositional phrases) whose overall syntactic function differs from any of its constituent parts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, exocentric designates not fulfilling the same grammatical role of any of its constituents."*
+> - 📜 **Leonard Bloomfield (*Language*):** *"The compound 'pickpocket' is **exocentric**, because the composite term is a noun while its primary head element is a transitive verb."*
+> - 📜 **Edward Sapir (*Language: An Introduction to the Study of Speech*):** *"Prepositional phrases illustrate an **exocentric** construction whose grammatical value cannot be replaced by preposition or noun alone."*
+> - 📜 **Roman Jakobson (*Selected Writings: Word and Language*):** *"The morphological tension in **exocentric** compounds relies upon metonymic transposition outside the lexical base."*

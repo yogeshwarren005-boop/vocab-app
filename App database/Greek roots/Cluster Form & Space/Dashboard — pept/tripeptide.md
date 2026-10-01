@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek pept.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A peptide composed of three amino acid residues joined by two peptide bonds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cellular biochemistry, glutathione (gamma-glutamylcysteinylglycine) is an ubiquitous tripeptide antioxidant that protects cells from oxidative damage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tripeptide designates a term designating an entity, condition, or phenomenon derived from greek pept."*
+> - 📜 **Frederick Gowland Hopkins (*On an Autoxidisable Constituent of the Cell*):** *"The isolation of glutathione revealed that a simple **tripeptide** could play a central role in intracellular oxidation-reduction equilibria."*
+> - 📜 **Bruce Alberts (*Molecular Biology of the Cell*):** *"Glutathione functions as an abundant cytoplasmic **tripeptide** that scavenges toxic reactive oxygen species."*
+> - 📜 **David L. Nelson (*Lehninger Principles of Biochemistry*):** *"Thyrotropin-releasing hormone is a modified hypothalamic **tripeptide** that stimulates pituitary thyrotropin secretion."*

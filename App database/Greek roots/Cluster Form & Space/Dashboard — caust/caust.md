@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek caust.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combining form of Greek origin meaning burning, combustible, or heat (derived from Greek kaustos and kaiein).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemical, medical, and optical nomenclature, a productive root appearing in words such as caustic, cautery, holocaust, and catacaustic.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, caust designates a term designating an entity, condition, or phenomenon derived from greek caust."*
+> - 📜 **Richard Chenevix Trench (*On the Study of Words*):** *"The Greek stem **caust** speaks of fire and searing heat, whether applied to chemical alkalis or ancient sacrificial offerings."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"The combustion of matter and the burning irony of words both trace their etymological lineage to **caust**."*
+> - 📜 **William Benjamin Carpenter (*Principles of General and Comparative Physiology*):** *"Surgical agents bearing the prefix **caust** act through thermal or chemical destruction of necrotic tissues."*

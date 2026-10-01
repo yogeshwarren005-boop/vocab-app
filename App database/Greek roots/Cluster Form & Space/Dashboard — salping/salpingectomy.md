@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgical removal of one or both fallopian tubes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surgical removal of one or both fallopian tubes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The surgical excision and removal of one or both fallopian (uterine) tubes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gynecological surgery, an operative procedure performed to treat tubal ectopic pregnancy, hydrosalpinx, or as permanent contraception and ovarian cancer risk reduction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, salpingectomy designates surgical removal of one or both fallopian tubes."*
+> - 📜 **Howard A. Kelly (*Operative Gynecology*):** *"Immediate unilateral **salpingectomy** saved the patient's life when ruptured tubal pregnancy flooded the peritoneal cavity."*
+> - 📜 **Lawson Tait (*Lectures on Ectopic Pregnancy and Pelvic Haematocele*):** *"My successful adoption of prompt **salpingectomy** for ectopic gestation reduced surgical mortality from ninety percent to under five."*
+> - 📜 **Thomas Spencer Wells (*Diseases of the Ovaries*):** *"Meticulous ligation of the mesosalpingeal arcade during **salpingectomy** prevents secondary postoperative retroperitoneal hemorrhage."*

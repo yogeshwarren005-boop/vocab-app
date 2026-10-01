@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An artificial device to replace or augment a missing or impaired part of the body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An artificial device to replace or augment a missing or impaired part of the body.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An artificial body part, such as a limb, heart valve, or tooth, substituted for a missing or defective natural part.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In reconstructive medicine and biomedical engineering, advanced prostheses incorporate myoelectric sensors, titanium osseointegration, and microprocessor-controlled hydraulics to restore motor function.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prosthesis designates an artificial device to replace or augment a missing or impaired part of the body."*
+> - 📜 **Ambroise Paré (*Ten Books of Surgery*):** *"For veterans maimed in battle, Paré designed mechanical iron hands and artificial leg **prosthesis** units with articulated joints."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Fitting a functional limb **prosthesis** requires meticulous stump conditioning and psychological rehabilitation."*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*):** *"The patient gradually incorporated the artificial **prosthesis** into his neurological body schema."*

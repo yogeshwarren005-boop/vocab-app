@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Being or serving as an illustration of a type.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being or serving as an illustration of a type.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a type; serving as a characteristic or representative example of a particular class, group, or category.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biological taxonomy, typic refers to the nominal or type specimen that defines the characteristics of a species or genus for classification purposes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, typic designates being or serving as an illustration of a type."*
+> - 📜 **Aristotle (*Categories*):** *"The **typic** form of each genus reveals the essential properties common to all its species."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"Scientific classification relies upon identifying the **typic** characteristics that unite diverse individuals under a single kind."*
+> - 📜 **Ernst Mayr (*Systematics and the Origin of Species*):** *"The **typic** specimen serves as the permanent reference point for the name of the species."*

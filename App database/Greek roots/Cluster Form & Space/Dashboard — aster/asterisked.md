@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mark with an asterisk.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked with an asterisk.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked, noted, or distinguished with an asterisk (*).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In textual criticism and bibliography, referring to entries, clauses, or words singled out for special commentary, qualification, or doubt.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, asterisked designates mark with an asterisk."*
+> - 📜 **Samuel Johnson (*Preface to Shakespeare*):** *"I have **asterisked** those lines in the Folio which seem to proceed from the players rather than the poet's own pen."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The names of those noblemen who voted against the bill were carefully **asterisked** in the parliamentary Gazette."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The young scholar scanned the catalogue, noting each **asterisked** volume as rare and worthy of acquisition."*

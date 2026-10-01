@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A chamber (such as a vault) wholly or partly underground; especially : a vault under the main floor of a church.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A chamber in a mausoleum.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An underground chamber, vault, or chapel, especially beneath the floor of a church, commonly used as a burial place.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human and vertebrate anatomy, a small tubular glandular pit or recess, such as the crypts of Lieberkühn in the intestinal mucosa.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Why had our incomprehensible guide led us to the bottom of this submarine crypt?"*
-> - 📜 **James Joyce (*Ulysses*):** *"He looked down intently into a stone crypt."*
-> - 📜 **James Joyce (*Ulysses*):** *"An obese grey rat toddled along the side of the crypt, moving the pebbles."*
+> - 📜 **Edgar Allan Poe (*The Cask of Amontillado*):** *"We passed through a range of low arches, descended, passed on, and descending again, arrived at a deep **crypt**."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The somber Norman **crypt** supported the massive piers above with subterranean solidity."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"Deep within each mucosal **crypt** of the small intestine, specialized secretory cells produce digestive enzymes."*

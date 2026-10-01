@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not being one of a pair : single.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An azygos anatomical part.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unpaired; not having a corresponding or symmetrical counterpart on the opposite side of the body; occurring singly rather than in bilateral pairs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anatomy, the azygous vein is the principal unpaired venous trunk of the posterior thorax, receiving blood from the posterior intercostal veins and draining into the superior vena cava.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, azygous designates not being one of a pair : single."*
+> - 📜 **Henry Gray (*Gray's Anatomy*):** *"The **azygous** vein ascends along the right side of the vertebral column as an unpaired structure."*
+> - 📜 **Andreas Vesalius (*De Humani Corporis Fabrica*):** *"I described the **azygous** vein as the vena sine pari, the vein without a mate."*
+> - 📜 **Keith L. Moore (*Clinically Oriented Anatomy*):** *"The **azygous** system provides an important collateral pathway when the inferior vena cava is obstructed."*

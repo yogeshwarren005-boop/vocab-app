@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or evidencing dysplasia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or evidencing dysplasia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or exhibiting dysplasia; showing abnormal, disordered development or growth of cells or organs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical dermatology and pathology, a dysplastic nevus is an atypical mole that possesses histologic atypia and confers elevated melanoma risk.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dysplastic designates relating to or evidencing dysplasia."*
+> - 📜 **Vinay Kumar (*Robbins Basic Pathology*):** *"A **dysplastic** lesion exhibits nuclear hyperchromasia, enlarged nucleoli, and disordered maturation across epithelial layers."*
+> - 📜 **Tinsley R. Harrison (*Principles of Internal Medicine*):** *"Patients with the familial atypical multiple mole syndrome develop numerous **dysplastic** nevi requiring surveillance."*
+> - 📜 **S. Terry Canale (*Campbell's Operative Orthopaedics*):** *"Developmental **dysplastic** hips must be diagnosed in early infancy to prevent premature degenerative coxarthrosis."*

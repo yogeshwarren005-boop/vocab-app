@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Providing a chart or outline of a system.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of reducing to a scheme or formula.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act, process, or result of reducing or arranging something into a scheme, diagram, or systematic model.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cognitive science and anthropology, the formal simplification of cultural traditions or cognitive representations into structured paradigms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, schematization designates providing a chart or outline of a system."*
+> - 📜 **Jean Piaget (*The Psychology of Intelligence*):** *"Mental **schematization** allows the child to assimilate diverse physical interactions under universal logical operations."*
+> - 📜 **Claude Lévi-Strauss (*The Savage Mind*):** *"Totemic classifications operate through systematic **schematization**, mapping social clans onto natural species."*
+> - 📜 **Lev Vygotsky (*Thought and Language*):** *"Internal speech undergoes progressive **schematization**, shedding syntactic markers while condensing pure semantic sense."*

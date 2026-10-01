@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek horm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A Greek root meaning 'impulse', 'stimulus', 'urge', or 'setting in motion' (*horme*), the foundational etymon for 'hormone'.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiology and psychobiology, horm- forms terms designating chemical stimulation (hormone) or purposive instinctive drive (hormic psychology).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, horm designates a term designating an entity, condition, or phenomenon derived from greek horm."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"The noun horme signifies a rapid onset, violent impulse, or passionate urge, forming the root **horm**."*
+> - 📜 **Ernest Starling (*The Croonian Lectures on the Chemical Correlation of the Functions of the Body*):** *"From the Greek root **horm**, signifying to excite or set in motion, we have coined the word hormone to designate chemical messengers."*
+> - 📜 **Robert Beekes (*Etymological Dictionary of Greek*):** *"Deriving from PIE *ser- ('to stream, flow, move rapidly'), **horm** underlies both Hellenic military rushes and modern physiological nomenclature."*

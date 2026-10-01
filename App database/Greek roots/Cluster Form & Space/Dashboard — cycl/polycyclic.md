@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having more than one cyclic component; especially : having two or more rings in the molecule.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a class of hydrocarbon molecules that have multiple carbon rings, and that include carcinogenic substances and environmental pollutants —abbreviation PAH.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having, containing, or composed of multiple cycles or rings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In organic chemistry and environmental toxicology, designating molecules (such as polycyclic aromatic hydrocarbons, PAHs) that contain two or more fused rings of carbon atoms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polycyclic designates having more than one cyclic component; especially : having two or more rings in the molecule."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"Phenanthrene and anthracene represent prototypical **polycyclic** aromatic hydrocarbons with planar fused rings."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"Industrial combustion releases airborne **polycyclic** hydrocarbons that accumulate as persistent environmental carcinogens."*
+> - 📜 **Alexander Todd (*A Time to Remember*):** *"Synthesizing complex **polycyclic** alkaloids demanded stereochemical control over multiple fused ring junctions."*

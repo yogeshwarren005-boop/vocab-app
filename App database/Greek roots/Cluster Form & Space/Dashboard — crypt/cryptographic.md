@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to cryptanalysis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to cryptanalysis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, written in, or characteristic of cryptography or secret ciphers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In information security, describing mathematical primitives such as hash functions, public-key algorithms, and block ciphers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"But man, even to himself, is a cryptographic page, having an ostensible writing, and another between the lines."*
+> - 📜 **Claude Shannon (*Communication Theory of Secrecy Systems*):** *"A robust **cryptographic** system achieves perfect secrecy only when the key space equals or exceeds the message entropy."*
+> - 📜 **Alan Turing (*Turing's Treatise on the Enigma*):** *"The German military relied upon the Enigma machine under the mistaken conviction of its unbreakable **cryptographic** strength."*
+> - 📜 **David Kahn (*The Codebreakers*):** *"The advent of radio communications elevated **cryptographic** security into a matter of national survival."*

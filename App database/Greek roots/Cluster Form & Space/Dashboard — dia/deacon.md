@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A subordinate officer in a Christian church: such as.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A Roman Catholic, Anglican, or Eastern Orthodox cleric ranking next below a priest.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ordained minister ranking immediately below a priest or pastor, charged with administrative, liturgical, and charitable duties.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Christian ecclesiastical history, the diaconate originated in the early Jerusalem church to oversee the distribution of alms to widows and the poor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"The wife of Deacon W. was sinking rapidly with pneumonia."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"A poor man, some of whose family were sick, lived near Deacon Murray, (referred to in the tract, 'Worth of a Dollar,') and occasionally called at his house for a supply of milk."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Murray rose to wait upon him, but the deacon said to her, 'Wait till after breakfast.' She did so, and meanwhile the deacon made some inquiries of the man about his family and circumstances."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The primitive bishop was assisted by a council of presbyters and the active ministrations of each parish **deacon**."*
+> - 📜 **John Henry Newman (*Apologia Pro Vita Sua*):** *"He was ordained as a **deacon** in the cathedral, dedicating his faculties to the service of the altar and the afflicted."*
+> - 📜 **Thomas Aquinas (*Summa Theologiae*):** *"The office of **deacon** corresponds to ministerial assistance, serving the priest during the celebration of holy mysteries."*

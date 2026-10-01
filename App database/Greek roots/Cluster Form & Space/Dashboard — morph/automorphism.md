@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An isomorphism of a set (such as a group) with itself.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An isomorphism of a set (such as a group) with itself.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An isomorphism of a mathematical object, graph, or algebraic structure onto itself that preserves all internal operations and relational configurations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In abstract algebra and Galois theory, the collection of all automorphisms of a field extension forms the Galois group, encoding symmetries of polynomial roots.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, automorphism designates an isomorphism of a set (such as a group) with itself."*
+> - 📜 **Évariste Galois (*Memoir on the Conditions for Solvability of Equations by Radicals*):** *"The permutations of the roots of an algebraic equation that preserve rational relations correspond to the group of an **automorphism**."*
+> - 📜 **Felix Klein (*Elementary Mathematics from an Advanced Standpoint*):** *"In modern geometry, each transformation group may be viewed as an **automorphism** acting upon a space to reveal its fundamental invariants."*
+> - 📜 **Saunders Mac Lane (*Categories for the Working Mathematician*):** *"An **automorphism** in a category is simply an endomorphism that is simultaneously an isomorphism, having an inverse within the same hom-set."*

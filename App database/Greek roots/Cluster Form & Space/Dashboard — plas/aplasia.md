@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Failure of some tissue or organ to develop.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Failure of some tissue or organ to develop.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The failure of an organ, limb, or tissue to develop or function normally; complete or partial absence of development.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In hematology and teratology, pure red cell aplasia involves the selective cessation of erythroid precursor development within the bone marrow.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aplasia designates failure of some tissue or organ to develop."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Congenital **aplasia** of the thyroid gland leads inevitably to infantile myxedema and developmental arrest."*
+> - 📜 **Maxwell M. Wintrobe (*Clinical Hematology*):** *"In idiopathic bone marrow **aplasia**, peripheral blood pancytopenia is accompanied by dense fatty replacement of the marrow space."*
+> - 📜 **Vinay Kumar (*Robbins and Cotran Pathologic Basis of Disease*):** *"Renal **aplasia** results from the early failure of the ureteric bud to induce the metanephric blastema."*

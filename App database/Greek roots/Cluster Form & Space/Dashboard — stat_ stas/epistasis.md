@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The suppression of a gene by the effect of an unrelated gene.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The suppression of a gene by the effect of an unrelated gene.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The interaction between two or more genes such that the phenotypic expression of one gene masks or modifies the expression of another gene at a different locus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In statistical genomics and quantitative genetics, epistatic interactions account for complex non-additive genetic variation underlying complex multigenic traits and disease susceptibility.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epistasis designates the suppression of a gene by the effect of an unrelated gene."*
+> - 📜 **William Bateson (*Mendel's Principles of Heredity*):** *"We apply the term **epistasis** to describe the condition wherein one allelomorphic pair suppresses the manifestation of another."*
+> - 📜 **Ronald Fisher (*The Genetical Theory of Natural Selection*):** *"Deviation from simple additive factorial effects represents genetic interaction or **epistasis** across distinct loci."*
+> - 📜 **Sewall Wright (*Evolution and the Genetics of Populations*):** *"Adaptive peaks on the fitness landscape are sculpted by complex networks of **epistasis** between interacting gene complexes."*

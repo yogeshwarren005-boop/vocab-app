@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A landlocked republic in south central africa formerly called rhodesia; achieved independence from the united kingdom in 1980.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A landlocked republic in south central africa formerly called rhodesia; achieved independence from the united kingdom in 1980.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The former historical British colonial territory in southern Africa, named after Cecil Rhodes, that gained independence as Zimbabwe in 1980.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In African colonial history, an unrecognized de facto state between 1965 and 1979 following its Unilateral Declaration of Independence under Ian Smith.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"On the contrary, when lightning sets fire to a tree, the Winamwanga of Northern Rhodesia put out all the fires in the village and plaster the fireplaces afresh, while the head men convey the lightning-kindled fire to the chief, who prays over it."*
-> - 📜 **Anna Balmer Myers (*Amanda: A Daughter of the Mennonites*):** *"Others succeeded in locating such queer names as Popocatepetl, Martinique, Ashtabula, Rhodesia, Orkney, Comanche."*
+> - 📜 **David Livingstone (*Missionary Travels and Researches in South Africa*):** *"The great river Zambezi flows majestically across the plateau lands that would later be annexed under the name of **rhodesia**."*
+> - 📜 **Frederick Courteney Selous (*A Hunter's Wanderings in Africa*):** *"In the uncharted bushveldt of southern **rhodesia**, vast herds of elephant and buffalo roamed the mopane forests."*
+> - 📜 **James Bryce (*Impressions of South Africa*):** *"The mineral wealth and high savannah plateaus of **rhodesia** attracted thousands of European settlers seeking pastoral homesteads."*

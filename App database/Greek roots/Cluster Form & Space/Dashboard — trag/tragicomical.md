@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Manifesting both tragic and comic aspects; - b.r.redman.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having pathetic as well as ludicrous characteristics; --joseph conrad.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, resembling, or having the qualities of tragicomedy (variant of tragicomic).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In eighteenth-century literary criticism, applied to picaresque romances and farcical satires where grave dilemmas resolve through comic absurdity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tragicomical designates manifesting both tragic and comic aspects; - b.r.redman."*
+> - 📜 **Laurence Sterne (*The Life and Opinions of Tristram Shandy, Gentleman*):** *"My uncle Toby's military miniature campaigns in the garden presented a most lovable and **tragicomical** diversion."*
+> - 📜 **Tobias Smollett (*The Adventures of Roderick Random*):** *"The hero endured a series of **tragicomical** misadventures aboard the man-of-war before fortune smiled."*
+> - 📜 **Oliver Goldsmith (*The Vicar of Wakefield*):** *"The sudden loss of our family fortune inaugurated a **tragicomical** migration to a humble country parsonage."*

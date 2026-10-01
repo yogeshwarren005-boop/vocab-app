@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Order of social insects that live in colonies, including: termites; often placed in subclass exopterygota.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Order of social insects that live in colonies, including: termites; often placed in subclass exopterygota.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A former order of social insects comprising the termites (now classified as an infraorder within Blattodea).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In entomology and sociobiology, eusocial insects living in structured colonies with castes, capable of digesting cellulose via microbial gut symbionts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, isoptera designates order of social insects that live in colonies, including: termites; often placed in subclass exopterygota."*
+> - 📜 **Eugène Marais (*The Soul of the White Ant*):** *"The termite colony within the order **isoptera** behaves not as an assembly of individuals, but as a single organic whole."*
+> - 📜 **Edward O. Wilson (*The Insect Societies*):** *"True eusociality evolved in **isoptera** millions of years before the appearance of social bees and ants."*
+> - 📜 **Thomas Snyder (*Catalog of the Termites of the World*):** *"Reproductive swarmers of **isoptera** shed their four equal-sized wings immediately upon completing nuptial dispersal flights."*

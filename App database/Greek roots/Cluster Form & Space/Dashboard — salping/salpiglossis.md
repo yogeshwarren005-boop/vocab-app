@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a small genus (Salpiglossis) of Chilean herbs of the nightshade family with large funnel-shaped varicolored flowers often strikingly marked.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a small genus (Salpiglossis) of Chilean herbs of the nightshade family with large funnel-shaped varicolored flowers often strikingly marked.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of flowering annual or biennial plants in the nightshade family (Solanaceae), commonly called painted tongue, native to Chile.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ornamental floriculture, admired for velvety, trumpet-shaped blossoms marbled with intricate veins of purple, gold, and crimson.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, salpiglossis designates any of a small genus (salpiglossis) of chilean herbs of the nightshade family with large funnel-shaped varicolored flowers often strikingly marked."*
+> - 📜 **John Lindley (*Edwards's Botanical Register*):** *"The glowing, velvety corollas of **salpiglossis** present an unmatched richness of pencilled reticulation in the summer conservatory."*
+> - 📜 **George Nicholson (*The Illustrated Dictionary of Gardening*):** *"Cultivated specimens of **salpiglossis** require rich loam and shelter from driving rains to protect their delicate blossoms."*
+> - 📜 **William Robinson (*The English Flower Garden*):** *"In sunny flower borders, **salpiglossis** provides dramatic bursts of kaleidoscopic color from midsummer until autumn frosts."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not relating to a melodic subject.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not relating to a melodic subject.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not relating to, based on, or developing a central theme; lacking a thematic connecting vowel (in linguistics).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In musical composition and literary criticism, unthematic structures rely on atmospheric color, texture, or episodic stream-of-consciousness rather than motivic exposition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unthematic designates not relating to a melodic subject."*
+> - 📜 **Theodor Adorno (*Philosophy of New Music*):** *"Certain modern orchestral textures remain consciously **unthematic**, abandoning melodic recurrence for raw sonic timbre."*
+> - 📜 **Charles Rosen (*The Classical Style*):** *"A transitional passage that is strictly **unthematic** serves to cleanse the musical ear before the second subject."*
+> - 📜 **Antoine Meillet (*General Linguistics*):** *"Archaic root formations in Indo-European preserve an **unthematic** stem structure without a connecting vowel."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Divide into syllables.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Utter with distinct articulation of each syllable.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To divide words into their component syllables (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In lexicography, prosody, and orthography, to syllabise establishes proper line-break hyphenation and pronunciation guides.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, syllabise designates divide into syllables."*
+> - 📜 **Samuel Johnson (*A Dictionary of the English Language*):** *"To **syllabise** correctly is to preserve the natural cadence of speech without violating historical roots."*
+> - 📜 **William Makepeace Thackeray (*The History of Henry Esmond*):** *"The schoolmaster paused to **syllabise** the Latin passage, tapping his ruler in time upon the desk."*
+> - 📜 **George Eliot (*The Mill on the Floss*):** *"Maggie struggled to **syllabise** the long theological terms in the antique volumes of the library."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek phag.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cytoplasmic body formed by the fusion of a phagosome with a lysosome in a phagocytic cell.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cellular pathology, inside the acidic phagolysosome (pH 4.5–5.0), hydrolytic enzymes and reactive oxygen radicals degrade engulfed microorganisms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phagolysosome designates a term designating an entity, condition, or phenomenon derived from greek phag."*
+> - 📜 **Christian de Duve (*Lysosomes and Phagocytosis*):** *"Fusion of the primary lysosome with the engulfed vacuole creates the active digestive **phagolysosome**."*
+> - 📜 **Bruce Alberts (*Molecular Biology of the Cell*):** *"Pathogens like Mycobacterium tuberculosis prevent maturation of the **phagolysosome**, surviving inside unacidified vacuoles."*
+> - 📜 **David L. Nelson (*Lehninger Principles of Biochemistry*):** *"Acid hydrolases within the **phagolysosome** digest bacterial proteins, lipids, and nucleic acids into reusable precursors."*

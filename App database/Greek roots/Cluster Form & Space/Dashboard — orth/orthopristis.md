@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of haemulidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of haemulidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of perciform marine fishes belonging to the grunt family (Haemulidae), commonly known as pigfishes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ichthyology, fishes of the genus Orthopristis inhabit coastal waters and seagrass meadows of the western Atlantic, producing guttural drumming sounds with their pharyngeal teeth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, orthopristis designates a genus of haemulidae."*
+> - 📜 **David Starr Jordan (*The Fishes of North and Middle America*):** *"The genus **Orthopristis** is distinguished by an elongated body, small ctenoid scales, and a row of dorsal spines."*
+> - 📜 **George Brown Goode (*Oceanic Ichthyology*):** *"Anglers in the Carolinas frequently capture species of **Orthopristis** over shallow oyster reefs."*
+> - 📜 **William K. Gregory (*Fish Skulls: A Study of the Evolution of Natural Mechanisms*):** *"The pharyngeal apparatus in **Orthopristis** exhibits specialized crushing plates suited for grinding crustaceans."*

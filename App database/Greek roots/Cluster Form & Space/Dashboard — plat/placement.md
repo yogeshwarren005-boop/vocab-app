@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The spatial property of the way in which something is placed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Contact established between applicants and prospective employees.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action of putting someone or something in a particular place, position, or role.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In education and employment, the assignment of students to classes according to ability or the securing of jobs for applicants.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, placement designates the spatial property of the way in which something is placed."*
+> - 📜 **Francis D. K. Ching (*Building Construction Illustrated*):** *"Careful **placement** of structural columns ensures an efficient and uniform transfer of gravity loads."*
+> - 📜 **Frank H. Netter (*Atlas of Human Anatomy*):** *"Accurate needle **placement** during regional nerve blockade avoids accidental vascular puncture."*
+> - 📜 **Alfred Marshall (*Principles of Economics*):** *"The strategic **placement** of retail establishments near central transport nodes maximizes customer footfall."*

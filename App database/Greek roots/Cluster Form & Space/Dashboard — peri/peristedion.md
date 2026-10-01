@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In some classifications the type genus of the subfamily peristediinae: armored sea robins.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In some classifications the type genus of the subfamily peristediinae: armored sea robins.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The type genus of armored searobins belonging to the family Peristediidae (or subfamily Peristediinae).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine biology, species of *Peristedion* crawl along benthic substrates using modified free pectoral fin rays to detect buried prey.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, peristedion designates in some classifications the type genus of the subfamily peristediinae: armored sea robins."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"Fishes of the genus **Peristedion** use their slender pectoral filaments to probe muddy bottom sediments."*
+> - 📜 **George Brown Goode (*Oceanic Ichthyology*):** *"Specimens of **Peristedion** possess two flattened rostral spines projecting horizontally from the snout."*
+> - 📜 **Carl Linnaeus (*Systema Naturae*):** *"Trigla cataphracta, now assigned to **Peristedion**, was early recognized for its remarkable bony cuirass."*

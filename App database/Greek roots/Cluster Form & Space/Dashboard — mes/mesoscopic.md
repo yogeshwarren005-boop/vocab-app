@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of middle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of middle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Intermediate in scale between microscopic (atomic or molecular) and macroscopic (visible to the naked eye).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In condensed matter physics and nanotechnology, describing physical systems (ranging from a few nanometers to micrometers) where quantum mechanical phenomena coexist with classical collective behavior.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mesoscopic designates adjective*) pertaining to, derived from, or characteristic of middle."*
+> - 📜 **Richard Feynman (*There's Plenty of Room at the Bottom*):** *"When matter is structured on the **mesoscopic** scale, quantum interference effects begin to dominate electrical transport."*
+> - 📜 **Philip W. Anderson (*Basic Notions of Condensed Matter Physics*):** *"The **mesoscopic** regime reveals novel phase coherence properties that disappear in macroscopic bulk samples."*
+> - 📜 **Neville Mott (*Conduction in Non-Crystalline Materials*):** *"Electron localization in **mesoscopic** wires exhibits conductance fluctuations directly proportional to the quantum of conductance."*

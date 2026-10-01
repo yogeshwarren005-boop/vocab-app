@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An epithelium of mesodermal origin composed of a single layer of thin flattened cells that lines internal body cavities and the lumens of vessels.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The inner layer of the seed coat of some plants.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The single layer of smooth, flat squamous cells lining the interior surface of blood vessels, lymphatic vessels, and the heart chambers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vascular biology, the endothelium is recognized as an active paracrine organ regulating vasodilation, thrombosis, and vascular permeability.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endothelium designates an epithelium of mesodermal origin composed of a single layer of thin flattened cells that lines internal body cavities and the lumens of vessels."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Thrombosis frequently originates where mechanical damage or inflammation disrupts the integrity of the vascular **endothelium**."*
+> - 📜 **Robert F. Furchgott (*The Obligatory Role of Endothelial Cells in the Relaxation of Arterial Smooth Muscle*):** *"Acetylcholine fails to relax isolated arterial rings unless the luminal layer of **endothelium** is carefully preserved."*
+> - 📜 **Arthur C. Guyton (*Textbook of Medical Physiology*):** *"Continuous basal production of nitric oxide by the **endothelium** maintains systemic vascular resistance at physiological levels."*

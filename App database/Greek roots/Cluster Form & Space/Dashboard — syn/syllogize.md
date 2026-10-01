@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Reason by syllogisms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reason by syllogisms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To reason, infer, or argue by means of formal syllogisms; American spelling of syllogise.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In formal epistemology and logic, to syllogize is to derive a necessary conclusion from established categorical premises in accordance with valid deductive figures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, syllogize designates reason by syllogisms."*
+> - 📜 **Aristotle (*Prior Analytics*):** *"Whenever three terms are so related that the last is in the middle and the middle in the first, it is necessary to **syllogize**."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The mind can perceive the agreement or disagreement of ideas directly, without needing to **syllogize** through scholastic forms."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Reasoning is a spontaneous cognitive association before the logician steps in to **syllogize** its steps."*

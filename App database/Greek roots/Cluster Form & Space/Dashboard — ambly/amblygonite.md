@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ambly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A fluorophosphate mineral composed of lithium, sodium, and aluminium [(Li,Na)AlPO4(F,OH)], typically found in granite pegmatites.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic geology and mineralogy, an important commercial ore of lithium named for its obtuse cleavage angle (Greek amblys 'blunt' and gonia 'angle').
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amblygonite designates a term designating an entity, condition, or phenomenon derived from greek ambly."*
+> - 📜 **James Dwight Dana (*A System of Mineralogy*):** *"The mineral **amblygonite** crystallizes in the triclinic system and is distinguished by its pale vitreous lustre and rich lithium content."*
+> - 📜 **August Breithaupt (*Complete Handbook of Mineralogy*):** *"We designated this pegmatitic species **amblygonite** on account of the obtuse cleavage plane that sets it apart from spodumene."*
+> - 📜 **Archibald Geikie (*The Founders of Geology*):** *"In lithium-bearing pegmatites, massive nodules of **amblygonite** often occur associated with tourmaline and lepidolite."*

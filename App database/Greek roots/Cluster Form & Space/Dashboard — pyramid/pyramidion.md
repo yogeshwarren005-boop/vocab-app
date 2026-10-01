@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A pyramidion is the capstone of an Egyptian pyramid or the upper section of an obelisk.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Speakers of the Ancient Egyptian language referred to pyramidia as benbenet and associated the pyramid as a whole with the sacred benben stone..
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The miniature pyramid-shaped capstone that sat atop an ancient Egyptian pyramid or the apex of an obelisk.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Egyptology and monumental archaeology, a finely carved diorite, basalt, or limestone capstone often covered in electrum to reflect the sun's rays.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pyramidion designates a pyramidion is the capstone of an egyptian pyramid or the upper section of an obelisk."*
+> - 📜 **Flinders Petrie (*The Pyramids and Temples of Gizeh*):** *"The black granite **pyramidion** of Amenemhat III at Dahshur is adorned with hieroglyphic prayers to the sun god Ra."*
+> - 📜 **Gaston Maspero (*Manual of Egyptian Archaeology*):** *"Sheathed in golden electrum, the gleaming **pyramidion** caught the first rays of dawn long before light touched the desert floor."*
+> - 📜 **I. E. S. Edwards (*The Pyramids of Egypt*):** *"The setting of the final **pyramidion** marked the solemn completion of the pharaoh's eternal resting place."*

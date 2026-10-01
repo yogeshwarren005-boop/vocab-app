@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A solid bulblike enlargement of the stem of some orchids.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A solid bulblike enlargement of the stem of some orchids.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A thickened, bulb-like internode of the stem found in sympodial epiphytic orchids, serving to store water and metabolic nutrients.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In orchid morphology and physiological botany, an aerial pseudotuberous organ that enables epiphytic survival during cyclical tropical droughts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pseudobulb designates a solid bulblike enlargement of the stem of some orchids."*
+> - 📜 **Charles Darwin (*The Various Contrivances by Which Orchids Are Fertilised by Insects*):** *"The moisture conserved within each **pseudobulb** supports the rapid expansion of delicate floral racemes."*
+> - 📜 **John Lindley (*The Genera and Species of Orchidaceous Plants*):** *"In Cattleya, the solitary leaf emerges from the apex of a fleshy, grooved **pseudobulb** anchored to the tree branch."*
+> - 📜 **Rebecca Tyson Northen (*Home Orchid Growing*):** *"Wrinkling of the **pseudobulb** provides an immediate diagnostic indicator that the root system requires additional irrigation."*

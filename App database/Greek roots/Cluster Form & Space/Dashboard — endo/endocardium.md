@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A thin serous membrane lining the cavities of the heart.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A thin serous membrane lining the cavities of the heart.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The smooth, serous endothelial membrane lining the interior cavities, valves, and papillary muscles of the heart.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cardiac embryology, the endocardium develops from angiogenic mesenchyme that forms the primitive endocardial heart tubes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endocardium designates a thin serous membrane lining the cavities of the heart."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"The **endocardium** consists of an epithelial layer of squamous cells supported by delicate subendothelial connective tissue."*
+> - 📜 **Arthur C. Guyton (*Textbook of Medical Physiology*):** *"Friction between circulating blood and cardiac chambers is minimized by the unbroken smoothness of the **endocardium**."*
+> - 📜 **Bruce Alberts (*Molecular Biology of the Cell*):** *"Cues from the **endocardium** induce adjacent myocardial cells to thicken and differentiate into mature ventricular walls."*

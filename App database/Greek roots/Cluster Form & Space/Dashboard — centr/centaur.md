@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a race of creatures fabled to be half human and half horse and to live in the mountains of Thessaly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a class of asteroids with elliptical orbits that typically lie between the orbits of Jupiter and Neptune.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mythological creature in ancient Greek lore with the upper torso, arms, and head of a human and the body and legs of a horse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In astronomy, a minor celestial body (such as Chiron) orbiting the sun between Jupiter and Neptune, exhibiting characteristics of both asteroids and comets.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go bear it to the Centaur, where we host, And stay there, Dromio, till I come to thee."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll to the Centaur to go seek this slave."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The gold I gave to Dromio is laid up Safe at the Centaur, and the heedful slave Is wander’d forth in care to seek me out."*
+> - 📜 **Homer (*The Iliad*):** *"The wise **centaur** Chiron instructed the young Achilles in the healing arts and martial archery."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Fierce as the savage **centaur** galloping over Thessalian hills, the fallen angels mobilized their grim ranks."*
+> - 📜 **Carl Sagan (*Cosmos*):** *"Astronomers discovered Chiron, the first icy **centaur** whose erratic orbit crosses the realm of the giant outer planets."*

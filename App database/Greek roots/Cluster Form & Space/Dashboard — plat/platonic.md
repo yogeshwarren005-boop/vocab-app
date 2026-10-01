@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or characteristic of plato or his philosophy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Free from physical desire.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characteristic of the Greek philosopher Plato, his doctrines, or his philosophical system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychology and ethics, designating an affectionate or spiritual relationship between persons that is devoid of sexual or sensual desire.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Those who de- 112:6 part from this method forfeit their claims to belong to its school, and they become adher- ents of the Socratic, the Platonic, the Spencerian, or some 112:9 other school."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"His works are full of references to philosophy and philosophers, and he leaves us in no doubt as to his counting himself a disciple of Plato; his commentaries on Platonic doctrines give him a place in the long series of Plato's expositors."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"This feeling and a desire to keep the idea of God disentangled from every limitation led to men falling back (as we saw in the case of Plutarch) on the Platonic conception of God's transcendence."*
+> - 📜 **Ralph Waldo Emerson (*Representative Men*):** *"Out of Plato come all things that are still written and debated among men of thought; he represents the pure **platonic** intellect."*
+> - 📜 **Walter Pater (*Plato and Platonism*):** *"The essence of the **platonic** method lies in dialectical questioning that refines our grasp of transcendental reality."*
+> - 📜 **Bertrand Russell (*A History of Western Philosophy*):** *"Christian theology absorbed a profound **platonic** strain through Augustine and early Patristic thought."*

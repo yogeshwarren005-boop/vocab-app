@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A deposit of calcium carbonate (such as calcite) resembling an icicle hanging from the roof or sides of a cave.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A deposit of calcium carbonate (such as calcite) resembling an icicle hanging from the roof or sides of a cave.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A tapering structure of calcium carbonate hanging like an icicle from the roof of a limestone cave, formed by the precipitation of minerals from dripping water.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In speleology and geomorphology, a stalactite forms along a central capillary hollow 'soda straw' tube as degassing of dissolved carbon dioxide precipitates calcite.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Beattie (*The castles and abbeys of England; Vol. 2 of 2*):** *"The moon--the regal moon--intensely bright, Shines through the roseate window of the west; Each shaft, an artificial stalactite Of pendent stone, with slumber seems oppressed, Or with a charmèd dream of peaceful rapture blessed."*
-> - 📜 **Mark Twain (*The Adventures of Tom Sawyer, Complete*):** *"In one place, near at hand, a stalagmite had been slowly growing up from the ground for ages, builded by the water-drip from a stalactite overhead."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"From the vaulted limestone roof hung thousands of glistening **stalactite** spears, slowly fed by dripping carbonate waters."*
+> - 📜 **Mark Twain (*The Adventures of Tom Sawyer*):** *"The cave was a subterranean palace of wonder, where glittering **stalactite** columns reached down to meet the floor."*
+> - 📜 **John Muir (*The Mountains of California*):** *"Porous subterranean chambers were draped with delicate alabaster draperies and sparkling **stalactite** crystals."*

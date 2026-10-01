@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Effusively or insincerely emotional.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Effusively or insincerely emotional.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Exhibiting or characterized by bathos; ludicrously anticlimactic; descending absurdly from the sublime to the commonplace.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary criticism, describing artistic or dramatic work marked by insincere, strained, or unintentionally comical pathos.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bathetic designates effusively or insincerely emotional."*
+> - 📜 **Alexander Pope (*Peri Bathous, or The Art of Sinking in Poetry*):** *"The poet sinks into a **bathetic** collapse when heroic verse suddenly stumbles over kitchen utensils."*
+> - 📜 **Virginia Woolf (*The Common Reader*):** *"Her grief was so overwrought in phrasing as to produce an almost **bathetic** effect upon the audience."*
+> - 📜 **George Eliot (*Middlemarch*):** *"His grandiloquent speech concluded on a **bathetic** note of petty complaints about parish accounts."*

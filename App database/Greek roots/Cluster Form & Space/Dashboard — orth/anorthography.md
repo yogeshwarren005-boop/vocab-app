@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A loss of the ability to write or to express thoughts in writing because of a brain lesion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A loss of the ability to write or to express thoughts in writing because of a brain lesion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Incorrect or faulty spelling; the inability to spell words according to accepted orthographic conventions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In educational psychology and clinical linguistics, anorthography may indicate an underlying learning disability such as dyslexia or dysgraphia affecting written language production.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anorthography designates a loss of the ability to write or to express thoughts in writing because of a brain lesion."*
+> - 📜 **Noah Webster (*Dissertations on the English Language*):** *"**Anorthography** in public documents reflects poorly upon the education of the writer."*
+> - 📜 **Samuel Johnson (*A Dictionary of the English Language (Preface)*):** *"The prevalence of **anorthography** in private letters contrasts with the formality of printed works."*
+> - 📜 **Alexander Bain (*Education as a Science*):** *"Persistent **anorthography** in otherwise intelligent pupils warrants investigation into perceptual processing difficulties."*

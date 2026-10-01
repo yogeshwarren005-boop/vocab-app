@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mid : in the middle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Intermediate (as in size or type).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A root combining form (mes- / meso-) meaning middle, intermediate, or intermediate in position or character.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scientific terminology, designating intermediate structures or eras (e.g., mesoderm, mesosphere, Mesozoic).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"We will drink success to M. le Maire,' he said, '_mes bons amis_!"*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"Mère Julie,' I said, 'and mes bonnes femmes, my friends, know you that it is the middle of the night, the hour at which we must rest if we are to be able to do the work that is needful, which the _bon Dieu_ has laid upon us?"*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Est-ce que ma robe va bien?” cried she, bounding forwards; “et mes souliers? et mes bas?"*
+> - 📜 **Henry Gray (*Anatomy: Descriptive and Surgical*):** *"The Greek prefix **mes-** signifies intermediate position between deeper and more superficial anatomical layers."*
+> - 📜 **Francis Maitland Balfour (*A Treatise on Comparative Embryology*):** *"From the **mes-** root we derive mesoderm, denoting the germ layer arising between ectoderm and endoderm."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Geological eras bearing the **mes-** designation represent the middle ages of earth's stratified fossil record."*

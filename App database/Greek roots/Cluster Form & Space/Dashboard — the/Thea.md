@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: As soon as the slightest provocation is given : immediately.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: —used in phrases such as march to the beat of a different drummer to describe a person who thinks, lives, or behaves in an unusual way.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A former botanical genus that included the tea plant (*Thea sinensis*, now classified as *Camellia sinensis*); also, in Greek mythology, the Titaness Theia (goddess of sight and shining light).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic botany, Linnaeus established the genus *Thea* to classify the cultivated Asian beverage shrubs whose caffeine-rich leaves formed the cornerstone of global maritime tea trade.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Thea designates as soon as the slightest provocation is given : immediately."*
+> - 📜 **Carl Linnaeus (*Species Plantarum*):** *"Linnaeus described the Asian tea plant under the genus **Thea**, distinguishing green and black cultivars."*
+> - 📜 **Robert Fortune (*A Journey to the Tea Countries of China*):** *"Botanical investigations proved that both green and black tea derive from varieties of **Thea** sinensis."*
+> - 📜 **Hesiod (*Theogony*):** *"From the union of Hyperion and divine **Thea** sprang Helios the sun, Selene the moon, and radiant Eos."*

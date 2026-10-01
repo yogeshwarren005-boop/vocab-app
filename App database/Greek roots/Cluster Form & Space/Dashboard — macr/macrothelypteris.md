@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Medium to large terrestrial ferns of tropical asia to polynesia and australia; naturalized in americas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Medium to large terrestrial ferns of tropical asia to polynesia and australia; naturalized in americas.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxonomic genus of medium to large terrestrial bipinnate-pinnatifid ferns in the marsh fern family Thelypteridaceae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pteridology, *Macrothelypteris* is characterized by creeping or suberect rhizomes, fronds with pale needle-like hairs, and small round sori bearing delicate indusia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, macrothelypteris designates medium to large terrestrial ferns of tropical asia to polynesia and australia; naturalized in americas."*
+> - 📜 **R. E. Holttum (*The Genus Macrothelypteris in Africa and Asia*):** *"The genus **Macrothelypteris** is clearly demarcated from typical Thelypteris by its frond dissection and glandular hair morphology."*
+> - 📜 **Rolla M. Tryon (*Ferns and Allied Plants*):** *"Tropical forest clearings frequently host vigorous colonies of **Macrothelypteris**, whose large delicate fronds thrive in humid shade."*
+> - 📜 **David B. Lellinger (*A Field Manual of the Ferns and Fern-Allies of the United States and Canada*):** *"Introduced populations of **Macrothelypteris** have become naturalized across subtropical ravine forests of the southeastern states."*

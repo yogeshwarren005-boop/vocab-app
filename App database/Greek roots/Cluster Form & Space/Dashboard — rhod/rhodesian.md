@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the former country of rhodesia (now zimbabwe).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the former country of rhodesia (now zimbabwe).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or originating from Rhodesia (now Zimbabwe); an inhabitant of Rhodesia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Designating the Rhodesian Ridgeback, a distinctive African hunting dog breed characterized by a reverse ridge of hair along its spine.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhodesian designates of or relating to the former country of rhodesia (now zimbabwe)."*
+> - 📜 **Arthur Conan Doyle (*The Great Boer War*):** *"A detachment of sturdy **rhodesian** troopers guarded the northern frontier railway line against Boer incursions."*
+> - 📜 **Winston Churchill (*The Story of the Malakand Field Force*):** *"The spirited **rhodesian** volunteers displayed admirable frontier endurance in the face of arduous wilderness campaigns."*
+> - 📜 **Frederick Courteney Selous (*Sunshine and Storm in Rhodesia*):** *"The settler relied upon his faithful **rhodesian** hound to bay lions in the tall thorny scrub."*

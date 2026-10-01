@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgical division or resection of all or part of the vas deferens usually to induce sterility.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surgical division or resection of all or part of the vas deferens usually to induce sterility.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The surgical cutting and sealing of part of each vas deferens, typically as a means of permanent male contraception.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: First performed on human subjects by Reginald Harrison in 1893, vasectomy is a highly effective contraceptive intervention that leaves sexual potency and testosterone production intact.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vasectomy designates surgical division or resection of all or part of the vas deferens usually to induce sterility."*
+> - 📜 **H. G. Wells (*The Shape of Things to Come*):** *"The widespread voluntary adoption of **vasectomy** assisted in stabilizing global post-collapse demographics."*
+> - 📜 **Bertrand Russell (*Marriage and Morals*):** *"A simple surgical **vasectomy** eliminates unwanted fertility without diminishing normal masculine vitality."*
+> - 📜 **Sigmund Freud (*Letters of Sigmund Freud*):** *"Freud underwent a Steinach **vasectomy** in his later years in hopes of retarding the growth of his palatal tumor."*

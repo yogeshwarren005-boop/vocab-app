@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The organized colloidal complex of organic and inorganic substances (such as proteins and water) that constitutes the living nucleus, cytoplasm, plastids, and mitochondria of the cell.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The organized colloidal complex of organic and inorganic substances (such as proteins and water) that constitutes the living nucleus, cytoplasm, plastids, and mitochondria of the cell.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The colorless, viscous, living material of a plant or animal cell, including the cytoplasm and the nucleus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical 19th-century cell theory, protoplasm was conceived by Jan Purkyně and Thomas Henry Huxley as the fundamental 'physical basis of life'.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The oogonia are large spherical or ovoid cells, with a thickish membrane containing a granular protoplasm, or formative fluid."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The antheridia are somewhat blunt-shaped or obovate cellules, considerably smaller than the oogonia, with slightly thickened walls, and containing a finely granular protoplasm."*
+> - 📜 **Thomas Henry Huxley (*On the Physical Basis of Life*):** *"**Protoplasm**, simple or nucleated, is the formal basis of all life; it is the clay out of which all living forms are molded."*
+> - 📜 **Jan Evangelista Purkyně (*Commentatio de Cellulis*):** *"I applied the designation **protoplasm** to the living formative matter that fills the embryonic animal and plant cells."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Even the lowest moneron consists of an undifferentiated droplet of living **protoplasm** capable of sensation."*

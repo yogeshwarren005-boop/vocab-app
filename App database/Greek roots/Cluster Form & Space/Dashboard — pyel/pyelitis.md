@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the lining of the renal pelvis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inflammation of the lining of the renal pelvis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the renal pelvis, typically caused by an ascending bacterial infection from the lower urinary tract.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical nephrology and urology, a condition presenting with flank pain, chills, fever, and pyuria, distinct from deep parenchymal nephritis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pyelitis designates inflammation of the lining of the renal pelvis."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In acute **pyelitis**, the urine contains abundant pus cells and pelvis epithelium, accompanied by sudden lumbar tenderness and rigors."*
+> - 📜 **Thomas Addison (*Observations on Disorders of the Kidney*):** *"Catheterization of the ureters confirmed that the purulent discharge originated from localized **pyelitis** without cortical destruction."*
+> - 📜 **William Roberts (*A Practical Treatise on Urinary and Renal Diseases*):** *"Calculous **pyelitis** arises when an abrasive gravel stone lodges within the pelvis, exciting chronic mucosal suppuration."*

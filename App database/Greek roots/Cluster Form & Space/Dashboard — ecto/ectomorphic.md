@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the component in W. H. Sheldon's classification of body types that measures the body's degree of slenderness, angularity, and fragility.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by a lean slender body build with slight muscular development.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or characteristic of the physical build of an ectomorph; slender, linear, and lightly muscled.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In kinesiology, ectomorphic physiques often demonstrate superior endurance efficiency due to lower thermal and mass loads.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ectomorphic designates of or relating to the component in w. h. sheldon's classification of body types that measures the body's degree of slenderness, angularity, and fragility."*
+> - 📜 **William H. Sheldon (*Atlas of Men*):** *"An **ectomorphic** physique exhibits narrow shoulders, thin wrists, and long, tapering fingers."*
+> - 📜 **Hans Eysenck (*The Structure of Human Personality*):** *"Correlations between **ectomorphic** body types and reserved, intellectual habits have been extensively investigated in constitutional psychology."*
+> - 📜 **P. B. Medawar (*The Uniqueness of the Individual*):** *"Human variation produces continuous gradations between endomorphic mass and **ectomorphic** attenuation."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek om.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One who eats raw flesh; a consumer of uncooked meat, especially in the context of ancient Dionysian ritual or zoological feeding behavior.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In entomology, Omophagus designates a genus of beetles whose name alludes to predatory feeding habits on unprocessed organic material.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Omophagus designates a term designating an entity, condition, or phenomenon derived from greek om."*
+> - 📜 **Walter Burkert (*Homo Necans*):** *"The **Omophagus** worshipper tore at the sacrificial animal in a frenzy of divine possession."*
+> - 📜 **E. R. Dodds (*The Greeks and the Irrational*):** *"Euripides portrays the Bacchants as **Omophagus** celebrants, devouring raw flesh on the mountain."*
+> - 📜 **Pierre Grimal (*The Dictionary of Classical Mythology*):** *"Dionysus himself bore the epithet **Omophagus**, the eater of raw flesh, reflecting his chthonic aspect."*

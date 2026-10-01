@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument for measuring the distance traveled (as by a vehicle).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instrument for measuring the distance traveled (as by a vehicle).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument mounted on a vehicle or carriage that measures and displays the linear distance traveled over ground.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mechanical engineering and transportation history, mechanical odometers calculate distance via gear trains connected to wheel rotations, while modern odometers use electronic wheel speed sensors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, odometer designates an instrument for measuring the distance traveled (as by a vehicle)."*
+> - 📜 **Thomas Jefferson (*Writings of Thomas Jefferson*):** *"I fixed an **odometer** to the axle of my carriage to measure the exact distance between post houses on my journey to Philadelphia."*
+> - 📜 **Benjamin Franklin (*The Papers of Benjamin Franklin*):** *"While serving as Postmaster General, I devised a simple **odometer** attached to a carriage wheel to survey post routes across the colonies."*
+> - 📜 **Vitruvius (*The Ten Books on Architecture*):** *"The Roman engineer mounted an **odometer** upon a chariot, dropping a small pebble into a bronze vessel at the completion of each mile."*

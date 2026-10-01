@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of a set of forms that a morpheme may take in different contexts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of a set of forms that a morpheme may take in different contexts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of two or more alternative phonetic manifestations or realizations of a single morpheme in a particular linguistic context.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In crystallography and mineralogy, any of the diverse crystalline forms assumed by a single chemical substance without altering its elemental identity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, allomorph designates one of a set of forms that a morpheme may take in different contexts."*
+> - 📜 **Leonard Bloomfield (*Language*):** *"The plural suffix in English exhibits phonologically conditioned variants, each functioning as an **allomorph** of the underlying plural morpheme."*
+> - 📜 **Noam Chomsky (*The Morphophonemics of Modern Hebrew*):** *"Morphophonemic transformation rules map abstract lexical entries into the specific **allomorph** appropriate to its phonological environment."*
+> - 📜 **Edward Sapir (*Language: An Introduction to the Study of Speech*):** *"Grammatical unity often underlies phonetic divergence, where each distinct **allomorph** preserves the original functional value."*

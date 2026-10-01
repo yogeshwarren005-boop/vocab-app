@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the pericardium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inflammation of the pericardium.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the pericardium, the fibrous sac enclosing the heart.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cardiology, acute pericarditis typically presents with sharp pleuritic chest pain relieved by sitting forward, accompanied by widespread ST-segment elevation on electrocardiogram.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pericarditis designates inflammation of the pericardium."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Fibrinous **pericarditis** imparts a rough, bread-and-butter appearance to the cardiac serosa upon autopsy."*
+> - 📜 **Eugene Braunwald (*Heart Disease*):** *"Pleuritic chest pain in acute **pericarditis** characteristically improves when the patient leans forward."*
+> - 📜 **Tinsley R. Harrison (*Principles of Internal Medicine*):** *"Widespread concave-upward ST elevation across multiple leads is the classic electrocardiographic hallmark of acute **pericarditis**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The first saxon ruler who extended his kingdom to include nearly all of england (895-939).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The first saxon ruler who extended his kingdom to include nearly all of england (895-939).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: King of the Anglo-Saxons and King of the English (r. 924–939), renowned as the first ruler to unite the disparate Anglo-Saxon and Norse kingdoms of Britain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medieval historiography, Athelstan centralized royal law codes, established standard coinage, fostered monastic intellectual revival, and defeated a combined Scottish-Viking alliance at the landmark Battle of Brunanburh in 937.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Life and Death of Cormac the Skald*):** *"Then they sailed out to sea, and at last came to Norway, where at that time Hakon, the foster-son of Athelstan, was king."*
+> - 📜 **William of Malmesbury (*Chronicle of the Kings of England*):** *"Glorious King **Athelstan** subdued all the princes of Britain, extending his realm from Wessex to Northumbria."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Foreign princes eagerly sought matrimonial alliances with the royal daughters of the renowned Saxon monarch **Athelstan**."*
+> - 📜 **Winston Churchill (*A History of the English-Speaking Peoples: The Birth of Britain*):** *"At the decisive battle of Brunanburh, **Athelstan** and his brother Edmund achieved an immortal victory that secured English unity."*

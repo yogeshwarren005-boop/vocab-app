@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the trachipteridae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the trachipteridae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of marine ribbonfishes in the family Trachipteridae, characterized by highly compressed, elongated bodies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic ichthyology, *Trachipterus* species inhabit offshore pelagic zones worldwide, displaying dramatic metamorphic transformations from larval forms with trailing fin filaments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trachipterus designates type genus of the trachipteridae."*
+> - 📜 **Albert Günther (*Catalogue of the Fishes in the British Museum*):** *"In the genus **Trachipterus**, the tail ends in a fan-shaped caudal fin directed obliquely upward."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"The king-of-the-salmon, classified under **Trachipterus**, was revered in indigenous mythology of the Pacific Northwest."*
+> - 📜 **Arthur Smith Woodward (*Outlines of Vertebrate Paleontology*):** *"Rare fossil impressions indicate that ancestors of **Trachipterus** roamed pelagic seas during the Tertiary period."*

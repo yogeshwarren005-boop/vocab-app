@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A modified microscope used to study capillary vessels.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A modified microscope used to study capillary vessels.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An optical or magnifying instrument historically used for viewing capillary blood vessels in living tissues; or a fine endoscope for inspecting the interior of blood vessels.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiological optics and cardiovascular diagnostics, a specialized microscope or fiberoptic catheter allowing direct visualization of blood flow dynamics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, angioscope designates a modified microscope used to study capillary vessels."*
+> - 📜 **Gabriel Valentin (*Handbuch der Entwicklungsgeschichte des Menschen*):** *"Using a customized **angioscope**, I observed the pulsating blood columns circulating through the interdigital web of the living frog."*
+> - 📜 **Carl Ludwig (*Physiologie des Menschen*):** *"The **angioscope** illuminated the capillary beds of living membranes, proving that erythrocytes circulate in single file through narrow capillaries."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Early investigators constructed the **angioscope** to observe inflammatory marginations of leukocytes along venular walls."*

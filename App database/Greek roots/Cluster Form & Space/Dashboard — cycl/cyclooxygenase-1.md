@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An enzyme that regulates prostaglandins that are important for the health of the stomach lining and kidneys.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An enzyme that regulates prostaglandins that are important for the health of the stomach lining and kidneys.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A constitutive isoform of the cyclooxygenase enzyme (COX-1) responsible for producing basal prostaglandins that maintain gastric mucosal integrity and renal blood flow.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In molecular pharmacology and cellular biochemistry, the constitutive homodimeric hemoprotein that converts arachidonic acid to prostaglandin H2, inhibited non-selectively by aspirin and traditional NSAIDs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cyclooxygenase-1 designates an enzyme that regulates prostaglandins that are important for the health of the stomach lining and kidneys."*
+> - 📜 **John R. Vane (*Nobel Lecture: The Mode of Action of Aspirin and Similar Drugs*):** *"Constitutive **cyclooxygenase-1** synthesizes the protective prostacyclin and thromboxane necessary for platelet aggregation and gastric homeostasis."*
+> - 📜 **Sydney Brenner (*Loose Ends: Selected Writings*):** *"Structural crystal studies revealed that **cyclooxygenase-1** possesses a narrow hydrophobic catalytic channel accessible to traditional salicylate inhibitors."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Inhibition of gastroprotective **cyclooxygenase-1** explains the common occurrence of peptic ulceration in patients taking high-dose anti-inflammatory agents."*

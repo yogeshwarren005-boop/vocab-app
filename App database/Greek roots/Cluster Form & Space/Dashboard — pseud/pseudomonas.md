@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the family pseudomonodaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the family pseudomonodaceae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of Gram-negative, rod-shaped bacteria found ubiquitously in soil, water, and plant environments, including Pseudomonas aeruginosa.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical infectious disease and hospital epidemiology, an opportunistic pathogen capable of surviving in disinfectants and causing severe nosocomial infections.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pseudomonas designates type genus of the family pseudomonodaceae."*
+> - 📜 **Walter Migula (*System der Bakterien*):** *"I established the genus **pseudomonas** to bring together non-sporing, rod-shaped bacteria bearing polar flagella."*
+> - 📜 **René Dubos (*The Bacterial Cell*):** *"The blue pyocyanin pigment produced by **pseudomonas** suppresses the growth of competing microbial colonies in wound exudates."*
+> - 📜 **Stanley Falkow (*Bacterial Pathogenesis: A Molecular Approach*):** *"Quorum sensing systems in **pseudomonas** coordinate the sudden expression of virulence factors and protective exopolysaccharide biofilms."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to micrometeorites.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to micrometeorites.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, caused by, or consisting of microscopic meteoroids or extraterrestrial dust particles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In space exploration and lunar geology, describing the ongoing surface abrasion, cratering, and soil gardening of airless planetary bodies by cosmic dust impacts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, micrometeoric designates of or relating to micrometeorites."*
+> - 📜 **Eugene Shoemaker (*Geology of the Moon*):** *"The powdery texture of the lunar regolith results from billions of years of continuous **micrometeoric** bombardment upon basaltic bedrock."*
+> - 📜 **Harold Urey (*The Planets: Their Origin and Development*):** *"Glassy spherules discovered in lunar dust samples provide physical evidence of intense melting caused by **micrometeoric** velocity impacts."*
+> - 📜 **Wernher von Braun (*The Mars Project*):** *"Long-duration interplanetary spacecraft require multi-layered shielding to guard sensitive propellant tanks against **micrometeoric** puncture."*

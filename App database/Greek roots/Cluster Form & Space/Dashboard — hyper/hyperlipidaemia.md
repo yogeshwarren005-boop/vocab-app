@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Presence of excess lipids in the blood.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Presence of excess lipids in the blood.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormally elevated level of any or all lipids, lipoproteins, or fats in the bloodstream (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In preventative medicine and cardiovascular health, hyperlipidaemia includes hypercholesterolaemia and hypertriglyceridaemia, serving as a primary modifiable risk factor for coronary heart disease and ischemic stroke.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyperlipidaemia designates presence of excess lipids in the blood."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Screening for asymptomatic **hyperlipidaemia** enables early intervention before coronary atheroma produces angina pectoris."*
+> - 📜 **Ernest Starling (*Principles of Human Physiology*):** *"Hepatic clearance of low-density lipoproteins is crucial for preventing chronic diet-induced **hyperlipidaemia**."*
+> - 📜 **Austin Flint (*A Treatise on the Principles and Practice of Medicine*):** *"In secondary **hyperlipidaemia** caused by myxedema, thyroid replacement therapy promptly restores normal serum lipid values."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek oec.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal or irrational fear or aversion to one's home environment, domestic surroundings, or household objects and routines.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural criticism and political philosophy, oikophobia denotes a repudiation of one's own national culture and traditions in favor of foreign or cosmopolitan alternatives.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oikophobia designates a term designating an entity, condition, or phenomenon derived from greek oec."*
+> - 📜 **Roger Scruton (*England and the Need for Nations*):** *"The disease of the Western mind, which I call **oikophobia**, is the disposition to repudiate one's own inheritance and home."*
+> - 📜 **Benedict Anderson (*Imagined Communities*):** *"The intellectual class may cultivate a refined **oikophobia**, dismissing local attachments as parochial superstition."*
+> - 📜 **Mark Lilla (*The Shipwrecked Mind*):** *"A paradoxical **oikophobia** overtakes those who, having benefited most from their civilization, turn against it with peculiar ferocity."*

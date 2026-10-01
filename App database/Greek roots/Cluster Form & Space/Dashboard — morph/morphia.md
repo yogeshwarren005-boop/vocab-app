@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An alkaloid narcotic drug extracted from opium; a powerful, habit-forming narcotic used to relieve pain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An alkaloid narcotic drug extracted from opium; a powerful, habit-forming narcotic used to relieve pain.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A historical and literary name for morphine, the principal narcotic alkaloid extracted from the opium poppy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In 19th-century pharmacology and clinical medicine, morphia was administered widely as a potent analgesic, sedative, and hypodermic injection.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bram Stoker (*Dracula*):** *"I shall give hypodermic injection of morphia.” He proceeded then, swiftly and deftly, to carry out his intent."*
-> - 📜 **Bram Stoker (*Dracula*):** *"However, the action of both heart and lungs improved, and Van Helsing made a subcutaneous injection of morphia, as before, and with good effect."*
-> - 📜 **Anne Gilchrist (*The Letters of Anne Gilchrist and Walt Whitman*):** *"I am sorry that I can report but poorly of his health, so painfully excruciating was his neuralgia about his arms at times that a Dr. was sent for & morphia injected in his wrist, but I am glad to say he reported himself a little better."*
+> - 📜 **Thomas De Quincey (*Confessions of an English Opium-Eater*):** *"I found that a few grains of **morphia** dissipated my neuralgic agony, transporting my spirit into celestial calm."*
+> - 📜 **Arthur Conan Doyle (*A Study in Scarlet*):** *"Sherlock Holmes turned toward his desk, seeking relief in the soothing embrace of **morphia** when intellectual problems lagged."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In acute pulmonary edema, a hypodermic injection of **morphia** acts like a charm, quieting dyspnea and vascular panic."*

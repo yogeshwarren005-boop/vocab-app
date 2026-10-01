@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or being an orthosis or orthotic; also : of or relating to orthotics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Orthosis; especially : a supportive device inserted into a shoe usually to stabilize the foot, correct alignment, or provide cushioning.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to an orthosis; serving to support, align, or correct musculoskeletal deformities and biomechanical alignment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An orthopedic device, support, or shoe insert (noun) engineered to relieve pain and enhance locomotor mechanics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, orthotic designates of, relating to, or being an orthosis or orthotic; also : of or relating to orthotics."*
+> - 📜 **Jacqueline Perry (*Gait Analysis*):** *"Custom **orthotic** intervention can redistribute plantar pressures and correct pathological rearfoot valgus."*
+> - 📜 **Michelle M. Lusardi (*Orthotics and Prosthetics in Rehabilitation*):** *"An effective **orthotic** design applies controlled three-point pressure systems to stabilize unstable skeletal joints."*
+> - 📜 **Kevin A. Kirby (*Foot and Lower Extremity Biomechanics*):** *"The modern functional **orthotic** controls abnormal subtalar joint pronation during the midstance phase of gait."*

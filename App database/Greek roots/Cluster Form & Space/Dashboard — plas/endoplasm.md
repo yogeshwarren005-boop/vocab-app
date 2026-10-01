@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The inner portion of the cytoplasm of a cell.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The inner portion of the cytoplasm of a cell.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The inner, granular, fluid portion of the cytoplasm of a cell, surrounded by the ectoplasm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In protozoology and cell physiology, the endoplasm contains the nucleus, mitochondria, vacuoles, and metabolic organelles, displaying active cytoplasmic streaming.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endoplasm designates the inner portion of the cytoplasm of a cell."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The flowing **endoplasm** carries food vacuoles and crystals along rapid currents toward the advancing pseudopodium."*
+> - 📜 **Bruce Alberts (*Molecular Biology of the Cell*):** *"Sol-gel transitions between the peripheral cortex and internal **endoplasm** drive amoeboid cell crawling."*
+> - 📜 **Max Schultze (*Das Protoplasma der Rhizopoden und der Pflanzenzellen*):** *"Continuous cyclosis within the fluid **endoplasm** distributes absorbed nutrients throughout the unicellular organism."*

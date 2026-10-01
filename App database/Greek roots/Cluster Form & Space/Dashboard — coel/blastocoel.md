@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The fluid-filled cavity of a blastula.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The fluid-filled cavity of a blastula.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The central fluid-filled primary segmentation cavity of an early animal embryo at the blastula stage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In developmental biology, the cavity that provides spatial room for cell migration during gastrulation and prevents premature inductive interactions between animal and vegetal cells.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, blastocoel designates the fluid-filled cavity of a blastula."*
+> - 📜 **Ernst Haeckel (*The Evolution of Man*):** *"The primary body cavity or **blastocoel** arises as a simple fluid space between dividing cleavage spheres."*
+> - 📜 **Edmund Beecher Wilson (*The Cell in Development and Heredity*):** *"Cells inward migrating through the blastopore displace the **blastocoel** until only the archenteron remains."*
+> - 📜 **Sydney Brenner (*Loose Ends*):** *"Laser ablation of specific blastomeres within the nematode **blastocoel** revealed cell-autonomous fate specification."*

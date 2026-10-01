@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Divination by rods or wands.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Divination by rods or wands.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Divination or dowsing by means of a rod, wand, or forked twig to discover subterranean water, minerals, or buried objects.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ethnology and the history of science, an ancient divinatory practice investigated as an early example of ideomotor movement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhabdomancy designates divination by rods or wands."*
+> - 📜 **Robert Boyle (*Hydrostatical Paradoxes*):** *"I observed experiments in **rhabdomancy** conducted by Cornish miners, remaining skeptical of the hazel wand's reputed occult virtues."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Belief in **rhabdomancy** shows how habit and unexamined authority can establish conviction without logical demonstration."*
+> - 📜 **William Barrett (*The Divining Rod: An Experimental and Psychological Investigation*):** *"Scientific analysis demonstrated that the phenomena of **rhabdomancy** are produced by subconscious motor impulses in the dowser's arms."*

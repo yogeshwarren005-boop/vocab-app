@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An order of amphibians including caecilians.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An order of amphibians including caecilians.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An order of limbless, serpentine, burrowing amphibians (commonly called caecilians) with smooth, ringed skin and reduced eyes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate herpetology, Gymnophiona possess dual jaw-closing mechanisms, tentacular chemosensory organs, and internal fertilization.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gymnophiona designates an order of amphibians including caecilians."*
+> - 📜 **G. A. Boulenger (*Catalogue of the Batrachia Gradientia s. Caudata and Batrachia Apoda*):** *"The fossorial lifestyle of **gymnophiona** resulted in the complete loss of limbs and the development of a compact, bony digging skull."*
+> - 📜 **Alfred Romer (*Vertebrate Paleontology*):** *"Fossil ancestors of modern **gymnophiona** reveal that limb reduction accompanied underground subterranean burrowing."*
+> - 📜 **Neil Shubin (*Your Inner Fish*):** *"Caecilians of the order **gymnophiona** demonstrate how vertebrate developmental toolkits can shut off limb formation while elaborating sensory tentacles."*

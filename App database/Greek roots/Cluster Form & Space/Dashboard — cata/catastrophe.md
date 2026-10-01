@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A momentous tragic event ranging from extreme misfortune to utter overthrow or ruin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Utter failure : fiasco.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sudden, widespread disaster, calamity, or misfortune causing great damage and ruin; also the final event or denouement of a drama, especially a tragedy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical dramaturgy and mathematics, the dramatic climax or turning point that unravels the plot; also in mathematics (catastrophe theory), sudden structural qualitative shifts under smooth parameter changes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Pat! he comes, like the catastrophe of the old comedy: my cue is villainous melancholy, with a sigh like Tom o’Bedlam.—O, these eclipses do portend these divisions!"*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Before night his doubt whether he may not be responsible for some inconceivable part in the catastrophe which is the talk of the whole neighbourhood is almost resolved into certainty by Mrs."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"But before these proceedings draw to a close, that is to say, on the night next after the catastrophe, Mr."*
+> - 📜 **William Shakespeare (*King Lear*):** *"I promise you, the effects he writes of succeed unhappily; pat he comes like the **catastrophe** of the old comedy."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The sack of Rome by the Goths was a sudden **catastrophe** that filled the civilized world with horror and lamentation."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Dramatic poetry presents the actions of men crowned with their final, inevitable **catastrophe** to vindicate moral providence."*

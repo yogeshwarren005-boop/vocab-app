@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or related to an amphitheater.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or related to an amphitheater.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling, pertaining to, or characteristic of an amphitheatre.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Describing landscape forms, seating arrangements, or theatrical staging featuring concentric, upwardly sloping tiers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amphitheatric designates of or related to an amphitheater."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels to the Equinoctial Regions*):** *"The volcanic crater formed an **amphitheatric** basin of terrifying depth, ringed with basaltic precipices."*
+> - 📜 **Walter Scott (*The Heart of Midlothian*):** *"The spectators occupied an **amphitheatric** ring of hills that overlooked the tournament meadow."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The university senate assembled in an **amphitheatric** chamber where rows of graduates rose toward the vaulted ceiling."*

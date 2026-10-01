@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: More active than normal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: More active than normal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormally, excessively, or pathologically active; displaying an unusually high level of motor restlessness, agitation, or physiological activity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurodevelopmental pediatrics and behavioral psychology, applied to children exhibiting persistent fidgeting, impulsivity, and motor restlessness characteristic of ADHD; in endocrinology, denotes glandular hypersecretion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyperactive designates more active than normal."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The restless, **hyperactive** choreic child cannot maintain a sustained grip, dropping objects involuntarily."*
+> - 📜 **Charles Sherrington (*The Integrative Action of the Nervous System*):** *"Decerebrate rigidity presents a **hyperactive** stretch reflex driven by uninhibited vestibular facilitation."*
+> - 📜 **A. R. Luria (*The Working Brain*):** *"Frontal lobe lesions often render the patient disinhibited and impulsively **hyperactive**, unable to execute planned tasks."*

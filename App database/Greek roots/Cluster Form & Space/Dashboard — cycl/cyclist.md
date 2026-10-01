@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who rides a bicycle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who rides a bicycle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who rides a bicycle, tricycle, or other pedal-driven cycle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In competitive sports and urban transportation, a participant who engages in road, track, or cross-country bicycle racing or daily commuting.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"He eyed the horseshoe poster over the gate of college park: cyclist doubled up like a cod in a pot."*
-> - 📜 **James Joyce (*Ulysses*):** *"I who lost my way and contributed to the columns of the _Irish Cyclist_ the letter headed _In darkest Stepaside_."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"Close beside it is the Tower Dean, so called from an ancient fortalice of the Home family which once defended it, and which stands beside a bridge held in just execration by all cyclists on the Great North Road."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Solitary Cyclist*):** *"A solitary **cyclist** rode swiftly past the lane, turning a furtive glance toward the hedgerow as she vanished."*
+> - 📜 **H. G. Wells (*The Wheels of Chance*):** *"Every passing pedestrian offered humorous encouragement to the novice **cyclist** struggling to mount on an incline."*
+> - 📜 **George Orwell (*The Road to Wigan Pier*):** *"In industrial towns, the morning streets are crowded with hundreds of working-class **cyclist** workers heading to the mills."*

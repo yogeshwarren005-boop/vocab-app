@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek cleithr.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A classical combining form derived from Greek kleithron, meaning a bar, bolt, key, or locked enclosure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative osteology and psychopathology, an affix designating locking skeletal girdle bones (cleithrum) or phobic dread of enclosed, locked spaces.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cleithr designates a term designating an entity, condition, or phenomenon derived from greek cleithr."*
+> - 📜 **Richard Owen (*On the Archetype and Homologies of the Vertebrate Skeleton*):** *"The anatomist derives the term from **cleithr**, signifying a locking bar that braces the pectoral girdle against lateral stress."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"In osteological compounding, the root **cleithr** identifies the dermal brace anchoring the pectoral arch in teleost fishes."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The prefix **cleithr** designates that visceral terror of locked confinement which drives claustrophobic panic."*

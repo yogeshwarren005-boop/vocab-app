@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In some classifications considered a subfamily of triglidae comprising the armored searobins.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In some classifications considered a subfamily of triglidae comprising the armored searobins.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A subfamily (or family Peristediidae) of scorpaeniform marine fishes commonly known as armored searobins.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ichthyology, peristediine fishes inhabit deep continental shelf slopes and are characterized by heavy bony scutes and chin barbels.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, peristediinae designates in some classifications considered a subfamily of triglidae comprising the armored searobins."*
+> - 📜 **David Starr Jordan (*The Fishes of North and Middle America*):** *"The **Peristediinae** are distinguished by an exoskeleton of bony plates and rostral extensions resembling horns."*
+> - 📜 **George Brown Goode (*Oceanic Ichthyology*):** *"Deep-water trawls off the Atlantic slope frequently capture curious armored specimens of **Peristediinae**."*
+> - 📜 **William K. Gregory (*Fish Skulls: A Study of the Evolution of Natural Mechanisms*):** *"The cranium in **Peristediinae** exhibits extensive dermal armor that protects the braincase during seafloor foraging."*

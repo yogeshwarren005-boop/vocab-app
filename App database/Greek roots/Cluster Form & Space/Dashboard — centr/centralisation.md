@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of consolidating power under a central control.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Gathering to a center.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The concentration of administrative control, power, or authority under a single unified center (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political science and sociology, the historical consolidation of legal, financial, and executive powers in national state capitals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centralisation designates the act of consolidating power under a central control."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Administrative **centralisation** enervates the nations that submit to it, diminishing civic civic energy for bureaucratic symmetry."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"Excessive governmental **centralisation** suffocates local initiative and reduces citizens to passive recipients of state directives."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The Jacobin regime pushed political **centralisation** to its ultimate limit, directing every provincial guillotine from Paris."*

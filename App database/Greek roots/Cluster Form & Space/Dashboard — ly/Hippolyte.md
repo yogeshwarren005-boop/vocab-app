@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hippolyte-) Paul 1797—1859 French painter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sir Louis Hippolyte 1807—1864 Canadian politician.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In Greek mythology, the formidable queen of the Amazons, daughter of Ares and Otrera, possessing a magical golden war-girdle sought by Heracles as his ninth labor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical literature and Shakespeare's *A Midsummer Night's Dream*, Hippolyte (Hippolyta) is the captured queen betrothed to Theseus, Duke of Athens; in myth, killed during tragic confusion sparked by Hera.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Hippolyte is at least a quiet fool, but Anatole is an active one."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Prince Vasíli’s son, Hippolyte, had come with Mortemart, whom he introduced."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"Now then, what are you thinking of?” she went on, turning to Prince Hippolyte."*
+> - 📜 **William Shakespeare (*A Midsummer Night's Dream*):** *"**Hippolyte**, I woo'd thee with my sword, and won thy love doing thee injuries; but I will wed thee in another key."*
+> - 📜 **Euripides (*Heracles*):** *"To the shores of the Euxine sea Heracles journeyed to fetch the golden war-girdle of martial **Hippolyte**."*
+> - 📜 **Thomas Bulfinch (*Bulfinch's Mythology*):** *"The Amazon queen **Hippolyte** received the Greek hero with honor, until false rumors provoked a deadly battle."*

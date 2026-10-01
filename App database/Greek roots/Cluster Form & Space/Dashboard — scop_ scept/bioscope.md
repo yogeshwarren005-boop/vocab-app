@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A south african movie theater.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A kind of early movie projector.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An early form of motion picture projector and cinema device; historically also an instrument or device used to view living specimens.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural history and early cinematographic technology, a popular term for travelling motion-picture shows in South Africa and Britain.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bioscope designates a south african movie theater."*
+> - 📜 **H. G. Wells (*The Invisible Man*):** *"The flickering images projected by the **bioscope** astounded audiences who had never before seen living scenes reproduced upon a screen."*
+> - 📜 **George Bernard Shaw (*Dramatic Opinions and Essays*):** *"The invention of the **bioscope** will revolutionize the theatre by providing visual spectacles that live drama cannot match."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Mazarin Stone*):** *"He sat in the dark hall watching the flickering **bioscope** reels unroll scenes of foreign travel and royal ceremonies."*

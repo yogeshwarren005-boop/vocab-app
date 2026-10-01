@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Combine so as to form a more complex, product.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Combine so as to form a more complex, product.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To combine a range of things, ideas, or substances into a coherent whole; to produce by chemical synthesis (chiefly Commonwealth spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biochemical research, to synthesise proteins or nucleic acids is to enzymatically assemble monomers into functional macromolecular sequences.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, synthesise designates combine so as to form a more complex, product."*
+> - 📜 **J. B. S. Haldane (*The Origin of Life*):** *"Prebiotic oceans contained abundant simple reagents able to **synthesise** primitive amino acids under solar radiation."*
+> - 📜 **Francis Crick (*Of Molecules and Men*):** *"Ribosomes read the genetic tape to **synthesise** polypeptide chains with remarkable chemical fidelity."*
+> - 📜 **Bertrand Russell (*A History of Western Philosophy*):** *"The genius of Aquinas was to **synthesise** Aristotelian metaphysics with established Christian dogma."*

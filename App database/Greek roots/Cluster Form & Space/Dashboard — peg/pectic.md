@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or derived from pectin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various water-insoluble substances formed by hydrolyzing the methyl ester groups of pectins.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or derived from pectin; resembling jelly or gelatin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant biochemistry and cell biology, pectic polysaccharides (such as homogalacturonan and rhamnogalacturonan) constitute the middle lamella that cements plant cell walls.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pectic designates of, relating to, or derived from pectin."*
+> - 📜 **Katherine Esau (*Plant Anatomy*):** *"The middle lamella consists predominantly of calcium **pectic** gel that cements adjacent primary cell walls together."*
+> - 📜 **Anselme Payen (*Memoire sur la Composition des Parois Cellulaires*):** *"Extraction with mild alkali isolates the soluble **pectic** constituents of the fruit tissue."*
+> - 📜 **Lincoln Taiz (*Plant Physiology*):** *"Pectin methylesterases modify **pectic** polymers to regulate cell wall loosening during elongation growth."*

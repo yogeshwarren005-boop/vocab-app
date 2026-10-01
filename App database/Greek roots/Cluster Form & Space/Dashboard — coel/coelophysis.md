@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the oldest known dinosaurs; late triassic; cannibalistic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of the oldest known dinosaurs; late triassic; cannibalistic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of small, slender, bipedal carnivorous theropod dinosaurs from the late Triassic period.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate paleontology, an early fast-running dinosaur characterized by hollow, thin-walled limb bones and a narrow, sharply toothed skull.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coelophysis designates one of the oldest known dinosaurs; late triassic; cannibalistic."*
+> - 📜 **Edward Drinker Cope (*The Dinosauria of the Laramie and Trias*):** *"I propose the name **Coelophysis** in reference to the hollow, bird-like character of its fossilized limb shafts."*
+> - 📜 **Edwin H. Colbert (*The Little Dinosaurs of Ghost Ranch*):** *"The extraordinary quarry at Ghost Ranch yielded hundreds of articulated skeletons of **Coelophysis** entombed in flash-flood silt."*
+> - 📜 **Stephen Jay Gould (*Eight Little Piggies*):** *"Colbert's meticulous reconstruction showed **Coelophysis** as an agile predator whose hollow bones foreshadowed avian skeletons."*

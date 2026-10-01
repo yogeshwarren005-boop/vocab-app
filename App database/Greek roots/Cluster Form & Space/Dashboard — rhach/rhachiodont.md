@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek rhach.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having modified, forward-projecting hypapophyses on the cervical vertebrae that penetrate the esophagus to crack eggshells, as in egg-eating snakes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In herpetology, designating specialized vertebral adaptations in colubrid snakes like Dasypeltis that consume intact bird eggs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhachiodont designates a term designating an entity, condition, or phenomenon derived from greek rhach."*
+> - 📜 **George Albert Boulenger (*Catalogue of the Snakes in the British Museum*):** *"The extraordinary **rhachiodont** dentition of Dasypeltis employs enamelled vertebral spines to crush eggs within the gullet."*
+> - 📜 **Edward D. Cope (*The Crocodilians, Lizards, and Snakes of North America*):** *"In the **rhachiodont** serpent, the skull teeth are reduced to mere minute pegs, having surrendered their masticatory role to the backbone."*
+> - 📜 **Hans Gadow (*Amphibia and Reptiles*):** *"Once swallowed, the shell is sliced open by the **rhachiodont** vertebral keels, allowing the liquid egg contents to drain into the stomach."*

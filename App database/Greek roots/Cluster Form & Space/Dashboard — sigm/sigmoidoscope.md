@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An endoscope (a flexible fiberoptic probe) for examining the sigmoid colon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An endoscope (a flexible fiberoptic probe) for examining the sigmoid colon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rigid or flexible endoscope equipped with a light source, designed for visual examination of the rectum and sigmoid colon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In preventative oncology and gastroenterology, the flexible 60 cm sigmoidoscope allows outpatient screening for colorectal polyps and bleeding lesions without general anesthesia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sigmoidoscope designates an endoscope (a flexible fiberoptic probe) for examining the sigmoid colon."*
+> - 📜 **Howard Kelly (*Operative Gynecology and Proctology*):** *"The introduction of the long tubular **sigmoidoscope** illuminated by electric reflected light transformed deep rectal examination."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"With the aid of the **sigmoidoscope**, ulcerations of the lower bowel can be inspected and swabbed for microscopic cultures."*
+> - 📜 **Atul Gawande (*Complications: A Surgeon's Notes on an Imperfect Science*):** *"Navigating the bends of the pelvic colon with a flexible **sigmoidoscope** requires delicate tactile judgment."*

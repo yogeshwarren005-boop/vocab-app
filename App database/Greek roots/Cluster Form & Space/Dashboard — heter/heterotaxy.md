@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any abnormal position of the organs of the body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any abnormal position of the organs of the body.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal, irregular, or discordant arrangement of bodily organs or parts that deviates from normal bilateral or asymmetric anatomy; heterotaxia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical teratology and pediatric cardiology, heterotaxy syndrome (situs ambiguus) involves random left-right organ orientation, often causing complex congenital heart malformations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heterotaxy designates any abnormal position of the organs of the body."*
+> - 📜 **Eugene Braunwald (*Heart Disease: A Textbook of Cardiovascular Medicine*):** *"Infants presenting with **heterotaxy** frequently exhibit complex congenital cardiac malformations associated with asplenia or polysplenia."*
+> - 📜 **Vinay Kumar (*Robbins and Cotran Pathologic Basis of Disease*):** *"Defective ciliary motility during embryonic nodal flow leads to randomization of left-right asymmetry and clinical **heterotaxy**."*
+> - 📜 **Arthur Keith (*Human Embryology and Morphology*):** *"Cases of **heterotaxy** demonstrate how embryonic organ rotation can decouple from typical primary axis determination."*

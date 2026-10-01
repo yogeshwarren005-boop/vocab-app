@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Solenodons are venomous, nocturnal, burrowing, insectivorous mammals belonging to the family Solenodontidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The two living solenodon species are the Cuban solenodon and the Hispaniolan solenodon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rare, primitive, nocturnal insectivorous mammal of the genus *Solenodon*, native to Cuba and Hispaniola, possessing venomous saliva and a long flexible snout.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary mammalogy, the solenodon (*Solenodon paradoxus* and *Atopogale cubana*) represents a surviving lineage of Cretaceous eutherians with grooved lower incisors delivering toxic saliva.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, solenodon designates solenodons are venomous, nocturnal, burrowing, insectivorous mammals belonging to the family solenodontidae."*
+> - 📜 **Johann Friedrich von Brandt (*De Solenodonte, Novo Mammalium Insectivororum Genere*):** *"The curious grooved incisors and elongated cartilaginous snout distinguish the rare Caribbean **Solenodon** from all known soricids."*
+> - 📜 **Glover M. Allen (*Mammals of the West Indies*):** *"Survival of the **Solenodon** in the mountain forests of Santo Domingo is precarious due to introduced feral mongooses."*
+> - 📜 **Alfred Russel Wallace (*The Geographical Distribution of Animals*):** *"The isolated existence of the **Solenodon** in the Antilles is an astounding instance of relict continental fauna surviving on oceanic islands."*

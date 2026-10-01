@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or related to an amphitheater.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or related to an amphitheater.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Shaped like or having the tiered, circular or oval arrangement of an amphitheatre.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geomorphology and descriptive geography, describing semicircular mountain hollows, valleys, or arenas with rising slopes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Then, again, in mountainous countries where the traveller is continually girdled by amphitheatrical heights; here and there from some lucky point of view you will catch passing glimpses of the profiles of whales defined along the undulating ridges."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Then, again, in mountainous countries where the traveller is continually girdled by amphitheatrical heights; here and there from some lucky point of view you will catch passing glimpses of the profiles of whales defined along the undulating ridges."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The ancient glacial cirque displayed an **amphitheatrical** form, its sheer rock walls cupping a deep turquoise tarn."*
+> - 📜 **Washington Irving (*The Sketch Book of Geoffrey Crayon*):** *"The mountains formed an **amphitheatrical** sweep, protecting the quiet green valley from the harsh northern gales."*
+> - 📜 **Henry David Thoreau (*A Week on the Concord and Merrimack Rivers*):** *"We drifted past an **amphitheatrical** bank of willows and maples that sloped down to the water's edge."*

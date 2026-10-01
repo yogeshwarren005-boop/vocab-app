@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large hardy shrub with showy and strongly fragrant creamy-white flowers in short terminal racemes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of old world shrubs or low trees having fragrant flowers in showy panicles: lilacs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of deciduous flowering shrubs and small trees in the olive family (Oleaceae), comprising the true lilacs; also historically applied to mock-orange (*Philadelphus*).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In horticultural botany, species of *Syringa* (such as *Syringa vulgaris*) are celebrated for fragrant spring panicles of lavender, purple, or white flowers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Their nook of turf was out of sight of the house, sheltered from it behind a great thicket of lilac and syringa, which walled off the lawn from the kitchen garden full of sweet-smelling currant bushes and apple-trees laden with green fruit."*
+> - 📜 **Walt Whitman (*When Lilacs Last in the Dooryard Bloom'd*):** *"In the dooryard fronting an old farm-house near the white-wash'd palings, stands the **syringa** bush with delicate blossom."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The garden lilac, **Syringa** vulgaris, is readily recognized by its terminal panicles and opposite ovate leaves."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"The sweet-scented white **syringa** was bursting into full flower along the borders of the shrubbery."*

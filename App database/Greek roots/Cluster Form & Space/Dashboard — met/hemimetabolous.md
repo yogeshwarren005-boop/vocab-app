@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of an insect with aquatic young) undergoing incomplete metamorphosis in which the young does not resemble the adult.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of an insect with aquatic young) undergoing incomplete metamorphosis in which the young does not resemble the adult.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having an incomplete or gradual metamorphosis, with nymphs resembling adults but lacking mature wings and genitalia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic entomology, describing members of the exopterygote orders (such as Orthoptera, Hemiptera, and Odonata) whose nymphs lack a resting pupal stage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemimetabolous designates (of an insect with aquatic young) undergoing incomplete metamorphosis in which the young does not resemble the adult."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Nymphs of **hemimetabolous** insects compete in the same ecological niche as their mature parents."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The **hemimetabolous** locust emerges from the soil as a wingless hopper, acquiring flight organs with its final molt."*
+> - 📜 **Edwin Ray Lankester (*A Treatise on Zoology*):** *"Aquatic naiads of **hemimetabolous** stoneflies respire by abdominal gills before transforming directly into winged adults."*

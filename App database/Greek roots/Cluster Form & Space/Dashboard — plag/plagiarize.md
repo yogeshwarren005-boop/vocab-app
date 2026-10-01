@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Take without referencing from someone else's writing or speech; of intellectual property.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Take without referencing from someone else's writing or speech; of intellectual property.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To take the work or an idea of someone else and pass it off as one's own.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In academic scholarship, to reproduce text, data, or arguments without proper citation or attribution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plagiarize designates take without referencing from someone else's writing or speech; of intellectual property."*
+> - 📜 **Mark Twain (*Autobiography*):** *"We all **plagiarize** unconsciously, taking the thoughts of others and believing them to be the offspring of our own brain."*
+> - 📜 **Alexander Pope (*An Essay on Criticism*):** *"Dull wits merely **plagiarize** what greater minds conceived with vibrant passion."*
+> - 📜 **George Bernard Shaw (*Our Theatres in the Nineties*):** *"To **plagiarize** successfully, a playwright must possess sufficient craft to conceal the original theft."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to gymnosophy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to gymnosophy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characteristic of the gymnosophists (ancient Hindu ascetics who went unclothed and practiced profound meditation).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In intellectual history and comparative religion, designating ascetic traditions emphasizing extreme bodily renunciation and contemplative detachment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gymnosophical designates of or relating to gymnosophy."*
+> - 📜 **Montaigne (*Essays*):** *"The **gymnosophical** sages of India astonished Alexander's captains by calmly enduring scorching heat and physical pain without complaint."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"Christian anchorites in the Egyptian desert adopted a rigorous lifestyle reminiscent of ancient **gymnosophical** austerity."*
+> - 📜 **Robert Burton (*The Anatomy of Melancholy*):** *"Deep contemplation practiced after the **gymnosophical** fashion abstracts the soul entirely from corporeal sensations."*

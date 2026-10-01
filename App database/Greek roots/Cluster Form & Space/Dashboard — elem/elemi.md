@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fragrant resin obtain from trees of the family burseraceae and used as incense.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fragrant resin obtain from trees of the family burseraceae and used as incense.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A fragrant, pale-yellow oleoresin obtained from various tropical trees, especially Canarium luzonicum, used in varnishes, lacquers, and ointments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In traditional pharmacognosy and perfumery, elemi imparts spicy, citrus-peppery balsam notes and acts as a skin-soothing plasticizer.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, elemi designates fragrant resin obtain from trees of the family burseraceae and used as incense."*
+> - 📜 **Robert Bentley (*Medicinal Plants*):** *"Manila **elemi** exudes as a soft resin that hardens upon exposure, possessing a fragrant fennel-like aroma."*
+> - 📜 **G. W. Askinson (*Perfumes and Cosmetics: Their Preparation and Manufacture*):** *"The inclusion of gum **elemi** in protective varnishes ensures flexibility and high gloss resistance."*
+> - 📜 **Jonathan Pereira (*The Elements of Materia Medica and Therapeutics*):** *"Topical unguents containing **elemi** stimulate indolent ulcer healing through mild counter-irritation."*

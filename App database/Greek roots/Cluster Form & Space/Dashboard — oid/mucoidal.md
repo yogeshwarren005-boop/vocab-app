@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or resembling mucus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or resembling mucus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the quality or appearance of mucoid tissue; pertaining to or characterized by a mucus-like substance or consistency.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In histopathology, mucoidal refers to degenerative changes in connective tissues where intercellular ground substance accumulates mucin-rich material.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mucoidal designates relating to or resembling mucus."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"The **mucoidal** transformation of the cartilaginous matrix proceeded with alarming rapidity."*
+> - 📜 **Henry Gray (*Gray's Anatomy*):** *"Certain tumors exhibit a distinctly **mucoidal** stroma rich in glycosaminoglycans."*
+> - 📜 **Gruber and Gruber (*Handbook of Pathological Anatomy*):** *"The **mucoidal** character of the effusion distinguished it from purely serous collections."*

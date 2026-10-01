@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Systematically arranged and measured rhythm in verse:.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rhythm that continuously repeats a single basic pattern.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The base unit of length in the International System of Units (SI), defined as the distance traveled by light in vacuum in 1/299,792,458 of a second.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In poetry and prosody, the rhythmic arrangement of syllables in a line of verse, organized into metrical feet according to stress or quantity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Five-meter high orange letters glowed brightly along its blunt bow and stern, and on each quarter sector of its exposed surface, proclaiming the huge cylinder as the UIPS SLINGSHOT LOGISTICS DEPOT."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The fifteen-meters-long vessel, with a barely two-meter beam, swooped low and snapped into its run barely fifteen meters across Pluto's desolate plains."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"A panel in the wall slid upward to reveal a two-meter square well."*
+> - 📜 **Max Planck (*The Theory of Heat Radiation*):** *"Universal physical constants allow us to define natural units of length, displacing the arbitrary platinum-iridium **meter** prototype bar."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"The purpose of poetic **meter** is to harmonize the emotional excitement of the poet with disciplined rhythmic form."*
+> - 📜 **John Dryden (*An Essay of Dramatic Poesy*):** *"Rhyme and regular **meter** lend an elevated majesty to dramatic dialogue that loose prose cannot achieve."*

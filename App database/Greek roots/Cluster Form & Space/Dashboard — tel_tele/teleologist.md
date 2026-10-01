@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Advocate of teleology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Advocate of teleology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A thinker, philosopher, or naturalist who explains natural phenomena and organic structures in terms of ultimate purpose, design, or final ends (*telos*).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical theology, the teleologist argues that the evident complexity and functional adaptation of the cosmos point to an intelligent providential Creator.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, teleologist designates advocate of teleology."*
+> - 📜 **William Paley (*Natural Theology*):** *"The pious **teleologist** argues that an intricate watch demands a watchmaker, and an eye an omniscient artificer."*
+> - 📜 **Thomas Henry Huxley (*Darwiniana*):** *"The modern biologist rejects the assertions of the **teleologist**, explaining biological adaptation by natural variation and survival."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"The scholastic **teleologist** mistakes human preconceptions for natural truth, introducing final causes into mechanical inquiries."*

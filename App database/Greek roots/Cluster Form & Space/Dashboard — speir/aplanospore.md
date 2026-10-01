@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek speir.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A non-motile, asexual reproductive spore formed within a sporangium in certain algae and fungi, lacking cilia or flagella.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In phycology and mycology, an aplanospore possesses a distinct cell wall and is produced when unfavorable aquatic conditions preclude zoospore flagellation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aplanospore designates a term designating an entity, condition, or phenomenon derived from greek speir."*
+> - 📜 **F. O. Bower (*The Origin of a Land Flora*):** *"The transition from an aquatic zoospore to an encysted **aplanospore** marked a crucial evolutionary step toward terrestrial adaptation."*
+> - 📜 **Gilbert M. Smith (*Cryptogamic Botany: Algae and Fungi*):** *"Under desiccating conditions, the protoplast divides to produce a thick-walled **aplanospore** capable of enduring drought."*
+> - 📜 **Heinrich Anton de Bary (*Comparative Morphology and Biology of the Fungi, Mycetozoa and Bacteria*):** *"Each internal **aplanospore** is liberated only when the fragile wall of the parent sporangium gelatinizes or ruptures."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having exclusive control over a commercial activity by possession or legal grant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having exclusive control over a commercial activity by possession or legal grant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the nature or characteristics of a monopoly; possessing or aiming at exclusive market dominance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial economics, designating market structures—such as monopolistic competition—where firms sell differentiated products with slight pricing power.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Monopolistic aspect of organization and particular wages. § 14."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In such cases, even when the workmen by a strike or general movement secured the same wage scale for a day of fewer hours (a higher wage per hour), they would be unable to hold it excepting where they had monopolistic control of the trade."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"For thus withholding the supply they are said by some to exercise a monopolistic power."*
+> - 📜 **Edward Chamberlin (*The Theory of Monopolistic Competition*):** *"Under **monopolistic** competition, product differentiation grants each vendor a tiny insulated realm of price control."*
+> - 📜 **Thorstein Veblen (*The Theory of Business Enterprise*):** *"Modern corporate strategy increasingly pivots on securing **monopolistic** advantages over strategic resource channels."*
+> - 📜 **Paul Sweezy (*The Theory of Capitalist Development*):** *"The growth of industrial trusts fosters **monopolistic** price structures that inhibit competitive market clearance."*

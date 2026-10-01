@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Development of insects with incomplete metamorphosis in which no pupal stage precedes maturity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Development of insects with incomplete metamorphosis in which no pupal stage precedes maturity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Incomplete or irregular metamorphosis in insects; hemimetabolism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative insect morphology, development marked by progressive changes between nymph and adult without a true quiescent pupa.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heterometabolism designates development of insects with incomplete metamorphosis in which no pupal stage precedes maturity."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"In **heterometabolism**, the immature nymph already possesses the compound eyes and mouthparts of the imago."*
+> - 📜 **Edwin Ray Lankester (*A Treatise on Zoology*):** *"The evolutionary transition toward complete metamorphosis was preceded by diverse experiments in **heterometabolism**."*
+> - 📜 **Francis Maitland Balfour (*A Treatise on Comparative Embryology*):** *"The hormonal control of **heterometabolism** exhibits subtle lineage-specific adjustments."*

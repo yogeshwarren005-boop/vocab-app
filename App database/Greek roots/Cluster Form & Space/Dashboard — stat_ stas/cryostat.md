@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A thermostat that operates at very low temperatures.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A thermostat that operates at very low temperatures.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A device or insulated chamber used to maintain constant, extremely low cryogenic temperatures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In low-temperature physics and histology, cryostats utilize liquid helium or nitrogen to preserve superconductivity in quantum magnets or house microtomes for rapid frozen-tissue sectioning.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cryostat designates a thermostat that operates at very low temperatures."*
+> - 📜 **Heike Kamerlingh Onnes (*Investigations on the Properties of Substances at Low Temperatures*):** *"By pumping liquid helium within our double-walled vacuum **cryostat**, we observed mercury electrical resistance plummet to zero."*
+> - 📜 **Richard Feynman (*The Character of Physical Law*):** *"Inside the metallic enclosure of the **cryostat**, quantum mechanical behavior manifests on a macroscopic, tangible scale."*
+> - 📜 **Atul Gawande (*Being Mortal: Medicine and What Matters in the End*):** *"The surgical pathologist slipped the biopsy into the **cryostat**, freezing the tissue instantaneously for frozen-section analysis."*

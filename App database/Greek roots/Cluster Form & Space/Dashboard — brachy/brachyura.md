@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An order of crustaceans (including true crabs) having a reduced abdomen folded against the ventral surface.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An order of crustaceans (including true crabs) having a reduced abdomen folded against the ventral surface.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The infraorder of decapod crustaceans comprising the true crabs, characterized by a reduced abdomen folded underneath the cephalothorax.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine invertebrate zoology, a highly successful decapod group displaying carcinization, cheliped specialization, and sideways terrestrial locomotion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, brachyura designates an order of crustaceans (including true crabs) having a reduced abdomen folded against the ventral surface."*
+> - 📜 **Thomas Henry Huxley (*The Invertebrata*):** *"The infraorder **Brachyura** represents the morphological climax of decapod evolution, the abdomen tucked permanently beneath the broad carapace."*
+> - 📜 **Rachel Carson (*The Edge of the Sea*):** *"Among the tide pools, countless representatives of **Brachyura** scurry into crevices with claws held poised to strike."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"On the shores of the Keeling Islands, we observed terrestrial **Brachyura** tearing open fallen coconuts with immense chelae."*

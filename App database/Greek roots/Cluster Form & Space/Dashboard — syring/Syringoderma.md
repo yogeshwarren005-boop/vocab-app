@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek syring.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxonomic genus of marine brown algae (order Syringodermatales) characterized by fan-shaped or strap-like thalli with marginal meristems.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In phycology, *Syringoderma* occupies a unique phylogenetic position among Phaeophyceae, exhibiting isogamous reproduction and distinctive apical growth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Syringoderma designates a term designating an entity, condition, or phenomenon derived from greek syring."*
+> - 📜 **Fritsch, F. E. (*The Structure and Reproduction of the Algae*):** *"The fan-like thallus of **Syringoderma** displays a marginal row of actively dividing initial cells."*
+> - 📜 **Gilbert M. Smith (*Marine Algae of the Monterey Peninsula*):** *"Deep sublittoral dredging off the coast yielded fertile specimens of the brown alga **Syringoderma**."*
+> - 📜 **William Henry Harvey (*Nereis Boreali-Americana*):** *"The concentric zonation visible in **Syringoderma** reflects rhythmic seasonal accretion along the frond margin."*

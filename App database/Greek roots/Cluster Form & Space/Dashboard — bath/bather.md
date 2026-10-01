@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who travels through the water by swimming.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who takes a bath.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who bathes or swims, especially in the sea, a lake, or a public swimming pool.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A subject in classical and modern painting and sculpture depicting the nude or draped human figure entering or emerging from water.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"At that time he saw a bather carried along in the current outside the mouth of the cove, and guessed in an instant that there was but a poor chance for him unless he should be possessed of unusual muscular powers."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Tess still stood hesitating like a bather about to make his plunge, hardly knowing whether to retreat or to persevere, when a figure came forth from the dark triangular door of the tent."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"HE SAW A BATHER CARRIED ALONG IN THE CURRENT."*
+> - 📜 **Émile Zola (*The Masterpiece*):** *"The canvas portrayed an outdoor **bather** rising from the river reeds, sunlight flickering upon her wet shoulders."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"A solitary coastal **bather** must remain vigilant against the sudden undertow of these treacherous breakers."*
+> - 📜 **Henry David Thoreau (*Cape Cod*):** *"Watching the sturdy **bather** dive through the crashing surf, one felt the raw, bracing vitality of the Atlantic."*

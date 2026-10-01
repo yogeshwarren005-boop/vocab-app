@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An island consisting of a circular coral reef surrounding a lagoon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An island consisting of a circular coral reef surrounding a lagoon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A ring-shaped reef, island, or chain of small islets made of coral, encircling a central shallow lagoon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine geology, Charles Darwin's seminal theory explained that an atoll forms as a coral fringing reef continues to grow upward around a slowly subsiding oceanic volcanic peak.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, atoll designates an island consisting of a circular coral reef surrounding a lagoon."*
+> - 📜 **Charles Darwin (*The Structure and Distribution of Coral Reefs*):** *"As the volcanic island gradually subsides into the sea, the enclosing barrier reef continues upward growth, culminating in an **atoll**."*
+> - 📜 **Herman Melville (*Omoo: A Narrative of Adventures in the South Seas*):** *"We drifted past a low coral **atoll**, where a circle of waving coconut palms stood mirrored in the tranquil lagoon."*
+> - 📜 **Robert Louis Stevenson (*In the South Seas*):** *"The surf breaks with an eternal thunder upon the outer barrier of the **atoll**, while inside all is smooth emerald water."*

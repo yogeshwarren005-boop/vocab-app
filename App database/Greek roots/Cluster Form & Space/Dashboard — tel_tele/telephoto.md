@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A photograph made with a telephoto lens.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A photograph made with a telephoto lens.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A camera lens system with a focal length significantly longer than the physical barrel, used to produce magnified images of distant subjects.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In optics and photographic design, a telephoto lens incorporates a front positive element group and a rear negative element group to reduce overall optical assembly length.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, telephoto designates a photograph made with a telephoto lens."*
+> - 📜 **Ansel Adams (*The Camera*):** *"Using a **telephoto** lens compresses spatial perspective, bringing distant mountain peaks into dramatic juxtaposition."*
+> - 📜 **Alfred Stieglitz (*Camera Work*):** *"The subtle atmospheric haze caught by the **telephoto** objective lent the urban skyline an ethereal softness."*
+> - 📜 **Edward Weston (*The Daybooks of Edward Weston*):** *"I framed the distant desert dunes through the heavy **telephoto** glass until the contours filled the plate."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek gryp.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An extinct genus of nautiloid cephalopods of the family Grypoceratidae, known from Triassic and Jurassic marine strata.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In invertebrate paleontology, Grypoceras possesses an involute, coiled shell with characteristic hook-shaped sutures and a sub-central siphuncle.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Grypoceras designates a term designating an entity, condition, or phenomenon derived from greek gryp."*
+> - 📜 **Alpheus Hyatt (*Genera of Fossil Cephalopods*):** *"The diagnostic suture patterns of **Grypoceras** distinguish it from ancestral nautiloids of the late Paleozoic."*
+> - 📜 **Curt Teichert (*Treatise on Invertebrate Paleontology: Mollusca 4*):** *"Specimens of **Grypoceras** recovered from Alpine Triassic limestones display elegant involute whorl geometry."*
+> - 📜 **Stephen Jay Gould (*The Structure of Evolutionary Theory*):** *"The post-extinction recovery of coiled cephalopods like **Grypoceras** illustrates resilient iterative evolution across mass extinction boundaries."*

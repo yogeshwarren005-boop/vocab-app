@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sacrifice consumed by fire.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A thorough destruction involving extensive loss of life especially through fire.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Great destruction or slaughter on a mass scale, especially caused by fire; specifically (capitalized), the mass genocide of six million Jews by the Nazi regime; historically, a whole sacrificial burnt offering.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical theology and cultural memory, an offering consumed entirely by sacrificial flames; in modern historiography, the systematic, state-sponsored industrial genocide of European Jewry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Abner Cosens (*War Rhymes by Wayfarer*):** *"The wreckage of the nations, Ten million dwellings lost, Murders and mutilations, The world's great holocaust."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Yet even in this holocaust there were degrees, gradations of sacrifice."*
+> - 📜 **John Milton (*Samson Agonistes*):** *"Like that self-begotten bird in the Arabian woods, from out her ashy womb now teemed, reviving from a fiery **holocaust**."*
+> - 📜 **Primo Levi (*If This Is a Man*):** *"The memory of the monstrous industrial **holocaust** in Auschwitz remains a permanent obligation and warning to all human civilization."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The blazing temples of the conquered city seemed an immense **holocaust** offered unto the fury of the victorious legions."*

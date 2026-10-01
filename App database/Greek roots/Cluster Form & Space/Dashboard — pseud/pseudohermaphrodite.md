@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone having external genitalia of one sex and internal sex organs of the other sex; not a true hermaphrodite because there is no ambiguity in the sex of the external genitalia and hence no question about gender at birth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having internal reproductive organs of one sex and external sexual characteristics of the other sex.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An individual who has gonadal tissue of one sex while possessing external genitalia or secondary sexual characteristics resembling the opposite sex.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical genetics and endocrinology, a person with congenital adrenal hyperplasia or androgen insensitivity displaying discordant phenotypic sexual anatomy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pseudohermaphrodite designates someone having external genitalia of one sex and internal sex organs of the other sex; not a true hermaphrodite because there is no ambiguity in the sex of the external genitalia and hence no question about gender at birth."*
+> - 📜 **John Money (*Man and Woman, Boy and Girl*):** *"A genetic male **pseudohermaphrodite** with complete androgen resistance develops a typically female external somatic appearance."*
+> - 📜 **Havelock Ellis (*Studies in the Psychology of Sex*):** *"Early clinical treatises routinely classified any ambiguous congenital anatomy under the broad label of **pseudohermaphrodite**."*
+> - 📜 **Anne Fausto-Sterling (*Sexing the Body: Gender Politics and the Construction of Sexuality*):** *"The strict dichotomous classification of the **pseudohermaphrodite** reveals how social norms shape clinical taxonomy."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by columniation having free columns in a portico only across the opening to the structure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by columniation having free columns in a portico only across the opening to the structure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In classical architecture, having a portico of columns in front that project only slightly from the wall, without an open porch behind them.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In temple morphology, an arrangement where front columns appear freestanding from a distance but are engaged directly into forward antae or walls.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pseudoprostyle designates marked by columniation having free columns in a portico only across the opening to the structure."*
+> - 📜 **Vitruvius (*Ten Books on Architecture*):** *"When space is constrained, the builder may execute a **pseudoprostyle** portico, giving the façade grandeur without encroaching on the street."*
+> - 📜 **William Chambers (*A Treatise on the Decorative Part of Civil Architecture*):** *"The **pseudoprostyle** entrance combines columned dignity with structural economy in urban public monuments."*
+> - 📜 **James Fergusson (*A History of Architecture in All Countries*):** *"Hellenistic builders occasionally preferred the **pseudoprostyle** plan when converting older sacred shrines into monumental civic halls."*

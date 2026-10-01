@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the endometrium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the endometrium.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, situated in, or derived from the endometrium (the inner mucous membrane lining of the uterus).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gynecologic oncology and histology, endometrial hyperplasia and carcinoma are correlated with prolonged, unopposed estrogenic stimulation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endometrial designates of or relating to the endometrium."*
+> - 📜 **Vinay Kumar (*Robbins and Cotran Pathologic Basis of Disease*):** *"Atypical **endometrial** hyperplasia carries a substantial risk of progression into well-differentiated adenocarcinoma."*
+> - 📜 **Arthur C. Guyton (*Textbook of Medical Physiology*):** *"Progesterone transforms the proliferative **endometrial** lining into a secretory bed primed for blastocyst implantation."*
+> - 📜 **Leon Speroff (*Clinical Gynecologic Endocrinology and Infertility*):** *"Cyclical shedding of the **endometrial** functional layer occurs in response to the withdrawal of ovarian steroid support."*

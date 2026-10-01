@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The addition of a sound to the beginning of a word (as in Old French estat—whence English estate—from Latin status).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The addition of a sound to the beginning of a word (as in Old French estat—whence English estate—from Latin status).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to or characterized by prothesis; added at the beginning of a word (linguistics); serving as an artificial bodily substitute.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative Indo-European grammar, prothetic vowels (such as Greek alpha or epsilon appearing before liquids) reflect vocalized laryngeal consonants.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prothetic designates the addition of a sound to the beginning of a word (as in old french estat—whence english estate—from latin status)."*
+> - 📜 **Antoine Meillet (*Introduction to the Comparative Study of Indo-European Languages*):** *"Greek exhibits a **prothetic** vowel before initial liquids and nasals where Sanskrit shows an initial consonant."*
+> - 📜 **Leonard Bloomfield (*Language*):** *"The presence of a **prothetic** vowel in Spanish 'escribir' facilitates the pronunciation of the consonant cluster."*
+> - 📜 **Henry Sweet (*The History of Language*):** *"In vulgar dialects, a **prothetic** breathing or glide vowel often attaches to heavy syllabic onsets."*

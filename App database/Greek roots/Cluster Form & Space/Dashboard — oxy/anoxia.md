@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hypoxia especially of such severity as to result in permanent damage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The absence of dissolved oxygen in a body of water.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A complete absence or severe deficiency of oxygen supply to the body tissues or organs, despite adequate blood perfusion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pathology and neurology, cerebral anoxia causes irreversible neuronal necrosis within minutes due to ATP depletion and excitotoxicity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anoxia designates hypoxia especially of such severity as to result in permanent damage."*
+> - 📜 **Tinsley R. Harrison (*Principles of Internal Medicine*):** *"Prolonged cerebral **anoxia** exceeding four to five minutes results in widespread cortical and hippocampal necrosis."*
+> - 📜 **J. S. Haldane (*Respiration*):** *"**Anoxia** not only stops the machine, but wrecks the machinery."*
+> - 📜 **Eugene Braunwald (*Heart Disease*):** *"Myocardial contractility rapidly deteriorates during acute **anoxia**, predisposing the myocardium to malignant arrhythmias."*

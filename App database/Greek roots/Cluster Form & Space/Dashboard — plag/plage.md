@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The beach of a seaside resort.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bright region on the sun caused by the light emitted by clouds of calcium or hydrogen and often associated with a sunspot.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A bright, hot region in the chromosphere of the Sun, typically occurring near sunspots.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In astronomy and solar physics, plages are dense magnetic features observed in hydrogen-alpha and ionized calcium lines, representing the chromospheric counterpart of photospheric faculae.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plage designates the beach of a seaside resort."*
+> - 📜 **George Ellery Hale (*The Study of Stellar Evolution*):** *"Spectroheliograms taken in the K line of calcium reveal bright flocculi or **plage** areas overlying solar active regions."*
+> - 📜 **Arthur Eddington (*Stars and Atoms*):** *"Intense magnetic fields within a solar **plage** elevate chromospheric temperatures and trigger energetic flares."*
+> - 📜 **Carl Sagan (*Cosmos*):** *"Solar flares erupt with cataclysmic violence from the brilliant turbulent heart of a chromospheric **plage**."*

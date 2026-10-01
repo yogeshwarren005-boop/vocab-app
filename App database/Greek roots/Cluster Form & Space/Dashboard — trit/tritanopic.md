@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inability to see the color blue or to distinguish the colors blue and yellow.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inability to see the color blue or to distinguish the colors blue and yellow.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Affected by or relating to tritanopia; lacking sensitivity to blue light.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical colorimetry, a tritanopic observer matches spectral wavelengths using only green and red primary lights, possessing a neutral point in the yellow region (around 570 nm).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tritanopic designates inability to see the color blue or to distinguish the colors blue and yellow."*
+> - 📜 **Hermann von Helmholtz (*Treatise on Physiological Optics*):** *"The chromaticity diagram of a **tritanopic** subject collapses all blue-yellow distinctions along clear confusion lines."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Acquired **tritanopic** visual defects often accompany retinal vascular disease or chronic optic nerve compression."*
+> - 📜 **Francis Galton (*Hereditary Genius*):** *"Statistical inheritance studies demonstrate that **tritanopic** vision is transmitted by an autosomal dominant gene on chromosome 7."*

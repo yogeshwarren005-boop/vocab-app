@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a dangerous manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a dangerous manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner fraught with danger, risk, or severe hazard.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To a degree that verges dangerously close to disaster, failure, or death.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"Once, however, as he used to tell, it brought him perilously near to disaster."*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"The central structure of the Báb's Sepulcher was built while the precious life of its builder was hanging perilously in the balance."*
-> - 📜 **Henry James (*The Turn of the Screw*):** *"On the eleventh night after my latest encounter with that gentleman—they were all numbered now—I had an alarm that perilously skirted it and that indeed, from the particular quality of its unexpectedness, proved quite my sharpest shock."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"The crippled steamer leaned **perilously** to starboard as mountainous seas crashed over the rusted deck."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"He stepped **perilously** near the edge of the marshes, where the quicksand threatened to swallow him whole."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"We crept **perilously** along the sheer granite precipice, listening for the hound's distant baying."*

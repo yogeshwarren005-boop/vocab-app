@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek hyo.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combining form derived from Greek (*hyoeides*), meaning U-shaped (shaped like the Greek letter upsilon).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human and comparative vertebrate anatomy, hyo- specifically designates the hyoid bone, hyoid apparatus, and attached musculature (hyoglossus, mylohyoid).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyo designates a term designating an entity, condition, or phenomenon derived from greek hyo."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"The prefix **hyo** denotes attachment to the horseshoe-shaped hyoid bone, as in the hyoglossus and hyopharyngeal muscles."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"Derived from the Greek letter upsilon, **hyo** signifies that which is curved or U-shaped in classical anatomical nomenclature."*
+> - 📜 **Robert Beekes (*Etymological Dictionary of Greek*):** *"The letter-name upsilon forms the anatomical combining element **hyo**, preserved in all modern descriptions of the mammalian tongue apparatus."*

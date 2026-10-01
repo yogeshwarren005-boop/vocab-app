@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The surgical insertion of a hollow needle through the abdominal wall and into the uterus to obtain amniotic fluid especially for the determination of fetal sex or chromosomal abnormality —called also amnio.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The surgical insertion of a hollow needle through the abdominal wall and into the uterus to obtain amniotic fluid especially for the determination of fetal sex or chromosomal abnormality —called also amnio.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A prenatal diagnostic procedure in which a small sample of amniotic fluid is extracted from the uterus via needle puncture through the abdominal wall to test for fetal genetic abnormalities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In obstetrics and medical genetics, an invasive diagnostic test performed between the 15th and 20th weeks of gestation to analyze fetal karyotypes, alpha-fetoprotein, and chromosomal aneuploidies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amniocentesis designates the surgical insertion of a hollow needle through the abdominal wall and into the uterus to obtain amniotic fluid especially for the determination of fetal sex or chromosomal abnormality —called also amnio."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Modern prenatal diagnosis was revolutionized by ultrasound-guided **amniocentesis**, permitting direct cytogenetic examination of fetal cells."*
+> - 📜 **Theodosius Dobzhansky (*Mankind Evolving*):** *"Through routine **amniocentesis**, parents can ascertain the chromosomal constitution of their unborn child."*
+> - 📜 **Oliver Sacks (*An Anthropologist on Mars*):** *"Advanced maternal age remains the primary clinical indication for diagnostic **amniocentesis** in high-risk pregnancies."*

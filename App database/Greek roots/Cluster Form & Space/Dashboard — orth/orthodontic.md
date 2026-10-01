@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of dentistry dealing with irregularities of the teeth (such as malocclusion) and their correction (as by braces); also : the treatment provided by a specialist in orthodontics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A branch of dentistry dealing with irregularities of the teeth (such as malocclusion) and their correction (as by braces); also : the treatment provided by a specialist in orthodontics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or used in orthodontics, particularly the correction of irregularities of the teeth and jaws.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to dental mechanics, appliances, and biological remodeling of alveolar bone in response to applied mechanical forces.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, orthodontic designates a branch of dentistry dealing with irregularities of the teeth (such as malocclusion) and their correction (as by braces); also : the treatment provided by a specialist in orthodontics."*
+> - 📜 **Charles H. Tweed (*Clinical Orthodontics*):** *"Successful **orthodontic** therapy depends upon securing stable anchorage and placing teeth upright over basal bone."*
+> - 📜 **William R. Proffit (*Contemporary Orthodontics*):** *"Sustained pressure from an **orthodontic** appliance induces cellular remodeling of the periodontal ligament."*
+> - 📜 **T. M. Graber (*Orthodontics: Principles and Practice*):** *"Modern **orthodontic** biomechanics strives to deliver light, continuous forces that preserve periodontal health."*

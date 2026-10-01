@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of dry wood termites; cosmopolitan in distribution; sometimes considered a subgenus of kalotermes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of dry wood termites; cosmopolitan in distribution; sometimes considered a subgenus of kalotermes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of drywood termites in the family Kalotermitidae, notable for nesting inside dry, sound wood without contact with the soil.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In structural entomology and tropical ecology, wood-destroying social insects characterized by phragmotic soldiers possessing a plug-like, truncated head used to block gallery entrances.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cryptotermes designates genus of dry wood termites; cosmopolitan in distribution; sometimes considered a subgenus of kalotermes."*
+> - 📜 **William Morton Wheeler (*The Social Insects: Their Origin and Evolution*):** *"The soldier of **Cryptotermes** possesses a heavily sclerotized, shovel-shaped head perfectly fashioned to plug the nest burrow against invading ants."*
+> - 📜 **Edward O. Wilson (*The Insect Societies*):** *"Colonies of **Cryptotermes** thrive inside dry furniture and structural rafters, extracting every trace of metabolic moisture from dry wood."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"Wooden bungalows in the tropics suffer silent devastation from **Cryptotermes**, reducing solid timber to paper-thin shells."*

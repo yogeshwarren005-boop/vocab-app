@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek endo.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An extinct fossil nautiloid cephalopod of the order Endocerida, featuring a straight or gently curved shell with an unusually wide ventral siphuncle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In invertebrate paleontology, giant Ordovician endocerids like Endoceras reached lengths exceeding five meters, reigning as apex marine predators.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endocerid designates a term designating an entity, condition, or phenomenon derived from greek endo."*
+> - 📜 **Alfred Romer (*Vertebrate Paleontology*):** *"Before the rise of jawed fishes, the predatory **endocerid** dominated early Paleozoic shallow epeiric seas."*
+> - 📜 **Stephen Jay Gould (*Wonderful Life*):** *"The massive, straight-shelled **endocerid** represents an astonishing early experiment in cephalopod gigantism."*
+> - 📜 **Curt Teichert (*Treatise on Invertebrate Paleontology: Mollusca 3*):** *"The siphuncle of an **endocerid** contained extensive endosiphuncular deposits that acted as counterweights for horizontal trim."*

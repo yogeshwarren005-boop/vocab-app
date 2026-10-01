@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having, involving, or exhibiting symmetry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having corresponding points whose connecting lines are bisected by a given point or perpendicularly bisected by a given line or plane.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having, displaying, or characterized by symmetry; having parts that correspond in size, shape, and relative position across a dividing plane or center.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In quantum mechanics and linear algebra, a symmetric operator or matrix equals its transpose, possessing purely real eigenvalues.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, symmetric designates having, involving, or exhibiting symmetry."*
+> - 📜 **Hermann Weyl (*Symmetry*):** *"An object is **symmetric** if there is something you can do to it so that after you have finished it looks the same as before."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"The benzene ring exhibits a planar, **symmetric** hexagonal configuration of sp2 hybridized carbon atoms."*
+> - 📜 **D'Arcy Wentworth Thompson (*On Growth and Form*):** *"The radial spicules of radiolarians branch into breathtaking, **symmetric** crystalline lattices."*

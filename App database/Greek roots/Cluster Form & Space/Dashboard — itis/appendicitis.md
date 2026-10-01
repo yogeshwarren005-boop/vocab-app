@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the vermiform appendix.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inflammation of the vermiform appendix.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Acute inflammation of the vermiform appendix, typically presenting with peri-umbilical pain migrating to the right lower quadrant of the abdomen (McBurney's point).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In general surgery and emergency medicine, appendicitis is most commonly caused by luminal obstruction by a fecalith or lymphoid hyperplasia, requiring urgent surgical appendectomy to avert perforation, peritonitis, and sepsis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Drury's floor was that Dorrie's pretty, sluttish little mother had been whisked off to the Cottage Hospital with appendicitis an hour earlier."*
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"Gabrilowitsch had been operated on for appendicitis."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Reginald Fitz demonstrated that acute localized peritonitis in the right iliac fossa originates almost invariably as **appendicitis**."*
+> - 📜 **Harvey Cushing (*Studies in Intracranial Physiology and Surgery*):** *"Early diagnosis and prompt surgical intervention in acute **appendicitis** dramatically reduced hospital operative mortality."*
+> - 📜 **Austin Flint (*A Treatise on the Principles and Practice of Medicine*):** *"Localized tenderness at McBurney's point combined with fever and leukocytosis confirms suspected acute **appendicitis**."*

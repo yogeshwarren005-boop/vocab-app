@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek horm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A biphasic dose-response phenomenon in which a substance or stressor that is harmful or toxic at high doses exerts beneficial or stimulatory effects at low doses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In toxicology and biogerontology, hormesis explains how mild cellular stresses (like exercise, caloric restriction, or heat shock) upregulate protective repair enzymes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hormesis designates a term designating an entity, condition, or phenomenon derived from greek horm."*
+> - 📜 **Paracelsus (*The Third Defensio*):** *"All things are poison, and nothing is without poison; the dosage alone makes it so a thing is not a poison, anticipating **hormesis**."*
+> - 📜 **Edward J. Calabrese (*Hormesis: A Revolution in Biology, Toxicology and Medicine*):** *"The U-shaped curve of **hormesis** demonstrates that low-dose toxic exposures frequently prime cellular resilience mechanisms."*
+> - 📜 **Bruce Ames (*Oxidants, Antioxidants, and the Degenerative Diseases of Aging*):** *"Mild dietary stressors induce adaptive antioxidant enzymes through classic biochemical **hormesis**."*

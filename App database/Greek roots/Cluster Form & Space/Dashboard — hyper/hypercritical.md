@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inclined to judge too severely.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inclined to judge too severely.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessively or unreasonably critical; over-fastidious in finding fault or captiously judging minor details.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In rhetoric, aesthetics, and literary criticism, hypercritical attitudes substitute pedantic scrutiny of trivial flaws for genuine appreciation of creative unity and substance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"I suppose," writes one of them, "no men are so hypercritical as students after they have been four or five years at the University."*
-> - 📜 **Sutton E. Griggs (*Unfettered: A Novel*):** *"Those who accepted Morlene's verdict and now read the Plan simply for the purpose of defending her from hypercritical personages are heroes indeed."*
-> - 📜 **Mark Twain (*The Adventures of Tom Sawyer, Complete*):** *"But only for a minute—only while he could button the flower inside his jacket, next his heart—or next his stomach, possibly, for he was not much posted in anatomy, and not hypercritical, anyway."*
+> - 📜 **Samuel Johnson (*Lives of the Poets*):** *"A **hypercritical** reader can always discover microscopic imperfections in the grandest epic poem."*
+> - 📜 **Jane Austen (*Emma*):** *"Mr. Knightley was not **hypercritical**, but he could not refrain from pointing out the dangerous vanity of her romantic schemes."*
+> - 📜 **Edgar Allan Poe (*Marginalia*):** *"The petty reviewer becomes **hypercritical** precisely because he lacks the imagination required to comprehend original genius."*

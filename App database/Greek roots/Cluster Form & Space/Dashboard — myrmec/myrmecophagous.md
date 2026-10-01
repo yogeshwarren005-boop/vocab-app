@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeding on ants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Feeding on ants.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeding primarily or exclusively upon ants, termites, or related social insects; anteater-like in diet.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mammalian ecology, myrmecophagous species (such as pangolins, anteaters, and aardvarks) exhibit convergent evolution with clawed digging forelimbs and vermiform tongues.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, myrmecophagous designates feeding on ants."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Animals belonging to distinct orders have acquired **myrmecophagous** adaptations, developing tubular jaws to prey upon social insects."*
+> - 📜 **Richard Owen (*Odontography*):** *"The **myrmecophagous** habit leads inevitably to tooth reduction, as demonstrated by pangolins and true anteaters."*
+> - 📜 **E. O. Wilson (*Sociobiology: The New Synthesis*):** *"A specialized **myrmecophagous** predator must tolerate painful chemical defenses and stings to exploit concentrated colonial biomass."*

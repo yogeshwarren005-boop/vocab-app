@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of center.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of center.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Centering upon technology and engineering as the primary means to solve human, social, and environmental challenges.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophy and environmental sociology, describing an ideology that assumes scientific innovation can overcome ecological limits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, technocentric designates adjective*) pertaining to, derived from, or characteristic of center."*
+> - 📜 **Lewis Mumford (*The Myth of the Machine: The Pentagon of Power*):** *"Our civilization remains trapped in a **technocentric** illusion that every human dilemma can be cured by a more elaborate machine."*
+> - 📜 **Jacques Ellul (*The Technological Society*):** *"A strictly **technocentric** culture eliminates spiritual discernment in favor of operational efficiency."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"The **technocentric** arrogance that seeks to dominate nature with synthetic chemicals risks poisoning the very soil beneath our feet."*

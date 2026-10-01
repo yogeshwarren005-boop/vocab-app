@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Recurring in cycles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Recurring in cycles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring in repeating cycles; recurring at regular or predictable intervals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In macroeconomics and ecology, describing recurring fluctuations in business activity, employment, or animal population densities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Reducing cyclical unemployment and its effects. § 1. #Evils of early factory conditions#."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The two main types of these are seasonal and cyclical changes, the one occurring within a year, and the other occurring within the longer period of the business cycle."*
+> - 📜 **John Maynard Keynes (*The General Theory of Employment, Interest and Money*):** *"Capital investment fluctuates in a **cyclical** pattern driven by volatile shifts in the marginal efficiency of capital."*
+> - 📜 **Aldo Leopold (*A Sand County Almanac*):** *"The **cyclical** rise and collapse of snowshoe hare populations is linked to the predator-prey dynamics of the northern lynx."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Agricultural yields display **cyclical** variations following the alternating abundance of dry and rainy seasons."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek pir.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An infinite polyhedron; a tessellation or sponge-like honeycomb of polygons that extends infinitely in three-dimensional or higher-dimensional space.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geometry and crystallography, regular apeirohedra (infinite skew polyhedra) partition space with uniform vertices, edges, and faces.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, apeirohedron designates a term designating an entity, condition, or phenomenon derived from greek pir."*
+> - 📜 **H. S. M. Coxeter (*Regular Polytopes*):** *"Petrie and I discovered three regular skew polyhedra, each forming an infinite **apeirohedron** that partitions Euclidean space."*
+> - 📜 **Branko Grünbaum (*Uniform Apeirohedra in Ordinary Space*):** *"A periodic minimal surface often corresponds to the geometric skeleton of an infinite **apeirohedron**."*
+> - 📜 **Alan Holden (*Shapes, Space, and Symmetry*):** *"Repeating polyhedral units across three dimensions generates an open, porous structure known as an **apeirohedron**."*

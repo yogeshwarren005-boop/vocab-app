@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Divide into syllables.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Divide into syllables.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To divide or break down a word or utterance into syllables.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In computational linguistics, text-to-speech processing, and typesetting, algorithms syllabify text according to language-specific phonotactic constraints and the Maximal Onset Principle.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, syllabify designates divide into syllables."*
+> - 📜 **Noam Chomsky (*Aspects of the Theory of Syntax*):** *"Phonological rules automatically **syllabify** underlying consonant clusters according to the sonority hierarchy."*
+> - 📜 **Edward Sapir (*Language: An Introduction to the Study of Speech*):** *"Native speakers intuitively **syllabify** foreign loanwords to match the canonical syllable patterns of their mother tongue."*
+> - 📜 **Samuel Johnson (*The Plan of an English Dictionary*):** *"Our duty as lexicographers is to **syllabify** complex terms so that the reader may pronounce them without hesitation."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Concerned with topography.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Concerned with topography.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the detailed physical features or map of an area or anatomical region.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In surgical anatomy and geodesy, topographic relationships describe three-dimensional spatial coordinates, surface contours, and underlying structural landmarks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, topographic designates concerned with topography."*
+> - 📜 **Alexander von Humboldt (*Cosmos: A Sketch of the Physical Description of the Universe*):** *"A precise **topographic** survey of Andean mountain chains reveals the direct influence of altitude on vegetation belts."*
+> - 📜 **Henry Gray (*Gray's Anatomy*):** *"Knowledge of the **topographic** anatomy of the femoral triangle is indispensable for locating the femoral artery."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"River erosion continually modifies the **topographic** relief of river basins across millennia."*

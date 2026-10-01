@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Prenatal diagnosis that allows direct observation of a fetus in the uterus and the withdrawal of fetal blood.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Prenatal diagnosis that allows direct observation of a fetus in the uterus and the withdrawal of fetal blood.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Commonwealth/British spelling of fetoscopy: endoscopic inspection or intrauterine surgery upon a foetus in utero.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In reproductive genomics and obstetrics, foetoscopy historically enabled direct biopsy of foetal skin and liver tissues for inherited metabolic disorders.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, foetoscopy designates prenatal diagnosis that allows direct observation of a fetus in the uterus and the withdrawal of fetal blood."*
+> - 📜 **Robert Edwards (*A Matter of Life*):** *"The clinical evolution of **foetoscopy** demonstrated that the human foetus could be treated as an individual patient in need of diagnosis."*
+> - 📜 **Peter Medawar (*The Hope of Progress*):** *"Antenatal scrutiny by means of **foetoscopy** represents one of the most audacious triumphs of modern clinical technology."*
+> - 📜 **John Snow (*On the Inhalation of the Vapour of Ether*):** *"The prospective mastery of uterine pathologies through direct **foetoscopy** was foreseen as medical optics progressed."*

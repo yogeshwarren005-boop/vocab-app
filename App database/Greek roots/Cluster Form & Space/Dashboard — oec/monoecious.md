@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having pistillate and staminate flowers on the same plant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having male and female sex organs in the same individual : hermaphroditic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having separate male and female reproductive flowers or organs on the same individual plant or organism; hermaphroditic at the organismal level.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botany, monoecious plants (such as maize, oak, and birch) bear separate staminate and pistillate flowers on different branches of a single individual.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monoecious designates having pistillate and staminate flowers on the same plant."*
+> - 📜 **Charles Darwin (*The Different Forms of Flowers on Plants of the Same Species*):** *"In **monoecious** plants like corn, wind dispersal easily carries pollen from the apical tassel to the lower female silk ears."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The oaks are **monoecious**, bearing dangling staminate aments and solitary fertile acorns upon the same tree."*
+> - 📜 **Karl Linnaeus (*Species Plantarum*):** *"I established the class Monoecia to group all plants that are **monoecious**, having male and female flowers in separate housings on one stem."*

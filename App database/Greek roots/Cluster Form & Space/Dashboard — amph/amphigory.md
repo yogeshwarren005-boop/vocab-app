@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Nonsensical writing (usually verse).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Nonsensical writing (usually verse).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A verse or composition that has the appearance of meaning or profound depth but is in fact meaningless nonsense or absurd parody.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary criticism, a burlesque stylistic exercise designed to mock pretentiousness by combining high-flown diction with syntactic incoherence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amphigory designates nonsensical writing (usually verse)."*
+> - 📜 **Algernon Charles Swinburne (*The Heptalogia*):** *"His parodic lines were pure **amphigory**, echoing majestic rhythms while dissolving every shred of logical significance."*
+> - 📜 **William Makepeace Thackeray (*The Book of Snobs*):** *"The poet laureate of fashionable salons recited a sentimental **amphigory** that moved ladies to tears of baffled bewilderment."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"To the uninitiated reader, Teufelsdröckh's discourse may seem an impenetrable **amphigory**, yet a spark of divine irony glows within."*

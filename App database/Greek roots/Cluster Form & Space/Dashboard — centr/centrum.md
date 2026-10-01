@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: center.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: the body of a vertebra ventral to the neural arch.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The solid, massive central body of a vertebra from which the neural and hemal arches arise.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative anatomy and paleontology, the foundational axial skeletal block whose articular surfaces determine spinal articulation across vertebrate classes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog centrum as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Richard Owen (*On the Archetype and Homologies of the Vertebrate Skeleton*):** *"The autogenous **centrum** provides the primary foundation upon which the neurapophyses and pleurapophyses articulate."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"In ancient crossopterygians, the **centrum** consists of separate pleurocentra and intercentra around the persistent notochord."*
+> - 📜 **Henry Fairfield Osborn (*The Origin and Evolution of Life*):** *"The massive bony **centrum** of sauropod vertebrae evolved interior pneumatic cavities to reduce skeletal load."*

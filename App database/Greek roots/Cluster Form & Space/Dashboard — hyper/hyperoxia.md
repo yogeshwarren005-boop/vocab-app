@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek hyper.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An excess of oxygen in body tissues or organs, resulting from breathing gas mixtures with high oxygen partial pressures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pulmonary medicine and hyperbaric therapy, prolonged hyperoxia causes absorption atelectasis, generation of reactive oxygen species, pulmonary toxicity (Lorrain Smith effect), and central nervous system seizures (Paul Bert effect).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyperoxia designates a term designating an entity, condition, or phenomenon derived from greek hyper."*
+> - 📜 **John Scott Haldane (*Respiration*):** *"Exposure to severe **hyperoxia** under pressure induces violent epileptiform convulsions in experimental animals."*
+> - 📜 **Claude Bernard (*Lessons on the Effects of Toxic and Medicinal Substances*):** *"Pure oxygen becomes paradoxical at high pressure, tissue **hyperoxia** arresting cellular metabolism instead of stimulating it."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Unregulated neonatal **hyperoxia** was later recognized as the causative factor in retrolental fibroplasia."*

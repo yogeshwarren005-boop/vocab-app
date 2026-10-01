@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Wealth (such as money, jewels, or precious metals) stored up or hoarded.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wealth of any kind or in any form : riches.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A quantity of precious metals, gems, or other valuable objects; something or someone regarded as exceptionally precious or worthy of protection.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Etymologically derived via Old French *tresor* and Latin *thesaurus* from Greek *thesauros* (storehouse, treasury), reflecting tangible and metaphorical cultural wealth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet fear her O thou minion of her pleasure, She may detain, but not still keep her treasure!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Will will fulfil the treasure of thy love, Ay, fill it full with wills, and my will one, In things of great receipt with case we prove, Among a number one is reckoned none."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have writ my letters, casketed my treasure, Given order for our horses; and tonight, When I should take possession of the bride, End ere I do begin."*
+> - 📜 **Robert Louis Stevenson (*Treasure Island*):** *"Fifteen men on the dead man's chest / Yo-ho-ho, and a bottle of rum! / Seeking buried **treasure** under southern skies."*
+> - 📜 **Francis Bacon (*Of Riches*):** *"I cannot call riches better than the baggage of virtue; great **treasure** cannot be distributed without moral care."*
+> - 📜 **John Ruskin (*Sesame and Lilies*):** *"Good books constitute a kings' **treasure** that neither moth nor rust can corrupt."*

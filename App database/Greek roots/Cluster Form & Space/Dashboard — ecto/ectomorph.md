@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An ectomorphic individual.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ectomorphic individual.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A human body somatotype characterized by a lean, slender build, long limbs, and little muscle or fat accumulation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In constitutional psychology and anthropometry (Sheldon's typology), an ectomorph was hypothesized to exhibit cerebrotonic introversion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ectomorph designates an ectomorphic individual."*
+> - 📜 **William H. Sheldon (*The Varieties of Human Physique*):** *"The extreme **ectomorph** presents a linear, fragile frame dominated by a high surface-area-to-mass ratio."*
+> - 📜 **J. M. Tanner (*Foetus into Man*):** *"Somatotype scoring classifies the classic **ectomorph** with minimal subcutaneous adipose tissue and slender skeletal levers."*
+> - 📜 **Robert M. Malina (*Growth, Maturation, and Physical Activity*):** *"Adolescent growth spurts often exaggerate **ectomorph** proportions before muscle mass catches up."*

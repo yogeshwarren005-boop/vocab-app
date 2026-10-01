@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek aphrod.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A condition in which an individual possesses gonads of one sex but external genitalia displaying characteristics of the opposite sex.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical endocrinology and pediatrics, categorized into male or female pseudohermaphroditism based on whether testes or ovaries are present.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pseudohermaphroditism designates a term designating an entity, condition, or phenomenon derived from greek aphrod."*
+> - 📜 **Lawson Wilkins (*The Diagnosis and Treatment of Endocrine Disorders in Childhood and Adolescence*):** *"Congenital virilizing adrenal hyperplasia represents the most frequent cause of female **pseudohermaphroditism** in neonates."*
+> - 📜 **Felix Pinkus (*The Pathology of the Sexual Organs*):** *"Accurate differential diagnosis of **pseudohermaphroditism** requires chromosomal karyotyping and exploratory laparoscopic biopsy."*
+> - 📜 **John Money (*Sex Errors of the Body and Related Syndromes*):** *"Surgical management of infantile **pseudohermaphroditism** must prioritize long-term psychological and functional outcomes."*

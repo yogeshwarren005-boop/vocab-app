@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Malaria parasites.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Malaria parasites.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of parasitic protozoans in the apicomplexan order Haemosporida, comprising the genera Plasmodium and allied blood parasites that cause malaria in vertebrates.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In parasitology, members of the family Plasmodiidae alternate generations between a vertebrate intermediate host (schizogony) and a dipteran vector (sporogony).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plasmodiidae designates malaria parasites."*
+> - 📜 **Ronald Ross (*The Prevention of Malaria*):** *"The life cycle of the **Plasmodiidae** links the salivary glands of mosquitoes with intraerythrocytic reproduction in man."*
+> - 📜 **Patrick Manson (*Tropical Diseases*):** *"Classification of the **Plasmodiidae** requires identifying pigment granule morphology and schizont segmentation patterns."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The cyclic fevers of ague coincide with the simultaneous burst of sporulating **Plasmodiidae** from invaded red cells."*

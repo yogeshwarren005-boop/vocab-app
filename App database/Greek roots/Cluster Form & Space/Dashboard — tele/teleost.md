@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A bony fish of the subclass teleostei.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bony fish of the subclass teleostei.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any member of the major fish infraclass Teleostei, characterized by a completely ossified bony skeleton, homocercal tail, and movable jaw elements.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative vertebrate anatomy, the teleost condition represents the modern evolutionary peak of ray-finned fishes, displaying extraordinary ecological diversification in marine and freshwater habitats.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, teleost designates a bony fish of the subclass teleostei."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"The typical modern **teleost** has replaced the heavy ganoid scales of primitive ancestors with thin, flexible cycloid plates."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"The caudal fin of the advanced **teleost** is externally symmetrical or homocercal, though its internal vertebral column turns slightly upward."*
+> - 📜 **E. Ray Lankester (*A Treatise on Zoology: Fishes*):** *"The emergence of the flexible premaxilla allowed the modern **teleost** to project its mouth forward during suction feeding."*

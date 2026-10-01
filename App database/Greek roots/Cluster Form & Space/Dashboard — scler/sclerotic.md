@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or affected with sclerosis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Grown rigid or unresponsive especially with age : unable or reluctant to adapt or compromise.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or affected with sclerosis; pathologically hardened or indurated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ocular anatomy, relating to the sclera or white outer coat of the eyeball (as in the sclerotic coat).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sclerotic designates of, relating to, or affected with sclerosis."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The **sclerotic** coat encloses the posterior five-sixths of the eyeball, providing insertion for the recti muscles."*
+> - 📜 **William Mackenzie (*A Practical Treatise on the Diseases of the Eye*):** *"Reptilian eyes frequently possess a ring of small **sclerotic** bony plates that protect the cornea during rapid accommodation."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Vertebrated Animals*):** *"In birds, the **sclerotic** ring of overlapping ossicles maintains the sharp anterior conic profile of the ocular globe."*

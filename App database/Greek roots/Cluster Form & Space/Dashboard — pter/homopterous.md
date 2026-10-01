@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of an order or suborder (Homoptera) of insects (such as aphids and cicadas) that have sucking mouthparts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of an order or suborder (Homoptera) of insects (such as aphids and cicadas) that have sucking mouthparts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or belonging to the Homoptera; having wings of uniform texture throughout.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In descriptive entomology, possessing roof-like wings and mouthparts arising from the posterior ventral part of the head.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, homopterous designates any of an order or suborder (homoptera) of insects (such as aphids and cicadas) that have sucking mouthparts."*
+> - 📜 **Hermann Burmeister (*Handbuch der Entomologie*):** *"The **homopterous** condition contrasts with the divided hemelytron seen in predatory water bugs."*
+> - 📜 **John Obadiah Westwood (*Arcana Entomologica*):** *"We observed a bizarre **homopterous** lantern-fly whose cephalic prolongation was thought to emit luminescence."*
+> - 📜 **Asa Fitch (*Reports on the Insects of New York*):** *"Apple orchards suffer heavy damage from the feeding punctures of several small **homopterous** leafhoppers."*

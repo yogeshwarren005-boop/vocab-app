@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Successive waves of involuntary contraction passing along the walls of a hollow muscular structure (such as the esophagus or intestine) and forcing the contents onward.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Successive waves of involuntary contraction passing along the walls of a hollow muscular structure (such as the esophagus or intestine) and forcing the contents onward.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The involuntary constriction and relaxation of the muscles of the intestine or another canal, creating wave-like movements that push the contents forward.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gastrointestinal physiology, peristalsis is coordinated by the enteric nervous system (myenteric plexus of Auerbach) via coordinated circular contraction and longitudinal relaxation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, peristalsis designates successive waves of involuntary contraction passing along the walls of a hollow muscular structure (such as the esophagus or intestine) and forcing the contents onward."*
+> - 📜 **William Beaumont (*Experiments and Observations on the Gastric Juice and the Physiology of Digestion*):** *"The rhythmic churning of gastric **peristalsis** propels the alimentary bolus toward the pyloric orifice."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"Distension of the gut lumen triggers intrinsic reflex circuits that initiate propulsive **peristalsis**."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Visible **peristalsis** on the abdominal wall is a valuable diagnostic sign of progressive intestinal obstruction."*

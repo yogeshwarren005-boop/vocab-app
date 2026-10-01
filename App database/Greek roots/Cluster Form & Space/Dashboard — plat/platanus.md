@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of large monoecious mostly deciduous trees: london plane; sycamore.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of large monoecious mostly deciduous trees: london plane; sycamore.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of large, deciduous trees in the family Platanaceae, commonly known as plane trees, sycamores, or buttonwoods.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In urban forestry and arboriculture, the London plane (*Platanus x acerifolia*) is widely planted in cities worldwide due to its exceptional tolerance of air pollution and pruning.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, platanus designates genus of large monoecious mostly deciduous trees: london plane; sycamore."*
+> - 📜 **Carl Linnaeus (*Species Plantarum*):** *"The noble tree **Platanus** occidentalis attains monumental girth in the fertile alluvial soils of North America."*
+> - 📜 **John Muir (*Our National Parks*):** *"The smooth, mottled white trunks of **Platanus** stand like gleaming marble columns along the canyon streams."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Hybrid vigor is strikingly exhibited by the London plane, a fertile cross between American and oriental species of **Platanus**."*

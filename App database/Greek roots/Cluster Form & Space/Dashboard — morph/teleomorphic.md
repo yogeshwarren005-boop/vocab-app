@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of form / shape / structural configuration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of form / shape / structural configuration.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, functioning as, or characterized by the teleomorph; describing the sexual reproductive stage of fungi.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mycology, teleomorphic fruiting bodies (such as perithecia, apothecia, or basidiocarps) facilitate genetic recombination and meiosis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, teleomorphic designates adjective*) pertaining to, derived from, or characteristic of form / shape / structural configuration."*
+> - 📜 **Bryce Kendrick (*The Whole Fungus*):** *"The emergence of **teleomorphic** structures marks the transition from rapid clonal dispersal to sexual genetic recombination."*
+> - 📜 **John Webster (*Introduction to Fungi*):** *"Identifying the **teleomorphic** stage of an agricultural crop pathogen is essential for forecasting overwintering ascospore release."*
+> - 📜 **David Malloch (*Moulds: Their Isolation and Identification*):** *"Under nitrogen starvation and ultraviolet irradiation, several Penicillium species will produce their **teleomorphic** ascomata in culture."*

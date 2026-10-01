@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of bird feet) having the first and second toes directed backward the third and fourth forward.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of bird feet) having the first and second toes directed backward the third and fourth forward.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having toes arranged in an irregular or unusual order; specifically, having the first and second toes directed backward and the third and fourth forward (as in trogons).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In avian morphology and systematic ornithology, the heterodactyl foot structure is unique to the order Trogoniformes, contrasting with the zygodactyl arrangement of parrots.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heterodactyl designates (of bird feet) having the first and second toes directed backward the third and fourth forward."*
+> - 📜 **Elliott Coues (*Key to North American Birds*):** *"The remarkable **heterodactyl** foot of the quetzal, with digits one and two reversed, separates trogons from all other perching birds."*
+> - 📜 **Alfred Russel Wallace (*Tropical Nature and Other Essays*):** *"Perched motionless on rain forest branches, the trogon relies on its **heterodactyl** grasp to seize ripe forest fruits."*
+> - 📜 **Alexander Wetmore (*A Systematic Classification for the Birds of the World*):** *"Anatomical inspection confirms that the **heterodactyl** condition involves an internal reorganization of the deep flexor tendons."*

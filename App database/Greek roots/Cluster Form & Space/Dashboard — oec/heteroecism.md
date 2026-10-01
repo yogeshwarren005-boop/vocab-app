@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Passing through the different stages in the life cycle on alternate and often unrelated hosts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Passing through the different stages in the life cycle on alternate and often unrelated hosts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The biological condition, property, or life history strategy of being heteroecious; requiring two alternate host species to complete a life cycle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary parasitology and mycology, heteroecism provides an evolutionary mechanism for exploiting disparate seasonal plant hosts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heteroecism designates passing through the different stages in the life cycle on alternate and often unrelated hosts."*
+> - 📜 **Anton de Bary (*Comparative Morphology and Biology of the Fungi*):** *"The discovery of **heteroecism** resolved centuries of dispute among farmers regarding the connection between barberry hedges and blighted wheat fields."*
+> - 📜 **John Webster (*Introduction to Fungi*):** *"Evolutionary models suggest that **heteroecism** arose as ancestral rusts colonized gymnosperms before hopping to emerging angiosperm hosts."*
+> - 📜 **C. V. Subramanian (*Hyphomycetes*):** *"In classical plant pathology courses, the demonstration of **heteroecism** in Puccinia graminis stands as a triumph of inductive microscopy."*

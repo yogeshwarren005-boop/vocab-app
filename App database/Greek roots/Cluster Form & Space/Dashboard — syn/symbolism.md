@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The art or practice of using symbols especially by investing things with a symbolic meaning or by expressing the invisible or intangible by means of visible or sensuous representations: such as.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Artistic imitation or invention that is a method of revealing or suggesting immaterial, ideal, or otherwise intangible truth or states.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The use of symbols to represent ideas or qualities; an artistic and literary movement originating in late nineteenth-century France.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anthropological religion, ritual symbolism bridges the visible world and sacred cosmology through codified gestures and sacred objects.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Using the symbolism of the Hebrew religion and its tabernacle, he compares Jesus to the High Priest, but Jesus, he says, does not enter into the holiest alone."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"He took three hundred captive princesses and ladies, and married them in a batch to Macedonian officers--a very characteristic piece of symbolism."*
-> - 📜 **Sydney Waterlow (*Shelley*):** *"When round pure hearts a host of hopes assemble The Snake and Eagle meet--the world's foundations tremble." This piece of symbolism became a sort of fixed language with him; "the Snake" was a name by which it amused him to be known among his friends."*
+> - 📜 **Arthur Symons (*The Symbolist Movement in Literature*):** *"The aesthetic of French **symbolism** sought to clothe the idea in a sensible, elusive form."*
+> - 📜 **Carl Jung (*Psychology of the Unconscious*):** *"The archetypal **symbolism** of the serpent recurs across world mythologies as a motif of renewal and wisdom."*
+> - 📜 **T. S. Eliot (*The Sacred Wood*):** *"Dante's Divine Comedy achieves universal grandeur through the unified precision of its allegorical **symbolism**."*

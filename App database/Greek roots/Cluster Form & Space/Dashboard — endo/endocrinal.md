@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or belonging to endocrine glands or their secretions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or belonging to endocrine glands or their secretions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or involving endocrine glands or their hormonal secretions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systemic physiology, endocrinal signaling modulates long-term metabolic homeostasis, growth, and reproduction via humoral circulation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endocrinal designates of or belonging to endocrine glands or their secretions."*
+> - 📜 **Walter B. Cannon (*The Wisdom of the Body*):** *"Homeostatic balance relies upon intertwined nervous reflexes and sustained **endocrinal** secretional responses."*
+> - 📜 **Arthur C. Guyton (*Textbook of Medical Physiology*):** *"Feedback inhibition regulates **endocrinal** axes to prevent pathological overproduction of target hormones."*
+> - 📜 **Hans Selye (*The Stress of Life*):** *"The general adaptation syndrome orchestrates profound **endocrinal** shifts centered upon pituitary and adrenocortical activation."*

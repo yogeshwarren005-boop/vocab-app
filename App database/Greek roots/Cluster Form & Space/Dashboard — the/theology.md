@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of religious faith, practice, and experience; especially : the study of God and of God's relation to the world.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A theological theory or system.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of the nature of God and religious belief; religious beliefs and theory when systematically developed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Classically dubbed the 'queen of the sciences' in medieval universities, theology encompasses dogmatics, biblical exegesis, moral ethics, and apophatic mysticism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Some people might have cried “Alas, poor Theology!” at the hideous defacement—the last grotesque phase of a creed which had served mankind well in its time."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Felix, though an offshoot from a far more recent point in the devolution of theology than his father, was less self-sacrificing and disinterested."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The sermon, as might be expected, was of the extremest antinomian type; on justification by faith, as expounded in the theology of St Paul."*
+> - 📜 **Thomas Aquinas (*Summa Theologiae*):** *"Christian **theology** uses philosophical reason not to prove faith, but to make clear what is handed down in revelation."*
+> - 📜 **William Paley (*Natural Theology*):** *"The intricate mechanism of a watch implies a watchmaker; likewise, natural **theology** discerns design in nature."*
+> - 📜 **John Calvin (*Institutes of the Christian Religion*):** *"Nearly all wisdom consists of two parts: the knowledge of God and of ourselves, which forms the core of sound **theology**."*

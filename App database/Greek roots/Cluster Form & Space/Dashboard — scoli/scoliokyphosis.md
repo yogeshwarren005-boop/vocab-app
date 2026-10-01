@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek scoli.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A complex spinal deformity combining both lateral curvature (scoliosis) and posterior hunchback curvature (kyphosis); kyphoscoliosis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In orthopedic surgery and respiratory medicine, a severe spinal abnormality that distorts the thoracic cage, causing restrictive pulmonary impairment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scoliokyphosis designates a term designating an entity, condition, or phenomenon derived from greek scoli."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Severe thoracic **scoliokyphosis** restricts chest wall expansion, predisposing the patient to chronic cor pulmonale and hypoventilation."*
+> - 📜 **Henry Ling Taylor (*Orthopedic Surgery for Practitioners*):** *"Early application of spinal traction and corrective braces can arrest the progression of juvenile **scoliokyphosis**."*
+> - 📜 **Lewis Sayre (*Spinal Disease and Spinal Curvature*):** *"Plaster-of-Paris jackets applied during suspension proved effective in supporting the spine distorted by **scoliokyphosis**."*

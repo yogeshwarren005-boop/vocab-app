@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of a center party.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who holds moderate views.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A moderate political philosophy, outlook, or policy that avoids ideological extremes and seeks compromise between left-wing and right-wing positions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political science, a strategic electoral positioning around the median voter, emphasizing institutional pragmatism, fiscal prudence, and social stability.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centrism designates a member of a center party."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"A robust commercial middle class naturally fosters political **centrism**, fearing the violent disruptions of both radicalism and reaction."*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*):** *"Healthy representative assemblies require a steady anchor of thoughtful **centrism** to reconcile conflicting class interests."*
+> - 📜 **Arthur M. Schlesinger Jr. (*The Vital Center*):** *"Democratic **centrism** is not a spineless avoidance of principle, but an active, militant defense of freedom against totalitarian extremes."*

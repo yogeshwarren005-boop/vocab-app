@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (greek mythology) a titan who was the son of gaea and uranus and the father of helios and selene and eos in ancient mythology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (greek mythology) a titan who was the son of gaea and uranus and the father of helios and selene and eos in ancient mythology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In Greek mythology, a Titan, the son of Uranus (Heaven) and Gaia (Earth), and father of the sun god Helios, the moon goddess Selene, and the dawn goddess Eos.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In astronomy, an irregularly shaped, chaotic moon of Saturn discovered in 1848; in English literature, the subject of John Keats's unfinished epic poem on the fall of the Titans.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But two months dead—nay, not so much, not two: So excellent a king; that was to this Hyperion to a satyr; so loving to my mother, That he might not beteem the winds of heaven Visit her face too roughly."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And when thy car is loaden with their heads, I will dismount, and by the waggon-wheel Trot like a servile footman all day long, Even from Hyperion’s rising in the east Until his very downfall in the sea."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That were to enlard his fat-already pride, And add more coals to Cancer when he burns With entertaining great Hyperion."*
+> - 📜 **John Keats (*Hyperion*):** *"Deep in the shady sadness of a vale far sunken from the healthy breath of morn, far from the fiery noon, and eve's one star, sat gray-hair'd Saturn, quiet as a stone, while fallen **Hyperion** raged."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"So excellent a king; that was, to this, **Hyperion** to a satyr; so loving to my mother that he might not beteem the winds of heaven visit her face too roughly."*
+> - 📜 **Hesiod (*Theogony*):** *"The mighty Titan **Hyperion** joined in love with Theia to bring forth the radiant sun Helios and the shining moon."*

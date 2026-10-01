@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of gobiidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of gobiidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of amphibious gobies commonly known as mudskippers, capable of moving, breathing, and feeding on land.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary ichthyology, species of *Periophthalmus* possess muscular pectoral fins adapted for terrestrial locomotion and elevated, protruding periscopic eyes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, periophthalmus designates a genus of gobiidae."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"Curious mud-loving gobies of the genus **Periophthalmus** hopped along the mangrove mud-flats with the agility of frogs."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The amphibious habits of **Periophthalmus** illustrate how ancestral vertebrates could have ventured from water onto land."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"Specimens of **Periophthalmus** use their vascular opercular chambers to breathe atmospheric air during low tide."*

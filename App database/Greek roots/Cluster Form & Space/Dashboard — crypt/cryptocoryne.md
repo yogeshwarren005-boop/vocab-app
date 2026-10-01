@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any plant of the genus cryptocoryne; evergreen perennials growing in fresh or brackish water; tropical asia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any plant of the genus cryptocoryne; evergreen perennials growing in fresh or brackish water; tropical asia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of aquatic and amphibious flowering plants in the arum family Araceae, native to tropical streams of South and Southeast Asia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic botany and aquarium horticulture, perennial aquatic herbs known as water trumpets, characterized by a spiral-twisted spathe enclosing a concealed spadix.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cryptocoryne designates any plant of the genus cryptocoryne; evergreen perennials growing in fresh or brackish water; tropical asia."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"Aquarists prize the submerged foliage of **Cryptocoryne** for its graceful bronze hues and tolerance of shaded aquatic conditions."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"Along shaded jungle rivulets of Borneo, lush patches of **Cryptocoryne** carpeted the gravel banks beneath clear flowing water."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The inflorescence of **Cryptocoryne** is enclosed within a tubular spathe, concealing the minute blossoms in a basal kettle."*

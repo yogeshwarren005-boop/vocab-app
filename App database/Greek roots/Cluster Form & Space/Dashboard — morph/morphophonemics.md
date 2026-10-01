@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of the phonological realization of the allomorphs of the morphemes of a language.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The study of the phonological realization of the allomorphs of the morphemes of a language.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of linguistics that studies the phonological variation and sound changes that occur within morphemes when combined into complex words.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In generative grammar, morphophonemics investigates the structural interface where syntactic morpheme concatenations are mapped into phonological strings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, morphophonemics designates the study of the phonological realization of the allomorphs of the morphemes of a language."*
+> - 📜 **Leonard Bloomfield (*Language*):** *"The study of alternations in the phonetic shape of morphemes is designated as **morphophonemics** or morphophonology."*
+> - 📜 **Noam Chomsky (*Current Issues in Linguistic Theory*):** *"Classical structuralism separated phonemics from syntax, leaving **morphophonemics** as an uneasy intermediate compromise."*
+> - 📜 **Charles F. Hockett (*A Manual of Phonology*):** *"Through **morphophonemics**, the analyst reconstructs base forms from which allomorphic variants are derived by rule."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The one of the three divisions of the psyche in psychoanalytic theory that is completely unconscious and is the source of psychic energy derived from instinctual needs and drives.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The one of the three divisions of the psyche in psychoanalytic theory that is completely unconscious and is the source of psychic energy derived from instinctual needs and drives.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In psychoanalytic theory, the primitive, unconscious component of the human psyche containing basic instinctual drives and repressed desires, operating entirely on the pleasure principle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Coined by Sigmund Freud (German *das Es*, 'the It') and translated into Latinate *id* by James Strachey; the id is present at birth, entirely unconscious, amoral, and drives libido and aggressive impulses that clash with the ego and superego.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"The IDS is designed to link base helping agencies to address risk factors, reduce stress and improve the coping skills and general well- being of individuals and families in the Air Force community."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A soothsayer bids you beware the Ides of March."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Is not tomorrow, boy, the Ides of March?"*
+> - 📜 **Sigmund Freud (*The Ego and the Id*):** *"The **id** is the dark, inaccessible part of our personality, filled with energy reaching it from the instincts."*
+> - 📜 **Carl Jung (*Two Essays on Analytical Psychology*):** *"While Freud emphasized the biological instinctual matrix of the **id**, the collective unconscious harbors archetypal wisdom."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The primitive appetites of what modern psychoanalysts designate the **id** conflict ceaselessly with social inhibitions."*

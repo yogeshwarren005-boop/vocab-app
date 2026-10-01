@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek typ.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Each of two or more specimens cited by an author in the original description of a species when no single holotype was designated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In zoological and botanical nomenclature, all specimens of a syntype series collectively bear the nomenclatural name until a subsequent reviser designates a lectotype from among them.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, syntype designates a term designating an entity, condition, or phenomenon derived from greek typ."*
+> - 📜 **Ernst Mayr (*Methods and Principles of Systematic Zoology*):** *"When early authors failed to choose a single type, every cited specimen in the series became a **syntype**."*
+> - 📜 **John McNeill (*International Code of Botanical Nomenclature*):** *"A lectotype must be chosen from the surviving **syntype** collection to provide a permanent single reference."*
+> - 📜 **Stephen Jay Gould (*The Structure of Evolutionary Theory*):** *"Scrutiny of the original **syntype** shells demonstrated that the author had conflated two distinct fossil species."*

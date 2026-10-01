@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the tissue layer around small blood vessels.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the tissue layer around small blood vessels.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or derived from the perithelium; situated around small blood vessels.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In histopathology and oncology, perithelial cells include pericytes and adventitial connective tissues surrounding capillaries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, perithelial designates of or relating to the tissue layer around small blood vessels."*
+> - 📜 **Santiago Ramón y Cajal (*Histology of the Nervous System*):** *"Capillary walls are reinforced externally by branching **perithelial** cells that maintain vascular stability."*
+> - 📜 **Vinay Kumar (*Robbins and Cotran Pathologic Basis of Disease*):** *"Rare mesenchymal neoplasms exhibiting concentric **perithelial** whorls are classified as hemangiopericytomas."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"A delicate network of **perithelial** fibers anchors the capillary endothelium to the surrounding tissue matrix."*

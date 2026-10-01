@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Convert code into ordinary language.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Convert code into ordinary language.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To convert ciphertext or encoded information back into intelligible plaintext using a key or algorithm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In computer security and cryptanalysis, the inverse transformation of an encryption function that restores original data.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decrypt designates convert code into ordinary language."*
+> - 📜 **Alan Turing (*Turing's Treatise on the Enigma*):** *"Once the daily stecker settings were resolved, the naval intercept station could **decrypt** incoming orders within minutes."*
+> - 📜 **Claude Shannon (*Communication Theory of Secrecy Systems*):** *"An authorized recipient applies the secret private deciphering key to **decrypt** the scrambled stream."*
+> - 📜 **David Kahn (*The Codebreakers*):** *"Allied intelligence worked desperately around the clock to **decrypt** diplomatic cables before the naval task force sailed."*

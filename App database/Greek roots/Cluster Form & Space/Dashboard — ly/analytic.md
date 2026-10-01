@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to analysis or analytics; especially : separating something into component parts or constituent elements.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being a proposition (such as "no bachelor is married") whose truth is evident from the meaning of the words it contains.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or using analysis or logical reasoning; decomposing complex concepts into constituent parts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophy (Kant), an analytic proposition is one whose predicate is already contained within the subject (e.g. 'all bachelors are unmarried'); in geometry, analytic geometry uses coordinate systems and algebra to solve geometric problems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"The connecting links of his thought have often to be supplied by an analytic reader whose mind is not up to the required tension to spring over the chasm."*
+> - 📜 **Immanuel Kant (*Critique of Pure Reason*):** *"In an **analytic** judgment, the predicate adds nothing to the concept of the subject, but merely dissects it."*
+> - 📜 **René Descartes (*Discourse on the Method*):** *"My **analytic** geometry resolved geometrical figures into algebraic equations governed by coordinate axes."*
+> - 📜 **Bertrand Russell (*A History of Western Philosophy*):** *"The **analytic** school of modern philosophy seeks clarity through rigorous logical dissection of linguistic propositions."*

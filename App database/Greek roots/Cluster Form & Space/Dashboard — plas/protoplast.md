@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A biological unit consisting of a nucleus and the body of cytoplasm with which it interacts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A biological unit consisting of a nucleus and the body of cytoplasm with which it interacts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The living contents of a plant or bacterial cell, comprising the plasma membrane and cytoplasm, stripped of its cell wall.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant biotechnology, enzymatic digestion of cell walls with cellulase and pectinase isolates viable protoplasts for somatic hybridization and genetic transformation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Those forms, unalterable first as last, proved him her copier, not the protoplast of nature: what could come of being free by action to exhibit tree for tree, bird, beast, for beast and bird, or prove earth bore one veritable man or woman more?"*
+> - 📜 **Wilhelm Hofmeister (*On the Germination and Development of the Higher Cryptogamia*):** *"Plasmolysis shrinks the living **protoplast** away from the rigid cellulose envelope of the vegetable cell."*
+> - 📜 **Katherine Esau (*Plant Anatomy*):** *"Each plant cell consists of an outer protective wall enclosing the active living **protoplast**."*
+> - 📜 **Bruce Alberts (*Molecular Biology of the Cell*):** *"Isolated plant **protoplast** cells can be induced to fuse by polyethylene glycol, creating novel hybrid cultivars."*

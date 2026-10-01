@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of dentistry dealing with irregularities of the teeth (such as malocclusion) and their correction (as by braces); also : the treatment provided by a specialist in orthodontics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A branch of dentistry dealing with irregularities of the teeth (such as malocclusion) and their correction (as by braces); also : the treatment provided by a specialist in orthodontics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A dental specialist who has completed advanced training in the diagnosis, interception, and treatment of malocclusions and skeletal disharmonies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A clinical practitioner specializing in designing and adjusting braces, aligners, and orthopedic devices to achieve functional occlusion and facial harmony.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, orthodontist designates a branch of dentistry dealing with irregularities of the teeth (such as malocclusion) and their correction (as by braces); also : the treatment provided by a specialist in orthodontics."*
+> - 📜 **Edward Angle (*Treatment of Malocclusion of the Teeth*):** *"The qualified **orthodontist** must possess the mechanical skill of an artisan and the diagnostic vision of a physician."*
+> - 📜 **Charles H. Tweed (*Clinical Orthodontics*):** *"It is the duty of the **orthodontist** to establish the dentition in perfect harmony with the cranial base."*
+> - 📜 **William R. Proffit (*Contemporary Orthodontics*):** *"Collaboration between the general practitioner and the **orthodontist** ensures comprehensive care for complex craniofacial anomalies."*

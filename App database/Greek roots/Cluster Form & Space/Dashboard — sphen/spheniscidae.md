@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Comprising all existing penguins.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Comprising all existing penguins.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The taxonomic family of flightless, aquatic diving birds commonly known as penguins, inhabiting the Southern Hemisphere.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ornithology, members of Spheniscidae exhibit torpedo-shaped bodies, dense waterproof plumage, countershaded coloration, and paddle-like flippers adapted for underwater propulsion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spheniscidae designates comprising all existing penguins."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Specimens of **Spheniscidae** dart through the Falkland kelp beds with the agility and velocity of predatory fish."*
+> - 📜 **Robert Falcon Scott (*Scott's Last Expedition*):** *"Colonies of the family **Spheniscidae** huddled together against the sixty-knot Antarctic blizzard with stoic patience."*
+> - 📜 **Alfred Russel Wallace (*The Geographical Distribution of Animals*):** *"The distribution of the **Spheniscidae** is strictly circumpolar and austral, extending north only along the cold Humboldt Current."*

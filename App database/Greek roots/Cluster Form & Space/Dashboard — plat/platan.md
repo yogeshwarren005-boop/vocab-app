@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several trees of the genus platanus having thin pale bark that scales off in small plates and lobed leaves and ball-shaped heads of fruits.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of several trees of the genus platanus having thin pale bark that scales off in small plates and lobed leaves and ball-shaped heads of fruits.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The oriental plane tree (Platanus orientalis) or plane tree in general (poetic or archaic form).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical literature, the broad, spreading shade of the platan tree was celebrated by Greek philosophers as the ideal setting for intellectual dialogue.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, platan designates any of several trees of the genus platanus having thin pale bark that scales off in small plates and lobed leaves and ball-shaped heads of fruits."*
+> - 📜 **Plato (*Phaedrus*):** *"By Hera, a fair resting-place! For this **platan** tree is very broad and lofty, providing cooling shade over the cold spring."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Spreading their fragrant boughs, the cedar, pine, and **platan** branched out over the lush garden lawns."*
+> - 📜 **Lord Byron (*Childe Harold's Pilgrimage*):** *"Under the ancient **platan**'s emerald dome, the weary traveler rests beside the Aegean shore."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or at or relating to an anode.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or at or relating to an anode.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, occurring at, or characteristic of an anode; relating to oxidation reactions occurring at the positive electrode.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In corrosion engineering, anodic protection applies a controlled positive potential to passive metals to form a protective oxide film against acid attack.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anodic designates of or at or relating to an anode."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"The chemical nature of the **anodic** reaction depends on the decomposition potential of the dissolved anions."*
+> - 📜 **Svante Arrhenius (*Textbook of Electrochemistry*):** *"During electrolysis of copper sulfate, copper dissolves at the **anodic** pole while depositing in metallic purity upon the cathode."*
+> - 📜 **Walther Nernst (*Theoretical Chemistry from the Standpoint of Avogadro's Rule and Thermodynamics*):** *"The electrode potential governing **anodic** dissolution is formulated mathematically using the Nernst equation."*

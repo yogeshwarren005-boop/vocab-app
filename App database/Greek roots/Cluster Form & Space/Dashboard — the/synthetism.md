@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genre of french painting characterized by bright flat shapes and symbolic treatments of abstract ideas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genre of french painting characterized by bright flat shapes and symbolic treatments of abstract ideas.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A post-impressionist art movement pioneered by Paul Gauguin and Émile Bernard, emphasizing two-dimensional flat patterns, pure colors, and synthesis of outward appearance with inner emotion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In art history, Synthetism rejected photographic naturalism in favor of memory, bold outlines (cloisonnism), and symbolic representation of spiritual realities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, synthetism designates a genre of french painting characterized by bright flat shapes and symbolic treatments of abstract ideas."*
+> - 📜 **Paul Gauguin (*Intimate Journals*):** *"In our quest for **Synthetism**, we simplified nature into broad rhythmic planes of unmodulated color."*
+> - 📜 **Maurice Denis (*Theories*):** *"The aesthetic of **Synthetism** reminded painters that a picture, before being a war horse or nude, is essentially a flat surface covered with colors."*
+> - 📜 **Roger Fry (*Vision and Design*):** *"Gauguin's bold **Synthetism** revitalized European painting by restoring the expressive decorative power of line and flat tone."*

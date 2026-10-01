@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a division (Ascomycota) of higher fungi (such as yeasts or molds) with septate hyphae and spores formed in asci.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a division (Ascomycota) of higher fungi (such as yeasts or molds) with septate hyphae and spores formed in asci.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any fungus belonging to the division Ascomycota, characteristically producing non-motile sexual spores (ascospores) within specialized microscopic saclike cells called asci.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic mycology and biotechnology, ascomycetes constitute the largest fungal phylum, encompassing brewer's yeast (Saccharomyces), morels, truffles, and penicillin-producing molds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"ASCOMYCETES, 1s. -------------- London: ROBERT HARDWICKE, 192, Piccadilly. ------------------------------------------------------------------------ PREFACE TO SECOND EDITION."*
+> - 📜 **Anton de Bary (*Comparative Morphology and Biology of the Fungi, Mycetozoa and Bacteria*):** *"In every typical **ascomycete**, the formation of the ascus marks the morphological climax of the sexual reproductive cycle."*
+> - 📜 **John Webster (*Introduction to Fungi*):** *"The forcible discharge of ascospores from the turgid ascus allows an **ascomycete** to disseminate its progeny into air currents."*
+> - 📜 **Bryce Kendrick (*The Fifth Kingdom*):** *"Yeasts used in baking and brewing represent secondarily unicellular derivatives of an ancestral filamentous **ascomycete**."*

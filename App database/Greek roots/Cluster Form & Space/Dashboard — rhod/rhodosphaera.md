@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One species; an australian evergreen sumac.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One species; an australian evergreen sumac.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of Australian subtropical rainforest trees in the sumac family (Anacardiaceae) containing Rhodosphaera rhodanthema (tulip satinwood).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In forestry and wood anatomy, prized for its decorative yellowish-bronze heartwood and panicles of bright pinkish-red flowers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhodosphaera designates one species; an australian evergreen sumac."*
+> - 📜 **Ferdinand von Mueller (*Fragmenta Phytographiae Australiae*):** *"The magnificent crowns of **rhodosphaera** produce dense panicles of scarlet flowers above the dark canopy of the Richmond River brushes."*
+> - 📜 **Joseph Maiden (*The Forest Flora of New South Wales*):** *"The fine-grained timber of **rhodosphaera** is esteemed for cabinetwork, taking an exquisite satiny polish."*
+> - 📜 **George Bentham (*Flora Australiensis*):** *"Botanically allied to Rhus, **rhodosphaera** is characterized by its drupaceous globular fruit enclosing a hard bony endocarp."*

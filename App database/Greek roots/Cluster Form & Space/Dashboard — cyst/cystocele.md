@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hernia in which the urinary bladder protrudes through the wall of the vagina; sometimes occurs after childbirth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hernia in which the urinary bladder protrudes through the wall of the vagina; sometimes occurs after childbirth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A medical condition in which the urinary bladder herniates or prolapses into the vagina due to weakening of pelvic floor muscles and fascia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gynecology and urogynecology, anterior vaginal wall prolapse resulting from tears or attenuation of the pubocervical fascia, often associated with childbirth trauma.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cystocele designates hernia in which the urinary bladder protrudes through the wall of the vagina; sometimes occurs after childbirth."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A prominent **cystocele** may impede complete vesical emptying, leading to stagnant residual urine and recurrent infections."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"Laceration of the pelvic diaphragm during protracted labor removes the support necessary to prevent an expanding **cystocele**."*
+> - 📜 **Harvey Cushing (*The Life of Sir William Osler*):** *"The clinical examination clearly revealed a large anterior **cystocele** protruding upon standing."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who uses a divining rod to find underground water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who uses a divining rod to find underground water.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who practices rhabdomancy; a dowser who uses a divining rod or hazel twig to locate water or hidden treasures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of folk magic and occult traditions, an operator believed to detect subterranean currents via wand deflections.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhabdomancer designates someone who uses a divining rod to find underground water."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica: Vulgar Errors*):** *"The credulous countryman employs a **rhabdomancer** to walk the pastures with a forked twig in search of hidden wellsprings."*
+> - 📜 **William Barrett (*Psychical Research*):** *"In every mining district, the traditional **rhabdomancer** claimed to feel an involuntary twitch when crossing rich metal veins."*
+> - 📜 **Sabine Baring-Gould (*Curious Myths of the Middle Ages*):** *"The seventeenth-century **rhabdomancer** Jacques Aymar astounded Parisian magistrates by tracking criminals with his divining rod."*

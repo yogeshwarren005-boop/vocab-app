@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With antithesis; in an antithetical manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With antithesis; in an antithetical manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an antithetical manner; by way of direct contrast or opposition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In stylistic rhetoric and debate, ideas presented antithetically employ balanced contrasting phrases to emphasize conceptual distinctions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antithetically designates with antithesis; in an antithetical manner."*
+> - 📜 **Samuel Johnson (*Lives of the Most Eminent English Poets*):** *"Pope arranged his couplets **antithetically**, balancing virtues against vices in rapid succession."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The historian contrasted the two statesmen **antithetically**, highlighting their opposing principles of statecraft."*
+> - 📜 **Walter Pater (*Appreciations*):** *"Themes of passion and ascetic renunciation are juxtaposed **antithetically** throughout the medieval romance."*

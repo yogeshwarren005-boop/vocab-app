@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having characteristics of both an acid and a base and capable of reacting as either.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having characteristics of both an acid and a base and capable of reacting as either.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of reacting chemically either as an acid or as a base; exhibiting both acidic and basic properties.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biochemistry and inorganic chemistry, describing substances such as amino acids, zinc oxide, and aluminum hydroxide that can both neutralize acids and react with bases.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amphoteric designates having characteristics of both an acid and a base and capable of reacting as either."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"Because aluminum hydroxide dissolves readily in either strong acid or strong alkali, it serves as a textbook example of an **amphoteric** compound."*
+> - 📜 **Svante Arrhenius (*Theories of Chemistry*):** *"Proteins and polypeptides are inherently **amphoteric**, their amino and carboxyl groups ionising according to surrounding solution pH."*
+> - 📜 **Gilbert N. Lewis (*Valence and the Structure of Atoms and Molecules*):** *"An **amphoteric** oxide bridges the periodic divide between electropositive metals and electronegative nonmetals."*

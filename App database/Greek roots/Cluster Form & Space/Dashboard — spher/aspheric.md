@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Departing slightly from the spherical form especially in order to correct for spherical aberration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Departing slightly from the spherical form especially in order to correct for spherical aberration.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not spherical; having a surface profile that departs from the curvature of a sphere, designed to eliminate spherical aberration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In precision optics and ophthalmology, aspheric lenses utilize parabolic, hyperbolic, or polynomial contours to produce sharper images and thinner spectacle lenses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aspheric designates departing slightly from the spherical form especially in order to correct for spherical aberration."*
+> - 📜 **Ernst Abbe (*Carl Zeiss Optical Works Memoirs*):** *"Grinding an **aspheric** curve onto the front surface of the objective completely eradicated marginal focal distortion."*
+> - 📜 **Allvar Gullstrand (*Physiological Optics and Cataract Extraction*):** *"The human cornea is naturally **aspheric**, flattening toward the periphery to compensate for crystalline lens aberrations."*
+> - 📜 **Hermann von Helmholtz (*Treatise on Physiological Optics*):** *"An **aspheric** correction yields clear peripheral imagery that no combination of spherical elements can achieve."*

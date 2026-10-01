@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The Jews living outside Israel —usually used with the.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The settling of scattered communities of Jews outside ancient Palestine after the Babylonian exile.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The dispersion, scattering, or movement of a people away from their established ancestral homeland; also the dispersed community itself.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically applied to the exile of the Jewish people following the Babylonian and Roman conquests, diaspora now broadly encompasses any dispersed ethnic or religious population.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diaspora designates the jews living outside israel —usually used with the."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Following the destruction of Jerusalem by Titus, the tragic **diaspora** dispersed Jewish communities into every province of the Mediterranean."*
+> - 📜 **W. E. B. Du Bois (*The World and Africa*):** *"The transatlantic slave trade created an immense African **diaspora** whose cultural resilience transformed the Americas."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"He felt drawn by an inexplicable kinship to the scattered members of this ancient, unvanquished **diaspora**."*

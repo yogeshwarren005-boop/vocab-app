@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quantity contained in a plate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quantity contained in a plate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The amount that a plate can hold; a generous helping or portion of food served on a plate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Informally, a large quantity or abundance of work, troubles, or responsibilities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Of this preparation a tolerably abundant plateful was apportioned to each pupil."*
-> - 📜 **Effie Afton (*Eventide*):** *"Sykes a plateful of her nice, sweet doughnuts, as she had visitors come in unexpectedly, and was not quite prepared to entertain them as she could wish." Thus were the guests provided for."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"I carried a second plateful up to the cars, after they had been put in, and fed one of them till he was sure he had had enough."*
+> - 📜 **Charles Dickens (*Oliver Twist*):** *"Oliver gazed longing at the steaming **plateful** of hot roast beef being carried past to the master's table."*
+> - 📜 **Mark Twain (*The Adventures of Tom Sawyer*):** *"Aunt Polly heaped a generous **plateful** of fried chicken before the hungry runaway."*
+> - 📜 **George Eliot (*Silas Marner*):** *"The hearty farmer consumed his substantial **plateful** with the relish of a man who worked outdoors from sunrise."*

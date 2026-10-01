@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek lag.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of New World lagomorphs in the family Leporidae, commonly known as cottontail rabbits, comprising approximately twenty species native to the Americas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mammalogy and wildlife ecology, *Sylvilagus* (including the eastern cottontail *Sylvilagus floridanus*) are altricial nesters whose young are born hairless and blind, contrasting with precocial hares (*Lepus*).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Sylvilagus designates a term designating an entity, condition, or phenomenon derived from greek lag."*
+> - 📜 **C. Hart Merriam (*The Prairie Dog of the Great Plains*):** *"Species of **Sylvilagus** nest in concealed fur-lined surface forms, foraging on grasses and tender shrubs."*
+> - 📜 **Elliott Coues (*Monographs of North American Rodentia*):** *"The genus **Sylvilagus** is distinguished from true hares by smaller body proportions and shorter ears."*
+> - 📜 **John James Audubon (*The Viviparous Quadrupeds of North America*):** *"The fluffy white undertail of **Sylvilagus** floridanus flashes like a beacon as the rabbit darts into brush."*

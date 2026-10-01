@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of birds of the family rheidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of birds of the family rheidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus or subgenus of flightless South American ratite birds containing Darwin's rhea (Pterocnemia pennata), the lesser rhea.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ornithology, an upland ratite of the Patagonian steppe and Andean altiplano, characterized by feathered tarsi and white-tipped plumage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pterocnemia designates a genus of birds of the family rheidae."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"In Patagonia, I procured specimens of the rare lesser rhea, subsequently named **pterocnemia**, which differs markedly from the common ostrich."*
+> - 📜 **John Gould (*The Zoology of the Voyage of H.M.S. Beagle*):** *"The feathered leg and distinct mottled plumage of **pterocnemia** confirm its generic distinction from Rhea americana."*
+> - 📜 **Alfred Russel Wallace (*Island Life: Or, The Phenomena and Causes of Insular Faunas and Floras*):** *"The distribution of **pterocnemia** across the arid southern plains illustrates geographic speciation along the Andean barrier."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Indigestion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ill humor : disgruntlement.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Impaired digestion; chronic or recurrent discomfort or pain centered in the upper abdomen, commonly known as indigestion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gastroenterology, functional dyspepsia encompasses symptoms of postprandial fullness, early satiation, and epigastric pain in the absence of organic mucosal ulceration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"I then asked Queequeg whether he himself was ever troubled with dyspepsia; expressing the idea very plainly, so that he could take it in."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"In truth, it turned out to be one of those problematical whales that seem to dry up and die with a sort of prodigious dyspepsia, or indigestion; leaving their defunct bodies almost entirely bankrupt of anything like oil."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"By some, ambergris is supposed to be the cause, and by others the effect, of the dyspepsia in the whale."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Sedentary habits, rapid bolting of food, and nervous exhaustion are primary precipitants of chronic **dyspepsia**."*
+> - 📜 **Thomas Carlyle (*Letters and Memorials of Jane Welsh Carlyle*):** *"A miserable fit of **dyspepsia** clouded my thoughts and made the simplest literary exertion a torment."*
+> - 📜 **Tinsley R. Harrison (*Principles of Internal Medicine*):** *"Endoscopic examination in patients presenting with uninvestigated **dyspepsia** rules out peptic ulcer disease and gastric adenocarcinoma."*

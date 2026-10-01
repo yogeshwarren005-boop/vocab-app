@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an elementary manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an elementary manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an elementary, rudimentary, or foundational manner; at a basic level.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In logic and exposition, proceeding simply from first principles without extraneous complexity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, elementarily designates in an elementary manner."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The laws of nature must first be grasped **elementarily** before their intricate interactions can be comprehended."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Sensory impressions are grouped **elementarily** in consciousness before complex cognitive synthesis occurs."*
+> - 📜 **John Dewey (*Democracy and Education*):** *"Subject matter presented **elementarily** allows novice learners to build stable cognitive scaffolding."*

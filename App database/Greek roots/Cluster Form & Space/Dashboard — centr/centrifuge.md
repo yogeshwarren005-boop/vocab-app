@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An apparatus that uses centrifugal force to separate particles from a suspension.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rotate at very high speed in order to separate the liquids from the solids.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A motorized laboratory or industrial apparatus with a rapidly spinning rotor that applies centrifugal force to separate substances of different densities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In molecular biology and isotopic physics, high-speed machines (ultracentrifuges or gas centrifuges) essential for subcellular fractionation and isotope separation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centrifuge designates an apparatus that uses centrifugal force to separate particles from a suspension."*
+> - 📜 **Theodor Svedberg (*The Ultracentrifuge*):** *"The optical **centrifuge** enabled direct observation of sedimentation boundaries while the rotor spun at forty thousand revolutions per minute."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A benchtop clinical **centrifuge** quickly prepares blood serum for diagnostic agglutination tests."*
+> - 📜 **Primo Levi (*The Periodic Table*):** *"The roar of the heavy chemical **centrifuge** signaled that the batch of crystalline paint pigments was finally drying."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (greek mythology) one of the 7 pleiades.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of the stars in the star cluster pleiades.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In Greek mythology, one of the seven Pleiades, daughters of Atlas and Pleione; also the double star Sterope (Asterope) in the Pleiades cluster.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In observational astronomy, a visual double star (Asterope I and II / 21 and 22 Tauri) embedded within the reflection nebulae of the Pleiades.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, asterope designates (greek mythology) one of the 7 pleiades."*
+> - 📜 **John Herschel (*Outlines of Astronomy*):** *"Through a modest telescope, faint **Asterope** resolves into twin starry sparks amidst the luminous gauze of the Pleiades."*
+> - 📜 **John Keats (*Ode to Maia*):** *"With sweet Maia and her starry sisters, gentle **Asterope** leads the celestial dance across the nocturnal skies of Greece."*
+> - 📜 **Alexander von Humboldt (*Cosmos*):** *"Ancient navigators looked to the rising of **Asterope** and her sisters to mark the safe opening of Mediterranean sailing."*

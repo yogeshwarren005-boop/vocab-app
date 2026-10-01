@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Designed or intended to teach.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Intended to convey instruction and information in addition to serving another purpose (such as pleasure and entertainment); often : overly instructive.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Intended to teach, instruct, or convey information; especially featuring an inclination to lecture or impart moral lessons.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary genre classification, didactic poetry and drama explicitly prioritize educational exposition over pure lyrical expression.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sydney Waterlow (*Shelley*):** *"Not for a moment, though, must it be imagined that he was a didactic poet."*
-> - 📜 **Sydney Waterlow (*Shelley*):** *"To avoid being a didactic treatise it has to deal in high-flown abstractions, and in Shelley fear, famine, tyranny, and the rest, sometimes have all the emptiness of the classical manner."*
-> - 📜 **George Eliot (*Middlemarch*):** *"The shallowness of a waternixie’s soul may have a charm until she becomes didactic."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"A poem may be deeply **didactic** in its ultimate effect, yet its immediate object must remain pleasure rather than doctrine."*
+> - 📜 **Percy Bysshe Shelley (*A Defence of Poetry*):** *"True poetry acts upon the imagination, and is therefore hindered when constrained by narrow, **didactic** moralizing."*
+> - 📜 **John Locke (*Some Thoughts Concerning Education*):** *"The tutor must adopt a conversational manner rather than dry, **didactic** dogmatism to awaken a child's natural curiosity."*

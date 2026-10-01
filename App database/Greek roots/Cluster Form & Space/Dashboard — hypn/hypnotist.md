@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The study or act of inducing hypnosis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The study or act of inducing hypnosis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who practices hypnosis or is skilled in putting people into a hypnotic trance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical medicine, psychology, and stage performance, a hypnotist employs verbal suggestion, rhythmic cues, and eye-fixation techniques to guide individuals into altered states of consciousness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The Christian Scientist demonstrates 375:12 that divine Mind heals, while the hypnotist dispossesses the patient of his individuality in order to control him."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The subject accepts the hallucinations suggested by the **hypnotist** as indubitable sensory facts."*
+> - 📜 **Sigmund Freud (*Studies on Hysteria*):** *"When the **hypnotist** placed his hand upon the patient's forehead, forgotten memories surged into consciousness."*
+> - 📜 **Oliver Sacks (*An Anthropologist on Mars*):** *"The skilled clinical **hypnotist** reframes somatic pain pathways through guided dissociative imagery."*

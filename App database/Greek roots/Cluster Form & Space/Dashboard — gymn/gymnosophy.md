@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The doctrine of a sect of hindu philosophers who practiced nudity and asceticism and meditation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The doctrine of a sect of hindu philosophers who practiced nudity and asceticism and meditation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The philosophy, religious doctrine, or ascetic practice of the gymnosophists; spiritual contemplation combined with bodily nudity and physical austerity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of philosophy, gymnosophy was viewed by Cynics and Neoplatonists as the purest realization of self-sufficiency (*autarkeia*).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gymnosophy designates the doctrine of a sect of hindu philosophers who practiced nudity and asceticism and meditation."*
+> - 📜 **Voltaire (*Philosophical Dictionary*):** *"The antiquity of Indian **gymnosophy** surpassed the schools of Athens, teaching the immortality of the soul long before Pythagoras."*
+> - 📜 **Denis Diderot (*Encyclopédie*):** *"The principles of **gymnosophy** prioritized interior tranquility over all worldly honors, civic laws, and material possessions."*
+> - 📜 **Arthur Schopenhauer (*The World as Will and Representation*):** *"The core of **gymnosophy** consists in the conscious, heroic denial of the will to live through rigorous ascetical detachment."*

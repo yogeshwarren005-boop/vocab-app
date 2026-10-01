@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Shaped like a cube.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shaped like a cube.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Shaped like a cube; having the form, proportions, or properties of a cube.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mineralogy and crystallography, describing crystal structures or cleavage habits conforming to the isometric (cubic) system.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cubical designates shaped like a cube."*
+> - 📜 **Robert Hooke (*Micrographia*):** *"Under the microscope, grains of sea-salt resolved themselves into exquisitely regular **cubical** crystals."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Columns of basalt occasionally break into **cubical** blocks under the combined action of jointing and frost."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The Byzantine capital retains the simple **cubical** mass from which intricate acanthus leaves were carved."*

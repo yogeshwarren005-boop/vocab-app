@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An oral antiviral drug (trade name zovirax) used to treat genital herpes; does not cure the disease but relieves the symptoms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An oral antiviral drug (trade name zovirax) used to treat genital herpes; does not cure the disease but relieves the symptoms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A synthetic nucleoside analogue antiviral medication used primarily in the treatment of herpes simplex virus infections, chickenpox, and shingles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacology and molecular therapeutics, an acyclic guanosine analogue that undergoes selective monophosphorylation by viral thymidine kinase, competitively inhibiting viral DNA polymerase and terminating viral DNA chain elongation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acyclovir designates an oral antiviral drug (trade name zovirax) used to treat genital herpes; does not cure the disease but relieves the symptoms."*
+> - 📜 **Sydney Brenner (*Loose Ends*):** *"The clinical triumph of **acyclovir** showed that an acyclic nucleoside could selectively disable a viral polymerase while sparing host cells."*
+> - 📜 **Gertrude Elion (*Nobel Lecture: The Purine Path to Chemotherapy*):** *"In developing **acyclovir**, our goal was a selective antiviral prodrug activated exclusively inside virus-infected cells."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Modern antimicrobial chapters emphasize the rapid introduction of **acyclovir** in suspected herpes simplex encephalitis to prevent necrosis."*

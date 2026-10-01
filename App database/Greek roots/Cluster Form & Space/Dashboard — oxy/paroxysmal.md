@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Accompanied by or of the nature of paroxysms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Accompanied by or of the nature of paroxysms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, marked by, or occurring in sudden recurrent paroxysms or spasms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical cardiology and neurology, describing conditions characterized by abrupt onset and termination, such as paroxysmal supraventricular tachycardia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paroxysmal designates accompanied by or of the nature of paroxysms."*
+> - 📜 **Eugene Braunwald (*Heart Disease*):** *"Episodes of **paroxysmal** atrial fibrillation may terminate spontaneously or deteriorate into persistent arrhythmia."*
+> - 📜 **Tinsley R. Harrison (*Principles of Internal Medicine*):** *"Sudden palpitations accompanied by lightheadedness suggest a **paroxysmal** tachycardia mediated by an accessory pathway."*
+> - 📜 **William Richard Gowers (*Manual of Diseases of the Nervous System*):** *"The **paroxysmal** nature of trigeminal neuralgia causes patients to live in constant dread of sudden agony."*

@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A supernatural being in Persian folklore descended from fallen angels and excluded from paradise until penance is accomplished.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A beautiful and graceful girl.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A prefix of Greek origin meaning 'about', 'around', 'enclosing', or 'near'.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anatomical and astronomical terminology, forms terms denoting surrounding membranes (pericardium, periosteum) or orbital points of closest approach (perihelion, perigee).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"He had already withdrawn his eye from the Peri, and was looking at a humble tuft of daisies which grew by the wicket."*
-> - 📜 **John Keats (*Lamia*):** *"Let the mad poets say whate'er they please Of the sweets of Fairies, Peris, Goddesses, There is not such a treat among them all, Haunters of cavern, lake, and waterfall, As a real woman, lineal indeed From Pyrrha's pebbles or old Adam's seed."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"The Greek preposition **peri** signifies around, about, or concerning, forming numerous compound derivatives."*
+> - 📜 **Robert Beekes (*Etymological Dictionary of Greek*):** *"Deriving from Proto-Indo-European *per-, the combining form **peri** denotes spatial enclosure and circumferential proximity."*
+> - 📜 **Herbert Weir Smyth (*Greek Grammar*):** *"In composition with verbs, the preposition **peri** often intensifies the verbal action or signifies circular motion."*

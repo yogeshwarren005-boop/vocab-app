@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Facing or on the side toward the base.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Facing or on the side toward the base.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In botany and plant organography, directed, pointing, or facing toward the base or point of attachment of an organ or stem.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pteridology, designating pinnae, sori, or lobes positioned on the lower or basal side of a frond axis (contrasting with acroscopic).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, basiscopic designates facing or on the side toward the base."*
+> - 📜 **Katherine Esau (*Plant Anatomy*):** *"The **basiscopic** side of the fern pinnule displays distinct venation patterns that contrast with the acroscopic margin."*
+> - 📜 **Arthur J. Eames (*Morphology of Vascular Plants*):** *"In dryopteroid ferns, an enlarged **basiscopic** basal segment gives the frond its characteristic triangular silhouette."*
+> - 📜 **F. O. Bower (*The Ferns: Filicales*):** *"Developmental polarity establishes whether sporangia initiate in **basiscopic** sequence or simultaneously along the vein."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek spher.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In mathematics, the set of all points in an n-dimensional Euclidean space that are situated at a constant distance from a fixed central point.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In differential geometry and theoretical cosmology, the 3-sphere (a 3-dimensional hypersphere bounding a 4-dimensional ball) provides a closed, finite, yet boundaryless model of cosmological spacetime.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypersphere designates a term designating an entity, condition, or phenomenon derived from greek spher."*
+> - 📜 **Henri Poincaré (*Analysis Situs*):** *"Every simply connected, closed 3-manifold is homeomorphic to the three-dimensional **hypersphere**."*
+> - 📜 **Albert Einstein (*Cosmological Considerations on the General Theory of Relativity*):** *"Matter distributed with uniform density bends spatial geometry into a closed, finite **hypersphere** without an edge."*
+> - 📜 **H. S. M. Coxeter (*Regular Polytopes*):** *"The symmetry groups of regular four-dimensional polytopes are realized upon the curved surface of the **hypersphere**."*

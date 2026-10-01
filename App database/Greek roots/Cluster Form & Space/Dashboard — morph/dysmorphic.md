@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by malformation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by malformation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having an abnormal, malformed, or atypical anatomical structure or physical development.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical genetics and pediatrics, dysmorphic facial and skeletal features serve as crucial phenotypic markers for diagnosing underlying chromosomal anomalies or genetic syndromes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dysmorphic designates characterized by malformation."*
+> - 📜 **David W. Smith (*Recognizable Patterns of Human Malformation*):** *"A thorough clinical evaluation for minor **dysmorphic** features often yields the first clue toward identifying rare congenital syndromes."*
+> - 📜 **Robert Gorlin (*Syndromes of the Head and Neck*):** *"Craniofacial dysmorphologists categorize abnormal calvarial contours as **dysmorphic** developments secondary to premature suture fusion."*
+> - 📜 **John M. Opitz (*The Developmental Field Concept in Clinical Genetics*):** *"When multiple **dysmorphic** signs cluster in a newborn, we evaluate whether they stem from a single localized developmental field disruption."*

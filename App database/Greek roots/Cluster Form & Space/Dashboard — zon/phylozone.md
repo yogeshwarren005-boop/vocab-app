@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek zon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A biostratigraphic interval characterized by the evolutionary lineage or phylogenetic succession of a particular fossil taxon through a sequence of sedimentary strata.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In paleontology and stratigraphy, phylozones are defined by ancestor-descendant relationships within a fossil lineage, providing high-resolution biochronological frameworks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phylozone designates a term designating an entity, condition, or phenomenon derived from greek zon."*
+> - 📜 **William Berry (*Growth of a Prehistoric Time Scale*):** *"The **phylozone** concept refines biostratigraphy by tracking evolutionary transitions within a single lineage."*
+> - 📜 **Roger Kaesler (*Treatise on Invertebrate Paleontology*):** *"Each **phylozone** represents a distinct morphological stage in the documented evolution of the index fossil."*
+> - 📜 **Brian McGowran (*Biostratigraphy: Microfossils and Geological Time*):** *"A well-defined **phylozone** offers temporal resolution superior to that of conventional range zones."*

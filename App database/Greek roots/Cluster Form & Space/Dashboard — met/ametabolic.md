@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of throw.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of throw.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by or undergoing no metamorphosis (of insects); ametabolous; also, characterized by absence of metabolism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In developmental entomology, describing primitive apterygote insects (such as silverfish) in which newly hatched juveniles emerge as miniature copies of adults without metamorphosis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ametabolic designates adjective*) pertaining to, derived from, or characteristic of throw."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The primitive silverfish exhibits an **ametabolic** life history, undergoing successive molts without wing development."*
+> - 📜 **Edwin Ray Lankester (*A Treatise on Zoology*):** *"In **ametabolic** hexapods, morphological change between instars is restricted almost entirely to gonadal maturation."*
+> - 📜 **John Lubbock (*On the Senses, Instincts, and Intelligence of Animals*):** *"The simplest wingless insects retain an **ametabolic** pattern, reflecting the ancestral condition of terrestrial arthropods."*

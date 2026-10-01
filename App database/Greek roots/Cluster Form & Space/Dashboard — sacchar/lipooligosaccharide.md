@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek sacchar.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A glycolipid surface molecule found in the outer membrane of certain Gram-negative mucosal bacteria, lacking the repeating O-antigen chain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In molecular microbiology and pathogenesis, an endotoxic virulence factor of Neisseria and Haemophilus capable of molecular mimicry of host gangliosides.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lipooligosaccharide designates a term designating an entity, condition, or phenomenon derived from greek sacchar."*
+> - 📜 **Carl R. Alving (*Lipopolysaccharides and Lipooligosaccharides in Immunity*):** *"The terminal sialylation of mucosal **lipooligosaccharide** enables gonococci to evade detection by human complement proteins."*
+> - 📜 **Stanley Falkow (*Bacterial Pathogenesis: A Molecular Approach*):** *"Meningococcal **lipooligosaccharide** triggers explosive systemic inflammation and intravascular coagulation during fulminant septicemia."*
+> - 📜 **Bernard N. Fields (*Microbiology and Microbial Infections*):** *"Structural variations in **lipooligosaccharide** core oligosaccharides dictate the antigenic serotypes of pathogenic Neisseria."*

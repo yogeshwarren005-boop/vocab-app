@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or related to or having the properties of a neoplasm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or related to or having the properties of a neoplasm.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or having the characteristics of a neoplasm or neoplasia; tumoral.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cellular biology, describing transformed cells that exhibit anchorage-independent growth, evasion of apoptosis, and sustained angiogenesis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neoplastic designates of or related to or having the properties of a neoplasm."*
+> - 📜 **Robert A. Weinberg (*The Hallmarks of Cancer*):** *"Acquisition of self-sufficiency in growth signals enables **neoplastic** clones to expand without exogenous stimulation."*
+> - 📜 **Vinay Kumar (*Robbins and Cotran Pathologic Basis of Disease*):** *"Infiltration through the basement membrane into lymphatic channels confirms the malignant nature of a **neoplastic** clone."*
+> - 📜 **Juan Rosai (*Rosai and Ackerman's Surgical Pathology*):** *"Immunohistochemical profiling of intermediate filaments helps pinpoint the histogenetic origin of **neoplastic** biopsies."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek syring.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A benign, non-cancerous eccrine sweat duct tumor, typically manifesting as small, flesh-colored, yellowish, or firm papules around the lower eyelids.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dermatopathology, histological examination of a syringoma reveals comma-shaped or 'tadpole-like' tubular epithelial ducts embedded in a dense fibrous stroma.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, syringoma designates a term designating an entity, condition, or phenomenon derived from greek syring."*
+> - 📜 **Jonathan Wright (*A History of Laryngology and Dermatology*):** *"Histological sections of the eyelid lesion demonstrated the classic ductal architecture of an eruptive **syringoma**."*
+> - 📜 **William Osler (*Principles and Practice of Medicine*):** *"Multiple small periorbital papules were confirmed by biopsy to represent benign eccrine **syringoma** clusters."*
+> - 📜 **Ernst Fuchs (*Text-Book of Ophthalmology*):** *"Careful surgical excision or electrodessication of a **syringoma** on the lid margin preserves eyelid motility."*

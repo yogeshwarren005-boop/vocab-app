@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek aster.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A botanical and mycological designation referring to the star-like dehiscence and spore configuration of earthstar fungi (genus Geastrum).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In morphological mycology, the dual radial symmetry exhibited by the splitting exoperidium and rayed central peristome of earthstar sporocarps.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diasterism geaster designates a term designating an entity, condition, or phenomenon derived from greek aster."*
+> - 📜 **Anton de Bary (*Comparative Morphology and Biology of the Fungi*):** *"In **diasterism geaster**, the star-shaped rays of the exoperidium peel backward upon the soil like a hygroscopic floral blossom."*
+> - 📜 **William Benjamin Carpenter (*The Microscope and Its Revelations*):** *"The elegant symmetry of **diasterism geaster** reveals how fungal peridia split along radial cleavage planes to liberate dry spores."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The curious earthstar displays a remarkable **diasterism geaster** pattern, mimicking a celestial constellation cast upon the forest floor."*

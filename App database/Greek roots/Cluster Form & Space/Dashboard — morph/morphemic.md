@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to morphemes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to morphemes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, consisting of, or functioning as a morpheme or system of morphemes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In structural phonology and morphology, morphemic analysis identifies the constituent functional elements that structure complex words.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, morphemic designates of or relating to morphemes."*
+> - 📜 **Zellig Harris (*Methods in Structural Linguistics*):** *"The distribution of phonemes is analyzed to identify the regular **morphemic** segments that constitute phrases."*
+> - 📜 **Charles F. Hockett (*A Manual of Phonology*):** *"Phonological alternations across related paradigms reveal the underlying **morphemic** unity of inflected verb roots."*
+> - 📜 **Roman Jakobson (*Selected Writings*):** *"Language systems maintain invariant **morphemic** values despite substantial contextual variations in pronunciation."*

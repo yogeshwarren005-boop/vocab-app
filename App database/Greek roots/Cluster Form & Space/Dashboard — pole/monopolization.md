@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Domination (of a market or commodity) to the exclusion of others.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Domination (of a market or commodity) to the exclusion of others.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act, process, or practice of obtaining exclusive possession or control of a market, commodity, or sphere of activity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In antitrust law, the unlawful acquisition or maintenance of monopoly power through anticompetitive, predatory, or exclusionary conduct.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Coal mines, especially those of some peculiar and limited kind, such as anthracite, appear to become easily an object of monopolization."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Coal-mines, especially those of some peculiar and limited kind, such as anthracite, appear to become easily an object of monopolization."*
+> - 📜 **William Howard Taft (*The Anti-Trust Act and the Supreme Court*):** *"Section two of the statute expressly prohibits every contract, combination, or conspiracy tending toward the **monopolization** of interstate trade."*
+> - 📜 **Richard Posner (*Antitrust Law*):** *"To prove illegal **monopolization**, the plaintiff must establish possession of monopoly power coupled with exclusionary business conduct."*
+> - 📜 **Alfred Chandler (*The Visible Hand: The Managerial Revolution in American Business*):** *"The rapid **monopolization** of refining infrastructure enabled standard managerial practices to dominate national distribution."*

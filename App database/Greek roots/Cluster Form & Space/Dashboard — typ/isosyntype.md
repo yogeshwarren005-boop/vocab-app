@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek typ.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A duplicate specimen of a syntype, collected from the same gathering and cited by the author when no holotype was chosen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical herbarium curation and plant taxonomy (ICN), an isosyntype is an exact duplicate of one of the original syntypes deposited in an alternative herbarium collection.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, isosyntype designates a term designating an entity, condition, or phenomenon derived from greek typ."*
+> - 📜 **John McNeill (*International Code of Botanical Nomenclature*):** *"If the primary syntype in Berlin was destroyed during the war, an **isosyntype** preserved in Kew may be designated as lectotype."*
+> - 📜 **Asa Gray (*Scientific Papers of Asa Gray*):** *"Gray verified his new composite species against an **isosyntype** specimen sent directly from the Paris Natural History Museum."*
+> - 📜 **Carl Christensen (*Index Filicum*):** *"Careful cross-referencing confirmed that the herbarium sheet in Geneva represented an authentic **isosyntype**."*

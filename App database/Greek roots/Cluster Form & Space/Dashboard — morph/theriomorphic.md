@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having an animal form.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having an animal form.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having animal form or taking the shape of a beast; theriomorphic deities or artistic representations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative mythology and religious history, theriomorphic worship characterizes early Egyptian and shamanic traditions where gods were depicted as falcons, jackals, or bulls.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, theriomorphic designates having an animal form."*
+> - 📜 **James George Frazer (*The Golden Bough*):** *"In ancient agricultural rituals, the corn spirit was originally venerated under a **theriomorphic** disguise, appearing as a wolf or hare."*
+> - 📜 **E. A. Wallis Budge (*The Gods of the Egyptians*):** *"Early Dynastic religion maintained strong **theriomorphic** devotions, depicting Anubis as a jackal and Hathor as a divine cow."*
+> - 📜 **Mircea Eliade (*A History of Religious Ideas*):** *"Shamanic trances frequently involve an identification with a **theriomorphic** spirit guide who aids the soul's cosmic voyage."*

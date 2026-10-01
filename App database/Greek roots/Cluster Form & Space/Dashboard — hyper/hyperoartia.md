@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lampreys as distinguished from hagfishes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lampreys as distinguished from hagfishes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A major group or taxonomic clade of jawless vertebrates (Agnatha) comprising modern lampreys and their extinct fossil relatives.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate paleontology and evolutionary morphology, Hyperoartia is distinguished by a single median dorsal nostril (nasohypophysial opening) situated on top of the head, a piston-like rasper tongue, and cartilaginous vertebral precursors (arcualia).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyperoartia designates lampreys as distinguished from hagfishes."*
+> - 📜 **Alfred Sherwood Romer (*Vertebrate Paleontology*):** *"The living lampreys, united within **Hyperoartia**, represent precious survivors of the most primitive jawless vertebrate stock."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"In the **Hyperoartia**, the olfactory sac does not communicate with the pharynx, terminating as a blind dorsal tube."*
+> - 📜 **Edwin H. Colbert (*Evolution of the Vertebrates*):** *"Fossil evidence indicates that ancestors of the **Hyperoartia** navigated Paleozoic waters long before jawed fishes arose."*

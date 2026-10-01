@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek rhach.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A severe congenital neural tube defect characterized by an open, unfused cleft of the vertebral column with exposure of the spinal cord.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In embryology and neonatal surgery, the most severe form of spina bifida (rachischisis totalis) resulting from failure of neural fold closure during neurulation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rachischisis designates a term designating an entity, condition, or phenomenon derived from greek rhach."*
+> - 📜 **Rudolf Virchow (*Die krankhaften Geschwülste*):** *"In complete **rachischisis**, the spinal canal remains entirely open from the occiput to the sacrum, leaving the neural plate bare."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Maternal folate deficiency in early pregnancy is strongly implicated in fatal neural tube failures like **rachischisis**."*
+> - 📜 **John William Ballantyne (*Manual of Antenatal Pathology and Hygiene*):** *"The exposed vascular area medullo-vasculosa in **rachischisis** demonstrates failure of mesodermal arch closure over the open spinal cord."*

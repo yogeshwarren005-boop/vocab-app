@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek spher.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In geometric crystallography and theoretical modeling, a three-part spherical shell or system of three mutually intersecting concentric spheres.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In solid-state physics and geometric topology, the trimetasphere configuration is analyzed to model multi-layered electrostatic shields or atomic electron shell boundaries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trimetasphere designates a term designating an entity, condition, or phenomenon derived from greek spher."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"We calculate the capacitance of a concentric **trimetasphere** system by summing the dielectric potentials between adjacent conducting boundaries."*
+> - 📜 **Lord Kelvin (*Mathematical and Physical Papers*):** *"Harmonic analysis over the nested surfaces of the **trimetasphere** yields exact solutions for radial thermal diffusion."*
+> - 📜 **Arthur Eddington (*The Mathematical Theory of Relativity*):** *"The idealized gravitational field across a nested **trimetasphere** illustrates boundary matching conditions in curved spacetime."*

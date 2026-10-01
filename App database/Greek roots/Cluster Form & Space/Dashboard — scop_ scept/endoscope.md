@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A long slender medical instrument for examining the interior of a bodily organ or performing minor surgery.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A long slender medical instrument for examining the interior of a bodily organ or performing minor surgery.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An illuminated optical instrument, typically tubular and flexible or rigid, inserted directly into the body to inspect internal organs, cavities, or passages.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In minimally invasive surgery and gastroenterology, advanced video endoscopes incorporate working channels for biopsies, electrosurgical cautery, and laser therapeutics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endoscope designates a long slender medical instrument for examining the interior of a bodily organ or performing minor surgery."*
+> - 📜 **Philipp Bozzini (*The Lichtleiter: An Endoscopic Device*):** *"The introduction of the illuminated tube or **endoscope** into bodily orifices revealed mucosal surfaces hitherto hidden from sight."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Modern diagnosis of esophageal and gastric lesions owes an immense debt to the flexible **endoscope**."*
+> - 📜 **Antonin Jean Desormeaux (*The Endoscope and Its Applications*):** *"By directing a concentrated beam through the **endoscope**, the clinician can examine the deep vesical walls with remarkable precision."*

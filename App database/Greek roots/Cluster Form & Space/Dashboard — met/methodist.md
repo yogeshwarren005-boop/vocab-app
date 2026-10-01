@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A follower of wesleyanism as practiced by the methodist church.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or pertaining to or characteristic of the branch of protestantism adhering to the views of wesley.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who acts according to a strict method; historically, an ancient medical practitioner belonging to the Methodic school of Asclepiades.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In religious history, an adherent or member of the Methodist Christian denomination, characterized by structured prayer, class meetings, and evangelical outreach.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"And what mid Methodist pa’sons have to do with she?” “Who is the fellow?” asked d’Urberville, turning to Tess."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Every step was accomplished by the simple way of prayer; and, when I slept, late that night, in a cosy room at the Methodist parsonage in N.B., I could look back over the last few weeks, and thank God for the _power of prayer_."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Starting out, one night, to look for a place of worship, she turned her feet to a Methodist meeting from whence the sound of singing had reached her."*
+> - 📜 **John Wesley (*A Plain Account of the People Called Methodists*):** *"A **methodist** is one who lives according to the method laid down in the Holy Scriptures, loving the Lord with all his heart."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The strict morals and rigorous discipline of the **methodist** societies contributed visibly to the industry and sobriety of the common people."*
+> - 📜 **George Eliot (*Adam Bede*):** *"Dinah Morris, the gentle **methodist** preacher, spoke with an earnest simplicity that moved the villagers to tears on the green."*

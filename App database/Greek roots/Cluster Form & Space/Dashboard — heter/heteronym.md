@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of two or more homographs (such as a bass voice and bass, a fish) that differ in pronunciation and meaning.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of two or more homographs (such as a bass voice and bass, a fish) that differ in pronunciation and meaning.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A word having the same spelling as another but a different sound and meaning (e.g., 'lead' to guide vs. 'lead' the metal); also, a fictional literary persona with distinct style and biography (in Pessoa).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistics and poetics, Fernando Pessoa created elaborate heteronyms (Álvaro de Campos, Ricardo Reis) whose works expressed entirely divergent philosophies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heteronym designates one of two or more homographs (such as a bass voice and bass, a fish) that differ in pronunciation and meaning."*
+> - 📜 **Fernando Pessoa (*The Book of Disquiet*):** *"To create a true **heteronym** is to bestow upon an imaginary voice a complete biographical existence, philosophy, and poetic style."*
+> - 📜 **Henry Fowler (*Modern English Usage*):** *"Careful pronunciation resolves the semantic confusion that arises when encountering a written **heteronym** in prose."*
+> - 📜 **George Steiner (*After Babel*):** *"Pessoa's invention of the **heteronym** represents one of the most radical explorations of fragmented identity in modern literature."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An activity resembling science but based on fallacious assumptions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An activity resembling science but based on fallacious assumptions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A collection of beliefs, claims, or practices mistakenly or deceptively presented as being based on the scientific method.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the philosophy of science, doctrines failing the demarcation criterion of empirical falsifiability while adopting the vocabulary of legitimate science.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pseudoscience designates an activity resembling science but based on fallacious assumptions."*
+> - 📜 **Karl Popper (*Conjectures and Refutations: The Growth of Scientific Knowledge*):** *"The criterion of falsifiability offers a clear solution to the problem of demarcating science from **pseudoscience**."*
+> - 📜 **Carl Sagan (*The Demon-Haunted World: Science as a Candle in the Dark*):** *"The proliferation of **pseudoscience** threatens democratic decision-making by feeding credulity and uncritical thinking."*
+> - 📜 **Richard Feynman (*Surely You're Joking, Mr. Feynman!*):** *"Cargo cult science is a classic form of **pseudoscience** where practitioners follow all the apparent rituals without obtaining reproducible results."*

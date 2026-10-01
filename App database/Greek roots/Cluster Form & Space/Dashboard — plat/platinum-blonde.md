@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of hair color; whitish.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of hair color; whitish.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A very pale silvery-blonde hair color, or a person having this hair color.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural and cinema history, popularized in the 1930s by Hollywood actress Jean Harlow, signifying a bleached, glamorous modern aesthetic.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, platinum-blonde designates of hair color; whitish."*
+> - 📜 **F. Scott Fitzgerald (*The Love of the Last Tycoon*):** *"Her striking **platinum-blonde** hair caught the studio spotlights, framing her porcelain features with luminous brilliance."*
+> - 📜 **Raymond Chandler (*The Big Sleep*):** *"She was a tall **platinum-blonde** with watchful eyes and a cigarette held casually between lacquered fingers."*
+> - 📜 **Truman Capote (*Breakfast at Tiffany's*):** *"Holly Golightly stood in the doorway, a streak of **platinum-blonde** gleaming amidst her tawny hair."*

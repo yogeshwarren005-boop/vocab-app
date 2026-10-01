@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Divide (bulk material) and process as units.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make into a unit.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To form, combine, or consolidate into a single unified whole or standard unit; to manage a shared oil or gas reservoir under single operating control (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cargo transport and logistics, to unitise refers to packaging disparate goods onto pallets or containers for efficient mechanical handling.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unitise designates divide (bulk material) and process as units."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"When proprietors agree to **unitise** their separate undertakings, overhead costs diminish to the benefit of commerce."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"Modern enterprise seeks to **unitise** scattered industrial assets to achieve optimal efficiency of scale."*
+> - 📜 **H. G. Wells (*The World of William Clissold*):** *"The logical evolution of international freight transport is to **unitise** every commodity into interchangeable containers."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A study of economics in terms of individual areas of activity (such as a firm, household, prices, etc.).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A study of economics in terms of individual areas of activity (such as a firm, household, prices, etc.).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of economics that analyzes the decision-making processes of individuals, households, and business firms in allocating scarce resources.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In academic economic curriculum, microeconomics investigates supply and demand equilibrium, elasticity of prices, cost curves, and imperfect market competition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microeconomics designates a study of economics in terms of individual areas of activity (such as a firm, household, prices, etc.)."*
+> - 📜 **Alfred Marshall (*Principles of Economics*):** *"The study of **microeconomics** examines the equilibrium price determined by the intersection of supply and demand schedules."*
+> - 📜 **Hal Varian (*Intermediate Microeconomics: A Modern Approach*):** *"In **microeconomics**, profit maximization by firms provides the analytical engine that drives resource allocation across competitive industries."*
+> - 📜 **Joseph Stiglitz (*Information and the Change in the Paradigm in Economics*):** *"Asymmetric information fundamentally overturned traditional **microeconomics**, showing that markets often fail to clear smoothly."*

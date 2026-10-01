@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who communicates high praise.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who communicates high praise.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who extols; one who praises enthusiastically, glorifies, or magnifies someone or something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary rhetoric and panegyric literature, an extoller uses grand rhetorical figures and formal elevated eulogies to exalt patrons, deities, or heroic deeds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, extoller designates someone who communicates high praise."*
+> - 📜 **Samuel Johnson (*The Lives of the English Poets*):** *"Dryden was an enthusiastic **extoller** of royal virtues whenever a lucrative court pension was within reach."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Every partisan author becomes a passionate **extoller** of his own sect, blinding posterity to rival merits."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The fanatical **extoller** of abstract rights is ever ready to overturn ancient laws and venerable constitutions."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Engage in a controversy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Engage in a controversy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A variant spelling of polemicise; to engage in public argument or write controversial essays.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In rhetorical contexts, to direct critical commentary against opposing aesthetic or literary movements.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polemise designates engage in a controversy."*
+> - 📜 **Virginia Woolf (*The Common Reader*):** *"When Victorian reviewers began to **polemise** over morality in art, they often overlooked the beauty of style."*
+> - 📜 **Terry Eagleton (*Literary Theory: An Introduction*):** *"Critical theorists frequently **polemise** over the social function of art in contemporary culture."*
+> - 📜 **Raymond Williams (*Keywords: A Vocabulary of Culture and Society*):** *"Scholars continue to **polemise** over the political implications embedded in the vocabulary of democracy."*

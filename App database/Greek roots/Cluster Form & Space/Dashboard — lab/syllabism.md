@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek lab.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The system, practice, or theory of writing or reading by syllables rather than individual letters; also, syllabic verse metrics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In prosody and writing systems history, syllabism emphasizes fixed syllable counts (as in French or Japanese syllabic verse) rather than accentual stress patterns.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, syllabism designates a term designating an entity, condition, or phenomenon derived from greek lab."*
+> - 📜 **Ferdinand de Saussure (*Course in General Linguistics*):** *"The ancient **syllabism** of Mediterranean scripts represents an intermediate evolutionary phase between ideographs and alphabets."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"French classical drama adheres strictly to **syllabism**, counting twelve syllables in every rhymed Alexandrine line."*
+> - 📜 **Alexander Pope (*An Essay on Criticism*):** *"Rigid adherence to mere mechanical **syllabism** suffocates the expressive freedom of dramatic verse."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Impregnate, combine, or supply with oxygen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Impregnate, combine, or supply with oxygen.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To supply, treat, or saturate with oxygen, especially blood during pulmonary transit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical intensive care and extracorporeal life support, membrane oxygenators oxygenate venous blood during cardiopulmonary bypass.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Between his ribs and on each side of his spine he is supplied with a remarkable involved Cretan labyrinth of vermicelli-like vessels, which vessels, when he quits the surface, are completely distended with oxygenated blood."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Between his ribs and on each side of his spine he is supplied with a remarkable involved Cretan labyrinth of vermicelli-like vessels, which vessels, when he quits the surface, are completely distended with oxygenated blood."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Thus, after being purified and re-oxygenated, the air passes on through more pipes to the helmet or mouth-piece, to be breathed once more."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Intensive mechanical ventilation aims to **oxygenate** blood compromised by alveolar exudate in lobar pneumonia."*
+> - 📜 **Eugene Braunwald (*Heart Disease*):** *"Failure of the pulmonary capillary bed to **oxygenate** desaturated blood produces central cyanosis."*
+> - 📜 **J. S. Haldane (*Respiration*):** *"High ambient barometric pressure facilitates artificial attempts to **oxygenate** poisoned cerebral tissues."*

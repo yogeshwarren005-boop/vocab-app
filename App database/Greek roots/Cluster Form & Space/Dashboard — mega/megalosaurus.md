@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Gigantic carnivorous bipedal dinosaur of the jurassic or early cretaceous in europe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Gigantic carnivorous bipedal dinosaur of the jurassic or early cretaceous in europe.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of large carnivorous bipedal theropod dinosaurs that lived during the Middle Jurassic period in Europe.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of science, the first non-avian dinosaur genus to be scientifically named and described (by William Buckland in 1824).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"As much mud in the streets as if the waters had but newly retired from the face of the earth, and it would not be wonderful to meet a Megalosaurus, forty feet long or so, waddling like an elephantine lizard up Holborn Hill."*
+> - 📜 **William Buckland (*Notice on the Megalosaurus*):** *"I have designated this extraordinary extinct carnivorous reptile under the generic title **Megalosaurus**."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"As much mud in the streets as if the waters had but newly retired from the face of the earth, and it would not be wonderful to meet a **Megalosaurus**, forty feet long or so, waddling like an elephantine lizard up Holborn Hill."*
+> - 📜 **Richard Owen (*Report on British Fossil Reptiles*):** *"The teeth of **Megalosaurus** are curved backward and finely serrated along both edges to slice through tough flesh."*

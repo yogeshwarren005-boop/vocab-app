@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Chorus frogs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Chorus frogs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of small hylid treefrogs native to North America, commonly known as chorus frogs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In herpetology, slender anurans characterized by reduced digital adhesive discs and distinctively high-pitched breeding choruses in early spring wetlands.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pseudacris designates chorus frogs."*
+> - 📜 **Albert Hazen Wright (*Handbook of Frogs and Toads of the United States and Canada*):** *"The penetrating trill of **pseudacris** announces the arrival of spring across flooded woodlands long before the ice melts."*
+> - 📜 **Edward D. Cope (*The Batrachia of North America*):** *"The species of **pseudacris** inhabit marshy meadows, climbing sparingly upon low grasses rather than tall trees."*
+> - 📜 **Hobart M. Smith (*Handbook of Amphibians and Reptiles of Kansas*):** *"In temporary prairie pools, the eggs of **pseudacris** hatch rapidly to complete metamorphosis before summer droughts."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A salt of phosphoric acid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A salt of phosphoric acid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any salt or ester of orthophosphoric acid (H3PO4), containing the trivalent radical PO4(3-).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In limnology and agricultural chemistry, dissolved inorganic orthophosphate represents the primary bioavailable form of phosphorus utilized by algae and higher plants.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, orthophosphate designates a salt of phosphoric acid."*
+> - 📜 **F. Albert Cotton (*Advanced Inorganic Chemistry*):** *"In aqueous solution, the **orthophosphate** anion undergoes stepwise protonation depending strictly upon ambient pH."*
+> - 📜 **G. Evelyn Hutchinson (*A Treatise on Limnology*):** *"Soluble **orthophosphate** in the epilimnion is rapidly assimilated by phytoplankton, often acting as a limiting nutrient."*
+> - 📜 **Eugene P. Odum (*Fundamentals of Ecology*):** *"Runoff containing excessive **orthophosphate** triggers rapid cultural eutrophication in freshwater lakes."*

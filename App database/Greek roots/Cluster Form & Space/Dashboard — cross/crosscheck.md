@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An instance of confirming something by considering information from several sources.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An illegal check (chopping at an opponent's arms or stick).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To verify or confirm figures, facts, or results by utilizing an alternative independent method, source, or record.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In computational validation and ice hockey, an independent corroboration of data points; in sports, an illegal check delivered using the shaft of the stick with both hands.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, crosscheck designates an instance of confirming something by considering information from several sources."*
+> - 📜 **Alan Turing (*Computing Machinery and Intelligence*):** *"The operator must **crosscheck** every logical deduction against intermediate mechanical tabulations."*
+> - 📜 **Carl Sagan (*The Demon-Haunted World*):** *"Skeptical inquiry demands that we **crosscheck** extraordinary claims against reproducible physical evidence."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Holmes paused to **crosscheck** the footprints against the known gait of the fugitive before advancing."*

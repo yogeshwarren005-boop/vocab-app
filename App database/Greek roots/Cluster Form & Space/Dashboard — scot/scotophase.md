@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek scot.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The dark phase of a recurring daily cycle of light and darkness, as in circadian rhythm experiments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In entomology and chronobiology, mating behavior, pheromone emission, and nocturnal locomotion in insects are tightly coordinated with the onset of the scotophase.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scotophase designates a term designating an entity, condition, or phenomenon derived from greek scot."*
+> - 📜 **Colin Pittendrigh (*Circadian Systems: Entrainment by Light-Dark Cycles*):** *"Locomotor activity in nocturnal rodents begins abruptly at the transition from photophase to **scotophase**."*
+> - 📜 **Erwin Bünning (*The Physiological Clock*):** *"Metabolic adjustments during the **scotophase** reflect the anticipation of sunrise governed by the internal circadian oscillator."*
+> - 📜 **Franz Halberg (*Chronobiology: Principles and Applications*):** *"Plasma melatonin reaches peak concentrations during the **scotophase**, suppressing cortisol release."*

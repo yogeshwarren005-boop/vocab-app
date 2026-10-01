@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: ascus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: ascus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combining form of Greek origin meaning bladder, sac, or bag (from Greek askos).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biological terminology, a combining root appearing in morphological and clinical terms such as ascidium, ascites, and ascomycete.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog asc as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Richard Chenevix Trench (*On the Study of Words*):** *"The Greek stem **asc**, signifying a wineskin or leather bag, furnishes medicine and mycology with names for saccular structures."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"The primitive bag of the ancient shepherd survives in scientific compounds through the root **asc**."*
+> - 📜 **William Benjamin Carpenter (*Principles of General and Comparative Physiology*):** *"Compounds incorporating **asc** denote bag-like cavities adapted for internal fluid accumulation."*

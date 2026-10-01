@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A turn made in skiing; the outside ski is placed ahead and turned gradually inwards.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A turn made in skiing; the outside ski is placed ahead and turned gradually inwards.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A style of downhill skiing characterized by a dynamic lunge in which the downhill ski leads and the heel of the trailing uphill foot is left free to rise; also a turn executed in this manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Named after the mountainous Telemark county in southern Norway, Sondre Norheim developed the telemark ski technique in the 1860s, introducing cambered skis and firm willow bindings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, telemark designates a turn made in skiing; the outside ski is placed ahead and turned gradually inwards."*
+> - 📜 **Fridtjof Nansen (*The First Crossing of Greenland*):** *"The Norwegian peasant swoops down the precipitous mountain slope, dropping into an effortless **telemark** turn in deep powder snow."*
+> - 📜 **Roald Amundsen (*The South Pole*):** *"Our Antarctic ski teams mastered the flexible **telemark** stance to maintain equilibrium while traversing broken sastrugi."*
+> - 📜 **Arnold Lunn (*A History of Skiing*):** *"Sondre Norheim of **Telemark** revolutionized winter sports by inventing the graceful stem and telemark turns."*

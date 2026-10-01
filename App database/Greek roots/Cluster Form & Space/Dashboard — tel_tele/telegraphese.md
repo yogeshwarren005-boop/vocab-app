@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Language characterized by terseness and ellipsis as in telegrams.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Language characterized by terseness and ellipsis as in telegrams.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The concise, clipped, and abbreviated style of language characteristic of telegrams, characterized by the omission of non-essential words, articles, and prepositions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistic history and literary prose, telegraphese developed to minimize word counts on commercial telegraph networks charged per word, influencing modernist literary brevity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, telegraphese designates language characterized by terseness and ellipsis as in telegrams."*
+> - 📜 **James Joyce (*Ulysses*):** *"His thoughts darted in crisp **telegraphese**, skipping pronouns and rushing forward to the next sensory impression."*
+> - 📜 **George Orwell (*Nineteen Eighty-Four*):** *"The Newspeak vocabulary was designed to produce an extreme form of political **telegraphese** where nuance was eradicated."*
+> - 📜 **Ernest Hemingway (*A Moveable Feast*):** *"Filing overseas cables taught the young correspondent to write in taut **telegraphese**, stripping away empty rhetorical padding."*

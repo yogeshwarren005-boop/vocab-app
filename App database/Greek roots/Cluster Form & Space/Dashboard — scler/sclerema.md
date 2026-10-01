@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek scler.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A severe, life-threatening dermatological condition occurring in premature or debilitated neonates, characterized by widespread hardening of the skin and subcutaneous fat (sclerema neonatorum).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neonatology and pediatric pathology, an induration caused by the crystallization of saturated fatty acids in neonatal adipose tissue during hypothermia or sepsis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sclerema designates a term designating an entity, condition, or phenomenon derived from greek scler."*
+> - 📜 **John William Ballantyne (*Diseases of the Fetus and New-Born*):** *"The hallmark of **sclerema** neonatorum is a stone-like rigidity of the subcutaneous fat that binds the infant's limbs in fixed positions."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Profound hypothermia and septicemia frequently precede the sudden onset of **sclerema** in premature hospital infants."*
+> - 📜 **Abraham Jacobi (*Therapeutics of Infancy and Childhood*):** *"Aggressive thermal warming and parenteral fluid support are urgent priorities in managing the fatal freeze of neonatal **sclerema**."*

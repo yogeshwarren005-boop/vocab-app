@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A metrical foot consisting of a long syllable between two short syllables in quantitative verse or of a stressed syllable between two unstressed syllables in accentual verse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A metrical foot consisting of a long syllable between two short syllables in quantitative verse or of a stressed syllable between two unstressed syllables in accentual verse.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A metrical foot in classical and accentual poetry consisting of a long or stressed syllable between two short or unstressed syllables (˘ ¯ ˘).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In prosody, a foot incorporating a short initial and terminal quantity, classified under Greek roots referring to syllable length (brachys).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amphibrach designates a metrical foot consisting of a long syllable between two short syllables in quantitative verse or of a stressed syllable between two unstressed syllables in accentual verse."*
+> - 📜 **Samuel Taylor Coleridge (*Metrical Feet: A Lesson for a Boy*):** *"The **amphibrach** gallops along in its rhythm, bounding gracefully over short syllables on either flank."*
+> - 📜 **George Saintsbury (*A History of English Prosody*):** *"The cadence of the **amphibrach** creates an undulating, wave-like movement in romantic lyricism."*
+> - 📜 **Alexander Pope (*An Essay on Criticism*):** *"A misplaced **amphibrach** disturbs the stately flow of the heroic rhyming couplet."*

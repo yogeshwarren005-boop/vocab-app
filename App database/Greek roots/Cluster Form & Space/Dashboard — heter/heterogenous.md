@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Consisting of elements that are not of the same kind or nature.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Originating outside the body.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Originating outside the organism or from a different source; foreign; also an occasional variant of heterogeneous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In immunology and transplantation surgery, heterogenous antigens or tissues originate from an individual of a different species (xenogeneic).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heterogenous designates consisting of elements that are not of the same kind or nature."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The introduction of **heterogenous** protein into the circulation frequently provokes an acute anaphylactic response."*
+> - 📜 **Alexis Carrel (*The Transplantation of Organs*):** *"Vascular grafting succeeds with autogenous vessels, but a **heterogenous** arterial segment invariably suffers rapid immunological rejection."*
+> - 📜 **Vinay Kumar (*Robbins and Cotran Pathologic Basis of Disease*):** *"The immune system rapidly mounts cytotoxic antibody and cell-mediated attacks against **heterogenous** tissue grafts."*

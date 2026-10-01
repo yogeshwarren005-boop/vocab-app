@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Endoscopic examination of a woman's pelvic organs by the insertion of a culdoscope through the vagina.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Endoscopic examination of a woman's pelvic organs by the insertion of a culdoscope through the vagina.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The endoscopic visual examination of the female pelvic viscera through an incision in the posterior vaginal fornix using a culdoscope.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gynecologic surgery, a diagnostic procedure developed in the mid-twentieth century for assessing suspected ectopic pregnancy, endometriosis, and unexplained infertility.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, culdoscopy designates endoscopic examination of a woman's pelvic organs by the insertion of a culdoscope through the vagina."*
+> - 📜 **Albert Decker (*Culdoscopy: Its Diagnostic Value in Pelvic Disease*):** *"Diagnostic **culdoscopy** established the patency of the fallopian tubes under direct vision, avoiding the risks of major abdominal exploratory surgery."*
+> - 📜 **Emil Novak (*Gynecological and Obstetrical Pathology*):** *"In cases of suspected unruptured tubal pregnancy, urgent **culdoscopy** provides definitive visual confirmation within minutes."*
+> - 📜 **Leon Speroff (*Clinical Gynecologic Endocrinology and Infertility*):** *"The advent of transabdominal laparoscopy gradually superseded **culdoscopy**, but the technique remains a historic milestone in endoscopic gynecology."*

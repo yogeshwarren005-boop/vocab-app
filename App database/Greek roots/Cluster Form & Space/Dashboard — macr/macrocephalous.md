@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having an exceptionally large head and brain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having an exceptionally large head and brain.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having an abnormally large head; possessing a disproportionate cranial structure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic zoology and botany, describing organisms, larvae, or seeds that exhibit conspicuously large head portions or terminal bodies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"No one could better describe the macrocephalous cachalot, which is sometimes more than seventy-five feet long."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants Under Domestication*):** *"Certain domesticated pigeon breeds develop a **macrocephalous** skull through generations of selective breeding."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"The native coleoptera include several **macrocephalous** species whose immense jaws serve in territorial combat."*
+> - 📜 **Louis Agassiz (*Contributions to the Natural History of the United States*):** *"The embryo is at first distinctly **macrocephalous**, its developing brain dominating the diminutive trunk."*

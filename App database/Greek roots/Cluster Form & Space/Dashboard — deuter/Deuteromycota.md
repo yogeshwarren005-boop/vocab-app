@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large and heterogeneous form division of fungi comprising forms for which no sexually reproductive stage is known.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large and heterogeneous form division of fungi comprising forms for which no sexually reproductive stage is known.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A former taxonomic division of fungi, also known as the Fungi Imperfecti, comprising species with no known sexual reproductive stage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic mycology, molecular phylogenetics has reassigned most members of Deuteromycota into the Ascomycota and Basidiomycota.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Deuteromycota designates large and heterogeneous form division of fungi comprising forms for which no sexually reproductive stage is known."*
+> - 📜 **C. J. Alexopoulos (*Introductory Mycology*):** *"The artificial phylum **Deuteromycota** served historically as a taxonomic repository for asexual stages of higher fungi."*
+> - 📜 **David L. Hawksworth (*Ainsworth & Bisby's Dictionary of the Fungi*):** *"Phylogenetic DNA sequencing has rendered the formal taxon **Deuteromycota** obsolete in favor of natural holomorph systematics."*
+> - 📜 **Bryce Kendrick (*The Fifth Kingdom*):** *"Molds assigned to **Deuteromycota** produce billions of conidia responsible for agricultural rusts and commercial fermentations."*

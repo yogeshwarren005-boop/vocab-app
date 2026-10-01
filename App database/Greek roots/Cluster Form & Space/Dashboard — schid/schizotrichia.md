@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek schid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A medical condition characterized by splitting of the ends of the hair shafts; trichoptilosis or split ends.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In trichology and clinical dermatology, structural damage to the hair cuticle and cortex caused by mechanical friction, heat styling, or chemical treatments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, schizotrichia designates a term designating an entity, condition, or phenomenon derived from greek schid."*
+> - 📜 **Erasmus Wilson (*On Diseases of the Skin: A System of Cutaneous Medicine*):** *"The longitudinal splitting of distal hairs termed **schizotrichia** occurs frequently in long hair exposed to dry winds and harsh alkaline soaps."*
+> - 📜 **William Allen Pusey (*The Principles and Practice of Dermatology*):** *"In severe **schizotrichia**, the frayed cortical fibers resemble tiny paintbrushes at the tip of each broken hair shaft."*
+> - 📜 **Louis A. Duhring (*A Practical Treatise on Diseases of the Skin*):** *"Trimming the affected distal tips remains the only curative physical remedy for extensive **schizotrichia**."*

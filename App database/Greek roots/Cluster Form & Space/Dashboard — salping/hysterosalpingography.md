@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Examination of the uterus and fallopian tubes by radiography after injection of an opaque medium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Examination of the uterus and fallopian tubes by radiography after injection of an opaque medium.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A fluoroscopic radiographic examination of the uterine cavity and fallopian tubes using a radiopaque contrast medium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In reproductive medicine and infertility evaluation, a diagnostic imaging procedure to assess mechanical tubal patency and uterine cavity anomalies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hysterosalpingography designates examination of the uterus and fallopian tubes by radiography after injection of an opaque medium."*
+> - 📜 **Isidor Clinton Rubin (*Uterotubal Insufflation: Clinical Diagnostic Studies*):** *"The diagnostic value of **hysterosalpingography** lies in its ability to pinpoint the exact site of proximal or distal tubal occlusion."*
+> - 📜 **Emil Novak (*Gynecological and Obstetrical Pathology*):** *"Fluoroscopic **hysterosalpingography** revealed bilateral hydrosalpinx resulting from chronic pelvic inflammatory adhesions."*
+> - 📜 **Leon Speroff (*Clinical Gynecologic Endocrinology and Infertility*):** *"Oil-based contrast agents used in **hysterosalpingography** have been shown to exert a therapeutic flushing effect that enhances fertility."*

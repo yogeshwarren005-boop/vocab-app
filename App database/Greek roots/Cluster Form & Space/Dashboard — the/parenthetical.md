@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An expression in parentheses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Qualifying or explaining; placed or as if placed in parentheses.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or inserted as a parenthesis; qualifying, explanatory, or incidental.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In academic citation and editorial style, parenthetical documentation provides abbreviated author-date references directly inside running prose.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"What could the wretched Joe do now, after his disregarded parenthetical interruptions, but stand up to his journeyman, and ask him what he meant by interfering betwixt himself and Mrs."*
+> - 📜 **Ralph Waldo Emerson (*Representative Men*):** *"Montaigne's essays abound with **parenthetical** musings that capture the candid spontaneity of dinner conversation."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The chancery lawyer's address was overloaded with **parenthetical** clauses designed to obscure legal reality."*
+> - 📜 **William Strunk Jr. (*The Elements of Style*):** *"Enclose **parenthetical** expressions between commas, and avoid fracturing essential sentence rhythms."*

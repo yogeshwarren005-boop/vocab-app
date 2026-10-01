@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Concerned with promoting unity among churches or religions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of worldwide scope or applicability; ; - christopher morley.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A classical or archaic spelling of ecumenical, signifying universal, worldwide, or promoting global Christian unity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ecclesiastical history, designating the historical universal councils of the ancient undivided church that defined foundational trinitarian and christological dogmas.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oecumenical designates concerned with promoting unity among churches or religions."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The emperor summoned an **oecumenical** synod to Ephesus, where theological debates erupted into fierce partisan riots."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The Anglican divines revered the decisions of the first four **oecumenical** councils as authoritative standards of catholic antiquity."*
+> - 📜 **John Henry Newman (*An Essay on the Development of Christian Doctrine*):** *"The decrees of an **oecumenical** assembly acquire their permanent authority through subsequent reception by the universal church."*

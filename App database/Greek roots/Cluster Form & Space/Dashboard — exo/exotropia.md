@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek exo.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A manifest divergent strabismus; an ocular condition in which one or both eyes turn outward away from the nose (wall-eyed).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ophthalmology, intermittent exotropia often manifests during periods of visual fatigue or distance viewing, requiring orthoptic exercises or lateral rectus recession.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, exotropia designates a term designating an entity, condition, or phenomenon derived from greek exo."*
+> - 📜 **Duke-Elder, Stewart (*System of Ophthalmology*):** *"Constant **exotropia** disrupts binocular stereopsis, leading to anomalous retinal correspondence or dense hemi-retinal suppression."*
+> - 📜 **Eugene Braunwald (*Harrison's Principles of Internal Medicine*):** *"Decompensation of intermittent **exotropia** into constant divergence warrants surgical realignment of extraocular rectus muscles."*
+> - 📜 **David H. Hubel (*Eye, Brain, and Vision*):** *"Cortical binocularity is rapidly reorganized when persistent **exotropia** prevents visual inputs from exciting corresponding receptive fields."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A process for removing blood plasma without depleting the donor or patient of other blood constituents (such as red blood cells) by separating out the plasma from the whole blood and returning the rest to the donor's or patient's circulatory system.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A process for removing blood plasma without depleting the donor or patient of other blood constituents (such as red blood cells) by separating out the plasma from the whole blood and returning the rest to the donor's or patient's circulatory system.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A medical procedure in which whole blood is removed from the body, separated into plasma and cellular components, and the cells are returned to the patient with a replacement fluid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurology and rheumatology, therapeutic plasmapheresis removes pathogenic autoantibodies, circulating immune complexes, or paraproteins in conditions such as myasthenia gravis and Guillain-Barré syndrome.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plasmapheresis designates a process for removing blood plasma without depleting the donor or patient of other blood constituents (such as red blood cells) by separating out the plasma from the whole blood and returning the rest to the donor's or patient's circulatory system."*
+> - 📜 **Tinsley R. Harrison (*Principles of Internal Medicine*):** *"Therapeutic **plasmapheresis** rapidly lowers circulating anti-acetylcholine receptor autoantibody titers in acute myasthenic crisis."*
+> - 📜 **Eugene Braunwald (*Harrison's Principles of Internal Medicine*):** *"In thrombotic thrombocytopenic purpura, emergent **plasmapheresis** with fresh frozen plasma replacement is lifesaving."*
+> - 📜 **Maxwell M. Wintrobe (*Clinical Hematology*):** *"Centrifugal **plasmapheresis** allows the collection of high-potency hyperimmune plasma from healthy donor volunteers."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The actor taking the part of second importance in a classical Greek drama.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who serves as a foil to another.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The actor or character second in importance to the protagonist in classical Greek drama or modern dramatic literature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dramatic theory, Aeschylus introduced the deuteragonist to enable dialogue and conflict beyond the protagonist-chorus dynamic.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, deuteragonist designates the actor taking the part of second importance in a classical greek drama."*
+> - 📜 **Aristotle (*Poetics*):** *"Aeschylus first raised the number of actors from one to two, introducing the **deuteragonist** and diminishing the importance of the chorus."*
+> - 📜 **A. E. Haigh (*The Tragic Drama of the Greeks*):** *"The introduction of the **deuteragonist** transformed dramatic performance from lyrical recitation into dynamic conflict."*
+> - 📜 **Bernard Knox (*The Heroic Temper: Studies in Sophoclean Tragedy*):** *"In Sophocles, the **deuteragonist** often serves as an uncomprehending foil against the heroic isolation of the protagonist."*

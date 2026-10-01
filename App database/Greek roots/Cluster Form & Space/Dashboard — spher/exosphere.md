@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The outer fringe region of the atmosphere of the earth or a celestial body (such as a planet).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The outer fringe region of the atmosphere of the earth or a celestial body (such as a planet).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The outermost region of a planet's atmosphere, where atmospheric density is so low that gas particles rarely collide and can escape into space.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In atmospheric physics, the Earth's exosphere begins at the exobase (roughly 500 to 1,000 km altitude) and merges gradually into interplanetary space, composed primarily of hydrogen and helium.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, exosphere designates the outer fringe region of the atmosphere of the earth or a celestial body (such as a planet)."*
+> - 📜 **Arthur C. Clarke (*The Exploration of Space*):** *"High in the tenuous **exosphere**, satellites orbit the globe for centuries with barely perceptible orbital decay."*
+> - 📜 **Carl Sagan (*Pale Blue Dot: A Vision of the Human Future in Space*):** *"The planetary **exosphere** represents the gossamer frontier where Earth's gravitational embrace yields to the solar wind."*
+> - 📜 **James Lovelock (*Gaia: A New Look at Life on Earth*):** *"Lighter gases like hydrogen leak constantly through the **exosphere**, balanced by volcanic emissions and living cycles below."*

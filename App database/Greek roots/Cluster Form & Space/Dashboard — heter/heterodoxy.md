@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality or state of being heterodox.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A heterodox opinion or doctrine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any opinion, belief, or doctrine at variance with an official, orthodox, or generally accepted standard.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In intellectual and ecclesiastical history, heterodoxy represents conceptual deviation that often sparks theological dispute or scientific revolutions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Despite his heterodoxy, faults, and weaknesses, Clare was a man with a conscience."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Indeed, despite his own heterodoxy, Angel often felt that he was nearer to his father on the human side than was either of his brethren."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"O, my boy, my boy—home again at last!” cried Mrs Clare, who cared no more at that moment for the stains of heterodoxy which had caused all this separation than for the dust upon his clothes."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"The ultimate test of a free society is its willingness to tolerate and debate minority **heterodoxy**."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"What was once condemned as bold **heterodoxy** frequently becomes the commonplace orthodoxy of the subsequent age."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"Imperial edicts punished theological **heterodoxy** with confiscation of goods and exile to remote frontiers."*

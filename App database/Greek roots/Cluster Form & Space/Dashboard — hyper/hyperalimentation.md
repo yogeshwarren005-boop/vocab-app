@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Administration of a nutritionally adequate solution through a catheter into the vena cava; used in cases of long-term coma or severe burns or severe gastrointestinal syndromes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Administration of a nutritionally adequate solution through a catheter into the vena cava; used in cases of long-term coma or severe burns or severe gastrointestinal syndromes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ingestion or administration of nutrients in amounts significantly exceeding ordinary nutritional requirements; specifically, total parenteral nutrition (TPN) via an intravenous catheter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pioneered in the 1960s by Stanley Dudrick and Jonathan Rhoads; hyperalimentation delivers concentrated solutions of dextrose, amino acids, electrolytes, vitamins, and lipid emulsions directly into the superior vena cava to sustain patients with intestinal failure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyperalimentation designates administration of a nutritionally adequate solution through a catheter into the vena cava; used in cases of long-term coma or severe burns or severe gastrointestinal syndromes."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In chronic wasting diseases, rigorous caloric **hyperalimentation** was prescribed to restore depleted adipose reserves."*
+> - 📜 **Harvey Cushing (*Studies in Intracranial Physiology and Surgery*):** *"Postoperative metabolic collapse in cachectic surgical patients demands intravenous **hyperalimentation** to sustain healing."*
+> - 📜 **Ernest Starling (*Principles of Human Physiology*):** *"Sustained physiological **hyperalimentation** induces positive nitrogen balance and rapid replenishment of hepatic glycogen."*

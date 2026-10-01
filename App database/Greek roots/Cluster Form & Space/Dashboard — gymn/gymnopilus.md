@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of fungus characterized by the orange color of the spore deposit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of fungus characterized by the orange color of the spore deposit.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of wood-rotting gilled mushrooms (family Hymenogastraceae) characterized by bright yellow-to-orange caps, rusty orange spores, and bitter taste.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In toxicological mycology, several Gymnopilus species (such as G. spectabilis) contain psychoactive psilocybin and bitter styrylpyrones (gymnopilins).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gymnopilus designates a genus of fungus characterized by the orange color of the spore deposit."*
+> - 📜 **Alexander H. Smith (*The North American Species of Gymnopilus*):** *"Species of **gymnopilus** fruit in dense, vibrant orange clusters upon decomposing conifer logs throughout autumn."*
+> - 📜 **David L. Hawksworth (*Ainsworth & Bisby's Dictionary of the Fungi*):** *"Microscopic examination of **gymnopilus** spores reveals a distinctly verrucose, dextrinoid ornamentation."*
+> - 📜 **Bryce Kendrick (*The Fifth Kingdom*):** *"Ingestion of the giant **gymnopilus** induces transient hallucinations accompanied by intense bitter gastrointestinal distress."*

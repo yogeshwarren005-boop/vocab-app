@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large duck-billed dinosaur of the cretaceous period.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large duck-billed dinosaur of the cretaceous period.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A historical genus of large duck-billed herbivorous dinosaurs (hadrosaurids) from the Late Cretaceous of North America.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate paleontology, Joseph Leidy erected *Trachodon* in 1856 based on fossil teeth found in Montana; though largely considered a *nomen dubium* today, it historically anchored popular understanding of hadrosaurs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trachodon designates large duck-billed dinosaur of the cretaceous period."*
+> - 📜 **Joseph Leidy (*Notice of Remains of Extinct Reptiles and Fishes*):** *"The fossil teeth from the Judith River badlands led Leidy to establish the herbivorous reptilian genus **Trachodon**."*
+> - 📜 **Edward Drinker Cope (*The Dinosauria of North America*):** *"Serrated grinding pavements of teeth enabled **Trachodon** to macerate fibrous Cretaceous vegetation with great efficiency."*
+> - 📜 **Henry Fairfield Osborn (*The Skeletal Adaptations of Hadrosaurian Dinosaurs*):** *"Early museum restorations depicted **Trachodon** as a semiaquatic swamp-dwelling browser with webbed front paws."*

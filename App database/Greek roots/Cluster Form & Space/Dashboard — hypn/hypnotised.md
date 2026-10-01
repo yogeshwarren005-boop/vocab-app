@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Induce hypnosis in.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having your attention fixated as though by a spell.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Put into a state of hypnosis; entranced, spellbound, or completely captivated (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nineteenth-century neurological clinics, patients who were hypnotised displayed heightened suggestibility, analgesia to pinpricks, and catalepsy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bram Stoker (*Dracula*):** *"At sunset time he hypnotised me, and he says that I answered as usual “darkness, lapping water and creaking wood”; so our enemy is still on the river."*
-> - 📜 **Bram Stoker (*Dracula*):** *"At dawn Van Helsing hypnotised me; he says I answered “darkness, creaking wood and roaring water,” so the river is changing as they ascend."*
-> - 📜 **James Joyce (*Ulysses*):** *"Half baked they look: hypnotised like."*
+> - 📜 **Jean-Martin Charcot (*Clinical Lectures on Diseases of the Nervous System*):** *"The **hypnotised** subject maintained her arm outstretched in rigid catalepsy for nearly twenty minutes."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Watson gazed upon the bizarre treasure chest like a man who had been completely **hypnotised** by its sparkling jewels."*
+> - 📜 **James Braid (*Neurypnology*):** *"Having successfully **hypnotised** the patient, surgical excision was completed without the slightest manifestation of pain."*

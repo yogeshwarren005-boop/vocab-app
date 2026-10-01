@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek plas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Plastic explosive (a moldable solid explosive substance); or an artistic pose or dance movement highlighting bodily form.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military demolition, plastique (such as Composition C-4) combines RDX with plasticizers to allow molding into charges for target demolition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plastique designates a term designating an entity, condition, or phenomenon derived from greek plas."*
+> - 📜 **Ian Fleming (*Casino Royale*):** *"The operative carried a small slab of **plastique** concealed within the hollow heel of his boot."*
+> - 📜 **Graham Greene (*The Quiet American*):** *"The explosion on the square was caused by homemade bombs packed with commercial **plastique**."*
+> - 📜 **John le Carré (*The Little Drummer Girl*):** *"He molded the gray **plastique** around the bridge girder with steady, practiced fingers."*

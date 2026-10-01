@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a synonymous manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a synonymous manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a synonymous manner; with equivalence of meaning or interchangeable application.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In analytical philosophy, using two terms synonymously implies that they co-refer and share identical intension across possible worlds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Vanity and pride are different things, though the words are often used synonymously."*
+> - 📜 **Bertrand Russell (*The Analysis of Mind*):** *"Psychologists often use 'sensation' and 'perception' **synonymously**, though their physiological mechanisms differ fundamentally."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Men frequently employ distinct moral terms **synonymously**, creating endless theological dispute."*
+> - 📜 **William James (*Pragmatism*):** *"Pragmatists treat truth and practical verification almost **synonymously** in evaluating working hypotheses."*

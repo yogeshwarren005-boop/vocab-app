@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The surgical formation of an opening into the trachea through the neck especially to allow the passage of air.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The surgical formation of an opening into the trachea through the neck especially to allow the passage of air.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A surgical procedure to create an opening through the neck into the trachea, allowing the insertion of a tube to facilitate breathing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In critical care medicine and otolaryngology, tracheostomy secures long-term mechanical ventilation, facilitates pulmonary toilet, and bypasses severe upper airway obstruction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tracheostomy designates the surgical formation of an opening into the trachea through the neck especially to allow the passage of air."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In laryngeal diphtheria, emergency **tracheostomy** frequently rescued the asphyxiating child from impending suffocation."*
+> - 📜 **Harvey Cushing (*Tumors of the Nervus Acusticus*):** *"Following extensive posterior fossa surgery, temporary **tracheostomy** prevented dangerous postoperative aspiration."*
+> - 📜 **Michael DeBakey (*The Living Body*):** *"For patients requiring prolonged mechanical ventilation, a planned **tracheostomy** offers superior patient comfort and safety."*

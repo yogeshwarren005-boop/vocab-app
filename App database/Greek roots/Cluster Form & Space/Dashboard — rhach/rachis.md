@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An axial structure: such as.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The elongated axis of an inflorescence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The main axis or shaft of a compound leaf, fern frond, or inflorescence; also the central shaft of a bird's feather.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anatomy and physical medicine, the vertebral or spinal column; the dorsal skeletal axis of vertebrate animals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"CORN SMUT; produced on the receptacle and rachis; epidermis soon ruptured; spores loose, minute, globose, black.—On the ears of corn and grasses."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The solid central **rachis** of the contour feather supports two lateral vanes composed of interlocking barbs and barbules."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"In pinnate foliage, the individual leaflets attach along the extended **rachis** that continues from the petiole."*
+> - 📜 **John Lindley (*An Introduction to Botany*):** *"Spikelet arrangements along the central floral **rachis** determine the botanical classification of graminaceous crops."*

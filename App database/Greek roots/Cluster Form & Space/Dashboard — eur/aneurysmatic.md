@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or affected by an aneurysm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or affected by an aneurysm.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or of the nature of an aneurysm; aneurysmal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In older medical literature, describing vascular bruits and pulsatile swellings associated with arterial dilations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aneurysmatic designates relating to or affected by an aneurysm."*
+> - 📜 **Thomas Sydenham (*The Works of Thomas Sydenham*):** *"The physician detected an **aneurysmatic** tumor in the neck, whose strong arterial throb warned of impending rupture."*
+> - 📜 **John Hunter (*Lectures on the Principles of Surgery*):** *"Ligating the femoral artery at a distance from the **aneurysmatic** sac halts pulsation and induces organized thrombosis."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The **aneurysmatic** murmur was audible across the left infraclavicular region."*

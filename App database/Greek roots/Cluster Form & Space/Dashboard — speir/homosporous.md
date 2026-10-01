@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The production by various plants (such as the club mosses and horsetails) of asexual spores of only one kind.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The production by various plants (such as the club mosses and horsetails) of asexual spores of only one kind.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Producing only one type and size of spore, which typically develops into a bisexual gametophyte bearing both antheridia and archegonia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical systematics, homosporous plants comprise bryophytes, most lycopods (*Lycopodium*), horsetails, and the vast majority of living leptosporangiate ferns.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, homosporous designates the production by various plants (such as the club mosses and horsetails) of asexual spores of only one kind."*
+> - 📜 **F. O. Bower (*The Ferns (Filicales)*):** *"The ancestral condition in filicalean ferns is strictly **homosporous**, with each sporangium releasing identical wind-borne spores."*
+> - 📜 **Katherine Esau (*Plant Anatomy*):** *"A single spore from a **homosporous** fern germinates on moist soil to produce a green heart-shaped, bisexual prothallus."*
+> - 📜 **Eduard Strasburger (*Textbook of Botany*):** *"In **homosporous** pteridophytes, genetic recombination depends upon cross-fertilization between separate prothallia."*

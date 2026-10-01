@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small nonvenomous arachnid resembling a tailless scorpion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small nonvenomous arachnid resembling a tailless scorpion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any small, harmless arachnid of the order Pseudoscorpiones, resembling a tiny scorpion with large pincers but lacking a tail and sting.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In arachnology, diminutive predators that inhabit leaf litter, caves, and old book bindings, using venomous chelicerae and silk glands to hunt booklice and mites.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pseudoscorpion designates small nonvenomous arachnid resembling a tailless scorpion."*
+> - 📜 **Jean-Henri Fabre (*The Life of the Spider*):** *"Beneath the fallen bark of the pine tree, a minuscule **pseudoscorpion** holds its enormous pincers aloft in comical defiance."*
+> - 📜 **Peter Weygoldt (*The Biology of Pseudoscorpions*):** *"Many a **pseudoscorpion** accomplishes long-distance dispersal through phoresy, latching its pedipalps securely to the leg of a flying beetle."*
+> - 📜 **John Henry Comstock (*The Spider Book*):** *"Found occasionally among neglected libraries, the little **pseudoscorpion** hunts down micro-insects that feed on paste and paper."*

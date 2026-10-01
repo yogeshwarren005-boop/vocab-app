@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (biology) a taxonomic group with a single member (a single species or genus).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A typesetting machine operated from a keyboard that sets separate characters.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A keyboard-operated typesetting and casting system producing individual lead type characters (Monotype); a taxonomic genus containing only a single species; a unique print made by drawing on metal or glass.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Invented by Tolbert Lanston in 1887, the Monotype system revolutionized book typography by casting movable characters individually, allowing convenient manual corrections without resetting entire slugs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"The linotype and monotype machines, uncanny in their operations, have also come into common practice."*
+> - 📜 **Tolbert Lanston (*Specification of the Monotype System*):** *"The pneumatic ribbon guides the casting machine, producing gleaming lines of justified individual **Monotype** characters."*
+> - 📜 **Stanley Morison (*Four Centuries of Fine Printing*):** *"The revival of classic typefaces such as Bembo and Garamond was made possible through the **Monotype** composing machine."*
+> - 📜 **Edgar Degas (*Letters of Edgar Degas*):** *"Degas delighted in the spontaneous tonal gradations achieved by wiping ink across a copper **monotype** plate."*

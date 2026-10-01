@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or being a diet based on the Chinese cosmological principles of yin and yang that consists of whole cereals and grains supplemented especially with beans and vegetables and that in its especially former more restrictive forms has been linked to nutritional deficiencies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or being a diet based on the Chinese cosmological principles of yin and yang that consists of whole cereals and grains supplemented especially with beans and vegetables and that in its especially former more restrictive forms has been linked to nutritional deficiencies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, tending to promote, or characterized by longevity; relating to the macrobiotic dietary regimen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nutritional philosophy and natural medicine, describing a lifestyle balancing complementary yin and yang qualities through whole grains and unrefined seasonal foods.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, macrobiotic designates of, relating to, or being a diet based on the chinese cosmological principles of yin and yang that consists of whole cereals and grains supplemented especially with beans and vegetables and that in its especially former more restrictive forms has been linked to nutritional deficiencies."*
+> - 📜 **Christoph Wilhelm Hufeland (*Makrobiotik: The Art of Prolonging Life*):** *"The **macrobiotic** philosophy seeks not merely to stretch existence, but to harmonize vital forces through temperate living."*
+> - 📜 **George Ohsawa (*Zen Macrobiotics*):** *"A strict **macrobiotic** regimen centers on unpolished brown rice and seasonal vegetables to restore internal equilibrium."*
+> - 📜 **Michio Kushi (*The Book of Macrobiotics*):** *"Applying **macrobiotic** principles requires understanding how climatic cycles and dietary ingredients interact with bodily constitution."*

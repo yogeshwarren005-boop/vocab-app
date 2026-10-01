@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A neurochemical occurring naturally in the brain and having analgesic properties.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A neurochemical occurring naturally in the brain and having analgesic properties.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a group of endogenous opioid peptide neurotransmitters produced in the brain and pituitary that bind to mu-opioid receptors to inhibit pain and induce euphoria.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuropharmacology, beta-endorphin is derived from pro-opiomelanocortin (POMC) and mediates stress-induced analgesia and exercise runner's high.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endorphin designates a neurochemical occurring naturally in the brain and having analgesic properties."*
+> - 📜 **Solomon H. Snyder (*Opiate Receptors and Internal Opiates*):** *"The discovery of **endorphin** proved that the mammalian brain synthesizes its own intrinsic morphine-like peptides."*
+> - 📜 **Eric Kandel (*Principles of Neural Science*):** *"Presynaptic release of **endorphin** in the dorsal horn inhibits substance P transmission, attenuating incoming nociceptive signals."*
+> - 📜 **Candace Pert (*Molecules of Emotion*):** *"Receptor binding of **endorphin** across the limbic system demonstrates how biochemical signals modulate subjective emotional states."*

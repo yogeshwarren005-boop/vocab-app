@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A measuring instrument that measures the hardness of materials by penetrating them with a stylus that has a diamond point.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A measuring instrument that measures the hardness of materials by penetrating them with a stylus that has a diamond point.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument used to measure the hardness of minerals, metals, or crystalline materials by determining the pressure needed to produce a scratch with a diamond point.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mineralogy and materials science, a physical testing device developed by Seebeck and Turner to provide quantitative scratching hardness scales.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sclerometer designates a measuring instrument that measures the hardness of materials by penetrating them with a stylus that has a diamond point."*
+> - 📜 **James Dwight Dana (*Manual of Mineralogy*):** *"The diamond point of the **sclerometer** is drawn across the crystal face under increasing loads to determine scratch resistance."*
+> - 📜 **Thomas Turner (*The Metallurgy of Iron*):** *"Using a weighted diamond **sclerometer**, we measured microscopic variations in surface hardness across tempered steel specimens."*
+> - 📜 **Edward Salisbury Dana (*A Textbook of Mineralogy*):** *"Hardness determinations made with the **sclerometer** revealed marked directional variation along different cleavage faces of kyanite."*

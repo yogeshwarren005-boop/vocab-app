@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek oec.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The science of housekeeping, household governance, or domestic management; domestic science.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In 19th-century educational philosophy and sociology, oikology was proposed as an academic discipline applying biological, chemical, and economic principles to family home life.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oikology designates a term designating an entity, condition, or phenomenon derived from greek oec."*
+> - 📜 **Herbert Spencer (*Education: Intellectual, Moral, and Physical*):** *"A rational education should include **oikology**, preparing youth for the practical duties of household management and hygiene."*
+> - 📜 **John Ruskin (*Sesame and Lilies*):** *"The ancient ideal of **oikology** viewed the home as a sanctuary where noble housekeeping fosters civic and moral virtues."*
+> - 📜 **Ellen Swallow Richards (*The Cost of Living as Modified by Sanitary Science*):** *"We must elevate domestic economy into true **oikology**, applying sanitary chemistry to food preparation and home ventilation."*

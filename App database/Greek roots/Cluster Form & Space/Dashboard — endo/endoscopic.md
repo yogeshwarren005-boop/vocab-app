@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or performed by means of an endoscope or endoscopy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or performed by means of an endoscope or endoscopy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, performed by, or employing an endoscope; internal visual examination.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In surgery, endoscopic procedures offer reduced patient convalescence, lower infection rates, and minimal tissue disruption compared to open operations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endoscopic designates of, relating to, or performed by means of an endoscope or endoscopy."*
+> - 📜 **Courtney M. Townsend (*Sabiston Textbook of Surgery*):** *"Modern surgical training emphasizes **endoscopic** retrograde cholangiopancreatography for removing obstructive biliary stones."*
+> - 📜 **Vinay Kumar (*Robbins and Cotran Pathologic Basis of Disease*):** *"Multiple mucosal pinch biopsies obtained during **endoscopic** evaluation are necessary to confirm suspected celiac sprue."*
+> - 📜 **Sherwood L. Gorbach (*Infectious Diseases*):** *"Rigorous sterilization protocols prevent cross-contamination during successive **endoscopic** procedures."*

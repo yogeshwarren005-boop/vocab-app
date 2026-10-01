@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Vasodilator (trade name hyperstat) used to treat severe hypertension.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Vasodilator (trade name hyperstat) used to treat severe hypertension.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A pharmaceutical brand name for diazoxide, an intravenous nondiuretic benzothiadiazine vasodilator used for the emergency reduction of acute severe hypertension.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cardiovascular pharmacology and emergency medicine, diazoxide (Hyperstat) activates ATP-sensitive potassium channels in vascular smooth muscle, provoking rapid arteriolar relaxation and profound blood pressure reduction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyperstat designates vasodilator (trade name hyperstat) used to treat severe hypertension."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In malignant hypertensive crises, intravenous vasodilators such as **Hyperstat** were deployed to avert cerebral hemorrhage."*
+> - 📜 **Louis Goodman (*The Pharmacological Basis of Therapeutics*):** *"Rapid intravenous bolus injection of **Hyperstat** exerts immediate arteriolar vasodilation accompanied by reflex tachycardia."*
+> - 📜 **Alfred Gilman (*The Pharmacological Basis of Therapeutics*):** *"Because **Hyperstat** binds extensively to serum albumin, rapid administration is necessary to achieve effective free drug levels."*

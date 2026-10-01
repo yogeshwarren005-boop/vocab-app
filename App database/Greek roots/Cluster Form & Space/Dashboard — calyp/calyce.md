@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek calyp.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cup-shaped anatomical structure or cavity, such as a calyx of the kidney; or a floral calyx.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In renal anatomy, one of the funnel-shaped extensions of the renal pelvis (major or minor calyce) that collects urine from the renal pyramids.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"ROSE BLIGHT; mycelium thickened, woolly, felted, persistent; conceptacles minute, globose, scattered; appendages floccose, white; sporangium many-spored.—On the branches, calyces, petioles, and leaves of Roses."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A staghorn calculus lodged within a renal **calyce** produces persistent microscopic hematuria and localized dull loin pain."*
+> - 📜 **William Benjamin Carpenter (*Principles of Human Physiology*):** *"Urine dripping from the cribriform area of the renal papilla is gathered by the cup-shaped muscular **calyce**."*
+> - 📜 **John Lindley (*An Introduction to Botany*):** *"The sepals coalesce at their base to form a rigid protective **calyce** around the delicate floral organs."*

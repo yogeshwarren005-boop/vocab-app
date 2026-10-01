@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Considering human beings as the most significant entity of the universe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Interpreting or regarding the world in terms of human values and experiences.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Regarding humankind as the central or most important element of existence, especially as opposed to God, nature, or other living creatures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In environmental ethics and philosophy of science, a conceptual framework that evaluates the natural world solely according to human interests and values.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anthropocentric designates considering human beings as the most significant entity of the universe."*
+> - 📜 **Carl Sagan (*Cosmos*):** *"Astronomy has been a persistent humbler of our **anthropocentric** conceits, demonstrating that Earth is a mere speck in cosmic space."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Natural selection shatters the proud **anthropocentric** delusion that all other creatures were created solely for man's utility."*
+> - 📜 **Edward O. Wilson (*The Diversity of Life*):** *"An **anthropocentric** ethic that values other species only as commercial resources invites ecological collapse."*

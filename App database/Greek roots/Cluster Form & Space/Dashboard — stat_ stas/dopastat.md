@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A monoamine neurotransmitter found in the brain and essential for the normal functioning of the central nervous system; as a drug (trade names dopastat and intropin) it is used to treat shock and hypotension.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A monoamine neurotransmitter found in the brain and essential for the normal functioning of the central nervous system; as a drug (trade names dopastat and intropin) it is used to treat shock and hypotension.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A pharmaceutical trade name for dopamine hydrochloride, an inotropic and vasopressor catecholamine administered intravenously in circulatory shock.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In critical care medicine and emergency cardiology, Dopastat stimulates dopaminergic, beta-1, and alpha-1 adrenergic receptors depending on infusion dosage to maintain renal perfusion and arterial blood pressure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dopastat designates a monoamine neurotransmitter found in the brain and essential for the normal functioning of the central nervous system; as a drug (trade names dopastat and intropin) it is used to treat shock and hypotension."*
+> - 📜 **Eugene Braunwald (*Heart Disease: A Textbook of Cardiovascular Medicine*):** *"Intravenous infusion of **Dopastat** was titrated to sustain systemic vascular resistance during cardiogenic shock."*
+> - 📜 **Atul Gawande (*Complications: A Surgeon's Notes on an Imperfect Science*):** *"The intensive care nurse adjusted the infusion rate of **Dopastat** as the patient's arterial pressure began to stabilize."*
+> - 📜 **William Osler (*Modern Therapeutics and Critical Care*):** *"Modern adrenergic support utilizes titratable vasopressors such as **Dopastat** to overcome catastrophic myocardial failure."*

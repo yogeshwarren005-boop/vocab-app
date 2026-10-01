@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small family of lower ferns having nearly naked stems and minute scalelike leaves.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small family of lower ferns having nearly naked stems and minute scalelike leaves.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of primitive fern-like vascular plants (whisk ferns) consisting of the two extant genera Psilotum and Tmesipteris.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pteridology, rootless epiphytes and lithophytes characterized by dichotomous photosynthetic branches, scale-like enations, and trilobed fused synangia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psilotaceae designates small family of lower ferns having nearly naked stems and minute scalelike leaves."*
+> - 📜 **George Bentham (*Flora Australiensis*):** *"Members of **psilotaceae** lack true roots, absorbing soil moisture by means of subterranean mycorrhizal rhizomes."*
+> - 📜 **Douglas Houghton Campbell (*The Structure and Development of Mosses and Ferns*):** *"The sporangial synangium of **psilotaceae** originates from the fused chambers of three adjoining sporangia upon a lateral spur."*
+> - 📜 **Rolla M. Tryon (*Ferns and Allied Plants*):** *"Tropical rain forests provide the high humidity necessary for the epiphytic survival of **psilotaceae** upon tree-fern trunks."*

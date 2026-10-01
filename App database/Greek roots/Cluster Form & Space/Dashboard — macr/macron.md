@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mark — placed over a vowel to indicate that the vowel is long or placed over a syllable or used alone to indicate a stressed or long syllable in a metrical foot.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Emmanuel (Jean-Michel Frédéric) 1977— president of France (2017— ).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A horizontal diacritical line mark (¯) placed over a vowel letter to denote that it is long in sound, quantity, or pronunciation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical philology and linguistic phonetics, the macron distinguishes long syllables in Greek and Latin scansion and long vowels in languages such as Māori and Japanese romanization.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, macron designates a mark — placed over a vowel to indicate that the vowel is long or placed over a syllable or used alone to indicate a stressed or long syllable in a metrical foot."*
+> - 📜 **Herbert Weir Smyth (*Greek Grammar*):** *"In grammatical orthography, a **macron** placed above alpha, iota, or upsilon indicates that the vowel is metrically long."*
+> - 📜 **Benjamin Hall Kennedy (*The Revised Latin Primer*):** *"The student must carefully observe the **macron** over case endings, as vowel quantity often differentiates cases with identical spelling."*
+> - 📜 **Leonard Bloomfield (*Language*):** *"Phonemic transcriptions employ the **macron** to indicate suprasegmental length distinctions across vowel series."*

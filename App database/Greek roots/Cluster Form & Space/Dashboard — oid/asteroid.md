@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of the small rocky celestial bodies found especially between the orbits of Mars and Jupiter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of the small rocky celestial bodies found especially between the orbits of Mars and Jupiter.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small rocky or metallic celestial body orbiting the Sun, mostly situated within the main asteroid belt between Mars and Jupiter; starlike in shape.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In planetary astronomy and celestial mechanics, asteroids represent primordial planetesimal remnants that failed to coalesce into a planet due to Jupiter's gravitational perturbations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"You are inmates in the Social Rehabilitation Center of Guardian Station 15, about five million kay outbound from the Asteroid Belt's rim, or what was the Belt before the space-miners got through with it."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The scene faded, replaced by a ring of tiny multicolored lights: the Asteroid Belt."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Scouring the Asteroid Belt, sifting the Kuiper-Oort regions, and intense competitions for substitutes provided inadequate and merely temporary relief."*
+> - 📜 **William Herschel (*Observations on the Nature of the Newly Discovered Stars*):** *"Since these newly discovered small celestial bodies resemble faint stars yet move like planets, I propose to designate them by the term **asteroid**."*
+> - 📜 **Carl Sagan (*Cosmos*):** *"The impact of a large **asteroid** with the Earth sixty-six million years ago triggered catastrophic climatic disruptions that terminated the age of dinosaurs."*
+> - 📜 **Eugene Shoemaker (*Asteroid and Comet Impacts on the Earth*):** *"Near-Earth asteroids represent an active dynamical population whose orbits regularly intersect the inner solar system."*

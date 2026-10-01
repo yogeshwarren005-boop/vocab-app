@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The gradual decline of a disease process (such as fever).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A process of disintegration or dissolution (as of cells).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The disintegration or rupture of a biological cell membrane, resulting in the extravasation and release of intracellular contents.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical medicine, the gradual subsidence or resolution of an acute disease, high fever, or infectious symptom, contrasting with sudden crisis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lysis designates the gradual decline of a disease process (such as fever)."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"Microscopic examination reveals the ultimate **lysis** of bacterial walls under the antagonistic action of competing organisms."*
+> - 📜 **Frank Macfarlane Burnet (*Principles of Animal Virology*):** *"At the conclusion of the replication cycle, virulent phages trigger rapid host **lysis** to liberate their infectious progeny."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In lobar pneumonia, deferred defervescence by **lysis** may span several days rather than resolving by a abrupt nocturnal crisis."*

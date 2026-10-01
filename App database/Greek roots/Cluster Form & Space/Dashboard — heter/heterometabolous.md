@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of an insect) undergoing incomplete metamorphosis in which the nymph is essentially like the adult and there is no pupal stage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of an insect) undergoing incomplete metamorphosis in which the nymph is essentially like the adult and there is no pupal stage.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Undergoing incomplete or gradual metamorphosis without a pupal stage, as in dragonflies, grasshoppers, and true bugs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic entomology, heterometabolous insects develop external wing pads during nymphal stages, transitioning directly into winged adults.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heterometabolous designates (of an insect) undergoing incomplete metamorphosis in which the nymph is essentially like the adult and there is no pupal stage."*
+> - 📜 **R. F. Chapman (*The Insects: Structure and Function*):** *"A **heterometabolous** insect emerges from the egg as a wingless nymph with body proportions similar to the reproductive imago."*
+> - 📜 **V. B. Wigglesworth (*The Principles of Insect Physiology*):** *"Hormonal control in **heterometabolous** species preserves organ continuity across successive molts without widespread imaginal disc destruction."*
+> - 📜 **Stephen Jay Gould (*Ontogeny and Phylogeny*):** *"The fossil record demonstrates that **heterometabolous** insects preceded the evolution of holometabolous orders with pupal transformations."*

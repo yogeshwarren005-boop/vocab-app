@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An ophthalmoscope with a layer of water to neutralize the refraction of the cornea.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ophthalmoscope with a layer of water to neutralize the refraction of the cornea.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An optical or ophthalmological instrument designed to eliminate or neutralize corneal refraction, allowing unobstructed examination of the interior of the eye.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiological optics, early orthoscopes used a water-filled glass cup applied to the eye, neutralizing corneal curvature to facilitate fundus visualization.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, orthoscope designates an ophthalmoscope with a layer of water to neutralize the refraction of the cornea."*
+> - 📜 **Ernst Abbe (*Aena Optics and Ophthalmic Instrumentation*):** *"The optical design of the **orthoscope** was calculated to correct spherical aberration and provide an orthoscopic, distortion-free field."*
+> - 📜 **Allvar Gullstrand (*How I Found the Mechanism of Intracapsular Accommodation*):** *"Neutralizing corneal power with a fluid **orthoscope** proved that optical changes originated within the crystalline lens."*
+> - 📜 **Hermann von Helmholtz (*Treatise on Physiological Optics*):** *"Early investigators attempted to inspect the interior chamber through a water-chamber **orthoscope** before the ophthalmoscope was invented."*

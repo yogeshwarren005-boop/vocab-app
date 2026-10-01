@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Denationalize and subject (a territory) to the supervision of an agency of a european community of nations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make (continental) european in customs, character, or ideas.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To bring under European influence or adopt European manners, culture, and institutions (chiefly British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical diplomacy and post-colonial studies, to assimilate foreign administrative, legal, or military structures into European norms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, europeanise designates denationalize and subject (a territory) to the supervision of an agency of a european community of nations."*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*):** *"Attempts to **europeanise** traditional societies often faltered when legal reforms preceded intellectual preparation."*
+> - 📜 **Thomas Babington Macaulay (*Minute on Indian Education*):** *"His vision was to **europeanise** the administrative elite through English literary and scientific education."*
+> - 📜 **Arnold Toynbee (*A Study of History*):** *"Peter the Great resolved to **europeanise** Russia in order to master Western technology and military organization."*

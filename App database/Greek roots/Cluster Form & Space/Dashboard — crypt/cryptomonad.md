@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek crypt.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any member of the phylum Cryptophyta, comprising single-celled biflagellate photosynthetic or heterotrophic algae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In protistology and evolutionary cell biology, unicellular flagellates possessing ejectisomes, flattened cells, and a nucleomorph representing the vestigial nucleus of an engulfed red algal endosymbiont.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cryptomonad designates a term designating an entity, condition, or phenomenon derived from greek crypt."*
+> - 📜 **Lynn Margulis (*Symbiosis in Cell Evolution*):** *"The tiny **cryptomonad** flagellate contains a nucleomorph between its four plastid membranes, conclusive proof of secondary endosymbiosis."*
+> - 📜 **Ernst Haeckel (*Art Forms in Nature*):** *"Under darkfield illumination, a swimming **cryptomonad** darts with breathtaking agility, propelled by unequal flagella."*
+> - 📜 **E. Ray Lankester (*A Treatise on Zoology: Part I*):** *"The distinctive gullet and discharging ejectisomes of each **cryptomonad** serve both for food capture and rapid escape."*

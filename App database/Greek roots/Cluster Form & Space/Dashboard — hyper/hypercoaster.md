@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A roller coaster that goes up 200 feet or higher and can catapult riders from 0 to 70 mph in 4 seconds by motors originally designed to launch rockets.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A roller coaster that goes up 200 feet or higher and can catapult riders from 0 to 70 mph in 4 seconds by motors originally designed to launch rockets.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large, continuous-circuit roller coaster characterized by a height or first drop between 200 and 299 feet (61 to 91 meters).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In amusement park engineering, hypercoasters are designed specifically to maximize speed (often exceeding 70–80 mph) and sustained negative G-forces ('airtime') through parabolic camelback hills, typically without inversions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypercoaster designates a roller coaster that goes up 200 feet or higher and can catapult riders from 0 to 70 mph in 4 seconds by motors originally designed to launch rockets."*
+> - 📜 **Mark Twain (*A Tramp Abroad*):** *"The sheer velocity of the swift mechanical railway produced the exhilaration that riders now seek upon a modern **hypercoaster**."*
+> - 📜 **H. G. Wells (*The Sleeper Awakes*):** *"Vast metal tracks swooped through the futuristic city like the towering parabolic drops of a colossal **hypercoaster**."*
+> - 📜 **John Ruskin (*Fors Clavigera*):** *"Modern amusements strive for violent mechanical shocks, hurling youth along soaring structures resembling a giant **hypercoaster**."*

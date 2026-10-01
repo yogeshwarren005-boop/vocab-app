@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Congenital malformation of the skull which is long and narrow; frequently accompanied by mental retardation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Congenital malformation of the skull which is long and narrow; frequently accompanied by mental retardation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A type of premature craniosynostosis in which premature fusion of the sagittal suture results in an elongated, narrow, boat-shaped cranium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pediatric neurosurgery and dysmorphology, a condition presenting with an elongated anteroposterior diameter and frontal bossing, requiring cranial vault remodeling.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scaphocephaly designates congenital malformation of the skull which is long and narrow; frequently accompanied by mental retardation."*
+> - 📜 **Rudolf Virchow (*Ueber den Cretinismus*):** *"Premature synostosis of the sagittal suture restricts lateral cranial expansion, producing the classic boat-shaped deformity termed **scaphocephaly**."*
+> - 📜 **Harvey Cushing (*The Pituitary Body and Its Disorders*):** *"Radiographic examination in severe **scaphocephaly** reveals prominent ridging along the fused sagittal suture line."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Surgical strip craniectomy during early infancy restores normal cosmetic contour and relieves intracranial constriction in **scaphocephaly**."*

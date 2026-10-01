@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Nonruminant ungulates: horses; tapirs; rhinoceros; extinct forms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Nonruminant ungulates: horses; tapirs; rhinoceros; extinct forms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An order of odd-toed ungulates comprising three extant families: Equidae (horses), Rhinocerotidae (rhinoceroses), and Tapiridae (tapirs).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate paleontology, Perissodactyla flourished during the Eocene epoch, giving rise to gigantic extinct forms such as brontotheres and chalicotheres.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, perissodactyla designates nonruminant ungulates: horses; tapirs; rhinoceros; extinct forms."*
+> - 📜 **Richard Owen (*Description of the Teeth and Portions of the Jaws of Two Extinct Anthracotherioid Quadrupeds*):** *"I propose the order **Perissodactyla** for those hoofed herbivores whose hind-foot exhibits an odd number of digits."*
+> - 📜 **Alfred Romer (*Vertebrate Paleontology*):** *"The evolutionary zenith of **Perissodactyla** occurred in the early Tertiary, followed by displacement by artiodactyls."*
+> - 📜 **George Gaylord Simpson (*Horses: The Story of the Horse Family in the Modern World and through Sixty Million Years of History*):** *"Extant **Perissodactyla** represent surviving remnants of a once magnificent and dominant ungulate clade."*

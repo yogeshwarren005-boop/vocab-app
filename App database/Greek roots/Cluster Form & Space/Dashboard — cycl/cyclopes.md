@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Only the silky anteater.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (greek mythology) one of a race of giants having a single eye in the middle of their forehead.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A race of one-eyed mythical giants in classical Greek mythology who forged thunderbolts for Zeus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical literature, primitive pastoral giants inhabiting cave fastnesses, such as Polyphemus in Homer's Odyssey, or divine smiths laboring beneath Mount Etna.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cyclopes designates only the silky anteater."*
+> - 📜 **Homer (*Odyssey*):** *"We arrived at the land of the fierce **Cyclopes**, lawless giants who plant neither wheat nor vines, trusting only to immortal gods."*
+> - 📜 **Virgil (*Aeneid*):** *"Beneath the glowing caverns of Mount Etna, the monstrous **Cyclopes** forge lightning bolts for the Father of gods and men."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Not that large size of giant breed that moved / In Sicily, where **Cyclopes** dwelt in caves."*

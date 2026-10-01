@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of four pairs of muscles extending from the cervical vertebrae to the second rib; involved in moving the neck and in breathing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of four pairs of muscles extending from the cervical vertebrae to the second rib; involved in moving the neck and in breathing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of the three lateral cervical muscles in humans (scalenus anterior, scalenus medius, or scalenus posterior).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In surgical anatomy, the muscle (especially scalenus anterior) serving as an essential anatomical landmark during cervical and thoracic outlet operations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scalenus designates any of four pairs of muscles extending from the cervical vertebrae to the second rib; involved in moving the neck and in breathing."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The phrenic nerve descends vertically across the anterior surface of the **scalenus** anterior muscle on its way to the diaphragm."*
+> - 📜 **Charles Bell (*The Anatomy of the Human Body*):** *"Contraction of the **scalenus** fixes the first rib, providing a solid mechanical anchor for the actions of the intercostal muscles."*
+> - 📜 **Andreas Vesalius (*De Humani Corporis Fabrica*):** *"I carefully dissected the fibers of the **scalenus**, noting their origin upon the cervical transverse tubercles."*

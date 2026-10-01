@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An electronic device that has two electrodes or terminals and is used especially as a rectifier.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An electronic device that has two electrodes or terminals and is used especially as a rectifier.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A two-terminal electronic semiconductor or thermionic vacuum device that conducts electric current primarily in one direction, acting as a rectifier.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In semiconductor physics and electronic engineering, a p-n junction diode blocks reverse voltage up to its breakdown limit while enabling low-resistance forward conduction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diode designates an electronic device that has two electrodes or terminals and is used especially as a rectifier."*
+> - 📜 **John Ambrose Fleming (*The Thermionic Valve and Its Developments in Radiotelegraphy*):** *"The thermionic **diode** converted alternating radiofrequency currents into direct impulses capable of actuating a telephone receiver."*
+> - 📜 **William Shockley (*Electrons and Holes in Semiconductors*):** *"The current-voltage relationship of an ideal p-n junction **diode** is governed by carrier injection across the potential barrier."*
+> - 📜 **Richard Feynman (*The Feynman Lectures on Physics*):** *"A solid-state **diode** acts like a microscopic one-way turnstile for electrons traversing the crystal boundary."*

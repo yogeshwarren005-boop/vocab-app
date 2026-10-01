@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mediterranean plant widely cultivated as a houseplant for its showy dark green leaves splotched with silver and nodding white or pink to reddish flowers with reflexed petals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mediterranean plant widely cultivated as a houseplant for its showy dark green leaves splotched with silver and nodding white or pink to reddish flowers with reflexed petals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of perennial flowering plants in the primrose family Primulaceae, cultivated for their nodular tubers and nodding blossoms with reflexed petals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In horticulture and Mediterranean floristics, shade-loving alpine woodland geophytes bearing marbled, heart-shaped leaves and backward-swept pink, purple, or white flowers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cyclamen designates mediterranean plant widely cultivated as a houseplant for its showy dark green leaves splotched with silver and nodding white or pink to reddish flowers with reflexed petals."*
+> - 📜 **Alexander von Humboldt (*Aspects of Nature*):** *"In the dappled shade of Mediterranean olive groves, wild pink **Cyclamen** blossoms emerge from rocky fissures."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"The tuberous corm of the Persian **cyclamen** yields winter greenhouse blooms of astonishing elegance and delicate fragrance."*
+> - 📜 **John Ruskin (*Proserpina: Studies of Wayside Flowers*):** *"The reflexed petal of the **cyclamen** curves gracefully backward like the ear of a listening fawn."*

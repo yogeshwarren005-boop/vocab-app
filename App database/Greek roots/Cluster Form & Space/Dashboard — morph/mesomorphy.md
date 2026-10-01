@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Muscular and big-boned.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Muscular and big-boned.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The somatotypic condition, property, or degree of muscularity, physical robustness, and heavy skeletal development in the human body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anthropometric somatotyping (such as the Heath-Carter method), mesomorphy is the second numerical rating, calculated from bone breadths and corrected limb girths.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mesomorphy designates muscular and big-boned."*
+> - 📜 **William H. Sheldon (*Atlas of Men*):** *"The second component, **mesomorphy**, measures the relative predominance of skeletal, muscular, and connective tissue mass."*
+> - 📜 **Barbara Heath (*A Modified Somatotype Method*):** *"In our anthropometric formulation, **mesomorphy** is derived objectively from humerus and femur biepicondylar diameters."*
+> - 📜 **J. M. Tanner (*The Physique of the Olympic Athlete*):** *"Olympic gymnasts and wrestlers exhibit exceptionally high scores in **mesomorphy**, reflecting maximum muscular power per unit of stature."*

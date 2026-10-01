@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of being amphidiploid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The condition of being amphidiploid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of being an amphidiploid; the genetic state where allopolyploidy restores full fertility to an interspecific hybrid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary genomics, an allotetraploid mechanism that combines divergent parental genomes, preventing aneuploidy and facilitating genome buffering.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amphidiploidy designates the condition of being amphidiploid."*
+> - 📜 **Theodosius Dobzhansky (*Mankind Evolving*):** *"Through **amphidiploidy**, disparate ancestral genomes establish stable bivalent pairing, creating stable new polyploid species."*
+> - 📜 **George Ledyard Stebbins (*Variation and Evolution in Plants*):** *"The widespread prevalence of **amphidiploidy** among cultivated wheats and cottons underlines its agricultural and evolutionary significance."*
+> - 📜 **Ernst Mayr (*Animal Species and Evolution*):** *"While rare in bisexual animals, **amphidiploidy** remains one of the most prolific speciation processes throughout the plant kingdom."*

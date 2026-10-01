@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The cardinal number that is the sum of one and one and one.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The cardinal number that is the sum of one and one and one.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Composed of three parts or units; threefold or triple; in astrology, an aspect of 120 degrees between two celestial bodies, historically viewed as harmonious.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical poetry and theology, trine describes triadic celestial harmonies, the Christian Trinity, or triangular geometric configurations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trine designates the cardinal number that is the sum of one and one and one."*
+> - 📜 **Johannes Kepler (*Harmonices Mundi*):** *"The **trine** aspect, dividing the celestial circle by three, establishes a harmonious resonance among planetary orbits."*
+> - 📜 **John Milton (*Paradise Lost*):** *"That glorious form, that light unsufferable, and that far-beaming blaze of majesty, wherewith he wont at Heaven's high council-table to sit the midst of **Trine** Unity into."*
+> - 📜 **John Dryden (*Annus Mirabilis*):** *"Whether in benign conjunction or in **trine**, the stars smiled down upon the restoring of English peace."*

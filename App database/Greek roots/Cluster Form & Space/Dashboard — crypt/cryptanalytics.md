@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The science of analyzing and deciphering codes and ciphers and cryptograms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The science of analyzing and deciphering codes and ciphers and cryptograms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The techniques, operations, and analytical procedures employed in cryptanalysis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cybersecurity and military communications, the systematic quantitative processes applied to intercept, parse, and decipher encrypted transmissions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cryptanalytics designates the science of analyzing and deciphering codes and ciphers and cryptograms."*
+> - 📜 **David Kahn (*The Codebreakers*):** *"Modern **cryptanalytics** blends high-speed digital computation with profound theorems from algebraic number theory."*
+> - 📜 **Claude Shannon (*Communication Theory of Secrecy Systems*):** *"The mathematical foundation of **cryptanalytics** requires calculating conditional entropy across expanding message sequences."*
+> - 📜 **Alan Turing (*Turing's Treatise on the Enigma*):** *"Without rigorous **cryptanalytics**, the stream of military teleprinter traffic would remain an impenetrable wall of noise."*

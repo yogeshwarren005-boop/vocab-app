@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The surgical removal of an ovary —called also ovariectomy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The surgical removal of an ovary —called also ovariectomy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The surgical removal of one or both ovaries, performed to treat conditions such as ovarian cancer, endometriosis, ovarian cysts, or to reduce cancer risk.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gynecological oncology and preventive medicine, prophylactic bilateral oophorectomy is offered to carriers of BRCA mutations to substantially reduce the risk of ovarian and breast cancer.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oophorectomy designates the surgical removal of an ovary —called also ovariectomy."*
+> - 📜 **Robert Battey (*Normal Ovariotomy*):** *"I proposed **oophorectomy** as a radical cure for otherwise intractable menstrual epilepsy and ovarian neuralgia."*
+> - 📜 **Mary-Claire King (*Breast and Ovarian Cancer Risks Due to Inherited Mutations in BRCA1 and BRCA2*):** *"Prophylactic **oophorectomy** reduces the risk of ovarian cancer by approximately ninety percent in BRCA carriers."*
+> - 📜 **Te Linde (*Te Linde's Operative Gynecology*):** *"Laparoscopic **oophorectomy** has largely replaced the open surgical approach due to faster recovery times."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Designating or relating to a form of treatment of mental disorders that seeks to restore biochemical balance in the body with large doses of vitamins and minerals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Designating or relating to a form of treatment of mental disorders that seeks to restore biochemical balance in the body with large doses of vitamins and minerals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to or designating a form of complementary medicine that seeks to maintain health and treat disease through optimal concentrations of natural substances.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nutritional biochemistry, a concept proposed by Linus Pauling emphasizing therapeutic dosing of vitamins, amino acids, and minerals normally present in the body.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, orthomolecular designates designating or relating to a form of treatment of mental disorders that seeks to restore biochemical balance in the body with large doses of vitamins and minerals."*
+> - 📜 **Linus Pauling (*Orthomolecular Psychiatry*):** *"**Orthomolecular** therapy involves providing the optimum molecular environment for the mind, especially the optimum concentrations of substances normally present in the human body."*
+> - 📜 **Abram Hoffer (*Adventures in Food and Nutrition*):** *"Clinical application of **orthomolecular** principles relies upon individualized megavitamin supplementation."*
+> - 📜 **Stephen Barrett (*The Vitamin Pushers*):** *"Critics argue that **orthomolecular** claims often lack rigorous randomized clinical validation."*

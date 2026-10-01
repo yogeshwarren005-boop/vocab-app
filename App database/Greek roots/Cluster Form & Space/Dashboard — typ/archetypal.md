@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Representing or constituting an original type after which other similar things are patterned.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Representing or constituting an original type after which other similar things are patterned.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Very typical of a certain kind of person or thing; relating to or denoting an original model or archetype.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Jungian depth psychology, archetypal images emerge from the collective unconscious as universal primordial symbols (e.g. the Hero, the Shadow, the Great Mother).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, archetypal designates representing or constituting an original type after which other similar things are patterned."*
+> - 📜 **Carl Jung (*The Archetypes and the Collective Unconscious*):** *"Mythological themes recurring across distinct civilizations reflect autonomous **archetypal** structures within the psyche."*
+> - 📜 **Northrop Frye (*Anatomy of Criticism*):** *"Literary romance derives its enduring power from **archetypal** narratives of quest, death, and resurrection."*
+> - 📜 **Joseph Campbell (*The Hero with a Thousand Faces*):** *"The monomyth portrays an **archetypal** adventure of departure, initiation, and triumphant return."*

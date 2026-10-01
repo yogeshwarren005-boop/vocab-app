@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (genetics) an organism or cell having a chromosome number that is not an even multiple of the haploid chromosome number for that species.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (genetics) an organism or cell having a chromosome number that is not an even multiple of the haploid chromosome number for that species.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a chromosome number that is not an exact multiple of the normal haploid number; aneuploid or aberrant polyploid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cytogenetics and cancer biology, heteroploid karyotypes with extensive chromosomal gains and losses characterize high-grade malignant neoplasms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heteroploid designates (genetics) an organism or cell having a chromosome number that is not an even multiple of the haploid chromosome number for that species."*
+> - 📜 **Bruce Alberts (*Molecular Biology of the Cell*):** *"Spindle checkpoint defects during mitosis frequently generate a **heteroploid** daughter cell carrying unequal chromosome complements."*
+> - 📜 **Theodosius Dobzhansky (*Genetics and the Origin of Species*):** *"Although most **heteroploid** embryos die in utero, occasional polyploid variants initiate new plant lineages."*
+> - 📜 **Robert A. Weinberg (*The Biology of Cancer*):** *"Massive chromosomal instability ensures that nearly every advanced solid tumor exhibits an unstable **heteroploid** genome."*

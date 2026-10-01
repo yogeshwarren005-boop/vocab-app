@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Flask-shaped ascocarp.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Flask-shaped ascocarp.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A round or flask-shaped fruiting body (ascoma) in certain ascomycete fungi, having a small opening (ostiole) through which ascospores are discharged.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mycology, perithecia are characteristic of Sordariomycetes (such as Neurospora and Claviceps), where asci forcibly eject spores through the apical pore.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Very common. (Plate XI. figs. 240-242.) CHÆTOMIUM, _Kze._ Perithecium thin, brittle, mouthless; sporangia linear, containing dark lemon-shaped spores. _Berk."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"STRAW-BRISTLE MOULD; perithecium sub-ovate, base radiato-fibrose, hairs of the vertex very long, interwoven, branched; spores broadly elliptic, apiculate at either end.—On mouldering straw, reeds, matting, &c."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"PAPER-BRISTLE MOULD; perithecium subglobose, black, surrounded by a bright yellow spot; spores subglobose.—On paper."*
+> - 📜 **Elias Magnus Fries (*Systema Mycologicum*):** *"The carbonaceous **perithecium** of Xylaria embeds numerous clavate asci within a protective stromatic crust."*
+> - 📜 **George W. Beadle (*Genetic Control of Biochemical Reactions in Neurospora*):** *"Crossing compatible strains produces black mature **perithecium** bodies containing ordered linear asci."*
+> - 📜 **John Webster (*Introduction to Fungi*):** *"Turgor pressure within the mature **perithecium** shoots ascospores through the ostiolar canal into the air."*

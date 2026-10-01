@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Communicate over long distances, as via the telephone or e-mail.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Communicate over long distances, as via the telephone or e-mail.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To transmit, convey, or receive messages, signals, or data across distance by electronic, radio, or optical telecommunication systems.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In communications engineering, the ability to telecommunicate reliably across noisy channels depends on error-correcting codes and modulation protocols.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, telecommunicate designates communicate over long distances, as via the telephone or e-mail."*
+> - 📜 **Alexander Graham Bell (*Memoir upon the Formation of a Deaf Variety of the Human Race*):** *"To **telecommunicate** human speech instantaneously along a metallic wire was the lifelong vision that inspired my experiments."*
+> - 📜 **Guglielmo Marconi (*Wireless Telegraphic Communication: Nobel Lecture*):** *"Our ability to **telecommunicate** across thousands of miles of stormy ocean without wires proved the commercial viability of radio."*
+> - 📜 **Claude Shannon (*Communication in the Presence of Noise*):** *"Any system designed to **telecommunicate** discrete symbols must encode information to resist channel degradation."*

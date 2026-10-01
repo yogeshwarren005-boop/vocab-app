@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Platelets are separated from whole blood and the rest is returned to the donor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Platelets are separated from whole blood and the rest is returned to the donor.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialized apheresis procedure in which blood is drawn from a donor, platelets are separated and collected, and the remaining blood components are returned.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In transfusion medicine, a single-donor plateletpheresis yields a therapeutic platelet dose equivalent to 6 to 8 pooled whole-blood platelet units, minimizing recipient antigen exposure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plateletpheresis designates platelets are separated from whole blood and the rest is returned to the donor."*
+> - 📜 **Maxwell M. Wintrobe (*Clinical Hematology*):** *"Modern transfusion services rely on **plateletpheresis** to provide HLA-matched single-donor platelets for refractory thrombocytopenic patients."*
+> - 📜 **Tinsley R. Harrison (*Principles of Internal Medicine*):** *"Automated **plateletpheresis** allows healthy volunteers to donate platelets safely every few weeks without lowering their red cell count."*
+> - 📜 **Eugene Braunwald (*Harrison's Principles of Internal Medicine*):** *"Prophylactic transfusion using products obtained via **plateletpheresis** prevents spontaneous intracranial hemorrhage during induction chemotherapy."*

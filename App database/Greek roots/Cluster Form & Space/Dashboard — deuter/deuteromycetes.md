@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Form class; coextensive with subdivision deuteromycota.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Form class; coextensive with subdivision deuteromycota.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Plural noun designating fungi formerly classed in the artificial group Deuteromycota (imperfect fungi) lacking an observable sexual cycle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical and industrial microbiology, deuteromycetes include economically critical genera such as Penicillium and Aspergillus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, deuteromycetes designates form class; coextensive with subdivision deuteromycota."*
+> - 📜 **Alexander Fleming (*On the Antibacterial Action of Cultures of a Penicillium*):** *"The mold belonged to the **deuteromycetes**, producing an exudate that exhibited potent bactericidal properties."*
+> - 📜 **C. J. Alexopoulos (*Introductory Mycology*):** *"Because sexual states were unknown, **deuteromycetes** were classified strictly by conidial shape, septation, and color."*
+> - 📜 **Selman Waksman (*Microbial Antagonisms and Antibiotic Substances*):** *"Soil surveys revealed that **deuteromycetes** synthesize diverse secondary metabolites capable of inhibiting rival microorganisms."*

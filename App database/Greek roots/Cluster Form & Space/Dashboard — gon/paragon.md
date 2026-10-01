@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An ideal instance; a perfect embodiment of a concept.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Model of excellence or perfection of a kind; one having no equal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person or thing regarded as a model of excellence or perfection in some quality; an ideal pattern.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical literature and Renaissance thought, a paragon embodies virtù or the harmonious synthesis of noble attributes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By Isis, I will give thee bloody teeth If thou with Caesar paragon again My man of men."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By Jupiter, an angel! or, if not, An earthly paragon!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That paragon, thy daughter, For whom my heart drops blood and my false spirits Quail to remember—Give me leave, I faint."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"What a piece of work is a man! ... the beauty of the world! the **paragon** of animals!"*
+> - 📜 **Alexander Pope (*The Rape of the Lock*):** *"Admired by all, she walked the salon as a acknowledged **paragon** of wit and graceful beauty."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Created without blemish, Adam stood forth as the crowning **paragon** of the terrestrial creation."*

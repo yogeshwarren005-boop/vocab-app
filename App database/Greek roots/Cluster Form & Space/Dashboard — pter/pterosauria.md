@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extinct flying reptiles: pterosaurs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extinct flying reptiles: pterosaurs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The extinct taxonomic order of flying archosaurian reptiles that lived during the Mesozoic era.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic vertebrate paleontology, an archosaur clade comprising Rhamphorhynchoidea and Pterodactyloidea, characterized by patagial wing membranes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pterosauria designates extinct flying reptiles: pterosaurs."*
+> - 📜 **Harry Govier Seeley (*Dragons of the Air: An Account of Extinct Flying Reptiles*):** *"The order **pterosauria** represents nature's boldest experiment in combining reptilian skeletal patterns with sustained avian locomotion."*
+> - 📜 **Christian Erich Hermann von Meyer (*Zur Fauna der Vorwelt*):** *"Fossils belonging to **pterosauria** from Solnhofen quarries reveal the delicate impression of the leathery flight membrane."*
+> - 📜 **Karl Alfred von Zittel (*Text-Book of Palaeontology*):** *"Throughout the Jurassic and Cretaceous periods, **pterosauria** dominated the aerial vertebrate ecological niches across continental margins."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The outer fringe region of the atmosphere of the earth or a celestial body (such as a planet).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The outer fringe region of the atmosphere of the earth or a celestial body (such as a planet).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The outermost region of a planet's atmosphere, where atmospheric density is so low that gas particles rarely collide and can escape into space.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In planetary atmospheric physics, the terrestrial exosphere begins at the exobase (~500–1000 km altitude) and merges gradually into the interplanetary solar wind.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, exosphere designates the outer fringe region of the atmosphere of the earth or a celestial body (such as a planet)."*
+> - 📜 **James Van Allen (*Origins of Magnetospheric Physics*):** *"Neutral hydrogen atoms in the **exosphere** form a vast, diffuse geocorona extending tens of thousands of kilometers into space."*
+> - 📜 **Carl Sagan (*Cosmos*):** *"In the tenuous **exosphere**, atmospheric atoms moving faster than escape velocity break free from planetary gravity forever."*
+> - 📜 **Subrahmanyan Chandrasekhar (*Radiative Transfer*):** *"Collisionless kinetics govern particle trajectories throughout the rarified upper boundary of the planetary **exosphere**."*

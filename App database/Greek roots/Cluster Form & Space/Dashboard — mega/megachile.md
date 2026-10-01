@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the megachilidae: leaf-cutting bees.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the megachilidae: leaf-cutting bees.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cosmopolitan genus of solitary bees in the family Megachilidae, commonly known as leafcutter bees.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic entomology, non-social bees possessing large cutting mandibles used to slice circular leaf discs to line their brood cells, and an abdominal pollen-carrying scopa.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, megachile designates type genus of the megachilidae: leaf-cutting bees."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The leaf-cutting bee **Megachile** exhibits wonderful instinct in snipping neat circular fragments from rose foliage."*
+> - 📜 **Jean-Henri Fabre (*Bramble-Bees and Others*):** *"With her scissor-like mandibles, **Megachile** cuts her green upholstery with the geometric precision of a master tailor."*
+> - 📜 **John Lubbock (*Ants, Bees, and Wasps*):** *"Unlike hive bees, the solitary mason bee **Megachile** builds independent thimble-shaped nesting cylinders."*

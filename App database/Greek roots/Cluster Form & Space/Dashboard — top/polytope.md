@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek top.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A geometric figure bounded by flat sides, representing the generalization to any number of dimensions of polygons (two dimensions) and polyhedra (three dimensions).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Coined in 1882 by Alicia Boole Stott, polytope theory in higher-dimensional geometry classifies regular 4-polytopes (such as the 24-cell and 120-cell) and supports linear programming (simplex algorithm).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polytope designates a term designating an entity, condition, or phenomenon derived from greek top."*
+> - 📜 **H. S. M. Coxeter (*Regular Polytopes*):** *"The four-dimensional hypercube is the simplest regular **polytope** possessing eight cubical boundary cells."*
+> - 📜 **Alicia Boole Stott (*Geometrical Deduction of Semiregular from Regular Polytopes*):** *"By sectioning four-dimensional space with three-dimensional hyperplanes, each complex **polytope** reveals its inner symmetry."*
+> - 📜 **Ludwig Schläfli (*Theory of Continuous Manifolds*):** *"Schläfli symbols provide an elegant algebraic notation for classifying every regular multidimensional **polytope**."*

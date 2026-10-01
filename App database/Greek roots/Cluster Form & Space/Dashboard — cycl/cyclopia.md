@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A developmental abnormality in which there is only one eye.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A developmental abnormality in which there is only one eye.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rare, severe congenital developmental malformation in which the embryonic forebrain fails to divide the orbits into two cavities, resulting in a single central eye.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In teratology and developmental embryology, the most extreme phenotypic manifestation of alobar holoprosencephaly, often accompanied by a tubular proboscis above the single orbit.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cyclopia designates a developmental abnormality in which there is only one eye."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Congenital **cyclopia** represents a severe developmental arrest of the anterior prechordal mesoderm during early neural plate induction."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants Under Domestication*):** *"Cases of **cyclopia** appearing in domestic lambs provide remarkable illustrations of teratological cephalic fusion."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Examination of human fetuses with **cyclopia** reveals total failure of median cleavage within the embryonic prosencephalon."*

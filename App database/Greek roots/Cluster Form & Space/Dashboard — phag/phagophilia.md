@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek phag.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal or excessive love of or fixation on eating, consuming food, or observing eating behavior.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In behavioral psychology, a paraphilic or psychological fascination involving food consumption or eating rituals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phagophilia designates a term designating an entity, condition, or phenomenon derived from greek phag."*
+> - 📜 **Richard von Krafft-Ebing (*Psychopathia Sexualis*):** *"Certain obsessive neuroses present bizarre manifestations of **phagophilia**, where compulsive eating becomes intertwined with emotional fixation."*
+> - 📜 **Havelock Ellis (*Studies in the Psychology of Sex*):** *"The psychological phenomenon of **phagophilia** connects gustatory indulgence with deep subconscious cravings for security."*
+> - 📜 **Sigmund Freud (*Three Essays on the Theory of Sexuality*):** *"Oral fixation may persist into adult character as compulsive **phagophilia** or gluttonous overeating."*

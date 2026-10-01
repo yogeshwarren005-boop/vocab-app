@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cryptography.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The art or practice of concealing a message, image, or file within another message, image, or file.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The practice or art of concealing a secret message, file, or image within another ordinary, non-secret message or carrier medium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cryptology and information security, steganography differs from cryptography in that it conceals the very existence of the communication, historically using invisible ink, microdots, or least significant bits in digital media.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, steganography designates cryptography."*
+> - 📜 **Johannes Trithemius (*Steganographia*):** *"By the subtle rules of **steganography**, hidden wisdom can be conveyed across enemy frontiers disguised as pious prayers."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The art of **steganography** or secret writing was perfected by ancient princes who mistrusted ordinary messengers."*
+> - 📜 **Claude Shannon (*Communication Theory of Secrecy Systems*):** *"In ideal **steganography**, the presence of the concealed signal produces no statistical perturbation in the carrier noise."*

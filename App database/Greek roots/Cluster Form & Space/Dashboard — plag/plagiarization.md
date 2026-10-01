@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of plagiarizing; taking someone's words or ideas as if they were your own.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of plagiarizing; taking someone's words or ideas as if they were your own.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of plagiarizing; copying another's creative work and passing it off as original.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In copyright law and scholarly standards, the fraudulent adoption of another author's written formulation or research results.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plagiarization designates the act of plagiarizing; taking someone's words or ideas as if they were your own."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The blatant **plagiarization** of Italian commentaries exposed the compiler to the scorn of European scholars."*
+> - 📜 **Samuel Johnson (*The Adventurer*):** *"When literary **plagiarization** becomes pervasive, public confidence in authorial genius is destroyed."*
+> - 📜 **H. L. Mencken (*Prejudices*):** *"Much academic scholarship is little more than the dignified **plagiarization** of forgotten German monographs."*

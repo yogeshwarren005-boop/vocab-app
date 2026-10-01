@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a trite manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a trite manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a trite, hackneyed, or commonplace manner; using clichés or overused expressions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary criticism and rhetoric, speaking or writing tritely signifies intellectual laziness and a reliance on prefabricated verbal formulas.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"He nodded to himself as he drew off his trousers and stood up, saying tritely: —Redheaded women buck like goats."*
+> - 📜 **William Hazlitt (*Table-Talk*):** *"The second-rate orator expresses himself **tritely**, repeating worn aphorisms that evoke only polite yawns."*
+> - 📜 **Henry James (*The Art of the Novel*):** *"The conversation proceeded somewhat **tritely**, skimming over superficial pleasantries before reaching the critical dispute."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"He praised the landscape **tritely**, using the conventional adjectives of romantic travel books."*

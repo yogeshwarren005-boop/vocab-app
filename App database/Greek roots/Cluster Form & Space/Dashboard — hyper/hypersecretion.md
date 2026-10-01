@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessive secretion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Excessive secretion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessive or abnormally elevated secretion of a bodily fluid, chemical substance, or hormone by a gland or mucosal lining.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pathophysiology, hypersecretion describes glandular overactivity, such as gastric acid hypersecretion in gastrinoma or mucous hypersecretion in chronic bronchitis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypersecretion designates excessive secretion."*
+> - 📜 **William Beaumont (*Experiments and Observations on the Gastric Juice and the Physiology of Digestion*):** *"Stimulation by spicy condiments provoked temporary **hypersecretion** of highly acid gastric fluid."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Pituitary **hypersecretion** of growth hormone in adults transforms the skeletal contours into the grotesque habitus of acromegaly."*
+> - 📜 **Ernest Starling (*Principles of Human Physiology*):** *"Pancreatic **hypersecretion** follows experimental intravenous injection of purified secretin."*

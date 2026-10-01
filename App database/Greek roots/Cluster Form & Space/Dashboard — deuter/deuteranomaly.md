@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Exhibiting partial loss of green color vision so that an increased intensity of green is required in a mixture of red and green to match a given yellow.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exhibiting partial loss of green color vision so that an increased intensity of green is required in a mixture of red and green to match a given yellow.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mild, hereditary form of color vision deficiency characterized by an abnormal sensitivity of green-sensitive cone photopigments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In visual physiology and ophthalmology, deuteranomaly represents the most common congenital color blindness, affecting roughly 5% of males via X-linked recessive inheritance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, deuteranomaly designates exhibiting partial loss of green color vision so that an increased intensity of green is required in a mixture of red and green to match a given yellow."*
+> - 📜 **David H. Hubel (*Eye, Brain, and Vision*):** *"An individual with **deuteranomaly** possesses all three cone types, but the spectral peak of the M-cone is shifted toward the red end."*
+> - 📜 **John H. Mollon (*The Origins of Modern Color Science*):** *"Unlike true dichromacy, **deuteranomaly** permits trichromatic color matching, albeit with anomalous green proportions."*
+> - 📜 **Arthur C. Guyton (*Textbook of Medical Physiology*):** *"Spectral anomalies like **deuteranomaly** stem from unequal crossing over between adjacent red and green pigment genes on the X chromosome."*

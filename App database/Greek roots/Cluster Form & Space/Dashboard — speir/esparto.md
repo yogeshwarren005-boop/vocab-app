@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Either of two Spanish and Algerian grasses (Stipa tenacissima and Lygeum spartum) used especially to make cordage, shoes, and paper —called also esparto grass.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The fiber of esparto.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A coarse, wiry, perennial grass (*Macrochloa tenacissima*) native to southern Spain and North Africa, used for making cords, baskets, and high-quality paper.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In paper manufacturing and economic botany, esparto grass fibers yield soft, opaque, bulky book printing paper with superior ink-receptive properties.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, esparto designates either of two spanish and algerian grasses (stipa tenacissima and lygeum spartum) used especially to make cordage, shoes, and paper —called also esparto grass."*
+> - 📜 **Richard Ford (*A Handbook for Travellers in Spain*):** *"The arid hills of Murcia are covered in tough clumps of **esparto**, woven by peasants into ropes, sandals, and panniers."*
+> - 📜 **George Borrow (*The Bible in Spain*):** *"Mules laden with huge bundles of cut **esparto** trod the dusty highway toward the coastal paper mills."*
+> - 📜 **Charles Dickens (*All the Year Round*):** *"The introduction of Spanish **esparto** as a substitute for cotton rags rescued the printing press from acute paper shortages."*

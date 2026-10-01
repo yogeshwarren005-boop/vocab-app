@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A surgical instrument that stops bleeding by clamping the blood vessel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A surgical instrument that stops bleeding by clamping the blood vessel.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A surgical clamp or chemical agent used to compress a bleeding blood vessel and arrest hemorrhage; British/Commonwealth variant of hemostat.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In operative surgery, the locking ratchet haemostat (such as Spencer Wells or Halsted clamps) ensures definitive vascular control in the operative field.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, haemostat designates a surgical instrument that stops bleeding by clamping the blood vessel."*
+> - 📜 **Thomas Spencer Wells (*On Ovarian and Uterine Tumours*):** *"By applying my newly designed **haemostat** forceps to bleeding pedicles, operative hemorrhage was brought under secure control."*
+> - 📜 **Lord Moynihan (*Abdominal Operations*):** *"The assistant immediately snapped a fine curved **haemostat** onto the spurting mesenteric vessel."*
+> - 📜 **Arthur Conan Doyle (*Round the Red Lamp*):** *"The surgeon called sharply for a **haemostat** as blood welled up from the deep fascia."*

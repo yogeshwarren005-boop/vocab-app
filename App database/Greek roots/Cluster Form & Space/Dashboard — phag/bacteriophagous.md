@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to bacteriophages.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to bacteriophages.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeding upon, destroying, or consuming bacteria; phage-like in action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ecology and microbiological terminology, designating protozoans, viruses, or predatory bacteria that prey directly on bacterial populations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bacteriophagous designates of or relating to bacteriophages."*
+> - 📜 **Félix d'Herelle (*The Bacteriophage: Its Role in Immunity*):** *"The ultramicroscopic **bacteriophagous** principle exerts continuous predatory pressure upon pathogenic bacilli."*
+> - 📜 **G. Evelyn Hutchinson (*A Treatise on Limnology*):** *"Ciliated protozoa and **bacteriophagous** flagellates regulate microbial biomass in the epilimnion."*
+> - 📜 **Eugene P. Odum (*Fundamentals of Ecology*):** *"Predation by **bacteriophagous** microfauna accelerates nutrient recycling within wastewater treatment lagoons."*

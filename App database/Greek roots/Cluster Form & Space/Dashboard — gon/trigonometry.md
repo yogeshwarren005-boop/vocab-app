@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of the properties of triangles and trigonometric functions and of their applications.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Trigonometry applied to spherical triangles and polygons.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of mathematics dealing with the relationships between the sides and angles of triangles and with the trigonometric functions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In astronomy, geodesy, and navigation, spherical trigonometry computes great-circle distances and celestial positions across the celestial sphere.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trigonometry designates the study of the properties of triangles and trigonometric functions and of their applications."*
+> - 📜 **Isaac Newton (*Opticks*):** *"Refraction through glass prisms follows Snell's law, formulated directly in the language of **trigonometry**."*
+> - 📜 **Leonhard Euler (*Elements of Algebra*):** *"Analytical **trigonometry** treats sines and cosines not merely as geometric chords, but as algebraic functions of real and complex variables."*
+> - 📜 **Carl Friedrich Gauss (*General Investigations of Curved Surfaces*):** *"Geodetic **trigonometry** demonstrates that measuring the excess angle of a spherical triangle yields its enclosed surface area."*

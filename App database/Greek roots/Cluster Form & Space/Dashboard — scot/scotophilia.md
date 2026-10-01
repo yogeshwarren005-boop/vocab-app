@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek scot.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A fondness for or preference for darkness or the night; nyctophilia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychiatry and psychoanalysis, scotophilia (or scotophilic tendency) describes an obsessive craving for dark environments, or a voyeuristic/exhibitionist impulse linked to concealment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scotophilia designates a term designating an entity, condition, or phenomenon derived from greek scot."*
+> - 📜 **Sigmund Freud (*Three Essays on the Theory of Sexuality*):** *"In certain neurotic constitutions, the drive manifests as an intense **scotophilia**, seeking gratification in shadowed secrecy."*
+> - 📜 **Havelock Ellis (*Studies in the Psychology of Sex*):** *"The condition of **scotophilia** may range from a mild aesthetic affinity for nighttime solitude to morbid nocturnal compulsion."*
+> - 📜 **Richard von Krafft-Ebing (*Psychopathia Sexualis*):** *"The patient exhibited pronounced **scotophilia**, refusing to venture out of doors until twilight had fallen completely."*

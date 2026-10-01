@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of wing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of wing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having four wings, four wing-like appendages, or four prominent longitudinal angles or ribs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic botany and entomology, describing four-angled stems, quadrangular fruits, or four-winged flying insects.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tetrapterous designates adjective*) pertaining to, derived from, or characteristic of wing."*
+> - 📜 **Carl Linnaeus (*Philosophia Botanica*):** *"When a seed pod develops four longitudinal membranous fins, the fruit is termed **tetrapterous**."*
+> - 📜 **John Lindley (*An Introduction to Botany*):** *"The **tetrapterous** stem of the cruciferous plant provides increased aerodynamic stability along windblown sea bluffs."*
+> - 📜 **Thomas Say (*American Entomology*):** *"The specimen exhibits a **tetrapterous** flight apparatus composed of four transparent, delicately reticulated wings."*

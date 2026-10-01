@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The application of plaster.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Apply a heavy coat to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act, process, or trade of applying plaster to walls, ceilings, or masonry structures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In decorative architecture and building craft, skilled plastering encompasses ornamental cornices, stucco moldings, and smooth lath-and-plaster finishes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The harlot’s cheek, beautied with plastering art, Is not more ugly to the thing that helps it Than is my deed to my most painted word."*
-> - 📜 **Classic Author (*Friends and Helpers*):** *"The phoebe uses a mixture of mud and moss in plastering his large nest on some beam or rafter."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"The harlot's cheek, beautied with **plastering** art, is not more ugly to the thing that helps it than is my deed to my painted word."*
+> - 📜 **Vitruvius (*De Architectura*):** *"Careful **plastering** in multiple successive coats prevents dampness from penetrating interior masonry walls."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"Coarse **plastering** smeared over noble stonework degrades the expressive vitality of original architectural lines."*

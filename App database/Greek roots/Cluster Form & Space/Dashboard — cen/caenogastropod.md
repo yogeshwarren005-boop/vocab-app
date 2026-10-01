@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek cen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any mollusk belonging to the Caenogastropoda, the largest and most ecologically diverse clade of modern marine and freshwater snails.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In invertebrate zoology and malacology, advanced gastropods characterized by a single pectinibranch gill, an anterior inhalant siphon, and a specialized radular apparatus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, caenogastropod designates a term designating an entity, condition, or phenomenon derived from greek cen."*
+> - 📜 **Rachel Carson (*The Edge of the Sea*):** *"The predatory moon snail is an active **caenogastropod** that drills neat countersunk holes through the shells of clams."*
+> - 📜 **Thomas Henry Huxley (*The Invertebrata*):** *"The asymmetrical reduction of the right gill and osphradium characterizes the advanced architecture of the typical **caenogastropod**."*
+> - 📜 **E. Ray Lankester (*A Treatise on Zoology*):** *"Evolutionary radiation within the marine **caenogastropod** lineages produced specialized venomous hunters such as the cone snails."*

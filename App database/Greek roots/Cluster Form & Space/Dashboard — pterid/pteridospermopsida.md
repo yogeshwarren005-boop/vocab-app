@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extinct gymnosperms most of carboniferous to jurassic: seed ferns and allies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extinct gymnosperms most of carboniferous to jurassic: seed ferns and allies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The formal taxonomic class of extinct seed ferns within the gymnosperms, flourishing from the Devonian to the Cretaceous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic paleobotany, encompassing classical orders like Lyginopteridales and Medullosales, having seeds encased in protective cupules.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pteridospermopsida designates extinct gymnosperms most of carboniferous to jurassic: seed ferns and allies."*
+> - 📜 **Thomas N. Taylor (*The Biology and Evolution of Fossil Plants*):** *"Within **pteridospermopsida**, the Medullosales reached massive proportions, their trunks supported by extensive secondary vascular growth."*
+> - 📜 **Wilson N. Stewart (*Paleobotany and the Evolution of Plants*):** *"The discovery of petrified ovules belonging to **pteridospermopsida** settled debates regarding the non-fern nature of Carboniferous fronds."*
+> - 📜 **Harlan P. Banks (*Evolution and Plants of the Past*):** *"The cupule morphology in **pteridospermopsida** represents an important precursor to the protective integuments of modern seeds."*

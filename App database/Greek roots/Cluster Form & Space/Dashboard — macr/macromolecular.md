@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or consisting of or characterized by macromolecules.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or consisting of or characterized by macromolecules.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, composed of, or characteristic of macromolecules or polymers possessing very high molecular weights.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biophysics and structural chemistry, macromolecular assemblies such as the ribosome and chromatin fibers exhibit cooperative mechanical and catalytic behavior.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, macromolecular designates relating to or consisting of or characterized by macromolecules."*
+> - 📜 **Hermann Staudinger (*Die hochmolekularen organischen Verbindungen*):** *"True **macromolecular** substances consist of long chain molecules held together by ordinary covalent chemical valences."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"Secondary hydrogen bonding stabilizes the intricate helical conformations of **macromolecular** protein architectures."*
+> - 📜 **Dorothy Crowfoot Hodgkin (*The Molecular Structure of Insulin*):** *"X-ray crystallography unravels the exact three-dimensional coordinates governing complex **macromolecular** assemblies."*

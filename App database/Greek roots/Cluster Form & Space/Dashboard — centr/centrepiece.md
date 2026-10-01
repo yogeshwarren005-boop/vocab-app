@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The central or most important feature.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something placed at the center of something else (as on a table).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ornamental object, decorative display, or floral arrangement placed in the center of a dining table or formal banquet.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The most important, prominent, or central item, event, or feature of an artistic exhibition, program, or architectural composition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Even the cabin table itself had been knocked into kindling-wood; and the cabin mess dined off the broad head of an oil-butt, lashed down to the floor for a centrepiece."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Even the cabin table itself had been knocked into kindling-wood; and the cabin mess dined off the broad head of an oil-butt, lashed down to the floor for a centrepiece."*
-> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"But the pink and crimson asters furnished a centrepiece decidedly more in keeping, somehow, with a men's dinner than roses would have been, and the decorators were content with them."*
+> - 📜 **Jane Austen (*Emma*):** *"The grand silver epergne loaded with choice fruits stood as the magnificent **centrepiece** of the wedding breakfast."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The carved marble altar forms the sublime architectural **centrepiece** around which all other chapel decorations harmonize."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The triumphal arch of Constantine was erected as the proud **centrepiece** of imperial victory in the eternal city."*

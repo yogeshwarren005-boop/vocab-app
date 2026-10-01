@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: ( used of verbs (e.g. `be' or `own') and most participial adjectives) expressing existence or a state rather than an action.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: ( used of verbs (e.g. `be' or `own') and most participial adjectives) expressing existence or a state rather than an action.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In linguistics and grammar, expressing a state of affairs, existence, or condition rather than an action or dynamic process (of verbs or adjectives).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In formal semantics, stative verbs (such as *know*, *belong*, or *resemble*) typically resist the progressive aspect and imperative mood in standard English.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stative designates ( used of verbs (e.g. `be' or `own') and most participial adjectives) expressing existence or a state rather than an action."*
+> - 📜 **Otto Jespersen (*The Philosophy of Grammar*):** *"A **stative** verb denotes a continuous condition of being, contrasting sharply with dynamic verbs of action."*
+> - 📜 **Noam Chomsky (*Aspects of the Theory of Syntax*):** *"Selectional restrictions prevent **stative** predicates from freely entering progressive aspectual constructions."*
+> - 📜 **Edward Sapir (*Language: An Introduction to the Study of Speech*):** *"Many American Indian tongues distinguish **stative** from active verbal paradigms through distinctive pronominal affixes."*

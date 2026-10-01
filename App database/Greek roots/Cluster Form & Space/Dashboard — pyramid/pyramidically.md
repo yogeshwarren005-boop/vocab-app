@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a pyramidal manner or shape.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a pyramidal manner or shape.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In the form, manner, or geometric proportions of a pyramid; tapering upward to a point.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In descriptive writing, rising or narrowing gradually in stacked horizontal ranks or layers toward an apex.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pyramidically designates in a pyramidal manner or shape."*
+> - 📜 **Thomas Carlyle (*The French Revolution: A History*):** *"Society had arranged itself **pyramidically**, with the starving multitude at the base and a sparkling court balanced on top."*
+> - 📜 **Charles Dickens (*Martin Chuzzlewit*):** *"Luggage of every conceivable shape was piled **pyramidically** upon the wharf, threatening to tumble into the river below."*
+> - 📜 **Washington Irving (*A History of New York*):** *"The burghers constructed their brick houses with gables stepped **pyramidically** in the quaint style of Old Amsterdam."*

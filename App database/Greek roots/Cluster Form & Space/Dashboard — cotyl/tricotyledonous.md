@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of cup.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of cup.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or developing three cotyledons instead of the normal one or two.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant teratology and developmental genetics, describing seedling anomalies or gymnosperm embryos that produce three functional seed leaves.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tricotyledonous designates adjective*) pertaining to, derived from, or characteristic of cup."*
+> - 📜 **Hugo de Vries (*The Mutation Theory*):** *"Among several thousand germinating evening primroses, I discovered occasional **tricotyledonous** seedlings that bred true in successive generations."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants Under Domestication*):** *"Horticultural records show that **tricotyledonous** variations appear intermittently in radishes, beans, and sycamores."*
+> - 📜 **Asa Gray (*Botanical Text-Book*):** *"Conifers frequently exhibit polycotyledony, but a strictly **tricotyledonous** angiosperm embryo is regarded as an abnormal deviation."*

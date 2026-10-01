@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek gnath.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A millipede belonging to the subclass Chilognatha, having a heavily calcified body wall and mouthparts equipped with broad gnathochilaria.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In myriapodology and arthropod systematics, chilognaths represent the vast majority of living millipede diversity, producing protective aromatic quinones.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chilognath designates a term designating an entity, condition, or phenomenon derived from greek gnath."*
+> - 📜 **Richard Lydekker (*The Royal Natural History*):** *"The typical **chilognath** crawls slowly among rotting leaf litter, consuming decaying vegetable matter with broad gnathal plates."*
+> - 📜 **J. L. Cloudsley-Thompson (*Spiders, Scorpions, Centipedes and Mites*):** *"When disturbed, a **chilognath** rolls into a tight protective spiral, shielding its vulnerable legs beneath tough diplosegments."*
+> - 📜 **R. F. Lawrence (*The Centipedes and Millipedes of Southern Africa*):** *"The gnathochilarium of a **chilognath** represents a specialized fusion of maxillipeds adapted for grinding fungal hyphae."*

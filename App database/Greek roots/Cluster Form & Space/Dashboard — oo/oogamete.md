@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek oo.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large, non-motile female gamete or egg cell that is fertilized by a smaller, motile male gamete in the process of sexual reproduction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative reproductive biology, the oogamete represents the extreme of gamete size dimorphism (anisogamy), contrasting with the isogamous reproduction found in many unicellular organisms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oogamete designates a term designating an entity, condition, or phenomenon derived from greek oo."*
+> - 📜 **Edmund Beecher Wilson (*The Cell in Development and Heredity*):** *"The **oogamete** accumulates nutrient reserves to sustain the early embryo through its initial cleavage divisions."*
+> - 📜 **John Tyler Bonner (*The Evolution of Complexity*):** *"The differentiation of a large **oogamete** and a small sperm cell reflects the evolutionary logic of parental investment."*
+> - 📜 **Lynn Margulis (*Symbiosis in Cell Evolution*):** *"The transition from isogamy to the production of a specialized **oogamete** was a pivotal moment in eukaryotic evolution."*

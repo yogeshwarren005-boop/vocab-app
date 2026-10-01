@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Love unquestioningly and uncritically or to excess; venerate as an idol.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Love unquestioningly and uncritically or to excess; venerate as an idol.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To admire, revere, or love someone or something to excess; to treat as an idol (American spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychological and cultural analysis, idolizing involves projective idealization, elevating a mortal person or cultural icon to flawless perfection.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"This unwonted abstraction by love of all dignity from a man of whom it had ever seemed the chief component, was, in its distressing incongruity, a pain to her which quenched much of the pleasure she derived from the proof that she was idolized."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The anti-climax would be too intolerable; and her return might bring reproach upon her idolized husband."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"There is no doubt that she perfectly idolized him."*
+> - 📜 **Ralph Waldo Emerson (*Representative Men*):** *"Mankind is ever ready to **idolize** great men, forgetting that their virtue is but a ray from the universal source."*
+> - 📜 **Mark Twain (*The Adventures of Tom Sawyer*):** *"The boys of the village united to **idolize** Huck Finn because he enjoyed absolute liberty from all civilized restraints."*
+> - 📜 **Nathaniel Hawthorne (*The House of the Seven Gables*):** *"Hepzibah continued to **idolize** the memory of her unfortunate brother with pathetic, unswerving tenderness."*

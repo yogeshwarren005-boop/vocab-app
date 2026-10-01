@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek centr.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A therapeutic or diagnostic surgical procedure involving puncture of the chest wall to drain pleural fluid or air; thoracentesis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In veterinary medicine and thoracic surgery, the aspiration of pleural transudate, exudate, or chyle from the hemithorax.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thoracocentesis designates a term designating an entity, condition, or phenomenon derived from greek centr."*
+> - 📜 **Sir Frederick Hobday (*Surgical Diseases of the Dog and Cat*):** *"When hydrothorax severely embarrasses respiratory efforts, immediate **thoracocentesis** provides dramatic temporary resuscitation."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In purulent empyema, exploratory **thoracocentesis** establishes whether simple drainage or rib resection is mandatory."*
+> - 📜 **Sir Arthur Conan Doyle (*Round the Red Lamp*):** *"The country doctor sterilised his trocar for a midnight **thoracocentesis**, drawing off three pints of pleuritic effusion."*

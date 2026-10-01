@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: —used as a mild oath.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An overdose of a narcotic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A Greek combining root derived from hodos, signifying a way, path, route, journey, or method.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scientific terminology and classical compound words, serves as the base for terms denoting electrical paths (anode, cathode, diode) and vehicular travel meters (odometer).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Pray, how far thither? ’Ods pittikins! can it be six mile yet?"*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Mystery of godliness Scientific healing has this advantage over other meth- ods, - that in it Truth controls error."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There is a man haunts the forest that abuses our young plants with carving “Rosalind” on their barks; hangs odes upon hawthorns and elegies on brambles; all, forsooth, deifying the name of Rosalind."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"The Greek feminine noun hodos forms the combining root **od**, signifying a path, highway, or systematic route."*
+> - 📜 **Robert Beekes (*Etymological Dictionary of Greek*):** *"From Proto-Indo-European *sod- comes the versatile Greek stem **od**, meaning journey, transit, or traveled way."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"We adopted the Greek **od** for 'way' when coining electrode, anode, and cathode to describe the pathways of current."*

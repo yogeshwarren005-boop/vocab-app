@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek pir.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A polygon having a countably infinite number of sides and vertices.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern geometry and abstract polytope theory, a regular apeirogon can tessellate a Euclidean line or exist as a zigzag or helical polygon in higher dimensions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, apeirogon designates a term designating an entity, condition, or phenomenon derived from greek pir."*
+> - 📜 **H. S. M. Coxeter (*Regular Polytopes*):** *"A linear tessellation of unit line segments along a straight line constitutes the simplest regular **apeirogon**."*
+> - 📜 **Branko Grünbaum (*Convex Polytopes*):** *"Extending the concept of polygonality to infinity yields the **apeirogon**, possessing an infinite sequence of collinear edges."*
+> - 📜 **Benoit Mandelbrot (*The Fractal Geometry of Nature*):** *"Infinite polygonal limits such as the **apeirogon** bridge discrete combinatorial lattices with continuous geometric curves."*

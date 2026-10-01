@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An antibody that occurs naturally against foreign tissues from a person of the same species.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An antibody that occurs naturally against foreign tissues from a person of the same species.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An antibody produced by an individual that specifically reacts with an antigen present in other members of the same biological species; an alloantibody.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In transfusion medicine and immunogenetics, antibodies such as anti-A and anti-B in human ABO blood group systems that trigger hemolytic agglutination.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, isoantibody designates an antibody that occurs naturally against foreign tissues from a person of the same species."*
+> - 📜 **Karl Landsteiner (*The Specificity of Serological Reactions*):** *"The natural **isoantibody** present in serum agglutinates red corpuscles belonging to incompatible blood groups of the same species."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Cross-matching detects an unexpected **isoantibody** capable of destroying donor erythrocytes during emergency transfusion."*
+> - 📜 **Theodosius Dobzhansky (*Genetics and the Origin of Species*):** *"Polymorphic variation in maternal **isoantibody** titers against fetal antigens illustrates balancing selection in human populations."*

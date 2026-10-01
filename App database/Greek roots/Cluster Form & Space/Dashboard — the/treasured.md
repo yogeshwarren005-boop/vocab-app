@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hold dear.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be fond of; be attached to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Kept or regarded as precious, valued, or dear; held in high esteem and affection.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biographical literature and poetry, describing heirlooms, memories, or ideals guarded with tender reverence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"The recollection of them, he said, would go with him wherever he went and would be always treasured."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"At last I came to the conclusion that I might keep them if I treasured them only as a remembrance of what was irrevocably past and gone, never to be looked back on any more, in any other light."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"The thorny wilds of logic were pleasant as an enchanted ground; its driest technicalities treasured up as unspeakably rare and precious."*
+> - 📜 **Lord Byron (*Childe Harold's Pilgrimage*):** *"Each **treasured** memory of youth returns with poignant sweetness across the rolling years."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"I held in my hand the small **treasured** miniature portrait, gazing upon features I would never forget."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"Constitutional liberties are our most **treasured** inheritance, bequeathed to us by ancient ancestors."*

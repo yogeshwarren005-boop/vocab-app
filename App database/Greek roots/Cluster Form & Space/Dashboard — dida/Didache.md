@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek dida.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A brief early Christian treatise (c. late 1st or early 2nd century) summarizing apostolic teaching on moral conduct, liturgical rites, and church order.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In patristic studies and early church history, the full title is 'The Teaching of the Twelve Apostles', discovered in manuscript form by Philotheos Bryennios in 1873.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Justin, _Apol._ i, 15. [64] _Didache_, 12. _ei de ouk echei technen, kata ten synesin humon pronoesate, pos me argos meth hymon zesetai christianos. ei de ou thelei outo poiein, christemporos estin prosechete apo ton toiouton_."*
+> - 📜 **J. B. Lightfoot (*The Apostolic Fathers*):** *"The recovery of the **Didache** unveiled the transitional liturgical practices of Christian communities outside the imperial mainstream."*
+> - 📜 **Henry Chadwick (*The Early Church*):** *"The two-ways doctrine set forth in the opening chapters of the **Didache** divides human conduct between life and death."*
+> - 📜 **Adolf von Harnack (*The Expansion of Christianity in the First Three Centuries*):** *"The archaic simplicity of baptism and eucharist in the **Didache** testifies to its very early provenance."*

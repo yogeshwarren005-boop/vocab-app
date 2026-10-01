@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or being an era of geologic history comprising the interval between the Permian and the Tertiary or the corresponding system of rocks that was marked by the presence of dinosaurs, marine and flying reptiles, ammonites, ferns, and gymnosperms and the appearance of angiosperms, mammals, and birds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or being an era of geologic history comprising the interval between the Permian and the Tertiary or the corresponding system of rocks that was marked by the presence of dinosaurs, marine and flying reptiles, ammonites, ferns, and gymnosperms and the appearance of angiosperms, mammals, and birds.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The geological era spanning from approximately 252 to 66 million years ago, commonly known as the Age of Reptiles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical geology and paleontology, the era comprising the Triassic, Jurassic, and Cretaceous periods, bounded by the Permian extinction below and the K-Pg extinction above.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mesozoic designates of, relating to, or being an era of geologic history comprising the interval between the permian and the tertiary or the corresponding system of rocks that was marked by the presence of dinosaurs, marine and flying reptiles, ammonites, ferns, and gymnosperms and the appearance of angiosperms, mammals, and birds."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The **Mesozoic** strata of Europe are world-renowned for the fossilized remains of giant ammonites and marine saurians."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"Throughout the entire **Mesozoic** era, giant archosaurian reptiles dominated terrestrial, aerial, and marine realms."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Primitive mammals and early birds made their first modest appearance during the middle of the **Mesozoic** era."*

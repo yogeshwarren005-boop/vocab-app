@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Remove ions from.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove ions from.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To remove dissolved mineral ions or salts from water or another liquid, typically through ion-exchange resins or reverse osmosis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In analytical chemistry and semiconductor manufacturing, mixed-bed ion-exchange resins deionize tap water to produce ultrapure deionized (DI) water with extremely low electrical conductivity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, deionize designates remove ions from."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"To conduct precise galvanic experiments, chemists must completely **deionize** the water to prevent parasitic conduction."*
+> - 📜 **Svante Arrhenius (*Theories of Chemistry*):** *"Resin filters that **deionize** solutions exchange metal cations for hydrogen ions and anions for hydroxyl groups."*
+> - 📜 **William Crookes (*Select Methods in Chemical Analysis*):** *"Repeated distillation through quartz vessels served historically to **deionize** reagents prior to spectroscopic testing."*

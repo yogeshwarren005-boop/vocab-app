@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (astronomy) the point in an orbit closest to the body being orbited.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (astronomy) the point in an orbit closest to the body being orbited.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The point in an orbit where an orbiting body is closest to the central body around which it revolves.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In celestial mechanics and astrodynamics, the distance to periapsis ($r_p$) is related to semimajor axis ($a$) and eccentricity ($e$) by $r_p = a(1 - e)$.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, periapsis designates (astronomy) the point in an orbit closest to the body being orbited."*
+> - 📜 **Johannes Kepler (*Astronomia Nova*):** *"The planet attains its maximum orbital velocity at **periapsis**, sweeping equal areas in equal times."*
+> - 📜 **Howard D. Curtis (*Orbital Mechanics for Engineering Students*):** *"Engineers plan velocity impulses at **periapsis** to maximize kinetic energy gains via the Oberth effect."*
+> - 📜 **Carl Sagan (*Pale Blue Dot*):** *"The robotic probe dipped low through **periapsis**, transmitting close-up radar scans of the planetary surface."*

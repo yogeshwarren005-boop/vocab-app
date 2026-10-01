@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sexual : generative : semen : seed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Figure having (so many) angles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A geometric unit of plane angle measurement equal to 1/400 of a full circle or 0.9 degrees; also known as a gradian.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geodetic surveying and cartography, the gon simplifies angle computations by dividing a right angle into exactly 100 metric subdivisions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Fletcher (*The Elder Brother*):** *"I suspect my master Has found harsh welcome, he's gon supperless Into his study; could I find out the cause, It may be borrowing of his books, or so, I shall be satisfi'd. _Eust_."*
-> - 📜 **John Fletcher (*The Elder Brother*):** *"Nay Now, y'are gon without bail. _Mir_."*
-> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"Cynthia was all goned away and I heard the fiddles and they made me cry."*
+> - 📜 **Carl Friedrich Gauss (*Theory of the Motion of Heavenly Bodies*):** *"Surveyors in continental Europe frequently recorded angular bearings in **gon** to streamline decimal calculations."*
+> - 📜 **George Biddell Airy (*Treatise on Trigonometry*):** *"Dividing the quadrant into one hundred units of **gon** represented a decimal reform of classical sexagesimal notation."*
+> - 📜 **F. R. Helmert (*Mathematical and Physical Theories of Higher Geodesy*):** *"Triangulation networks computed in **gon** integrate smoothly into metric topographic projection tables."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek gryp.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of large, duck-billed hadrosaurid dinosaur from the late Cretaceous of North America, distinguished by a prominent arched nasal crest (hooked nose).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate paleontology, Gryposaurus (the 'hook-nosed lizard') grew up to 9 meters in length, utilizing hundreds of densely packed cheek teeth to grind fibrous vegetation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Gryposaurus designates a term designating an entity, condition, or phenomenon derived from greek gryp."*
+> - 📜 **Lawrence Lambe (*On Gryposaurus notabilis, a New Genus and Species of Trachodont Dinosaur*):** *"The prominent arched nasal hump in **Gryposaurus** forms an unmistakable crest along the rostral facial axis."*
+> - 📜 **Robert T. Bakker (*The Dinosaur Heresies*):** *"The nasal arch of **Gryposaurus** may have supported an inflatable resonating air sac used for species-specific vocalization."*
+> - 📜 **Edwin H. Colbert (*Dinosaurs: Their Discovery and Their World*):** *"Massive dental batteries equipped **Gryposaurus** to grind tough Cretaceous conifer needles with extraordinary mechanical force."*

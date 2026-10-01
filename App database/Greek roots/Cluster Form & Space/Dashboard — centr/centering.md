@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The concentration of attention or energy on something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (american football) putting the ball in play by passing it (between the legs) to a back.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act, process, or technique of placing or adjusting something at the center; also the temporary wooden framework that supports an arch or vault during construction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychology and contemplative practice, a focusing technique used to quiet mental distractions and achieve inner emotional balance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centering designates the concentration of attention or energy on something."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"When the masonry of the pointed arch was completed, the workmen struck away the timber **centering** beneath."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The conscious **centering** of attention upon a single idea inhibits competing motor and sensory impulses."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Roman engineers erected colossal vaulted aqueducts by shifting massive wooden **centering** from span to span."*

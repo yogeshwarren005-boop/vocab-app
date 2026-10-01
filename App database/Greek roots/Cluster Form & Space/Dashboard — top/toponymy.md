@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The place-names of a region or language or especially the etymological study of them.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The place-names of a region or language or especially the etymological study of them.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of place names (toponyms); the place names of a region or language collectively.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical geography and philology, toponymy reconstructs dialect boundaries and historical landscape use from linguistic strata embedded in geographical names.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, toponymy designates the place-names of a region or language or especially the etymological study of them."*
+> - 📜 **Isaac Taylor (*Words and Places: Or, Etymological Illustrations of History, Ethnology and Geography*):** *"Local **toponymy** serves as an enduring palimpsest upon which successive waves of invaders have inscribed their history."*
+> - 📜 **Ferdinand de Saussure (*Course in General Linguistics*):** *"The fossilized archaic sounds preserved in regional **toponymy** often escape standard phonological decay."*
+> - 📜 **Marc Bloch (*French Rural History*):** *"Medieval clearing of forests can be traced through the agrarian **toponymy** of village settlements."*

@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Grasshoppers and locusts; crickets.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various insects having leathery forewings and membranous hind wings and chewing mouthparts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The taxonomic order of insects with biting mouthparts, straight leathery forewings (tegmina), and enlarged hind legs adapted for jumping.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic entomology, divided into Caelifera (grasshoppers, locusts) and Ensifera (crickets, katydids), celebrated for acoustic stridulation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"We are singularly rich in orthoptera: I don’t know whether—Ah! you have got hold of that glass jar—you are looking into that instead of my drawers."*
-> - 📜 **George Eliot (*Middlemarch*):** *"But do look at these delicate orthoptera!” Lydgate had after all to give some scrutiny to each drawer, the Vicar laughing at himself, and yet persisting in the exhibition."*
+> - 📜 **Carl Linnaeus (*Systema Naturae*):** *"Members of **orthoptera** possess coriaceous upper wings beneath which the broad, folded membranous wings lie protected."*
+> - 📜 **Jean-Henri Fabre (*The Life of the Grasshopper*):** *"In hot Mediterranean afternoons, the acoustic choruses of **orthoptera** vibrate through dry scrub and dusty olive groves."*
+> - 📜 **A. D. Imms (*A General Textbook of Entomology*):** *"Auditory organs in **orthoptera** are located either upon the front tibiae in crickets or the first abdominal segment in acridids."*

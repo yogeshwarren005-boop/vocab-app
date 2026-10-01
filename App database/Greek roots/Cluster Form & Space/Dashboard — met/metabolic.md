@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or based on metabolism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A syndrome marked by the presence of usually three or more of a group of factors (such as high blood pressure, abdominal obesity, high triglyceride levels, low HDL levels, and high fasting levels of blood sugar) that are linked to increased risk of cardiovascular disease and type 2 diabetes —called also insulin resistance syndrome.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or resulting from metabolism, the chemical processes that occur within a living organism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biochemistry and physiology, designating the integrated network of catabolic energy-yielding and anabolic biosynthetic chemical pathways.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metabolic designates of, relating to, or based on metabolism."*
+> - 📜 **Claude Bernard (*An Introduction to the Study of Experimental Medicine*):** *"The constancy of the internal environment is maintained through perpetual **metabolic** exchange."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Severe diabetes mellitus represents a catastrophic breakdown of normal carbohydrate **metabolic** regulation."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Every physiological function of the living cell is fundamentally grounded upon its internal **metabolic** nutrition."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A vertebrate animal possessing true jaws.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A vertebrate animal possessing true jaws.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any member of the vertebrate clade Gnathostomata; an animal possessing hinged jaws.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative anatomy, a gnathostome typically possesses paired appendages (fins or limbs) and three semicircular canals in the inner ear.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gnathostome designates a vertebrate animal possessing true jaws."*
+> - 📜 **Alfred Romer (*The Vertebrate Body*):** *"The transition from jawless filter-feeder to active predatory **gnathostome** was accompanied by the evolution of paired fins."*
+> - 📜 **Robert L. Carroll (*Vertebrate Paleontology and Evolution*):** *"Placoderms and early acanthodians demonstrate the primitive cranial architecture of the Paleozoic **gnathostome**."*
+> - 📜 **Ernst Mayr (*The Growth of Biological Thought*):** *"Taxonomic recognition of the **gnathostome** assemblage clarified evolutionary branching order among basal craniates."*

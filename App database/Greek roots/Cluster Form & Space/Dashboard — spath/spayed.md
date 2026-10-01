@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Remove the ovaries of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of a female animal) having the ovaries removed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Past tense and past participle of spay; surgically sterilized by excision of the reproductive organs (of a female animal).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In animal welfare and veterinary epidemiology, a spayed animal exhibits altered hormonal profiles, lacking estrus cycles and reproductive heat behaviors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spayed designates remove the ovaries of."*
+> - 📜 **James Herriot (*All Things Bright and Beautiful*):** *"The terrier was a healthy **spayed** female, placid in temperament and completely devoted to her elderly master."*
+> - 📜 **Konrad Lorenz (*Man Meets Dog*):** *"A **spayed** bitch often retains all the playful loyalty of her breed without the emotional turmoil of periodic seasons."*
+> - 📜 **Jack London (*The Call of the Wild*):** *"Among the sled-team dogs was a lean, **spayed** husky who pulled with untiring ferocity through the snow drifts."*

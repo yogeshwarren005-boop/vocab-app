@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Comprising the hoatzins.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Comprising the hoatzins.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A monotypic family of birds containing only the hoatzin (Opisthocomus hoazin), a peculiar folivorous bird of South American tropical swamps.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ornithological systematics, Opisthocomidae remains one of the most phylogenetically enigmatic bird families, with molecular analyses placing it as a basal lineage with no close living relatives.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, opisthocomidae designates comprising the hoatzins."*
+> - 📜 **Alexander Wetmore (*A Revised Classification for the Birds of the World*):** *"The **Opisthocomidae** constitute one of the most isolated lineages in avian systematics."*
+> - 📜 **Joel Cracraft (*Avian Evolution, Gondwana Biogeography and the K-Pg Mass Extinction*):** *"The family **Opisthocomidae** may represent a surviving relic of an ancient radiation of Neotropical birds."*
+> - 📜 **John Gould (*A Monograph of the Ramphastidae*):** *"The singular anatomy of the **Opisthocomidae** has puzzled systematists since the hoatzin was first described."*

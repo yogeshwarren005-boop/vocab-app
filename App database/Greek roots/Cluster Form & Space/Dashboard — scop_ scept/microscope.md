@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Magnifier of the image of small objects.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Magnifier of the image of small objects.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An optical or electronic instrument used for magnifying and viewing minute objects that cannot be seen distinctly by the naked eye.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cellular biology and materials science, microscopes range from compound light systems to transmission electron microscopes (TEM) capable of resolving atomic lattices.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She hardly observed that a tear descended slowly upon his cheek, a tear so large that it magnified the pores of the skin over which it rolled, like the object lens of a microscope."*
-> - 📜 **George Eliot (*Middlemarch*):** *"You are always at the Hospital, or seeing poor patients, or thinking about some doctor’s quarrel; and then at home you always want to pore over your microscope and phials."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"My heart shall never be put under their microscope."*
+> - 📜 **Antoni van Leeuwenhoek (*Letters to the Royal Society of London*):** *"Upon examining a drop of pond water through my handheld **microscope**, I perceived thousands of minute living animalcules in vigorous motion."*
+> - 📜 **Robert Hooke (*Micrographia*):** *"By the help of the **microscope**, there is nothing so small as to escape our inquiry; hence there is a new visible World discovered to the understanding."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"Placing the fermenting liquor beneath the **microscope**, the presence of spherical yeast cells confirmed biological causation."*

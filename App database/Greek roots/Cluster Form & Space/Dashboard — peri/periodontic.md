@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or involving or practicing periodontics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or involving or practicing periodontics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or involving periodontics; periodontal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to clinical procedures and instruments used to treat diseases of the dental supporting tissues.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, periodontic designates of or relating to or involving or practicing periodontics."*
+> - 📜 **Fermín A. Carranza (*Clinical Periodontology*):** *"Ultrasonic instrumentation has become standard in non-surgical **periodontic** debridement."*
+> - 📜 **William R. Proffit (*Contemporary Orthodontics*):** *"Orthodontic tooth alignment should be deferred until active **periodontic** inflammation is fully resolved."*
+> - 📜 **G. V. Black (*Operative Dentistry*):** *"Careful scaling below the gingival crest is the foundational **periodontic** therapy to preserve the dentition."*

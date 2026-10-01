@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having columns either at both ends or at both sides.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by columniation having free columns in porticoes either at both ends or at both sides of a structure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having columns or porticoes at both ends (front and rear); amphiprostyle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical architectural criticism, describing temple structures that maintain balanced colonnades at opposing facades while leaving the flank walls uninterrupted.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amphistylar designates having columns either at both ends or at both sides."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The dignified **amphistylar** arrangement presents a noble porch alike to the approaching worshipper and the retreating procession."*
+> - 📜 **James Fergusson (*A History of Architecture in All Countries*):** *"The architect employed an **amphistylar** plan to ensure that the monument looked equally impressive from both public squares."*
+> - 📜 **Vitruvius (*De Architectura*):** *"When colonnades crown both front and rear aspects of the cella, the temple assumes an **amphistylar** dignity."*

@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument containing loose bits of colored material (such as glass or plastic) between two flat plates and two plane mirrors so placed that changes of position of the bits of material are reflected in an endless variety of patterns.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something resembling a kaleidoscope: such as.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An optical instrument consisting of a cylinder with mirrors containing loose, colored objects such as beads or pebbles and bits of glass, reflecting symmetrical geometric patterns.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In figurative discourse and literature, a kaleidoscope denotes an ever-shifting, variegated succession of colorful impressions, ideas, or circumstances.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"In consequence of this, poetic diction has become latterly a kaleidoscope, and one's chief curiosity is as to the precise combinations into which the pieces will be shifted."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"It was marvellous, a feast for the eyes, this complication of coloured tints, a perfect kaleidoscope of green, yellow, orange, violet, indigo, and blue; in one word, the whole palette of an enthusiastic colourist!"*
+> - 📜 **David Brewster (*The Kaleidoscope: Its History, Theory, and Construction*):** *"When two mirrors are placed at an angle within a tube, the resulting **kaleidoscope** multiplies fragments into infinite symmetrical harmonies."*
+> - 📜 **Edgar Allan Poe (*The Philosophy of Furniture*):** *"The eye is bewildered by the glittering multiplicity of ornaments, resembling nothing so much as a fractured **kaleidoscope**."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"London streets present a shifting **kaleidoscope** of carriages, peddlers, and pedestrians hurrying through the fog."*

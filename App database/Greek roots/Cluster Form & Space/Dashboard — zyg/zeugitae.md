@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek zyg.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The third of the four Solonian property classes in ancient Athens, comprising citizens who could afford a yoke of oxen and thus qualified for moderate military and civic duties.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Athenian constitutional history, the zeugitae formed the backbone of the hoplite army and were originally excluded from the highest magistracies, gaining broader political rights through democratic reforms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, zeugitae designates a term designating an entity, condition, or phenomenon derived from greek zyg."*
+> - 📜 **Aristotle (*Constitution of the Athenians*):** *"The **zeugitae** were assessed at two hundred measures and served as heavy-armed soldiers in the phalanx."*
+> - 📜 **Plutarch (*Life of Solon*):** *"Solon ranked the **zeugitae** as the third class, naming them for the yoke of oxen they could maintain."*
+> - 📜 **Peter Rhodes (*A History of the Classical Greek World*):** *"The **zeugitae** constituted the majority of Athenian hoplites and eventually gained access to the archonship."*

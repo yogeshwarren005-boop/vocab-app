@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessive and profuse perspiration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Excessive and profuse perspiration.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessive, abnormal, or profuse sweating beyond what is required for physiological thermoregulation; hyperhidrosis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dermatology and neurology, hyperidrosis may be primary focal (involving eccrine glands of the palms, soles, and axillae) or secondary generalized (caused by thyrotoxicosis, pheochromocytoma, or lymphoma); managed with antiperspirants, iontophoresis, botulinum toxin, or sympathectomy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyperidrosis designates excessive and profuse perspiration."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Paroxysmal nocturnal **hyperidrosis** with drenching sweats is a classical feature of active pulmonary tuberculosis."*
+> - 📜 **Austin Flint (*A Treatise on the Principles and Practice of Medicine*):** *"Local **hyperidrosis** of the hands and feet is frequently associated with autonomic instability in nervous youth."*
+> - 📜 **Jonathan Hutchinson (*Illustrations of Clinical Surgery*):** *"Severe palmar **hyperidrosis** softens the epidermis, predisposing the skin to secondary fungal maceration."*

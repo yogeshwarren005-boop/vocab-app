@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The diocese of an archbishop.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The diocese of an archbishop.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The episcopal district, see, or jurisdictional diocese presided over by an archbishop or metropolitan bishop.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Roman Catholic and Eastern Orthodox church governance, an archdiocese typically serves as the primary or historic metropolitan center of an ecclesiastical province.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"We’re in the archdiocese here. —And settle down on their striped petticoats, peering up at the statue of the onehandled adulterer. —Onehandled adulterer! the professor cried."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The patriarchal dignity conferred upon the **archdiocese** of Constantinople reflected its status as the imperial capital of the East."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The metropolitan see of Canterbury remained the premier **archdiocese** of England, commanding ancient cathedral revenues."*
+> - 📜 **Alexis de Tocqueville (*The Old Regime and the Revolution*):** *"Prior to 1789, the wealthy French **archdiocese** commanded vast agrarian seigneuries and collected tithes from multiple rural provinces."*

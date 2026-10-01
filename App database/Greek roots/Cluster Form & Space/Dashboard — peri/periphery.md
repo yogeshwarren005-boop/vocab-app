@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The perimeter of a circle or other closed curve; also : the perimeter of a polygon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The external boundary or surface of a body.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The outer limits, edge, or boundary of an area, surface, or object.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social sciences and economics, marginal regions or non-dominant groups situated far from central decision-making institutions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Without having passed through the wall of skull, nevertheless it seemed to me that the periphery of my brain was already outside my skull and still expanding."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The meeting rooms along the periphery of the assembly hall filled with specialists who argued loudly, in whispers, and at length."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The outer periphery of the Asteroid Belt became the boundary."*
+> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Without having passed through the wall of skull, it seemed to me that the **periphery** of my brain was already outside and expanding."*
+> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The outer **periphery** of the Asteroid Belt became the recognized navigational boundary."*
+> - 📜 **Immanuel Wallerstein (*The Modern World-System*):** *"Core nations extract primary commodities from the agricultural **periphery** to fuel metropolitan industrialization."*

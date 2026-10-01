@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the psilotaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the psilotaceae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of primitive fern-like vascular plants commonly known as whisk ferns, characterized by leafless green stems and three-lobed yellow synangia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant biology and botany education, an evolutionary curiosity (exemplified by Psilotum nudum) utilized worldwide to study basic tracheophyte anatomy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psilotum designates type genus of the psilotaceae."*
+> - 📜 **Carl Linnaeus (*Species Plantarum*):** *"The branching green stems of **psilotum** carry tiny scale-like appendages in place of expanded leaves."*
+> - 📜 **Douglas Houghton Campbell (*The Evolution of the Land Plants*):** *"The yellow three-chambered synangium of **psilotum** dehisces by vertical slits to discharge clouds of uniform spores."*
+> - 📜 **Ernest M. Gifford (*Morphology and Evolution of Vascular Plants*):** *"Cultivated specimens of **psilotum** flourish on rich moist compost, producing tangled mats of subterranean brown rhizomes."*

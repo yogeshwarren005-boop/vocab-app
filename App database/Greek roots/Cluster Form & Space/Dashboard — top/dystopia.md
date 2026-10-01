@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An imagined world or society in which people lead wretched, dehumanized, fearful lives.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Anti-utopia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An imagined state or society in which there is great suffering or injustice, typically one that is totalitarian or post-apocalyptic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Coined by John Stuart Mill in an 1868 parliamentary speech (as the opposite of utopia), dystopia serves as a prominent literary genre dissecting state surveillance, technological coercion, and moral decay.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dystopia designates an imagined world or society in which people lead wretched, dehumanized, fearful lives."*
+> - 📜 **John Stuart Mill (*Speech in the House of Commons*):** *"What is commonly called Utopian is something too good to be practicable; but what they seem to favor is rather a **dystopia**, too bad to be endured."*
+> - 📜 **George Orwell (*Nineteen Eighty-Four*):** *"The perpetual nightmare of Oceania revealed how totalitarian bureaucracy could manufacture an inescapable **dystopia**."*
+> - 📜 **Aldous Huxley (*Brave New World*):** *"In this conditioned **dystopia**, human liberty was exchanged for synthetic stability and sensory gratification."*

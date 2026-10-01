@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek centr.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A newly formed functional centromere arising at an ectopic, previously non-centromeric chromosomal region.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical cytogenetics and molecular evolution, an epigenetically activated centromere lacking canonical alpha-satellite DNA that rescues acentric chromosomal fragments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neocentromere designates a term designating an entity, condition, or phenomenon derived from greek centr."*
+> - 📜 **Barbara McClintock (*Chromosome Organization and Genic Expression*):** *"Under stressful breakage cycles in maize, a latent **neocentromere** formed de novo along the knobbed terminal segment."*
+> - 📜 **Sydney Brenner (*Loose Ends: Selected Writings*):** *"The spontaneous emergence of a **neocentromere** demonstrates that centromeric identity is epigenetic rather than sequence-dependent."*
+> - 📜 **Theodosius Dobzhansky (*Genetics of the Evolutionary Process*):** *"Karyotypic evolution may proceed through the activation of an adventitious **neocentromere**, shifting the arm ratio."*

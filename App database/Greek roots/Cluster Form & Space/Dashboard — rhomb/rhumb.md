@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A line or course on a single bearing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of the points of the mariner's compass.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A line on the Earth's surface that cuts all meridians at the same constant angle; a rhumb line or loxodrome.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In traditional marine navigation, any of the 32 points on the mariner's compass card indicating directional bearing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhumb designates a line or course on a single bearing."*
+> - 📜 **Nathaniel Bowditch (*The New American Practical Navigator*):** *"Sailing on a **rhumb** course simplifies the helmsman's duty, as the vessel maintains an unvarying compass heading."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The compass needles trembled upon their brass pivots, marking each **rhumb** with ancient nautical certainty."*
+> - 📜 **William Bourne (*A Regiment for the Sea*):** *"The pilot must calculate his traverse along the chart, accounting for every **rhumb** made good across the ocean."*

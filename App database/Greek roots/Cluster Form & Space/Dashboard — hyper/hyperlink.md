@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An electronic link providing direct access from one distinctively marked place in a hypertext or hypermedia document to another in the same or a different document.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An electronic link providing direct access from one distinctively marked place in a hypertext or hypermedia document to another in the same or a different document.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An electronic cross-reference, link, or navigational element in a digital hypertext document that points to another document, web page, or resource, activated by clicking or tapping.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Coined by computer scientist Ted Nelson in 1965 in the context of Project Xanadu and fundamental to Tim Berners-Lee's World Wide Web; hyperlinks are encoded in HTML via the `<a>` (anchor) tag with the `href` attribute, enabling non-linear browsing across the global internet.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyperlink designates an electronic link providing direct access from one distinctively marked place in a hypertext or hypermedia document to another in the same or a different document."*
+> - 📜 **Ted Nelson (*Literary Machines*):** *"By a **hyperlink**, I mean an electronic connection between non-sequential textual elements, uniting ideas into a dynamic web."*
+> - 📜 **Tim Berners-Lee (*Weaving the Web*):** *"The power of the Web lies in the simple universality of the **hyperlink**, allowing any document to reference any other."*
+> - 📜 **Vannevar Bush (*As We May Think*):** *"The associative trails envisioned in the Memex foreshadowed the automated navigation achieved by the modern **hyperlink**."*

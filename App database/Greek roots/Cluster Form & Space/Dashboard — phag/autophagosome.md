@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek phag.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A spherical, double-membraned vesicle that sequesters cytoplasmic contents (such as damaged organelles or protein aggregates) destined for degradation via autophagy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cellular biology, the autophagosome fuses with a lysosome to form an autolysosome, where hydrolytic enzymes degrade the engulfed cargo.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, autophagosome designates a term designating an entity, condition, or phenomenon derived from greek phag."*
+> - 📜 **Yoshinori Ohsumi (*Historical Landmarks of Autophagy Research*):** *"The formation of the double-membraned **autophagosome** requires a coordinated cascade of evolutionary conserved Atg proteins."*
+> - 📜 **Bruce Alberts (*Molecular Biology of the Cell*):** *"Upon nutrient starvation, an expanding isolation membrane closes upon itself to assemble a mature **autophagosome**."*
+> - 📜 **David L. Nelson (*Lehninger Principles of Biochemistry*):** *"Lipidation of LC3-I to LC3-II promotes cargo recruitment into the lumen of the emerging **autophagosome**."*

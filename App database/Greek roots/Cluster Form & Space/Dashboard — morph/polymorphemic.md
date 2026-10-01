@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Consisting of two or more morphemes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Consisting of two or more morphemes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Consisting of or containing more than one morpheme; morphologically complex, derived, or inflected.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistic typology, polysynthetic languages exhibit heavily polymorphemic words where entire propositions are expressed through dense concatenations of bound affixes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polymorphemic designates consisting of two or more morphemes."*
+> - 📜 **Leonard Bloomfield (*Language*):** *"A compound construction like 'blackbird' or an inflected form like 'players' is unmistakably **polymorphemic**."*
+> - 📜 **Edward Sapir (*Language: An Introduction to the Study of Speech*):** *"In polysynthetic tongues, a single **polymorphemic** word conveys subtle shades of meaning that require an entire sentence in English."*
+> - 📜 **Noam Chomsky (*The Sound Pattern of English*):** *"Stress assignment rules in English apply cyclically from inner stems to outer affixes across each **polymorphemic** construct."*

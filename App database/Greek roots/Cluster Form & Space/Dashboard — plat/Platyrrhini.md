@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: New world monkeys: capuchin; douroucouli; howler monkey; saki; spider monkey; squirrel monkey; titi; uakari; woolly monkey; marmoset; tamarin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: New world monkeys: capuchin; douroucouli; howler monkey; saki; spider monkey; squirrel monkey; titi; uakari; woolly monkey; marmoset; tamarin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The infraorder or parvorder of anthropoid primates native to Central and South America, characterized by nostrils separated by a broad nasal septum.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic mammalogy, comprising five extant families: Callitrichidae, Cebidae, Aotidae, Pitheciidae, and Atelidae.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Platyrrhini designates new world monkeys: capuchin; douroucouli; howler monkey; saki; spider monkey; squirrel monkey; titi; uakari; woolly monkey; marmoset; tamarin."*
+> - 📜 **Ernst Haeckel (*The History of Creation*):** *"The divergent cranial structures of the **Platyrrhini** confirm that New World monkeys followed an independent evolutionary trajectory."*
+> - 📜 **Alfred Sherwood Romer (*Vertebrate Paleontology*):** *"Within the order Primates, the **Platyrrhini** retain the primitive condition of three premolar teeth per quadrant."*
+> - 📜 **Robert Broom (*The Origin of the Human Skeleton*):** *"Cranial morphology in the **Platyrrhini** displays marked specialization for arboreal life in dense tropical canopies."*

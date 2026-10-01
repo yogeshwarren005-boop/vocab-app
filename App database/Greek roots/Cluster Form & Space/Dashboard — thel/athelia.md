@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek thel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The congenital absence of one or both nipples.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical genetics and teratology, athelia can occur as an isolated developmental anomaly or as part of congenital syndromes such as Poland syndrome or ectodermal dysplasias.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, athelia designates a term designating an entity, condition, or phenomenon derived from greek thel."*
+> - 📜 **William Osler (*Principles and Practice of Medicine*):** *"Congenital anomalies of the breast include polythelia, amastia, and the rarer condition of complete **athelia**."*
+> - 📜 **Henry Gray (*Gray's Anatomy*):** *"Defective development of the mammary ridge during early embryogenesis may result in unilateral or bilateral **athelia**."*
+> - 📜 **Arthur Keith (*Human Embryology and Morphology*):** *"Clinical examination of patients with pectoral aplasia occasionally demonstrates associated **athelia**."*

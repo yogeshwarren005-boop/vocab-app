@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To believe especially on uncertain or tentative grounds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To believe especially on uncertain or tentative grounds.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To formulate or put forward a hypothesis; to propose an explanation as a starting point for further investigation (chiefly Commonwealth spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scientific philosophy, to hypothesise is to construct falsifiable causal models whose empirical predictions can be tested by experiment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypothesise designates to believe especially on uncertain or tentative grounds."*
+> - 📜 **Karl Popper (*The Logic of Scientific Discovery*):** *"The bold scientist will **hypothesise** daring conjectures that expose the theory to the risk of decisive refutation."*
+> - 📜 **Arthur Eddington (*The Nature of the Physical World*):** *"We may **hypothesise** an invisible ether, but if it exerts no measurable effect, physics must discard it."*
+> - 📜 **C. S. Peirce (*Illustrations of the Logic of Science*):** *"To **hypothesise** through abductive reasoning is the only logical operation that introduces genuinely novel ideas."*

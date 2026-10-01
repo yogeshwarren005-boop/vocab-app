@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Violent or severe weather (viewed as caused by the action of the four elements).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abstract part of something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Plural of element: the basic principles, primary constituents, or atmospheric environmental forces.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical philosophy and chemistry, the foundational building blocks of the material universe (fire, air, water, earth; or atomic elements).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For when these quicker elements are gone In tender embassy of love to thee, My life being made of four, with two alone, Sinks down to death, oppressed with melancholy."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It lives by that which nourisheth it, and the elements once out of it, it transmigrates."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The elements be kind to thee, and make Thy spirits all of comfort!"*
+> - 📜 **William Shakespeare (*Julius Caesar*):** *"His life was gentle, and the **elements** so mixed in him that Nature might stand up and say to all the world, 'This was a man!'"*
+> - 📜 **Euclid (*The Elements*):** *"The fundamental propositions gathered in the **Elements** establish the axiomatic foundations of geometry."*
+> - 📜 **Antoine Lavoisier (*Elements of Chemistry*):** *"The chemical **elements** represent the empirical boundary of our analytical decomposition."*

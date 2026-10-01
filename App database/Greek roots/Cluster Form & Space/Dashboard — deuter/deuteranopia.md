@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Color blindness marked by usually complete loss of ability to distinguish colors.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Color blindness marked by usually complete loss of ability to distinguish colors.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A form of congenital color blindness characterized by the complete absence of functioning green-sensitive retinal cone photopigments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In optometry and genetics, deuteranopia reduces color discrimination to a two-dimensional chromatic space, confusing green, red, and yellow wavelengths.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, deuteranopia designates color blindness marked by usually complete loss of ability to distinguish colors."*
+> - 📜 **Hermann von Helmholtz (*Treatise on Physiological Optics*):** *"In cases of **deuteranopia**, the entire green sensation is eliminated, collapsing the visible spectrum into warm and cool hues."*
+> - 📜 **Ewald Hering (*Outlines of a Theory of the Light Sense*):** *"The opponent-process theory explains why **deuteranopia** impairs red-green distinctions without altering blue-yellow perception."*
+> - 📜 **Stephen Polyak (*The Retina*):** *"Histological and molecular studies confirm that **deuteranopia** results from the complete deletion of the medium-wavelength opsin locus."*

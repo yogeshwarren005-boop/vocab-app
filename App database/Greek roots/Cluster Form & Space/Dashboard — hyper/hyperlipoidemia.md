@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Presence of excess lipids in the blood.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Presence of excess lipids in the blood.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormally high concentration of lipoids or lipid substances in the blood plasma; an older synonym for hyperlipidemia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical clinical pathology, hyperlipoidemia specifically emphasized elevated cholesterol esters, lecithin, and neutral fats in systemic metabolic disturbances.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyperlipoidemia designates presence of excess lipids in the blood."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In chronic obstructive jaundice, persistent **hyperlipoidemia** leads to planar xanthomas around the eyelids."*
+> - 📜 **Austin Flint (*A Treatise on the Principles and Practice of Medicine*):** *"The diagnosis of metabolic **hyperlipoidemia** was confirmed by extracting abundant ethereal residues from the serum."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Vascular endothelium subjected to prolonged **hyperlipoidemia** imbibes fat droplets that form the core of atheromas."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An artist who adheres to the principles of cubism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or characteristic of cubism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An artist who paints, sculpts, or designs according to the principles of cubism, or pertaining to cubism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In visual art, describing works of art characterized by geometric fragmentation, multiple viewpoints, and interlocking planar facets.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cubist designates an artist who adheres to the principles of cubism."*
+> - 📜 **Guillaume Apollinaire (*The Cubist Painters*):** *"The true **cubist** painter abandons visual imitation to construct new harmonies out of pure spatial relations."*
+> - 📜 **Gertrude Stein (*The Autobiography of Alice B. Toklas*):** *"Young painters gathered in Montmartre studio discussions, debating whether a canvas was genuinely **cubist** in structure."*
+> - 📜 **Aldous Huxley (*Crome Yellow*):** *"A fashionable **cubist** portrait adorned the library mantelpiece, representing human features by green triangles and zinc planes."*

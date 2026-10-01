@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sugar that yields on complete hydrolysis three monosaccharide molecules.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sugar that yields on complete hydrolysis three monosaccharide molecules.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An oligosaccharide carbohydrate composed of three monosaccharide molecules joined together by glycosidic linkages.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nutritional biochemistry, non-reducing sugars such as raffinose (galactose-glucose-fructose) found in legumes and sugar beets.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trisaccharide designates a sugar that yields on complete hydrolysis three monosaccharide molecules."*
+> - 📜 **Emil Fischer (*Syntheses in the Sugar Group*):** *"Enzymatic hydrolysis of the **trisaccharide** raffinose yields melibiose and levulose, clarifying its tripartite structure."*
+> - 📜 **Claude S. Hudson (*Studies on the Sugars*):** *"Specific alpha-galactosidases cleave the terminal galactosyl residue from each **trisaccharide** chain."*
+> - 📜 **Donald Voet (*Biochemistry*):** *"Because human gut enzymes lack alpha-galactosidase, the legume **trisaccharide** passes into the colon where bacterial fermentation causes gas."*

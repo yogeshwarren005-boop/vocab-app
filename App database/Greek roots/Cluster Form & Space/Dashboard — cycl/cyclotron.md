@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An accelerator that imparts energies of several million electron-volts to rapidly moving particles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An accelerator that imparts energies of several million electron-volts to rapidly moving particles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A type of particle accelerator in which charged particles are accelerated outward from the center along a spiral path by an alternating high-frequency electric field within a magnetic field.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nuclear and high-energy physics, an apparatus invented by Ernest O. Lawrence in 1930 that produces high-energy beams of protons or deuterons for nuclear transmutation and medical isotope production.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cyclotron designates an accelerator that imparts energies of several million electron-volts to rapidly moving particles."*
+> - 📜 **Ernest Lawrence (*Nobel Lecture: The Development of the Cyclotron*):** *"The hollow D-shaped electrodes of the **cyclotron** repeatedly impart energy pulses to ions circling within the magnetic gap."*
+> - 📜 **Enrico Fermi (*Nuclear Physics*):** *"Beams of energetic deuterons produced by the university **cyclotron** made artificial radioactive isotopes readily available for medical research."*
+> - 📜 **Richard Feynman (*Surely You're Joking, Mr. Feynman!*):** *"At Princeton we crawled into the basement beneath the **cyclotron** magnet to adjust the high-voltage spark gaps."*

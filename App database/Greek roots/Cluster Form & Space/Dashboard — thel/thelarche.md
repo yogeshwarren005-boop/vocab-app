@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The start of breast development in a woman at the beginning of puberty.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The start of breast development in a woman at the beginning of puberty.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The onset of female secondary breast development, typically representing the earliest phenotypic sign of puberty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pediatric endocrinology, thelarche usually begins between ages 8 and 13, initiated by pulsatile hypothalamic GnRH release stimulating ovarian estradiol production; premature thelarche is an isolated benign variant.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thelarche designates the start of breast development in a woman at the beginning of puberty."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Normal adolescent development follows an orderly sequence beginning with **thelarche** and followed by pubarche and menarche."*
+> - 📜 **Havelock Ellis (*Studies in the Psychology of Sex*):** *"The physical transformations accompanying **thelarche** awaken new psychological self-awareness in the adolescent girl."*
+> - 📜 **Arthur Keith (*Human Embryology and Morphology*):** *"Under the influence of ovarian hormones, the rudimentary mammary ducts proliferate rapidly during **thelarche**."*

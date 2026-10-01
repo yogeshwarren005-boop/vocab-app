@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek salping.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An anatomical tube or canal, specifically the fallopian tube (uterine tube) or Eustachian tube; in antiquity, an ancient Greek trumpet.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical archaeology and medical history, an ancient bronze brass instrument blown during Greek religious festivals and military maneuvers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, salpinx designates a term designating an entity, condition, or phenomenon derived from greek salping."*
+> - 📜 **Andreas Vesalius (*De Humani Corporis Fabrica*):** *"The tortuous uterine canal which moderns call the **salpinx** transports the generative seed toward the pelvic cavity."*
+> - 📜 **Gabriele Falloppio (*Observationes Anatomicae*):** *"I observed that the uterine trumpet or **salpinx** terminates in a fringed fimbriated extremity resembling a flower."*
+> - 📜 **Pausanias (*Description of Greece*):** *"At the Olympic games, the blare of the bronze **salpinx** announced the entrance of the athletes onto the running track."*

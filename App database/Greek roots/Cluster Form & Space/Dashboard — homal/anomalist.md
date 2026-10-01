@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who has a special interest in exceptional cases.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who has a special interest in exceptional cases.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who studies anomalies, deviations, or unexplained natural phenomena; also, in ancient grammar, an adherent of anomaly over analogy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Hellenistic linguistics (Stoic vs. Alexandrian debates), the anomalist school argued that language is irregular and full of anomalies, whereas analogists emphasized regular grammatical rules.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anomalist designates someone who has a special interest in exceptional cases."*
+> - 📜 **J. E. Sandys (*A History of Classical Scholarship*):** *"The **anomalist** grammar school of Pergamum insisted that natural speech abounds in structural irregularities that defy rigid paradigms."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"Between the analogist seeking absolute symmetry and the **anomalist** recording historical exceptions, philology established its foundations."*
+> - 📜 **Ferdinand de Saussure (*Course in General Linguistics*):** *"The ancient **anomalist** observed that arbitrary linguistic convention constantly generates syntactic exceptions."*

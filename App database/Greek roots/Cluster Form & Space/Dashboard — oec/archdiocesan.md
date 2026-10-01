@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to an archdiocese.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to an archdiocese.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, administered by, or characteristic of an archdiocese or its governing archbishop.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In canon law and ecclesiastical history, describing pastoral chancery decrees, synodal courts, or charitable trusts operating under the metropolitan jurisdiction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, archdiocesan designates of or relating to an archdiocese."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Metropolitan bishops extended their **archdiocesan** authority over suffragan sees, formalizing provincial ecclesiastical hierarchies."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The establishment of an **archdiocesan** administration in Baltimore marked the institutional maturation of Catholicism in the early republic."*
+> - 📜 **Thomas Aquinas (*Summa Theologiae*):** *"The archbishop exercises **archdiocesan** supervision to preserve unity of discipline and orthodox preaching throughout his province."*

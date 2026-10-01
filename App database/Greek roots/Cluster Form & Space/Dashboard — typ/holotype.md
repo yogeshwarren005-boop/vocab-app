@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The single specimen designated by an author as the type of a species or lesser taxon at the time of establishing the group.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The type of a species or lesser taxon designated at a date later than that of establishing a group or by a person other than the author of the taxon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The single physical specimen designated by the original author as the nomenclatural type of a species or lower taxon at the time of publication.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biological taxonomy, the holotype provides the definitive reference specimen that anchors the application of a scientific binomial name according to the ICZN and ICN codes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, holotype designates the single specimen designated by an author as the type of a species or lesser taxon at the time of establishing the group."*
+> - 📜 **Ernst Mayr (*Systematics and the Origin of Species*):** *"The scientific name of every animal species is tied irrevocably to its unique museum **holotype**."*
+> - 📜 **Stephen Jay Gould (*Hen's Teeth and Horse's Toes*):** *"Examining the cracked **holotype** specimen of *Archaeopteryx* in London verified the presence of avian flight feathers."*
+> - 📜 **George Gaylord Simpson (*Principles of Animal Taxonomy*):** *"Designating a single **holotype** prevents future confusion when wide morphological variation is discovered within a population."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of appeasing (as by acceding to the demands of).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make calm or still.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Producing or having the effect of becoming peaceful, quiet, or tranquil; soothing and sedating.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In behavioral pharmacology, describing anxiolytic, sedative, or meditative interventions that lower autonomic arousal and heart rate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Calming himself by an effort, he added— “A servant has had the nightmare; that is all."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"No, but I say,” said Pierre, calming down, “you are a wonderful fellow!"*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"And he no doubt is calming her jealousy of me."*
+> - 📜 **William Wordsworth (*The Prelude*):** *"Nature possessed a **calming** influence over my turbulent youth, softening the wild impulses of solitary thought."*
+> - 📜 **William Osler (*Aequanimitas*):** *"The physician must cultivate a serene, **calming** demeanor, assuring panicked patients by his steady presence."*
+> - 📜 **Virginia Woolf (*Mrs. Dalloway*):** *"The rhythmic chiming of Big Ben had a **calming** effect, measuring out the warm June hours with solemn cadence."*

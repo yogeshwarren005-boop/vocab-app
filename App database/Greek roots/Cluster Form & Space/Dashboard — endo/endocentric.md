@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fulfilling the grammatical role of one of its constituents.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fulfilling the grammatical role of one of its constituents.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fulfilling the same grammatical or syntactic role as one of its constituents; possessing an internal head word (in linguistics).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In structural grammar and syntactic morphology, an endocentric construction (like 'black cat') is an expansion of its head noun ('cat').
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endocentric designates fulfilling the grammatical role of one of its constituents."*
+> - 📜 **Leonard Bloomfield (*Language*):** *"An **endocentric** phrase belongs to the same form-class as one or more of its constituents, which functions as its center or head."*
+> - 📜 **Noam Chomsky (*Aspects of the Theory of Syntax*):** *"The X-bar theory formalizes the intuition that standard phrases are inherently **endocentric** projections of lexical categories."*
+> - 📜 **John Lyons (*Introduction to Theoretical Linguistics*):** *"In contrast to exocentric compounds, **endocentric** formations preserve the semantic and distributional class of their primary head."*

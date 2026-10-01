@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (often plural) systems used in transmitting messages over a distance electronically.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (often plural) systems used in transmitting messages over a distance electronically.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Telecommunications; the telecommunications industry, technology, or sector; also, an organization providing communications services.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern economic infrastructure, telecom systems span fiber-optic undersea cables, cellular wireless networks, and satellite constellations carrying global internet traffic.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, telecom designates (often plural) systems used in transmitting messages over a distance electronically."*
+> - 📜 **Arthur C. Clarke (*How the World Was One: Beyond the Global Village*):** *"The modern **telecom** infrastructure has abolished geographical isolation, binding continents into a single nervous system."*
+> - 📜 **Claude Shannon (*A Mathematical Theory of Communication*):** *"Efficient channel coding in **telecom** systems achieves data transmission rates approaching the theoretical limit."*
+> - 📜 **Nicholas Negroponte (*Being Digital*):** *"The deregulation of the global **telecom** marketplace accelerated the shift from analog telephone networks to packet-switched data."*

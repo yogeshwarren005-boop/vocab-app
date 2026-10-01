@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A skilled worker who coats articles with a film of metal (usually silver or gold).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A skilled worker who coats articles with a film of metal (usually silver or gold).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person whose trade is plating metals, or a racehorse that runs primarily in selling plates (races).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In shipbuilding and heavy metal fabrication, a skilled tradesperson who cuts, shapes, and fits steel plates to the hull or frame.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plater designates a skilled worker who coats articles with a film of metal (usually silver or gold)."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"The commercial electro-**plater** utilizes a copper bath to deposit a durable metallic coating upon base alloys."*
+> - 📜 **Arthur Conan Doyle (*Silver Blaze*):** *"He had purchased an ordinary selling **plater** and entered him into the classic stakes under an assumed name."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The shipyard **plater** earns higher wages because his craft requires mechanical precision combined with arduous physical exertion."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek splen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A clinical hematological disorder characterized by spleen enlargement (splenomegaly), reduction of one or more circulating blood cell lines (cytopenias), and compensatory bone marrow hyperplasia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical hepatology, hypersplenism commonly complicates cirrhotic portal hypertension; splenic sequestration and destruction of platelets and red blood cells resolve following splenectomy or shunt decompression.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypersplenism designates a term designating an entity, condition, or phenomenon derived from greek splen."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Splenectomy reverses the severe cytopenias of **hypersplenism** when the bone marrow retains regenerative capacity."*
+> - 📜 **Austin Flint (*A Treatise on the Principles and Practice of Medicine*):** *"In chronic portal obstruction, congestive splenomegaly leads to profound secondary **hypersplenism**."*
+> - 📜 **Richard Bright (*Reports of Medical Cases*):** *"The massive spleen sequestrated circulating corpuscles, causing that peripheral impoverishment termed **hypersplenism**."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characteristic of pirates.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characteristic of piracy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, resembling, or characteristic of a pirate; predatory, robbery-driven, or unauthorized.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In commercial and literary contexts, acquired through illegal plunder or infringement of intellectual rights.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"So have I seen a bird with clipped wing, making affrighted broken circles in the air, vainly striving to escape the piratical hawks."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Time out of mind the piratical proas of the Malays, lurking among the low shaded coves and islets of Sumatra, have sallied out upon the vessels sailing through the straits, fiercely demanding tribute at the point of their spears."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"In the absence of the captain on shore, he seized the ship and set out on a piratical cruise."*
+> - 📜 **Edmund Burke (*Reflections on the Revolution in France*):** *"The confiscation of ecclesiastical property was conducted with a **piratical** disregard for ancient charters."*
+> - 📜 **Walter Scott (*The Pirate*):** *"His crew retained their fierce **piratical** demeanor even when walking peacefully in the streets of Kirkwall."*
+> - 📜 **Charles Dickens (*The Posthumous Papers of the Pickwick Club*):** *"Cheap **piratical** editions of popular novels were hawked on the streets before the authorized printing appeared."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek mycet.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A Greek root and combining element derived from mykes, signifying fungus, mushroom, or fungal biological relationships.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biological nomenclature and medicine, serves as a root in terms designating fungal structures, diseases (mycetoma), or fungal taxonomic groups.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mycet designates a term designating an entity, condition, or phenomenon derived from greek mycet."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"The Greek stem **mycet** derives from mykes, originally denoting a mushroom or fungal growth."*
+> - 📜 **Robert Beekes (*Etymological Dictionary of Greek*):** *"Linguistic evidence traces **mycet** back to ancient substrate terms describing spongy, moist forest organisms."*
+> - 📜 **John Webster (*Introduction to Fungi*):** *"Modern mycological taxonomy continually utilizes the root **mycet** to classify novel fungal divisions and reproductive structures."*

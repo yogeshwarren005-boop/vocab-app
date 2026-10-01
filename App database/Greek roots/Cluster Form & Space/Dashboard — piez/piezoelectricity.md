@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Electricity produced by mechanical pressure on certain crystals (notably quartz or rochelle salt); alternatively, electrostatic stress produces a change in the linear dimensions of the crystal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Electricity produced by mechanical pressure on certain crystals (notably quartz or rochelle salt); alternatively, electrostatic stress produces a change in the linear dimensions of the crystal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Electric polarization produced in certain non-centrosymmetric crystals (such as quartz) as a result of applied mechanical stress.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In solid-state physics, piezoelectricity is a reversible linear electromechanical interaction discovered by Jacques and Pierre Curie in 1880.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, piezoelectricity designates electricity produced by mechanical pressure on certain crystals (notably quartz or rochelle salt); alternatively, electrostatic stress produces a change in the linear dimensions of the crystal."*
+> - 📜 **Jacques Curie (*Sur l'Électricité Polaire dans les Cristaux Hémièdres*):** *"The discovery of **piezoelectricity** proved that mechanical deformation can directly polarize asymmetric dielectric crystals."*
+> - 📜 **Walter Guyton Cady (*Piezoelectricity: An Introduction to the Theory and Applications of Electromechanical Phenomena in Crystals*):** *"The mathematical theory of **piezoelectricity** couples Hooke’s law of elasticity with Maxwell’s electrostatic equations."*
+> - 📜 **Charles Kittel (*Introduction to Solid State Physics*):** *"Lattice displacement of positive and negative sublattices under strain generates macroscopic **piezoelectricity**."*

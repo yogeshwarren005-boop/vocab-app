@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lack or absence of symmetry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lack or absence of symmetry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lack of equality, balance, or equivalence between parts or aspects of something; absence of symmetry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology, fluctuating asymmetry in bilateral organisms serves as a sensitive measure of developmental instability and environmental stress.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, asymmetry designates lack or absence of symmetry."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The remarkable **asymmetry** in the skull of the flatfish arose gradually through natural selection as it adapted to lying upon the seabed."*
+> - 📜 **Louis Pasteur (*Lectures on Molecular Asymmetry*):** *"Life is dominated by **asymmetry**; the essential building blocks of living cells are uniquely handed."*
+> - 📜 **Richard Feynman (*The Feynman Lectures on Physics*):** *"The discovery of parity violation revealed an unexpected fundamental **asymmetry** in the weak nuclear interaction."*

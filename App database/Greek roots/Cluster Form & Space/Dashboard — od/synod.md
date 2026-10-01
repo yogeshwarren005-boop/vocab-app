@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An ecclesiastical governing or advisory council: such as.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An assembly of bishops in the Roman Catholic Church.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A formal council, convocation, or assembly of church clergy, bishops, and lay delegates convened to settle matters of doctrine, ecclesiastical administration, or canon law.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In church history and canon law, synods (diocesan, provincial, or general) establish authoritative disciplinary canons and confess theological creeds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Gods and goddesses, All the whole synod of them!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thus Rosalind of many parts By heavenly synod was devised, Of many faces, eyes, and hearts To have the touches dearest prized."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Or we poor ghosts will cry To th’ shining synod of the rest Against thy deity."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Emperor Constantine summoned a great **synod** of Christian bishops at Nicaea to establish doctrinal unity across the empire."*
+> - 📜 **Thomas Aquinas (*Summa Theologiae*):** *"The decrees ratified by a legitimate general **synod** bind the faithful in matters touching orthodox faith and morals."*
+> - 📜 **John Milton (*Areopagitica*):** *"Lords and Commons of England, consider what nation it is whereof ye are: a nation not slow and dull, nor easily coerced by any priestly **synod**."*

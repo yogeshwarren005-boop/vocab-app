@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or supported by charity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or supported by charity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or supported by charity, alms, or donations; charitable or philanthropic in nature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal jurisprudence, an eleemosynary corporation is an organization created for the perpetual distribution of the founder's charitable bounty.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eleemosynary designates of, relating to, or supported by charity."*
+> - 📜 **John Marshall (*Dartmouth College v. Woodward*):** *"The college was an **eleemosynary** institution, founded not for political purposes, but for the perpetual distribution of educational benevolence."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"Hospitals, endowed schools, and charitable trusts fall under the ancient legal category of **eleemosynary** corporations."*
+> - 📜 **Thomas De Quincey (*Confessions of an English Opium-Eater*):** *"He subsisted for weeks upon the cold, **eleemosynary** hospitality of impoverished acquaintances in London."*

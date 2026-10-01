@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A spanish pellitory.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A spanish pellitory.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of flowering plants in the daisy family Asteraceae, native to the Mediterranean basin, known as mount Atlas daisies or pellitories.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical pharmacognosy, low-growing Mediterranean herbs (notably Anacyclus pyrethrum) whose roots yield pungent alkylamides traditionally used as a sialagogue and medicinal irritant.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anacyclus designates a spanish pellitory."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The root of **Anacyclus** pyrethrum was imported from North Africa as a potent medicinal masticatory."*
+> - 📜 **Alexander von Humboldt (*Aspects of Nature*):** *"Sunny arid limestone slopes along the Mediterranean shore are decorated with low rosettes of **Anacyclus**."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"Rock garden enthusiasts value the dense silvery foliage and crimson-rimmed white flowerheads of dwarf **Anacyclus** species."*

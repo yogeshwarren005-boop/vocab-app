@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A coil of wire usually in cylindrical form that when carrying a current acts like a magnet so that a movable core is drawn into the coil when a current flows and that is used especially as a switch or control for a mechanical device (such as a valve).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A coil of wire usually in cylindrical form that when carrying a current acts like a magnet so that a movable core is drawn into the coil when a current flows and that is used especially as a switch or control for a mechanical device (such as a valve).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cylindrical coil of wire acting as an electromagnet when carrying an electric current; also an electromechanical device that converts electrical energy into linear mechanical motion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In electromagnetic physics and mechanical engineering, a solenoid generates a uniform magnetic field within its interior volume, widely used in relays, valves, and automotive starters.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, solenoid designates a coil of wire usually in cylindrical form that when carrying a current acts like a magnet so that a movable core is drawn into the coil when a current flows and that is used especially as a switch or control for a mechanical device (such as a valve)."*
+> - 📜 **André-Marie Ampère (*Théorie des Phénomènes Électro-dynamiques*):** *"A helical wire carrying a galvanic current, which I have termed a **solenoid**, acts in all respects like a natural magnet."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"The magnetic induction along the axis of an infinitely long **solenoid** is strictly proportional to the number of turns per unit length."*
+> - 📜 **Nikola Tesla (*Experiments with Alternate Currents*):** *"The movable iron core was pulled into the energized **solenoid** with tremendous electro-dynamic velocity."*

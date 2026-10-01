@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Plasticity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Plasticity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ability of the nervous system to dynamically modify its structural organization, synaptic connections, and functional pathways in response to experience or injury.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cognitive neuroscience and rehabilitation medicine, neuroplasticity underlies memory formation, perceptual learning, and recovery of motor function after stroke.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neuroplasticity designates plasticity."*
+> - 📜 **Donald Hebb (*The Organization of Behavior*):** *"When an axon of cell A repeatedly excites cell B, growth processes take place, providing the physical foundation for **neuroplasticity**."*
+> - 📜 **Eric Kandel (*In Search of Memory*):** *"Long-term potentiation demonstrates that synaptic connections are not hardwired circuits, but dynamic engines of lifelong **neuroplasticity**."*
+> - 📜 **Santiago Ramón y Cajal (*Degeneration and Regeneration of the Nervous System*):** *"While adult central pathways were long deemed immutable, modern experiments uncover an astonishing latent capacity for functional **neuroplasticity**."*

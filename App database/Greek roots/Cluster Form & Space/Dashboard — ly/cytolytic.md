@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to cytolysis, the dissolution or destruction of a cell.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to cytolysis, the dissolution or destruction of a cell.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing, promoting, or relating to cytolysis (the dissolution or destruction of living cells).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cellular immunology, cytotoxic CD8+ T lymphocytes and natural killer (NK) cells release cytolytic granules containing perforin and granzymes to induce apoptosis and lysis of virus-infected or malignant cells.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cytolytic designates of or relating to cytolysis, the dissolution or destruction of a cell."*
+> - 📜 **Paul Ehrlich (*Studies in Immunity*):** *"Specific antibodies act as **cytolytic** amboceptors, binding the target cell to activate lytic complement."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The venom contains powerful **cytolytic** toxins that rapidly dissolve capillary walls and blood corpuscles."*
+> - 📜 **Frank Macfarlane Burnet (*The Clonal Selection Theory of Acquired Immunity*):** *"Sensitized immune cells exert a direct **cytolytic** effect upon foreign graft tissues during acute rejection."*

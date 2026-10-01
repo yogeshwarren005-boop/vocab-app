@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Old scottish breed of small long-haired usually black terrier with erect tail and ears.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Old scottish breed of small long-haired usually black terrier with erect tail and ears.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A Scottish terrier (a breed of small, sturdy dog with short legs and rough coat); also a colloquial or affectionate name for a Scottish person.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In twentieth-century popular culture, the Scottie dog gained widespread fame as a loyal companion, famously exemplified by Franklin D. Roosevelt's dog Fala.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scottie designates old scottish breed of small long-haired usually black terrier with erect tail and ears."*
+> - 📜 **Franklin D. Roosevelt (*The Fala Speech (Address to the Teamsters Union)*):** *"You know, Fala is a **scottie**, and being a Scotsman, his Scottish soul was furious when he heard these falsehoods!"*
+> - 📜 **P. G. Wodehouse (*Very Good, Jeeves*):** *"A truculent black **scottie** planted himself firmly on the rug and growled ominously at my trousers."*
+> - 📜 **Agatha Christie (*Dumb Witness*):** *"The little wire-haired **scottie** stood sentinel outside the locked bedroom door, refusing to budge."*

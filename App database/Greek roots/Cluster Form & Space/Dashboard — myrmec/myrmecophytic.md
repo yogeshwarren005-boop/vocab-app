@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to myrmecophytes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to myrmecophytes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, exhibiting, or characteristic of a myrmecophyte or a symbiotic ant-plant relationship.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary botany, myrmecophytic traits include modified hollow petioles, extrafloral nectaries, and specialized nutrient-absorptive internal tissues.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, myrmecophytic designates of or relating to myrmecophytes."*
+> - 📜 **Thomas Belt (*The Naturalist in Nicaragua*):** *"The Cecropia tree displays **myrmecophytic** adaptations, producing sweet glycogen glands at the base of each leaf stalk."*
+> - 📜 **Daniel Janzen (*Coevolution of Mutualism Between Ants and Acacias*):** *"Obligate **myrmecophytic** species cannot survive in nature without the active clearing behavior of their resident ant colonies."*
+> - 📜 **William Morton Wheeler (*Ants: Their Structure, Development and Behavior*):** *"In Southeast Asia, **myrmecophytic** ferns form bulbous hollow rhizomes that provide dry nesting galleries for arboreal ants."*

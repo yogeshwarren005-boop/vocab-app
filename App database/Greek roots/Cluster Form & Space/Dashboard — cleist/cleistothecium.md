@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek cleist.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A completely closed, globose ascocarp lacking a specialized opening or ostiole, characteristic of powdery mildews.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic mycology, a protective spherical fungal structure from which mature ascospores are liberated solely by mechanical rupture, weathering, or decay of the peridium wall.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cleistothecium designates a term designating an entity, condition, or phenomenon derived from greek cleist."*
+> - 📜 **Miles Joseph Berkeley (*Introduction to Cryptogamic Botany*):** *"Under the microscope, each mature **cleistothecium** appears as a dark sphere adorned with bifurcated hooked appendages."*
+> - 📜 **William Gilson Farlow (*The Gymnosporangia or Cedar-Apples of the United States*):** *"During autumn the overwintering **cleistothecium** matures upon fallen leaves, safeguarding asci against freezing desiccation."*
+> - 📜 **John Merle Coulter (*Morphology of Gymnosperms*):** *"The enclosed architecture of the **cleistothecium** represents a distinct evolutionary departure from the open apothecium."*

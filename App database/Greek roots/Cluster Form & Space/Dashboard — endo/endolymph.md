@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The bodily fluid that fills the membranous labyrinth of the inner ear.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The bodily fluid that fills the membranous labyrinth of the inner ear.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The potassium-rich extracellular fluid contained within the membranous labyrinth of the inner ear, bathing hair cell stereocilia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sensory physiology, endolymph has a positive endocochlear potential (~+80 mV) that drives mechanotransduction currents into auditory hair cells.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endolymph designates the bodily fluid that fills the membranous labyrinth of the inner ear."*
+> - 📜 **Georg von Békésy (*Experiments in Hearing*):** *"The high potassium concentration of **endolymph** generates an electrical battery that powers the mechanical tuning of the cochlea."*
+> - 📜 **Arthur C. Guyton (*Textbook of Medical Physiology*):** *"Deflection of the cupula by fluid currents in the **endolymph** signals angular acceleration to the vestibular nerve."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"The membranous labyrinth is filled with **endolymph** and surrounded by perilymph within the bony otic capsule."*

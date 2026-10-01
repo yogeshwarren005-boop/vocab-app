@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to asterisms or constellations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to asterisms or constellations.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, resembling, or consisting of an asterism (a star cluster or optical star pattern).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Describing stellar configurations, optical reflections, or symbolic patterns exhibiting radiant starry geometry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, asterismal designates relating to asterisms or constellations."*
+> - 📜 **John Herschel (*Results of Astronomical Observations at the Cape of Good Hope*):** *"The telescopic field was filled with an **asterismal** radiance, dozens of sparkling suns concentrated in a tiny cluster."*
+> - 📜 **Edgar Allan Poe (*Eureka: A Prose Poem*):** *"The universe of stars expands before contemplation as an **asterismal** symphony of interconnected gravitational vortices."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The mosaic ceiling of the chapel was studded with **asterismal** designs in turquoise and beaten gold."*

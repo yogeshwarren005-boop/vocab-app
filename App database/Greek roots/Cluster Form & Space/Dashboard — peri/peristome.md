@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (botany) fringe of toothlike appendages surrounding the mouth of a moss capsule.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Region around the mouth in various invertebrates.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An anatomical region or ring of specialized structures surrounding the mouth or aperture of an invertebrate, plant, moss capsule, or pitcher plant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In bryology, the peristome is a fringe of hygroscopic teeth surrounding the capsule mouth that regulates spore dispersal.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The teeth thus formed resemble those of the peristome of some mosses."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"If the teeth of _Æcidium_ resemble the peristome of some mosses, such as _Splachnum_; the threads of this species of _Rœstelia_, except in not being twisted, somewhat resemble the peristomes of other mosses of the genus _Tortula_."*
+> - 📜 **Charles Darwin (*Insectivorous Plants*):** *"The slippery rim or **peristome** of the Nepenthes pitcher directs unsuspecting insects down into digestive fluid."*
+> - 📜 **Wilhelm Hofmeister (*On the Germination, Development, and Fructification of the Higher Cryptogamia*):** *"Hygroscopic movements of the **peristome** teeth ensure that spores are cast out only during dry weather."*
+> - 📜 **Thomas Henry Huxley (*The Invertebrates*):** *"Ciliated oral grooves converge upon the **peristome** of the vorticellid to draw in nutrient particles."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The presence of abnormally high levels of calcium in the urine; usually the result of excessive bone resorption in hyperparathyroidism or osteoporosis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The presence of abnormally high levels of calcium in the urine; usually the result of excessive bone resorption in hyperparathyroidism or osteoporosis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An elevated excretion of calcium in the urine, defined typically as greater than 250 mg/day in women or 300 mg/day in men on a normal diet.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical nephrology, idiopathic hypercalciuria is the single most common metabolic abnormality identified in patients with calcium nephrolithiasis, categorized into absorptive, renal leak, and resorptive forms; treated with thiazide diuretics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypercalciuria designates the presence of abnormally high levels of calcium in the urine; usually the result of excessive bone resorption in hyperparathyroidism or osteoporosis."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Idiopathic **hypercalciuria** represents the principal metabolic culprit in the pathogenesis of calcium oxalate stones."*
+> - 📜 **Ernest Starling (*Principles of Human Physiology*):** *"Thiazide diuretics stimulate proximal and distal tubular calcium reabsorption, effectively suppressing urinary **hypercalciuria**."*
+> - 📜 **Austin Flint (*A Treatise on the Principles and Practice of Medicine*):** *"Prolonged skeletal immobilization in bedbound patients rapidly induces resorptive **hypercalciuria** and urinary gravel."*

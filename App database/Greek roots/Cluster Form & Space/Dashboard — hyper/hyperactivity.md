@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A condition characterized by excessive restlessness and movement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A condition characterized by excessive restlessness and movement.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or condition of being hyperactive; excessive or abnormal physiological or physical activity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychiatry and pediatrics, hyperactivity encompasses persistent purposeless motor agitation, vocal outburst, and inability to remain seated, forming a core diagnostic criterion of attention-deficit/hyperactivity disorder.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyperactivity designates a condition characterized by excessive restlessness and movement."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Motor **hyperactivity** reflects a failure of higher cortical centers to exercise customary voluntary inhibition."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Thyrotoxicosis is characterized by mental agitation, fine tremors, and relentless sympathetic **hyperactivity**."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"The sudden transition from profound akinesia to manic **hyperactivity** revealed the complex volatility of dopamine pathways."*

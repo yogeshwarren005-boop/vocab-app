@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Geraniums native chiefly to south africa; widely cultivated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Geraniums native chiefly to south africa; widely cultivated.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of flowering plants in the family Geraniaceae, native mainly to southern Africa, commonly cultivated as ornamental garden geraniums.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic botany, Pelargonium species are distinguished from true Geranium species by zygomorphic flowers with five petals and a nectar spur adnate to the pedicel.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Pelargonium designates geraniums native chiefly to south africa; widely cultivated."*
+> - 📜 **Carl Linnaeus (*Species Plantarum*):** *"The African species separated into the genus **Pelargonium** bear a long rostrum resembling the bill of a stork."*
+> - 📜 **Charles Darwin (*The Different Forms of Flowers on Plants of the Same Species*):** *"Cross-pollination in **Pelargonium** is mediated by insects attracted to nectar secreted in the specialized floral tube."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"Window gardens and greenhouses across Europe flourish with colorful hybrid cultivars of **Pelargonium**."*

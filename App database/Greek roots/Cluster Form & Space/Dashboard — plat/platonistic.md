@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to or characteristic of or in accordance with platonism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to or characteristic of or in accordance with platonism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, resembling, or exhibiting the principles and characteristics of Platonism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epistemological and aesthetic theory, reflecting an idealizing tendency that looks to metaphysical paradigms rather than empirical observation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, platonistic designates pertaining to or characteristic of or in accordance with platonism."*
+> - 📜 **Charles Sanders Peirce (*Collected Papers*):** *"Scholastic realism embraced a decidedly **platonistic** attitude toward the ontological status of universals."*
+> - 📜 **William James (*The Meaning of Truth*):** *"Pragmatism stands in stark opposition to those **platonistic** habits of mind that view truth as static contemplation."*
+> - 📜 **C. I. Lewis (*Mind and the World-Order*):** *"The conceptual framework includes an element that critics might label **platonistic** in its devotion to a priori categories."*

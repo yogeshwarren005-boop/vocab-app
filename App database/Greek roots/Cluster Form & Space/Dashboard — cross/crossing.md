@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Traveling across.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A shallow area in a stream that can be forded.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of traversing an intersection, body of water, or boundary; an intersection where paths or roads meet.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In genetics and agriculture, the deliberate interbreeding or hybridization of two distinct varieties, strains, or species.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But it is true, without any slips of prolixity or crossing the plain highway of talk, that the good Antonio, the honest Antonio,—O that I had a title good enough to keep his name company!— SALARINO."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The heavens do lower upon you for some ill; Move them no more by crossing their high will. [_Exeunt Capulet, Lady Capulet, Paris and Friar._] FIRST MUSICIAN."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Look what I speak, or do, or think to do, You are still crossing it."*
+> - 📜 **Charles Darwin (*The Effects of Cross and Self Fertilisation in the Vegetable Kingdom*):** *"The **crossing** of two flowers belonging to different plants almost invariably yields larger and more robust seedlings."*
+> - 📜 **Mark Twain (*Life on the Mississippi*):** *"A Mississippi pilot must know every shifting sandbar and treacherous river **crossing** in pitch darkness."*
+> - 📜 **Virginia Woolf (*The Waves*):** *"Footsteps mingle at the crowded street **crossing**, weaving fleeting patterns on the pavement."*

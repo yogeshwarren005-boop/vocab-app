@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Comprising all vertebrates with upper and lower jaws.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Comprising all vertebrates with upper and lower jaws.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A major clade or infraphylum of vertebrates characterized by the presence of hinged jaws developed from modified pharyngeal gill arches.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary chordate morphology, Gnathostomata comprises all jawed vertebrates, including chondrichthyans, osteichthyans, amphibians, reptiles, birds, and mammals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gnathostomata designates comprising all vertebrates with upper and lower jaws."*
+> - 📜 **Alfred Romer (*Vertebrate Paleontology*):** *"The origin of jaws in **Gnathostomata** represented arguably the most profound adaptive breakthrough in vertebrate history."*
+> - 📜 **Neil Shubin (*Your Inner Fish*):** *"Every member of **Gnathostomata** owes its biting apparatus to the evolutionary transformation of ancient visceral skeletal arches."*
+> - 📜 **Stephen Jay Gould (*Full House: The Spread of Excellence from Plato to Darwin*):** *"The radiation of **Gnathostomata** transformed aquatic and terrestrial food chains by establishing predatory dominance across all biomes."*

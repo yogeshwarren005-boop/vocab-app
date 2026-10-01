@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the megatheriidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the megatheriidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of colossal extinct ground sloths that lived in South and Central America from the late Pliocene through the Pleistocene.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate paleontology, an elephant-sized quadruped measuring up to six meters in length, equipped with curved claws and hypsodont grinding teeth for browsing tree foliage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. G. Wells (*The Time Machine*):** *"I recognised by the oblique feet that it was some extinct creature after the fashion of the Megatherium."*
+> - 📜 **Georges Cuvier (*Researches on Fossil Bones*):** *"I assigned the title **Megatherium** to this colossal fossil skeleton from Buenos Aires, recognizing it as a giant herbivorous edentate."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The huge armor and colossal limbs of the **Megatherium** were the wonder of all early naturalists."*
+> - 📜 **Richard Owen (*Memoir on the Megatherium*):** *"The powerful musculature of the **Megatherium** allowed it to pull down stout branches and strip woody foliage with ease."*

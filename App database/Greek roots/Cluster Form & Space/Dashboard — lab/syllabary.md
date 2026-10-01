@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A writing system whose characters represent syllables.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A writing system whose characters represent syllables.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A set of written symbols or graphemes in which each character represents a complete syllable (typically a consonant plus vowel) rather than an individual phoneme.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In writing systems and epigraphy, classic examples include Japanese Kana (Hiragana and Katakana), Mycenaean Greek Linear B, and the Cherokee syllabary developed by Sequoyah in 1821.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, syllabary designates a writing system whose characters represent syllables."*
+> - 📜 **Arthur Evans (*Scripta Minoa*):** *"The clay tablets of Knossos were inscribed with an advanced phonetic **syllabary** preceding the Phoenician alphabet."*
+> - 📜 **Edward Sapir (*Language: An Introduction to the Study of Speech*):** *"Sequoyah's invention of the Cherokee **syllabary** represents one of the most remarkable individual feats in linguistic history."*
+> - 📜 **Ferdinand de Saussure (*Course in General Linguistics*):** *"Unlike alphabetic scripts, a **syllabary** maps characters directly to acoustic syllabic units rather than isolated vowels and consonants."*

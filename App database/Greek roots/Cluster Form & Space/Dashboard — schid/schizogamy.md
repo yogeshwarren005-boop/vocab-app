@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek schid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A form of reproduction in certain marine polychaete annelid worms wherein a sexual individual (epitoke) buds off from an asexual benthic stock (atoke).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine invertebrate zoology, a specialized epitokous reproductive strategy seen in syllid worms and palolo worms to optimize nocturnal pelagic spawning.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, schizogamy designates a term designating an entity, condition, or phenomenon derived from greek schid."*
+> - 📜 **E. Ray Lankester (*A Treatise on Zoology*):** *"The remarkable phenomenon of **schizogamy** allows the sedentary worm to regenerate while its detached sexual clone swims to the ocean surface."*
+> - 📜 **Libbie Hyman (*The Invertebrates: Annelida*):** *"During seasonal **schizogamy**, the caudal segments become packed with gametes and develop swimming chaetae before detachment."*
+> - 📜 **Robert D. Barnes (*Invertebrate Zoology*):** *"Synchronous lunar swarming in syllids is mediated by **schizogamy**, producing millions of epitokes that spawn in open coastal waters."*

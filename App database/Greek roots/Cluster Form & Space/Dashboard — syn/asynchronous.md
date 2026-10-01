@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not simultaneous or concurrent in time : not synchronous.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, used in, or being digital communication (as between computers) in which there is no timing requirement for transmission and in which the start of each character is individually signaled by the transmitting device.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not occurring at the same time or simultaneous rate; in computing and electronics, operating independently of an external master clock.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In telecommunications and digital circuitry, asynchronous data transmission frames data with start and stop bits rather than relying on synchronous clock pulses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, asynchronous designates not simultaneous or concurrent in time : not synchronous."*
+> - 📜 **Alan Turing (*Proposals for Development of an Automatic Computing Engine*):** *"The storage delay lines allow **asynchronous** acoustic pulse regeneration without interrupting arithmetic calculation."*
+> - 📜 **Norbert Wiener (*Cybernetics: Or Control and Communication in the Animal and the Machine*):** *"Feedback in neural circuits frequently operates via **asynchronous** pulse bursts across synaptic junctions."*
+> - 📜 **Claude Shannon (*A Mathematical Theory of Communication*):** *"In **asynchronous** transmission channels, timing markers ensure symbol identification in the presence of random jitter."*

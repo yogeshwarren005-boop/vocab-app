@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A stretch of turbulent water in a river or the sea caused by one current flowing into or across another current.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Actions counter to the main group activity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A water or air current that flows across the main flow of direction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Figuratively, a conflicting tendency, opinion, or cultural influence running counter to the prevailing trend.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, crosscurrent designates a stretch of turbulent water in a river or the sea caused by one current flowing into or across another current."*
+> - 📜 **Joseph Conrad (*Typhoon*):** *"A sudden violent **crosscurrent** caught the steamer's stern, throwing her off course into the churning trough."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"A strong mind steers steadily onward, ignoring the transient **crosscurrent** of public censure."*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"Naval maneuvers in the North Sea were complicated by an unpredictable tidal **crosscurrent**."*

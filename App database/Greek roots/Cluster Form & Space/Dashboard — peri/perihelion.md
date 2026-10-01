@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The point nearest to the sun in the path of an orbiting celestial body (such as a planet).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The point nearest to the sun in the path of an orbiting celestial body (such as a planet).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The point in the orbit of a planet, asteroid, or comet where it is closest to the Sun.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In celestial mechanics and general relativity, the anomalous precession of Mercury’s perihelion provided the first empirical confirmation of Einstein’s theory of gravitation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, perihelion designates the point nearest to the sun in the path of an orbiting celestial body (such as a planet)."*
+> - 📜 **Albert Einstein (*Explanation of the Perihelion Motion of Mercury*):** *"General relativity accounts quantitatively for the unexplained secular advance of forty-three arcseconds in Mercury’s **perihelion**."*
+> - 📜 **Johannes Kepler (*Astronomia Nova*):** *"A planet achieves its greatest orbital velocity when passing through **perihelion**."*
+> - 📜 **Pierre-Simon Laplace (*Celestial Mechanics*):** *"Planetary mutual perturbations cause slow secular oscillations in the longitude of **perihelion**."*

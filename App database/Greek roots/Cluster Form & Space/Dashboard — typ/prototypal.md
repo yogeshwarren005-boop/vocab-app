@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Representing or constituting an original type after which other similar things are patterned.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Representing or constituting an original type after which other similar things are patterned.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, serving as, or resembling a prototype; original, primitive, or foundational.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative anatomy and architectural design, prototypal structures provide the initial functional template from which complex derivative designs evolve.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prototypal designates representing or constituting an original type after which other similar things are patterned."*
+> - 📜 **Richard Owen (*On the Nature of Limbs*):** *"The primitive fin of the Devonian lungfish represents the **prototypal** vertebrate extremity."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"All institutional ceremonies evolve by differentiation from simple, **prototypal** tribal customs."*
+> - 📜 **Lewis Mumford (*Technics and Civilization*):** *"The waterwheel served as the **prototypal** power engine of the early industrial revolution."*

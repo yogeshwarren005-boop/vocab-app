@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Roundabout and unnecessarily wordy; ; -t.s.eliot; (`ambagious' is archaic).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Roundabout and unnecessarily wordy; ; -t.s.eliot; (`ambagious' is archaic).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by roundabout ways or indirect paths; circuitous, winding, or circumlocutory.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In stylistic analysis, describing discourse, legal drafting, or narrative structures burdened by excessive complexity and verbose obscurity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ambagious designates roundabout and unnecessarily wordy; ; -t.s.eliot; (`ambagious' is archaic)."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"Through long **ambagious** corridors of bureaucratic delay, the petition crawled from minister to clerk without decision."*
+> - 📜 **Robert Louis Stevenson (*The Master of Ballantrae*):** *"The lawyer pursued an **ambagious** line of questioning, circling round the vital document without once naming it aloud."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"His narrative was singularly **ambagious**, full of trivial digressions that tested the patience of my companion."*

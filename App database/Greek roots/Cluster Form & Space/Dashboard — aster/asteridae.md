@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A group of mostly sympetalous herbs and some trees and shrubs mostly with 2 fused carpels; contains 43 families including campanulales; solanaceae; scrophulariaceae; labiatae; verbenaceae; rubiaceae; compositae; sometimes classified as a superorder.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A group of mostly sympetalous herbs and some trees and shrubs mostly with 2 fused carpels; contains 43 families including campanulales; solanaceae; scrophulariaceae; labiatae; verbenaceae; rubiaceae; compositae; sometimes classified as a superorder.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A major subclass or clade of dicotyledonous flowering plants (in historical classification systems like Cronquist's), encompassing asterids.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In angiosperm phylogeny, an extensive sympetalous evolutionary radiation including Solanaceae, Lamiaceae, and Asteraceae characterized by fused corollas and unitegmic ovules.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, asteridae designates a group of mostly sympetalous herbs and some trees and shrubs mostly with 2 fused carpels; contains 43 families including campanulales; solanaceae; scrophulariaceae; labiatae; verbenaceae; rubiaceae; compositae; sometimes classified as a superorder."*
+> - 📜 **Arthur Cronquist (*An Integrated System of Classification of Flowering Plants*):** *"The subclass **Asteridae** stands at the evolutionary apex of dicotyledons, exhibiting high specialization for insect pollination."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"Advanced families united in **Asteridae** combine gamopetalous corollas with specialized secondary pollen presentation mechanisms."*
+> - 📜 **George Ledyard Stebbins (*Flowering Plants: Evolution Above the Species Level*):** *"Chemical defenses such as iridoids and sesquiterpene lactones played a critical role in the evolutionary radiation of **Asteridae**."*

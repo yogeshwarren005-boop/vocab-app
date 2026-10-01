@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make less central.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending away from a central point.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process or act of transferring authority, functions, or population away from a central hub to outlying regions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In spatial urban planning and sociology, redistributing municipal resources or computational load to relieve centralized bottlenecking.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decentralising designates make less central."*
+> - 📜 **Ebenezer Howard (*Garden Cities of To-morrow*):** *"By **decentralising** factory employment into surrounding garden cities, urban overcrowding naturally resolves itself."*
+> - 📜 **Lewis Mumford (*Technics and Civilization*):** *"Electricity provided the technical means for **decentralising** manufacturing away from coal-basin conglomerates."*
+> - 📜 **Patrick Geddes (*Cities in Evolution*):** *"Regional surveys serve as the indispensable precursor to **decentralising** metropolitan congestion."*

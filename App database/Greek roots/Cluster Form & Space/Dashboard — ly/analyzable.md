@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being partitioned.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being partitioned.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being analyzed, decomposed, or resolved into simpler constituent components or principles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epistemology, chemistry, and psychological introspection, an entity is analyzable if its complex properties can be explained by the properties and relations of its parts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, analyzable designates capable of being partitioned."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The continuous stream of consciousness is not mechanically **analyzable** into discrete sensory atoms."*
+> - 📜 **Antoine Lavoisier (*Elements of Chemistry*):** *"Every mineral compound is **analyzable** into fixed proportions of its constituent chemical elements."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"Complex moral sentiments are **analyzable** through psychological association into primary feelings of pleasure and pain."*

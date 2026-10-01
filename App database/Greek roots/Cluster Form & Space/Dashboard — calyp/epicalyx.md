@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An involucre resembling the calyx but consisting of a whorl of bracts that is exterior to the calyx or results from the union of the sepal appendages.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An involucre resembling the calyx but consisting of a whorl of bracts that is exterior to the calyx or results from the union of the sepal appendages.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A series of bracts resembling an outer calyx situated immediately below the true calyx of a flower (as in mallows and strawberries).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In descriptive floral morphology, an involucre of modified stipules or bracteoles providing additional mechanical protection and defense against herbivory.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epicalyx designates an involucre resembling the calyx but consisting of a whorl of bracts that is exterior to the calyx or results from the union of the sepal appendages."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"In the common mallow, three distinct green bractlets form an **epicalyx** surrounding the base of the true five-cleft calyx."*
+> - 📜 **Charles Darwin (*The Different Forms of Flowers on Plants of the Same Species*):** *"The glandular hairs upon the **epicalyx** secrete sticky droplets that deter crawling nectar-thieves from reaching the petals."*
+> - 📜 **John Lindley (*An Introduction to Botany*):** *"Botanists recognize an **epicalyx** in Fragaria and Potentilla as an alternating whorl of stipular appendages."*

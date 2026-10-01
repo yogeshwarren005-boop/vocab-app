@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek pter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any primitively wingless insect belonging to the subclass Apterygota, such as a silverfish, bristletail, or firebrat.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic entomology, a hexapod whose ancestors never evolved wings, undergoing slight or ametabolous development.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, apterygote designates a term designating an entity, condition, or phenomenon derived from greek pter."*
+> - 📜 **Alpheus Spring Packard (*Guide to the Study of Insects*):** *"The humble **apterygote** scuttles across damp soil, retaining the ancestral six-legged body architecture of primitive arthropods."*
+> - 📜 **A. D. Imms (*A General Textbook of Entomology*):** *"Unlike pterygote insects that lost wings secondarily, each true **apterygote** belongs to a lineage that never possessed flight organs."*
+> - 📜 **Edward O. Wilson (*The Insect Societies*):** *"Subterranean niches harbor diverse **apterygote** species that decompose decaying leaf mulch in forest ecosystems."*

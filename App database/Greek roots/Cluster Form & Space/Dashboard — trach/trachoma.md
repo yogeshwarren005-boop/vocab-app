@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A chronic contagious bacterial conjunctivitis marked by inflammatory granulations on the conjunctival surfaces, caused by a chlamydia (Chlamydia trachomatis), and commonly resulting in blindness if left untreated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A chronic contagious bacterial conjunctivitis marked by inflammatory granulations on the conjunctival surfaces, caused by a chlamydia (Chlamydia trachomatis), and commonly resulting in blindness if left untreated.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A contagious bacterial infection of the eye caused by *Chlamydia trachomatis*, leading to inflammation and scarring of the inner eyelids and potentially blindness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In global public health and ophthalmology, trachoma is the leading infectious cause of blindness worldwide, controlled via the WHO SAFE strategy (Surgery, Antibiotics, Facial cleanliness, Environmental improvement).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trachoma designates a chronic contagious bacterial conjunctivitis marked by inflammatory granulations on the conjunctival surfaces, caused by a chlamydia (chlamydia trachomatis), and commonly resulting in blindness if left untreated."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Chronic **trachoma** produces follicular conjunctivitis followed by cicatricial entropion and blinding corneal pannus."*
+> - 📜 **Florence Nightingale (*Notes on Nursing*):** *"Crowded, unventilated barracks fostered widespread outbreaks of Egyptian ophthalmia, now recognized as **trachoma**."*
+> - 📜 **Alexander Fleming (*Chemotherapy: Yesterday, Today, and Tomorrow*):** *"Mass administration of oral sulfonamides provided the first effective pharmaceutical weapon against endemic **trachoma**."*

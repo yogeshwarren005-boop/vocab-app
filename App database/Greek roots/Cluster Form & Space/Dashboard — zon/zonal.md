@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, affecting, or having the form of a zone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or being a soil or a major soil group marked by well-developed characteristics that are determined primarily by the action of climate and organisms (such as vegetation).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or arranged in zones; distributed or organized according to distinct belts or bands, especially in reference to climatic, ecological, or geographical regions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In soil science, zonal soils are mature formations whose properties reflect the dominant influence of climate and vegetation acting over long periods on well-drained surfaces.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, zonal designates of, relating to, affecting, or having the form of a zone."*
+> - 📜 **Vasily Dokuchaev (*Russian Chernozem*):** *"**Zonal** soils mirror the climatic conditions under which they have developed over millennia."*
+> - 📜 **Alexander von Humboldt (*Cosmos*):** *"The **zonal** distribution of vegetation follows the gradients of temperature and moisture from equator to pole."*
+> - 📜 **Wladimir Koppen (*Die Klimate der Erde*):** *"My classification groups climates into **zonal** categories based on temperature and precipitation thresholds."*

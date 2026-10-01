@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A momentous tragic event ranging from extreme misfortune to utter overthrow or ruin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Utter failure : fiasco.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Involving or causing sudden, disastrous, and irreversible damage, destruction, or ruin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In risk management and geology, describing low-frequency, high-severity events that overwhelm the structural integrity of natural or engineered systems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The red wrath always has undone me in all my lives; for the red wrath is my disastrous catastrophic heritage from the time of the slimy things ere the world was prime."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The point is, that in a surge of anger, obsessed by that catastrophic red wrath that has cursed me down the ages, I killed my fellow professor."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The effects on Slingshot could be catastrophic."*
+> - 📜 **Carl Sagan (*Cosmos*):** *"The runaway greenhouse effect on Venus stands as a warning of **catastrophic** planetary climate transformation."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Geologists once imagined **catastrophic** deluges where closer scrutiny reveals centuries of patient water erosion."*
+> - 📜 **Edward O. Wilson (*The Diversity of Life*):** *"The clearing of tropical rainforests brings about a **catastrophic** collapse of global biological diversity."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek oo.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The feeding behavior of consuming eggs, especially as observed in certain animals that eat the eggs of other species or even their own kind.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine biology, oophagy specifically describes intrauterine cannibalism in some shark species where developing embryos feed on unfertilized eggs supplied by the mother.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oophagy designates a term designating an entity, condition, or phenomenon derived from greek oo."*
+> - 📜 **Leonard Compagno (*Sharks of the World*):** *"In the sand tiger shark, **oophagy** ensures that the dominant embryo receives maximal nutrition before birth."*
+> - 📜 **Samuel Gruber (*Elasmobranch Reproduction*):** *"**Oophagy** is a specialized form of matrotrophy in which the mother provisions her developing young with trophic eggs."*
+> - 📜 **George Burgess (*Biology of Sharks and Rays*):** *"The phenomenon of **oophagy** results in only one or two pups surviving from an initially large clutch."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of lichens.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A family of lichens.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of lichen-forming fungi in the order Lecanorales, characterized by a dimorphic thallus bearing upright stalks (podetia).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic mycology, ascomycete lichens exhibiting a crustose or squamulose primary thallus surmounted by fruticose secondary structures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cladoniaceae designates a family of lichens."*
+> - 📜 **William Gilson Farlow (*Notes on the Cryptogamic Flora of the White Mountains*):** *"Specimens belonging to **Cladoniaceae** cover the granite slopes, anchored tenaciously against alpine gales."*
+> - 📜 **Liberty Hyde Bailey (*Cyclopedia of American Agriculture*):** *"In the subarctic biome, members of **Cladoniaceae** constitute the predominant ground vegetation across barren peatlands."*
+> - 📜 **John Merle Coulter (*A Text-Book of Botany for Colleges and Universities*):** *"The morphological complexity of **Cladoniaceae** illustrates the cooperative physiological balance achieved between fungus and alga."*

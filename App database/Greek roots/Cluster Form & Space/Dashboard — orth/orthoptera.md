@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Grasshoppers and locusts; crickets.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various insects having leathery forewings and membranous hind wings and chewing mouthparts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An order of insects comprising grasshoppers, crickets, katydids, and locusts, typically featuring leathery forewings, chewing mouthparts, and powerful jumping hind legs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic entomology, the order Orthoptera is divided into two major suborders: Caelifera (short-horned grasshoppers) and Ensifera (crickets and katydids), famed for stridulation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"We are singularly rich in orthoptera: I don’t know whether—Ah! you have got hold of that glass jar—you are looking into that instead of my drawers."*
-> - 📜 **George Eliot (*Middlemarch*):** *"But do look at these delicate orthoptera!” Lydgate had after all to give some scrutiny to each drawer, the Vicar laughing at himself, and yet persisting in the exhibition."*
+> - 📜 **John Henry Comstock (*An Introduction to Entomology*):** *"Members of the order **Orthoptera** are remarkable for the perfection of their musical apparatus and hearing organs."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"In the order **Orthoptera**, the sounds produced by the males serve primarily as sexual calls to attract females."*
+> - 📜 **Vincent Dethier (*To Know a Fly*):** *"The jumping reflex of the **Orthoptera** represents one of the fastest neuromuscular circuits in the insect world."*

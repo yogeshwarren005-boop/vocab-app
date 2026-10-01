@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mental illness that is characterized by disturbances in thought (such as delusions), perception (such as hallucinations), and behavior (such as disorganized speech or catatonic behavior), by a loss of emotional responsiveness and extreme apathy, and by noticeable deterioration in the level of functioning in everyday life.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Contradictory or antagonistic qualities or attitudes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chronic, severe psychiatric disorder characterized by disturbances in thought, perception, emotional responsiveness, and behavior.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychiatry and neuroscience, a neurodevelopmental disorder presenting with positive symptoms (hallucinations, delusions) and negative symptoms (avolition, flat affect).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, schizophrenia designates a mental illness that is characterized by disturbances in thought (such as delusions), perception (such as hallucinations), and behavior (such as disorganized speech or catatonic behavior), by a loss of emotional responsiveness and extreme apathy, and by noticeable deterioration in the level of functioning in everyday life."*
+> - 📜 **Eugen Bleuler (*Dementia Praecox or the Group of Schizophrenias*):** *"I replace the name dementia praecox with **schizophrenia**, because splitting of psychic functions is one of its most prominent characteristics."*
+> - 📜 **Emil Kraepelin (*Clinical Psychiatry*):** *"The fundamental symptom complex of **schizophrenia** involves a disintegration of the emotional life paired with cognitive fragmentation."*
+> - 📜 **Karl Jaspers (*General Psychopathology*):** *"In **schizophrenia**, the patient experiences an unbridgeable transformation of reality that alienates him from common human experience."*

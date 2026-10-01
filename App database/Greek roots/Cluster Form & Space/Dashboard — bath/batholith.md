@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A great mass of intruded igneous rock that for the most part stopped in its rise a considerable distance below the surface.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A great mass of intruded igneous rock that for the most part stopped in its rise a considerable distance below the surface.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A very large discordant body of intrusive igneous rock, covering an area greater than 100 square kilometers, extending to unknown depths in the continental crust.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In structural geology, a composite plutonic complex formed by the amalgamation of multiple magma diapirs during tectonic orogeny.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, batholith designates a great mass of intruded igneous rock that for the most part stopped in its rise a considerable distance below the surface."*
+> - 📜 **Archibald Geikie (*The Founders of Geology*):** *"The roots of the Sierra Nevada represent a dissected granitic **batholith** that fed ancient volcanic arcs."*
+> - 📜 **James Dwight Dana (*Manual of Geology*):** *"A true **batholith** truncates the country rock across regional strike lines rather than conforming to bedding planes."*
+> - 📜 **Alexander von Humboldt (*Cosmos*):** *"Colossal granitic massifs like the Andes rest upon a foundation formed by a subterranean **batholith**."*

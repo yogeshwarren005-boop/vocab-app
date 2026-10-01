@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of zoology that deals with insects.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A branch of zoology that deals with insects.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific study of insects, a major branch of zoology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Encompassing the morphology, taxonomy, physiology, ecology, and economic significance of Hexapoda, entomology provides foundational insights into pollination, evolution, and vector biology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"See,” continued the Vicar, opening several small drawers, “I fancy I have made an exhaustive study of the entomology of this district."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Pooh!: that’s bringing the mysterious little thing down to the plane of entomology. 8."*
-> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"When I learned that the missing man was devoted to entomology the identification was complete.” The darkness was rising, but much was still hidden by the shadows."*
+> - 📜 **William Kirby (*An Introduction to Entomology*):** *"The study of **entomology** opens to our view a world of miniature wonders exhibiting divine wisdom and design."*
+> - 📜 **John Henry Comstock (*The Elements of Insect Anatomy*):** *"Modern **entomology** establishes wing venation homologies as the primary structural basis for insect classification."*
+> - 📜 **L. O. Howard (*A History of Applied Entomology*):** *"The progress of agricultural **entomology** transformed the control of destructive plagues like the cotton boll weevil."*

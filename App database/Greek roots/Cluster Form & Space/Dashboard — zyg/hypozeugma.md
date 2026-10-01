@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek zyg.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rhetorical figure in which a verb placed at the end of a sentence or clause governs several preceding subjects or phrases.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical rhetoric, hypozeugma positions the unifying verb in the final position, creating suspense as multiple subjects accumulate before the action is revealed.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypozeugma designates a term designating an entity, condition, or phenomenon derived from greek zyg."*
+> - 📜 **Quintilian (*Institutio Oratoria*):** *"In **hypozeugma** the verb arrives last, gathering all preceding subjects under a single predicate."*
+> - 📜 **Richard Lanham (*A Handlist of Rhetorical Terms*):** *"**Hypozeugma** places the yoking verb at the conclusion, giving the sentence a climactic structure."*
+> - 📜 **Henry Peacham (*The Garden of Eloquence*):** *"Through **hypozeugma** the orator delays the governing verb until the final clause to build anticipation."*

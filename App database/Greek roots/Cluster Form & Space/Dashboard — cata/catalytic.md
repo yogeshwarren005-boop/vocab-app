@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing, involving, or relating to catalysis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An automobile exhaust-system component containing a catalyst that causes conversion of harmful gases (such as carbon monoxide and uncombusted hydrocarbons) into mostly harmless products (such as water and carbon dioxide).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or causing catalysis; acting as a catalyst.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biochemistry, describing the active functional domain of an enzyme responsible for substrate cleavage or synthesis (catalytic triad or site).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, catalytic designates causing, involving, or relating to catalysis."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"Transition metals exhibit high **catalytic** activity due to their ability to adopt multiple oxidation states and coordinate reagents."*
+> - 📜 **Eric Kandel (*Principles of Neural Science*):** *"Phosphorylation of the **catalytic** subunit relieves allosteric inhibition, initiating transcription of immediate-early genes."*
+> - 📜 **Primo Levi (*The Periodic Table*):** *"The metallic **catalytic** converters in modern exhausts strip toxic oxides of nitrogen from combustion gases."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The monthly discharge of blood from the uterus of nonpregnant women from puberty to menopause; ; --hippocrates; --aristotle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The monthly discharge of blood from the uterus of nonpregnant women from puberty to menopause; ; --hippocrates; --aristotle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The periodic flow of blood and mucosal tissue from the uterus; the menses or menstruation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gynecological medicine, the cyclic physiological shed of endometrial tissue regulated by hypothalamic-pituitary-ovarian hormones.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, catamenia designates the monthly discharge of blood from the uterus of nonpregnant women from puberty to menopause; ; --hippocrates; --aristotle."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Severe chlorosis in young women was almost invariably accompanied by total suppression of the **catamenia** and marked pallor."*
+> - 📜 **Hippocrates (*Aphorisms*):** *"If a woman who is not pregnant suffers cessation of the **catamenia**, fever and pain in the loins commonly ensue."*
+> - 📜 **William Benjamin Carpenter (*Principles of Human Physiology*):** *"The periodic recurrence of the **catamenia** reflects the cyclical maturation and discharge of an ovum from the Graafian follicle."*

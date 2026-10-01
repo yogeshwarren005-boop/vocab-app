@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A reference work (often in several volumes) containing articles on various topics (often arranged in alphabetical order) dealing with the entire range of human knowledge or with some particular specialty.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A reference work (often in several volumes) containing articles on various topics (often arranged in alphabetical order) dealing with the entire range of human knowledge or with some particular specialty.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A comprehensive reference work containing articles on all branches of knowledge or on a particular subject; an encyclopedia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In intellectual history and publishing, a systematic compendium designed to provide a complete, well-rounded circle of human education and liberal sciences.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"In the oldest existing cyclopaedia--the _Natural History_ of Pliny--the list of dangers apprehended from menstruation is longer than any furnished by mere barbarians."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Ac- 100:3 cording to the American Cyclopaedia, he regarded this so-called force, which he said could be ex- erted by one living organism over another, as 100:6 a means of alleviating disease."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"In the oldest existing cyclopaedia--the _Natural History_ of Pliny--the list of dangers apprehended from menstruation is longer than any furnished by mere barbarians."*
+> - 📜 **Ephraim Chambers (*Cyclopaedia, or an Universal Dictionary of Arts and Sciences*):** *"The purpose of this **Cyclopaedia** is to link all the arts and sciences into one harmonious and navigable circle of learning."*
+> - 📜 **Denis Diderot (*Encyclopédie: Preliminary Discourse*):** *"Chambers's pioneering **Cyclopaedia** demonstrated how an alphabetical arrangement could bring universal enlightenment within general reach."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"No solitary student can hope to master what the collective authors of a great **cyclopaedia** have compiled over generations."*

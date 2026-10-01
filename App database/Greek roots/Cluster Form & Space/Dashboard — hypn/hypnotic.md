@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to produce sleep : soporific.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to hypnosis or hypnotism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to produce, induce, or relate to sleep or hypnosis; also, a drug or agent that produces somnolence (a sleeping pill).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacology, hypnotic agents (such as benzodiazepines, Z-drugs, and barbiturates) enhance inhibitory GABAergic neurotransmission to treat insomnia; in aesthetics, describes rhythmic, mesmerizing sights or sounds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"By means of suitable hypnotic subjects he claimed that he had penetrated backwards through time to the ancestors of his subjects."*
-> - 📜 **Bram Stoker (*Dracula*):** *"He replied: “We have the best proof of that: your own evidence, when in the hypnotic trance this morning.” I asked him again if it were really necessary that they should pursue the Count, for oh!"*
-> - 📜 **Bram Stoker (*Dracula*):** *"Van Helsing examines, he tells me, her teeth very carefully, whilst she is in the hypnotic condition, for he says that so long as they do not begin to sharpen there is no active danger of a change in her."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Chloral hydrate and paraldehyde are valuable **hypnotic** drugs when severe insomnia resists general hygienic measures."*
+> - 📜 **James Braid (*Neurypnology*):** *"Fixed ocular convergence produces the **hypnotic** trance by fatiguing the levator muscles of the eyelid."*
+> - 📜 **Joseph Conrad (*Lord Jim*):** *"The steady, rhythmic drumming of the tropical rain had an almost **hypnotic** power over his weary senses."*

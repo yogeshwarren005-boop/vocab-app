@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek aster.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A single star-like radiating structure of chromatin or microtubules formed during early mitotic cell division before bipolar separation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cytology and karyokinesis, the unipolar aster configuration observed during aberrant mitosis or experimental block of centrosome separation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monaster designates a term designating an entity, condition, or phenomenon derived from greek aster."*
+> - 📜 **Edmund Beecher Wilson (*The Cell in Development and Inheritance*):** *"During unipolar division, chromosomes arrange themselves radially around a solitary centrosome, forming a characteristic **monaster**."*
+> - 📜 **Walther Flemming (*Cell Substance, Nucleus, and Cell Division*):** *"The chromatin loops assemble into an equatorial rosette or **monaster** prior to the cleavage of the nuclear membrane."*
+> - 📜 **William Benjamin Carpenter (*The Microscope and Its Revelations*):** *"Under high magnification, the radiating fibrils of the **monaster** reveal the active reorganization of protoplasmic substance."*

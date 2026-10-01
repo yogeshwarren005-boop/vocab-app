@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Similarity of form.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Similarity of form.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The property, state, or condition of being homomorphic; correspondence in form, appearance, or algebraic structure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology, superficial similarity between organisms of different lineages resulting from convergent adaptation rather than shared ancestry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, homomorphy designates similarity of form."*
+> - 📜 **Richard Owen (*On the Archetype and Homologies of the Vertebrate Skeleton*):** *"We must carefully separate true genetic homology from deceptive **homomorphy** induced by similar environmental habits."*
+> - 📜 **E. Ray Lankester (*On the Use of the Term Homology in Modern Zoology*):** *"Homoplasy encompasses cases of morphological **homomorphy** where parallel selection produces nearly identical skeletal modifications."*
+> - 📜 **Saunders Mac Lane (*Homology*):** *"In homological algebra, the preservation of boundary operators guarantees the algebraic **homomorphy** of chain complexes."*

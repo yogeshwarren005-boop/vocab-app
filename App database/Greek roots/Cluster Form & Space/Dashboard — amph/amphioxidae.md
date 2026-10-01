@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lancelets.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lancelets.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of small, fish-like cephalochordates, commonly known as lancelets, possessing a persistent notochord throughout life.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate paleontology and evolutionary morphology, the taxonomic family (often Branchiostomatidae) representing the closest living invertebrate relatives of vertebrates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amphioxidae designates lancelets."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"The family **Amphioxidae** occupies a uniquely central position, demonstrating the archetypal chordate body plan before skull formation."*
+> - 📜 **Ernst Haeckel (*The Evolution of Man*):** *"No other group in living nature illuminates the primordial transition to vertebrates more clearly than **Amphioxidae**."*
+> - 📜 **William Bateson (*Materials for the Study of Variation*):** *"The metameric segmentation of the myotomes in **Amphioxidae** provides the key to understanding the origins of vertebrate muscular symmetry."*

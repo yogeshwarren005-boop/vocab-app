@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling a pyramid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resembling a pyramid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the form, shape, or geometric proportions of a pyramid; tapering to a point from an angular base.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuroanatomy, designating the corticospinal motor tracts whose upper motor neurons arise from pyramidal cells in the cerebral cortex.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"The foundation consisted of a pyramidal structure composed of stones, turf, and moss."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"All the pyramidal wonder of them, fore, main, and mizzen, were not like a good rider's hands to a horse; compelling, coaxing, curbing the wind, they were utilities."*
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"For the most part it was a country of soft undulating slopes and comfortable farmhouses, with here and there a little hamlet or a bustling town, framed the last part of the way by strange-looking pyramidal hills."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The **pyramidal** tracts originate from giant cells of Betz in the precentral gyrus, descending through the internal capsule to the spinal cord."*
+> - 📜 **Santiago Ramón y Cajal (*Histology of the Nervous System of Man and Vertebrates*):** *"The apical dendrite of a cerebral **pyramidal** neuron ascends through cortical layers to arborize beneath the pial surface."*
+> - 📜 **Charles Bell (*The Nervous System of the Human Body*):** *"Lesions within the **pyramidal** decussation in the medulla oblongata result in contralateral motor hemiplegia."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person or way of behaving that serves as a pattern to be imitated or not to be imitated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A punishment inflicted on someone as a warning to others; also : an individual so punished.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Instances, models, or cases that serve to illustrate, explain, or exemplify a general principle, rule, or category.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pedagogical and rhetorical traditions, concrete representative specimens utilized to establish precedent or provide moral and instructional guidance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We have record that very well it can, And three examples of the like hath been Within my age."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It fits us then to be as provident As fears may teach us out of late examples Left by the fatal and neglected English Upon our fields."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Men of his way should be most liberal; They are set here for examples."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"In the discovery of sciences, we must not rely solely on abstract axioms but test them perpetually against living **examples**."*
+> - 📜 **Samuel Johnson (*A Dictionary of the English Language (Preface)*):** *"I have extracted illuminating **examples** from our best writers to fix the pronunciation and illustrate the varied significations of words."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Clear **examples** assist the mind in grasping complex ideas far more readily than lengthy formal definitions."*

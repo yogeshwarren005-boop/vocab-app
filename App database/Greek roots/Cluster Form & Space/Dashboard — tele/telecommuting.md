@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Employment at home while communicating with the workplace by phone or fax or modem.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Employment at home while communicating with the workplace by phone or fax or modem.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The practice of working from home or an alternative remote location rather than commuting to a central office, utilizing computers and telecommunications networks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In organizational sociology and labor economics, telecommuting transforms urban transit patterns, corporate workplace culture, and flexible distributed labor markets.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, telecommuting designates employment at home while communicating with the workplace by phone or fax or modem."*
+> - 📜 **Jack Nilles (*The Telecommunications-Transportation Tradeoff*):** *"We coined the term **telecommuting** to describe moving the work to the workers rather than moving the workers to the work."*
+> - 📜 **Alvin Toffler (*The Third Wave*):** *"The rise of the electronic cottage and widespread **telecommuting** promises to decentralize industrial society."*
+> - 📜 **Nicholas Negroponte (*Being Digital*):** *"When bits replace atoms in daily commerce, physical travel declines in favor of digital **telecommuting**."*

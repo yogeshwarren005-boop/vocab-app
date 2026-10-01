@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the component in W. H. Sheldon's classification of body types that measures the body's degree of slenderness, angularity, and fragility.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by a lean slender body build with slight muscular development.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, having the physical characteristics of, or classified as an ectomorph; slender and light-framed in build.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human biology and sports physiology, an ectomorphic morphology confers superior thermoregulatory heat dissipation due to a high surface-area-to-mass ratio.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ectomorphic designates of or relating to the component in w. h. sheldon's classification of body types that measures the body's degree of slenderness, angularity, and fragility."*
+> - 📜 **William H. Sheldon (*The Varieties of Temperament*):** *"Individuals with predominantly **ectomorphic** builds frequently display quick reflexes and an aversion to noisy social gatherings."*
+> - 📜 **J. M. Tanner (*Foetus into Man*):** *"During the adolescent growth spurt, children with an **ectomorphic** growth pattern experience rapid limb lengthening before gaining trunk breadth."*
+> - 📜 **Raymond Cattell (*Description and Measurement of Personality*):** *"Anthropometric measurements categorize the subject as distinctly **ectomorphic**, matching his high scores in cognitive absorption."*

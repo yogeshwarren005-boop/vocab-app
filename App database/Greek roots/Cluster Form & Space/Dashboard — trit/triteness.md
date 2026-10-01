@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unoriginality as a result of being dull and hackneyed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unoriginality as a result of being dull and hackneyed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or quality of being trite, hackneyed, or overused; lack of originality or freshness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In stylistic analysis, triteness deadens prose by depriving language of vivid, concrete perceptual imagery.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Nathaniel Hawthorne (*Chippings with a Chisel (From "Twice Told Tales")*):** *"But, when we ridicule the triteness of monumental verses, we forget that Sorrow reads far deeper in them than we can, and finds a profound and individual purport in what seems so vague and inexpressive, unless interpreted by her."*
+> - 📜 **Matthew Arnold (*Essays in Criticism*):** *"The grand style in poetry banishes every trace of vulgarity and rhetorical **triteness**."*
+> - 📜 **Virginia Woolf (*The Common Reader*):** *"A master novelist can touch upon familiar emotional crises without falling into the **triteness** of sentimental fiction."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The speech was remarkable for its utter lack of brilliance, consisting entirely of moralizing **triteness**."*

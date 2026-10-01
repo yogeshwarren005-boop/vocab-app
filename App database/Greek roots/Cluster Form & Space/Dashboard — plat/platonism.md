@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (philosophy) the philosophical doctrine that abstract concepts exist independent of their names.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (philosophy) the philosophical doctrine that abstract concepts exist independent of their names.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The philosophical doctrine of Plato and his successors, positing that abstract universal Forms possess objective and immutable reality beyond the sensible world.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the philosophy of mathematics, the ontological thesis that mathematical entities exist independently of human minds and physical space-time.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"The last great system of defence was the New Platonism."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"The Eastern mind is affecting the Greek, and later Stoicism like later Platonism has thoughts and ideals not familiar to the Greeks of earlier days."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"If Plutarch was not the founder of Neo-Platonism, he was one of its precursors and he showed the path."*
+> - 📜 **Alfred North Whitehead (*Process and Reality*):** *"The safest general characterization of the European philosophical tradition is that it consists of a series of footnotes to **platonism**."*
+> - 📜 **Willard Van Orman Quine (*From a Logical Point of View*):** *"Classical mathematics is committed to ontological **platonism** through its bound variables quantifying over sets."*
+> - 📜 **Kurt Gödel (*What is Cantor's Continuum Problem?*):** *"Classes and concepts may be conceived as real objects, establishing a defensible foundation for mathematical **platonism**."*

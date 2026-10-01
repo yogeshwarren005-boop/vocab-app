@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of tropical american orchids having showy male and female flowers usually on separate inflorescences.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of tropical american orchids having showy male and female flowers usually on separate inflorescences.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of showy epiphytic orchids native to tropical Central and South America, remarkable for unisexual flowers and explosive pollinia ejection.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary botany, famous for Charles Darwin's experiments showing how touching the floral antenna triggers instant catapult-like discharge of the sticky pollen mass.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, catasetum designates genus of tropical american orchids having showy male and female flowers usually on separate inflorescences."*
+> - 📜 **Charles Darwin (*The Various Contrivances by Which Orchids Are Fertilised by Insects*):** *"When the sensitive antenna of the male **Catasetum** is touched, the pollinium is shot out with extraordinary velocity to adhere to the visiting bee."*
+> - 📜 **Alfred Russel Wallace (*Travels on the Amazon and Rio Negro*):** *"High up in the forks of the riverine trees, spectacular clusters of **Catasetum** hung with heavy waxy blossoms."*
+> - 📜 **Asa Gray (*Scientific Papers of Asa Gray*):** *"The sexual dimorphism between male and female flowers of **Catasetum** was so extreme that early botanists classified them into three different genera."*

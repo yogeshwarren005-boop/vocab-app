@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek spher.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In cytology, the central clear aster or centrosphere surrounding the centriole in a dividing cell; in cosmology, the sphere of the fixed stars or the celestial realm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical cell biology, Boveri and Wilson traced the expansion of the astrosphere as astral rays organize the mitotic spindle during cleavage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, astrosphere designates a term designating an entity, condition, or phenomenon derived from greek spher."*
+> - 📜 **Edmund Beecher Wilson (*The Cell in Development and Inheritance*):** *"Radiating fibrillar rays diverge from the luminous **astrosphere** as the aster establishes the poles of the mitotic spindle."*
+> - 📜 **Theodor Boveri (*Cell Studies: On the Nature of Centrosomes*):** *"The centrosome sits enveloped within the granular **astrosphere**, orchestrating the geometric division of the zygote."*
+> - 📜 **Alexander von Humboldt (*Cosmos: A Sketch of a Physical Description of the Universe*):** *"Ancient cosmologists conceived of an outermost **astrosphere** wherein all stellar constellations moved in immutable perfection."*

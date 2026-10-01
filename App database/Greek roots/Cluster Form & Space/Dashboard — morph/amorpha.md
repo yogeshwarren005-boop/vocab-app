@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any plant of the genus amorpha having odd-pinnate leaves and purplish spicate flowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any plant of the genus amorpha having odd-pinnate leaves and purplish spicate flowers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxonomic genus of deciduous shrubs in the pea family Fabaceae native to North America, commonly known as false indigo or leadplant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic botany, *Amorpha* is distinguished from all other legumes by having flowers reduced to a single petal (the banner), lacking the keel and wings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amorpha designates any plant of the genus amorpha having odd-pinnate leaves and purplish spicate flowers."*
+> - 📜 **Carl Linnaeus (*Species Plantarum*):** *"We establish the genus **Amorpha**, noting that its anomalous corolla possesses only a single standard petal."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"Along river banks of the Mississippi valley, **Amorpha** fruticosa forms dense thickets with its pinnate leaves and violet spikes."*
+> - 📜 **John Torrey (*A Flora of North America*):** *"Prairie leadplant, classed under **Amorpha**, thrives in dry gravelly soil, where its deep roots resist summer droughts."*

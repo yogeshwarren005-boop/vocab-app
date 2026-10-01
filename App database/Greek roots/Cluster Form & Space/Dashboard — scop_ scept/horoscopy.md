@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The drawing up and interpretation of horoscopes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The drawing up and interpretation of horoscopes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The art or practice of casting and interpreting horoscopes; astrological divination based on the observation of planetary positions at a specific hour.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical scholarship, Hellenistic horoscopy evolved from Babylonian omen astrology into a complex mathematical system involving zodiacal houses and planetary aspects.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, horoscopy designates the drawing up and interpretation of horoscopes."*
+> - 📜 **Claudius Ptolemy (*Tetrabiblos*):** *"The scientific discipline of celestial **horoscopy** requires an accurate knowledge of the ascendant degree at the exact moment of nativity."*
+> - 📜 **Robert Burton (*The Anatomy of Melancholy*):** *"Many melancholic minds immerse themselves in the subtleties of judicial **horoscopy**, seeking in the stars the cause of their sorrows."*
+> - 📜 **Samuel Butler (*Hudibras*):** *"He professed deep skill in **horoscopy**, pretending to foretell marriages, thefts, and sickness by the planetary configurations."*

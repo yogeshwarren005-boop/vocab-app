@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: hindbrain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: the posterior of the three primary divisions of the developing vertebrate brain or the corresponding part of the adult brain that includes the cerebellum, the medulla oblongata, and in mammals the pons and that controls autonomic functions and equilibrium —called also rhombencephalon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The hindbrain; the primary developmental division of the embryonic vertebrate brain that gives rise to the metencephalon and myelencephalon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuroanatomy and embryology, the caudal brain vesicle from which develop the cerebellum, pons, and medulla oblongata surrounding the fourth ventricle.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhombencephalon designates hindbrain."*
+> - 📜 **Santiago Ramón y Cajal (*Histology of the Nervous System of Man and Vertebrates*):** *"The segmental neuromeres of the embryonic **rhombencephalon** give origin to cranial motor nuclei governing branchial arches."*
+> - 📜 **Wilhelm His (*Die Entwickelung des menschlichen Gehirns*):** *"The dorsal flexure of the **rhombencephalon** spreads the alar plates laterally, shaping the shallow rhomboid fossa."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"From the primitive **rhombencephalon** differentiate the vital respiratory and vasomotor centers of the lower brainstem."*

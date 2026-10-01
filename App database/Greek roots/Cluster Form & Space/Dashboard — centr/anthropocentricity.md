@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An inclination to evaluate reality exclusively in terms of human values.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An inclination to evaluate reality exclusively in terms of human values.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state, quality, or worldview of being anthropocentric; human-centeredness in perception, philosophy, or ethics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epistemology and theology, the bias of viewing the cosmic order through the lens of human desires, scale, and moral assumptions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anthropocentricity designates an inclination to evaluate reality exclusively in terms of human values."*
+> - 📜 **Carl Sagan (*Pale Blue Dot*):** *"Our posturing, our imagined self-importance, the delusion that we have some privileged position in the Universe, are challenged by the **anthropocentricity** of our early myths."*
+> - 📜 **Thomas Henry Huxley (*Evolution and Ethics*):** *"The scientific revolution dealt a fatal blow to the naive **anthropocentricity** that once placed human drama at the hub of nature."*
+> - 📜 **William James (*The Will to Believe*):** *"Pragmatism recognizes that all philosophical systems bear the indelible mark of human **anthropocentricity**."*

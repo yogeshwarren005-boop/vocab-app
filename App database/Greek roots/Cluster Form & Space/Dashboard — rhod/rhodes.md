@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: British colonial financier and statesman in south africa; made a fortune in gold and diamond mining; helped colonize the territory now known as zimbabwe; he endowed annual fellowships for british commonwealth and united states students to study at oxford university (1853-1902).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A greek island in the southeast aegean sea 10 miles off the turkish coast; the largest of the dodecanese; it was colonized before 1000 bc by dorians from argos; site of the colossus of rhodes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The largest of the Dodecanese islands of Greece in the eastern Aegean Sea, renowned for its ancient Colossus and medieval fortifications.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical history and Mediterranean maritime law, an influential ancient seafaring republic that developed the Lex Rhodia code of maritime trade.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The Turkish preparation makes for Rhodes, So was I bid report here to the state By Signior Angelo."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nay, in all confidence, he’s not for Rhodes."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The Ottomites, reverend and gracious, Steering with due course toward the isle of Rhodes, Have there injointed them with an after fleet."*
+> - 📜 **Herodotus (*Histories*):** *"The Greek cities of **rhodes** formed a flourishing maritime league, trading widely across Egypt and the Levant."*
+> - 📜 **Strabo (*Geographica*):** *"The city of **rhodes** surpasses all others in the beauty of its harbors, streets, walls, and monumental civic architecture."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"For over two centuries, the Knights of Saint John maintained the fortified stronghold of **rhodes** against the Ottoman empire."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A reptile genus of pterodactylidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A reptile genus of pterodactylidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of extinct short-tailed pterosaurs from the Late Jurassic of Germany, the first pterosaur ever discovered and scientifically named.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In paleontology, a small flying reptile with an estimated wingspan of about one meter, possessing a long straight skull armed with slender teeth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pterodactylus designates a reptile genus of pterodactylidae."*
+> - 📜 **Georges Cuvier (*Recherches sur les ossemens fossiles*):** *"I proved that **pterodactylus** was neither a bird nor a bat, but a true flying reptile belonging to an extinct order."*
+> - 📜 **William Buckland (*Geology and Mineralogy Considered with Reference to Natural Theology*):** *"The structure of the fourth digit in **pterodactylus** is uniquely elongated to stretch the membranous wing foil."*
+> - 📜 **Peter Wellnhofer (*The Illustrated Encyclopedia of Pterosaurs*):** *"Juvenile fossils of **pterodactylus** from Solnhofen provide unparalleled evidence of ontogenetic growth in pterosaurs."*

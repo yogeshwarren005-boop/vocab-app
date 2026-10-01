@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make less central.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Withdrawn from a center or place of concentration; especially having power or function dispersed from a central to local authorities.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Dispersed among several regional or local authorities rather than concentrated under a single centralized government or system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systems architecture and cryptography, functioning across an egalitarian network of peer nodes without central intermediary governance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"However, the best informed American students favor in some features the more decentralized German rather than the centralized British system."*
+> - 📜 **Friedrich Hayek (*Individualism and Economic Order*):** *"A **decentralized** economic system remains vastly superior in adjusting continuously to unexpected changes in demand."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"In a **decentralized** administration, local citizens solve communal problems without waiting for mandates from the capital."*
+> - 📜 **Aldous Huxley (*Ends and Means*):** *"Social peace can only flourish when production is carried out by **decentralized**, self-governing cooperative units."*

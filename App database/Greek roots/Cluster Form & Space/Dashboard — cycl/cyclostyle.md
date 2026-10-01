@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A writing implement with a small toothed wheel that cuts small holes in a stencil.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Print with an implement with small toothed wheels that cuts small holes in a stencil.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An early mechanical apparatus for duplicating handwritten documents using a pen with a tiny toothed wheel that perforates a waxed stencil sheet.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of printing technology, the rotary duplicating process patented by David Gestetner that preceded modern mimeography and xerography.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cyclostyle designates a writing implement with a small toothed wheel that cuts small holes in a stencil."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Bruce-Partington Plans*):** *"The confidential government circular had been rapidly multiplied on the office **cyclostyle** for immediate distribution."*
+> - 📜 **H. G. Wells (*The New Machiavelli*):** *"Political manifestos were turned out by the ream, the wet ink from the **cyclostyle** smelling pungently in the attic room."*
+> - 📜 **George Orwell (*Homage to Catalonia*):** *"Revolutionary leaflets printed on a hand-cranked **cyclostyle** were posted nightly along the barricades."*

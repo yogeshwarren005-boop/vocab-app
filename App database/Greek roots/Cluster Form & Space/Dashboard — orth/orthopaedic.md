@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to orthopedics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to orthopedics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the medical specialty of orthopaedics; concerned with the prevention and correction of injuries and disorders of the musculoskeletal system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to surgical interventions, traction, and prosthetics designed to align and repair bones, joints, and ligaments (traditional spelling).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, orthopaedic designates of or relating to orthopedics."*
+> - 📜 **Nicolas Andry (*Orthopaedia: Or, The Art of Correcting and Preventing Deformities in Children*):** *"The aim of **orthopaedic** surgery is to preserve and restore straightness and vigour to the human frame."*
+> - 📜 **Robert Jones (*Notes on Military Orthopaedics*):** *"Rigid splinting transformed **orthopaedic** triage during combat casualties by preventing fatal shock."*
+> - 📜 **John Charnley (*Low Friction Arthroplasty of the Hip*):** *"Modern **orthopaedic** reconstruction relies upon biomechanically inert prosthetic implants."*

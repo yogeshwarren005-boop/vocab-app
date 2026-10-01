@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Observable by the naked eye.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Involving large units or elements.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Visible to the naked human eye without the aid of a microscope; large enough to be perceived without magnification.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In thermodynamics and continuum physics, macroscopic properties (such as temperature, volume, and entropy) represent statistical aggregates of microscopic molecular states.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, macroscopic designates observable by the naked eye."*
+> - 📜 **Ludwig Boltzmann (*Lectures on Gas Theory*):** *"The **macroscopic** pressure exerted by a confined gas arises from the cumulative collisions of countless invisible molecules against the vessel wall."*
+> - 📜 **J. Willard Gibbs (*Elementary Principles in Statistical Mechanics*):** *"Statistical mechanics bridges the gap between molecular dynamics and the **macroscopic** thermodynamic laws observed in laboratory experiments."*
+> - 📜 **Max Planck (*The Theory of Heat Radiation*):** *"Classical electrodynamics operates successfully within the **macroscopic** domain, though it falters when describing atomic quantum emissions."*

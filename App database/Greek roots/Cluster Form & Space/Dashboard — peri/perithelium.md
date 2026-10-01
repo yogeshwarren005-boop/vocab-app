@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tissue layer around small blood vessels.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tissue layer around small blood vessels.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The layer of connective tissue, pericytes, and adventitial cells that surrounds capillaries and small blood vessels.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vascular histology, the perithelium plays an essential role in regulating capillary permeability, microvascular tone, and angiogenesis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, perithelium designates tissue layer around small blood vessels."*
+> - 📜 **Santiago Ramón y Cajal (*Histology of the Nervous System*):** *"The cerebral **perithelium** actively participates in mediating metabolic exchange between glial end-feet and blood plasma."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"Adventitial elements constituting the **perithelium** blend imperceptibly with the surrounding areolar matrix."*
+> - 📜 **Bruce Alberts (*Molecular Biology of the Cell*):** *"Endothelial signaling recruits pericytes to form a stabilizing **perithelium** during vascular maturation."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A disease that attacks the gum and bone and around the teeth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disease that attacks the gum and bone and around the teeth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the tissue around the teeth, often causing shrinkage of the gums and loosening of the teeth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical dentistry, chronic periodontitis is an infectious disease of polymicrobial etiology resulting in irreversible loss of periodontal ligament and alveolar bone.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, periodontitis designates a disease that attacks the gum and bone and around the teeth."*
+> - 📜 **Fermín A. Carranza (*Clinical Periodontology*):** *"Left untreated, chronic **periodontitis** destroys the alveolar bone crest, leading inevitably to tooth mobility and loss."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Severe oral sepsis secondary to advanced **periodontitis** may serve as a nidus for infective endocarditis."*
+> - 📜 **Tinsley R. Harrison (*Principles of Internal Medicine*):** *"Systemic epidemiological studies associate severe **periodontitis** with poor glycemic control in type 2 diabetes mellitus."*

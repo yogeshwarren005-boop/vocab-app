@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek oxy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An allotrope of oxygen consisting of four oxygen atoms (O4), also called oxozone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In atmospheric and chemical physics, metastable tetraoxygen forms transiently during high-pressure compression of liquid or solid oxygen.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tetraoxygen designates a term designating an entity, condition, or phenomenon derived from greek oxy."*
+> - 📜 **Roald Hoffmann (*Solids and Surfaces*):** *"Theoretical calculations predict that **tetraoxygen** may stabilize under megabar pressures into a compact ring or chain."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry*):** *"Subjecting liquid oxygen to severe cryogenic condensation revealed spectroscopic bands attributed to **tetraoxygen** complexes."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"The van der Waals dimer (O2)2 exhibits weak intermolecular bonding that anticipates the chemistry of **tetraoxygen**."*

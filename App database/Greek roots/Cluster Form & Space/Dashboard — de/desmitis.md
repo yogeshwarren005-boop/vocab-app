@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek de.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of a ligament, occurring typically as a sports or occupational strain injury in human and equine veterinary medicine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In orthopedics and veterinary biomechanics, chronic desmitis can lead to fibrocartilaginous metaplasia and ligamentous laxity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, desmitis designates a term designating an entity, condition, or phenomenon derived from greek de."*
+> - 📜 **Wayne McIlwraith (*Diagnostic and Surgical Arthroscopy in the Horse*):** *"Suspensory **desmitis** represents one of the most debilitating soft tissue injuries in performance horses."*
+> - 📜 **J. A. Auer (*Equine Surgery*):** *"Ultrasound evaluation of ligamentous architecture remains crucial for monitoring recovery from acute **desmitis**."*
+> - 📜 **S. Dyson (*Diagnosis and Management of Lameness in the Horse*):** *"Conservative management of collateral **desmitis** requires strict rest followed by controlled mechanical loading."*

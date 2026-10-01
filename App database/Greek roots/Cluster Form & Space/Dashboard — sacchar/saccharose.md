@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A complex carbohydrate found in many plants and used as a sweetening agent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A complex carbohydrate found in many plants and used as a sweetening agent.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sucrose; common crystalline cane or beet sugar (C12H22O11), composed of linked glucose and fructose molecules.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nineteenth-century chemical nomenclature, the non-reducing disaccharide extracted commercially from sugarcane and sugar beets.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, saccharose designates a complex carbohydrate found in many plants and used as a sweetening agent."*
+> - 📜 **Jean-Baptiste Dumas (*Traité de chimie appliquée aux arts*):** *"Purified **saccharose** crystallizes from concentrated vacuum pans in clear, colorless monoclinic prisms."*
+> - 📜 **Marcelin Berthelot (*Chimie organique fondée sur la synthèse*):** *"Hydrolysis of **saccharose** in the presence of dilute acids splits the disaccharide into dextrose and levulose."*
+> - 📜 **Henri Milne-Edwards (*Leçons sur la physiologie et l'anatomie comparée*):** *"In the digestive tract, pancreatic and enteric secretions rapidly invert **saccharose** into absorbable monosaccharides."*

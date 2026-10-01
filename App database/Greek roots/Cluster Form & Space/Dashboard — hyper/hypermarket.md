@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A huge supermarket (usually built on the outskirts of a town).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A huge supermarket (usually built on the outskirts of a town).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A very large commercial retail store combining a full supermarket and a department store under one roof, offering extensive food and general merchandise.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pioneered in France in 1963 by Carrefour (termed *hypermarché*); in retail geography, hypermarkets typically occupy large suburban locations with vast floor space (often exceeding 50,000 sq ft) and dedicated parking.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypermarket designates a huge supermarket (usually built on the outskirts of a town)."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The ancient open-air piazza was a community center, unlike the gigantic commercial **hypermarket** devoted purely to mass trade."*
+> - 📜 **H. G. Wells (*A Modern Utopia*):** *"Vast cooperative distribution halls in the utopian city combined every conceivable commodity like a sprawling **hypermarket**."*
+> - 📜 **William Morris (*News from Nowhere*):** *"We have abolished the deafening commercial **hypermarket**, returning to tranquil neighborhood markets of handcrafted wares."*

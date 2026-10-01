@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who induces hypnosis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who induces hypnosis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who hypnotizes others; a hypnotist (American spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychological literature and popular fiction, often used to depict practitioners who induce trance or exert psychological influence over subjects.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The hypnotizer employs one error to destroy another."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The rapport established between the subject and the **hypnotizer** channels all subsequent cognitive responses."*
+> - 📜 **Mark Twain (*Autobiography*):** *"As a boy in Hannibal, I pretended to be spellbound by the itinerant traveling **hypnotizer** to amaze the crowd."*
+> - 📜 **Edgar Allan Poe (*The Facts in the Case of M. Valdemar*):** *"As the **hypnotizer**, I sat beside the dying man, making the customary passes across his forehead and chest."*

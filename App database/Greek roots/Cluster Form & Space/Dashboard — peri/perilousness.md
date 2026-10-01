@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being dangerous.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being dangerous.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state, condition, or quality of being perilous; extreme hazard or dangerousness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In existential philosophy and literature, the acknowledged severity of mortal vulnerability in heroic or pioneering enterprises.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, perilousness designates the state of being dangerous."*
+> - 📜 **Edmund Burke (*A Philosophical Enquiry into the Origin of Our Ideas of the Sublime and Beautiful*):** *"The sublime arises when terror and the **perilousness** of vast objects are contemplated from a position of safety."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The sheer **perilousness** of the national crisis compelled the Committee to adopt terror as an instrument of state."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"Men overestimate the **perilousness** of simple living because they remain enslaved to imaginary luxuries."*

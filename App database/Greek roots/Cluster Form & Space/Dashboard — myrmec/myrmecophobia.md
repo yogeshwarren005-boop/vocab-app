@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek myrmec.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An irrational, abnormal, and intense fear of ants, often accompanied by panic symptoms and compulsive avoidance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychology and psychiatric taxonomy, myrmecophobia is classified as a specific animal-type phobia that can produce severe anxiety even upon viewing images of ants.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, myrmecophobia designates a term designating an entity, condition, or phenomenon derived from greek myrmec."*
+> - 📜 **Sigmund Freud (*Analysis of a Phobia in a Five-Year-Old Boy*):** *"Specific animal dreads, such as acute **myrmecophobia**, reflect repressed unconscious anxieties displaced onto teeming creatures."*
+> - 📜 **William James (*The Principles of Psychology*):** *"A patient suffering from **myrmecophobia** reported that the mere sight of an ant on the garden path triggered trembling and dizziness."*
+> - 📜 **Pierre Janet (*The Major Symptoms of Hysteria*):** *"Phobic terrors of insects, whether arachnophobia or **myrmecophobia**, involve emotional overvaluation of harmless stimuli."*

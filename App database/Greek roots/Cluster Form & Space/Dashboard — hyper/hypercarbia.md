@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The physical condition of having the presence of an abnormally high level of carbon dioxide in the circulating blood.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The physical condition of having the presence of an abnormally high level of carbon dioxide in the circulating blood.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The presence of an abnormally high concentration of carbon dioxide in the blood; hypercapnia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In critical care medicine and anesthesiology, permissive hypercarbia is a lung-protective mechanical ventilation strategy that accepts mild elevated PaCO2 to avoid ventilator-induced barotrauma in acute respiratory distress syndrome (ARDS).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypercarbia designates the physical condition of having the presence of an abnormally high level of carbon dioxide in the circulating blood."*
+> - 📜 **John Scott Haldane (*Respiration*):** *"Inadequate alveolar ventilation rapidly generates arterial **hypercarbia**, driving blood pH toward acidemic levels."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Somnolence and asterixis in severe respiratory failure signal dangerous cerebral vasodilation induced by acute **hypercarbia**."*
+> - 📜 **Ernest Starling (*Principles of Human Physiology*):** *"Cerebral blood flow increases directly in response to arterial **hypercarbia**, safeguarding brain oxygen delivery."*

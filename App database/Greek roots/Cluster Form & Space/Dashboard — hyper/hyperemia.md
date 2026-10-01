@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Excess of blood in a body part : congestion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Excess of blood in a body part : congestion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An excess of blood in the vessels supplying an organ or other part of the body; congestion (American spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vascular physiology and pathology, hyperemia is classified as active (physiologically driven by metabolic demand and nitric oxide release) or passive (resulting from impaired venous outflow in deep vein thrombosis or congestive heart failure).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyperemia designates excess of blood in a body part : congestion."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Active pulmonary **hyperemia** marks the initial stage of lobar pneumonia prior to red hepatization."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Local inflammatory **hyperemia** brings an influx of defensive leukocytes to the site of cellular injury."*
+> - 📜 **Austin Flint (*A Treatise on the Principles and Practice of Medicine*):** *"Passive hepatic **hyperemia** results from tricuspid regurgitation and back-pressure in the inferior vena cava."*

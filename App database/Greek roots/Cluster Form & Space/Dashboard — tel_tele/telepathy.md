@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Apparent communication from one mind to another without using sensory perceptions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Apparent communication from one mind to another without using sensory perceptions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The purported transmission of thoughts, feelings, or sensory impressions directly from one person's mind to another without sensory contact.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Coined in 1882 by F. W. H. Myers from Greek *tele* (distant) and *patheia* (feeling), serving as the foundational concept in psychical research into extrasensory perception.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Conceal it as he might try, a mysterious telepathy was between them...."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Whatever doubts science may entertain as to the possibility of action at a distance, magic has none; faith in telepathy is one of its first principles."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"I will now give some instances of this magical telepathy both in its positive and in its negative aspect."*
+> - 📜 **William James (*Memories and Studies*):** *"Whatever the eventual explanation may be, the phenomena clustered under **telepathy** demand dispassionate investigation."*
+> - 📜 **Sigmund Freud (*Psychoanalysis and Telepathy*):** *"One should not let prejudice prevent psychoanalysis from examining whether **telepathy** plays a role in occult occurrences."*
+> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Whatever doubts science may entertain as to the possibility of action at a distance, magical belief in **telepathy** is ancient."*

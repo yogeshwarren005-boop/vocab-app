@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bulldog ants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bulldog ants.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxonomic genus of large, aggressive ants native to Australia, commonly known as bull ants or bulldog ants, equipped with powerful stinging venom and large mandibles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In myrmecology and evolutionary entomology, Myrmecia represents one of the most basal living ant lineages, displaying solitary foraging and primitive social behaviors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, myrmecia designates bulldog ants."*
+> - 📜 **William Morton Wheeler (*Ants: Their Structure, Development and Behavior*):** *"The giant Australian bull ant **Myrmecia** retains primitive wasp-like traits, hunting by keen vision rather than chemical trails."*
+> - 📜 **E. O. Wilson (*The Insect Societies*):** *"Colonies of **Myrmecia** exhibit simple social structures with small worker populations and independent foraging strategies."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"Naturalists in the southern continent quickly learn to respect the venomous sting and formidable jaws of **Myrmecia**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek i.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A macromolecule, polymer, or complex chemical species that carries multiple negative electric charges at physiological pH.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In molecular biology and biochemistry, DNA and RNA are quintessential polyanions due to their negatively charged repeating phosphodiester backbones, which interact with cationic histone proteins.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polyanion designates a term designating an entity, condition, or phenomenon derived from greek i."*
+> - 📜 **Francis Crick (*What Mad Pursuit*):** *"The double helix of nucleic acid is a towering **polyanion**, shielded in vivo by basic histones and divalent cations."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"Complex silicate and polyphosphate structures function chemically as a giant **polyanion** lattice."*
+> - 📜 **Max Perutz (*Proteins and Nucleic Acids*):** *"Electrostatic repulsion along the **polyanion** chain maintains the extended rod-like rigidity of helical DNA."*

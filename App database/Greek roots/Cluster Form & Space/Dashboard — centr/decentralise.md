@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make less central.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make less central.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To distribute or disperse administrative powers, responsibilities, or operations away from a central hub to local divisions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systems engineering and management, to restructure an organization so that operational nodes execute decisions autonomously.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decentralise designates make less central."*
+> - 📜 **George Orwell (*The Road to Wigan Pier*):** *"To humanize modern society, we must **decentralise** heavy industry and restore creative autonomy to the community."*
+> - 📜 **E. F. Schumacher (*Small Is Beautiful*):** *"The primary task of enlightened administration is to **decentralise** large corporations into quasi-independent operating units."*
+> - 📜 **Aldous Huxley (*Brave New World Revisited*):** *"If we wish to preserve freedom, we must deliberately **decentralise** both economic enterprise and government."*

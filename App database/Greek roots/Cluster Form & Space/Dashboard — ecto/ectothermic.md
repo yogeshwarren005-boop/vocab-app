@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of animals except birds and mammals; having body temperature that varies with the environment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of animals except birds and mammals; having body temperature that varies with the environment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or being an ectotherm; dependent on external environmental heat sources.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate paleontology and evolutionary biology, debating whether extinct archosaurs and theropods were ectothermic or endothermic.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ectothermic designates of animals except birds and mammals; having body temperature that varies with the environment."*
+> - 📜 **Stephen Jay Gould (*The Panda's Thumb*):** *"The debate over dinosaur physiology challenged the classical assumption that all giant reptiles were sluggishly **ectothermic**."*
+> - 📜 **Robert T. Bakker (*The Dinosaur Heresies*):** *"High predator-to-prey ratios in fossil communities argue against purely **ectothermic** metabolisms in predatory dinosaurs."*
+> - 📜 **David Attenborough (*Life on Earth*):** *"Lizards survive in arid deserts by mastering an **ectothermic** lifestyle that economizes both food and water."*

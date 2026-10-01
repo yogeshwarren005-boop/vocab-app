@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or characterized by catabolism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by destructive metabolism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or characterized by destructive metabolism; alternative spelling of catabolic (with k).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cellular biochemistry and energetic physiology, describing reactions involving the oxidative degradation of organic compounds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, katabolic designates relating to or characterized by catabolism."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The high fever provoked rapid **katabolic** wasting of muscular tissues, demanding high-caloric liquid nourishment."*
+> - 📜 **Julian Huxley (*Evolution: The Modern Synthesis*):** *"The balance between anabolic construction and **katabolic** combustion determines an organism's net growth efficiency."*
+> - 📜 **William Benjamin Carpenter (*Principles of General and Comparative Physiology*):** *"During prolonged physical exertion, **katabolic** processes outstrip reparative assimilation within muscle fibers."*

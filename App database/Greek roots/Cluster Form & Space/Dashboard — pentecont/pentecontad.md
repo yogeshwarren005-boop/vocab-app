@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek pentecont.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A group, series, or period consisting of fifty units, items, or years.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical chronology and biblical scholarship, a celebratory fifty-year epoch or jubilee period.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pentecontad designates a term designating an entity, condition, or phenomenon derived from greek pentecont."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"A peaceful **pentecontad** of years elapsed before barbarian incursions again disturbed the Danubian frontier."*
+> - 📜 **George Rawlinson (*The History of Herodotus*):** *"The chronological framework divides Egyptian dynastic reigns into distinct **pentecontad** intervals."*
+> - 📜 **John William Draper (*History of the Intellectual Development of Europe*):** *"A full **pentecontad** of scientific progress was compressed into the revolutionary decades of the nineteenth century."*

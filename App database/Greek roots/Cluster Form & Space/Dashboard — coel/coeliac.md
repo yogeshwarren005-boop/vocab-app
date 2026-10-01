@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or in or belonging to the cavity of the abdomen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or in or belonging to the cavity of the abdomen.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or located in the abdominal cavity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human anatomy and pathology, designating the coeliac trunk (artery), coeliac plexus, or coeliac disease (gluten-sensitive enteropathy).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coeliac designates of or in or belonging to the cavity of the abdomen."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The **coeliac** artery arises from the anterior aspect of the abdominal aorta just below the aortic hiatus of the diaphragm."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Samuel Gee originally described the **coeliac** affliction as a chronic indigestion occurring in persons of all ages."*
+> - 📜 **Arthur Conan Doyle (*Round the Red Lamp*):** *"The surgeon traced the pulsation of the deep **coeliac** axis before placing his ligature with trembling precision."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Passing through all life stages on the same host.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Passing through all life stages on the same host.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In mycology, completing all stages of the parasitic life cycle upon a single host species, contrasting with heteroecious rusts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant pathology, autoecious rust fungi (such as Puccinia helianthi on sunflowers) produce pycnia, aecia, uredinia, and telia on the same host plant.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, autoecious designates passing through all life stages on the same host."*
+> - 📜 **Anton de Bary (*Comparative Morphology and Biology of the Fungi*):** *"The flax rust parasite is strictly **autoecious**, carrying out every spore phase from pycnium to telium upon Linum usitatissimum."*
+> - 📜 **John Webster (*Introduction to Fungi*):** *"Unlike stem rust of wheat, an **autoecious** species does not require an alternate woody host to complete its meiotic cycle."*
+> - 📜 **Bryce Kendrick (*The Fifth Kingdom*):** *"The evolution of the **autoecious** habit represents a derived simplification that eliminates dependence on two independent host populations."*

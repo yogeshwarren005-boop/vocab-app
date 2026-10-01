@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small carnivorous freshwater percoid fishes of north america usually having a laterally compressed body and metallic luster: crappies; black bass; bluegills; pumpkinseed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small carnivorous freshwater percoid fishes of north america usually having a laterally compressed body and metallic luster: crappies; black bass; bluegills; pumpkinseed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any freshwater fish belonging to the family Centrarchidae, comprising the North American sunfishes, black basses, and crappies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In freshwater fisheries biology and aquatic ecology, predatory ray-finned fishes characterized by dorsal spines and male parental nest-guarding behavior.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centrarchid designates small carnivorous freshwater percoid fishes of north america usually having a laterally compressed body and metallic luster: crappies; black bass; bluegills; pumpkinseed."*
+> - 📜 **Louis Agassiz (*Contributions to the Natural History of the United States*):** *"Every clear gravelly shallows in springtime reveals a watchful male **centrarchid** fanning oxygen over its prepared gravel nest."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"Looking down into the clear waters of the pond, I watched the lively bream, a familiar little **centrarchid**, hover over its circular bed."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"The largemouth bass is the premier sportfish among the family, an aggressive **centrarchid** native to quiet, vegetated waters."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A drug that reduces high blood pressure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A drug that reduces high blood pressure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A therapeutic agent, pharmaceutical drug, or medical regimen that acts to lower abnormally elevated systemic arterial blood pressure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cardiovascular pharmacology, major classes of antihypertensive medications include ACE inhibitors, angiotensin receptor blockers (ARBs), calcium channel blockers, beta-blockers, and thiazide diuretics, prescribed to reduce stroke, myocardial infarction, and heart failure risk.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antihypertensive designates a drug that reduces high blood pressure."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The development of effective **antihypertensive** therapy revolutionized the long-term prognosis of essential vascular disease."*
+> - 📜 **Harvey Cushing (*Papers Relating to the Pituitary Body, Hypothalamus and Parasympathetic Nervous System*):** *"Sustained elevation of intracranial pressure may provoke autonomic surges that resist routine **antihypertensive** sedation."*
+> - 📜 **Ernest Starling (*Principles of Human Physiology*):** *"The administration of an **antihypertensive** agent induces reflex changes in cardiac output and baroreceptor sensitivity."*

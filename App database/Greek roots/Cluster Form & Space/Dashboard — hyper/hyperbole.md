@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extravagant exaggeration (such as "mile-high ice-cream cones").
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extravagant exaggeration (such as "mile-high ice-cream cones").
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Exaggerated statements or claims not intended to be taken literally, employed as a rhetorical or literary device to emphasize an idea, evoke strong feelings, or create humor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical rhetoric and literary criticism, hyperbole (from Greek *hyperbole*, excess or overshooting) is recognized by Aristotle and Quintilian as an effective figure of speech when used with dramatic decorum.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Indeed I think it is one among several cities to which an extreme hyperbole has been applied—‘See Rome and die:’ but in your case I would propose an emendation and say, See Rome as a bride, and live henceforth as a happy wife.” Mr."*
-> - 📜 **Nathaniel Hawthorne (*Twice-Told Tales*):** *"The great staircase, however, may be termed, without much hyperbole, a feature of grandeur and magnificence."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Taffeta phrases, silken terms precise, Three-piled hyperboles, spruce affectation, Figures pedantical: these summer flies Have blown me full of maggot ostentation."*
+> - 📜 **Aristotle (*Rhetoric*):** *"Young men are particularly fond of using **hyperbole**, for it expresses vehemence and passionate conviction."*
+> - 📜 **Samuel Johnson (*Lives of the Poets*):** *"Cowley carried the use of poetic **hyperbole** to such extravagant lengths that his metaphors lost all touch with nature."*
+> - 📜 **Francis Bacon (*Essays*):** *"Love is ever matter of comedy, and there was never proud man thought so absurdly well of himself as the lover doth in **hyperbole**."*

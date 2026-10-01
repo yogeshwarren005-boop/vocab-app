@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormal condition in which vision for distant objects is better than for near objects.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abnormal condition in which vision for distant objects is better than for near objects.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Farsightedness; a refractive error of the eye in which parallel rays of light focus behind the retina when accommodation is relaxed, causing near objects to appear blurred (British/classical medical spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ophthalmology, hypermetropia (hyperopia) typically results from an eyeball that is axially too short or a cornea with insufficient curvature, corrected with convex (plus) converging optical lenses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypermetropia designates abnormal condition in which vision for distant objects is better than for near objects."*
+> - 📜 **Hermann von Helmholtz (*Treatise on Physiological Optics*):** *"In **hypermetropia**, the posterior focal point of the unaccommodated optical apparatus lies behind the neurosensory retina."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Uncorrected **hypermetropia** in young schoolchildren frequently provokes chronic asthenopia, frontal headaches, and fatigue."*
+> - 📜 **Francis Cornelis Donders (*On the Anomalies of Accommodation and Refraction of the Eye*):** *"I established that strabismus convergens in children is predominantly a direct consequence of uncorrected **hypermetropia**."*

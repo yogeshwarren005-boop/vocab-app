@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek oec.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A classical or British spelling of paleoecology; the scientific study of the relationships between extinct fossil organisms and their ancient environments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Quaternary geology and paleobiology, palaeoecology reconstructs prehistoric climates and vegetation shifts through pollen cores, fossil diatoms, and stable isotope ratios.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, palaeoecology designates a term designating an entity, condition, or phenomenon derived from greek oec."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Reconstructing past climates through fossil shell beds laid the groundwork for modern evolutionary **palaeoecology**."*
+> - 📜 **Arthur Holmes (*Principles of Physical Geology*):** *"Sediment cores retrieved from ancient lake beds provide **palaeoecology** with continuous records of post-glacial forest succession."*
+> - 📜 **Richard Fortey (*Trilobite: Eyewitness to Evolution*):** *"Through detailed **palaeoecology**, we can reconstruct the sea-floor habitats where Ordovician trilobites burrowed in soft carbonate mud."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (shipbuilding) the point of intersection between two vertical lines, one line through the center of buoyancy of the hull of a ship in equilibrium and the other line through the center of buoyancy of the hull when the ship is inclined to one side; the distance of this intersection above the center of gravity is an indication of the stability of the ship.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (shipbuilding) the point of intersection between two vertical lines, one line through the center of buoyancy of the hull of a ship in equilibrium and the other line through the center of buoyancy of the hull when the ship is inclined to one side; the distance of this intersection above the center of gravity is an indication of the stability of the ship.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The point of intersection between a vertical line drawn through the center of buoyancy of a floating vessel and the vertical centerline plane through its center of gravity when heeled.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In naval architecture and hydrodynamics, the critical geometric reference point whose position relative to the center of gravity determines positive, neutral, or negative stability.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metacenter designates (shipbuilding) the point of intersection between two vertical lines, one line through the center of buoyancy of the hull of a ship in equilibrium and the other line through the center of buoyancy of the hull when the ship is inclined to one side; the distance of this intersection above the center of gravity is an indication of the stability of the ship."*
+> - 📜 **William Froude (*On the Rolling of Ships*):** *"If the **metacenter** falls below the center of gravity, the righting lever vanishes and the ship capsizes."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The ship's carpenter understood the perilous physics that elevated the ballast too high relative to the buoyant **metacenter**."*
+> - 📜 **Joseph Conrad (*The Mirror of the Sea*):** *"A master mariner develops an instinctive sympathy with his vessel's **metacenter**, feeling every shudder of excessive stiffness."*

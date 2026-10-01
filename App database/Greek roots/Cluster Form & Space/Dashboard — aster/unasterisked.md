@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not marked with an asterisk.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not marked with an asterisk.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not marked, designated, or noted with an asterisk (*).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In bibliographies, academic indices, and critical editions, describing standard entries or attested linguistic forms that require no qualification.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unasterisked designates not marked with an asterisk."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"Attested forms recorded in ancient Sanskrit inscriptions remain **unasterisked** in comparative tables."*
+> - 📜 **Samuel Johnson (*Preface to Shakespeare*):** *"Those readings which possess unanimous support in early quartos are left **unasterisked** for the general reader."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The ordinary, **unasterisked** titles in the library inventory attracted little notice from the antiquarian collector."*

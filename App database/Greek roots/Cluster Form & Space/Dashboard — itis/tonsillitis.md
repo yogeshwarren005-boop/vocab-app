@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the tonsils.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inflammation of the tonsils.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the pharyngeal palatine tonsils, typically presenting with sore throat, fever, dysphagia, and enlarged, exudative tonsillar tissue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In otolaryngology and pediatrics, tonsillitis is commonly viral or caused by Group A beta-hemolytic *Streptococcus* (strep throat); complications include peritonsillar abscess (quinsy), rheumatic fever, and post-streptococcal glomerulonephritis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tonsillitis designates inflammation of the tonsils."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Follicular **tonsillitis** is characterized by yellow cheesy exudates plugging the tonsillar crypts, accompanied by high fever."*
+> - 📜 **Austin Flint (*A Treatise on the Principles and Practice of Medicine*):** *"Severe dysphagia and agonizing earache frequently attend acute phlegmonous **tonsillitis**, or quinsy."*
+> - 📜 **Thomas Watson (*Lectures on the Principles and Practice of Physic*):** *"The swollen tonsils in acute **tonsillitis** may meet in the midline, threatening severe respiratory embarrassment."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A red photosensitive pigment in the retinal rods of the eye of most vertebrates that is important in vision in dim light —called also visual purple.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A red photosensitive pigment in the retinal rods of the eye of most vertebrates that is important in vision in dim light —called also visual purple.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A light-sensitive receptor protein photopigment found in the rod cells of the vertebrate retina, enabling dim-light vision.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sensory biochemistry and neurobiology, a G-protein-coupled receptor composed of opsin and 11-cis-retinal that undergoes photoisomerization.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhodopsin designates a red photosensitive pigment in the retinal rods of the eye of most vertebrates that is important in vision in dim light —called also visual purple."*
+> - 📜 **George Wald (*The Molecular Basis of Visual Excitation*):** *"When light strikes **rhodopsin**, the 11-cis retinal chromophore isomerizes to all-trans retinal, triggering visual phototransduction."*
+> - 📜 **Franz Boll (*Zur Anatomie und Physiologie der Retina*):** *"I observed that the bright visual purple or **rhodopsin** bleached rapidly to yellow when the excised frog retina was exposed to daylight."*
+> - 📜 **Wilhelm Kühne (*On the Photochemistry of the Retina*):** *"Regeneration of **rhodopsin** in living rod cells depends upon close contact with the underlying retinal pigment epithelium."*

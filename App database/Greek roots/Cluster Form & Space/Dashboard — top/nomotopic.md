@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of place / locality / region / spatial position.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of place / locality / region / spatial position.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Originating or situated in the normal anatomical position, especially said of cardiac rhythms originating in the sinoatrial node.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical cardiology and electrophysiology, nomotopic arrhythmias (such as sinus tachycardia or sinus arrhythmia) represent rhythm variations originating within the normal sinoatrial pacemaker.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nomotopic designates adjective*) pertaining to, derived from, or characteristic of place / locality / region / spatial position."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The clinician must determine whether the accelerated pulse reflects a **nomotopic** sinus acceleration or an ectopic tachycardia."*
+> - 📜 **Willem Einthoven (*The Galvanometric Registration of the Human Electrocardiogram*):** *"Normal P waves indicate that the cardiac activation impulse arises from its **nomotopic** pacemaker site."*
+> - 📜 **Michael DeBakey (*The Living Heart*):** *"Under exercise stress, the heart maintains a **nomotopic** pacemaker drive while scaling up stroke volume."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek tem.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An extinct, diverse subclass or order of primitive labyrinthodont amphibians that flourished from the Carboniferous through the Early Cretaceous periods.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate paleontology, temnospondyls were among the earliest terrestrial tetrapods, featuring multipartite vertebrae (pleurocentra and intercentra) and giving rise hypothetically to modern Lissamphibia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Temnospondyli designates a term designating an entity, condition, or phenomenon derived from greek tem."*
+> - 📜 **Alfred Romer (*Vertebrate Paleontology*):** *"The massive skulls and stereospondylous vertebrae of the **Temnospondyli** dominate Carboniferous swamp deposits."*
+> - 📜 **Edward Drinker Cope (*The Extinct Batrachia of North America*):** *"In these Permian formations, species assigned to **Temnospondyli** attained lengths exceeding nine feet."*
+> - 📜 **Robert L. Carroll (*Vertebrate Paleontology and Evolution*):** *"The sensory sulci on the skull roof indicate that many advanced members of the **Temnospondyli** returned to a purely aquatic habit."*

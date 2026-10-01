@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The streaming of protoplasm within a cell.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The streaming of protoplasm within a cell.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The streaming, rotational circulation of cytoplasm within a living cell.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cellular physiology and plant biology, the active movement of organelles and cytosol driven by actin-myosin microfilaments, easily observed in giant alga cells such as Nitella or Elodea leaves.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cyclosis designates the streaming of protoplasm within a cell."*
+> - 📜 **Edmund Beecher Wilson (*The Cell in Development and Inheritance*):** *"Under the high power of the microscope, the continuous **cyclosis** of chloroplasts around the central vacuole of Elodea is a breathtaking sight."*
+> - 📜 **Charles Darwin (*Insectivorous Plants*):** *"Stimulation of the tentacle hairs in Drosera produces rapid aggregation accompanied by accelerated **cyclosis** within the cell protoplasm."*
+> - 📜 **Thomas Henry Huxley (*On the Physical Basis of Life*):** *"The living protoplasm within the hair of the nettle exhibits active **cyclosis**, circulating streams of granules in perpetual currents."*

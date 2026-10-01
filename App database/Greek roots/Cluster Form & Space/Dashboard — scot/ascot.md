@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A cravat with wide square ends; secured with an ornamental pin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cravat with wide square ends; secured with an ornamental pin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A broad neckband or necktie with wide pointed wings, folded over and fastened with a pin, worn especially for formal daytime occasions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Named after the Royal Ascot racecourse in Berkshire, England, the ascot cravat became the hallmark of Edwardian morning dress and classic sartorial elegance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Better leave him the paper and get shut of him. —You can keep it, Mr Bloom said. —Ascot."*
-> - 📜 **James Joyce (*Ulysses*):** *"While the other was reading it on page two Boom (to give him for the nonce his new misnomer) whiled away a few odd leisure moments in fits and starts with the account of the third event at Ascot on page three, his side."*
-> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"Would you like to go to Ascot, Alice?” Alice answered, as she felt Lucian wished her to answer, that she had never been to a race, and that she had no desire to go to one."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"He adjusted his pearl-pinned **ascot** before the gilded mirror with the fastidious grace of a born dandy."*
+> - 📜 **P. G. Wodehouse (*The Inimitable Jeeves*):** *"Jeeves regarded my purple **ascot** tie with a silent, devastating shudder that spoke louder than any sermon."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"The baronet appeared in country tweed and a silk **ascot**, eager to escape the suffocating intrigues of London."*

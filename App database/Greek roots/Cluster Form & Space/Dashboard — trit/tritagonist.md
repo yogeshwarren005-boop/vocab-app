@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek trit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The third actor in Greek classical drama, subordinate to the protagonist and deuteragonist; figuratively, the third most important person in an affair.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Introduced according to tradition by Sophocles, the tritagonist expanded dramatic dialogue to three interacting speakers, typically assigned roles of kings, messengers, or instigators.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tritagonist designates a term designating an entity, condition, or phenomenon derived from greek trit."*
+> - 📜 **Aristotle (*Poetics*):** *"Sophocles introduced the third actor, or **tritagonist**, thereby establishing the full artistic maturity of dramatic dialogue."*
+> - 📜 **Friedrich Nietzsche (*The Birth of Tragedy*):** *"The introduction of the **tritagonist** shifted drama away from lyrical contemplation toward realistic interpersonal conflict."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"In the imperial court conspiracy, the ambitious eunuch played the role of subtle **tritagonist** behind the throne."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of middle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of middle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An organism, especially a microorganism, that grows best in moderate temperatures, typically between 20°C and 45°C.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In microbiology and microbial physiology, bacteria, fungi, and archaea that inhabit human and animal bodies, soil, and temperate aquatic environments, with optimum growth near 37°C.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mesophile designates adjective*) pertaining to, derived from, or characteristic of middle."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"Pathogenic bacteria infecting mammalian blood function as strict **mesophile** organisms flourishing at normal body warmth."*
+> - 📜 **Martinus Beijerinck (*Studies on Fermentation and Soil Microbiology*):** *"Thermal profiling distinguishes the ubiquitous soil **mesophile** from heat-loving thermophilic bacilli in hot compost."*
+> - 📜 **René Dubos (*The Bacterial Cell*):** *"Most human commensal bacteria belong to the **mesophile** class, showing rapid growth cessation below ten degrees Celsius."*

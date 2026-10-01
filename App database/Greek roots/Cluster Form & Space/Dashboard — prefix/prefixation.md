@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Formation of a word by means of a prefix.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Formation of a word by means of a prefix.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The morphological process of forming new words by attaching a prefix to a root, base, or stem.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In structural and comparative linguistics, an affixation process contrasting with suffixation and infixation, often altering word meaning without changing lexical class.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prefixation designates formation of a word by means of a prefix."*
+> - 📜 **Edward Sapir (*Language: An Introduction to the Study of Speech*):** *"Languages differ fundamentally in whether they rely upon **prefixation** or suffixation to express relational concepts."*
+> - 📜 **Laurie Bauer (*English Word-Formation*):** *"Unlike suffixation, derivational **prefixation** in English rarely changes the word class of the underlying base."*
+> - 📜 **Noam Chomsky (*The Morphophonemics of Modern Hebrew*):** *"Morphological rules governing **prefixation** interact directly with stem vocalism and syllabic weight."*

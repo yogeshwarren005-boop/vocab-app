@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek xer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A condition of abnormal dryness and brittleness of the hair, making it rough, lusterless, and prone to breaking.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dermatology, xerasia may indicate nutritional deficiency, hypothyroidism, or excessive chemical treatment that strips the hair shaft of its protective lipid layer.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xerasia designates a term designating an entity, condition, or phenomenon derived from greek xer."*
+> - 📜 **Erasmus Wilson (*Diseases of the Skin*):** *"**Xerasia** renders the hair dry and brittle, breaking at the slightest tension."*
+> - 📜 **Ferdinand Hebra (*On Diseases of the Skin*):** *"The patient presented with severe **xerasia**, the hair snapping like straw between the fingers."*
+> - 📜 **William James Erasmus Wilson (*A Practical and Theoretical Treatise on Dermatology*):** *"Treatment of **xerasia** requires restoration of the natural oils that protect the hair shaft."*

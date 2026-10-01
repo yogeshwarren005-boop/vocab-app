@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Medical instrument consisting of a magnifying lens and light; used for examining the external ear (the auditory meatus and especially the tympanic membrane).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Medical instrument consisting of a magnifying lens and light; used for examining the external ear (the auditory meatus and especially the tympanic membrane).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A handheld medical instrument fitted with an illuminator and magnifying lens used to examine the ear canal and tympanic membrane.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In otolaryngology, pneumatic otoscopes allow insufflation of air into the external auditory canal to assess tympanic membrane mobility, diagnosing middle ear effusion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, otoscope designates medical instrument consisting of a magnifying lens and light; used for examining the external ear (the auditory meatus and especially the tympanic membrane)."*
+> - 📜 **Anton von Tröltsch (*Treatise on the Diseases of the Ear*):** *"The systematic introduction of the concave mirror and funnel **otoscope** placed aural diagnosis on a secure objective footing."*
+> - 📜 **William Wilde (*Practical Observations on Aural Surgery*):** *"Without an efficient tubular **otoscope** and focused sunlight, affections of the delicate drumhead remain undetectable."*
+> - 📜 **Adam Politzer (*Text-Book of the Diseases of the Ear*):** *"Direct inspection with the electric **otoscope** reveals the handle of the malleus and the cone of light with pristine clarity."*

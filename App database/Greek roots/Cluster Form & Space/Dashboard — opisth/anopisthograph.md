@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek opisth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A manuscript, inscription, or document that is written on one side only, as opposed to an opisthograph which bears writing on both recto and verso.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In papyrology and codicology, an anopisthograph indicates that the reverse of a scroll or sheet was left blank, suggesting either luxury use of material or a single-purpose document.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anopisthograph designates a term designating an entity, condition, or phenomenon derived from greek opisth."*
+> - 📜 **Frederic G. Kenyon (*Books and Readers in Ancient Greece and Rome*):** *"Most literary papyri were **anopisthograph**, with the text written along the fibers on the recto alone."*
+> - 📜 **Eric Turner (*Greek Papyri: An Introduction*):** *"An **anopisthograph** roll was the norm for high-quality literary editions in Ptolemaic Alexandria."*
+> - 📜 **William A. Johnson (*Bookrolls and Scribes in Oxyrhynchus*):** *"The deliberately **anopisthograph** format of the roll signaled the prestige and intended permanence of the text."*

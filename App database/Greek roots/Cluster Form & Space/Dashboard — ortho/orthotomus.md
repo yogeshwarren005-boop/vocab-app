@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tailorbirds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tailorbirds.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of small Old World insectivorous warblers of the family Cisticolidae, commonly known as tailorbirds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ornithology, birds of the genus Orthotomus are celebrated for stitching leaves together with plant fibers or spider silk to build cradle-like nests.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, orthotomus designates tailorbirds."*
+> - 📜 **John Gould (*The Birds of Asia*):** *"The ingenuity of the genus **Orthotomus** in stitching leaves together into a protective nest is unparalleled among passerines."*
+> - 📜 **Edward Blyth (*The Natural History of the Cranes and Other Birds*):** *"In Indian gardens, species of **Orthotomus** flit restlessly among dense shrubbery with elevated tails."*
+> - 📜 **Ernst Mayr (*Systematics and the Origin of Species*):** *"Geographic variation in the genus **Orthotomus** provides an instructive study in insular speciation across the Indo-Malayan archipelago."*

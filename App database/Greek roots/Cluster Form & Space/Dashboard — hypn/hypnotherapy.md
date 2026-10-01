@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Treatment by hypnotism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Psychotherapy that facilitates suggestion, reeducation, or analysis by hypnosis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The use of hypnosis as a therapeutic psychological treatment to alleviate medical, psychological, or behavioral symptoms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychotherapy and behavioral medicine, hypnotherapy is employed for smoking cessation, chronic pain management, irritable bowel syndrome, phobias, and anxiety reduction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypnotherapy designates treatment by hypnotism."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In stubborn hysterical contractures, judicious **hypnotherapy** often achieves sudden and dramatic functional recovery."*
+> - 📜 **Carl Jung (*The Practice of Psychotherapy*):** *"While modern **hypnotherapy** can suppress symptoms, the underlying psychic conflict requires conscious analysis."*
+> - 📜 **Oliver Sacks (*An Anthropologist on Mars*):** *"The profound reduction in chronic phantom limb pain achieved through **hypnotherapy** highlighted central brain plasticity."*

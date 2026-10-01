@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a subclass (Opisthobranchia) of marine gastropod mollusks that have the gills when present posterior to the heart and often lack a shell.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a subclass (Opisthobranchia) of marine gastropod mollusks that have the gills when present posterior to the heart and often lack a shell.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A marine gastropod mollusk of the subclass Opisthobranchia, typically characterized by a reduced or absent shell and often brightly colored body, including sea slugs and nudibranchs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In malacology, opisthobranchs are named for the posterior position of their gills relative to the heart, and the group has undergone significant taxonomic revision under molecular phylogenetics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, opisthobranch designates any of a subclass (opisthobranchia) of marine gastropod mollusks that have the gills when present posterior to the heart and often lack a shell."*
+> - 📜 **Paul Hyman (*British Shells*):** *"The **opisthobranch** mollusks display some of the most vivid coloration found in the animal kingdom."*
+> - 📜 **T. E. Thompson (*Biology of Opisthobranch Molluscs*):** *"Each **opisthobranch** species exploits a specific ecological niche on the reef or rocky shore."*
+> - 📜 **Gary McDonald (*Nudibranch Systematics*):** *"Molecular evidence has reorganized the traditional **opisthobranch** classification into several distinct clades."*

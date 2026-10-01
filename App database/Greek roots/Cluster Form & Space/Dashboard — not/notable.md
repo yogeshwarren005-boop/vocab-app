@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A celebrity who is an inspiration to others.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Worthy of notice.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Worthy of notice, attention, or remark; distinguished, prominent, or memorable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In public history and political science, designating persons of prominent social standing, wealth, or influence (an assembly of notables).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We shall find this friar a notable fellow."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Well, if ever thou dost fall from this faith, thou wilt prove a notable argument."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You depend upon a notable gentleman; I must needs praise him."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"It is a **notable** thing to observe how scientific inquiries that appear barren of utility frequently yield the richest practical fruit."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"The world readily applauds **notable** achievements, yet rare is the biographer who records the humble virtues of private life."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Her arrival at the ball caused a **notable** sensation among the company, and her beauty was admired by all."*

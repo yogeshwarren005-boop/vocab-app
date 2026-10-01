@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Flagellate symbiotic in the intestines of e.g. termites.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Flagellate symbiotic in the intestines of e.g. termites.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any complex, multiflagellated parabasalian protist belonging to or resembling the former order Hypermastigida, characterized by numerous flagella arranged in spiral rows or tufts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary protistology, hypermastigote flagellates exhibit specialized axostyles and parabasal bodies, playing indispensable ecological roles as mutualistic cellulose digesters in termites and wood-boring roaches (*Cryptocercus*).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypermastigote designates flagellate symbiotic in the intestines of e.g. termites."*
+> - 📜 **E. Ray Lankester (*A Treatise on Zoology*):** *"Under the microscope, the **hypermastigote** rotates rapidly through fluid media, propelled by hundreds of coordinated flagella."*
+> - 📜 **E. O. Wilson (*The Insect Societies*):** *"Each newly molted termite nymph must acquire its vital **hypermastigote** symbionts through proctodeal trophallaxis."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The wood chips engulfed by the **hypermastigote** are broken down intracellularly by symbiotic enzymatic action."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the pericardium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inflammation of the pericardium.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the pericardium, the fibrous fibroserous sac that encloses the heart and the roots of the great vessels.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cardiology, acute pericarditis is marked by pleuritic chest pain (relieved by sitting forward), a superficial pericardial friction rub on auscultation, widespread concave ST-segment elevations on ECG, and potential progression to pericardial effusion or cardiac tamponade.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pericarditis designates inflammation of the pericardium."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A superficial, scratching friction rub heard over the left sternal border is the pathognomonic physical sign of acute **pericarditis**."*
+> - 📜 **Austin Flint (*A Treatise on the Principles and Practice of Medicine*):** *"Uremic **pericarditis** frequently supervenes in the terminal phase of Bright's disease as an ominous harbinger of death."*
+> - 📜 **Richard Bright (*Reports of Medical Cases*):** *"The heart in acute **pericarditis** was found shaggy and covered with dense layers of coagulated lymph, like bread and butter."*

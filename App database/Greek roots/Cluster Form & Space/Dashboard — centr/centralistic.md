@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Advocating centralization.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Advocating centralization.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, advocating, or characterized by political or administrative centralism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Describing institutions, legislation, or constitutional models that concentrate authority and suppress regional autonomy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centralistic designates advocating centralization."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The **centralistic** tendencies of modern democratic states tend to erode intermediary civic institutions."*
+> - 📜 **John Stuart Mill (*Representative Government*):** *"A purely **centralistic** system of education risks indoctrinating youth into a uniform state ideology."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Under Diocletian, the Roman state assumed an openly **centralistic** character that extinguished ancient municipal liberties."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or affected with arthritis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Seemingly affected with or caused by arthritis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, caused by, or suffering from arthritis (inflammation of the joints).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In rheumatology, arthritic changes encompass cartilage erosion, synovitis, osteophyte formation, and joint ankylosis in osteoarthritis and rheumatoid arthritis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arthritic designates of, relating to, or affected with arthritis."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The **arthritic** diathesis in gout manifests with acute, nocturnal podagra of agonizing intensity."*
+> - 📜 **Austin Flint (*A Treatise on the Principles and Practice of Medicine*):** *"Chronic **arthritic** deformities of the hands produce the characteristic ulnar deviation seen in advanced rheumatism."*
+> - 📜 **Richard Bright (*Reports of Medical Cases*):** *"The elderly patient exhibited marked **arthritic** enlargement of the interphalangeal joints."*

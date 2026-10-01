@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hoodlike structure in a plant; especially : haploid tissue forming a membranous hood over the capsule in a moss.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hoodlike structure in a plant; especially : haploid tissue forming a membranous hood over the capsule in a moss.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cap-like or hood-like protective covering; in mosses, the membranous hood covering the capsule; in vascular plants, the protective root cap.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In bryology and plant morphogenesis, the enlarged archegonial tissue that shields the developing moss sporophyte from desiccation until spore maturation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calyptra designates a hoodlike structure in a plant; especially : haploid tissue forming a membranous hood over the capsule in a moss."*
+> - 📜 **William Benjamin Carpenter (*The Microscope and Its Revelations*):** *"As the moss capsule matures, the conical **calyptra** is cast off, revealing the operculum and peristome teeth beneath."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"The growing tip of every primary root is shielded by a cellular cap or **calyptra** that pushes through abrasive soil."*
+> - 📜 **John Lindley (*An Introduction to Botany*):** *"In the genus Eucalyptus, the floral perianth forms a hardened **calyptra** that detaches as an opercular lid at anthesis."*

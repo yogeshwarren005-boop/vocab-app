@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the biological science of entomology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the biological science of entomology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to entomology, the scientific study of insects.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biological nomenclature, denoting field collections, specimen preparation, and morphological keys applied to insect classification and pest management.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, entomologic designates of or relating to the biological science of entomology."*
+> - 📜 **Jean-Henri Fabre (*The Life of the Spider*):** *"My small garden observatory afforded endless opportunities for meticulous **entomologic** research."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"The Moluccas proved a paradise for **entomologic** discovery, yielding beetles and butterflies of unmatched splendor."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The vast diversity recorded in every standard **entomologic** catalog demonstrates the ceaseless action of natural selection."*

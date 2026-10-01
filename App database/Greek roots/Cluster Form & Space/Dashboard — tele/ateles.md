@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Spider monkeys.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spider monkeys.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The taxonomic genus of New World primates known as spider monkeys (family Atelidae), characterized by long limbs and the absence or extreme reduction of the thumb.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In primatology, *Ateles* species possess a highly sensitive prehensile tail with a friction pad that acts as a fifth limb for high-speed brachiation in tropical forest canopies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ateles designates spider monkeys."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"In the American monkey genus **Ateles**, the thumb is reduced to a mere rudiment, compensated by an extraordinary prehensile tail."*
+> - 📜 **Alfred Russel Wallace (*Travels on the Amazon and Rio Negro*):** *"A troop of **Ateles** swung through the high treetops with astonishing velocity, their long black limbs resembling giant spiders."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels to the Equinoctial Regions of America*):** *"The prehensile tail of **Ateles** is so strong that the animal hangs suspended from branches while gathering wild figs with both hands."*

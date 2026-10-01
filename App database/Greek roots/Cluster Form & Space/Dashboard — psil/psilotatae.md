@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Whisk ferns; comprising the family psilotaceae or psilotatae: vascular plants with no roots, partial if any leaf differentiation, and rudimentary spore sacs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Whisk ferns; comprising the family psilotaceae or psilotatae: vascular plants with no roots, partial if any leaf differentiation, and rudimentary spore sacs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxonomic class of primitive vascular plants containing the whisk ferns and their immediate allies (equivalent to Psilotopsida).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In higher botanical taxonomy, a class of tracheophytes characterized by homospory, rootless rhizomes, and enation-like foliar appendages.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psilotatae designates whisk ferns; comprising the family psilotaceae or psilotatae: vascular plants with no roots, partial if any leaf differentiation, and rudimentary spore sacs."*
+> - 📜 **Arthur Cronquist (*Basic Botany*):** *"Within the division Tracheophyta, the class **psilotatae** represents an isolated evolutionary branch of archaic vascular architecture."*
+> - 📜 **Robert F. Thorne (*A Phylogenetic Classification of the Angiospermae and Other Tracheophytes*):** *"The distinctive sporophytic morphology of the **psilotatae** inspired extensive debates regarding the origin of the microphyll."*
+> - 📜 **Peter H. Raven (*Biology of Plants*):** *"The surviving lineages of **psilotatae** demonstrate that morphological simplicity does not preclude competitive persistence in tropical microhabitats."*

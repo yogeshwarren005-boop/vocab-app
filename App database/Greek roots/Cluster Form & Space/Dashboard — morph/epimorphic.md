@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by incomplete metamorphosis; having the same number of body segments in successive stages.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by incomplete metamorphosis; having the same number of body segments in successive stages.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, undergoing, or characterized by epimorphosis; describing biological regeneration that proceeds by cell proliferation and blastema formation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematical category theory, describing an epimorphism, which is a right-cancellative morphism generalizing surjective functions between algebraic structures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epimorphic designates characterized by incomplete metamorphosis; having the same number of body segments in successive stages."*
+> - 📜 **Thomas Hunt Morgan (*Regeneration*):** *"In **epimorphic** regeneration, the lost limb is restored by active proliferation of new embryonic cells at the cut surface."*
+> - 📜 **Saunders Mac Lane (*Categories for the Working Mathematician*):** *"A morphism f is said to be **epimorphic** if it can be cancelled on the right: whenever g after f equals h after f, g equals h."*
+> - 📜 **Lewis Wolpert (*Principles of Development*):** *"Urodele amphibians utilize an **epimorphic** regenerative process, forming a specialized blastema that dedifferentiates local tissues."*

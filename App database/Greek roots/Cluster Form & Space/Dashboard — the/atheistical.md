@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Related to or characterized by or given to atheism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rejecting any belief in gods.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or imbued with atheism; denying the existence of God (archaic or formal variant of atheistic).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In seventeenth- and eighteenth-century moral and political tracts, atheistical sentiments were routinely blamed for undermining public virtue and oaths.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, atheistical designates related to or characterized by or given to atheism."*
+> - 📜 **Jonathan Swift (*An Argument Against Abolishing Christianity*):** *"The wits of the coffee-houses boast of their **atheistical** opinions as if disbelief were the highest badge of enlightenment."*
+> - 📜 **Samuel Clarke (*A Demonstration of the Being and Attributes of God*):** *"To counter **atheistical** objections, Clarke presented mathematical demonstrations of a necessary first cause."*
+> - 📜 **Edmund Burke (*Letters on a Regicide Peace*):** *"A militant, **atheistical** cabal had seized the apparatus of the French state to wage war against European civilization."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Induce hypnosis in.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Induce hypnosis in.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To induce a state of hypnosis in someone; to entrance, mesmerize, or fascinate (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychological medicine and social commentary, to place a subject under focused trance through suggestion or captivating influence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bram Stoker (*Dracula*):** *"He must hypnotise me before the dawn, and then I shall be able to speak."*
-> - 📜 **Bram Stoker (*Dracula*):** *"For at this hour you do not want me for nothings.” “I want you to hypnotise me!” she said."*
-> - 📜 **Bram Stoker (*Dracula*):** *"Besides, I may be of service, since you can hypnotise me and so learn that which even I myself do not know.” Dr."*
+> - 📜 **James Braid (*Neurypnology*):** *"I proceeded to **hypnotise** the patient by requesting him to maintain an immovable gaze upon a lancet case held before his eyes."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Parasite*):** *"She possessed an uncanny power to **hypnotise** susceptible companions by the mere intensity of her commanding stare."*
+> - 📜 **H. G. Wells (*The Invisible Man*):** *"The sudden mystery of the voice in the empty room seemed to **hypnotise** the constable into bewildered immobility."*

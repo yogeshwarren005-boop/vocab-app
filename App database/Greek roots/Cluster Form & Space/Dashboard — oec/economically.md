@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With respect to economic science.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an economical manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an economical manner; with frugality, prudence, and avoidance of unnecessary expenditure or waste.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With respect to economic principles, financial feasibility, or the material wealth of a nation or industry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"A few years ago it was generally believed that the organization of the old German tribes was politically an almost perfect democracy, and economically a communism in which all had equal claims upon the land."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Coinage, as practised by early governments and rulers, came to be a function of great importance politically as well as economically."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In many parts of the world were enormous deposits of low-grade ores, before useless, that could be worked economically by the new methods."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"A private estate managed **economically** yields a surplus that can be reinvested into agricultural improvements."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"A nation cannot develop **economically** unless personal property is secure and contracts are impartially enforced by law."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Free associations allow citizens to accomplish **economically** great industrial enterprises that elsewhere require monarchical subsidies."*

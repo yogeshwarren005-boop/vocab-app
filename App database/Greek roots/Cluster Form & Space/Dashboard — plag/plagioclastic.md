@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to plagioclase.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to plagioclase.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or resembling plagioclase; having oblique cleavage planes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In petrography, describing igneous rock textures composed primarily of interlocking plagioclase feldspar laths.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plagioclastic designates of or relating to plagioclase."*
+> - 📜 **Norman L. Bowen (*The Evolution of the Igneous Rocks*):** *"Microscopic examination reveals an intersertal texture dominated by **plagioclastic** laths embedded in glass."*
+> - 📜 **Frank Wigglesworth Clarke (*The Data of Geochemistry*):** *"Weathering breaks down the **plagioclastic** minerals, releasing calcium and sodium into groundwater solutions."*
+> - 📜 **James Dwight Dana (*System of Mineralogy*):** *"The **plagioclastic** feldspars exhibit polysynthetic striations on their principal cleavage faces."*

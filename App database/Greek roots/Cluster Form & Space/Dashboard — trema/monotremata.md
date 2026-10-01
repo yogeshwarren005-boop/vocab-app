@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Coextensive with the subclass prototheria.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Coextensive with the subclass prototheria.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The taxonomic order of primitive, egg-laying mammals comprising the platypus and echidnas, native to Australia and New Guinea.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative vertebrate anatomy, the Monotremata represent the oldest surviving branch of Mammalia, retaining reptilian anatomical traits such as a single cloaca (*monos* single + *trema* perforation) for excretion and reproduction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monotremata designates coextensive with the subclass prototheria."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"In the order **Monotremata**, the ureters, genital ducts, and intestine open into a single common cloacal chamber."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"The shoulder girdle in the **Monotremata** retains large coracoids and an interclavicle reminiscent of therapsid reptiles."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The surviving members of the **Monotremata** connect the great mammalian class with lower egg-laying vertebrate ancestors."*

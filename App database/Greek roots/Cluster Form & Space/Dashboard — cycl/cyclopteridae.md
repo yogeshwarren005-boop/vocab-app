@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lumpfishes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lumpfishes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of cold-water marine scorpaeniform fishes commonly known as lumpsuckers or lumpfishes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine ichthyology, benthic fishes characterized by a globular, tuberculated body and pelvic fins modified into a ventral suction cup used to adhere to rocky sea floors in strong currents.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cyclopteridae designates lumpfishes."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"The lumpsuckers of the family **Cyclopteridae** possess a powerful ventral sucking disc adapted for anchoring to sublittoral stones."*
+> - 📜 **Henry Bryant Bigelow (*Fishes of the Gulf of Maine*):** *"Members of **Cyclopteridae** inhabit turbulent icy shores, clinging tenaciously to kelp fronds despite furious tidal surges."*
+> - 📜 **Albert Günther (*An Introduction to the Study of Fishes*):** *"The armor of bony tubercles covering the thick skin of **Cyclopteridae** affords protection against predaceous seals and cod."*

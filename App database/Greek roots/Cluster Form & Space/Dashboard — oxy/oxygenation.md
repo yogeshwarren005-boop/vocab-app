@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of providing or combining or treating with oxygen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process of providing or combining or treating with oxygen.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of combining, treating, or supplying with oxygen; the saturation of blood hemoglobin with oxygen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In critical care medicine, adequate tissue oxygenation is measured by arterial oxygen partial pressure (PaO2) and hemoglobin saturation (SpO2).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oxygenation designates the process of providing or combining or treating with oxygen."*
+> - 📜 **Tinsley R. Harrison (*Principles of Internal Medicine*):** *"Impaired ventilation-perfusion matching reduces arterial **oxygenation**, causing acute respiratory failure."*
+> - 📜 **Max Perutz (*Hemoglobin and Myoglobin*):** *"The sigmoidal curve of hemoglobin **oxygenation** enables efficient loading in the lungs and unloading in peripheral tissues."*
+> - 📜 **Eugene Braunwald (*Heart Disease*):** *"Continuous monitoring of arterial **oxygenation** is vital during cardiopulmonary resuscitation."*

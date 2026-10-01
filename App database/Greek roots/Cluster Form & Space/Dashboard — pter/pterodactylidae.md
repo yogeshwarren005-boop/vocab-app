@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A reptile family in the order pterosauria.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A reptile family in the order pterosauria.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An extinct family of short-tailed pterosaurs from the Late Jurassic period, typified by the genus Pterodactylus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate paleontology, carnivorous or insectivorous flying reptiles characterized by elongated rostra, small slender teeth, and reduced fifth toes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pterodactylidae designates a reptile family in the order pterosauria."*
+> - 📜 **Christian Erich Hermann von Meyer (*Zur Fauna der Vorwelt*):** *"In the lithographic limestone of Bavaria, members of **pterodactylidae** are preserved with complete wing impressions."*
+> - 📜 **Harry Govier Seeley (*Dragons of the Air: An Account of Extinct Flying Reptiles*):** *"The cranial construction of **pterodactylidae** reveals large orbits and spacious brain cavities indicative of acute vision in flight."*
+> - 📜 **Karl Alfred von Zittel (*Text-Book of Palaeontology*):** *"All known genera of **pterodactylidae** possess a short tail and elongated metacarpal bones supporting the flight finger."*

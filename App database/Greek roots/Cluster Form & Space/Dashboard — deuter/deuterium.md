@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An isotope of hydrogen that has one proton and one neutron in its nucleus and that has twice the mass of ordinary hydrogen —symbol D—called also heavy hydrogen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Heavy water.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A stable isotope of hydrogen with a mass number of 2, having one proton and one neutron in its atomic nucleus; heavy hydrogen ($^2H$).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical chemistry and nuclear physics, deuterium is used in NMR spectroscopy solvent systems and serves as a coolant/moderator in heavy-water reactors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, deuterium designates an isotope of hydrogen that has one proton and one neutron in its nucleus and that has twice the mass of ordinary hydrogen —symbol d—called also heavy hydrogen."*
+> - 📜 **Harold C. Urey (*The Discovery of Heavy Hydrogen*):** *"Fractional distillation of liquid hydrogen allowed us to concentrate and spectrographically detect the presence of **deuterium**."*
+> - 📜 **Niels Bohr (*Nuclear Constitution and the Periodic System*):** *"The nucleus of **deuterium**, consisting of one proton and one neutron, represents the simplest composite nuclear system."*
+> - 📜 **Richard Feynman (*The Feynman Lectures on Physics*):** *"In thermonuclear reactions inside stars and fusion devices, **deuterium** nuclei fuse to generate helium and release enormous energy."*

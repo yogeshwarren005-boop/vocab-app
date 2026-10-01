@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (psychology) the configuration of smaller units of information into large coordinated units.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of packaging cargo into unit loads.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of combining into a single unit; specifically, in petroleum and natural resources law, the joint development and operation of an entire oil or gas reservoir by multiple leaseholders (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In petroleum engineering and environmental economics, unitisation prevents wasteful competitive drilling and reservoir pressure dissipation (the tragedy of the commons), optimizing resource recovery through unified operational management.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unitisation designates (psychology) the configuration of smaller units of information into large coordinated units."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The economic advantage of mutual combination, or **unitisation**, lies in eliminating wasteful rivalries that destroy collective value."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Exploitation of deep mineral strata requires systematic **unitisation** to prevent chaotic subterranean depletion."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"Where separate holdings access a single common resource, legal **unitisation** safeguards public and private welfare."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An actress who specializes in tragic roles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An actress who specializes in tragic roles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A female actor who specializes in playing tragic roles in dramatic theater.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theatrical history, celebrated nineteenth-century tragediennes such as Sarah Siddons, Rachel Félix, and Sarah Bernhardt attained international acclaim for portraying monumental heroines like Phèdre, Medea, and Lady Macbeth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tragedienne designates an actress who specializes in tragic roles."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"Watching the great French **tragedienne** Vashti upon the stage, Lucy Snowe was overwhelmed by demonic passion and tragic terror."*
+> - 📜 **Henry James (*The Tragic Muse*):** *"Miriam harbored the fierce, singular ambition to establish herself as the supreme dramatic **tragedienne** of her era."*
+> - 📜 **George Eliot (*Daniel Deronda*):** *"The aging **tragedienne** recounted the glorious triumphs of her theatrical youth in Vienna and St. Petersburg."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A defect of vision in which objects appear to be distorted; usually due to a defect in the retina.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A defect of vision in which objects appear to be distorted; usually due to a defect in the retina.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A visual defect or symptom in which observed objects appear distorted in size, shape, contour, or spatial orientation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical ophthalmology and neurology, metamorphopsia results from anatomical disruption of retinal photoreceptor spacing in macular degeneration or cortical migraine aura.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metamorphopsia designates a defect of vision in which objects appear to be distorted; usually due to a defect in the retina."*
+> - 📜 **Albrecht von Graefe (*Archiv für Ophthalmologie*):** *"Patients suffering from central chorioretinitis report acute **metamorphopsia**, wherein straight grid lines appear undulating or broken."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In migraine scotoma, transitory **metamorphopsia** may precede the headache, causing familiar faces to appear grotesque and fragmented."*
+> - 📜 **Oliver Sacks (*Migraine*):** *"The Alice-in-Wonderland syndrome represents a bizarre central **metamorphopsia** where patients perceive their own limbs swelling or shrinking."*

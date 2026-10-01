@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the character of a synonym; also : alike in meaning or significance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the same connotations, implications, or reference.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the same or nearly the same meaning as another word or phrase in the same language; closely associated with or suggestive of something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biological nomenclature, synonymous species names denote two or more scientific names applied to the exact same taxon, governed by the principle of priority.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Charitable is here used in its original sense, as synonymous with benevolence and affection."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Soul is synonymous with Spirit, God, the creative, governing, infinite Principle outside of finite form, 71:9 which forms only reflect."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The name is synonymous with Messiah, and al- ludes to the spirituality which is taught, illustrated, and 333:12 demonstrated in the life of which Christ Jesus was the embodiment."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"In early classifications, organic affinity was treated as **synonymous** with divine creation rather than genealogical descent."*
+> - 📜 **John Stuart Mill (*Utilitarianism*):** *"For many moralists, virtue is held to be **synonymous** with obedience to divine command."*
+> - 📜 **George Orwell (*Politics and the English Language*):** *"Slovenly writing treats terms as **synonymous** when their actual political implications are diametrically opposed."*

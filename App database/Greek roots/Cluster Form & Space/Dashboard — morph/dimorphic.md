@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Dimorphous.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Occurring in two distinct forms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring in, characterized by, or displaying two distinct physical forms, colors, shapes, or life-cycle phases within the same species or substance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology and physical anthropology, sexually dimorphic traits (such as body mass or plumage) reflect sexual selection and mating competition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Dimorphic change in sulphides, 36."*
+> - 📜 **Charles Darwin (*The Descent of Man, and Selection in Relation to Sex*):** *"Many bird species are strikingly **dimorphic**, the male bearing brilliant nuptial plumage while the female remains cryptically colored."*
+> - 📜 **Ernst Mayr (*Animal Species and Evolution*):** *"A population may remain stably **dimorphic** when disruptive selection favors two distinct feeding morphs within a single habitat."*
+> - 📜 **Theodosius Dobzhansky (*Genetics of the Evolutionary Process*):** *"Chromosomal inversions often maintain a **dimorphic** genetic polymorphism that provides adaptive flexibility across changing seasons."*

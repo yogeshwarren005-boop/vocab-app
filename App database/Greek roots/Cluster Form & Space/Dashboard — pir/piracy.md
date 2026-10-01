@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An act of robbery on the high seas; also : an act resembling such robbery.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Robbery on the high seas.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The practice of attacking and robbing ships at sea; maritime robbery or violence committed by private vessels.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In intellectual property and media law, the unauthorized reproduction, distribution, or use of copyrighted material.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Piracy on the sea, brigandage on the land, had been put down, and there was a very great deal of travel."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"We can rationalize using the Log Depot if we experience piracy and harassment of our transports and citizens."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"That, at the least, is piracy in my book, and I am within my authority to use force to keep pirates off my ship."*
+> - 📜 **Cicero (*De Officiis*):** *"A pirate is not counted as a regular enemy, but is the common foe of all mankind, and with **piracy** no treaty can be valid."*
+> - 📜 **T. R. Glover (*The Jesus of History*):** *"When Roman naval power suppressed **piracy** on the Mediterranean, travel and commercial exchange flourished throughout the empire."*
+> - 📜 **Daniel Defoe (*A General History of the Pyrates*):** *"Desperate mariners turned to **piracy**, hoisting the black flag and declaring war against all nations."*

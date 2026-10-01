@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being exotic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being exotic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Variant of exoticism; the tendency to adopt foreign manners, styles, or tastes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In 19th-century French aesthetics and art history, exotisme represented a deliberate stylistic borrowing from North African, Asian, or Polynesian visual cultures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, exotism designates the quality of being exotic."*
+> - 📜 **Victor Segalen (*Essay on Exoticism: An Aesthetics of Diversity*):** *"Pure **exotism** is nothing less than the sharp, acute perception of the diverse—the aesthetic shock of the non-self."*
+> - 📜 **Paul Gauguin (*Noa Noa*):** *"My art fled Parisian conventions to discover in Tahitian **exotism** a direct, primitive communion with nature."*
+> - 📜 **Mario Praz (*The Romantic Agony*):** *"Nineteenth-century decadent literature nurtured an insatiable taste for Byzantine and Oriental **exotism**."*

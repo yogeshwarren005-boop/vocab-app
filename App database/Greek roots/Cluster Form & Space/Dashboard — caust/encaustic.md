@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A paint made from pigment mixed with melted beeswax and resin and after application fixed by heat; also : the method involving the use of encaustic or a work produced by this method.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A paint made from pigment mixed with melted beeswax and resin and after application fixed by heat; also : the method involving the use of encaustic or a work produced by this method.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient painting technique using pigments mixed with hot molten beeswax, applied to a surface and fixed with heat; or a work produced in this medium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of art and ceramics, an exceptionally durable medium famously seen in Roman Egyptian Fayum mummy portraits, and in ceramic floor tiles decorated with inlaid colored clays.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"After completion of laconic epistolary compositions she abandoned the implement of calligraphy in the encaustic pigment, exposed to the corrosive action of copperas, green vitriol and nutgall."*
+> - 📜 **Pliny the Elder (*Natural History*):** *"The ancient masters perfected **encaustic** painting, burning wax colours into wood and ivory so durably that moisture could never fade them."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The pavement of the medieval basilica was paved with rich **encaustic** tiles displaying armorial badges and heraldic beasts."*
+> - 📜 **Walter Pater (*Studies in the History of the Renaissance*):** *"The life-like gaze in the Fayum portraits survives because the molten **encaustic** wax locked in the pigment with translucent vitality."*

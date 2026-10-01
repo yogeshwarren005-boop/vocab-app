@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sudden violent change in the earth's surface.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An event resulting in great loss and misfortune.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A violent, sudden physical, geological, or political upheaval or deluge that brings widespread destruction and irreversible change.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical geology and paleontology, a catastrophic global convulsion formerly invoked (as in Cuvier's catastrophism) to explain mass extinctions and geological unconformities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"But what was this portion of the globe which had been swallowed by cataclysms?"*
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"English and alien poets, statesmen, artists, heroes, battles, plagues, cataclysms, revolutions—we shoveled them all into the English fences according to their dates."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Instead of invoking an imaginary universal **cataclysm**, we should explain geological changes by causes now in actual operation."*
+> - 📜 **Georges Cuvier (*Essay on the Theory of the Earth*):** *"Repeated revolutions and sudden sea incursions caused each successive **cataclysm** that buried ancient fauna in deep strata."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The collapse of the monarchy was a political **cataclysm** that swallowed the ancient privileges of the realm in blood."*

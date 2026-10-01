@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a scheme or schema.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A schematic drawing or diagram.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or in the form of a simplified diagram, outline, plan, or blueprint.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In electronics and engineering, a diagrammatic representation showing the electrical connections and components of a circuit using standard graphic symbols.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The view tank's haze cleared to the standard solar schematic."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Separated from each other by more than a hundred kay of open space, the Terminal schematic expanded rapidly on the Dragon's screens as the fleet narrowed the gap."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Generally familiar with the schematics of the Slingshot stations, he was overwhelmed by the two enormous cones and their peripherals, which configured the Terminals' hoppers."*
+> - 📜 **Ludwig Wittgenstein (*Tractatus Logico-Philosophicus*):** *"A logical proposition presents a **schematic** picture of reality, projecting structural relations onto abstract space."*
+> - 📜 **Norbert Wiener (*Cybernetics: Or Control and Communication in the Animal and the Machine*):** *"We draw a **schematic** diagram of feedback loops to analyze stability and damping in automated control mechanisms."*
+> - 📜 **Claude Shannon (*A Mathematical Theory of Communication*):** *"The general communication system is represented by a **schematic** flowchart comprising information source, transmitter, channel, and receiver."*

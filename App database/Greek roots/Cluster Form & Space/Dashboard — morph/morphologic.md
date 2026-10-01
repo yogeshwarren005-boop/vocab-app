@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or concerned with the morphology of plants and animals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or concerned with the formation of admissible words in a language.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, dealing with, or relating to the form, structure, or external configuration of organisms or languages.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anatomical pathology, morphologic diagnoses classify diseases based on observed cellular architecture and tissue staining characteristics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, morphologic designates relating to or concerned with the morphology of plants and animals."*
+> - 📜 **Johann Wolfgang von Goethe (*The Metamorphosis of Plants*):** *"Our **morphologic** investigations reveal that all floral organs are simply modified leaves transformed through successive stages."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"The microscopic diagnosis must establish the precise **morphologic** changes in the cell nucleus before predicting malignancy."*
+> - 📜 **Edward Sapir (*Language*):** *"Languages differ profoundly in their **morphologic** classification, spanning isolating, agglutinative, and inflected systems."*

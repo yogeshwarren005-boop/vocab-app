@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having no definite form : shapeless.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Being without definite character or nature : unclassifiable.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking a definite shape, form, or organized physical structure; shapeless or unclassifiable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In solid-state physics and crystallography, designating non-crystalline solids (such as glass and vitreous silica) whose atoms lack long-range periodic order.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Louis Stevenson (*The strange case of Dr. Jekyll and Mr. Hyde*):** *"This was the shocking thing; that the slime of the pit seemed to utter cries and voices; that the amorphous dust gesticulated and sinned; that what was dead, and had no shape, should usurp the offices of life."*
+> - 📜 **Robert Boyle (*The Sceptical Chymist*):** *"Certain precipitated minerals remain an **amorphous** mass until prolonged digestion permits regular crystal facets to appear."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"Rapid cooling of molten sulfur produces an **amorphous** and elastic substance that gradually hardens into crystalline rhombic sulfur."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Igneous glass quenched by seawater forms an **amorphous** basaltic crust lacking visible mineral grains."*

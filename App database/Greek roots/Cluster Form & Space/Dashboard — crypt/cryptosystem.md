@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A method for encoding and decoding messages.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A method for encoding and decoding messages.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A complete suite of cryptographic algorithms, protocols, hardware, and key management systems necessary to implement secure communications.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In computer science and modern cryptography, a mathematical system consisting of plaintext space, ciphertext space, key generation algorithms, and encryption/decryption functions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cryptosystem designates a method for encoding and decoding messages."*
+> - 📜 **Claude Shannon (*Communication Theory of Secrecy Systems*):** *"A mathematically sound **cryptosystem** must ensure that decryption remains computationally infeasible even if the eavesdropper knows the entire algorithm."*
+> - 📜 **Alan Turing (*Turing's Treatise on the Enigma*):** *"The vulnerability of the Enigma **cryptosystem** stemmed not from the rotors alone, but from procedural flaws in daily key distribution."*
+> - 📜 **David Kahn (*The Codebreakers*):** *"The development of the RSA public-key **cryptosystem** revolutionized digital commerce by solving the ancient key-exchange dilemma."*

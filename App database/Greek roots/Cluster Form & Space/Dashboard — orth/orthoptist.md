@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialist in orthoptics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A specialist in orthoptics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An allied ophthalmic healthcare professional specialized in diagnosing and non-surgically treating ocular motility disorders, strabismus, and amblyopia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A clinician who performs sensorimotor examinations, prism adaptation tests, and vision therapy to rehabilitate binocular fusion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, orthoptist designates a specialist in orthoptics."*
+> - 📜 **Duke-Elder (*System of Ophthalmology*):** *"The skilled **orthoptist** works closely with the strabismus surgeon to map pre- and post-operative ocular deviance."*
+> - 📜 **G. Keith Burian (*Binocular Vision and Ocular Motility*):** *"Sensory status evaluation by the **orthoptist** reveals whether anomalous retinal correspondence is present."*
+> - 📜 **Mary Catterall (*Practical Orthoptics*):** *"Patience and creative engagement enable the pediatric **orthoptist** to obtain accurate measurements from young children."*

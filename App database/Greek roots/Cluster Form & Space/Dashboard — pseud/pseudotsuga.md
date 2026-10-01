@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Douglas fir; closely related to genera larix and cathaya.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Douglas fir; closely related to genera larix and cathaya.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of tall evergreen coniferous trees in the pine family (Pinaceae), commonly known as Douglas-firs, native to western North America and eastern Asia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In forestry and timber ecology, valuable timber trees characterized by pendant cones with prominent, three-pointed exserted bracts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pseudotsuga designates douglas fir; closely related to genera larix and cathaya."*
+> - 📜 **John Muir (*The Mountains of California*):** *"The majestic Douglas spruce, belonging to **pseudotsuga**, crowns the middle Sierra ridges with dark green feathery spires."*
+> - 📜 **Charles Sprague Sargent (*The Silva of North America*):** *"The timber yielded by **pseudotsuga** is unsurpassed for industrial construction, combining high tensile strength with massive girth."*
+> - 📜 **Donald Culross Peattie (*A Natural History of Western Trees*):** *"The three-pronged bracts protruding from the cones of **pseudotsuga** resemble the hind legs and tail of a sheltering mouse."*

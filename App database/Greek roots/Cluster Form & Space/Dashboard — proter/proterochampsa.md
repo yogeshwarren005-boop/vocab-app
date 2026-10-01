@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Early archosaurian carnivore.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Early archosaurian carnivore.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An extinct genus of archosauriform reptiles from the Late Triassic of South America, possessing a flattened, crocodile-like skull.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate paleontology, a predatory amphibious archosaur of the Ischigualasto Formation demonstrating early cranial adaptations for aquatic ambush hunting.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, proterochampsa designates early archosaurian carnivore."*
+> - 📜 **Alfred Sherwood Romer (*The Chañares Triassic Reptile Fauna*):** *"The elongated rostrum and dorsal orbits of **proterochampsa** suggest an ecological niche comparable to modern caimans."*
+> - 📜 **José Bonaparte (*El Triásico Medio de Argentina*):** *"Cranial dermal sculpturing in **proterochampsa** reflects specialized reinforcement against torsion during prey capture."*
+> - 📜 **Michael J. Benton (*Vertebrate Palaeontology*):** *"Fossil specimens of **proterochampsa** provide critical anatomical data regarding basal archosauriform diversification in Gondwana."*

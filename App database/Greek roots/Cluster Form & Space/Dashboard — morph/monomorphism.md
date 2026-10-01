@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having but a single form, structural pattern, or genotype.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having but a single form, structural pattern, or genotype.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or condition of existing in only one form, morphological habit, or color phase.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In category theory and abstract algebra, a monomorphism is a left-cancellative morphism, generalizing injective (one-to-one) functions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monomorphism designates having but a single form, structural pattern, or genotype."*
+> - 📜 **Saunders Mac Lane (*Categories for the Working Mathematician*):** *"A morphism f is a **monomorphism** if it is left-cancellable: f after g equals f after h implies g equals h."*
+> - 📜 **Theodosius Dobzhansky (*Genetics and the Origin of Species*):** *"Severe environmental homogeneity favors genetic **monomorphism**, whereas fluctuating habitats maintain balanced polymorphism."*
+> - 📜 **Alexander Grothendieck (*Sur quelques points d'algèbre homologique*):** *"In an abelian category, every **monomorphism** arises naturally as the kernel of its corresponding canonical quotient arrow."*

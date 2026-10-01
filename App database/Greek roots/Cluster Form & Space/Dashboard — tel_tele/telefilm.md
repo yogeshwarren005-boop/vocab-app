@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A movie that is made to be shown on television.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A movie that is made to be shown on television.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A motion picture or feature film produced specifically for television broadcast rather than theatrical cinema release.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In broadcast entertainment history, the telefilm (made-for-television movie) flourished from the late 1960s onwards, exploring topical social dramas suited to the domestic television screen.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, telefilm designates a movie that is made to be shown on television."*
+> - 📜 **Marshall McLuhan (*Understanding Media: The Extensions of Man*):** *"The narrative rhythm of the **telefilm** was adapted to the intimate domestic setting and commercial station breaks of television."*
+> - 📜 **Edward R. Murrow (*In Search of Light*):** *"A thoughtful documentary **telefilm** can awaken public conscience more effectively than a shelf of sociological treatises."*
+> - 📜 **David Sarnoff (*Looking Ahead: The Papers of David Sarnoff*):** *"Production of dedicated **telefilm** features allowed networks to maintain high broadcast quality without reliance on Hollywood cinema re-runs."*

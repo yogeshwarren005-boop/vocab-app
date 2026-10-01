@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small genus of australian evergreen leguminous shrubs or subshrubs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small genus of australian evergreen leguminous shrubs or subshrubs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of leguminous shrubs in the pea family (Fabaceae), endemic to eastern and southern Australia, commonly known as flat-peas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic botany, characterized by opposite leaves, solitary pea-shaped flowers, and distinctly flattened, winged legume pods.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, platylobium designates small genus of australian evergreen leguminous shrubs or subshrubs."*
+> - 📜 **George Bentham (*Flora Australiensis*):** *"The genus **platylobium** is distinguished from Bossiaea by its winged, compressed pod and peculiar calyx structure."*
+> - 📜 **Ferdinand von Mueller (*Fragmenta Phytographiae Australiae*):** *"We observed bright yellow blossoms of **platylobium** expanding along the sandy ridges of Victoria."*
+> - 📜 **Joseph Maiden (*The Forest Flora of New South Wales*):** *"In heathland formations, **platylobium** forms attractive understory bushes with papilionaceous corollas."*

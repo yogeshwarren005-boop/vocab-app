@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek gnath.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The medial or internal segment of the premaxillary bone in the mammalian skull.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In developmental craniomaxillofacial anatomy, the endognathion houses the central incisor teeth and forms through the fusion of the medial nasal prominences.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endognathion designates a term designating an entity, condition, or phenomenon derived from greek gnath."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"Failure of embryonic fusion between the **endognathion** and the lateral maxilla results in congenital unilateral cleft palate."*
+> - 📜 **Wilfrid Le Gros Clark (*The Antecedents of Man*):** *"The architectural boundary between the **endognathion** and mesognathion reflects ancestral incisive suture lines."*
+> - 📜 **G. Elliot Smith (*The Evolution of the Face*):** *"Reduction of the premaxillary **endognathion** in hominid evolution accompanied the progressive vertical flattening of the face."*

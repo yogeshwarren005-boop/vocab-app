@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a disagreeable manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a disagreeable manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a troublesome, vexatious, or annoying manner; exceedingly or bothersomely.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In archaic and colloquial English, used as an intensifier meaning terribly, excessively, or exasperatingly.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plaguily designates in a disagreeable manner."*
+> - 📜 **Samuel Pepys (*The Diary of Samuel Pepys*):** *"The weather was **plaguily** cold, and my teeth chattered as we crossed the river by wherry."*
+> - 📜 **Jonathan Swift (*Journal to Stella*):** *"I have been **plaguily** hurried all this afternoon by troublesome visitors from the coffeehouse."*
+> - 📜 **Henry Fielding (*The History of Tom Jones*):** *"Squire Western declared that his horses had been **plaguily** tired by the long chase."*

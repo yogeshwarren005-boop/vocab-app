@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a common center.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a common center.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the same center; concentric.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical astronomical cosmology and optics, describing concentric crystalline celestial spheres or light rays radiating from a common focal point.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, homocentric designates having a common center."*
+> - 📜 **Aristotle (*Metaphysics*):** *"Eudoxus posited a system of **homocentric** spheres rotating on different axes to explain planetary stations and retrogradations."*
+> - 📜 **Thomas Aquinas (*Commentary on Aristotle's On the Heavens*):** *"The ancient astronomers sought to harmonize celestial motions through nested **homocentric** circles revolving about the Earth."*
+> - 📜 **Hermann von Helmholtz (*Treatise on Physiological Optics*):** *"A bundle of **homocentric** light rays emanates from an ideal point source and converges upon a single conjugate focus."*

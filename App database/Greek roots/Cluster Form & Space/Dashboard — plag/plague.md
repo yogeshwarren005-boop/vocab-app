@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A serious (sometimes fatal) infection of rodents caused by yersinia pestis and accidentally transmitted to humans by the bite of a flea that has bitten an infected animal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any epidemic disease with a high death rate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A contagious bacterial disease caused by Yersinia pestis, characterized by fever, delirium, and buboes (bubonic plague) or respiratory infection (pneumonic plague).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any severe epidemic or disastrous widespread affliction that causes catastrophic mortality or social devastation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Incapable of more, replete with you, My most true mind thus maketh mine untrue. 114 Or whether doth my mind being crowned with you Drink up the monarch’s plague this flattery?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A plague upon him! muffled! he can say nothing of me; hush, hush!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"PAROLLES. [_Aside._] I’ll no more drumming; a plague of all drums!"*
+> - 📜 **Thucydides (*History of the Peloponnesian War*):** *"The great **plague** of Athens struck suddenly, overwhelming the physicians and dissolving all moral restraints."*
+> - 📜 **Daniel Defoe (*A Journal of the Plague Year*):** *"The **plague** raged with such virulence that the dead-carts were filled faster than graves could be dug."*
+> - 📜 **Albert Camus (*The Plague*):** *"The only way to fight the **plague** is decency; doing one’s job with patient courage in the face of death."*

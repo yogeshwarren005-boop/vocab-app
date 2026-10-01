@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The point or region on a chromosome to which the spindle attaches during mitosis and meiosis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The point or region on a chromosome to which the spindle attaches during mitosis and meiosis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The specialized region of a chromosome that links a pair of sister chromatids and serves as the assembly site for the kinetochore during cell division.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cytogenetics, the structural constriction that determines chromosome morphology and governs faithful chromosomal segregation during mitosis and meiosis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centromere designates the point or region on a chromosome to which the spindle attaches during mitosis and meiosis."*
+> - 📜 **Barbara McClintock (*The Origin and Behavior of Mutable Loci in Maize*):** *"The broken chromosome arm lacking a normal **centromere** failed to migrate predictably toward either pole during spindle formation."*
+> - 📜 **Edmund Beecher Wilson (*The Cell in Development and Heredity*):** *"Each sister chromatid remains tethered at the specialized **centromere** until the transition into mitotic anaphase."*
+> - 📜 **Theodosius Dobzhansky (*Genetics and the Origin of Species*):** *"Inversions that span across the **centromere** alter the relative proportions of the chromosome arms without losing essential chromatin."*

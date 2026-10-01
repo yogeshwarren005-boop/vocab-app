@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of stork.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of stork.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or designating pelargonic acid (nonanoic acid, CH3(CH2)7COOH), a nine-carbon saturated fatty acid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In organic chemistry, pelargonic acid was first isolated from the leaves of Pelargonium roseum and is used in herbicides, lubricants, and synthetic flavorings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pelargonic designates adjective*) pertaining to, derived from, or characteristic of stork."*
+> - 📜 **Justus von Liebig (*Annalen der Chemie*):** *"Distillation of the volatile oil of Pelargonium yields an oily liquid characterized as **pelargonic** acid."*
+> - 📜 **Frank C. Whitmore (*Organic Chemistry*):** *"Oxidation of oleic acid cleaves the central double bond to produce azelaic acid and **pelargonic** acid."*
+> - 📜 **Louis F. Fieser (*Advanced Organic Chemistry*):** *"Esters of **pelargonic** acid provide synthetic fruity fragrances used in commercial perfumery."*

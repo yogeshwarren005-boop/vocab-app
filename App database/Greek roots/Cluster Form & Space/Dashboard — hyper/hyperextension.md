@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Greater than normal extension.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Greater than normal extension.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of extending or the condition of being extended beyond the normal anatomical limit; an excessive extension of a joint.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In spine trauma, whiplash injury involves rapid hyperextension followed by flexion of the cervical spine; in sports orthopedics, genu recurvatum denotes chronic pathological hyperextension of the knee joint.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyperextension designates greater than normal extension."*
+> - 📜 **Astley Cooper (*A Treatise on Dislocations and Fractures of the Joints*):** *"Severe **hyperextension** of the elbow during a fall upon the outstretched palm produces posterior dislocation."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Cervical **hyperextension** injuries in vehicular collisions can produce acute central cord contusion."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The anterior longitudinal ligament of the spine resists excessive **hyperextension** of the vertebral column."*

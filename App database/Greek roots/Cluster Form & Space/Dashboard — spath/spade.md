@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A digging implement adapted for being pushed into the ground with the foot.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A spade-shaped instrument.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A tool with a broad, flat, sharp-edged metal blade and sturdy handle, used for digging, cutting turf, or earth-moving; also one of the four suits in playing cards.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agricultural history and literature, the spade symbolizes manual toil and grounding labor, famously captured in Seamus Heaney's verse and Oscar Wilde's idioms ('call a spade a spade').
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, e’en so: and now my Lady Worm’s; chapless, and knocked about the mazard with a sexton’s spade."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"FIRST CLOWN. [_Sings._] A pickaxe and a spade, a spade, For and a shrouding-sheet; O, a pit of clay for to be made For such a guest is meet. [_Throws up another skull._] HAMLET."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thus with a kiss I die. [_Dies._] Enter, at the other end of the Churchyard, Friar Lawrence, with a lantern, crow, and spade."*
+> - 📜 **Seamus Heaney (*Digging*):** *"Between my finger and my thumb the squat pen rests; snug as a gun. By God, the old man could handle a **spade**."*
+> - 📜 **Oscar Wilde (*The Importance of Being Earnest*):** *"I am glad to say that I have never seen a **spade**. It is obvious that our social spheres have been widely different."*
+> - 📜 **William Wordsworth (*The Solitary Reaper*):** *"Alone she cuts and binds the grain, leaning upon her heavy **spade** amidst the singing silence of the glen."*

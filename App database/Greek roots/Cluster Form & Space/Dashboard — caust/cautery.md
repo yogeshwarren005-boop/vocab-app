@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or effect of cauterizing : cauterization.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An agent (such as a hot iron or caustic) used to burn, sear, or destroy tissue.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument, burning device, or chemical agent used for searing or destroying living tissue; or the medical procedure of cauterizing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical surgery, an operative modality divided into actual cautery (heat/electricity) and potential cautery (chemical escharotics) for surgical hemostasis and ablation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cautery designates the act or effect of cauterizing : cauterization."*
+> - 📜 **Ambroise Paré (*The Apologie and Treatise of Ambroise Paré*):** *"Before my day, surgeons relied solely upon the cruel application of the actual **cautery** to arrest hemorrhage."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Light linear **cautery** applied to the mucous membrane of the septum effectively prevented recurrent nosebleeds."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Medicine must not shrink from applying the sharp knife or searing **cautery** when gangrenous corruption threatens the body."*

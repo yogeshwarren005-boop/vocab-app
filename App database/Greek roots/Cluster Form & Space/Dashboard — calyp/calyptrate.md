@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having calypters.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a calyptra.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Furnished with or possessing a calyptra or calypter; hooded or capped.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic dipterology, describing flies of the subsection Calyptratae (such as houseflies and blowflies) possessing prominent wing squamae.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calyptrate designates having calypters."*
+> - 📜 **Alpheus Spring Packard (*A Text-Book of Entomology*):** *"The **calyptrate** Diptera are distinguished from acalyptrates by well-developed squamae that conceal the halteres."*
+> - 📜 **William Benjamin Carpenter (*The Microscope and Its Revelations*):** *"Examination of the moss specimen revealed a distinctly **calyptrate** capsule, crested with a hairy membranous hood."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"Flowers with a **calyptrate** perianth shed their fused floral envelopes as a solitary cap upon opening."*

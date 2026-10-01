@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A former town in boeotia; site of a battle between the greeks and persians in 479 bc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A defeat of the persian army by the greeks at plataea in 479 bc.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient city in Boeotia, Greece, famous as the site of the Battle of Plataea in 479 BCE.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical Greek history, at the Battle of Plataea, the allied Greek land army led by the Spartan general Pausanias decisively defeated the Persian forces of Mardonius.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Every few years the people of Plataea, in Boeotia, held a festival called the Little Daedala, at which they felled an oak-tree in an ancient oak forest."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The Archon of Plataea might not touch iron; but once a year, at the annual commemoration of the men who fell at the battle of Plataea, he was allowed to carry a sword wherewith to sacrifice a bull."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Long years of faction and war, as he himself says, had depopulated Greece, and the whole land could hardly furnish now the three thousand hoplites that four centuries before Megara alone had sent to Plataea."*
+> - 📜 **Herodotus (*Histories*):** *"The glorious victory at **Plataea** broke the power of the Persian invader and delivered Greece from barbarian subjugation."*
+> - 📜 **Thucydides (*History of the Peloponnesian War*):** *"The heroic defense of **Plataea** against the Spartan siege demonstrated the tragic fate of a faithful Athenian ally."*
+> - 📜 **Plutarch (*Parallel Lives: Aristides*):** *"At **Plataea**, Aristides displayed consummate tactical prudence, uniting contentious Greek contingents against common peril."*

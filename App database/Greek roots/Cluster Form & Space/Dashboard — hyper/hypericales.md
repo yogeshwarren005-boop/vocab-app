@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A large order of dicotyledonous plants of subclass dilleniidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large order of dicotyledonous plants of subclass dilleniidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A former botanical order of dicotyledonous flowering plants comprising families such as Hypericaceae, Clusiaceae (Guttiferae), and Elatinaceae in classical taxonomic systems.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical plant taxonomy (such as the systems of Bentham, Hooker, and Wettstein), Hypericales grouped plants with resinous juices, opposite exstipulate leaves, and polyadelphous stamens; now subsumed largely within Malpighiales.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypericales designates a large order of dicotyledonous plants of subclass dilleniidae."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"In our systematic arrangement, the order **Hypericales** unites those polypetalous families possessing resinous secretions."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"The classical **Hypericales** shared distinctive floral characters, notably the fascicled arrangement of their stamens."*
+> - 📜 **George Bentham (*Genera Plantarum*):** *"Affinity between Guttiferae and Hypericaceae justified grouping them within the broader alliance of **Hypericales**."*

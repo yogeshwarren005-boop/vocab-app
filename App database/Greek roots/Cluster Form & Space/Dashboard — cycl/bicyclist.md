@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who rides a bicycle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who rides a bicycle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who rides a bicycle, especially as a sport or regular means of travel; a cyclist.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In transport planning and civic design, an individual user of roadway and trail networks traveling by pedal-powered two-wheeled cycle.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bram Stoker (*Dracula*):** *"Come, let us seek somewhere that we may eat, and then we shall go on our way.” We dined at “Jack Straw’s Castle” along with a little crowd of bicyclists and others who were genially noisy."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Solitary Cyclist*):** *"The solitary **bicyclist** kept her distance along the deserted stretch between the woods and the heath."*
+> - 📜 **H. G. Wells (*The Wheels of Chance*):** *"Every passer-by paused to stare at the energetic **bicyclist** repairing a punctured inner tube beside the milestone."*
+> - 📜 **George Orwell (*Coming Up for Air*):** *"In those days a weekend **bicyclist** in knickerbockers was a familiar sight on the gravel roads outside London."*

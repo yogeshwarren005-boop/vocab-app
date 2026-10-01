@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Closed spore-bearing structure of some fungi (especially aspergillaceae and erysiphaceae) from which spores are released only by decay or disintegration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Closed spore-bearing structure of some fungi (especially aspergillaceae and erysiphaceae) from which spores are released only by decay or disintegration.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A completely closed fruiting body or ascocarp that possesses no specialized aperture or ostiole for spore discharge.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mycology and bryology, an ascocarp (cleistothecium) or moss capsule that ruptures irregularly or decays to liberate its spores.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cleistocarp designates closed spore-bearing structure of some fungi (especially aspergillaceae and erysiphaceae) from which spores are released only by decay or disintegration."*
+> - 📜 **Miles Joseph Berkeley (*Outlines of British Fungology*):** *"In the powdery mildews, the **cleistocarp** forms a dark spherical vessel completely enclosing the asci until mechanical rupture."*
+> - 📜 **John Merle Coulter (*Morphology of Gymnosperms and Cryptogams*):** *"Spore dispersal from a **cleistocarp** depends on the gradual decay of the peridium rather than explosive dehiscence."*
+> - 📜 **William Gilson Farlow (*Synoptic Flora of North American Fungi*):** *"Appendages radiating from the outer wall of the **cleistocarp** anchor the fruiting body to host foliage."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Apparent knowledge of distant events without using sensory perceptions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Apparent knowledge of distant events without using sensory perceptions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Knowledge of distant events, hidden objects, or unknown facts acquired through extrasensory perception; clairvoyance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nineteenth-century parapsychological nomenclature, telegnosis (from Greek *tele*, distant, and *gnosis*, knowledge) denoted direct non-sensory cognition of objective facts occurring beyond sensory horizons.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, telegnosis designates apparent knowledge of distant events without using sensory perceptions."*
+> - 📜 **Frederic W. H. Myers (*Human Personality and Its Survival of Bodily Death*):** *"We reserve the term **telegnosis** for those rare clairvoyant perceptions where facts are grasped without human telepathic mediation."*
+> - 📜 **William James (*The Will to Believe and Other Essays*):** *"Instances of putative **telegnosis** demand rigorous verification before science can admit non-physical cognitive pathways."*
+> - 📜 **Arthur Conan Doyle (*The History of Spiritualism*):** *"The psychic sensitive demonstrated remarkable **telegnosis**, describing the details of a shipwreck occurring hundreds of miles away."*

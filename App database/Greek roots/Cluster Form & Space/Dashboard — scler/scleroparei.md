@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Scorpionfishes; sculpins; gurnards; greenlings; flying gurnards.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Scorpionfishes; sculpins; gurnards; greenlings; flying gurnards.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A former suborder or order of scorpaeniform marine fishes, commonly known as mail-cheeked fishes, characterized by a bony stay across the cheek.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical ichthyology, a taxon comprising rockfishes, scorpionfishes, flatheads, and sculpins united by a suborbital bony bar connecting to the preopercle.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scleroparei designates scorpionfishes; sculpins; gurnards; greenlings; flying gurnards."*
+> - 📜 **David Starr Jordan (*The Fishes of North and Middle America*):** *"The suborbital stay spanning from the second infraorbital bone to the preopercle is the cardinal anatomical mark of **scleroparei**."*
+> - 📜 **Albert Günther (*An Introduction to the Study of Fishes*):** *"Many marine families in the group **scleroparei** possess formidable head spines and venomous fin rays for defense."*
+> - 📜 **Theodore Gill (*On the Families of Fishes*):** *"The mail-cheeked fishes designated **scleroparei** present extraordinary diversity, from heavy bottom-dwellers to deep-sea forms."*

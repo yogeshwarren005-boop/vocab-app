@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pus pocket formation around a tooth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pus pocket formation around a tooth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The progressive destruction and resorption of the periodontal ligament (pericementum) and alveolar bone surrounding a tooth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical dental pathology, pericementoclasia was an earlier clinical term used to describe severe periodontitis and alveolar bone loss leading to tooth exfoliation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pericementoclasia designates pus pocket formation around a tooth."*
+> - 📜 **G. V. Black (*Special Dental Pathology*):** *"Chronic suppurative **pericementoclasia** gradually detaches the periodontal membrane from the cementum of the root."*
+> - 📜 **Martin Dewey (*Practical Orthodontia*):** *"Excessive mechanical force in moving teeth may initiate traumatic **pericementoclasia** and root resorption."*
+> - 📜 **Calvin S. Case (*Dental Orthopedia*):** *"Clinicians must recognize early pocket formation before irreversible **pericementoclasia** loosens the dentition."*

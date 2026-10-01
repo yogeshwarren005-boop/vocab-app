@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Erosion by friction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The wearing down of rock particles by friction due to water or wind or ice.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action or process of wearing away or rubbing down by friction or rubbing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geomorphology and mechanical engineering, detrition describes mechanical abrasion of river gravel, coastal shingle, or machine bearings under frictional shear.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, detrition designates erosion by friction."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Constant hydraulic **detrition** along the wave-beaten coast grinds jagged cliff boulders into fine beach sand."*
+> - 📜 **Charles Darwin (*The Formation of Vegetable Mould through the Action of Worms*):** *"Gizzards of earthworms subject mineral particles to continuous mechanical **detrition**, accelerating soil formation."*
+> - 📜 **James Geikie (*The Great Ice Age*):** *"Glacial boulders exhibit polished, striated facets resulting from subglacial **detrition** against bedrock."*

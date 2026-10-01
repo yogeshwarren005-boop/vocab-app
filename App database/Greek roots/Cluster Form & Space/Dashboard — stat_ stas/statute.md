@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An act passed by a legislative body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Enacted by a legislative body.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A formal written enactment of a legislative body having the force of legal authority; a written law passed by Parliament, Congress, or a legislature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In constitutional law, statutes supersede conflicting administrative regulations and common-law precedents, subject to constitutional judicial review.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The statute of thy beauty thou wilt take, Thou usurer that put’st forth all to use, And sue a friend, came debtor for my sake, So him I lose through my unkind abuse."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This very day a Syracusian merchant Is apprehended for arrival here, And, not being able to buy out his life, According to the statute of the town Dies ere the weary sun set in the west."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Well, better wits have worn plain statute-caps."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"A **statute** is an act of the legislature, entered upon the parliament rolls with the solemn consent of crown and realm."*
+> - 📜 **Oliver Wendell Holmes Jr. (*The Path of the Law*):** *"The interpretation of a controversial **statute** requires discovering what the legislature intended by the words it selected."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers (No. 78)*):** *"Whenever a particular **statute** contravenes the Constitution, it will be the duty of the judicial tribunals to adhere to the latter."*

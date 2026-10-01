@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Primitive jawless aquatic vertebrate: lampreys; hagfishes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Primitive jawless aquatic vertebrate: lampreys; hagfishes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A group or superclass of primitive jawless aquatic vertebrates comprising living lampreys and hagfishes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic zoology, an ancient chordate assemblage possessing a circular, toothed, suctorial mouth without paired jaws or pelvic fins; also an order of stenolaemate bryozoans.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cyclostomata designates primitive jawless aquatic vertebrate: lampreys; hagfishes."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"The **Cyclostomata** represent the most primitive surviving branch of craniate vertebrates, lacking biting jaws and true ribs."*
+> - 📜 **Louis Agassiz (*Methods of Study in Natural History*):** *"The round suctorial mouth of **Cyclostomata** allows these creatures to cling like leeches to the sides of living fishes."*
+> - 📜 **Alfred Romer (*The Vertebrate Story*):** *"Living **Cyclostomata** preserve in degenerate form the ancient, jawless architecture of early Paleozoic ostracoderms."*

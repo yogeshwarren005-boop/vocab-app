@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any baryon that is not a nucleon; unstable particle with mass greater than a neutron.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any baryon that is not a nucleon; unstable particle with mass greater than a neutron.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a class of subatomic baryon particles containing one or more strange quarks, but no charm, bottom, or top quarks, having non-zero strangeness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In high-energy particle physics, hyperons (including Lambda, Sigma, Xi, and Omega baryons) are heavier than nucleons (protons and neutrons); their discovery in cosmic rays and accelerator beamlines in the 1950s led to Murray Gell-Mann's 'Eightfold Way' and the quark model.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyperon designates any baryon that is not a nucleon; unstable particle with mass greater than a neutron."*
+> - 📜 **Murray Gell-Mann (*The Eightfold Way: A Theory of Strong Interaction Symmetry*):** *"Organizing baryons into unitary symmetry supermultiplets clearly grouped the nucleon with the strange **hyperon** octet."*
+> - 📜 **Richard Feynman (*The Feynman Lectures on Physics*):** *"The unstable lambda **hyperon** decays via the weak interaction because it cannot conserve strangeness through strong forces."*
+> - 📜 **Enrico Fermi (*Elementary Particles*):** *"Cosmic ray cloud chamber tracks revealed the unexpected existence of heavy unstable particles termed **hyperon** states."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek cirr.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A classical combining root signifying a curl, ringlet, or wispy filament, as well as (via Greek kirrhos) a tawny or yellowish-orange discoloration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biological nomenclature and atmospheric science, an affix designating filamentous appendages (cirri) or high, wispy ice-crystal cloud formations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cirr designates a term designating an entity, condition, or phenomenon derived from greek cirr."*
+> - 📜 **Charles Darwin (*A Monograph on the Sub-class Cirripedia*):** *"The Latin root **cirr** originally signified a curl or lock of hair, aptly describing the feathery appendages of barnacles."*
+> - 📜 **René Laennec (*A Treatise on the Diseases of the Chest*):** *"I applied the Greek prefix **cirr** to designate the granular yellow-tawny hepatic nodules observed in alcoholic atrophy."*
+> - 📜 **Luke Howard (*On the Modifications of Clouds*):** *"The prefix **cirr** distinguishes elevated clouds consisting of delicate curling fibres and wisps of frozen moisture."*

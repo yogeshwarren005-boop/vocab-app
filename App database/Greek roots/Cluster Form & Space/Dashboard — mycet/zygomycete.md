@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek mycet.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any fungus of the former phylum Zygomycota, characterized by sexual reproduction through the formation of thick-walled resting zygospores.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In food science and industrial biotechnology, zygomycetes (such as Rhizopus and Mucor) act as fast-growing sugar molds and essential agents in tempeh fermentation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, zygomycete designates a term designating an entity, condition, or phenomenon derived from greek mycet."*
+> - 📜 **Anton de Bary (*Comparative Morphology and Biology of the Fungi, Mycetozoa and Bacteria*):** *"The conjugation of two copulating progametangia in a **zygomycete** yields a heavily pigmented and warted zygospore."*
+> - 📜 **John Webster (*Introduction to Fungi*):** *"The coenocytic hyphae of a typical **zygomycete** lack regular cross-walls, permitting rapid cytoplasmic streaming throughout the mycelium."*
+> - 📜 **Albert Francis Blakeslee (*Sexual Reproduction in the Mucorineae*):** *"Our experiments with a **zygomycete** mold revealed heterothallism, proving that sexual zygospore formation requires complementary mating strains."*

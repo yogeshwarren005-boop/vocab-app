@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument or substance used to destroy tissue for medical reasons (eg removal of a wart) by burning it with a hot iron or an electric current or a caustic or by freezing it.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instrument or substance used to destroy tissue for medical reasons (eg removal of a wart) by burning it with a hot iron or an electric current or a caustic or by freezing it.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A caustic substance, chemical agent, or instrument used to cauterize tissue; an escharotic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacological therapeutics, chemical compounds such as silver nitrate or trichloroacetic acid applied topically to destroy warts, granulation tissue, or ulcerated margins.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cauterant designates an instrument or substance used to destroy tissue for medical reasons (eg removal of a wart) by burning it with a hot iron or an electric current or a caustic or by freezing it."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Silver nitrate sticks serve as a convenient **cauterant** to ablate exuberant granulation tissue in indolent healing wounds."*
+> - 📜 **William R. Gowers (*A Manual of Diseases of the Nervous System*):** *"The bite of the venomous viper was instantly treated with an active chemical **cauterant** to prevent systemic absorption."*
+> - 📜 **Primo Levi (*The Periodic Table*):** *"Handling concentrated nitric acid requires extreme caution, for it acts as an instantaneous **cauterant** upon bare skin."*

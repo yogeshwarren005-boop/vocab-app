@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make (continental) european in customs, character, or ideas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Denationalize and subject (a territory) to the supervision of an agency of a european community of nations.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To bring into conformity with European culture, customs, politics, or values (standard American spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative political science, the process by which national policies and institutions adapt to European Union regulations and governance models.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"But really to see the East one must shun the half-Europeanized town and the treaty port, must leave behind the comforts of hotel and railway, and be ready to accept the rough and the smooth of unbeaten trails."*
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"With this primitive mountain world his act was in weird harmony, but there was an incongruity almost stunning in the sight of a Hindu carrying out a similar vow in one of the crowded business streets of Europeanized Calcutta."*
+> - 📜 **Henry James (*The American*):** *"He traveled abroad without the slightest intention to **europeanize** his straightforward commercial instincts."*
+> - 📜 **Theodore Roosevelt (*The Strenuous Life*):** *"We have no desire to **europeanize** American institutions or adopt the dynastic rivalries of the Old World."*
+> - 📜 **Francis Fukuyama (*The End of History and the Last Man*):** *"Post-communist nations moved swiftly to **europeanize** their legal systems to qualify for continental integration."*

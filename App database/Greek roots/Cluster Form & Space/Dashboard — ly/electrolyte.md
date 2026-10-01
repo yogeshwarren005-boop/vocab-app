@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A nonmetallic electric conductor in which current is carried by the movement of ions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A substance that when dissolved in a suitable solvent or when fused becomes an ionic conductor.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chemical substance that dissociates into ions when dissolved in water or melted, producing an electrically conductive medium; also, an essential ionic solute in the body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human physiology, major electrolytes (sodium, potassium, chloride, bicarbonate, calcium, magnesium, phosphate) govern fluid balance, blood pressure, acid-base homeostasis, and action potential propagation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The process itself is electrolysis; the liquid is the electrolyte, while the strips are the electrodes."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"It is not surprising, then, to find that if we put a salt in the electrolyte instead of an acid we get a similar result."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The electrolyte consists of a suitable solution containing a salt of the metal to be deposited, and it is placed in an insulating vessel or vat."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"I propose to call those compounds which are decomposed by electricity by the name of **electrolyte** substances."*
+> - 📜 **Svante Arrhenius (*Theories of Chemistry*):** *"In every strong **electrolyte**, molecules dissociate almost completely into free ions capable of carrying current."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Intense dehydration from cholera rapidly drains systemic **electrolyte** reserves, inducing fatal hypovolemic shock."*

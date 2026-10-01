@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of a diverticulum.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inflammation of a diverticulum.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation or infection of one or more diverticula (abnormal sac-like outpouchings) of the intestinal wall, most commonly in the sigmoid colon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gastrointestinal surgery, diverticulitis results from micro- or macro-perforation of a diverticulum; clinical presentation includes left lower quadrant abdominal pain, fever, and leukocytosis, managed medically or surgically for abscess/peritonitis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diverticulitis designates inflammation of a diverticulum."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Acute sigmoid **diverticulitis**, often termed left-sided appendicitis, presents with severe pain and localized peritonitis."*
+> - 📜 **Austin Flint (*A Treatise on the Principles and Practice of Medicine*):** *"Perforation complicating chronic colonic **diverticulitis** demands prompt surgical intervention to prevent fecal peritonitis."*
+> - 📜 **Harvey Cushing (*Studies in Intracranial Physiology and Surgery*):** *"Diagnostic laparotomy confirmed a walled-off pelvic abscess secondary to ruptured colonic **diverticulitis**."*

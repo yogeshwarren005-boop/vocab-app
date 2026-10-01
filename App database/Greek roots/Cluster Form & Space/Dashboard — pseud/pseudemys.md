@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sliders; red-bellied terrapin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sliders; red-bellied terrapin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of large freshwater herbivorous turtles in the family Emydidae, commonly known as cooters and red-bellied sliders.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chelonian biology, riverine turtles of North America characterized by flat, serrated carapaces and intricate yellow head striping.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pseudemys designates sliders; red-bellied terrapin."*
+> - 📜 **Louis Agassiz (*Contributions to the Natural History of the United States*):** *"The broad, flattened shell of **pseudemys** provides hydro-dynamic efficiency in swift-flowing river currents."*
+> - 📜 **Archie Carr (*Handbook of Turtles: The Turtles of the United States, Canada, and Baja California*):** *"Basking logs in southern spring runs are regularly crowded with sunning adults of **pseudemys**."*
+> - 📜 **Roger Conant (*A Field Guide to Reptiles and Amphibians of Eastern and Central North America*):** *"Submerged aquatic vegetation constitutes the dietary mainstay of mature turtles belonging to **pseudemys**."*

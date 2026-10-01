@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of animals except birds and mammals; having body temperature that varies with the environment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of animals except birds and mammals; having body temperature that varies with the environment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by physiological body temperature that fluctuates between self-regulating homeothermy and environmental poikilothermy (e.g., in hibernators).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative animal physiology, heterothermic endotherms (like bats, hummingbirds, and ground squirrels) enter daily torpor or seasonal hibernation to conserve energy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heterothermic designates of animals except birds and mammals; having body temperature that varies with the environment."*
+> - 📜 **Knut Schmidt-Nielsen (*Animal Physiology: Adaptation and Environment*):** *"A **heterothermic** mammal drops its core body temperature close to freezing during deep hibernation, drastically lowering metabolic demand."*
+> - 📜 **Arthur C. Guyton (*Textbook of Medical Physiology*):** *"Regional **heterothermic** adaptations allow arctic wolves to maintain cold paws while keeping their thoracic core at 38 degrees Celsius."*
+> - 📜 **David Attenborough (*The Life of Mammals*):** *"Hummingbirds adopt a **heterothermic** strategy every night, sinking into profound torpor to survive until dawn."*

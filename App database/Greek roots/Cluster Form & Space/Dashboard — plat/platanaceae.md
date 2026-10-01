@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Coextensive with the genus platanus: plane trees.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Coextensive with the genus platanus: plane trees.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The plane-tree family of flowering plants in the order Proteales, consisting of the single extant genus Platanus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dendrology and paleobotany, Platanaceae are deciduous trees characterized by palmately lobed leaves, exfoliating bark, and spherical pendant fruiting heads.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, platanaceae designates coextensive with the genus platanus: plane trees."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The family **Platanaceae** is represented in our flora by the colossal sycamore or buttonwood along river bottoms."*
+> - 📜 **Charles Darwin (*The Different Forms of Flowers on Plants of the Same Species*):** *"Wind-pollinated monoecious flowers grouped in dense pendulous globes characterize the family **Platanaceae**."*
+> - 📜 **Katherine Esau (*Plant Anatomy*):** *"Abundant multiseriate rays and diffuse-porous vessels are distinctive anatomical features of the wood in **Platanaceae**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek scler.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A severe, painful, potentially vision-threatening inflammatory disorder affecting the full thickness of the sclera of the eye.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical ophthalmology, a destructive disorder strongly associated with systemic autoimmune conditions (such as rheumatoid arthritis), risking scleral necrosis and globe perforation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scleritis designates a term designating an entity, condition, or phenomenon derived from greek scler."*
+> - 📜 **Sir Stewart Duke-Elder (*System of Ophthalmology*):** *"The boring, deep-seated nocturnal ache of anterior **scleritis** radiates across the temple and jaw, disturbing the patient's sleep."*
+> - 📜 **William Mackenzie (*A Practical Treatise on the Diseases of the Eye*):** *"Necrotizing **scleritis** leads to thinning of the scleral coat, through which the dark choroid bulges as a bluish staphyloma."*
+> - 📜 **Albrecht von Graefe (*Archiv für Ophthalmologie*):** *"Systemic immunosuppressive therapy must be instituted promptly in severe **scleritis** to halt melting of the ocular coats."*

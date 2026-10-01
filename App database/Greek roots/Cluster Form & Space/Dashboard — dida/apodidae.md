@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Swifts; in former classifications included in the order coraciiformes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Swifts; in former classifications included in the order coraciiformes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of highly aerial, insectivorous birds (commonly known as swifts) characterized by extremely short legs and long sickle-shaped wings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ornithology, species of Apodidae spend the vast majority of their lives in flight, roosting clinging vertically to cliff faces or hollow chimneys.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, apodidae designates swifts; in former classifications included in the order coraciiformes."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"Nests constructed from hardened saliva by members of **apodidae** are gathered in sea caves for trade throughout the East."*
+> - 📜 **Elliott Coues (*Key to North American Birds*):** *"The rudimentary feet of **apodidae** are adapted exclusively for clinging rather than perching or walking on horizontal ground."*
+> - 📜 **Ernst Mayr (*Animal Species and Evolution*):** *"Rapid adaptive radiation within the family **apodidae** produced unmatched aerodynamic efficiency among non-passerine birds."*

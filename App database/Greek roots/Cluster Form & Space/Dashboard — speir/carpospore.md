@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A diploid spore of a red alga.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A diploid spore of a red alga.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A diploid asexual spore produced within the carposporophyte phase of red algae (Rhodophyta) following fertilization.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In phycology, upon liberation from the cystocarp, a carpospore germinates into the diploid tetrasporophyte generation of the triphasic red algal life cycle.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carpospore designates a diploid spore of a red alga."*
+> - 📜 **Fritsch, F. E. (*The Structure and Reproduction of the Algae*):** *"Discharge of the naked **carpospore** occurs through the ostiole of the cystocarp into the surrounding ocean currents."*
+> - 📜 **Kathleen M. Drew-Baker (*Life History of Porphyra umbilicalis*):** *"Settling of the liberated **carpospore** upon mollusk shells produces the filamentous Conchocelis stage of the alga."*
+> - 📜 **Gilbert M. Smith (*Marine Algae of the Monterey Peninsula*):** *"Each microscopic **carpospore** contains dense floridean starch granules to sustain initial germination on coastal rocks."*

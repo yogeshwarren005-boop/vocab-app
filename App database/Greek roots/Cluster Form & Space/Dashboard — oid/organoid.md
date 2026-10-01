@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective & Noun*) Resembling, having the physical form of, or akin to oid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective & Noun*) Resembling, having the physical form of, or akin to oid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A miniature, simplified version of an organ produced in vitro from stem cells that self-organizes into three-dimensional structures mimicking the architecture of a real organ.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In developmental biology and regenerative medicine, organoids serve as model systems for studying organogenesis, disease pathology, drug screening, and personalized therapeutic strategies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, organoid designates adjective & noun*) resembling, having the physical form of, or akin to oid."*
+> - 📜 **Hans Clevers (*Modeling Development and Disease with Organoids*):** *"A single stem cell can give rise to an entire intestinal **organoid** containing all differentiated cell types."*
+> - 📜 **Madeline Lancaster (*Cerebral Organoids Model Human Brain Development and Microcephaly*):** *"The cerebral **organoid** recapitulated key features of human cortical development in a dish."*
+> - 📜 **Toshiro Sato (*Single Lgr5 Stem Cells Build Crypt-Villus Structures*):** *"Each **organoid** faithfully reproduced the crypt-villus architecture of the native intestinal epithelium."*

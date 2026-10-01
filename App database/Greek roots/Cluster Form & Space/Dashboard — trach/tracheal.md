@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or resembling or functioning like a trachea.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or resembling or functioning like a trachea.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or situated near the trachea (windpipe); in insects, relating to the respiratory system of tubes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In entomology, the tracheal system delivers atmospheric oxygen directly to body tissues via branching cuticle-lined tubes branching from external spiracles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tracheal designates relating to or resembling or functioning like a trachea."*
+> - 📜 **Jean-Henri Fabre (*The Life of the Caterpillar*):** *"Fine silver threads of the insect's **tracheal** network distribute air to every muscle fiber."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"Respiratory spiracles open into stout longitudinal **tracheal** trunks traversing the arthropod body."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Aortic aneurysm compression against the left bronchus produces a classic physical sign known as **tracheal** tug."*

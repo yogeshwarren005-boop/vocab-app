@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a short broad head with a cephalic index of over 80.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a short broad head with a cephalic index of over 80.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a short skull; having a cephalic index denoting brachycephaly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In osteometry and anthropometry, designating crania with a breadth-to-length ratio of 80% or greater.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, brachycranic designates having a short broad head with a cephalic index of over 80."*
+> - 📜 **Thomas Henry Huxley (*Man's Place in Nature*):** *"The fossil cranium was classified as **brachycranic** due to its truncated anteroposterior diameter."*
+> - 📜 **Francis Galton (*Inquiries into Human Faculty and Its Development*):** *"The photographic composite of the **brachycranic** subjects showed a broad, rounded facial outline."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In certain genetic dwarfisms, the **brachycranic** calvarium contrasts sharply with the stunted long bones."*

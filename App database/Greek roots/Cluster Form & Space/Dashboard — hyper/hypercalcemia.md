@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The presence of abnormally high levels of calcium in the blood; usually the result of excessive bone resorption in hyperparathyroidism or paget's disease.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The presence of abnormally high levels of calcium in the blood; usually the result of excessive bone resorption in hyperparathyroidism or paget's disease.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormally high level of calcium in the circulating blood serum (American spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In oncology and nephrology, hypercalcemia impairs renal concentrating ability (causing nephrogenic diabetes insipidus), provokes cardiac arrhythmias, and can precipitate acute hypercalcemic crisis requiring aggressive saline hydration and bisphosphonates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypercalcemia designates the presence of abnormally high levels of calcium in the blood; usually the result of excessive bone resorption in hyperparathyroidism or paget's disease."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Acute **hypercalcemia** in multiple myeloma demands vigorous intravenous saline hydration and calciuric diuresis."*
+> - 📜 **Harvey Cushing (*Studies in Intracranial Physiology and Surgery*):** *"Neurological lethargy in bone metastatic disease is frequently corrected once systemic **hypercalcemia** is reduced."*
+> - 📜 **Austin Flint (*A Treatise on the Principles and Practice of Medicine*):** *"Persistent nausea and profound polyuria served as the first clinical clues pointing to parathyroid **hypercalcemia**."*

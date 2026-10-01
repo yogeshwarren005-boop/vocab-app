@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Worm lizards.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Worm lizards.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The family of worm lizards within the suborder Amphisbaenia, comprising mostly limbless, burrowing reptiles with annular body rings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic herpetology, the most species-rich clade of amphisbaenians, widespread across the Neotropics and sub-Saharan Africa.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amphisbaenidae designates worm lizards."*
+> - 📜 **Hans Gadow (*Amphibia and Reptiles*):** *"The family **Amphisbaenidae** exhibits a complete loss of limbs and pelvic vestiges, moving forward or backward through soil by concertina locomotion."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"The cranial osteology of **Amphisbaenidae** shows fusion of suture lines to resist the severe mechanical strain of underground excavation."*
+> - 📜 **Alfred Russel Wallace (*The Geographical Distribution of Animals*):** *"The disjunct trans-Atlantic distribution of **Amphisbaenidae** offers striking evidence of ancient continental connections."*

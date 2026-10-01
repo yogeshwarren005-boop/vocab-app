@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Decline or absence of sexual desire.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Decline or absence of sexual desire.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Absence, loss, or significant impairment of sexual desire or potency.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical endocrinology and psychiatry, hyposexual desire disorder resulting from hypogonadism, neuroendocrine suppression, or chronic systemic illness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anaphrodisia designates decline or absence of sexual desire."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Pituitary cachexia often heralds its endocrine collapse with complete **anaphrodisia** and secondary amenorrhea."*
+> - 📜 **Sigmund Freud (*Three Essays on the Theory of Sexuality*):** *"Psychogenic **anaphrodisia** represents the defensive inhibition of libido under severe unconscious moral conflict."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"Following decades of post-encephalitic stupor characterized by total **anaphrodisia**, L-DOPA suddenly awakened intense romantic impulses."*

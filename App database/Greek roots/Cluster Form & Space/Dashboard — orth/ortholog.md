@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek orth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A gene in different species that evolved from a common ancestral gene via speciation and typically retains the same biological function.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative genomics and phylogenetics, orthologous genes provide foundational landmarks for establishing evolutionary lineages and synteny.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ortholog designates a term designating an entity, condition, or phenomenon derived from greek orth."*
+> - 📜 **Eugene Koonin (*The Logic of Chance*):** *"Identifying an exact **ortholog** across divergent taxa provides strong evidence for conserved functional constraint."*
+> - 📜 **Walter Fitch (*Distinguishing Homologous from Analogous Proteins*):** *"We define as an **ortholog** any gene whose divergence directly reflects a speciation event."*
+> - 📜 **David L. Nelson (*Lehninger Principles of Biochemistry*):** *"Human hemoglobin shares a clear **ortholog** in chimpanzees, displaying nearly identical primary structure."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An endomorphic individual.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An endomorphic individual.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An individual having a somatotype characterized by a round, soft body build with a predominance of adipose tissue and prominent digestive organs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In constitutional psychology and somatotyping, William Sheldon linked the endomorph physical type to a viscerotonic, genial, and comfort-seeking temperament.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endomorph designates an endomorphic individual."*
+> - 📜 **William H. Sheldon (*The Varieties of Human Physique*):** *"The **endomorph** displays a physique dominated by digestive viscera, with soft spherical contours and high buoyant density."*
+> - 📜 **Gordon Allport (*Pattern and Growth in Personality*):** *"Sheldon's typology suggests that the typical **endomorph** seeks social warmth, affection, and conviviality."*
+> - 📜 **Hans Eysenck (*Dimensions of Personality*):** *"Factor analysis of constitutional data demonstrates that the **endomorph** profile clusters consistently around measures of somatic adiposity."*

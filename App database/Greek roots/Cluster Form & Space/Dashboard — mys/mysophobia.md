@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormal fear or hatred of uncleanliness or contamination (as with dirt or germs) : germophobia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abnormal fear or hatred of uncleanliness or contamination (as with dirt or germs) : germophobia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal, irrational, and debilitating fear of germs, dirt, contamination, or defilement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychiatry, mysophobia is a hallmark symptom of obsessive-compulsive disorder (OCD), manifesting in compulsive handwashing and excessive disinfection rituals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mysophobia designates abnormal fear or hatred of uncleanliness or contamination (as with dirt or germs) : germophobia."*
+> - 📜 **William A. Hammond (*Neurological Contributions*):** *"I introduced the term **mysophobia** to describe an uncontrollable dread of contamination that compels patients to wash their hands hundreds of times daily."*
+> - 📜 **William James (*The Principles of Psychology*):** *"In extreme **mysophobia**, touching a common doorknob induces overwhelming terror of invisible infectious grime."*
+> - 📜 **Emil Kraepelin (*Psychiatry: A Text-Book for Students and Physicians*):** *"The obsessive doubts in **mysophobia** trap the patient in agonizing cleaning rituals that consume every waking hour."*

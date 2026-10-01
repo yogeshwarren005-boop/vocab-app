@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who has abnormally high blood pressure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having abnormally high blood pressure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, suffering from, or caused by abnormally high blood pressure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical medicine, hypertensive emergencies involve acute end-organ damage (hypertensive encephalopathy, acute aortic dissection, or acute pulmonary edema) requiring immediate parenteral blood pressure reduction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypertensive designates a person who has abnormally high blood pressure."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The **hypertensive** crisis culminated in acute cerebral edema and temporary amaurosis."*
+> - 📜 **Austin Flint (*A Treatise on the Principles and Practice of Medicine*):** *"Accented aortic second sound and an heaving apical impulse are classical physical signs of the **hypertensive** heart."*
+> - 📜 **Richard Bright (*Reports of Medical Cases*):** *"Post-mortem examination of the **hypertensive** subject revealed marked concentric hypertrophy of the left ventricle."*

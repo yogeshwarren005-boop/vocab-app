@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to ascospores.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to ascospores.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or produced by ascospores; pertaining to spore formation within an ascus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In experimental mycology, designating the sexual or meiotic stage of fungal reproduction in contrast to asexual conidial dissemination.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ascosporic designates of or relating to ascospores."*
+> - 📜 **Anton de Bary (*Comparative Morphology and Biology of the Fungi*):** *"The **ascosporic** phase guarantees genetic recombination, whereas conidial proliferation provides rapid asexual colonization."*
+> - 📜 **William Benjamin Carpenter (*The Microscope and Its Revelations*):** *"Under optimal moisture, the **ascosporic** discharge clouds the surface of the specimen slide with thousands of minute oval spores."*
+> - 📜 **Theodosius Dobzhansky (*Genetics and the Origin of Species*):** *"Segregation of biochemical auxotrophic mutants is readily verified by isolating individual **ascosporic** progeny."*

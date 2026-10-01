@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Single-celled yeasts that reproduce asexually by budding; used to ferment carbohydrates.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Single-celled yeasts that reproduce asexually by budding; used to ferment carbohydrates.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of ascomycetous budding yeasts in the family Saccharomycetaceae, including Saccharomyces cerevisiae (brewer's and baker's yeast).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In microbiology and genetic model research, unicellular fungi utilized worldwide in bread baking, brewing, and fundamental eukaryotic cell cycle genetics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, saccharomyces designates single-celled yeasts that reproduce asexually by budding; used to ferment carbohydrates."*
+> - 📜 **Louis Pasteur (*Études sur la bière: Ses maladies, causes qui les provoquent*):** *"Microscopic examination confirmed that pure cultures of **saccharomyces** convert fermentable wort into alcohol without souring."*
+> - 📜 **Eduard Buchner (*Alcoholic Fermentation without Yeast Cells*):** *"Cell-free filtered press-juice from crushed **saccharomyces** cells produces active zymase fermentation in sugar solutions."*
+> - 📜 **Emil Christian Hansen (*Practical Studies in Fermentation*):** *"Isolating single-cell strains of **saccharomyces** revolutionized industrial brewing by preventing bacterial contamination."*

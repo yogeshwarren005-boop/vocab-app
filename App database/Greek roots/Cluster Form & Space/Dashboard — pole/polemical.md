@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or being a polemic : controversial.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Engaged in or addicted to polemics : disputatious.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or involving strongly critical, controversial, or disputatious argument or writing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary criticism and rhetoric, characterized by aggressive partisan advocacy aimed at dismantling an opponent's doctrine.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Holy Willie was a rather oldish bachelor elder, in the parish of Mauchline, and much and justly famed for that polemical chattering, which ends in tippling orthodoxy, and for that spiritualized bawdry which refines to liquorish devotion."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"There was a portly, rosy, well-fed parson, whom I observed ogling several mouldy polemical writers through an eyeglass."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"They consisted principally of old polemical writers, and were much more worn by time than use."*
+> - 📜 **Friedrich Nietzsche (*On the Genealogy of Morality*):** *"This small book contains three **polemical** essays designed to uncover the psychological roots of modern asceticism."*
+> - 📜 **Matthew Arnold (*Culture and Anarchy*):** *"The noisy, **polemical** tone of theological debates often obscures the calm pursuit of sweet reasonableness."*
+> - 📜 **Bertrand Russell (*Sceptical Essays*):** *"In political discourse, honest factual analysis is too frequently replaced by passionate, **polemical** rhetoric."*

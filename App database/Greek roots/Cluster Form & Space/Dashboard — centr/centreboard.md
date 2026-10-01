@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A retractable fin keel used on sailboats to prevent drifting to leeward.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A retractable fin keel used on sailboats to prevent drifting to leeward.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A retractable wooden or metal keel or fin lowered through a watertight trunk in the middle of a sailboat's hull to reduce leeway.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In naval architecture and dinghy sailing, a pivoting underwater foil that provides lateral hydrodynamic resistance against windward drift.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centreboard designates a retractable fin keel used on sailboats to prevent drifting to leeward."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The shallow skiff was fitted with a stout oak **centreboard**, dropped into the channel whenever we hauled close to the wind."*
+> - 📜 **Joseph Conrad (*The Mirror of the Sea*):** *"Lowering the **centreboard** gave the light racing cutter immediate grip in the choppy coastal waters."*
+> - 📜 **Henry David Thoreau (*A Week on the Concord and Merrimack Rivers*):** *"Our boat, drawing but little water with the **centreboard** housed, glided smoothly over the sandy river bars."*

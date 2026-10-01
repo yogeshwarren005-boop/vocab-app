@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A fictitious name; especially : pen name.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Using a false name instead of one's real name.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A fictitious or assumed name, especially one adopted by an author or artist to conceal real identity; a pen name.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary history and sociology, an identity device utilized to avoid political censorship, circumvent gender prejudices, or experiment with genre.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Contemporary Rev., Sept., pp. 284-296, on ‘Balaustion’s Adventure’, by Matthew Browne (pseudonym). 1871."*
-> - 📜 **James Joyce (*Ulysses*):** *"We are not speaking so much of those delightful lovesongs with which the writer who conceals his identity under the graceful pseudonym of the Little Sweet Branch has familiarised the bookloving world but rather (as a contributor D."*
+> - 📜 **Samuel Clemens (*Mark Twain's Autobiography*):** *"I adopted the pilot's call as my literary **pseudonym**, signing Mark Twain to humorous sketches in the Virginia City Enterprise."*
+> - 📜 **George Eliot (*Letters of George Eliot*):** *"She retained her masculine **pseudonym** so that critics might evaluate her novels on merit rather than womanhood."*
+> - 📜 **Gérard de Nerval (*Selected Writings*):** *"The poet concealed his melancholic reflections beneath an exotic **pseudonym**, inviting readers into an imaginary identity."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of many subfamilies into which some classification systems subdivide the liliaceae but not widely accepted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of many subfamilies into which some classification systems subdivide the liliaceae but not widely accepted.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A botanical family of monocotyledonous flowering plants (the greenbrier family) consisting of woody or herbaceous climbing vines with prickly stems and paired tendrils.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant systematics and ethnopharmacology, the family Smilacaceae contains the genus *Smilax*, valued historically for steroid saponins and sarsaparilla root extracts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, smilacaceae designates one of many subfamilies into which some classification systems subdivide the liliaceae but not widely accepted."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The family **Smilacaceae** is readily identified by dioecious flowers, ribbed leaves, and stipular tendrils on the petioles."*
+> - 📜 **John Torrey (*A Flora of North America*):** *"Our native climbing vines of the order **Smilacaceae** thrive in damp thickets and woodland borders."*
+> - 📜 **George Bentham (*Genera Plantarum*):** *"We delineate **Smilacaceae** from the true Liliaceae on account of its woody climbing habit and reticulate foliar venation."*

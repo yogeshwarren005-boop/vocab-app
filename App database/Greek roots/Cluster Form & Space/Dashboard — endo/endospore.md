@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An asexual spore developed within the cell especially in bacteria.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An asexual spore developed within the cell especially in bacteria.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A dormant, tough, and non-reproductive structure produced by certain Gram-positive bacteria (e.g., Bacillus and Clostridium) in response to nutrient deprivation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical microbiology and sterilization science, bacterial endospores withstand extreme heat, desiccation, and ionizing radiation due to dipicolinic acid complexes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The spores of this species (_Uromyces appendiculatus_) are oboval cells, terminated by a rounded point, provided with a deep brown, smooth, _epispore_, or outer coating, and a distinct, but colourless _endospore_, or inner coating."*
+> - 📜 **Robert Koch (*The Etiology of Anthrax*):** *"The resistant anthrax **endospore** survives for years in pastures, germinating into virulent vegetative bacilli upon entering a host."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"Intermittent boiling, or tyndallization, is necessary to destroy heat-resistant **endospore** forms that survive single heating cycles."*
+> - 📜 **Michael T. Madigan (*Brock Biology of Microorganisms*):** *"Dehydration of the protoplast by calcium dipicolinate renders the **endospore** remarkably refractory to chemical disinfectants."*

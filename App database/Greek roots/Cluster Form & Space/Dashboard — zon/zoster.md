@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: shingles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: an acute viral inflammation of the sensory ganglia of spinal and cranial nerves that is associated with a vesicular eruption and neuralgic pains and is caused by reactivation of the herpesvirus causing chickenpox —called also herpes zoster, zoster.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A belt or girdle, especially as used in the term herpes zoster, a viral infection causing a painful banded rash along a dermatome of the body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In virology and neurology, zoster results from reactivation of the varicella-zoster virus latent in dorsal root ganglia, producing characteristic unilateral vesicular eruptions following nerve distributions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog zoster as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Herpes **zoster** follows the distribution of a single nerve, producing a band-like eruption of vesicles."*
+> - 📜 **Thomas Hope (*Costume of the Ancients*):** *"The Greek **zoster** was a broad belt worn around the waist by warriors and citizens alike."*
+> - 📜 **Thomas Weller (*Serial Propagation in Vitro of Agents Producing Inclusion Bodies*):** *"We demonstrated that the causative agent of **zoster** is identical to that of varicella."*

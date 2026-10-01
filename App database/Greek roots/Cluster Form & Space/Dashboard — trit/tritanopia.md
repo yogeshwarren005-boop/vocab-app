@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek trit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rare form of dichromacy in which the retina is completely insensitive to blue light, resulting in inability to distinguish blue from yellow.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In visual neurophysiology, tritanopia (blue-blindness) is caused by the complete absence of functional short-wavelength-sensitive (S) retinal cone photoreceptors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tritanopia designates a term designating an entity, condition, or phenomenon derived from greek trit."*
+> - 📜 **Hermann von Helmholtz (*Treatise on Physiological Optics*):** *"In complete **tritanopia**, the spectrum appears foreshortened at the violet end, collapsing blue into dark neutral gray."*
+> - 📜 **Thomas Young (*On the Theory of Light and Colours*):** *"A three-color theory implies that selective destruction of the violet-sensitive fibers produces the symptom of **tritanopia**."*
+> - 📜 **Oliver Sacks (*The Island of the Colorblind*):** *"While congenital red-green defects are common, true hereditary **tritanopia** remains exceedingly rare in clinical surveys."*

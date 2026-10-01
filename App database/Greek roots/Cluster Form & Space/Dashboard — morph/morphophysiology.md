@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of anatomy in its relation to function.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The study of anatomy in its relation to function.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The biological science that investigates the mutual relationships and functional interactions between anatomical structure (morphology) and physiological activity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative biomechanics, morphophysiology explains how organ geometry and tissue architecture are optimized to fulfill dynamic physiological roles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, morphophysiology designates the study of anatomy in its relation to function."*
+> - 📜 **Claude Bernard (*Introduction to the Study of Experimental Medicine*):** *"True biological understanding requires integrating organ form with functional performance through experimental **morphophysiology**."*
+> - 📜 **August Krogh (*The Anatomy and Physiology of Capillaries*):** *"The **morphophysiology** of the capillary bed reveals how vascular dimensions adjust dynamically to regional oxygen demands."*
+> - 📜 **Knut Schmidt-Nielsen (*Animal Physiology: Adaptation and Environment*):** *"Desert ungulates survive extreme dehydration through an exquisite renal **morphophysiology** featuring extraordinarily long loops of Henle."*

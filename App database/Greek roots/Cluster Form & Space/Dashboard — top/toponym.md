@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Place-name.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Place-name.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A place name, especially one derived from a topographical feature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural geography and cartography, a toponym reflects linguistic history, political commemoration, or environmental characteristics of a geographic locality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, toponym designates place-name."*
+> - 📜 **Edward Sapir (*Language: An Introduction to the Study of Speech*):** *"Every descriptive **toponym** in an indigenous tongue encapsulates a precise geographic or ecological observation."*
+> - 📜 **George R. Stewart (*Names on the Land: A Historical Account of Place-Naming in the United States*):** *"The continent was baptized with names; each newly bestowed **toponym** told of discovery, hope, or nostalgia."*
+> - 📜 **Claude Lévi-Strauss (*The Savage Mind*):** *"In traditional oral cultures, each mythic **toponym** marks a sacred stop along ancestral wandering routes."*

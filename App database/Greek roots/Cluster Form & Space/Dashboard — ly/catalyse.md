@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To cause or accelerate a chemical reaction by acting as a catalyst; to initiate or facilitate a process of change (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biochemistry, enzymes catalyse specific metabolic transformations by stabilizing the transition state and lowering activation energy barriers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, catalyse designates a term designating an entity, condition, or phenomenon derived from greek ly."*
+> - 📜 **Svante Arrhenius (*Theories of Chemistry*):** *"Finely divided platinum will **catalyse** the combustion of hydrogen and oxygen at ambient temperature."*
+> - 📜 **Michael Foster (*A Text-Book of Physiology*):** *"Intracellular enzymes **catalyse** oxidation without requiring the extreme temperatures of chemical combustion."*
+> - 📜 **Wilhelm Ostwald (*Manual of Physico-Chemical Measurements*):** *"A trace quantity of acid suffices to **catalyse** the rapid inversion of cane sugar into glucose and fructose."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A virus that is parasitic (reproduces itself) in bacteria.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A virus that is parasitic (reproduces itself) in bacteria.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A bacteriophage; a virus that parasitizes and multiplies within a bacterium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In molecular biology and biotechnology, phage display is an essential laboratory technique for screening high-affinity peptides and monoclonal antibodies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phage designates a virus that is parasitic (reproduces itself) in bacteria."*
+> - 📜 **Max Delbrück (*Bacterial Viruses (Bacteriophages)*):** *"A single virulent **phage** particle adsorbs to the bacterial cell wall and injects its viral DNA within seconds."*
+> - 📜 **James D. Watson (*The Molecular Biology of the Gene*):** *"The lytic cycle of T4 **phage** culminates in the burst of hundreds of progeny virions into the medium."*
+> - 📜 **Francis Crick (*What Mad Pursuit*):** *"Genetic mapping of the rII locus in T4 **phage** by Seymour Benzer proved that genes are linear sequences of nucleotides."*

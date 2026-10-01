@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a class or subclass (Liliopsida or Monocotyledoneae) of chiefly herbaceous angiospermous plants having an embryo with a single cotyledon, usually parallel-veined leaves, and floral organs arranged in cycles of three —called also monocot.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a class or subclass (Liliopsida or Monocotyledoneae) of chiefly herbaceous angiospermous plants having an embryo with a single cotyledon, usually parallel-veined leaves, and floral organs arranged in cycles of three —called also monocot.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A flowering plant whose embryo possesses a single cotyledon or seed leaf.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic botany, an angiosperm lineage (including grasses, lilies, orchids, and palms) characterized by parallel leaf venation, scattered stem vascular bundles, and floral parts in multiples of three.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monocotyledon designates any of a class or subclass (liliopsida or monocotyledoneae) of chiefly herbaceous angiospermous plants having an embryo with a single cotyledon, usually parallel-veined leaves, and floral organs arranged in cycles of three —called also monocot."*
+> - 📜 **Charles Darwin (*The Power of Movement in Plants*):** *"In a germinating **monocotyledon** like oats, the solitary cotyledon forms a protective sheath known as the coleoptile."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"The cereal grains upon which human civilization rests belong without exception to the great **monocotyledon** family of grasses."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels to the Equinoctial Regions of America*):** *"Giant palms rising above the tropical canopy demonstrate how a **monocotyledon** can achieve tree-like stature without secondary wood."*

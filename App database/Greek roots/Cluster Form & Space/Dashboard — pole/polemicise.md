@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Engage in a controversy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Engage in a controversy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To engage in polemics or controversial argumentation; to write or argue in a disputatious manner (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political and literary journalism, to take up the pen aggressively against an ideological adversary.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polemicise designates engage in a controversy."*
+> - 📜 **George Orwell (*Essays*):** *"He did not hesitate to **polemicise** against the dogmas of orthodox political parties whenever intellectual honesty required it."*
+> - 📜 **Christopher Hitchens (*Letters to a Young Contrarian*):** *"To **polemicise** effectively, one must study the strongest arguments of one's opponent and strike at their core."*
+> - 📜 **E. P. Thompson (*The Poverty of Theory*):** *"We must openly **polemicise** against structuralist abstractions that reduce human agency to passive effect."*

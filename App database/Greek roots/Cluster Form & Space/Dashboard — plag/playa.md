@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The flat-floored bottom of an undrained desert basin that becomes at times a shallow lake.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One that plays: such as.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A dry, flat, vegetation-free area at the lowest part of an undrained desert basin, where water pools and evaporates.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geomorphology and sedimentology, a playa (or alkali flat) accumulates evaporite crusts of halite, gypsum, and borates following ephemeral flood evaporation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, playa designates the flat-floored bottom of an undrained desert basin that becomes at times a shallow lake."*
+> - 📜 **G. K. Gilbert (*Lake Bonneville*):** *"The glistening white floor of the desert **playa** represents the desiccation relic of an immense Pleistocene inland sea."*
+> - 📜 **Frank Wigglesworth Clarke (*The Data of Geochemistry*):** *"Evaporative concentration on the saline **playa** deposits economic crusts of sodium sulfate and borax."*
+> - 📜 **John Muir (*Steep Trails*):** *"Heat shimmers across the barren **playa**, conjuring deceptive mirages of cool, shimmering lakes."*

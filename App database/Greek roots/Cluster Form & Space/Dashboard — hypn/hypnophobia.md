@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek hypn.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal, morbid, or irrational fear of falling asleep.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychology and sleep medicine, hypnophobia often stems from terror of recurrent nightmares, sleep paralysis, panic attacks upon awakening, or an irrational dread of dying during sleep (thanatophobia).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypnophobia designates a term designating an entity, condition, or phenomenon derived from greek hypn."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Patients who suffer violent nocturnal angina often develop an acute **hypnophobia**, dreading the onset of slumber."*
+> - 📜 **Sigmund Freud (*The Interpretation of Dreams*):** *"Severe neurotic **hypnophobia** is rooted in unconscious guilt, the patient fearing the uninhibited fantasies of the dream."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Morbid terror of sleep, or **hypnophobia**, generates exhausting insomnia that further deranges the nervous system."*

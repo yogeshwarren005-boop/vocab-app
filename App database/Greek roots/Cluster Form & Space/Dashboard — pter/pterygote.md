@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek pter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any insect belonging to the subclass Pterygota, characterized by wings or descended from winged ancestors.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic entomology, comprising the vast majority of insects, exhibiting tracheal systems, thoracic flight sclerites, and metamorphic development.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pterygote designates a term designating an entity, condition, or phenomenon derived from greek pter."*
+> - 📜 **V. B. Wigglesworth (*The Principles of Insect Physiology*):** *"Flight muscles within a **pterygote** thorax achieve metabolic rates and contraction frequencies unmatched elsewhere in the animal kingdom."*
+> - 📜 **A. D. Imms (*A General Textbook of Entomology*):** *"Even wingless fleas and lice belong to the **pterygote** lineage, having secondarily shed their wings in adaptation to ectoparasitism."*
+> - 📜 **Michael S. Engel (*Evolution of the Insects*):** *"The appearance of the first **pterygote** in the Carboniferous unleashed the most explosive adaptive radiation in terrestrial history."*

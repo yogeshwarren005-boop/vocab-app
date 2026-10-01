@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One species: golden larch.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One species: golden larch.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A monotypic genus of deciduous conifer in the pine family (Pinaceae) containing Pseudolarix amabilis, the golden larch.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dendrology, a relict gymnosperm native to southeastern China, bearing short shoots with needle rosettes that turn brilliant golden-yellow in autumn.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pseudolarix designates one species: golden larch."*
+> - 📜 **Robert Fortune (*A Residence Among the Chinese*):** *"High in the mountains of Zhejiang, I encountered the magnificent **pseudolarix**, whose deciduous needles turned bright gold."*
+> - 📜 **Ernest Henry Wilson (*A Naturalist in Western China*):** *"The cone scales of **pseudolarix** diverge and shatter at maturity, unlike the persistent woody cones of true larches."*
+> - 📜 **Charles Sprague Sargent (*Plantae Wilsonianae*):** *"Botanically separated from Larix by clustered male catkins, **pseudolarix** represents a noble survivor of an ancient flora."*

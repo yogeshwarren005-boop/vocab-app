@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A television broadcast.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Broadcast via television.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A broadcast program transmitted by television; also, to broadcast by means of television signals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In communications and media studies, a live telecast engages massive distributed audiences simultaneously, creating shared cultural moments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, telecast designates a television broadcast."*
+> - 📜 **Edward R. Murrow (*In Search of Light: The Broadcasts of Edward R. Murrow*):** *"The nationwide **telecast** demonstrated that electronic journalism could confront political intimidation directly in the homes of millions."*
+> - 📜 **David Sarnoff (*Looking Ahead: The Papers of David Sarnoff*):** *"The first transatlantic **telecast** relayed via Telstar proved that orbital satellites would unify world broadcasting."*
+> - 📜 **Marshall McLuhan (*Understanding Media*):** *"The immediacy of a live **telecast** dissolves the detached linear distance that characterized print culture."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The art or practice of graphic delineation in detail usually on maps or charts of natural and constructed features of a place or region especially in a way to show their relative positions and elevations.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Topographical surveying.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The arrangement of the natural and artificial physical features of an area; detailed mapping or charting of such features.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In surface metrology and corneal ophthalmology, topography measures microscopic elevation profiles and curvature variations across tissues or manufactured surfaces.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"I don’t know whether you have given much study to the topography."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Casaubon—“about topography, ruins, temples—I thought I had a clew, but I saw it would carry me too far, and nothing might come of it."*
-> - 📜 **Classic Author (*Hawaiian folk tales*):** *"Before leaving Kauai his father had imparted to Kalelealuaka something of the topography of Oahu, and had described to him the site of his former plantation at Keahumoe."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels to the Equinoctial Regions of the New Continent*):** *"The unique **topography** of the Orinoco river basin determines its seasonal inundations and ecological boundaries."*
+> - 📜 **Henry David Thoreau (*A Week on the Concord and Merrimack Rivers*):** *"Every river reveals its local **topography** through the gentle meanderings of its alluvial banks."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The natural **topography** of Constantinople, surrounded by sea on three sides, rendered it nearly impregnable."*

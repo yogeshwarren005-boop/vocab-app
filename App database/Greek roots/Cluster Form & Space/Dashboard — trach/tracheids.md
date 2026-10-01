@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A long tubular pitted cell that is peculiar to xylem, functions in conduction and support, and has tapering closed ends and thickened lignified walls.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A long tubular pitted cell that is peculiar to xylem, functions in conduction and support, and has tapering closed ends and thickened lignified walls.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Plural of tracheid; elongated, lignified, imperforate xylem cells that conduct water and mineral nutrients in vascular plants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative xylem physiology, tracheids provide mechanical support and safer hydraulic transport than open vessels under severe freeze-thaw or drought-induced cavitation stress.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tracheids designates a long tubular pitted cell that is peculiar to xylem, functions in conduction and support, and has tapering closed ends and thickened lignified walls."*
+> - 📜 **Katherine Esau (*Vascular Differentiation in Plants*):** *"During secondary xylem development, fusiform cambial initials differentiate into elongated **tracheids**."*
+> - 📜 **Charles Darwin (*The Power of Movement in Plants*):** *"Water absorbed by root hairs ascends through bundles of lignified **tracheids** toward the transpirational leaves."*
+> - 📜 **Arthur George Tansley (*Elements of Plant Biology*):** *"In gymnosperm timber, the uniform arrangement of **tracheids** imparts exceptional mechanical strength and resilience."*

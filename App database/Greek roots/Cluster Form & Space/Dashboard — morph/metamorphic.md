@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to metamorphosis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or produced by metamorphism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, produced by, or characterized by metamorphosis or structural transformation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In petrology and geology, designating rocks formed through the mineralogical and textural recrystallization of pre-existing rocks under high heat and tectonic pressure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metamorphic designates of or relating to metamorphosis."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"I proposed the term **metamorphic** to designate stratified rocks whose crystalline texture was induced by subterranean heat."*
+> - 📜 **James Hutton (*Theory of the Earth*):** *"Intense internal subterranean heat and pressure have remodeled sedimentary strata into durable **metamorphic** marble and slate."*
+> - 📜 **Alfred Harker (*Metamorphism*):** *"Regional stress reorients platy micaceous minerals perpendicular to maximum compression, developing the characteristic foliation of **metamorphic** schists."*

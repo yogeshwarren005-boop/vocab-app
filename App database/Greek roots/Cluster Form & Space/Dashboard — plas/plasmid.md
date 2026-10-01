@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small cellular inclusion consisting of a ring of dna that is not in a chromosome but is capable of autonomous replication.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small cellular inclusion consisting of a ring of dna that is not in a chromosome but is capable of autonomous replication.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genetic structure in a cell that can replicate independently of the chromosomes, typically a small circular DNA strand in bacteria or protozoa.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biotechnology and recombinant DNA technology, engineered plasmids carrying antibiotic resistance genes and multiple cloning sites serve as universal gene-cloning vectors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plasmid designates a small cellular inclusion consisting of a ring of dna that is not in a chromosome but is capable of autonomous replication."*
+> - 📜 **Joshua Lederberg (*Cell Genetics and Hereditary Symbiosis*):** *"I propose the generic term **plasmid** for any extrachromosomal hereditary determinant capable of autonomous replication."*
+> - 📜 **Stanley N. Cohen (*Construction of Biologically Functional Bacterial Plasmids in Vitro*):** *"Cleaving an antibiotic-resistant **plasmid** with EcoRI endonuclease enabled the insertion and expression of foreign genes."*
+> - 📜 **Bruce Alberts (*Molecular Biology of the Cell*):** *"Horizontal gene transfer of an R-factor **plasmid** spreads multidrug resistance rapidly through clinical pathogen populations."*

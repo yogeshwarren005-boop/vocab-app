@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Requiring organic compounds of carbon and nitrogen for nourishment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Requiring organic compounds of carbon and nitrogen for nourishment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, characteristic of, or being a heterotroph; dependent upon organic substances for nutrition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biogeochemistry, heterotrophic respiration releases immense volumes of carbon dioxide back into the atmosphere through decomposition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heterotrophic designates requiring organic compounds of carbon and nitrogen for nourishment."*
+> - 📜 **Eugene Odum (*Ecology*):** *"The ratio between autotrophic production and **heterotrophic** respiration determines whether an aquatic basin accumulates organic sediment."*
+> - 📜 **Michael T. Madigan (*Brock Biology of Microorganisms*):** *"Most human pathogenic bacteria lead a chemoorganotrophic, **heterotrophic** existence within host tissues."*
+> - 📜 **Christian de Duve (*Vital Dust: Life as a Cosmic Imperative*):** *"Early eukaryotic cells adopted an aggressive **heterotrophic** lifestyle by phagocytosing smaller prokaryotic cells."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of bare.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of bare.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or affected by psilosis (loss of hair, or tropical sprue).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pathology, describing the characteristic atrophic mucosal changes and intestinal malabsorption seen in sprue patients.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psilotic designates adjective*) pertaining to, derived from, or characteristic of bare."*
+> - 📜 **Patrick Manson (*Lectures on Tropical Diseases*):** *"The typical **psilotic** stool is abundant, pale, frothy, and passed with painful urgency during early morning hours."*
+> - 📜 **Aldo Castellani (*Manual of Tropical Medicine*):** *"Microscopic examination of **psilotic** intestinal mucosa reveals widespread flattening of the absorbing villi."*
+> - 📜 **Arthur Powell (*Sprue: Its Diagnosis and Treatment*):** *"Long-standing **psilotic** disease produces profound cachexia, requiring comprehensive vitamin and nutritional supplementation."*

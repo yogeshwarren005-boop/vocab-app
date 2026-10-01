@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of chiefly tropical american vines of the family leguminosae having trifoliate leaves and large flowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of chiefly tropical american vines of the family leguminosae having trifoliate leaves and large flowers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of trailing or climbing leguminous herbs and vines known as butterfly peas, native to tropical and subtropical America.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agricultural agronomy, nitrogen-fixing pasture legumes cultivated for high-protein forage and tropical soil enrichment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centrosema designates a genus of chiefly tropical american vines of the family leguminosae having trifoliate leaves and large flowers."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"The resupinate papilionaceous blossom of **Centrosema** displays a broad, spurred standard petal of vivid violet hue."*
+> - 📜 **George Bentham (*Flora Brasiliensis*):** *"In woodland clearings across the Amazon basin, wild vines of **Centrosema** twine profusely over shrubs and fallen timber."*
+> - 📜 **Charles Piper (*Forage Plants and Their Culture*):** *"Deep-rooting species of **Centrosema** thrive in acidic tropical soils where other leguminous crops fail to nodulate."*

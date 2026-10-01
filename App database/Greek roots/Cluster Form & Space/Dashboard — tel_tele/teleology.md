@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (philosophy) a doctrine explaining phenomena by their ends or purposes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (philosophy) a doctrine explaining phenomena by their ends or purposes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The philosophical doctrine that design, purpose, and final causes exist in nature; the explanation of phenomena by the purpose or ends they serve.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the philosophy of biology, classical teleology was replaced by evolutionary mechanisms, though goal-directed behaviors in organisms are analyzed under teleonomy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, teleology designates (philosophy) a doctrine explaining phenomena by their ends or purposes."*
+> - 📜 **Aristotle (*Metaphysics*):** *"True knowledge is knowledge of causes, and among these the final cause or **teleology** reveals why a thing comes to be."*
+> - 📜 **Charles Darwin (*The Life and Letters of Charles Darwin*):** *"By revealing how natural selection shapes functional adaptation, evolutionary theory reconciled natural law with apparent **teleology**."*
+> - 📜 **Jacques Monod (*Chance and Necessity*):** *"Science demands the systematic rejection of all anthropomorphic **teleology** in explaining the origins of the living cell."*

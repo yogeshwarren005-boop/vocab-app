@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Butterfly rays.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Butterfly rays.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of marine rays commonly known as butterfly rays (family Gymnuridae), characterized by an extremely wide, diamond-shaped disc and a short, slender tail.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chondrichthyan ichthyology, Gymnura species possess pectoral disc wings wider than long, gliding smoothly over shallow subtropical sandy flats.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gymnura designates butterfly rays."*
+> - 📜 **David Starr Jordan (*The Fishes of North and Middle America*):** *"The broad, wing-like pectoral expanse of **gymnura** allows it to burst forward and bury instantly in coastal sand."*
+> - 📜 **G. A. Boulenger (*Catalogue of the Perciform Fishes in the British Museum*):** *"The diagnostic short tail of **gymnura** lacks dorsal fins and bears only a rudimentary, harmless caudal spine."*
+> - 📜 **Rachel Carson (*Under the Sea-Wind*):** *"Resting flat on the seabed, the butterfly ray **gymnura** watched the mullet schools pass through the coastal inlet."*

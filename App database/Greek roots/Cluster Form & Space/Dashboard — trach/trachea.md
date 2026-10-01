@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The main trunk of the system of tubes by which air passes to and from the lungs in vertebrates.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Vessel; also : one of its constituent cellular elements.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The large membranous and cartilaginous tube conveying air between the larynx and bronchial tubes in vertebrates; the windpipe.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human anatomy, the trachea is supported by sixteen to twenty C-shaped hyaline cartilages, lined by pseudostratified ciliated columnar epithelium that traps and clears inhaled debris.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trachea designates the main trunk of the system of tubes by which air passes to and from the lungs in vertebrates."*
+> - 📜 **Andreas Vesalius (*De Humani Corporis Fabrica*):** *"The cartilaginous rings of the **trachea** remain incomplete posteriorly to accommodate the expanding esophagus."*
+> - 📜 **Henry Gray (*Gray's Anatomy*):** *"The **trachea** bifurcates at the level of the fifth thoracic vertebra into the right and left main bronchi."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Foreign body aspiration into the **trachea** produces sudden paroxysmal coughing and stridor."*

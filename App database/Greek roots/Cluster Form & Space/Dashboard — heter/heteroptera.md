@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: True bugs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: True bugs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A suborder of true bugs (order Hemiptera) having forewings divided into a hardened basal corium and a membranous apical tip (hemelytra).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic entomology, Heteroptera includes shield bugs, bed bugs, water striders, and assassin bugs, possessing piercing-sucking mouthparts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heteroptera designates true bugs."*
+> - 📜 **R. F. Chapman (*The Insects: Structure and Function*):** *"The forewings in **heteroptera** overlap flat across the back, with the membranous tips covering the abdomen at rest."*
+> - 📜 **V. B. Wigglesworth (*The Principles of Insect Physiology*):** *"Rhodnius prolixus, a member of **heteroptera**, served as the classic laboratory model for uncovering insect juvenile hormone mechanisms."*
+> - 📜 **Vincent Dethier (*The Hungry Fly*):** *"Predatory members of **heteroptera** inject digestive saliva through their stylets to liquefy prey tissues before ingestion."*

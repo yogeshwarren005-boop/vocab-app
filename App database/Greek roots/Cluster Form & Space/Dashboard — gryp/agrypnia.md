@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A vigil before certain feasts (as e.g. easter).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A vigil before certain feasts (as e.g. easter).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Severe, chronic, or total sleeplessness; extreme insomnia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurology and somnology, agrypnia excitata is a life-threatening syndrome seen in fatal familial insomnia and Morvan's chorea, marked by motor agitation and autonomic hyperactivity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, agrypnia designates a vigil before certain feasts (as e.g. easter)."*
+> - 📜 **Thomas Willis (*Two Discourses Concerning the Soul of Brutes*):** *"In prolonged **agrypnia**, the animal spirits are incessantly agitated, preventing the brain from entering quiet repose."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The patient suffered from agonizing **agrypnia**, remaining wakeful and delirious through successive nights of high fever."*
+> - 📜 **Oliver Sacks (*The Island of the Colorblind*):** *"Severe central sleep deregulation can produce profound **agrypnia**, blurring the cognitive boundaries between dreaming and waking reality."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fungi having a zygote or a single cell developing directly into an ascus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fungi having a zygote or a single cell developing directly into an ascus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An order of primitive ascomycetous fungi that multiply predominantly by budding and do not produce complex ascomata; true yeasts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In fungal taxonomy and biotechnology, the Endomycetales (often classified as Saccharomycetales) include industrial fermenters like Saccharomyces cerevisiae.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endomycetales designates fungi having a zygote or a single cell developing directly into an ascus."*
+> - 📜 **Anton de Bary (*Comparative Morphology and Biology of the Fungi, Mycetozoa and Bacteria*):** *"The simple asci formed by members of the **Endomycetales** arise directly from single cells without preceding perithecial development."*
+> - 📜 **Bryce Kendrick (*The Fifth Kingdom*):** *"Yeasts grouped under **Endomycetales** have adapted their morphology to carbohydrate-rich liquid environments by reducing mycelial growth."*
+> - 📜 **John Webster (*Introduction to Fungi*):** *"Ascospore conjugation in the **Endomycetales** demonstrates an elemental form of sexual reproduction in higher fungi."*

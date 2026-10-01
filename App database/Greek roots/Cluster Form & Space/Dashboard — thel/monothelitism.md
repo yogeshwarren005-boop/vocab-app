@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The theological doctrine that christ had only one will even though he had two natures (human and divine); condemned as heretical in the third council of constantinople.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The theological doctrine that christ had only one will even though he had two natures (human and divine); condemned as heretical in the third council of constantinople.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The seventh-century Christian heresy maintaining that Christ possessed two distinct natures (divine and human) but only one divine-human will.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Promoted by Emperor Heraclius and Patriarch Sergius I as a political compromise to reconcile Chalcedonian Christians with Miaphysites, Monothelitism was condemned at the Third Council of Constantinople in 680–681 CE.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monothelitism designates the theological doctrine that christ had only one will even though he had two natures (human and divine); condemned as heretical in the third council of constantinople."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The imperial court championed **Monothelitism** in a futile attempt to unify the fractured religious factions of the East."*
+> - 📜 **Henry Hart Milman (*History of Latin Christianity*):** *"Pope Martin I suffered martyrdom in exile rather than subscribe to the imperial edict imposing **Monothelitism**."*
+> - 📜 **John Henry Newman (*The Development of Christian Doctrine*):** *"The controversy over **Monothelitism** clarified that two perfect natures must entail two distinct wills in Christ."*

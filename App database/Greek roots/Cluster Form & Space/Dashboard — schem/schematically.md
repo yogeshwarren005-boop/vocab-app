@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a schematic manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a schematic manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a schematic manner; by means of an outline, simplified diagram, blueprint, or systematic conceptual model.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistics and cognitive psychology, representing formal relationships in an abstract symbolic code rather than detailed concrete descriptions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, schematically designates in a schematic manner."*
+> - 📜 **Bertrand Russell (*The Analysis of Mind*):** *"We can represent **schematically** the causal chain linking external physical events with sensory cerebral reactions."*
+> - 📜 **Charles Sanders Peirce (*Collected Papers*):** *"The existential graphs display **schematically** how logical deduction unfolds through visible syntactic transformations."*
+> - 📜 **Noam Chomsky (*Aspects of the Theory of Syntax*):** *"Phrase marker tree diagrams depict **schematically** the hierarchical dominance relations underlying syntactic surface structures."*

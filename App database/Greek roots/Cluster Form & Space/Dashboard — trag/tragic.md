@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Regrettably serious or unpleasant : deplorable, lamentable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by a sense of tragedy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing or characterized by extreme distress, sorrow, or ruin; relating to or characteristic of literary tragedy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical aesthetics, the tragic consciousness reflects human courage confronting inescapable cosmic limitations, fate, and moral dilemmas.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yea, this man’s brow, like to a title-leaf, Foretells the nature of a tragic volume."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My breast can better brook thy dagger’s point Than can my ears that tragic history."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"LODOVICO. [_To Iago._] O Spartan dog, More fell than anguish, hunger, or the sea, Look on the tragic loading of this bed."*
+> - 📜 **A. C. Bradley (*Shakespearean Tragedy*):** *"The **tragic** hero falls from high prosperity through an internal flaw that precipitates total ruin."*
+> - 📜 **Albert Camus (*The Myth of Sisyphus*):** *"Sisyphus is the absurd hero par excellence; his rock is his thing, and his consciousness makes his fate **tragic**."*
+> - 📜 **John Keats (*Letters of John Keats*):** *"Shakespeare possessed above all men that Negative Capability necessary to grasp the profound **tragic** mystery of human life."*

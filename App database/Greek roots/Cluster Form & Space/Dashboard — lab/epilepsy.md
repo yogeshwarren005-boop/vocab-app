@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various disorders marked by abnormal electrical discharges in the brain and typically manifested by sudden brief episodes of altered or diminished consciousness, involuntary movements, or convulsions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used or tending to control epileptic seizures : antiepileptic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chronic non-communicable neurological disorder characterized by recurrent, unprovoked seizures resulting from excessive, hypersynchronous electrical discharges in cerebral neurons.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neurology, classified into focal, generalized, and combined epilepsies; historically known as the 'sacred disease' (debunked by Hippocrates), clinical manifestations range from brief absence episodes to generalized tonic-clonic convulsions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"My lord is fallen into an epilepsy."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"No disease is found to be more obstinate than epilepsy, yet several instances are recorded of patients being restored to perfect health."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Several times in years past I have asked for the prayers of this meeting, and always found them answered." CURED OF EPILEPSY."*
+> - 📜 **Hippocrates (*On the Sacred Disease*):** *"It is not, in my opinion, any more divine than other diseases; **epilepsy** has a natural cause from which it originates, like all others."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Major **epilepsy** is ushered in by an aura, followed immediately by sudden cry, loss of consciousness, and violent clonic convulsions."*
+> - 📜 **Hughlings Jackson (*Selected Writings of John Hughlings Jackson*):** *"I define **epilepsy** as an occasional, sudden, excessive, rapid, and local discharge of the gray matter of some part of the brain."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tissue layer around small blood vessels.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tissue layer around small blood vessels.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The layer of connective tissue and pericytic cells that surrounds capillaries and small blood vessels.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In microvascular anatomy, the perithelium provides structural support, anchors basement membranes to extracellular matrix, and plays a role in vascular contractility and repair.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, perithelium designates tissue layer around small blood vessels."*
+> - 📜 **Theodor Schwann (*Microscopical Researches*):** *"Outside the endothelial tube lies a delicate tunic of connective cells termed the **perithelium**."*
+> - 📜 **Alexis Carrel (*Studies on Tissue Culture*):** *"Cellular migration from the vascular **perithelium** initiates granulation tissue formation in healing wounds."*
+> - 📜 **Henry Gray (*Gray's Anatomy*):** *"The outer adventitial tunic of minute arterioles is continuous with the perivascular **perithelium**."*

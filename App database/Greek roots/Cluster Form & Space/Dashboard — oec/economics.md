@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A social science concerned chiefly with description and analysis of the production, distribution, and consumption of goods and services.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Economic theory, principles, or practices.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The social science that studies the production, distribution, and consumption of goods, services, and wealth in human societies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In academic inquiry, economics combines microeconomic models of consumer choice with macroeconomic analyses of national income and central banking.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"In the latter aspect her d’Urberville descent was a fact of great dimensions; worthless to economics, it was a most useful ingredient to the dreamer, to the moralizer on declines and falls."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Economics--Volume II MODERN ECONOMIC PROBLEMS BY FRANK A."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Problems of agricultural economics 27."*
+> - 📜 **Alfred Marshall (*Principles of Economics*):** *"Political economy or **economics** is a study of mankind in the ordinary business of life; it examines that part of individual and social action which is most closely connected with the attainment and with the use of the material requisites of wellbeing."*
+> - 📜 **John Maynard Keynes (*Essays in Biography*):** *"The study of **economics** does not seem to require any specialized gifts of an unusually high order, yet good economists are extremely rare."*
+> - 📜 **Paul Samuelson (*Economics: An Introductory Analysis*):** *"Modern **economics** analyzes how societies use scarce resources to produce valuable commodities and distribute them among different people."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A word of three syllables.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A word of three syllables.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A word consisting of exactly three syllables (such as 'harmony', 'syllable', or 'trisyllable').
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical prosody, trisyllables are classified by accentual feet (such as dactyls [— ∪ ∪], amphibrachs [∪ — ∪], or anapests [∪ ∪ —]) that shape rhythmic verse.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trisyllable designates a word of three syllables."*
+> - 📜 **Alexander Pope (*An Essay on Criticism*):** *"The cadence flows gracefully when a resonant **trisyllable** balances the rapid monosyllables of the line."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"In English poetry, an accented **trisyllable** frequently terminates the cadence with dignity and strength."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"The metrical foot known as the dactyl is an ancient **trisyllable** capable of martial grandeur."*

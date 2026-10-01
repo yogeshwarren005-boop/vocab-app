@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek the.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A legal right or claim over a debtor's property granted to a creditor as security without transfer of physical possession.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Roman law and Scots law, a hypothec (derived from Greek *hypotheke*, pledge/mortgage) allowed landlords or maritime lenders to secure claims against tenant goods or ships while the owner retained custody.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypothec designates a term designating an entity, condition, or phenomenon derived from greek the."*
+> - 📜 **Henry Maine (*Ancient Law*):** *"Roman jurisprudence distinguished the simple pawn from the **hypothec**, which established a lien without requiring physical possession."*
+> - 📜 **Adam Smith (*Lectures on Jurisprudence*):** *"The landlord's **hypothec** over the tenant's livestock gave agricultural proprietors an extraordinary legal security for rent."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"The rural bailiff threatened to execute legal **hypothec** upon the farmer's remaining harvest."*

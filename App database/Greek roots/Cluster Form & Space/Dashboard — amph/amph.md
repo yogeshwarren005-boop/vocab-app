@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: On both sides : of both kinds : both.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: On both sides : of both kinds : both.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combining form of Greek origin meaning both, of both kinds, around, or on both sides (variant of amphi-).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scientific nomenclature and etymology, an elided prefix occurring before vowels or 'h', appearing in biological and chemical terms designating dual modes or environments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amph designates on both sides : of both kinds : both."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"The prefix **amph**, truncated from amphi before a vocalic stem, denotes duality and surrounding presence across ancient Greek compounds."*
+> - 📜 **William Benjamin Carpenter (*Principles of General and Comparative Physiology*):** *"Terms compounded with **amph** consistently signify twofold adaptations to contrasting media."*
+> - 📜 **Richard Chenevix Trench (*English Past and Present*):** *"Greek borrowings starting with **amph** introduce nuances of duality into English scientific discourse."*

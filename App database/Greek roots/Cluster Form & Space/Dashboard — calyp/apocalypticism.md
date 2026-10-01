@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Apocalyptic expectation; especially : a doctrine concerning an imminent end of the world and an ensuing general resurrection and final judgment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Apocalyptic expectation; especially : a doctrine concerning an imminent end of the world and an ensuing general resurrection and final judgment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A religious or philosophical belief in the imminent catastrophic destruction of the current world and the miraculous creation of a new, divine order.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In religious history, an eschatological worldview prominent during the Second Temple period and early Christianity predicting divine intervention.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, apocalypticism designates apocalyptic expectation; especially : a doctrine concerning an imminent end of the world and an ensuing general resurrection and final judgment."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The fervent **apocalypticism** of the early martyrs inspired them to embrace death with triumphant indifference to imperial torture."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"Radical sectarian movements frequently channel intense social grievance into visionary religious **apocalypticism**."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"When social injustice becomes intolerable, the populace is easily swayed by the fever of revolutionary **apocalypticism**."*

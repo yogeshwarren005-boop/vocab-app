@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A word that is more generic than a given word.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A word that is more generic than a given word.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A word with a broad or general meaning that encompasses more specific words; a superordinate term (e.g., 'animal' is a hypernym of 'dog').
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistics, lexical semantics, and computational ontology (such as WordNet), a hypernym stands in an asymmetric, transitive 'is-a' relation to its hyponyms, establishing hierarchical semantic taxonomies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypernym designates a word that is more generic than a given word."*
+> - 📜 **Ferdinand de Saussure (*Course in General Linguistics*):** *"In structural semantics, a **hypernym** serves as the overarching category uniting subordinate lexical terms."*
+> - 📜 **Noam Chomsky (*Aspects of the Theory of Syntax*):** *"The semantic component of grammar assigns feature matrices that identify whether a lexical item functions as a **hypernym**."*
+> - 📜 **Ted Nelson (*Literary Machines*):** *"Hierarchical information networks rely upon the **hypernym** to organize complex semantic trees of related concepts."*

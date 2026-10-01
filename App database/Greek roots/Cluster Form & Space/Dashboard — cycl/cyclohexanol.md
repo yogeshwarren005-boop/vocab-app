@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A colorless oily alcohol that smells like camphor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A colorless oily alcohol that smells like camphor.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An alicyclic organic alcohol consisting of a six-membered carbon ring bonded to a hydroxyl group ($C_6H_{11}OH$).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial chemical synthesis, a clear, viscous liquid produced by catalytic hydrogenation of phenol, used primarily as an intermediate in the production of adipic acid and caprolactam for nylon manufacturing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cyclohexanol designates a colorless oily alcohol that smells like camphor."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"Oxidation of **cyclohexanol** with nitric acid ruptures the carbon ring to produce adipic acid, a foundational precursor of Nylon 66."*
+> - 📜 **Alexander Todd (*A Time to Remember*):** *"Catalytic reduction of phenol over Raney nickel affords a clean, quantitative yield of liquid **cyclohexanol**."*
+> - 📜 **J. D. Bernal (*The Physical Basis of Life*):** *"The boat and chair conformations of **cyclohexanol** illuminate the energetic constraints operating on non-planar six-membered carbon rings."*

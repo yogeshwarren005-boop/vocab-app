@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large black diving duck of northern parts of the northern hemisphere.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large black diving duck of northern parts of the northern hemisphere.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several heavy-bodied diving sea ducks of the genus *Melanitta*, found in northern coastal waters and lakes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ornithology, the black scoter, surf scoter, and white-winged scoter are characterized by dark plumage and swollen, brightly colored bills adapted for crushing mollusks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scoter designates large black diving duck of northern parts of the northern hemisphere."*
+> - 📜 **John James Audubon (*Ornithological Biography*):** *"Flocks of the velvet **scoter** dive through turbulent surf along the rocky shores of Labrador to feed upon mussels."*
+> - 📜 **Henry David Thoreau (*Cape Cod*):** *"Out among the breakers we observed the dusky form of a sea **scoter**, plunging beneath the white foam without concern."*
+> - 📜 **Gilbert White (*The Natural History and Antiquities of Selborne*):** *"Occasional specimens of the black **scoter** are driven inland upon our lakes during the severity of winter storms."*

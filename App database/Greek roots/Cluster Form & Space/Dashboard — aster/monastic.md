@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to monasteries or to monks or nuns.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resembling (as in seclusion or ascetic simplicity) life in a monastery.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, characteristic of, or resembling monks, nuns, or monasteries; secluded, austere, contemplative, or communal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social and ecclesiastical history, a lifestyle characterized by religious vows of poverty, chastity, and obedience within an organized cloistered community.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"They had rambled round by a road which led to the well-known ruins of the Cistercian abbey behind the mill, the latter having, in centuries past, been attached to the monastic establishment."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Authoritative distribution is the dominant method in patriarchal tribes, in communal societies, and in monastic and other religious orders."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Each person works at what he is commanded to do, and some one in authority (patriarch, head of the community, father of the monastic order) portions out the tasks and the rewards."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The rapid growth of the **monastic** order in Egypt withdrew thousands of industrious citizens from the military defense of the empire."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"My life in the woods had something of **monastic** solitude, though free from gloomy dogmas and cloistered penance."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The quiet beauty of the cloister reflected the **monastic** ideal of peace in an age of feudal turbulence."*

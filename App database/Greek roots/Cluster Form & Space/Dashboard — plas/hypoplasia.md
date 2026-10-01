@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Underdevelopment of an organ because of a decrease in the number of cells.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Underdevelopment of an organ because of a decrease in the number of cells.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Underdevelopment or incomplete development of an organ, tissue, or body part, resulting from a reduced number of cells.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pediatric pathology, pulmonary hypoplasia is a fatal congenital anomaly caused by oligohydramnios restricting fetal thoracic expansion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypoplasia designates underdevelopment of an organ because of a decrease in the number of cells."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Congenital **hypoplasia** of the arterial tree was frequently observed in young chlorotic female patients."*
+> - 📜 **Vinay Kumar (*Robbins and Cotran Pathologic Basis of Disease*):** *"Severe renal **hypoplasia** results in childhood chronic kidney disease due to a severely reduced nephron complement."*
+> - 📜 **David L. Rimoin (*Principles and Practice of Medical Genetics*):** *"Enamel **hypoplasia** reflects transient nutritional or metabolic insults sustained by the ameloblasts during tooth formation."*

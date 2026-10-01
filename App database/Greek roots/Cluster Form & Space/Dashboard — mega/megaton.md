@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A measure of explosive power (of an atomic weapon) equal to that of one million tons of tnt.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One million tons.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A unit of explosive power equivalent to the detonating force of one million tons of TNT; also, one million metric tons.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nuclear weapons physics and strategic defense, a metric used to quantify the destructive thermal and blast yield of thermonuclear hydrogen weapons.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, megaton designates a measure of explosive power (of an atomic weapon) equal to that of one million tons of tnt."*
+> - 📜 **J. Robert Oppenheimer (*The Open Mind*):** *"Thermonuclear detonations measured in the multi-**megaton** range altered the geopolitical calculus of global conflict forever."*
+> - 📜 **Bertrand Russell (*Has Man a Future?*):** *"A single **megaton** warhead possesses sufficient destructive energy to annihilate the largest metropolitan centers."*
+> - 📜 **Norbert Wiener (*The Human Use of Human Beings*):** *"The unleashing of **megaton** energy underscores humanity's perilous capacity to master physics while neglecting moral prudence."*

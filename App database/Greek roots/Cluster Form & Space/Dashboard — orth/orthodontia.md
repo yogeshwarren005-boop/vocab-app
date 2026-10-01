@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Orthodontics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dental appliances (such as braces) used in orthodontic treatment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The dental specialty concerned with the diagnosis, prevention, and correction of malpositioned teeth and misaligned bite patterns.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dentistry, the practice of utilizing corrective appliances and braces to rectify dentofacial abnormalities and guide jaw growth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, orthodontia designates orthodontics."*
+> - 📜 **Edward Angle (*Treatment of Malocclusion of the Teeth and Fractures of the Maxillae*):** *"The ultimate objective of **orthodontia** is to establish normal occlusion and harmony throughout the masticatory apparatus."*
+> - 📜 **Martin Dewey (*Practical Orthodontia*):** *"Early intervention in **orthodontia** allows the clinician to harness facial growth rather than merely repositioning crowns."*
+> - 📜 **Calvin S. Case (*The Techniques and Principles of Dental Orthopedia*):** *"Proper diagnosis in **orthodontia** requires an appreciation of the entire physiological architecture of the face."*

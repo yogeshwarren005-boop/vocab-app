@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mostly australian herbs having basal or alternate leaves and loosely corymbose flower heads.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mostly australian herbs having basal or alternate leaves and loosely corymbose flower heads.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of annual and perennial herbaceous flowering plants in the daisy family Asteraceae, native mostly to Australasia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ornamental horticulture, commonly called the Swan River daisy (Brachycome iberidifolia), cultivated for its profuse, fragrant, daisy-like blossoms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, brachycome designates mostly australian herbs having basal or alternate leaves and loosely corymbose flower heads."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"For summer borders and rockeries, few annuals excel the delicate violet and azure rays of **Brachycome**."*
+> - 📜 **Asa Gray (*Synoptical Flora of North America*):** *"The genus **Brachycome** is distinguished from Aster by its abbreviated pappus and compressed, winged achenes."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The southern flora exhibits charming diminutive composites, among which **Brachycome** carpets the sandy margins."*

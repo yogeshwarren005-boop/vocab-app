@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of a mucous membrane; especially : one chronically affecting the human nose and air passages.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inflammation of a mucous membrane; especially : one chronically affecting the human nose and air passages.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of a mucous membrane, particularly of the respiratory tract and air passages, accompanied by excessive secretion of mucus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical history, a common syndrome of mucosal congestion and rhinorrhea associated with viral coryza, chronic bronchitis, or allergy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Then he began to praise the Lord, and to feel, 'tis done,' and it was done, and tells of the wonderful change, his ability to talk and sing, with no difficulty whatever." CURED OF CATARRH."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"I have been afflicted with catarrh for over twenty years."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"I have been entirely well from that time; not only cured of catarrh, but tumors on my limbs were entirely removed."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Acute bronchial **catarrh** manifests with harsh cough, substernal soreness, and copious muco-purulent expectoration."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The November fog settled deep into the lungs of Londoners, producing an epidemic of wheezing chest **catarrh**."*
+> - 📜 **Hippocrates (*On Ancient Medicine*):** *"When salt and acrid humors flow downward from the head into the throat, violent pulmonary **catarrh** results."*

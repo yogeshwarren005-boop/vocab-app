@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Second : secondary.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Second : secondary.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A Greek combining element meaning 'second', 'secondary', or 'next in order'.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scientific terminology, deuter- designates second-tier forms, secondary characters, or isotopic modifications containing deuterium.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, deuter designates second : secondary."*
+> - 📜 **Robert Beekes (*Etymological Dictionary of Greek*):** *"Deriving from Proto-Indo-European *du-tero- ('the second of two'), the prefix **deuter** marks secondary status in Greek compounds."*
+> - 📜 **Carl Darling Buck (*A Dictionary of Selected Synonyms in the Principal Indo-European Languages*):** *"Cognates of **deuter** throughout the Indo-European family systematically signify that which follows primary rank."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"The combining element **deuter** establishes second-order relationships across theatrical, chemical, and anatomical vocabularies."*

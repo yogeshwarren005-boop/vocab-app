@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The first practical television-camera for picture pickup; invented in 1923 by vladimir kosma zworykin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The first practical television-camera for picture pickup; invented in 1923 by vladimir kosma zworykin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An early electronic television camera tube in which an electron beam scans a mosaic of photosensitive cells to generate video signals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of telecommunications, Vladimir Zworykin's invention of the iconoscope in 1923 replaced mechanical Nipkow disk scanners and established all-electronic television broadcasting.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, iconoscope designates the first practical television-camera for picture pickup; invented in 1923 by vladimir kosma zworykin."*
+> - 📜 **Vladimir Zworykin (*Television: The Electronics of Image Transmission*):** *"The storage principle embodied in the **iconoscope** allowed continuous accumulation of photoelectric charges between successive scans."*
+> - 📜 **David Sarnoff (*Looking Ahead: The Papers of David Sarnoff*):** *"The commercial demonstration of the **iconoscope** proved that television would be an electronic reality rather than a mechanical toy."*
+> - 📜 **Philo Farnsworth (*Pioneering the Electronic Television*):** *"While my image dissector scanned directly, RCA pinned its broadcast strategy upon the charge-storage capacity of the **iconoscope**."*

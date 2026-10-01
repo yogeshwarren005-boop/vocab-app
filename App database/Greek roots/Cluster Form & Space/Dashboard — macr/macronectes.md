@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Giant petrels.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Giant petrels.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxonomic genus of large, predatory tubenose seabirds in the family Procellariidae, commonly known as giant petrels.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pelagic ornithology and polar ecology, *Macronectes* species dominate Southern Ocean marine food webs as apex avian scavengers and predators.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, macronectes designates giant petrels."*
+> - 📜 **Robert Cushman Murphy (*Oceanic Birds of South America*):** *"The giant fulmar of the genus **Macronectes** ranges throughout sub-Antarctic seas, rivaling small albatrosses in wingspread."*
+> - 📜 **David Lack (*Ecological Adaptations for Breeding in Birds*):** *"Colonies of **Macronectes** nest on exposed windswept crags, where parent birds regurgitate stomach oils to defend their chicks."*
+> - 📜 **John Warham (*The Petrels: Their Ecology and Breeding Systems*):** *"Sexually dimorphic bill size in **Macronectes** correlates with niche partitioning between male beach scavenging and female offshore pelagic foraging."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of branch.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of branch.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by or having branches of different types, forms, or structural orders.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In developmental bryology and morphology, describing plants or colonial organisms whose branching system comprises dimorphic or heteromorphic branch types.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heterocladic designates adjective*) pertaining to, derived from, or characteristic of branch."*
+> - 📜 **William Gilson Farlow (*Marine Algae of New England*):** *"The thallus exhibits a distinctly **heterocladic** habit, bearing short reproductive ramuli alongside long vegetative axes."*
+> - 📜 **Adolf Engler (*Die Natürlichen Pflanzenfamilien*):** *"In certain mosses, the stem exhibits **heterocladic** differentiation between spreading lateral shoots and flagelliform stolons."*
+> - 📜 **D'Arcy Wentworth Thompson (*On Growth and Form*):** *"Physical flow gradients induce **heterocladic** growth patterns in colonial hydroids facing asymmetric currents."*

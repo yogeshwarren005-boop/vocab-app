@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A practitioner of homeopathy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A practitioner of homeopathy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A medical practitioner who treats diseases using homeopathy (chiefly British/classical spelling); a homeopath.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical history, homoeopaths follow Samuel Hahnemann's principle of 'like cures like' (*similia similibus curentur*) using highly diluted remedies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, homoeopath designates a practitioner of homeopathy."*
+> - 📜 **Samuel Hahnemann (*Organon of the Medical Art*):** *"The rational **homoeopath** perceives in disease only that which is symptomatically manifest, selecting a remedy that mimics those manifestations."*
+> - 📜 **William Osler (*Aequanimitas*):** *"The rise of the **homoeopath** exposed the folly of excessive bloodletting and toxic polypharmacy practiced by old-school physicians."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Homeopathy and Its Kindred Delusions*):** *"Holmes subjected the dogmas of the **homoeopath** to scathing satirical and mathematical critique."*

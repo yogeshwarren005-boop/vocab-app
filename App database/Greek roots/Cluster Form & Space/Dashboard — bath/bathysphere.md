@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A strongly built steel diving sphere for deep-sea observation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A strongly built steel diving sphere for deep-sea observation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A spherical, heavy steel deep-sea diving chamber lowered into the ocean on a cable, used for underwater scientific observation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In oceanographic history, the pioneering diving apparatus designed by William Beebe and Otis Barton in the 1930s to observe deep-sea life off Bermuda down to 923 meters.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bathysphere designates a strongly built steel diving sphere for deep-sea observation."*
+> - 📜 **William Beebe (*Half Mile Down*):** *"Peering out through the thick quartz window of the **bathysphere**, I saw brilliant bioluminescent flashes in the pitch darkness."*
+> - 📜 **Rachel Carson (*Under the Sea-Wind*):** *"The descent of the **bathysphere** gave naturalists their first direct glimpse into the mysterious twilight zones of the ocean."*
+> - 📜 **Alister Hardy (*The Open Sea: Its Natural History*):** *"Barton and Beebe proved in their **bathysphere** that the deep sea was teeming with strange, undescribed pelagic forms."*

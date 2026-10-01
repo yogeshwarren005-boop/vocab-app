@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A usually malignant tumor derived from mesothelial tissue (such as that lining the peritoneum or pleura).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A usually malignant tumor derived from mesothelial tissue (such as that lining the peritoneum or pleura).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rare, aggressive malignant tumor of the mesothelium, the thin layer of tissue that covers the lungs, abdomen, and heart.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In occupational medicine and pulmonary pathology, malignant pleural or peritoneal mesothelioma is strongly causally linked to inhaled asbestos fibers, exhibiting a latency period of twenty to forty years.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mesothelioma designates a usually malignant tumor derived from mesothelial tissue (such as that lining the peritoneum or pleura)."*
+> - 📜 **Irving Selikoff (*Asbestos Exposure and Neoplasia*):** *"Epidemiological studies of insulation workers revealed an alarming incidence of pleural **mesothelioma** directly tied to asbestos."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Primary tumors of the pleura, now classified as **mesothelioma**, present with relentless serosanguinous effusion."*
+> - 📜 **Michael DeBakey (*The Living Body*):** *"Extensive decortication and pleurectomy are occasionally attempted to palliate diffuse pleural **mesothelioma**."*

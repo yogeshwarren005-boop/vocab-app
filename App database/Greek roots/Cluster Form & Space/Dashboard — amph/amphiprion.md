@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Damsel fishes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Damsel fishes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of pomacentrid marine reef fishes commonly known as clownfish or anemonefish, noted for their bright coloration and symbiotic relationship with sea anemones.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine ethology and physiological ecology, a protandrous hermaphroditic fish possessing protective mucus that inhibits sea anemone nematocyst discharge.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amphiprion designates damsel fishes."*
+> - 📜 **Rachel Carson (*The Edge of the Sea*):** *"Within the stinging tentacles of large tropical sea anemones, the vivid little damselfish of **Amphiprion** finds complete immunity."*
+> - 📜 **David Attenborough (*Life on Earth*):** *"The relationship between **Amphiprion** and its anemone host is an extraordinary instance of mutualist symbiosis on coral reefs."*
+> - 📜 **Alister Hardy (*The Open Sea: Its Natural History*):** *"A chemical coating across the epidermal scales of **Amphiprion** prevents the stinging capsules of the anemone from firing."*

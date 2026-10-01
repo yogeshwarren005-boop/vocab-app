@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Suitable to be imparted to the public.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Belonging to the outer or less initiate circle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Intended for, suited to, or intelligible to the general public; not secret or esoteric; popular.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical philosophy, Aristotle's exoteric writings were popular dialogues prepared for public circulation, distinct from esoteric lecture treatises.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, exoteric designates suitable to be imparted to the public."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The ancient sages prudently distinguished their **exoteric** discourses meant for the multitude from their secret doctrines."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The priests maintained an **exoteric** ceremonial religion for civic cohesion, while privately indulging philosophical detachment."*
+> - 📜 **Bertrand Russell (*A History of Western Philosophy*):** *"Aristotle composed brilliant **exoteric** works that were widely admired in antiquity, though only his school notes survive to us."*

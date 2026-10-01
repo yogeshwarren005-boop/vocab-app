@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ne.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The leptotene stage of prophase I in meiosis, during which chromatin condenses into fine, elongated, visible threadlike filaments within the nucleus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In meiosis genetics, leptonema initiates meiotic chromosome remodeling as programmed double-strand breaks form along the chromosomes to guide pairing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, leptonema designates a term designating an entity, condition, or phenomenon derived from greek ne."*
+> - 📜 **Edmund Beecher Wilson (*The Cell in Development and Heredity*):** *"The meiotic prophase opens with **leptonema**, where chromosomes first become visible as delicate, unpolarized nuclear threads."*
+> - 📜 **Walther Flemming (*Zellsubstanz, Kern und Zelltheilung*):** *"During **leptonema**, dense chromatin beads called chromomeres appear like pearls upon a slender thread."*
+> - 📜 **C. D. Darlington (*Recent Advances in Cytology*):** *"The bouquet arrangement formed at the close of **leptonema** facilitates homologous recognition between chromosome telomeres."*

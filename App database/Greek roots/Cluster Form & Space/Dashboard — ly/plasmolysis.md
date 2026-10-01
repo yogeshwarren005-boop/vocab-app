@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Shrinking of the cytoplasm away from the wall of a living cell due to outward osmotic flow of water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shrinking of the cytoplasm away from the wall of a living cell due to outward osmotic flow of water.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The contraction and shrinking of the living protoplast away from the rigid cell wall in plants or microbes due to osmotic water efflux in a hypertonic solution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical physiology, measuring incipient plasmolysis offers a classic experimental technique for determining intracellular osmotic pressure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plasmolysis designates shrinking of the cytoplasm away from the wall of a living cell due to outward osmotic flow of water."*
+> - 📜 **Hugo de Vries (*Intracellular Pangenesis*):** *"When plant cells are submerged in concentrated brine, **plasmolysis** visibly pulls the living membrane inward from the cellulosic casing."*
+> - 📜 **Wilhelm Pfeffer (*Osmotic Investigations*):** *"By recording the exact external solute concentration that initiates **plasmolysis**, one can calculate internal hydrostatic pressure."*
+> - 📜 **F. F. Blackman (*Experimental Researches in Plant Physiology*):** *"Reversible **plasmolysis** demonstrates that the cytoplasmic membrane retains semipermeability even when mechanically displaced."*

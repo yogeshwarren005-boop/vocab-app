@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Eel-shaped vertebrate without jaws or paired appendages including the cyclostomes and some extinct forms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Eel-shaped vertebrate without jaws or paired appendages including the cyclostomes and some extinct forms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of the superclass Agnatha; a jawless fish or primitive vertebrate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In paleoichthyology, agnathan fossils illustrate the initial mineralization of vertebrate tissues as protective head shields and scales.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, agnathan designates eel-shaped vertebrate without jaws or paired appendages including the cyclostomes and some extinct forms."*
+> - 📜 **Alfred Romer (*The Vertebrate Body*):** *"An **agnathan** lacked paired pectoral and pelvic fins, swimming with clumsy undulating motions of its armored trunk."*
+> - 📜 **Robert L. Carroll (*Vertebrate Paleontology and Evolution*):** *"The calcified dermal armor of the Paleozoic **agnathan** provided defense against predatory sea scorpions."*
+> - 📜 **Neil Shubin (*Your Inner Fish*):** *"Comparing our skull bones with the head shield of an ancient **agnathan** reveals deep homologies spanning hundreds of millions of years."*

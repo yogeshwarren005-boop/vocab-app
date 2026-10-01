@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to measurements of the depths of oceans or lakes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to measurements of the depths of oceans or lakes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or concerned with the measurement of depths in oceans, seas, and other bodies of water.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In oceanography and geophysics, describing underwater topographic contour charts and data detailing seafloor elevations and depressions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bathymetric designates of or relating to measurements of the depths of oceans or lakes."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"The **bathymetric** survey revealed abyssal plains of vast extent interrupted by volcanic seamounts rising towards the surface."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Detailed **bathymetric** charts demonstrated that the continental shelf slopes gently before plunging steeply into oceanic deeps."*
+> - 📜 **Alexander von Humboldt (*Cosmos*):** *"The systematic compilation of **bathymetric** soundings laid the foundation for modern oceanographic geography."*

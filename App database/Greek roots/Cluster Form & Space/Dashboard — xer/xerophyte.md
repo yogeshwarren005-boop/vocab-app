@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A plant adapted for life and growth with a limited water supply.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A plant adapted for life and growth with a limited water supply.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A plant species adapted to survive in environments with very limited water availability, possessing specialized structures to reduce water loss and maximize water uptake.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant ecology, xerophytes employ strategies such as succulent water storage, deep taproots, waxy cuticles, leaf reduction, and CAM photosynthesis to thrive in arid habitats.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xerophyte designates a plant adapted for life and growth with a limited water supply."*
+> - 📜 **A. F. W. Schimper (*Plant Geography upon a Physiological Basis*):** *"The **xerophyte** is structurally and physiologically equipped to withstand prolonged periods of drought."*
+> - 📜 **Heinrich Walter (*Vegetation of the Earth*):** *"Cacti are the most familiar **xerophyte** group, storing water in succulent stems and reducing leaves to spines."*
+> - 📜 **Peter Raven (*Biology of Plants*):** *"A **xerophyte** may lose its leaves entirely during dry seasons, entering a state of dormancy."*

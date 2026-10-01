@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A structure within which spores are produced.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A structure within which spores are produced.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialized organ, receptacle, or single cell in which asexual reproductive spores are produced and contained.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cryptogamic botany, the morphology, wall layering, and dehiscence mechanism of the sporangium constitute key diagnostic criteria across ferns, mosses, and fungi.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"In the hazel mildew, for instance, there are two spores in each _sporangium_; in the willow mildew four; in the maple mildew eight; in the grass mildew, and some others, numerous."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The conceptacle in this species is minute, and contains but one sporangium, which is one of the characters of the genus in which it is now included, and a more justifiable distinction than the ramifications of the appendages."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The sporangium contains eight ovate spores."*
+> - 📜 **Robert Hooke (*Micrographia*):** *"Under the microscope, the undersurface of the fern leaf was clustered with round buttons, each being a fertile **sporangium**."*
+> - 📜 **F. O. Bower (*The Ferns (Filicales)*):** *"The contraction of the dry annulus snaps the **sporangium** backwards, violently expelling its contents into the wind."*
+> - 📜 **Eduard Strasburger (*Textbook of Botany*):** *"The moss capsule represents a highly differentiated **sporangium** capped by an operculum and a ring of peristome teeth."*

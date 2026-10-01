@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Living symbiotically with ants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Living symbiotically with ants.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Living in, benefiting from, or exhibiting a mutualistic, commensal, or dependent relationship with ants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical ecology, myrmecophilous plants provide nesting hollows and nectar rewards in exchange for ant defense against herbivores.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, myrmecophilous designates living symbiotically with ants."*
+> - 📜 **William Morton Wheeler (*Ants: Their Structure, Development and Behavior*):** *"The **myrmecophilous** lycaenid caterpillars pacify protective ant escorts by secreting drops of nutritious honey from dorsal glands."*
+> - 📜 **Charles Darwin (*The Effects of Cross and Self Fertilisation in the Vegetable Kingdom*):** *"Extrafloral nectaries attract swarms of **myrmecophilous** guards that drive destructive caterpillars from tender young shoots."*
+> - 📜 **Daniel Janzen (*Coevolution of Mutualism Between Ants and Acacias*):** *"In Central America, the **myrmecophilous** swollen-thorn acacias maintain resident ant colonies throughout all seasons."*

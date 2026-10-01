@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of stamp, model.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of stamp, model.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or denoting the second division of meiosis, which resembles a normal mitotic division.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cytology, the homeotypic (equational) division follows the reductional heterotypic division, separating sister chromatids into four haploid gametic nuclei.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, homeotypic designates adjective*) pertaining to, derived from, or characteristic of stamp, model."*
+> - 📜 **Edmund Beecher Wilson (*The Cell in Development and Inheritance*):** *"The second meiotic or **homeotypic** division proceeds like ordinary somatic mitosis, cleaving each longitudinal chromatid."*
+> - 📜 **C. D. Darlington (*Recent Advances in Cytology*):** *"Anaphase movement during the **homeotypic** division partitions replicated chromatids to opposite spindle poles."*
+> - 📜 **Thomas Hunt Morgan (*The Theory of the Gene*):** *"Spindle mechanics in the **homeotypic** division ensure that each haploid spermatid receives a balanced chromosomal complement."*

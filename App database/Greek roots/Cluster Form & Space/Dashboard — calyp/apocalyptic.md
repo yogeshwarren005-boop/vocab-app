@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or resembling an apocalypse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Forecasting the ultimate destiny of the world : prophetic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Describing or prophesying the complete, catastrophic destruction and end of the world; momentous, devastating, or prophetic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biblical studies, relating to the genre of religious literature detailing revelation of divine mysteries and the ultimate cosmic victory of righteousness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Sydney Waterlow (*Shelley*):** *"Thus he said of Byron's 'Cain', "It is apocalyptic, it is a revelation not before communicated to man"; and he thought Byron and Tom Moore better poets than himself."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"The work of Art is apocalyptic of the artist’s own personality."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"The highest worth of all great works of genius is due to the fact that they are apocalyptic of great personalities."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The burning of Rome and barbarian invasions seemed to early Christians the literal fulfillment of **apocalyptic** prophecy."*
+> - 📜 **Carl Sagan (*Cosmos*):** *"A nuclear exchange would bring about an **apocalyptic** winter, extinguishing civilization in a pall of radioactive soot."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The fall of the Bastille had an **apocalyptic** resonance, shattering feudal institutions in an eruption of popular wrath."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek cycl.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A semicircular recess, curved alcove, or semicircular stone bench in classical Greco-Roman architecture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical archaeology and landscape gardening, an exedra or curved stone conversation bench built along pathways or in garden nymphaea.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemicyclium designates a term designating an entity, condition, or phenomenon derived from greek cycl."*
+> - 📜 **Vitruvius (*The Ten Books on Architecture*):** *"A spacious **hemicyclium** was constructed in the palaestra where philosophers and rhetoricians could dispute in comfort."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Scholars walked the shaded terraces of Hadrian's villa, resting upon marble seats in the cool **hemicyclium**."*
+> - 📜 **James Fergusson (*A History of Architecture in All Countries*):** *"The Pompeian street of tombs is famous for its elegant stone **hemicyclium**, offered as a resting place for wayfarers."*

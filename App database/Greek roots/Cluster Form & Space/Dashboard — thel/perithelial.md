@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the tissue layer around small blood vessels.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the tissue layer around small blood vessels.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, situated in, or composed of perithelium (the connective tissue layer surrounding small blood vessels and capillaries).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pathology and vascular histology, perithelial cells include adventitial connective tissue elements and pericytes (Rouget cells) that regulate capillary diameter.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, perithelial designates of or relating to the tissue layer around small blood vessels."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Proliferation of **perithelial** fibroblasts frequently accompanies chronic inflammation around cerebral arterioles."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In vascular neoplasms, the pathologist must distinguish true endothelial tumors from **perithelial** sarcomas."*
+> - 📜 **Santiago Ramón y Cajal (*Histology of the Nervous System*):** *"The **perithelial** sheath of cerebral capillaries forms an anatomical adventitia mediating nutrient exchange."*

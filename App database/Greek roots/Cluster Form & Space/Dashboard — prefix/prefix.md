@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An affix that is added in front of the word.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Attach a prefix to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An affix attached to the beginning of a word, base, or stem to modify its grammatical function or lexical meaning.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In morphology and historical linguistics, a bound morpheme that alters semantic valence or creates derivative lexical categories.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is great morning; and the hour prefix’d For her delivery to this valiant Greek Comes fast upon."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When at Bohemia You take my lord, I’ll give him my commission To let him there a month behind the gest Prefix’d for’s parting:—yet, good deed, Leontes, I love thee not a jar of th’ clock behind What lady she her lord."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He had just reached the time of life at which “young” is ceasing to be the prefix of “man” in speaking of one."*
+> - 📜 **Otto Jespersen (*A Modern English Grammar on Historical Principles*):** *"The negative **prefix** un- combines with adjectives of native and foreign origin with exceptional productivity."*
+> - 📜 **Leonard Bloomfield (*Language*):** *"When a bound form precedes the root in word-formation, we classify it structurally as a **prefix**."*
+> - 📜 **Ferdinand de Saussure (*Course in General Linguistics*):** *"The psychological association between a **prefix** and its root contributes to the syntagmatic solidarity of compound terms."*

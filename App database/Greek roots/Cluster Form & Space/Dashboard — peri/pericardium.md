@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The conical sac of serous membrane that encloses the heart and the roots of the great blood vessels of vertebrates.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cavity or space that contains the heart of an invertebrate and in arthropods is a part of the hemocoel.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The conical fibroserous sac enclosing the heart and the roots of the great cardiac vessels.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cardiovascular anatomy, the pericardium consists of an outer fibrous layer and an inner serous layer whose parietal and visceral lamina lubricate cardiac contraction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pericardium designates the conical sac of serous membrane that encloses the heart and the roots of the great blood vessels of vertebrates."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"The fibrous **pericardium** is firmly attached below to the central tendon of the diaphragm."*
+> - 📜 **William Harvey (*De Motu Cordis*):** *"The heart pulses freely within the moist enclosure of the **pericardium**, protected from friction against neighboring viscera."*
+> - 📜 **Eugene Braunwald (*Heart Disease*):** *"Constriction of a calcified **pericardium** severely limits end-diastolic cardiac filling."*

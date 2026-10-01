@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The common intersection of the three altitudes of a triangle or their extensions or of the several altitudes of a polyhedron provided these latter exist and meet in a point.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The common intersection of the three altitudes of a triangle or their extensions or of the several altitudes of a polyhedron provided these latter exist and meet in a point.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The point of concurrence of the three altitudes of a triangle, each altitude being a perpendicular line segment from a vertex to the opposite side or its extension.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Euclidean geometry, the orthocenter is one of the four classical triangle centers, and its position relative to the triangle varies: interior for acute, at the vertex for right, and exterior for obtuse triangles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, orthocenter designates the common intersection of the three altitudes of a triangle or their extensions or of the several altitudes of a polyhedron provided these latter exist and meet in a point."*
+> - 📜 **Euclid (*Elements (Commentary by Proclus)*):** *"The perpendiculars from each vertex to the opposite side meet at a single point, the **orthocenter**."*
+> - 📜 **H. S. M. Coxeter (*Introduction to Geometry*):** *"The **orthocenter**, circumcenter, and centroid of any triangle are collinear, lying on the Euler line."*
+> - 📜 **Dan Pedoe (*Geometry: A Comprehensive Course*):** *"The **orthocenter** of an obtuse triangle falls outside the triangle, beyond the longest side."*

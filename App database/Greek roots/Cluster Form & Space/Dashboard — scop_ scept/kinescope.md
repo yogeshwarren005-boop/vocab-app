@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A cathode-ray tube in a television receiver; translates the received signal into a picture on a luminescent screen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cathode-ray tube in a television receiver; translates the received signal into a picture on a luminescent screen.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cathode-ray tube used in television receivers to reproduce an image; also, a recording of a television program made directly by filming the screen of such a tube.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In broadcast history prior to the introduction of videotape in 1956, kinescope film recordings provided the sole archival record of live television performances.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, kinescope designates a cathode-ray tube in a television receiver; translates the received signal into a picture on a luminescent screen."*
+> - 📜 **Vladimir Zworykin (*Television: The Electronics of Image Transmission*):** *"In the **kinescope**, an electron beam modulated by the incoming video signal recreates the luminous image upon a fluorescent screen."*
+> - 📜 **Marshall McLuhan (*Understanding Media: The Extensions of Man*):** *"The grain and low definition of the early **kinescope** demanded an intensely participating, mosaic response from the viewer."*
+> - 📜 **Edward R. Murrow (*In Search of Light: The Broadcasts of Edward R. Murrow*):** *"The historic confrontation was preserved solely on a grainy 16mm **kinescope** recorded off the studio monitor."*

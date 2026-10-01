@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To defeat or confound thoroughly especially by indirect or deceptive means.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Affectedly or pretentiously elegant or refined in manners or tastes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A Greek root meaning 'to teach', 'instruct', or 'explain', forming the base for terms relating to education, pedagogical instruction, and doctrine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical linguistics and etymology, dida- stems from the reduplicated PIE root *dek- ('to take, accept, learn').
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dida designates to defeat or confound thoroughly especially by indirect or deceptive means."*
+> - 📜 **Robert Beekes (*Etymological Dictionary of Greek*):** *"The verb didaskein originates from the reduplicated causative formation of the root **dida**, signifying to cause someone to learn."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"From **dida** emerge the rich lexical families of didactic poetry, pedagogical drama, and doctrinal treatise."*
+> - 📜 **Pierre Chantraine (*Dictionnaire étymologique de la langue grecque*):** *"The semantic progression from receiving knowledge to active imparting is preserved in Greek words formed on **dida**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking symmetry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking symmetry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not symmetric; lacking symmetry, balance, or equal correspondence of parts; asymmetric.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In organic chemistry and crystallography, unsymmetric substitutions on ring structures give rise to positional isomerism and dipole moments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unsymmetric designates lacking symmetry."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"The **unsymmetric** charge distribution in polar molecules creates an electrical dipole that governs solubility."*
+> - 📜 **D'Arcy Wentworth Thompson (*On Growth and Form*):** *"Differential growth rates along one flank of the embryo produce an **unsymmetric** anatomical form."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"The magnetic field around the **unsymmetric** pole-piece exhibited severe local distortion."*

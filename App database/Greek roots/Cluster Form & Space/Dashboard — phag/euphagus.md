@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of icteridae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of icteridae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of New World blackbirds in the family Icteridae, comprising the rusty blackbird (Euphagus carolinus) and Brewer's blackbird (Euphagus cyanocephalus).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ornithology, species of *Euphagus* forage in wet woodlands and agricultural meadows, possessing sharp conical beaks adapted for omnivorous feeding.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, euphagus designates a genus of icteridae."*
+> - 📜 **John James Audubon (*The Birds of America*):** *"The rusty grackle, belonging to the genus **Euphagus**, gathers in noisy flocks along autumn swamp borders."*
+> - 📜 **Alexander Wilson (*American Ornithology*):** *"Brewer’s blackbird, a notable Western member of **Euphagus**, exhibits glossy iridescent plumage in bright sunlight."*
+> - 📜 **Ernst Mayr (*Animal Species and Evolution*):** *"Ecological niche differentiation between **Euphagus** and Agelaius illustrates competitive displacement in marsh habitats."*

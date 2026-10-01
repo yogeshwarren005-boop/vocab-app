@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a parenthetical manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a parenthetical manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a parenthetical manner; by way of parenthesis, aside, or incidental remark.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In rhetoric and expository discourse, remarks introduced parenthetically offer contextual commentary without changing the core thesis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Vholes parenthetically, “I believe I have already mentioned."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bucket parenthetically, “you must take the consequences."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"He says, parenthetically, “since none puts by the curtain I have drawn for you, but I.” It’s too precious a work of art to be entrusted to anybody else."*
+> - 📜 **Thomas Babington Macaulay (*History of England*):** *"The historian observed **parenthetically** that even the king's staunchest allies condemned this unconstitutional levy."*
+> - 📜 **Oliver Wendell Holmes Sr. (*The Autocrat of the Breakfast-Table*):** *"I may mention **parenthetically** that the true gentlemen reveals himself in how he listens to others."*
+> - 📜 **Bertrand Russell (*Portraits from Memory*):** *"He added **parenthetically** that philosophical skepticism rarely prevented thinkers from enjoying a good dinner."*

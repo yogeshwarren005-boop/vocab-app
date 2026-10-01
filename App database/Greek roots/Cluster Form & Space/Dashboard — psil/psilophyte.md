@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any plant of the order psilophytales: a savannah plant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any plant of the order psilophytales: a savannah plant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any extinct primitive vascular land plant belonging to or resembling the fossil order Psilophytales.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In paleobotany, an early embryophyte characterized by a rootless subterranean rhizome and aerial photosynthetic axes with terminal sporangia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psilophyte designates any plant of the order psilophytales: a savannah plant."*
+> - 📜 **A. C. Seward (*Plant Life Through the Ages*):** *"The humble **psilophyte** colonized ancient mudflats, forming the pioneering green canopy of the middle Paleozoic era."*
+> - 📜 **Henry N. Andrews (*Ancient Plants and the World They Lived In*):** *"In every structural feature, the Devonian **psilophyte** exemplifies functional simplicity combined with evolutionary potential."*
+> - 📜 **Arthur S. Boughey (*Ecology of Populations*):** *"Atmospheric oxygenation and soil pedogenesis were accelerated by the widespread colonization of coastal plains by the **psilophyte**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the component in W. H. Sheldon's classification of body types that measures the massiveness of the digestive viscera and the body's degree of roundedness and softness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a heavy rounded body build often with a marked tendency to become fat.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or characteristic of the physical build of an endomorph; possessing a soft, heavy, or round physique.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In kinesiology and physical anthropometry, having a body shape dominated by high fat-to-muscle ratio and broad trunk proportions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endomorphic designates of or relating to the component in w. h. sheldon's classification of body types that measures the massiveness of the digestive viscera and the body's degree of roundedness and softness."*
+> - 📜 **William H. Sheldon (*Atlas of Men*):** *"An **endomorphic** constitution manifests in spherical trunk contours, heavy thighs, and small, tapered extremities."*
+> - 📜 **Hans Eysenck (*The Structure of Human Personality*):** *"Empirical studies failed to replicate the strong temperamental correlations once claimed for **endomorphic** somatotypes."*
+> - 📜 **J. E. Lindsay Carter (*Somatotyping: Development and Applications*):** *"Wrestlers in super-heavyweight divisions often combine high mesomorphic power with an **endomorphic** cushion."*

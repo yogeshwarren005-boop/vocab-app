@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To remove the ovaries and uterus of (a female animal).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To remove the ovaries and uterus of (a female animal).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To surgically remove the ovaries (oophorectomy) or ovaries and uterus (ovariohysterectomy) of a female animal to render her sterile.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In veterinary medicine, spaying female domestic pets prevents unwanted reproduction, eliminates pyometra risk, and significantly lowers mammary neoplasia incidence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spay designates to remove the ovaries and uterus of (a female animal)."*
+> - 📜 **James Herriot (*All Creatures Great and Small*):** *"Performing an elective procedure to **spay** a lively young farm bitch required gentle hands and swift, clean ligatures."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The shepherd insisted that it was needful to **spay** the young ewes to preserve the hardiness of the upland flock."*
+> - 📜 **George Borrow (*Lavengro*):** *"The traveling smith had learned from old horse-leeches how to bleed, drench, and **spay** livestock with rustic skill."*

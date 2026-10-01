@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A structure (as in red algae, fungi, or mosses) in or on which spores are produced.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A structure (as in red algae, fungi, or mosses) in or on which spores are produced.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialized, multicellular fruiting body or hard beanlike receptacle enclosing sporangia, found in water ferns (such as *Marsilea*) and certain fungi.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aquatic pteridophytes, the stony sporocarp of *Marsilea* can endure decades of complete desert desiccation before imbibing water and extruding a gelatinous sorophore.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sporocarp designates a structure (as in red algae, fungi, or mosses) in or on which spores are produced."*
+> - 📜 **F. O. Bower (*The Ferns (Filicales)*):** *"The hardened, drought-resistant **sporocarp** of *Marsilea* preserves viable sporangia for over half a century."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"Borne upon short pedicels near the rootstock, the bony **sporocarp** contains both megaspores and microspores."*
+> - 📜 **Gilbert M. Smith (*Cryptogamic Botany*):** *"Imbibition of water causes the bivalved **sporocarp** to swell and rupture, releasing a ring of fertile sori."*

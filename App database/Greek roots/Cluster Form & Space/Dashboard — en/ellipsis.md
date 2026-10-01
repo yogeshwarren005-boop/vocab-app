@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The omission of one or more words that are obviously understood but that must be supplied to make a construction grammatically complete.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sudden leap from one topic to another.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The omission of one or more words from a sentence that are readily understood in context; also, the punctuation mark (...) denoting omitted text or a trailing pause.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In stylistics and rhetoric, ellipsis speeds discourse tempo and invites the auditor to actively supply the omitted conceptual link.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ellipsis designates the omission of one or more words that are obviously understood but that must be supplied to make a construction grammatically complete."*
+> - 📜 **Quintilian (*Institutio Oratoria*):** *"Graceful use of **ellipsis** avoids tedious repetition by leaving obvious words to the hearer's intelligence."*
+> - 📜 **Henry Fowler (*The King's English*):** *"Careful writers employ **ellipsis** to achieve conciseness without introducing grammatical ambiguity."*
+> - 📜 **Laurence Sterne (*The Life and Opinions of Tristram Shandy*):** *"A thoughtful pause, marked by an expressive **ellipsis**, conveyed far more than any torrent of eloquence."*

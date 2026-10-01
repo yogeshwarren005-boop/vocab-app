@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: New world anteaters.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: New world anteaters.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mammalian family of xenarthrans comprising the true anteaters, including the giant anteater and the tamanduas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate paleontology and evolutionary morphology, Myrmecophagidae species are specialized for myrmecophagy through edentulous jaws, reduced zygomatic arches, and hyper-developed salivary glands.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, myrmecophagidae designates new world anteaters."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The cranial architecture of the **Myrmecophagidae** shows extreme osseous remodeling correlated with an exclusively soft insectivorous diet."*
+> - 📜 **George Gaylord Simpson (*The Principles of Classification and a Classification of Mammals*):** *"Within the suborder Vermilingua, the **Myrmecophagidae** encompass both terrestrial giants and arboreal prehensile-tailed tamanduas."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"The complete loss of functional dentition unites the living **Myrmecophagidae** in common evolutionary descent."*

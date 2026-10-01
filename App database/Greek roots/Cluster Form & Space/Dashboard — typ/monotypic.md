@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Including a single representative —used especially of a genus with only one species.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Including a single representative —used especially of a genus with only one species.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or including only one representative or subordinate type, especially a genus containing only one single species.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic taxonomy, a monotypic taxon (such as the platypus genus *Ornithorhynchus* with *O. anatinus*, or the ginkgo tree *Ginkgo biloba*) possesses an unambiguous single generic description.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monotypic designates including a single representative —used especially of a genus with only one species."*
+> - 📜 **Ernst Mayr (*Animal Species and Evolution*):** *"The aardvark represents a famously **monotypic** order, having survived as an isolated evolutionary lineage."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Extinction frequently isolates peculiar transitional forms into what naturalists classify as a **monotypic** genus."*
+> - 📜 **George Gaylord Simpson (*The Meaning of Evolution*):** *"In phylogenetic classification, a **monotypic** family signals prolonged evolutionary divergence without extensive branching."*

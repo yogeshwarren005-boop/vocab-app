@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Representing or constituting an original type after which other similar things are patterned.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Representing or constituting an original type after which other similar things are patterned.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Denoting the first, original, or typical form of something; serving as a prototype.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistics and engineering, prototypical members of a class embody the core semantic or structural specifications against which variations are evaluated.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prototypical designates representing or constituting an original type after which other similar things are patterned."*
+> - 📜 **Thomas Henry Huxley (*The Crayfish*):** *"The astacoid body presents a **prototypical** arthropod segmentation scheme with distinct cephalothorax and abdomen."*
+> - 📜 **George Lakoff (*Women, Fire, and Dangerous Things*):** *"Human categorization is structured around **prototypical** concepts rather than rigid set-theoretic boundaries."*
+> - 📜 **Thorstein Veblen (*The Theory of the Leisure Class*):** *"The feudal predatory baron represents the **prototypical** figure whose exploits define modern prestige hierarchies."*

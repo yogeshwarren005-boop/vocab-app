@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Insert a catheter into (a body part).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Insert a catheter into (a body part).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To insert a catheter into a patient or bodily structure (standard American spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical urology and critical care, to introduce a tubular instrument into a vessel, lumen, or organ to sample fluids or decompress obstruction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, catheterize designates insert a catheter into (a body part)."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The intern learned to **catheterize** the urinary bladder with smooth dexterity under strict sterile precautions."*
+> - 📜 **Jerome Groopman (*How Doctors Think*):** *"Deciding whether to **catheterize** a frail elderly patient involves balancing relief of retention against infectious risks."*
+> - 📜 **Courtney M. Townsend (*Sabiston Textbook of Surgery*):** *"Prior to major pelvic surgery, the surgical team will **catheterize** the patient to keep the bladder decompressed."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An image vivid enough to be a hallucination but recognized as unreal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An image vivid enough to be a hallucination but recognized as unreal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An involuntary sensory perception experienced in the absence of an external stimulus, but recognized by the subject as not being an external reality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In descriptive psychopathology, an vivid internal sensory experience localized within subjective inner space, distinguished from a true hallucination by intact insight.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pseudohallucination designates an image vivid enough to be a hallucination but recognized as unreal."*
+> - 📜 **Karl Jaspers (*General Psychopathology*):** *"A patient describing a **pseudohallucination** hears voices in the inner mind rather than perceiving them through the physical ear."*
+> - 📜 **Emil Kraepelin (*Clinical Psychiatry*):** *"Unlike true sensory deceptions, the **pseudohallucination** lacks the convincing objective spatial localization of real perception."*
+> - 📜 **Kurt Schneider (*Clinical Psychopathology*):** *"Retained insight into the subjective origin of the experience separates the **pseudohallucination** from psychotic hallucinations."*

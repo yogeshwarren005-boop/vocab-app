@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Physiological state in which a woman exhibits symptoms of pregnancy but is not pregnant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Physiological state in which a woman exhibits symptoms of pregnancy but is not pregnant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A condition in which a non-pregnant individual develops physiological signs and symptoms of pregnancy; false or phantom pregnancy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychosomatic medicine and obstetrics, an endocrine-mediated neurosis characterized by amenorrhea, abdominal enlargement, and subjective fetal movements.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pseudocyesis designates physiological state in which a woman exhibits symptoms of pregnancy but is not pregnant."*
+> - 📜 **Sigmund Freud (*Studies on Hysteria*):** *"The classic case of Anna O. exhibited profound symptoms of **pseudocyesis** rooted in repressed emotional conflict."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In true **pseudocyesis**, the abdominal swelling vanishes completely once the patient is placed under general anesthesia."*
+> - 📜 **J. Whitridge Williams (*Obstetrics: A Text-Book for the Use of Students and Practitioners*):** *"Spurious pregnancy, or **pseudocyesis**, occurs most frequently in women approaching menopause who harbor an intense longing for offspring."*

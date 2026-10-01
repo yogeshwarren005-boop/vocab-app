@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek gon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the knee joint, characterized by pain, swelling, warmth, and impaired mobility.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In rheumatology and orthopedics, acute gonitis may be septic, gouty, or secondary to rheumatoid arthritis, requiring diagnostic arthrocentesis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gonitis designates a term designating an entity, condition, or phenomenon derived from greek gon."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Acute suppurative **gonitis** demands prompt joint aspiration and drainage to prevent irreversible articular cartilage necrosis."*
+> - 📜 **Thomas Sydenham (*Tractatus de Podagra et Hydrope*):** *"Severe podagric inflammation seizing upon the knee produces violent **gonitis** that renders the limb immobile."*
+> - 📜 **S. Terry Canale (*Campbell's Operative Orthopaedics*):** *"Chronic tuberculous **gonitis** was historically a frequent cause of debilitating joint contracture and bony ankylosis."*

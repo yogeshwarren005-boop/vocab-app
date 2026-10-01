@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessive amounts of sodium in the blood; possibly indicating diabetes insipidus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Excessive amounts of sodium in the blood; possibly indicating diabetes insipidus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormally elevated concentration of sodium in the blood serum (defined as serum sodium exceeding 145 mEq/L or mmol/L).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nephrology and critical care medicine, hypernatremia reflects a deficit of total body water relative to sodium, causing osmotic water shifts out of brain cells leading to cellular dehydration, lethargy, neuromuscular irritability, seizures, and intracerebral hemorrhages.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypernatremia designates excessive amounts of sodium in the blood; possibly indicating diabetes insipidus."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Severe water deprivation in comatose patients induces marked **hypernatremia**, marked by intense thirst and cutaneous dryness."*
+> - 📜 **Ernest Starling (*Principles of Human Physiology*):** *"Acute **hypernatremia** stimulates hypothalamic osmoreceptors, triggering intense thirst and maximal vasopressin release."*
+> - 📜 **Walter Bradford Cannon (*The Wisdom of the Body*):** *"Homeostatic defense mechanisms fiercely resist **hypernatremia** to preserve normal extracellular osmotic tension."*

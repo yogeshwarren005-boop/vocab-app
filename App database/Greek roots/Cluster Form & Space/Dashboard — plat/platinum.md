@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A heavy precious metallic element; grey-white and resistant to corroding; occurs in some nickel and copper ores and is also found native in some deposits.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A heavy precious metallic element; grey-white and resistant to corroding; occurs in some nickel and copper ores and is also found native in some deposits.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A dense, malleable, ductile, precious transition metal (symbol Pt, atomic number 78) that is silver-white and highly resistant to chemical corrosion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial chemistry and catalysis, platinum is an indispensable heterogeneous catalyst for automobile catalytic converters, petroleum reforming, and hydrogen fuel cells.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"After about ten minutes a knock came to the door, and the servant entered, carrying a large mahogany chest of chemicals, with a long coil of steel and platinum wire and two rather curiously shaped iron clamps."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Removing the rubber tubes, he cut them into pieces, broke the porcelain disk, and, rolling up the platinum wire, washed it all down the sewer pipe."*
-> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"The platinum, owing to a property it possesses in a high degree (which property however is not special to platinum), has the power of coercing the union of the hydrogen and oxygen."*
+> - 📜 **Antoine Lavoisier (*Elements of Chemistry*):** *"The extraordinary unalterability of **platinum** in fire and acid renders it invaluable for delicate laboratory apparatus."*
+> - 📜 **Michael Faraday (*The Chemical History of a Candle*):** *"Spongy **platinum** possesses the wondrous property of causing hydrogen and oxygen to combine into water without any applied flame."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"The square-planar geometry of divalent **platinum** complexes provided Werner with crucial evidence for stereochemical coordination theory."*

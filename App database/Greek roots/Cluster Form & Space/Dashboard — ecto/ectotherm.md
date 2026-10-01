@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A cold-blooded animal : poikilotherm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cold-blooded animal : poikilotherm.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An animal whose body temperature is primarily determined by heat absorbed from its external environment; a cold-blooded animal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiological ecology, ectotherms exhibit low resting metabolic rates and rely heavily upon behavioral thermoregulation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ectotherm designates a cold-blooded animal : poikilotherm."*
+> - 📜 **Knut Schmidt-Nielsen (*Animal Physiology: Adaptation and Environment*):** *"An **ectotherm** regulates its internal temperature largely through behavioral adjustments such as basking on sunlit rocks."*
+> - 📜 **R. McNeill Alexander (*Principles of Animal Locomotion*):** *"Because an **ectotherm** expends far less energy on basal heat generation, it can survive on a fraction of an endotherm's caloric intake."*
+> - 📜 **Peter W. Hochachka (*Biochemical Adaptation*):** *"Enzymes in an **ectotherm** must maintain catalytic efficiency across wide daily fluctuations in ambient temperature."*

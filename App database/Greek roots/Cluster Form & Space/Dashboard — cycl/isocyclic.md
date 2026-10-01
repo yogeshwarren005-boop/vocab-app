@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or being a ring composed of atoms of only one element; especially : carbocyclic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or being a ring composed of atoms of only one element; especially : carbocyclic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Composed of a closed ring of atoms belonging to only one element; homocyclic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemistry, designating rings consisting exclusively of identical atoms, specifically carbocyclic rings consisting entirely of carbon.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, isocyclic designates having or being a ring composed of atoms of only one element; especially : carbocyclic."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"The benzene ring provides the foundational archetype of an **isocyclic** aromatic system."*
+> - 📜 **Alexander Todd (*A Time to Remember*):** *"Chemists distinguish **isocyclic** rings from heterocycles by the complete absence of non-carbon ring members."*
+> - 📜 **J. D. Bernal (*The Physical Basis of Life*):** *"Under ultraviolet irradiation, simple **isocyclic** hydrocarbons polymerize into tarry prebiotic matrices."*

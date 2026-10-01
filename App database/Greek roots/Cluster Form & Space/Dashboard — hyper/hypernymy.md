@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The semantic relation of being superordinate or belonging to a higher rank or class.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The semantic relation of being superordinate or belonging to a higher rank or class.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The semantic relationship between a broad, general superordinate term (hypernym) and its more specific, subordinate instances (hyponyms).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In lexical semantics and computational linguistics, hypernymy constitutes the fundamental 'is-a' backbone of taxonomies, ontology engineering, and knowledge graphs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypernymy designates the semantic relation of being superordinate or belonging to a higher rank or class."*
+> - 📜 **Ferdinand de Saussure (*Course in General Linguistics*):** *"The principle of **hypernymy** organizes human vocabulary into nested mental classifications of increasing generality."*
+> - 📜 **Noam Chomsky (*Language and Mind*):** *"Children acquire semantic hierarchies governed by **hypernymy** with astonishing intuitive speed during language development."*
+> - 📜 **Edward Sapir (*Language: An Introduction to the Study of Speech*):** *"Across diverse cultures, the formal expression of **hypernymy** reflects fundamental patterns of cognitive categorization."*

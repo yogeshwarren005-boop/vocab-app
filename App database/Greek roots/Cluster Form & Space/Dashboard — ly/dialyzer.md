@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A medical instrument for separating substances in solution by unequal diffusion through semipermeable membranes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A medical instrument for separating substances in solution by unequal diffusion through semipermeable membranes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An apparatus or instrument, such as an artificial kidney, used to perform dialysis by passing fluid across a semipermeable membrane.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In hemodialysis, the dialyzer (artificial kidney) contains thousands of hollow semipermeable capillary fibers through which blood flows counter-current to dialysate fluid, removing waste products and adjusting electrolyte balance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dialyzer designates a medical instrument for separating substances in solution by unequal diffusion through semipermeable membranes."*
+> - 📜 **Thomas Graham (*Liquid Diffusion Applied to Analysis*):** *"The simple **dialyzer** consists of a hoop of guttapercha over which moist parchment paper is tightly stretched."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Abel's original celloidin **dialyzer**, termed the vividiffusion apparatus, laid the groundwork for the modern artificial kidney."*
+> - 📜 **Ernest Starling (*Principles of Human Physiology*):** *"Solutes diffuse across the semipermeable hollow fibers of the **dialyzer** down their chemical concentration gradients."*

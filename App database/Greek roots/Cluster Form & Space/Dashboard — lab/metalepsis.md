@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek lab.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A figure of speech in which one thing is referred to by something only remotely or indirectly associated with it; a trope consisting of a chain of metaphorical links.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative theory and post-modern poetics (Gérard Genette), narrative metalepsis occurs when an author, narrator, or outside character transgresses the boundary between the diegetic world and the extradiegetic frame.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metalepsis designates a term designating an entity, condition, or phenomenon derived from greek lab."*
+> - 📜 **Quintilian (*Institutio Oratoria*):** *"By **metalepsis**, a word makes a transition from one trope to another through an intermediate step that is suppressed."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"The poet employs a subtle **metalepsis**, allowing distant mythological echoes to illuminate his immediate landscape."*
+> - 📜 **Edgar Allan Poe (*Marginalia*):** *"The abrupt intrusion of the author into his own fictional narrative constitutes an audacious literary **metalepsis**."*

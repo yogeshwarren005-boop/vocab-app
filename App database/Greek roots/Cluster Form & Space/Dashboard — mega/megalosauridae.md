@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Megalosaurs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Megalosaurs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of large carnivorous theropod dinosaurs from the Middle and Late Jurassic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dinosaurian taxonomy, tetanuran theropods characterized by elongated skulls, robust forelimbs with large claws, and compressed, serrated ziphodont teeth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, megalosauridae designates megalosaurs."*
+> - 📜 **Thomas Henry Huxley (*On the Classification of the Dinosauria*):** *"The family **Megalosauridae** unites archaic carnivorous dinosaurs possessing blade-like recurved teeth and hollow limb bones."*
+> - 📜 **Richard Owen (*A History of British Fossil Reptiles*):** *"Skeletal anatomy in **Megalosauridae** illustrates a specialized adaptation for bipedal terrestrial predation."*
+> - 📜 **Edward Drinker Cope (*The Primary Factors of Organic Evolution*):** *"Phylogenetic analysis traces the radiation of large Jurassic carnivores through the stem lineage of **Megalosauridae**."*

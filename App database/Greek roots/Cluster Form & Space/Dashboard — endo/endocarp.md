@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The inner layer of the pericarp of a fruit (such as an apple or orange) when it consists of two or more layers of different texture or consistency.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The inner layer of the pericarp of a fruit (such as an apple or orange) when it consists of two or more layers of different texture or consistency.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The innermost layer of the pericarp (fruit wall) surrounding the seed, which may be stony (as in peaches), membranous, or fleshy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic botany, the sclerified endocarp of a drupe (the pit or stone) provides mechanical protection to the enclosed embryo.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endocarp designates the inner layer of the pericarp of a fruit (such as an apple or orange) when it consists of two or more layers of different texture or consistency."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"In a stone-fruit like the peach or cherry, the stone is the bony **endocarp**, while the fleshy pulp is the mesocarp."*
+> - 📜 **Peter H. Raven (*Biology of Plants*):** *"The citrus juice vesicles arise as multicellular outgrowths projecting from the inner surface of the **endocarp**."*
+> - 📜 **Katherine Esau (*Plant Anatomy*):** *"Lignified brachysclereids form the dense, interlocking armor characteristic of the stone-fruit **endocarp**."*

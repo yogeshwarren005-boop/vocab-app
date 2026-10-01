@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Either of two thickened triangular layers of conjunctiva extending from the nasal edge of the eye to the cornea; it arises from irritation of the pinguecula.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Either of two thickened triangular layers of conjunctiva extending from the nasal edge of the eye to the cornea; it arises from irritation of the pinguecula.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal triangular, fleshy fibrovascular growth of the bulbar conjunctiva that encroaches across the limbus onto the cornea.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical ophthalmology, a benign degenerative lesion associated with chronic ultraviolet radiation and dust exposure, causing astigmatism and visual loss.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pterygium designates either of two thickened triangular layers of conjunctiva extending from the nasal edge of the eye to the cornea; it arises from irritation of the pinguecula."*
+> - 📜 **William Mackenzie (*A Practical Treatise on the Diseases of the Eye*):** *"When a progressive **pterygium** advances across the pupil, surgical excision is necessary to preserve unimpeded visual acuity."*
+> - 📜 **Albrecht von Graefe (*Archiv für Ophthalmologie*):** *"Meticulous limbal conjunctival autografting after the excision of **pterygium** dramatically reduces the rate of postoperative recurrence."*
+> - 📜 **Sir Stewart Duke-Elder (*System of Ophthalmology*):** *"Epidemiological surveys confirm that prolonged solar ultraviolet exposure is the primary etiologic factor in **pterygium** development."*

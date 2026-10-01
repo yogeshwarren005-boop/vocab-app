@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fungus gnats.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fungus gnats.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of small, slender dipteran nematoceran flies commonly known as fungus gnats, whose larvae feed upon fungal sporocarps or decaying vegetation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In forest entomology and dipterology, Mycetophilidae are vital primary consumers of macrofungi, facilitating spore dispersal while developing in mushroom caps.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mycetophilidae designates fungus gnats."*
+> - 📜 **J. O. Westwood (*An Introduction to the Modern Classification of Insects*):** *"The fragile, long-legged flies of the family **Mycetophilidae** congregate in damp woods where mushrooms flourish in autumn."*
+> - 📜 **Alpheus Spring Packard (*Guide to the Study of Insects*):** *"Larvae of the **Mycetophilidae** spin delicate silken tubes across the gills of agarics, feeding upon the fleshy fungal tissue."*
+> - 📜 **Willi Hennig (*Die Larvenformen der Dipteren*):** *"Cephalic morphology in larval **Mycetophilidae** reveals specialized chewing mouthparts adapted for consuming tough fungal hyphae."*

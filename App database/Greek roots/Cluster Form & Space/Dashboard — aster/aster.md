@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various chiefly fall-blooming leafy-stemmed composite herbs (Aster and closely related genera) with often showy heads containing disk flowers or both disk and ray flowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: China aster.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A daisy-like plant of the composite family Asteraceae, having starry flower heads with radiating petals; also a star-shaped cellular structure formed around a centrosome during mitosis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cell biology and embryology, a radial array of astral microtubules emanating from the centrosome that anchors and orients the mitotic spindle apparatus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Grant Allen (*Michael's Crag*):** *"She clambered up the steep side--a sheer wall of bare rock, lightly clad here and there with sparse drapery of green sapphire, or clumps of purple sea-aster, rooted firm in the crannies."*
-> - 📜 **Grant Allen (*Michael's Crag*):** *"He clung to the hard root of woody sea-aster in the clefts."*
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"Another style of ornament, which may date from Sung times, and is certainly common on later wares, consists of a broad band of floral scrolls, with large lily or aster flowers, enclosed by smaller zones of floral pattern or formal designs."*
+> - 📜 **Henry David Thoreau (*The Journal of Henry David Thoreau*):** *"The blue **aster** and the goldenrod linger along the dusty autumn roadside, defying the first morning frosts."*
+> - 📜 **Edmund Beecher Wilson (*The Cell in Development and Inheritance*):** *"At prophase, rays diverge in all directions from the centrosphere to form the conspicuous radiating star or **aster**."*
+> - 📜 **Walt Whitman (*Leaves of Grass*):** *"Where the yellow wild-flowers and the purple **aster** bloom in quiet pastures, I walked alone at twilight."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek lab.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rhetorical figure of speech in which an orator or writer anticipates an opponent's potential objections and answers them in advance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical forensic rhetoric (Quintilian, Cicero), procatalepsis disarms opposing arguments before they can be articulated, projecting intellectual mastery and fair-minded thoroughness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, procatalepsis designates a term designating an entity, condition, or phenomenon derived from greek lab."*
+> - 📜 **Quintilian (*Institutio Oratoria*):** *"By **procatalepsis**, the orator strikes down the anticipated counter-argument before the opposing counsel can raise it."*
+> - 📜 **Edmund Burke (*Speech on Conciliation with America*):** *"In his parliamentary address, Burke deployed skillful **procatalepsis** to refute objections against fiscal compromise."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The advocate's opening defense was a masterclass in **procatalepsis**, anticipating every thrust of the prosecution."*

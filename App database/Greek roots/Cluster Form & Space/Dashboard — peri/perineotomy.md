@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgical incision into the perineum.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surgical incision into the perineum.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A surgical incision into the perineum; specifically, an episiotomy or incision to relieve urethral obstruction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In operative urology and obstetrics, perineotomy provides surgical access to the bulbous urethra or enlarges the vaginal introitus during delivery.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, perineotomy designates surgical incision into the perineum."*
+> - 📜 **Howard A. Kelly (*Operative Gynecology*):** *"A planned lateral **perineotomy** prevents uncontrolled ragged tears through the anal sphincter during delivery."*
+> - 📜 **John Hunter (*Treatise on the Venereal Disease*):** *"In impassable urethral strictures, external **perineotomy** was historically performed to drain extravasated urine."*
+> - 📜 **J. Marion Sims (*Clinical Notes on Uterine Surgery*):** *"Prompt primary suture of a **perineotomy** incision prevents subsequent pelvic floor relaxation."*

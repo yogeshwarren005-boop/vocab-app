@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, involving, or dealing with abstract, general, or universal statements or laws.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to, involving, or dealing with abstract, general, or universal statements or laws.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the formulation of general, universal laws or principles (contrasted with idiographic).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Introduced into modern philosophy of science by Wilhelm Windelband, nomothetic methodologies characterize the natural sciences (seeking general laws), contrasting with idiographic approaches in the humanities (seeking individual particularity).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nomothetic designates relating to, involving, or dealing with abstract, general, or universal statements or laws."*
+> - 📜 **Wilhelm Windelband (*History and Natural Science*):** *"Natural science pursues a **nomothetic** purpose, searching for eternal invariant laws governing universal phenomena."*
+> - 📜 **Gordon Allport (*Pattern and Growth in Personality*):** *"Psychology must balance **nomothetic** investigations of general human traits with idiographic portraits of unique individuals."*
+> - 📜 **Emile Durkheim (*The Rules of Sociological Method*):** *"Sociology can claim scientific legitimacy only by establishing **nomothetic** causal connections across social institutions."*

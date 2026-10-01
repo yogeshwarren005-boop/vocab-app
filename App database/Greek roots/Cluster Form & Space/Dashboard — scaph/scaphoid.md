@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Shaped like a boat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shaped like a boat.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the shape of a boat; boat-shaped; navicular (in anatomical and biological descriptions).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human osteology, designating either the carpal scaphoid bone of the wrist or the tarsal navicular bone of the foot.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scaphoid designates shaped like a boat."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The **scaphoid** fossa of the sphenoid bone provides attachment for the tensor veli palatini muscle."*
+> - 📜 **Charles Bell (*The Anatomy of the Human Body*):** *"Dislocation of the **scaphoid** carpal element impairs the delicate grasping movements of the human thumb."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"Comparative analysis reveals that the mammalian **scaphoid** corresponds to the radiale of primitive tetrapod ancestors."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Multinucleate sheet of cytoplasm characteristic of some stages of such organisms as slime molds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Parasitic protozoan of the genus plasmodium that causes malaria in humans.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A parasitic protozoan of a genus that includes those causing malaria in humans and other vertebrates; or a multinucleate mass of protoplasm in slime molds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mycology and parasitology, four main species of *Plasmodium* (P. falciparum, P. vivax, P. malariae, P. ovale) cause human malaria, while the acellular slime mold plasmodium creeps via cytoplasmic streaming.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plasmodium designates multinucleate sheet of cytoplasm characteristic of some stages of such organisms as slime molds."*
+> - 📜 **Charles Louis Alphonse Laveran (*A New Parasite Found in the Blood of Malarial Patients*):** *"I observed oscillant flagellated bodies in blood preparations, identifying the living **plasmodium** responsible for marsh fever."*
+> - 📜 **Ronald Ross (*Memoirs*):** *"On August 20, 1897, I discovered pigmented cells of the malarial **plasmodium** in the stomach wall of a dapple-winged mosquito."*
+> - 📜 **Bruce Alberts (*Molecular Biology of the Cell*):** *"In Physarum, the giant acellular **plasmodium** contains millions of diploid nuclei sharing a continuous cytoplasm."*

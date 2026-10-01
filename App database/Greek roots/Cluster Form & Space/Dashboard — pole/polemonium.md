@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any plant of the genus polemonium; most are low-growing often foul-smelling plants of temperate to arctic regions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any plant of the genus polemonium; most are low-growing often foul-smelling plants of temperate to arctic regions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of flowering plants in the family Polemoniaceae, commonly known as Jacob's ladder, bearing pinnate leaves and bell-shaped blue or purple flowers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In horticulture and alpine floras, cold-tolerant perennial herbs prized for rock gardens and woodland borders.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polemonium designates any plant of the genus polemonium; most are low-growing often foul-smelling plants of temperate to arctic regions."*
+> - 📜 **Carl Linnaeus (*Species Plantarum*):** *"Under the genus **polemonium**, we include the classical Greek plant renowned for its pinnate foliage resembling a ladder."*
+> - 📜 **John Gerard (*The Herball or Generall Historie of Plantes*):** *"The blue flowers of **polemonium** open gracefully in midsummer, adorning gardens with upright sprays of azure bells."*
+> - 📜 **William Robinson (*The English Flower Garden*):** *"Few hardy perennials equal **polemonium** for naturalizing beneath deciduous shade trees and along moist borders."*

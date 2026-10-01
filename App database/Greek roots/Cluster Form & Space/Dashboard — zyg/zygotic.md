@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a zygote.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a zygote.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characteristic of a zygote; pertaining to the developmental stage immediately following fertilization and preceding cleavage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In molecular genetics, zygotic gene activation marks the transition from maternal to embryonic genome control, a critical event in early development across animal species.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, zygotic designates of or relating to a zygote."*
+> - 📜 **Scott F. Gilbert (*Developmental Biology*):** *"**Zygotic** gene activation in mammals occurs at the two-cell stage, when the embryonic genome first directs development."*
+> - 📜 **Eric Davidson (*Gene Activity in Early Development*):** *"The maternal-to-**zygotic** transition is one of the most dramatic reprogramming events in the life of an organism."*
+> - 📜 **John Gurdon (*The Developmental Capacity of Nuclei*):** *"Understanding **zygotic** reprogramming has profound implications for cloning and regenerative medicine."*

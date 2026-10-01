@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the family syngnathidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the family syngnathidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of slender, elongated pipefishes within the family Syngnathidae, having a straight tubular snout and armored body rings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine biology, Syngnathus pipefishes inhabit temperate and tropical seagrass beds, mimicking Zostera blades to evade predators.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, syngnathus designates type genus of the family syngnathidae."*
+> - 📜 **Rachel Carson (*The Edge of the Sea*):** *"The tiny **syngnathus** drifted upright among the eelgrass ribbons, virtually undetectable to passing striped bass."*
+> - 📜 **Alexander Agassiz (*Embryology of the Pipe-Fish*):** *"Male **syngnathus** specimens carry two longitudinal ventral dermal folds that protect the developing embryos."*
+> - 📜 **David Starr Jordan (*The Fishes of North and Middle America*):** *"The genus **syngnathus** is recognized by its dorsal fin situated opposite the vent and the absence of a prehensile caudal tip."*

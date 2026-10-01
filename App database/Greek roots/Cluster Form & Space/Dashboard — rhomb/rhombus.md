@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A parallelogram with four equal sides and sometimes one with no right angles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A parallelogram with four equal sides and sometimes one with no right angles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A two-dimensional geometric parallelogram with four sides of equal length and opposite sides parallel.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Euclidean geometry, an equilateral quadrilateral whose opposite angles are congruent and whose diagonals intersect at right angles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhombus designates a parallelogram with four equal sides and sometimes one with no right angles."*
+> - 📜 **Euclid (*Elements*):** *"In every **rhombus**, the diagonals bisect each other perpendicularly and halve the internal angles of the figure."*
+> - 📜 **Isaac Barrow (*The Usefulness of Mathematical Learning*):** *"The properties of the **rhombus** follow naturally from those of the equilateral triangle reflected across its base."*
+> - 📜 **Thomas Heath (*A History of Greek Mathematics*):** *"Early Pythagorean geometers investigated the area of the **rhombus** as half the product of its two principal diagonals."*

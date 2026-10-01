@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Congo snakes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Congo snakes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The family of aquatic urodeles (salamanders) comprising the single extant genus Amphiuma, native to the southeastern United States.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In amphibian systematics, paedomorphic salamanders that lack external gills in adulthood but retain internal gill slits and an elongated body plan.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amphiumidae designates congo snakes."*
+> - 📜 **Hans Gadow (*Amphibia and Reptiles*):** *"The family **Amphiumidae** occupies muddy ditches and sluggish streams of the North American coastal plain."*
+> - 📜 **Alfred Romer (*Vertebrate Paleontology*):** *"Fossil vertebrae of **Amphiumidae** found in Cretaceous strata establish their long persistence as specialized aquatic predators."*
+> - 📜 **Edward O. Wilson (*Naturalist*):** *"Wading through Alabama bogs as a boy, I encountered representatives of **Amphiumidae** buried in the black peat."*

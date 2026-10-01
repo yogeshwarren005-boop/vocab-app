@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek oxy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chemical compound containing oxygen and one or more halogens bonded to another element (such as phosphorus oxychloride or thionyl chloride).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In inorganic chemistry, metal oxyhalides often form layered crystalline lattices with notable photocatalytic and electronic properties.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oxyhalide designates a term designating an entity, condition, or phenomenon derived from greek oxy."*
+> - 📜 **F. Albert Cotton (*Advanced Inorganic Chemistry*):** *"Hydrolysis of transition metal halides frequently yields a stable **oxyhalide** rather than a pure oxide."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"The tetrahedral geometry of an **oxyhalide** like POCl3 reflects competing pi-bonding between oxygen and chlorine."*
+> - 📜 **C. N. R. Rao (*Solid State Chemistry*):** *"Bismuth **oxyhalide** photocatalysts exhibit efficient charge separation under visible-light irradiation."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to telephony.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to telephony.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, conveyed by, or characteristic of a telephone or telecommunications system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In electrical engineering and acoustics, denoting transmission lines, speech-band frequencies (nominally 300 to 3400 Hz), and audio equipment designed for voice telephony.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, telephonic designates of or relating to telephony."*
+> - 📜 **Thomas Edison (*The Phonograph and Its Future*):** *"The acoustic clarity of the **telephonic** transmitter depends upon variable resistance across carbon granules."*
+> - 📜 **Henry Adams (*The Education of Henry Adams*):** *"Forces unleashed by telegraphic and **telephonic** networks seemed to shatter earlier concepts of historical continuity."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Bruce-Partington Plans*):** *"A brief **telephonic** summons from Mycroft brought Holmes rushing to the heart of Whitehall."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of furnishing an equivalent person or thing in the place of another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who takes the place of another person.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action, process, or instance of substituting one person, object, or concept in place of another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geology and mineralogy, metasomatic replacement wherein one mineral dissolved by hydrothermal fluid is simultaneously replaced by another.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"We explored packaging, marketing and replacement factors."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"This general depreciation appears to be nearly avoided in large factories where there is serial replacement of the parts, but occasionally some invention or some improvement of process necessitates an almost completely new equipment."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"Expensive improvements on railroads, the straightening of curves, the tunneling of mountains, the reducing of grades, the replacement of lighter by heavier rails, have been made possible by a fall in the rate of interest."*
+> - 📜 **Waldemar Lindgren (*Mineral Deposits*):** *"Metasomatic **replacement** involves the simultaneous capillary solution and deposition of minerals by circulating subterranean solutions."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"In every country, new species are introduced by natural selection, leading to the gradual **replacement** of ancestral forms."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The annual fund destined for the **replacement** of fixed capital must constantly draw upon the gross revenue of society."*

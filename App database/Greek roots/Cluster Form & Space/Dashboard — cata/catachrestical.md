@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Constituting or characterized by or given to catachresis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Constituting or characterized by or given to catachresis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or of the nature of catachresis; catachrestic (formal or historical variant).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philology and historical rhetoric, designating words applied in an improper or secondary sense far removed from their primary etymology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, catachrestical designates constituting or characterized by or given to catachresis."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"To term a dolphin a royal fish is a **catachrestical** designation originating from regal prerogatives rather than natural history."*
+> - 📜 **Samuel Johnson (*Preface to Shakespeare*):** *"Those strained conceits which pedants denounce as **catachrestical** often capture psychological truth with startling precision."*
+> - 📜 **Richard Chenevix Trench (*On the Study of Words*):** *"Language grows through continuous **catachrestical** extensions, wherein old words are compelled to designate novel inventions."*

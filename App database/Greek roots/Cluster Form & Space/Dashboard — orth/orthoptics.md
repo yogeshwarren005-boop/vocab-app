@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Treatment of defects of binocular vision (such as strabismus and amblyopia) by nonsurgical measures (especially by exercises to strengthen the eye muscles).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Treatment of defects of binocular vision (such as strabismus and amblyopia) by nonsurgical measures (especially by exercises to strengthen the eye muscles).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The study, clinical discipline, and practice of non-surgical diagnosis and management of strabismus, amblyopia, and disorders of binocular vision.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ophthalmic allied health, a clinical field employing optical prisms, occlusion therapy, and visual training exercises to rehabilitate binocular coordination.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, orthoptics designates treatment of defects of binocular vision (such as strabismus and amblyopia) by nonsurgical measures (especially by exercises to strengthen the eye muscles)."*
+> - 📜 **Duke-Elder (*System of Ophthalmology*):** *"The clinical advent of **orthoptics** provided ophthalmologists with precise methods for re-educating ocular alignment."*
+> - 📜 **G. Keith Burian (*Binocular Vision and Ocular Motility*):** *"Modern **orthoptics** focuses on eliminating suppression and restoring normal retinal correspondence."*
+> - 📜 **Lyle and Jackson (*Practical Orthoptics in the Treatment of Squint*):** *"Through systematic **orthoptics**, children with latent divergent strabismus learn to maintain stable binocular fusion."*

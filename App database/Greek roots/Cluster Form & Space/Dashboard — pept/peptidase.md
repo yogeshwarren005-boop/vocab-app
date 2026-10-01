@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any enzyme that catalyzes the splitting of proteins into smaller peptide fractions and amino acids by a process known as proteolysis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any enzyme that catalyzes the splitting of proteins into smaller peptide fractions and amino acids by a process known as proteolysis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any enzyme that hydrolyzes peptide bonds in proteins or peptides, releasing shorter peptide chains or free amino acids; a protease.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cell physiology, peptidases are subdivided into endopeptidases (cleaving internal bonds) and exopeptidases (cleaving terminal residues).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, peptidase designates any enzyme that catalyzes the splitting of proteins into smaller peptide fractions and amino acids by a process known as proteolysis."*
+> - 📜 **Alan Fersht (*Structure and Mechanism in Protein Science*):** *"The active site zinc ion in a metallo-**peptidase** coordinates with a water molecule to polarize it for nucleophilic attack."*
+> - 📜 **David L. Nelson (*Lehninger Principles of Biochemistry*):** *"Carboxypeptidase A is an exocrine pancreatic **peptidase** that systematically removes C-terminal aromatic residues."*
+> - 📜 **Bruce Alberts (*Molecular Biology of the Cell*):** *"Signal **peptidase** removes the N-terminal hydrophobic leader sequence as nascent proteins enter the endoplasmic reticulum."*

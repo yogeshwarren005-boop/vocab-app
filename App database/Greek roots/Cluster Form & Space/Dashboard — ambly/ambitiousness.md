@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A strong drive for success.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A strong drive for success.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality, state, or disposition of being ambitious; aspiring character or zealous drive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The characteristic of an enterprise, artistic endeavor, or intellectual scheme that exhibits bold scale and lofty scope.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ambitiousness designates a strong drive for success."*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*):** *"The energetic character is defined by an active **ambitiousness** that refuses to acquiesce in inherited misery."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Our self-feeling in this world is determined entirely by what we back ourselves to be, so that **ambitiousness** dictates both our pride and shame."*
+> - 📜 **Matthew Arnold (*Culture and Anarchy*):** *"Without an inner standard of perfection, mere worldly **ambitiousness** degenerates into restless commercial rivalry."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek schid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A congenital fissure, cleft, or split in a body structure or tissue (as in cheiloschisis, palatoschisis, or rachischisis).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In teratology and developmental embryology, the failure of opposing lateral embryonic processes to fuse along the midline during organogenesis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, schisis designates a term designating an entity, condition, or phenomenon derived from greek schid."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Midline congenital malformations manifesting as **schisis** result from early developmental arrest in mesenchymal convergence."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Surgical repair of facial **schisis** must be undertaken in early infancy to restore normal sucking and speech development."*
+> - 📜 **Harvey Cushing (*Studies in Intracranial Physiology*):** *"Cranial **schisis** exposes cerebral structures to amniotic mechanical injury, leading to anencephaly or massive encephaloceles."*

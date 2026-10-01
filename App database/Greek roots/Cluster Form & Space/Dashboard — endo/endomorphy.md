@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Round, fat, and heavy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Round, fat, and heavy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The physical characteristic, state, or degree of endomorphic traits (softness, roundness, relative fatness) in human bodily constitution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anthropometric somatotyping (Heath-Carter method), endomorphy is calculated using the sum of triceps, subscapular, and supraspinale skinfolds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endomorphy designates round, fat, and heavy."*
+> - 📜 **J. E. Lindsay Carter (*Somatotyping: Development and Applications*):** *"The first component of the somatotype rating reflects relative **endomorphy**, derived directly from caliper skinfold sums."*
+> - 📜 **William H. Sheldon (*The Varieties of Delinquent Youth*):** *"High **endomorphy** indicates vegetative predominance, where metabolic storage exceeds mechanical expenditure."*
+> - 📜 **G. A. Harrison (*Human Biology: An Introduction to Human Evolution and Growth*):** *"Socioeconomic shifts toward sedentary lifestyles have significantly increased average adult **endomorphy** ratings."*

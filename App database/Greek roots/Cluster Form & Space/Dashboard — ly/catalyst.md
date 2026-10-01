@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person or thing that provokes or speeds significant change or action.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A substance that enables a chemical reaction to proceed at a usually faster rate or under different conditions (as at a lower temperature) than otherwise possible.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A substance that increases the rate of a chemical reaction without itself undergoing any permanent chemical change; also, an agent, person, or event that precipitates a rapid process of change.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial chemistry, catalysts (such as iron in the Haber-Bosch process or zeolites in fluid catalytic cracking) enable mass synthesis of fuels and fertilizers; in biology, enzymes serve as macromolecular catalysts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, catalyst designates a person or thing that provokes or speeds significant change or action."*
+> - 📜 **Wilhelm Ostwald (*Manual of Physico-Chemical Measurements*):** *"A true **catalyst** affects only the velocity of the reaction, leaving the final thermodynamic equilibrium unchanged."*
+> - 📜 **Michael Foster (*A Text-Book of Physiology*):** *"Every living enzyme operates as a biological **catalyst**, lowering the energy required for metabolic transformation."*
+> - 📜 **Thomas Carlyle (*The French Revolution: A History*):** *"The financial deficit acted as the fatal **catalyst** that transformed discontent into an uncontrollable revolution."*

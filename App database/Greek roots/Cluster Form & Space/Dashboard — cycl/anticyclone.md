@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A system of winds that rotates about a center of high atmospheric pressure clockwise in the northern hemisphere and counterclockwise in the southern, that usually advances at 20 to 30 miles (about 30 to 50 kilometers) per hour, and that usually has a diameter of 1500 to 2500 miles (2400 to 4000 kilometers).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A system of winds that rotates about a center of high atmospheric pressure clockwise in the northern hemisphere and counterclockwise in the southern, that usually advances at 20 to 30 miles (about 30 to 50 kilometers) per hour, and that usually has a diameter of 1500 to 2500 miles (2400 to 4000 kilometers).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A weather system characterized by high atmospheric pressure at its center, around which winds circulate clockwise in the Northern Hemisphere and counterclockwise in the Southern Hemisphere.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In synoptic meteorology, an extensive descending air mass associated with stable atmospheric conditions, clear skies, light winds, and temperature inversions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anticyclone designates a system of winds that rotates about a center of high atmospheric pressure clockwise in the northern hemisphere and counterclockwise in the southern, that usually advances at 20 to 30 miles (about 30 to 50 kilometers) per hour, and that usually has a diameter of 1500 to 2500 miles (2400 to 4000 kilometers)."*
+> - 📜 **Francis Galton (*Meteorographica*):** *"I propose the term **anticyclone** for those vast regions of high barometric pressure where dry air gently descends and diverges outward."*
+> - 📜 **Joseph Conrad (*The Secret Sharer*):** *"A persistent **anticyclone** held the Gulf of Siam in a glassy, suffocating calm for days on end."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"The permanent subtropical **anticyclone** drives the trade winds across thousands of miles of tropical ocean."*

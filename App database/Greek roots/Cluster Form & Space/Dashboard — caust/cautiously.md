@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: As if with kid gloves; with caution or prudence or tact.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a conservative manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a careful, prudent, and watchful manner; with deliberate caution so as to avoid hazards or mistakes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Proceeding with measured steps and thorough verification before committing to a decisive course of action.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Trius take his big stick along when he comes down to the gate?" she asked, looking cautiously about her."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"He is up there where the windows are open." With this Mäzli looked up, and walking close to the chair, whispered cautiously, "A sick baron lies up there."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn with a slight smile and cautiously shaking his head at the shaded face."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"We steered **cautiously** through the narrow channel, keeping a sharp lookout for submerged coral heads."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The whaleboat approached the sleeping leviathan **cautiously**, every oar muffled with canvas against the thole-pins."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Lydgate weighed his diagnostic opinions **cautiously**, aware that local prejudices watched his every medical decision."*

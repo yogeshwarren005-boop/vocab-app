@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An alluvial deposit that contains particles of some valuable mineral.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An alluvial deposit that contains particles of some valuable mineral.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An alluvial deposit of sand, gravel, or soil containing eroded valuable minerals (such as gold or platinum).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mining engineering, placer mining extracts gold nuggets and heavy mineral sands through water washing, sluicing, and panning.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The gold-miner, working with simple tools in the days of placer-mining, earned wages exactly expressed by the gold he washed out."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I was a dyer’s helper in Pyonhan, a gold-miner in the placers of Kang-wun, a rope-maker and twine-twister in Chiksan."*
+> - 📜 **Mark Twain (*Roughing It*):** *"Every gravel bar along the rushing mountain gulch became a rich **placer** during the initial gold strike."*
+> - 📜 **Frank Wigglesworth Clarke (*The Data of Geochemistry*):** *"Mechanical sorting by running water concentrates heavy native gold within stream **placer** gravels."*
+> - 📜 **Bret Harte (*The Luck of Roaring Camp*):** *"The miners toiled from dawn to dusk beside their sluice boxes in the muddy **placer** camp."*

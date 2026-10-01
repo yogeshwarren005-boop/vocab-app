@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Being covered or clothed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Consisting of outer layers of one metal bonded to a core of a different metal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Clothed, covered, or attired; enveloped in a protective or decorative outer layer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biological terminology and historical etymology, a root element (from Greek klados, meaning sprout, branch, or shoot) denoting evolutionary branching.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But look, the morn in russet mantle clad, Walks o’er the dew of yon high eastward hill."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A woman clad in armour chaseth them."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Softly, gentle Patience. _The vision._ Enter, solemnly tripping one after another, six Personages, clad in white robes, wearing on their heads garlands of bays, and golden vizards on their faces, branches of bays or palm in their hands."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Now came still Evening on, and Twilight gray / Had in her sober livery all things **clad**."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The hillside was **clad** in rich golden gorse, glowing vividly beneath the midsummer sun."*
+> - 📜 **Ernst Mayr (*The Growth of Biological Thought*):** *"The Greek stem **clad** denotes a tender young branch, providing the conceptual foundation for all tree-like phylogenies."*

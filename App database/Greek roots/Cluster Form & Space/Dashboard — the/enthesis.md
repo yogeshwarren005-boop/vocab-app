@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek the.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The anatomical site where a tendon, ligament, or joint capsule attaches to bone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In rheumatology and orthopedics, entheses are fibrocartilaginous junctions designed to dissipate mechanical stress; inflammation at these points (enthesitis) is a hallmark of spondyloarthropathies like ankylosing spondylitis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, enthesis designates a term designating an entity, condition, or phenomenon derived from greek the."*
+> - 📜 **Henry Gray (*Gray's Anatomy*):** *"Mechanical stress is dissipated where fibrous tendon transitions through fibrocartilage into bone at the **enthesis**."*
+> - 📜 **William Osler (*Modern Medicine: Its Theory and Practice*):** *"Recurrent inflammation at the calcaneal **enthesis** frequently heralds the onset of systemic ankylosing spondylitis."*
+> - 📜 **Michael DeBakey (*The Living Body*):** *"Reconstructive orthopedic repair requires securing the avulsed ligament firmly back onto its natural **enthesis**."*

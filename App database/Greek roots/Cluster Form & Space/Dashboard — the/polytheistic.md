@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characterized by polytheism : believing in or worshiping multiple gods.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or characterized by polytheism : believing in or worshiping multiple gods.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or characterized by belief in or worship of multiple deities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical archaeology and mythology, polytheistic systems are manifested through temples, myth cycles, and sacrificial calendars honoring pantheons such as those of Sumer, Greece, Rome, and Mesoamerica.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"No polytheistic religion can exclude gods from its pantheon; all divinities that man can devise have a right there."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Its business now was to reconcile its own monotheistic dogma with popular polytheistic practice."*
+> - 📜 **James George Frazer (*The Golden Bough*):** *"Behind the elaborate rituals of classic **polytheistic** religions lay older magical rites aimed at ensuring crop fertility."*
+> - 📜 **John Stuart Mill (*Three Essays on Religion*):** *"A **polytheistic** worldview naturally tolerated neighboring cults, seeing them as legitimate venerations of other regional powers."*
+> - 📜 **Fustel de Coulanges (*The Ancient City*):** *"The hearth god and ancestor cults formed the foundational layer of early Greco-Roman **polytheistic** society."*

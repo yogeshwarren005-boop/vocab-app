@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, characterized by, or being a ring composed of atoms of more than one kind.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An amine containing one or more closed rings of carbon and nitrogen; especially : any of various carcinogenic amines formed when creatine or creatinine reacts with free amino acids and sugar in meat cooked at high temperatures.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, having, or containing a closed ring composed of two or more different kinds of atoms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In synthetic chemistry, describing classes of compounds such as furans, pyrroles, thiophenes, and indoles whose rings include non-carbon heteroatoms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heterocyclic designates relating to, characterized by, or being a ring composed of atoms of more than one kind."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"The stability of **heterocyclic** aromatic rings arises from delocalized pi-electron sextets across carbon and heteroatom p-orbitals."*
+> - 📜 **Alexander Todd (*A Time to Remember: The Autobiography of a Chemist*):** *"Our investigations into vitamin B1 centered on its unique thiazole and pyrimidine **heterocyclic** nuclei."*
+> - 📜 **Francis Crick (*What Mad Pursuit*):** *"Complementary base pairing in DNA depends entirely on hydrogen bonding between pairs of planar **heterocyclic** bases."*

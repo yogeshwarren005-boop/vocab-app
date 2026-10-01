@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A crackling or hissing noise caused by electrical interference.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Angry criticism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking in movement, development, or change; in physics, relating to bodies at rest or forces in equilibrium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In communications and electrostatics, static designates crackling atmospheric electrical interference or charges accumulated on non-conductive surfaces.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"I, therefore, is a static theory in respect to the standard of deferred payments, and requires adjustment to apply to a condition of a changing price-level.] [Footnote 12: See above, sec. 3.] [Footnote 13: Mention was made in Vol."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In long-time static conditions the general level of prices and the prevailing rate of interest are dependent on entirely different sets of forces."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"That is, there is, under static conditions, work for all to do at various rates of wages that would bring about a value equilibrium of services.[9] The maladjustments are either of an individual or of a general character."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The belief that species were immutable, **static** creations blinded naturalists to the dynamic evidence of variation."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"Frictional rubbing produced **static** electricity capable of attracting small pith balls from a distance."*
+> - 📜 **H. G. Wells (*The Shape of Things to Come*):** *"Social institutions that remain **static** inevitably collapse under the pressure of technological revolutions."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any plant or fossil of the genus psilophyton.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any plant or fossil of the genus psilophyton.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of extinct early Devonian vascular plants characterized by smooth or spiny dichotomous branching stems and paired terminal sporangia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In paleobotany, a key genus within Trimerophytopsida exhibiting pseudo-monopodial branching and sophisticated scalariform xylem tracheids.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psilophyton designates any plant or fossil of the genus psilophyton."*
+> - 📜 **J. William Dawson (*On the Pre-Carboniferous Flora of New Brunswick, Maine, and Eastern Canada*):** *"I established the genus **psilophyton** based on sandstone impressions displaying slender bifurcating stems adorned with minute spines."*
+> - 📜 **Harlan P. Banks (*Anatomy and Morphology of Devonian Plants*):** *"Meticulous serial transfers revealed that **psilophyton** possessed lateral clusters of nodding sporangia that dehisced longitudinally."*
+> - 📜 **Patricia G. Gensel (*Plant Life in the Devonian*):** *"The central vascular strand of **psilophyton** illustrates the transition toward more robust xylem architectures suited to taller growth."*

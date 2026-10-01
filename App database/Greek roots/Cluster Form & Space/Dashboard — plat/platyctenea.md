@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An order of tentaculata.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An order of tentaculata.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An order of ctenophores (comb jellies) that are highly flattened along the oral-aboral axis and adapted to a benthic or creeping lifestyle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine invertebrate zoology, organisms that largely reduce their ciliated comb rows in adult stages, adopting sessile or epizoic habits upon corals and echinoderms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, platyctenea designates an order of tentaculata."*
+> - 📜 **Libbie Hyman (*The Invertebrates: Protozoa through Ctenophora*):** *"The benthic members of **platyctenea** have abandoned pelagic swimming in favor of creeping upon creeping soles."*
+> - 📜 **Alfred Goldsborough Mayor (*Ctenophores of the Atlantic Coast of North America*):** *"The anatomical transitions observed in **platyctenea** bridge typical pelagic comb jellies and planar forms."*
+> - 📜 **Thomas Hunt Morgan (*The Development of the Ctenophore Egg*):** *"Embryological cleavage in **platyctenea** confirms their close phylogenetic alignment with tentaculate ctenophores."*

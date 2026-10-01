@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking a centromere.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking a centromere.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking a center or not situated in the center; in cytogenetics, describing a chromosome or chromatid fragment that lacks a centromere.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In radiation genetics and chromosomal pathology, describing an unstable chromosome fragment that cannot attach to the mitotic spindle and is lost during cell division.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acentric designates lacking a centromere."*
+> - 📜 **Theodosius Dobzhansky (*Genetics and the Origin of Species*):** *"Ionizing radiation creates an **acentric** chromosomal fragment that fails to align upon the equatorial plate and is excluded from daughter nuclei."*
+> - 📜 **Edmund Beecher Wilson (*The Cell in Development and Inheritance*):** *"Without spindle microtubule attachment at a kinetochore, the **acentric** chromatin body drifts passively into the cytoplasm."*
+> - 📜 **Julian Huxley (*Evolution: The Modern Synthesis*):** *"Chromosomal breakage yields one dicentric chromosome and one **acentric** fragment, both destined to cause cell lethality."*

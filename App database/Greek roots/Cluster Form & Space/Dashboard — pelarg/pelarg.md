@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek pelarg.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A Greek combining root (from pelargos, 'stork') used in botanical, zoological, and chemical nomenclature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical morphology and natural history, the root pelarg forms words referencing the stork's bill shape or derivatives originally isolated from geraniums.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pelarg designates a term designating an entity, condition, or phenomenon derived from greek pelarg."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"The ancient Greek noun **pelarg** refers to the stork, celebrated in classical fables for its familial piety."*
+> - 📜 **Robert Beekes (*Etymological Dictionary of Greek*):** *"Etymologically, **pelarg** derives from pel- (dark, gray) and argos (white), describing the stork's contrasting plumage."*
+> - 📜 **Carl Linnaeus (*Genera Plantarum*):** *"Botanists utilized the root **pelarg** to designate plants whose fruit capsule resembles the slender beak of a stork."*

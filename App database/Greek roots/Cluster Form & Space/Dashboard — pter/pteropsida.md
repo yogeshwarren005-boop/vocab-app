@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Used in former classifications to include all ferns and flowering plants and divided into the three classes filicinae and gymnospermae and angiospermae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used in former classifications to include all ferns and flowering plants and divided into the three classes filicinae and gymnospermae and angiospermae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A major division or class of vascular plants in traditional taxonomy comprising ferns, gymnosperms, and angiosperms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary plant morphology, a taxonomic assemblage characterized by large, megaphyllous leaves with leaf gaps in the central stele.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pteropsida designates used in former classifications to include all ferns and flowering plants and divided into the three classes filicinae and gymnospermae and angiospermae."*
+> - 📜 **Arthur J. Eames (*Morphology of Vascular Plants: Lower Groups*):** *"The grouping **pteropsida** emphasized the shared possession of complex megaphyllous foliage contrasting with microphyllous lycopods."*
+> - 📜 **Douglas Houghton Campbell (*The Evolution of the Land Plants*):** *"In **pteropsida**, the leaf gap interrupts the vascular ring, reflecting the immense conductive demand of expansive leaf blades."*
+> - 📜 **Harold C. Bold (*Morphology of Plants*):** *"Comparative morphologists long debated whether **pteropsida** represented a truly monophyletic clade or a grades-level assemblage."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mud plantains.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mud plantains.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of aquatic and wetland herbaceous plants (mud plantains, family Pontederiaceae) having unequal, heteromorphic anthers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical pollination ecology, Heteranthera exhibits division of labor between feeding anthers that reward pollinators and fertilizing anthers that deposit pollen.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heteranthera designates mud plantains."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The aquatic herb **heteranthera** displays one staminal anther significantly larger than its two yellow companions."*
+> - 📜 **Charles Darwin (*The Different Forms of Flowers on Plants of the Same Species*):** *"In **heteranthera**, the striking dimorphism of the anthers corresponds to specialized floral visitations by bees."*
+> - 📜 **Peter H. Raven (*Biology of Plants*):** *"Floating ribbons of **heteranthera** dubia thrive in calm freshwater shallows and slow-moving streams."*

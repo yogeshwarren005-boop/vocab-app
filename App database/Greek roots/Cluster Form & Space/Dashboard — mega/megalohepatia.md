@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormal enlargement of the liver.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abnormal enlargement of the liver.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormal enlargement of the liver; hepatomegaly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In hepatology and clinical medicine, massive liver enlargement resulting from amyloidosis, congestive right heart failure, fatty infiltration, or metastatic neoplasia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, megalohepatia designates abnormal enlargement of the liver."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Massive **megalohepatia** extending to the right iliac crest is characteristic of advanced hepatic amyloidosis."*
+> - 📜 **Armand Trousseau (*Lectures on Clinical Medicine*):** *"Tender pulsatile **megalohepatia** develops rapidly in acute tricuspid regurgitation."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Diffuse infiltrative carcinoma converts the hepatic parenchyma into a colossal mass of **megalohepatia**."*

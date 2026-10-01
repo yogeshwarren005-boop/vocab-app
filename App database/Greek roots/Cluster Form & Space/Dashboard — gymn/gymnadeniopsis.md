@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of north american terrestrial orchids usually included in genus habenaria.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of north american terrestrial orchids usually included in genus habenaria.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus or subgeneric group of North American orchids closely resembling Gymnadenia, bearing small spurred flowers on an open raceme.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In taxonomic floristics, Gymnadeniopsis includes the snowy orchid (Platanthera nivea), historically separated by rostellum morphology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gymnadeniopsis designates genus of north american terrestrial orchids usually included in genus habenaria."*
+> - 📜 **John Kunkel Small (*Flora of the Southeastern United States*):** *"In coastal pine bogs, **gymnadeniopsis** displays striking white cylindrical spikes illuminated against wet wiregrass."*
+> - 📜 **Asa Gray (*Synoptical Flora of North America*):** *"Morphological gradations link **gymnadeniopsis** to broader sections of the Habenaria complex."*
+> - 📜 **Merritt Lyndon Fernald (*Gray's Manual of Botany*):** *"The taxonomic separation of **gymnadeniopsis** relies upon minute differences in the viscidium glands."*

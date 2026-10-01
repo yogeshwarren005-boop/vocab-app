@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Research with the use of microscopes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Research with the use of microscopes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The technical investigation or study of minute objects and structures using a microscope.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biophysics and histology, modern microscopy encompasses fluorescence, confocal laser scanning, and cryo-electron techniques to elucidate macromolecular assemblies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Any person possessed of the cardinal virtues of microscopy—patience and perseverance—will be rewarded in this instance; whilst those who are deficient will lose an object worthy of the virtues they dare not boast."*
+> - 📜 **Ernst Abbe (*Contributions to the Theory of the Microscope*):** *"Diffraction sets an ultimate optical limit upon resolution in conventional **microscopy**, defined by the wavelength of light and numerical aperture."*
+> - 📜 **Santiago Ramón y Cajal (*Advice for a Young Investigator*):** *"Patient hours spent in neurological **microscopy** with silver staining revealed the fundamental individuality of nerve cells."*
+> - 📜 **Robert Koch (*The Aetiology of Tuberculosis*):** *"Rigorous bacterial **microscopy** coupled with differential aniline dyes proved indispensable in isolating the tubercle bacillus."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: River dolphins.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: River dolphins.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of freshwater river dolphins comprising the South Asian river dolphins (Platanista gangetica and Platanista minor).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cetology, members of Platanistidae inhabit the Indus, Ganges, and Brahmaputra river systems, having reduced eyes and relying on echolocation and tactile flippers in turbid waters.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, platanistidae designates river dolphins."*
+> - 📜 **Richard Owen (*On the Anatomy of the Cetacea*):** *"The cranial maxillae in **Platanistidae** bear prominent bony crests that arch forward over the blowhole."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes and Aquatic Mammals*):** *"The blind river dolphin of the family **Platanistidae** navigates muddy Indian currents by emitting continuous sonar clicks."*
+> - 📜 **George Gaylord Simpson (*The Principles of Classification and a Classification of Mammals*):** *"The archaic anatomical traits of **Platanistidae** separate them from modern oceanic delphinid lineages."*

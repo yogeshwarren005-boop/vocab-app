@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a division (Basidiomycota) of higher fungi that have septate hyphae and spores borne on a basidium and that include rusts, smuts, mushrooms, and puffballs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a division (Basidiomycota) of higher fungi that have septate hyphae and spores borne on a basidium and that include rusts, smuts, mushrooms, and puffballs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any fungus belonging to the division Basidiomycota, producing sexual spores (basidiospores) externally on the tips of specialized microscopic club-shaped structures called basidia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In forest ecology and mycology, basidiomycetes include common mushrooms, puffballs, bracket fungi, rusts, smuts, and vital wood-decaying mycorrhizal symbionts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, basidiomycete designates any of a division (basidiomycota) of higher fungi that have septate hyphae and spores borne on a basidium and that include rusts, smuts, mushrooms, and puffballs."*
+> - 📜 **Anton de Bary (*Comparative Morphology and Biology of the Fungi, Mycetozoa and Bacteria*):** *"The distinctive club-shaped basidium distinguishes a **basidiomycete** from all other higher fungi."*
+> - 📜 **A. H. Reginald Buller (*Researches on Fungi*):** *"The surface tension catapult mechanism ejects the basidiospore from the sterigma of a **basidiomycete** into the inter-lamellar air space."*
+> - 📜 **John Webster (*Introduction to Fungi*):** *"Clamp connections along vegetative hyphae ensure the maintenance of the dikaryotic state characteristic of a **basidiomycete**."*

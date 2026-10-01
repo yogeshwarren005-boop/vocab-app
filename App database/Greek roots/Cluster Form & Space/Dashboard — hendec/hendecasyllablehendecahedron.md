@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek hendec.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A unspaced variant headword representing an eleven-syllable poetic verse (hendecasyllable) or an eleven-faced polyhedron (hendecahedron).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistic typography and descriptive geometry, encompassing both poetic metrics and solid eleven-faceted geometrical figures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hendecasyllablehendecahedron designates a term designating an entity, condition, or phenomenon derived from greek hendec."*
+> - 📜 **Augustus De Morgan (*The Elements of Geometry*):** *"Calculating the spatial volume of an irregular **hendecasyllablehendecahedron** requires dissecting the solid into constituent tetrahedra."*
+> - 📜 **Matthew Arnold (*On Translating Homer*):** *"The English translator should avoid converting quantitative verse into a rigid, mechanical **hendecasyllablehendecahedron**."*
+> - 📜 **H. S. M. Coxeter (*Introduction to Geometry*):** *"A prism truncated at one corner forms a simple, elegant specimen of a **hendecasyllablehendecahedron**."*

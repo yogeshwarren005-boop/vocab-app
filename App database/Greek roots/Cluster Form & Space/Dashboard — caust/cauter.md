@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek caust.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument, hot iron, or chemical substance used for burning, searing, or destroying living flesh (cautery).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In surgical history, an operative tool heated in coals or charged with chemical potential to achieve immediate hemostasis and seal wounds against infection.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cauter designates a term designating an entity, condition, or phenomenon derived from greek caust."*
+> - 📜 **Ambroise Paré (*The Apologie and Treatise of Ambroise Paré*):** *"I resolved never more to burn the poor wounded soldiers with the cruel red-hot **cauter** and boiling oil."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Application of the actual **cauter** was anciently considered the sovereign remedy against stubborn bites of rabid dogs."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Ancient surgeons relied upon the hot **cauter** where modern practitioners prefer gentle styptic remedies."*

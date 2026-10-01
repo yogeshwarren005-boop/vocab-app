@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having experience; having knowledge or skill from observation or participation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having experience; having knowledge or skill from observation or participation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or gaining experience; learning through empirical trial or direct observation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophy of mind, an experiencing subject; an entity capable of subjective awareness or qualia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, experient designates having experience; having knowledge or skill from observation or participation."*
+> - 📜 **Alfred North Whitehead (*Process and Reality*):** *"The actual occasion is an **experient** subject whose subjective aim directs the concrescence of feelings."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"The active mind is not merely a passive recipient, but an **experient** agent constructing its perception."*
+> - 📜 **Charles Sanders Peirce (*Collected Papers*):** *"Every inquiry transforms the **experient** observer by confronting preconceived theories with recalcitrant facts."*

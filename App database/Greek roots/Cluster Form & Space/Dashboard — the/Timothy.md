@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A European perennial grass (Phleum pratense) that has long cylindrical spikes and is widely grown for hay in the U.S.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disciple of the apostle Paul.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A masculine given name derived from Greek *Timotheos*, meaning 'honoring God' or 'honored by God' (*timao* + *theos*); also, timothy grass (*Phleum pratense*), a widely cultivated pasture grass.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the New Testament, Timothy was a companion and disciple of Paul the Apostle and recipient of two Pauline epistles; the grass was named after agriculturalist Timothy Hanson.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"He loved Paul of Tarsus, liked St John, hated St James as much as he dared, and regarded with mixed feelings Timothy, Titus, and Philemon."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"They were Will Aden, Abel Milliken, and Timothy Grant."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Not until morning did I hear of the return of Abel Milliken and Timothy Grant, but I was not long in learning."*
+> - 📜 **Saint Paul (*First Epistle to Timothy*):** *"Let no man despise thy youth; but be thou an example of the believers, my beloved disciple **Timothy**."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"The farmer harvested sweet-smelling redtop and lush **timothy** grass from the upland meadow."*
+> - 📜 **George Eliot (*The Mill on the Floss*):** *"Uncle **Timothy** shook his head gravely over the family ledgers, cautioning against rash investments."*

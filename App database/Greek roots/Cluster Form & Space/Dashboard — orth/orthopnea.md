@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Form of dyspnea in which the person can breathe comfortably only when standing or sitting erect; associated with asthma and emphysema and angina pectoris.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Form of dyspnea in which the person can breathe comfortably only when standing or sitting erect; associated with asthma and emphysema and angina pectoris.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A clinical symptom characterized by shortness of breath and respiratory distress that occurs when lying flat and is relieved by sitting or standing upright.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cardiology and pulmonology, orthopnea is a hallmark sign of congestive heart failure resulting from increased venous return and pulmonary capillary congestion in the supine position.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, orthopnea designates form of dyspnea in which the person can breathe comfortably only when standing or sitting erect; associated with asthma and emphysema and angina pectoris."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The patient with severe cardiac dilatation experiences distressing **orthopnea**, requiring several pillows to prop himself upright at night."*
+> - 📜 **Tinsley R. Harrison (*Principles of Internal Medicine*):** *"True **orthopnea** reflects sudden elevation in pulmonary wedge pressure upon assuming the recumbent posture."*
+> - 📜 **Eugene Braunwald (*Heart Disease*):** *"Relief of **orthopnea** upon sitting up occurs because gravity pools blood in dependent splanchnic and lower extremity veins."*

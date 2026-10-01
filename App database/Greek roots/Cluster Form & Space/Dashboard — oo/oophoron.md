@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek oo.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An older anatomical term for the ovary, the female reproductive organ that produces ova and secretes the hormones estrogen and progesterone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical anatomy, oophoron (from Greek oon, egg + pherein, to bear) was the preferred term before ovary gained dominance in English medical literature.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oophoron designates a term designating an entity, condition, or phenomenon derived from greek oo."*
+> - 📜 **Henry Gray (*Gray's Anatomy*):** *"The **oophoron**, or ovary, is situated in the posterior layer of the broad ligament."*
+> - 📜 **Albrecht von Haller (*Elementa Physiologiae Corporis Humani*):** *"The **oophoron** releases its mature follicle through the process we now term ovulation."*
+> - 📜 **Keith L. Moore (*Clinically Oriented Anatomy*):** *"The term **oophoron** persists in compound medical words such as oophorectomy and oophoritis."*

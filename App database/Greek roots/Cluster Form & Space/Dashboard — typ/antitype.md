@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person or thing represented or foreshadowed by a type or symbol; especially a figure in the old testament having a counterpart in the new testament.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An opposite or contrasting type.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person or thing represented by or foreshadowed by a type or symbol, especially in biblical interpretation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Christian typological hermeneutics, events and figures of the Old Testament (types) find their theological fulfillment in Christ and the New Covenant (the antitype).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antitype designates a person or thing represented or foreshadowed by a type or symbol; especially a figure in the old testament having a counterpart in the new testament."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The sacrificial lamb of Moses was but a shadow pointing forward to the true spiritual **antitype**."*
+> - 📜 **John Henry Newman (*Parochial and Plain Sermons*):** *"Every ancient ceremonial rite finds its ultimate reality and spiritual efficacy in the Christian **antitype**."*
+> - 📜 **Thomas Browne (*Religio Medici*):** *"The discerning student of scripture reads history backwards, illuminating the type through its glorious **antitype**."*

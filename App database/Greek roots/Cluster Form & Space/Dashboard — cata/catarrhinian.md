@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or related to old world monkeys that have nostrils together and opening downward.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or related to old world monkeys that have nostrils together and opening downward.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characteristic of the catarrhines; Old World primate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative anatomy and primatology, describing the cranial, dental, and nasal morphology distinctive of cercopithecoids and hominoids.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, catarrhinian designates of or related to old world monkeys that have nostrils together and opening downward."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"The **catarrhinian** dentition exhibits thirty-two teeth, with two premolars in each quadrant, identical to the human formula."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"No zoologist can doubt that our species shares a strictly **catarrhinian** genealogy rooted in African primate lineages."*
+> - 📜 **Alfred Russel Wallace (*The Geographical Distribution of Animals*):** *"The fossil record in Europe and Asia documents the Miocene radiation of distinct **catarrhinian** anthropoids."*

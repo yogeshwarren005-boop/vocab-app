@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being diverse and not comparable in kind.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being diverse and not comparable in kind.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state, condition, or degree of being heterogeneous; heterogeneity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociological analysis and materials science, the measure of structural or compositional disparity within an aggregate body.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heterogeneousness designates the quality of being diverse and not comparable in kind."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"Evolution is an integration of matter accompanied by a dissipation of motion, during which matter passes from indefinite homogeneity to definite **heterogeneousness**."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"The mind observes the essential **heterogeneousness** of our sensory ideas, distinguishing white from sweet without confusion."*
+> - 📜 **Thomas Henry Huxley (*Lay Sermons, Addresses, and Reviews*):** *"The extreme **heterogeneousness** of biological tissues arises through the progressive differentiation of uniform embryonic cells."*

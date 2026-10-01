@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek pept.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A peptide chain composed of a relatively small number of amino acid residues, typically between two and twenty amino acids.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In molecular endocrinology and pharmacology, many biological hormones (such as oxytocin and vasopressin) and bioactive signaling molecules are oligopeptides.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oligopeptide designates a term designating an entity, condition, or phenomenon derived from greek pept."*
+> - 📜 **Vincent du Vigneaud (*Trail of Research in Sulfur Chemistry and Related Fields*):** *"Oxytocin was the first hormone shown to be a cyclic **oligopeptide** whose sequence could be synthesized in vitro."*
+> - 📜 **Bruce Alberts (*Molecular Biology of the Cell*):** *"MHC Class I molecules bind an **oligopeptide** of eight to ten amino acids to present it at the cell surface to cytotoxic T lymphocytes."*
+> - 📜 **David L. Nelson (*Lehninger Principles of Biochemistry*):** *"Proteolytic enzymes cleave high-molecular-weight proteins into an assortment of smaller **oligopeptide** fragments."*

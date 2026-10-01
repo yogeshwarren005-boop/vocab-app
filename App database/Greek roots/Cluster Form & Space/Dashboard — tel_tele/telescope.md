@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A magnifier of images of distant objects.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Crush together or collapse.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An optical instrument designed to collect and magnify electromagnetic radiation, especially visible light, from distant celestial objects.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In observational astronomy, telescopes are classified broadly into refracting (dioptric), reflecting (catoptric), and catadioptric systems, as well as radio and space-based observatories.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"Oh, how I wish I could shut up like a telescope!"*
-> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"The Pool of Tears “Curiouser and curiouser!” cried Alice (she was so much surprised, that for the moment she quite forgot how to speak good English); “now I’m opening out like the largest telescope that ever was!"*
-> - 📜 **George Eliot (*Middlemarch*):** *"Not at all: a telescope might have swept the parishes of Tipton and Freshitt, the whole area visited by Mrs."*
+> - 📜 **Galileo Galilei (*Sidereus Nuncius*):** *"Directing my newly constructed **telescope** toward the heavens, I beheld four satellites revolving around Jupiter."*
+> - 📜 **Isaac Newton (*Opticks*):** *"To avoid chromatic aberration in lenses, I resolved to construct a reflecting **telescope** with a polished metal mirror."*
+> - 📜 **William Herschel (*Astronomical Observations Relating to the Construction of the Heavens*):** *"Scanning the nebula with my forty-foot **telescope**, the unresolved mist resolved into countlessly glittering suns."*

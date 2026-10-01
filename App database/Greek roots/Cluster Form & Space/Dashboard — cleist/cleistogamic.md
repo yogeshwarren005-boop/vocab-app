@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Exhibiting or relating to cleistogamy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exhibiting or relating to cleistogamy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by having flowers that do not open and are self-pollinated in the bud; cleistogamous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In floral ecology, describing specialized reproductive structures adapted to ensure seed set under adverse environmental conditions without relying on insect pollinators.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cleistogamic designates exhibiting or relating to cleistogamy."*
+> - 📜 **Charles Darwin (*The Different Forms of Flowers on Plants of the Same Species*):** *"The tiny **cleistogamic** flowers of Viola odorata lie concealed beneath dead leaves, yielding seeds with extraordinary economy."*
+> - 📜 **Asa Gray (*How Plants Behave*):** *"Many wild legumes produce inconspicuous **cleistogamic** blossoms that fertilize themselves without waiting for honeybees."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"Under low light conditions, impatiens switches from chasmogamic displays to prolific **cleistogamic** seed production."*

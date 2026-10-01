@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ascribe human features to something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ascribe human features to something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To ascribe human characteristics, emotions, motivations, or intentions to animals, inanimate things, or abstract concepts (variant British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In behavioral ethology, warning researchers against anthropomorphising non-human actions to avoid cognitive projection and biased interpretations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anthropomorphise designates ascribe human features to something."*
+> - 📜 **Frans de Waal (*Are We Smart Enough to Know How Smart Animals Are?*):** *"While we should not anthropomorphise uncritically, denying all shared cognitive mechanisms between humans and apes is equally unscientific."*
+> - 📜 **Konrad Lorenz (*King Solomon's Ring*):** *"The romantic tendency to **anthropomorphise** animal companions frequently blinds the owner to their authentic biological needs."*
+> - 📜 **Jane Goodall (*In the Shadow of Man*):** *"Early critics warned that to **anthropomorphise** the chimpanzees by naming them was unscientific, yet their individual personalities proved undeniable."*

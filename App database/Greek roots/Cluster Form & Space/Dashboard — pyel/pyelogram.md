@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek pyel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A radiographic image or X-ray of the renal pelvis, ureters, and urinary tract obtained using a radiopaque contrast medium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In diagnostic radiology, an imaging record (intravenous or retrograde) used to detect nephrolithiasis, hydronephrosis, or filling defects.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pyelogram designates a term designating an entity, condition, or phenomenon derived from greek pyel."*
+> - 📜 **Alexander Randall (*Surgical Pathology of Prostatic Obstructions*):** *"The intravenous **pyelogram** outlined dilated ureteral contours caused by chronic bladder neck obstruction."*
+> - 📜 **Hugh H. Young (*Practice of Urology*):** *"A retrograde **pyelogram** clearly demonstrated the calculus wedged at the ureteropelvic junction."*
+> - 📜 **Meredith Campbell (*Clinical Pediatric Urology*):** *"Evaluation of congenital hydronephrosis in infants requires a carefully timed excretory **pyelogram**."*

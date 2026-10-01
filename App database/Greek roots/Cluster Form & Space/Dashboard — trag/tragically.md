@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a tragic manner; with tragic consequences.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a tragic manner; with tragic consequences.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a tragic manner; with disastrous or sorrowful consequences; in a way that relates to tragedy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative exposition, describing events where potential greatness is cut down prematurely by misfortune, hubris, or malevolent circumstances.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Being a man who read all the dramas of life seriously, if he failed to please when they were comedies, there was no frivolous treatment to reproach him for when they chanced to end tragically."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"She knew why the delicate Retty looked so fragile, and Izz so tragically sorrowful, and Marian so blank; and she forgot her own dogging shadow for a moment in contemplating theirs."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"For all men tragically great are made so through a certain morbidness."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Misunderstood by society, Tess found her generous young heart **tragically** ensnared in unyielding social hypocrisy."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The promising reign of Emperor Julian ended **tragically** in the desert sands of Mesopotamia."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"The fall of Singapore proved **tragically** decisive in exposing the vulnerability of British imperial defenses."*

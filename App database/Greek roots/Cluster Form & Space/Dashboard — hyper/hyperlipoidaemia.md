@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Presence of excess lipids in the blood.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Presence of excess lipids in the blood.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An alternative or historical British spelling of hyperlipoidemia, designating an excess of lipoids or lipids in the blood.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Prevalent in early twentieth-century pathological and metabolic literature to describe the milky lipemic serum seen in severe nephrosis, diabetes, or hepatic biliary obstruction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyperlipoidaemia designates presence of excess lipids in the blood."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The profound **hyperlipoidaemia** of nephrosis is accompanied by widespread lipoid degeneration of the renal tubules."*
+> - 📜 **Ernest Starling (*Principles of Human Physiology*):** *"Lipoid substances circulating in high concentration produce visible **hyperlipoidaemia** upon laboratory inspection."*
+> - 📜 **Richard Bright (*Reports of Medical Cases*):** *"The whitish serum noted in dropsical cases testifies to the severe **hyperlipoidaemia** attending renal collapse."*

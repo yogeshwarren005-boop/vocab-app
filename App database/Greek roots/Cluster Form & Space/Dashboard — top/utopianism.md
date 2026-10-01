@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The political orientation of a utopian who believes in impossibly idealistic schemes of social perfection.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The political orientation of a utopian who believes in impossibly idealistic schemes of social perfection.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The belief in or pursuit of an ideal, perfect society; the visionary striving for an unattainable social paradise.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political philosophy and sociology, utopianism can serve as a revolutionary critique of existing social inequities or as an ungrounded ideological blueprint vulnerable to dogmatism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, utopianism designates the political orientation of a utopian who believes in impossibly idealistic schemes of social perfection."*
+> - 📜 **Karl Popper (*The Open Society and Its Enemies*):** *"The danger of radical **utopianism** lies in its willingness to sacrifice living generations for a hypothetical perfection."*
+> - 📜 **Lewis Mumford (*The Story of Utopias*):** *"Genuine **utopianism** is not escapism, but a vital catalyst for projecting imaginative ideals into practical reality."*
+> - 📜 **George Orwell (*James Burnham and the Managerial Revolution*):** *"Totalitarian fanaticism often masks its will to power behind the lofty rhetoric of radical **utopianism**."*

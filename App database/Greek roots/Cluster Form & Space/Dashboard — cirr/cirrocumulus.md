@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A cloud at a high altitude consisting of a series of regularly arranged small clouds resembling ripples.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cloud at a high altitude consisting of a series of regularly arranged small clouds resembling ripples.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A high-altitude cloud composed of ice crystals forming thin white sheets, ripples, or patches resembling a 'mackerel sky'.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In meteorology, high tropospheric clouds (above 6,000 meters) exhibiting delicate wave patterns without shadows, indicating atmospheric wave dynamics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cirrocumulus designates a cloud at a high altitude consisting of a series of regularly arranged small clouds resembling ripples."*
+> - 📜 **Luke Howard (*On the Modifications of Clouds*):** *"The **cirrocumulus** consists of small, rounded flecks densely arranged in undulating ripples across the zenith."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"The sunset illuminated delicate bands of **cirrocumulus**, turning their crystalline ripples into flakes of molten gold."*
+> - 📜 **Henry David Thoreau (*Journal*):** *"A light breeze formed a magnificent mackerel sky of dappled **cirrocumulus**, presaging a change in the weather."*

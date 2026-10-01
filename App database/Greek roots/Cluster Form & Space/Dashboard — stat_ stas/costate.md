@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of the surface) having a rough, riblike texture.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having ribs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having ribs or rib-like ridges; ribbed, especially in describing leaves, molluscan shells, or insect appendages.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In conchology and botany, costate shells and foliage exhibit prominent longitudinal or radial costae providing structural rigidity against predation and mechanical stresses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, costate designates (of the surface) having a rough, riblike texture."*
+> - 📜 **Charles Darwin (*A Monograph on the Sub-class Cirripedia*):** *"The external valves of the sessile barnacle are prominently **costate**, reinforcing the shell wall against heavy wave shocks."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The thick lanceolate leaves are strongly **costate**, bearing three prominent parallel veins running from base to apex."*
+> - 📜 **Thomas Martyn (*The Universal Conchologist*):** *"The sculpture of the bivalve is elegantly **costate**, each raised rib picked out with golden-brown markings."*

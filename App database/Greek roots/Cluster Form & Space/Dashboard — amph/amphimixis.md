@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Reproduction involving the union or fusion of a male and a female gamete.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Union of sperm and egg in sexual reproduction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: True sexual reproduction involving the union and fusion of male and female gametes to produce a genetically unique zygote.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology and population genetics, the primary source of genetic recombination, contrasted with apomixis, automixis, or parthenogenesis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amphimixis designates reproduction involving the union or fusion of a male and a female gamete."*
+> - 📜 **August Weismann (*The Germ-Plasm: A Theory of Heredity*):** *"The ultimate biological significance of **amphimixis** consists in the continuous generation of individual hereditary variability."*
+> - 📜 **Julian Huxley (*Evolution: The Modern Synthesis*):** *"By recombining distinct mutations from separate lineages, **amphimixis** accelerates the rate of adaptive evolution in sexual species."*
+> - 📜 **Theodosius Dobzhansky (*Genetics of the Evolutionary Process*):** *"Organisms that abandon **amphimixis** for asexual reproduction often trade short-term demographic gains for long-term evolutionary stagnation."*

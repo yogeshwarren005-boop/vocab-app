@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek speir.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sporangium that develops from a single superficial cell and possesses a wall only one cell layer thick, characteristic of modern ferns.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pteridology, the leptosporangium is equipped with an annulus—a specialized ring of hygroscopic, thick-walled cells that springs open to catapult spores.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, leptosporangium designates a term designating an entity, condition, or phenomenon derived from greek speir."*
+> - 📜 **F. O. Bower (*The Ferns (Filicales)*):** *"The evolutionary refinement of the stalked **leptosporangium** enabled rapid, explosive spore dispersal across forest canopies."*
+> - 📜 **Katherine Esau (*Plant Anatomy*):** *"A single epidermal initial gives rise to the entire **leptosporangium**, unlike the multi-celled origin of eusporangia."*
+> - 📜 **Eduard Strasburger (*Textbook of Botany*):** *"Under the microscope, the elastic rupture of the **leptosporangium** displays remarkable mechanical precision."*

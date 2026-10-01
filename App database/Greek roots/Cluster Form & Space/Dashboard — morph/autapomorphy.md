@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek morph.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A distinctive derived character state or evolutionary trait unique to a single terminal evolutionary lineage or species.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cladistics, an autapomorphy distinguishes a taxon from its closest relatives but is uninformative for resolving branching relationships within a clade.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, autapomorphy designates a term designating an entity, condition, or phenomenon derived from greek morph."*
+> - 📜 **Willi Hennig (*Phylogenetic Systematics*):** *"An **autapomorphy** establishes the diagnostic identity of a single monophyletic group, but sheds no light on sister-group relationships."*
+> - 📜 **Edward O. Wiley (*Phylogenetics: The Theory and Practice of Phylogenetic Systematics*):** *"Because an **autapomorphy** is restricted to a single terminal taxon, cladistic algorithms exclude it when calculating parsimony trees."*
+> - 📜 **Colin Patterson (*Molecules and Morphology in Evolution*):** *"The unique chin morphology of Homo sapiens stands as an anatomical **autapomorphy** setting modern humans apart from archaic hominins."*

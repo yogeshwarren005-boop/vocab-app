@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The collection and study of birds' eggs especially in relation to their shape and coloration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person specializing in oology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of ornithology concerned with the scientific study of birds' eggs, including their form, coloration, structure, and the nesting habits of the species that produce them.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In natural history, oology was a popular collecting discipline in the Victorian era, whose legacy collections now serve as invaluable records for studying environmental contaminants and eggshell thinning.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oology designates the collection and study of birds' eggs especially in relation to their shape and coloration."*
+> - 📜 **Alfred Newton (*A Dictionary of Birds*):** *"**Oology** has contributed materially to our knowledge of avian systematics and reproductive biology."*
+> - 📜 **Charles Bendire (*Life Histories of North American Birds*):** *"The science of **oology** demands precise measurement, description of coloration, and careful documentation of nest sites."*
+> - 📜 **David Lack (*Ecological Adaptations for Breeding in Birds*):** *"Modern **oology** explores the adaptive significance of egg size, shape, and pigmentation across habitats."*

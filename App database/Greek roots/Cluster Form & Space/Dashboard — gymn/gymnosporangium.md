@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of fungi that produce galls on cedars and other conifers of genera juniperus and libocedrus and causes rust spots on apples and pears and other plants of family rosaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of fungi that produce galls on cedars and other conifers of genera juniperus and libocedrus and causes rust spots on apples and pears and other plants of family rosaceae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of heteroecious rust fungi (family Pucciniaceae) that alternates between cupressaceous hosts (cedars/junipers) and rosaceous hosts (apples/hawthorns).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant pathology, Gymnosporangium juniperi-virginianae causes cedar apple rust, forming gelatinous orange horn-like telia on junipers in wet spring weather.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Spores uniseptate. =Gymnosporangium Juniperi=, Lk.; forming a soft gelatinous, irregular, orange mass; spores ovate or subelliptic, filled with subglobose granules.—On living twigs of _Juniperus communis_."*
+> - 📜 **C. J. Alexopoulos (*Introductory Mycology*):** *"Rain swells the woody galls of **gymnosporangium**, causing brilliant gelatinous telial horns to extrude into the spring air."*
+> - 📜 **David L. Hawksworth (*Ainsworth & Bisby's Dictionary of the Fungi*):** *"Eradication of red cedar windbreaks near commercial apple orchards remains the classic control measure against **gymnosporangium**."*
+> - 📜 **John Webster (*Introduction to Fungi*):** *"Basidiospores released from **gymnosporangium** telial columns are wind-blown to infect emerging apple foliage."*

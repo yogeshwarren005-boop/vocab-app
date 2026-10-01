@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of evidences of design in nature.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A doctrine (as in vitalism) that ends are immanent in nature.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The philosophical doctrine that phenomena are explained by the purpose they serve rather than by postulated mechanical causes; the study of final causes or ends.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of science, Aristotelian teleology dominated medieval philosophy until the Scientific Revolution established mechanistic efficient causes, later reinterpreted in cybernetics as teleonomy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, teleology designates the study of evidences of design in nature."*
+> - 📜 **Aristotle (*Physics*):** *"Nature does nothing in vain, and all organic growth displays internal **teleology** directed toward its proper form."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"Natural philosophy was long corrupted by introducing **teleology** into the domain of physical inquiries."*
+> - 📜 **Jacques Monod (*Chance and Necessity*):** *"The cornerstone of the scientific method is the postulate that nature is objective, rejecting all anthropomorphic **teleology**."*

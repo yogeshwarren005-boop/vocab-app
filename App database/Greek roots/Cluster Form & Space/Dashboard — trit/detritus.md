@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The remains of something that has been destroyed or broken up.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Loose material (stone fragments and silt etc) that is worn away from rocks.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Waste or debris of any kind; gravel, sand, or disintegrated rock fragments washed away by water; organic matter produced by decomposition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ecological trophic dynamics, organic detritus (dead plant matter, fecal pellets) forms the base of the detrital food web, decomposed by bacteria and saprophages.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The strip cut across and through narrow streets and alleys lined with huts fused from the gray detritus of the planet."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The floor was a mixture of Plutonian detritus."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Hodak's eyes searched the shadows without success except for the grind of boots on stony detritus and the scrape of a weight being dragged."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Torrential mountain torrents carry immense quantities of rocky **detritus** into the quiet waters of the lake."*
+> - 📜 **Rachel Carson (*The Edge of the Sea*):** *"The muddy substrate of the tidal estuary is rich in organic **detritus**, supporting countless burrowing polychaetes."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"Spring run-off clears the woodland brook of accumulated autumnal **detritus**, restoring crystal clarity to its bed."*

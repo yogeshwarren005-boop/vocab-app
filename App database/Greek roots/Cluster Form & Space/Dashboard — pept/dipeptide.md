@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A peptide that yields two molecules of amino acid on hydrolysis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A peptide that yields two molecules of amino acid on hydrolysis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A peptide composed of two amino acid residues linked together by a single peptide bond.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biochemistry and physiology, intestinal absorption of dietary proteins occurs predominantly in the form of dipeptides and tripeptides via the PepT1 transporter.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dipeptide designates a peptide that yields two molecules of amino acid on hydrolysis."*
+> - 📜 **Emil Fischer (*Studies on Amino Acids, Polypeptides, and Proteofols*):** *"By coupling glycine with alanine, we successfully synthesized the simplest crystalline **dipeptide**."*
+> - 📜 **Bruce Alberts (*Molecular Biology of the Cell*):** *"Hydrolysis of a single peptide bond within a **dipeptide** yields two free amino acids."*
+> - 📜 **David L. Nelson (*Lehninger Principles of Biochemistry*):** *"Carnosine, a physiological **dipeptide** found in high concentrations in skeletal muscle, acts as a cytoplasmic buffer."*

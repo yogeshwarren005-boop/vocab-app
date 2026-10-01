@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Grenadiers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Grenadiers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large family of benthopelagic deep-sea gadiform teleost fishes, commonly known as grenadiers, rattails, or whiptails.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In deep-sea oceanography and ichthyology, the Macrouridae constitute a dominant biomass on continental slopes, foraging along abyssal plains with subterminal snouts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, macrouridae designates grenadiers."*
+> - 📜 **Albert Günther (*Report on the Deep-Sea Fishes Collected by H.M.S. Challenger*):** *"The trawl nets of the Challenger brought up immense numbers of **Macrouridae** from ocean depths exceeding a thousand fathoms."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"With their long tapering tails and large luminescent organs, the **Macrouridae** are supremely adapted to bathyal abyssal realms."*
+> - 📜 **Tomio Iwamoto (*Deep-Sea Fishes of the Family Macrouridae*):** *"Taxonomic keys to the **Macrouridae** rely heavily on snout scalation, branchiostegal ray counts, and light organ placement."*

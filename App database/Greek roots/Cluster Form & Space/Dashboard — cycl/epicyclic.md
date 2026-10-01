@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to an epicycle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to an epicycle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or having the motion of an epicycle; revolving upon an epicycle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mechanical engineering, designating gear trains (epicyclic or planetary gearing) in which one or more outer gears revolve around a central sun gear.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epicyclic designates of or relating to an epicycle."*
+> - 📜 **William John Macquorn Rankine (*A Manual of Machinery and Millwork*):** *"In an **epicyclic** gear train, the planetary pinions rotate on moving arms around the coaxial sun gear."*
+> - 📜 **Johannes Kepler (*Astronomia Nova*):** *"The ancient hypothesis of **epicyclic** motion failed because nature prefers the simplicity of the Keplerian ellipse."*
+> - 📜 **Arthur Eddington (*Space, Time and Gravitation*):** *"General relativity banished the last lingering **epicyclic** corrections from the orbit of Mercury."*

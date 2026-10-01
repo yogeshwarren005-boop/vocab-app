@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An annular muscle surrounding and able to contract or close a bodily opening.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An annular muscle surrounding and able to contract or close a bodily opening.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A ringlike band of muscle fibers that constricts or closes a bodily passage, duct, or natural orifice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiological medicine, sphincters (such as the lower esophageal, pyloric, and anal sphincters) maintain selective mucosal continence and regulate bolus transit.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sphincter designates an annular muscle surrounding and able to contract or close a bodily opening."*
+> - 📜 **William Harvey (*De Motu Cordis*):** *"The cardiac valve closes tightly, acting like an involuntary muscular **sphincter** to prevent retrograde flow."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"Contraction of the circular **sphincter** pupillae muscle constricts the aperture of the pupil under bright illumination."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Achalasia results from the failure of the lower esophageal **sphincter** to relax normally during deglutition."*

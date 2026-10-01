@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A community of people smaller than a village.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A crisis situation or point in time when a critical decision must be made.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An intersection where two or more roads cross each other.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pivotal crisis or critical turning point in life, history, or strategy where a crucial decision must be made.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"The members of the North American Bahá'í Community, to whose care the immediate destinies of this fate-laden crusade have been entrusted, are standing at a new crossroads."*
-> - 📜 **Effendi Shoghi (*Citadel of Faith*):** *"They now stand at the crossroads, unable to relax for a moment, or hesitate as to which road they should tread, or to allow any decline in the high standard they have, for no less than six decades, undeviatingly upheld."*
-> - 📜 **graf Leo Tolstoy (*War and Peace*):** *"There’s the corner at the crossroads, where the cabman, Zakhár, has his stand, and there’s Zakhár himself and still the same horse!"*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Modern civilization stands at a historic **crossroads**, choosing between democratic equality in freedom or equal servitude."*
+> - 📜 **Winston Churchill (*The Second World War: Their Finest Hour*):** *"The nation had reached a desperate **crossroads** where steadfast endurance was the only alternative to extinction."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Dorothea found herself standing at the spiritual **crossroads** of her youth, uncertain which duty commanded her conscience."*

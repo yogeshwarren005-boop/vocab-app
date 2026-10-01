@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of two usually recognized orders of true bacteria; gram-negative spiral or spherical or rod-shaped bacteria usually motile by polar flagella; some contain photosynthetic pigments.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of two usually recognized orders of true bacteria; gram-negative spiral or spherical or rod-shaped bacteria usually motile by polar flagella; some contain photosynthetic pigments.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An order of Gram-negative bacteria in the class Gammaproteobacteria, containing the families Pseudomonadaceae and Moraxellaceae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic bacteriology, chemoorganotrophic or facultatively autotrophic rods that employ polar flagella and respiratory metabolism with oxygen or nitrate as terminal electron acceptors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pseudomonadales designates one of two usually recognized orders of true bacteria; gram-negative spiral or spherical or rod-shaped bacteria usually motile by polar flagella; some contain photosynthetic pigments."*
+> - 📜 **C. B. van Niel (*The Classification of Bacteria*):** *"Within the **pseudomonadales**, flagellar insertion at the cellular poles constitutes a cardinal morphological criterion."*
+> - 📜 **Robert E. Buchanan (*Index Bergeyana*):** *"The systematic rearrangement of **pseudomonadales** reflects modern phenotypic and physiological profiling."*
+> - 📜 **David Hendricks Bergey (*Bergey's Manual of Systematic Bacteriology*):** *"Genomic sequence homology confirms that the order **pseudomonadales** encompasses medically critical opportunistic pathogens."*

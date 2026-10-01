@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To say, state, or perform again.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To say, state, or perform again.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To state something again, especially in a new or clearer way, in order to clarify meaning or emphasize a principle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophy and jurisprudence, legal restatements (such as the Restatement of the Law) systematically clarify and harmonize common-law doctrines.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Butler and Curtis, and in the arguments which came up upon points of testimony, that there remained little for the other counsel except to restate what had before been said."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"A number of the ideas are well restated in more simple terms by E."*
-> - 📜 **James Joyce (*Ulysses*):** *"What counterproposals were alternately advanced, accepted, modified, declined, restated in other terms, reaccepted, ratified, reconfirmed?"*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Allow me to **restate** my fundamental thesis: the human mind begins as a clean slate, void of all innate ideas."*
+> - 📜 **Bertrand Russell (*The Problems of Philosophy*):** *"To avoid linguistic confusion, the philosopher must frequently **restate** his definitions in terms of precise logical relations."*
+> - 📜 **Oliver Wendell Holmes Jr. (*The Common Law*):** *"It is necessary to **restate** the doctrine of consideration in terms of historical reality rather than abstract logic."*

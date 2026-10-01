@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek peg.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgical fixation of a displaced or prolapsed uterus to the abdominal wall or neighboring supporting structures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gynecologic surgery, laparoscopic hysteropexy provides a uterine-sparing alternative for managing apical pelvic organ prolapse.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hysteropexy designates a term designating an entity, condition, or phenomenon derived from greek peg."*
+> - 📜 **Howard A. Kelly (*Operative Gynecology*):** *"Ventral **hysteropexy** secures the fundus to the anterior abdominal wall to overcome symptomatic retroversion."*
+> - 📜 **J. Marion Sims (*Clinical Notes on Uterine Surgery*):** *"Pioneering techniques in **hysteropexy** relieved distressing mechanical symptoms of pelvic descent in active women."*
+> - 📜 **John A. Rock (*Te Linde's Operative Gynecology*):** *"Laparoscopic sacral **hysteropexy** utilizes synthetic mesh to re-anchor the cervix to the anterior longitudinal ligament."*

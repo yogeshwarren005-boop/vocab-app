@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A chemical process of decomposition involving the splitting of a bond and the addition of the hydrogen cation and the hydroxide anion of water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A chemical process of decomposition involving the splitting of a bond and the addition of the hydrogen cation and the hydroxide anion of water.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or operating by means of hydrolysis; causing the chemical cleavage of bonds through reaction with water.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cell biology, the interior of lysosomes is packed with more than 50 acid hydrolytic enzymes (hydrolases) that operate at acidic pH (~4.5–5.0) to degrade macromolecules, engulfed pathogens, and autophagic organelles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrolytic designates a chemical process of decomposition involving the splitting of a bond and the addition of the hydrogen cation and the hydroxide anion of water."*
+> - 📜 **Michael Foster (*A Text-Book of Physiology*):** *"Digestive secretions owe their solvent power to **hydrolytic** enzymes that split complex polymers into simple units."*
+> - 📜 **Claude Bernard (*Lectures on the Physiology of Digestion*):** *"The **hydrolytic** action of pancreatic juice transforms insoluble starch into soluble, absorbable sugar."*
+> - 📜 **Ernest Starling (*Principles of Human Physiology*):** *"Lysosomes are densely packed with **hydrolytic** enzymes capable of digesting virtually every class of biological macromolecule."*

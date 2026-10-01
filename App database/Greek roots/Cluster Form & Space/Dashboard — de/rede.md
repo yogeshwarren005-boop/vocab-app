@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Give an interpretation or explanation to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give advice to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Counsel, advice, or deliberation; also, to advise, interpret, or give wise direction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In archaic and Germanic literature, rede denotes deep wisdom, discernment, or an authoritative warning.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But good my brother, Do not as some ungracious pastors do, Show me the steep and thorny way to heaven; Whilst like a puff’d and reckless libertine Himself the primrose path of dalliance treads, And recks not his own rede."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"In ploughman phrase, “God send you speed,” Still daily to grow wiser; And may ye better reck the rede, Then ever did th’ adviser!"*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Chorus.—I rede you, beware at the hunting, young men, I rede you, beware at the hunting, young men; Take some on the wing, and some as they spring, But cannily steal on a bonie moor-hen."*
+> - 📜 **Geoffrey Chaucer (*The Canterbury Tales*):** *"Therfore I **rede** yow, taketh this to herte, and kepeth yow wel from flatterye."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"Do not, as some ungracious pastors do, show me the steep and thorny way to heaven, whiles himself recks not his own **rede**."*
+> - 📜 **Walter Scott (*The Lady of the Lake*):** *"Short space had he to pause and **rede**, for clamor loud arose upon the wind."*

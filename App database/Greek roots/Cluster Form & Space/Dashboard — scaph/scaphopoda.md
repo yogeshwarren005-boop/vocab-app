@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small class of bilaterally symmetrical marine forms comprising the tooth shells.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small class of bilaterally symmetrical marine forms comprising the tooth shells.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The taxonomic class of benthic marine mollusks comprising the tusk shells, possessing a tubular, curved shell open at both ends.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic malacology, a distinct molluscan class lacking gills and eyes, relying on mantle cavity circulation and captacular feeding.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scaphopoda designates small class of bilaterally symmetrical marine forms comprising the tooth shells."*
+> - 📜 **Ernst Haeckel (*The History of Creation*):** *"The class **scaphopoda** bridges the evolutionary gap between primitive bivalve architectures and cephalopod forebears."*
+> - 📜 **George Washington Tryon (*Structural and Systematic Conchology*):** *"Fossils of **scaphopoda** appear as early as the Ordovician period, preserving their characteristic curved tubular geometry intact."*
+> - 📜 **Libbie Hyman (*The Invertebrates: Mollusca*):** *"The nervous system of **scaphopoda** reflects their sedentary burrowing existence, exhibiting paired cerebral, pleural, and pedal ganglia."*

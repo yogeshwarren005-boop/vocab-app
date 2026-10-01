@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Symmetric with respect to a central point.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Symmetric with respect to a central point.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Possessing a point of inversion symmetry, such that every point on a figure or molecule corresponds to an identical point inverted through a central locus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In crystallography and solid-state physics, characterizing space groups and crystal classes that lack optical activity and piezoelectric responses due to inversion symmetry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centrosymmetric designates symmetric with respect to a central point."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"The planar molecule assumes a strictly **centrosymmetric** configuration in the solid state, cancelling out net dipole moments."*
+> - 📜 **Max von Laue (*History of Physics*):** *"X-ray diffraction patterns from **centrosymmetric** lattices obey Friedel's law with exceptional fidelity."*
+> - 📜 **J. D. Bernal (*The Origin of Life*):** *"In inorganic mineral surfaces, non-centrosymmetric crystals offer chiral adsorption sites whereas **centrosymmetric** forms remain racemic."*

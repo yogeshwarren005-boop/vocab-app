@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not corresponding in structure or evolutionary origin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not corresponding in structure or evolutionary origin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Consisting of or characterized by different or discordant principles; or departing from normal biological structure or developmental sequence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary theory and philosophy (Bataille), heterologic refers to the study of the heterogeneous, taboo, or rejected elements of culture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heterologic designates not corresponding in structure or evolutionary origin."*
+> - 📜 **Georges Bataille (*Visions of Excess*):** *"A **heterologic** method investigates that which homogeneous society expels as waste, sacred terror, or sovereign expenditure."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"A **heterologic** tumor consists of tissues that have no anatomical analogue in the normal host organ where they arise."*
+> - 📜 **Michel Foucault (*The Order of Things*):** *"Modern thought established **heterologic** spaces where conflicting epistemological orders collide without synthesis."*

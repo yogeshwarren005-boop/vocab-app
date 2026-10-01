@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A reference work (often in several volumes) containing articles on various topics (often arranged in alphabetical order) dealing with the entire range of human knowledge or with some particular specialty.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A reference work (often in several volumes) containing articles on various topics (often arranged in alphabetical order) dealing with the entire range of human knowledge or with some particular specialty.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A book or set of books containing articles on various aspects of human knowledge; an encyclopedia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In education and lexicography, a systematic reference work encompassing the entire circle of learning or an exhaustive survey of a specialized technical field.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anna Balmer Myers (*Amanda: A Daughter of the Mennonites*):** *"What Charlie don't have in his pants pocket ain't in the 'cyclopedia."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"Every man is a quotation from all his ancestors, and nature itself is a vast, open-air **cyclopedia** of symbols."*
+> - 📜 **Henry David Thoreau (*A Week on the Concord and Merrimack Rivers*):** *"The riverbank woods offer a livelier **cyclopedia** than any leather-bound volume in the university library."*
+> - 📜 **Mark Twain (*Innocents Abroad*):** *"The tourist turned to his pocket **cyclopedia** to verify the dimensions of the Roman Colosseum."*

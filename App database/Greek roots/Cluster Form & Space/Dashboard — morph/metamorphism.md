@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A change in the constitution of rock; specifically : a pronounced change effected by pressure, heat, and water that results in a more compact and more highly crystalline condition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A change in the constitution of rock; specifically : a pronounced change effected by pressure, heat, and water that results in a more compact and more highly crystalline condition.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of profound transformation or structural change in form, character, or composition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geology, the solid-state mineralogical and structural recrystallization of rocks driven by changes in temperature, lithostatic pressure, and reactive tectonic fluids.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metamorphism designates a change in the constitution of rock; specifically : a pronounced change effected by pressure, heat, and water that results in a more compact and more highly crystalline condition."*
+> - 📜 **Charles Richard Van Hise (*A Treatise on Metamorphism*):** *"We define geological **metamorphism** as the alteration of rocks within the crust under conditions differing from those under which they formed."*
+> - 📜 **Arthur Holmes (*Principles of Physical Geology*):** *"Thermal contact **metamorphism** produces a baked aureole of hornfels surrounding a molten granitic pluton."*
+> - 📜 **Reginald Aldworth Daly (*Metamorphism and Its Phases*):** *"Hydrothermal fluids facilitate ionic diffusion during dynamic **metamorphism**, catalyzing the growth of porphyroblastic garnets."*

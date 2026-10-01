@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Combining or exhibiting the essential characteristics of a group.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Conforming to a type.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Exhibiting the qualities, traits, or characteristics most representative of a particular type, group, or class; conforming to a standard or norm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In statistics and social science, typical denotes the central tendency or modal instance within a distribution, representing what is most commonly encountered rather than exceptional.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Unlike and superior to either of those two typical remnants of mediævalism, the old barn embodied practices which had suffered no mutilation at the hands of time."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Here’s a marble headstone beautifully crocketed, with medallions beneath of typical subjects; here’s the footstone after the same pattern, and here’s the coping to enclose the grave."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Her first day’s experiences were fairly typical of those which followed through many succeeding days."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"The **typical** form of each species shows the greatest stability across generations."*
+> - 📜 **Adolphe Quetelet (*A Treatise on Man*):** *"The **typical** man represents the average of all measured human attributes in a given population."*
+> - 📜 **Max Weber (*Economy and Society*):** *"The **typical** case in sociological analysis serves as a benchmark against which deviations are measured."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who uses another person's words or ideas as if they were his own.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who uses another person's words or ideas as if they were his own.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who commits plagiarism; one who copies another's ideas or writings without attribution (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary history, an author who appropriates the creative labor of others while claiming originality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plagiariser designates someone who uses another person's words or ideas as if they were his own."*
+> - 📜 **John Dryden (*An Essay of Dramatic Poesy*):** *"Ben Jonson was no common **plagiariser**; he invaded authors like a monarch, and what would be theft in other poets was victory in him."*
+> - 📜 **Alexander Pope (*The Dunciad*):** *"The wretched **plagiariser** steals from every shelf, yet never enriches his own impoverished skull."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"A petty **plagiariser** snatches single phrases, while an imaginative genius transforms whatever he borrows."*

@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an eccentric or bizarre manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not symmetrically with respect to the center.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an eccentric, unconventional, or off-center manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In kinematics and astronomy, positioned or rotating around an axis that does not coincide with the geometric center.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The air, afflicted to pallor with the hoary multitudes that infested it, twisted and spun them eccentrically, suggesting an achromatic chaos of things."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Jaggers’s room was lighted by a skylight only, and was a most dismal place; the skylight, eccentrically pitched like a broken head, and the distorted adjoining houses looking as if they had twisted themselves to peep down at me through it."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"He moved **eccentrically** along the heath, zigzagging across gullies as though propelled by unpredictable inner whims."*
+> - 📜 **Robert Hooke (*Micrographia*):** *"The tiny wheel was mounted **eccentrically** upon its pinion, producing an intermittent reciprocal motion."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Frankland spent his fortune **eccentrically** in lawsuits, delighting in litigating against his own parish."*

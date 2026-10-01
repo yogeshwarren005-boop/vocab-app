@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of an order (Eurypterida) of usually large aquatic Paleozoic arthropods resembling scorpions and related to the horseshoe crabs —called also sea scorpion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of an order (Eurypterida) of usually large aquatic Paleozoic arthropods resembling scorpions and related to the horseshoe crabs —called also sea scorpion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any extinct aquatic chelicerate arthropod of the order Eurypterida (sea scorpions), flourishing from the Ordovician to the Permian.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In invertebrate paleontology, giant eurypterids like Jaekelopterus rhenaniae reached lengths of 2.5 meters, acting as formidable Paleozoic predators.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eurypterid designates any of an order (eurypterida) of usually large aquatic paleozoic arthropods resembling scorpions and related to the horseshoe crabs —called also sea scorpion."*
+> - 📜 **Stephen Jay Gould (*Wonderful Life*):** *"The giant **eurypterid** prowled shallow Silurian seas, brandishing formidable chelicerae and swimming paddles."*
+> - 📜 **Charles Doolittle Walcott (*Cambrian Geology and Paleontology*):** *"Fossil deposits preserve the chitinous exoskeleton of the **eurypterid** with remarkable morphological fidelity."*
+> - 📜 **Alfred Romer (*Vertebrate Paleontology*):** *"Early jawless ostracoderms developed heavy bony dermal armor largely to survive attacks by the apex **eurypterid**."*

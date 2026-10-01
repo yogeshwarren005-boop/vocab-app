@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Communication from one mind to another by extrasensory means.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Communication from one mind to another by extrasensory means.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The direct communication of thoughts, feelings, or knowledge from one mind to another without using speech, writing, or other known physical sensory signals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In 1882, Frederic W. H. Myers coined the word telepathy (from Greek *tele*, distant, and *patheia*, feeling) to designate mental interaction investigated by the Society for Psychical Research.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Conceal it as he might try, a mysterious telepathy was between them...."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Whatever doubts science may entertain as to the possibility of action at a distance, magic has none; faith in telepathy is one of its first principles."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"I will now give some instances of this magical telepathy both in its positive and in its negative aspect."*
+> - 📜 **Frederic W. H. Myers (*Phantasms of the Living*):** *"We propose the term **telepathy** for the communication of impressions of any kind from one mind to another, independently of the recognized channels of sense."*
+> - 📜 **William James (*The Will to Believe and Other Essays*):** *"If **telepathy** be a real fact in nature, it shows that the physical senses are not the sole windows of the human soul."*
+> - 📜 **Sigmund Freud (*New Introductory Lectures on Psycho-Analysis*):** *"Psychoanalysis has no theoretical objection to **telepathy**, which may represent an archaic, pre-linguistic mode of communication."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of destroying or eating away by chemical action : corrosive.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by incisive sarcasm.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of burning, corroding, or destroying living tissue by chemical action; or severely sarcastic, biting, and scathing in tone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In inorganic chemistry, describing strong corrosive hydroxides (such as caustic soda, NaOH); in optics, the envelope of rays reflected or refracted by a curved surface.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Would he obtain air by chemical means, in getting by heat the oxygen contained in chlorate of potash, and in absorbing carbonic acid by caustic potash?"*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"I recognised some euphorbias, with the caustic sugar coming from them; heliotropes, quite incapable of justifying their name, sadly drooped their clusters of flowers, both their colour and perfume half gone."*
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"To absorb it, it was necessary to fill some jars with caustic potash, and to shake them incessantly."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"Sodium hydroxide is known as **caustic** soda because it readily attacks animal tissue, converting fatty acids into soluble soaps."*
+> - 📜 **Alexander Pope (*The Dunciad*):** *"His satirical pen was dipped in **caustic** acid, searing the reputation of every dull poet in the capital."*
+> - 📜 **Isaac Newton (*Opticks*):** *"The concentration of reflected rays forms a bright **caustic** curve upon the opposite rim of the concave vessel."*

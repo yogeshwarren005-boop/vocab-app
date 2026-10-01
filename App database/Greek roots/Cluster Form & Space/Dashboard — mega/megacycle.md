@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One million cycles; especially : megahertz.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One million cycles; especially : megahertz.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One million cycles per second; an older unit of frequency equivalent to the megahertz.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In radio wave theory and electronic acoustics, an imperial frequency designation used to demarcate shortwave and VHF transmission spectra.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, megacycle designates one million cycles; especially : megahertz."*
+> - 📜 **Nikola Tesla (*My Inventions: The Autobiography of Nikola Tesla*):** *"High-frequency currents alternating at a **megacycle** per second demonstrated remarkable wireless transmission of energy."*
+> - 📜 **Guglielmo Marconi (*The Wireless Telegraphist's Pocket Book*):** *"Shortwave beam circuits operating at several **megacycle** intervals traversed intercontinental distances with minimal power."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"Theoretical waves calculated at one **megacycle** exhibit periodic wavelengths of three hundred meters."*

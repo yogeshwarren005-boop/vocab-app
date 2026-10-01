@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Least shrews.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Least shrews.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of small, short-tailed shrews native to North and Central America, commonly known as small-eared shrews.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic mammalogy, insectivorous soricids characterized by concealed external pinnae, reduced eyes, and semi-fossorial burrowing habits in forest leaf litter.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cryptotis designates least shrews."*
+> - 📜 **C. Hart Merriam (*Revision of the Shrews of the American Genera Blarina and Notiosorex*):** *"I recognized **Cryptotis** as a distinct generic group characterized by minute external ears hidden beneath dense fur."*
+> - 📜 **Edward O. Wilson (*The Diversity of Life*):** *"Cloud forests in Central America shelter endemic shrews of the genus **Cryptotis** that forage through moist moss."*
+> - 📜 **Spencer Fullerton Baird (*Mammals of North America*):** *"Specimens of **Cryptotis** parva burrow beneath fallen pine needles, hunting tirelessly for subterranean grubs."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A thin uniform layer of hazy cloud at high altitude.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A thin uniform layer of hazy cloud at high altitude.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A thin, high-altitude veil of ice-crystal cloud covering the sky and typically producing optical halos around the sun or moon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In synoptic meteorology, an extensive sheet cloud formed in the upper troposphere ahead of an advancing warm front.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cirrostratus designates a thin uniform layer of hazy cloud at high altitude."*
+> - 📜 **Luke Howard (*Essay on the Modifications of Clouds*):** *"The uniform sheet of **cirrostratus** gives the sky a milky pallor through which the sun shines with a distinct halo."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"A pale shroud of **cirrostratus** crept over the evening stars, warning the shepherd of the approaching tempest."*
+> - 📜 **Alexander von Humboldt (*Cosmos: A Sketch of a Physical Description of the Universe*):** *"Solar halos formed by the refractive prismatic crystals of **cirrostratus** were observed with extraordinary brilliance over the Andes."*

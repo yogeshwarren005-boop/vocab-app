@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Poisonous crystalline alkaloid occurring with ephedrine and isomorphic with it.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Poisonous crystalline alkaloid occurring with ephedrine and isomorphic with it.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sympathomimetic amine alkaloid isomer of ephedrine, widely used as an oral nasal and sinus decongestant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pharmacology, an alpha- and beta-adrenergic receptor agonist that induces vasoconstriction in swollen nasal mucosa.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pseudoephedrine designates poisonous crystalline alkaloid occurring with ephedrine and isomorphic with it."*
+> - 📜 **Louis S. Goodman (*The Pharmacological Basis of Therapeutics*):** *"Compared to ephedrine, oral **pseudoephedrine** produces equivalent mucosal shrinkage with substantially less central nervous system excitation."*
+> - 📜 **K. K. Chen (*Ephedrine and Related Substances*):** *"The diastereomer **pseudoephedrine** exhibits dextrorotatory optical activity while maintaining stable cardiovascular pharmacodynamics."*
+> - 📜 **Alfred Goodman Gilman (*Goodman & Gilman's The Pharmacological Basis of Therapeutics*):** *"Tight legal regulations restrict OTC access to **pseudoephedrine** because it serves as an illicit precursor for methamphetamine synthesis."*

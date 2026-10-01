@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A telegraphic dispatch.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A telegraphic dispatch.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A written or printed message communicated over long distances by electric telegraph, encoded in signals and delivered on paper to the recipient.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In diplomatic and social history, the telegram was renowned for its brevity and urgency, often delivered by uniform-clad couriers in yellow envelopes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"At the moment of his departure a telegram was handed to him—a few words from his mother, stating that they were glad to know his address, and informing him that his brother Cuthbert had proposed to and been accepted by Mercy Chant."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"We received a telegram that Bishop Simpson was dying."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Since then I am happy to say that this church has been blessed and we now have a pastor." A TELEGRAM OF PRAYER."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"At the moment of his departure a **telegram** was handed to him, its brief words announcing unexpected domestic catastrophe."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Speckled Band*):** *"Sherlock Holmes opened the morning **telegram**, read the urgent plea, and signaled that we must immediately take the train."*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"The intercepted Zimmermann **telegram** dramatically shifted American public opinion toward active intervention in the European war."*

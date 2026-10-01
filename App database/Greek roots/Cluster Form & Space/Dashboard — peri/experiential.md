@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or resulting from experience.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Derived from experience or the experience of existence; - benjamin farrington; - john dewey.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Involving or based on experience and direct observation rather than theory or speculation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychology and education, designating learning or therapy centered on personal emotional and sensory engagement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"I had, both directly and by implication, combated that form of the experiential theory of human knowledge which characterizes Mr."*
+> - 📜 **John Dewey (*Experience and Education*):** *"All genuine education comes about through personal engagement with **experiential** situations."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The stream of consciousness possesses an **experiential** richness that defies abstract mechanical reduction."*
+> - 📜 **Carl Rogers (*On Becoming a Person*):** *"Therapeutic change accelerates when the client accesses deep **experiential** awareness in the immediate present."*

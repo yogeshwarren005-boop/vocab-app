@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective & Noun*) Resembling, having the physical form of, or akin to bind.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective & Noun*) Resembling, having the physical form of, or akin to bind.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling a band, ribbon, or ligament in macroscopic texture; specifically designating a benign yet locally aggressive, non-metastasizing fibroblastic tumor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In oncologic pathology, desmoid tumors (aggressive fibromatoses) arise from deep fascial and aponeurotic connective structures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, desmoid designates adjective & noun*) resembling, having the physical form of, or akin to bind."*
+> - 📜 **Juan Rosai (*Rosai and Ackerman's Surgical Pathology*):** *"A **desmoid** tumor exhibits prominent, sweeping fascicles of mature fibroblasts within abundant collagenous stroma."*
+> - 📜 **Christopher D. M. Fletcher (*Diagnostic Histopathology of Tumors*):** *"Despite its benign histologic appearance, a **desmoid** fibromatosis often exhibits infiltrative margins that complicate surgical resection."*
+> - 📜 **Vinay Kumar (*Robbins and Cotran Pathologic Basis of Disease*):** *"Mutations in the beta-catenin or APC genes are characteristically associated with intra-abdominal **desmoid** lesions."*

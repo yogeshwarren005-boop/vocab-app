@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek pter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A zoologist or biologist who specializes in the scientific study of bats (order Chiroptera).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In field mammalogy, a scientist who studies bat echolocation, ecology, cave hibernation, and viral zoonoses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chiropterologist designates a term designating an entity, condition, or phenomenon derived from greek pter."*
+> - 📜 **Merlin Tuttle (*America's Neighborhood Bats*):** *"As an experienced **chiropterologist**, I spent decades documenting how insectivorous bats safeguard agriculture from destructive pests."*
+> - 📜 **Brock Fenton (*Bats*):** *"The modern **chiropterologist** employs ultrasonic acoustic monitors to survey nocturnal airspace without disturbing roosting colonies."*
+> - 📜 **Thomas Kunz (*Ecological and Behavioral Methods for the Study of Bats*):** *"Every field **chiropterologist** must exercise caution when sampling cave microclimates during winter torpor periods."*

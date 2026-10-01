@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek rhach.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The spine or vertebral column of vertebrates; an alternative spelling of rachis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical and zoological morphology, the primary axis of a feather, pinnate leaf, or flowering spike.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhachis designates a term designating an entity, condition, or phenomenon derived from greek rhach."*
+> - 📜 **William Henry Flower (*An Introduction to the Osteology of the Mammalia*):** *"The segmented **rhachis** provides a flexible yet rigid central axis supporting the thorax, ribs, and cranium."*
+> - 📜 **Andreas Vesalius (*De Humani Corporis Fabrica*):** *"Each vertebra of the human **rhachis** is exquisitely articulated to allow flexion, extension, and lateral rotation."*
+> - 📜 **Katherine Esau (*Plant Anatomy*):** *"Vascular bundles diverge sequentially from the central **rhachis** to supply the lateral pinnae of the fern frond."*

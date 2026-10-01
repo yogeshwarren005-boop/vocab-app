@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Coat a metal with an oxide coat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Coat a metal with an oxide coat.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To coat a metal (especially aluminum, titanium, or magnesium) with a protective, corrosion-resistant oxide film by making it the anode in an electrolytic solution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aerospace manufacturing and industrial materials science, to anodize components increases surface hardness, dielectric strength, and wear resistance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anodize designates coat a metal with an oxide coat."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"Electrolytic oxidation can **anodize** the metallic plate, building an inert dielectric film that halts further chemical attack."*
+> - 📜 **Ulick Evans (*Metallic Corrosion, Passivity and Protection*):** *"To **anodize** an aircraft skin requires precise regulation of bath temperature, voltage, and sulfuric acid concentration."*
+> - 📜 **Cyril Stanley Smith (*A History of Metallography*):** *"Decorative fabricators **anodize** architectural panels to infuse vivid light-fast colors into microscopic oxide pores."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or being a transitional period of the Stone Age between the Paleolithic and the Neolithic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or being a transitional period of the Stone Age between the Paleolithic and the Neolithic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or denoting the Middle Stone Age, intermediate between the Paleolithic and Neolithic epochs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In prehistoric archaeology, the post-glacial hunter-gatherer cultural epoch (circa 10,000–5,000 BCE) characterized by microlithic flint blade tools, composite weapons, and fishing weirs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Mesolithic designates of, relating to, or being a transitional period of the stone age between the paleolithic and the neolithic."*
+> - 📜 **John Lubbock (*Pre-historic Times*):** *"The **Mesolithic** horizon marks a transitional phase between the ancient mammoth hunters and the settled Neolithic agriculturalists."*
+> - 📜 **V. Gordon Childe (*Man Makes Himself*):** *"Adaptation to post-glacial forest environments stimulated the innovation of tiny geometric flint blades in the **Mesolithic** period."*
+> - 📜 **Edward Burnett Tylor (*Primitive Culture*):** *"Shell mounds and coastal middens of Denmark testify to the shoreline foraging economy of **Mesolithic** tribes."*

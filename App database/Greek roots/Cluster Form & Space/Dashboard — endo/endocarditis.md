@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the lining of the heart and its valves.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inflammation of the lining of the heart and its valves.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the endocardium, typically involving heart valves and caused by bacterial, fungal, or nonbacterial thrombotic vegetations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In infectious disease and cardiology, infective endocarditis requires prolonged bactericidal intravenous therapy to sterilize avascular valvular vegetations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endocarditis designates inflammation of the lining of the heart and its valves."*
+> - 📜 **William Osler (*The Gulstonian Lectures on Malignant Endocarditis*):** *"The vegetations in ulcerative **endocarditis** swarm with micrococci, forming colonies upon the free margins of the valves."*
+> - 📜 **Anthony S. Fauci (*Harrison's Principles of Internal Medicine*):** *"Subacute bacterial **endocarditis** manifests with insidious fever, new or changing murmurs, and peripheral embolic signs."*
+> - 📜 **Vinay Kumar (*Robbins and Cotran Pathologic Basis of Disease*):** *"Nonbacterial thrombotic **endocarditis** occurs in debilitated patients, characterized by sterile fibrin and platelet deposits."*

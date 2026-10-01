@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of place / locality / region / spatial position.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of place / locality / region / spatial position.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring in the normal or expected anatomical place (contrasted with ectopic).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In developmental anatomy and ophthalmology, entopic refers to normal organ position or endogenous visual perceptions (entoptic phenomena) arising within the eyeball itself.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, entopic designates adjective*) pertaining to, derived from, or characteristic of place / locality / region / spatial position."*
+> - 📜 **Henry Gray (*Gray's Anatomy*):** *"Following physiological descent, the gonads occupy their normal **entopic** position within the scrotal sac."*
+> - 📜 **Arthur Keith (*Human Embryology and Morphology*):** *"Surgical repositioning aimed to restore the herniated abdominal viscera to their true **entopic** relationships."*
+> - 📜 **Hermann von Helmholtz (*Treatise on Physiological Optics*):** *"The perception of retinal blood vessels under oblique illumination represents a classic **entopic** visual effect."*

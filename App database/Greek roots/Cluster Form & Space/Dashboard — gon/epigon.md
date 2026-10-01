@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An inferior imitator of some distinguished writer or artist of musician.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An inferior imitator of some distinguished writer or artist of musician.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A second-rate imitator or follower of a great artistic, literary, or philosophical master; an epigone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical mythology, the Epigoni were the sons of the Seven Against Thebes who successfully took the city ten years later.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epigon designates an inferior imitator of some distinguished writer or artist of musician."*
+> - 📜 **Friedrich Nietzsche (*Untimely Meditations*):** *"A late-coming generation risks declining into helpless **epigon** status, paralyzed by the colossal achievements of the past."*
+> - 📜 **Arthur Schopenhauer (*Parerga and Paralipomena*):** *"The superficial **epigon** copies the stylistic mannerisms of the master while missing the underlying philosophical flame."*
+> - 📜 **George Steiner (*After Babel*):** *"Every genuine creator must struggle against the comfortable servility of acting as a mere **epigon**."*

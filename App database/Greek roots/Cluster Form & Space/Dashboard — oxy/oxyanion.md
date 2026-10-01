@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek oxy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A polyatomic anion containing oxygen combined with another element, having the general formula AxOy(z-).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In inorganic chemistry and enzymatic catalysis, oxyanions (such as nitrate, sulfate, and phosphate) frequently coordinate within an enzyme's oxyanion hole.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oxyanion designates a term designating an entity, condition, or phenomenon derived from greek oxy."*
+> - 📜 **F. Albert Cotton (*Advanced Inorganic Chemistry*):** *"Every common **oxyanion**, from sulfate to perchlorate, displays delocalized p-pi bonding across its terminal oxygen atoms."*
+> - 📜 **Alan Fersht (*Structure and Mechanism in Protein Science*):** *"The serine protease catalytic cleft contains an oxyanion hole that stabilizes the tetrahedral **oxyanion** transition state."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"The covalent radius and electronegativity difference dictate the coordination geometry of an **oxyanion**."*

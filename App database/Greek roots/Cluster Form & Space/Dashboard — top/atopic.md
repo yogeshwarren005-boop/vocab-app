@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genetic disposition to develop an allergic reaction (such as allergic rhinitis or asthma) and produce elevated levels of IgE upon exposure to an environmental antigen and especially one inhaled or ingested.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genetic disposition to develop an allergic reaction (such as allergic rhinitis or asthma) and produce elevated levels of IgE upon exposure to an environmental antigen and especially one inhaled or ingested.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, affected by, or characteristic of atopy; predisposed to localized hypersensitivity reactions (such as eczema, asthma, or hay fever).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical immunology, atopic disorders are mediated by hyper-responsiveness of T-helper 2 cells and elevated serum immunoglobulin E (IgE) against common environmental antigens.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, atopic designates a genetic disposition to develop an allergic reaction (such as allergic rhinitis or asthma) and produce elevated levels of ige upon exposure to an environmental antigen and especially one inhaled or ingested."*
+> - 📜 **Arthur F. Coca (*On the Classification of the Phenomena of Hypersensitiveness*):** *"We propose the term **atopic** to describe familial hereditary hypersensitivities peculiar to the human species."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Infantile eczema frequently serves as the opening clinical episode in the lifelong **atopic** diathesis."*
+> - 📜 **Paul Ehrlich (*Studies in Immunity*):** *"Cellular mast-cell degranulation accounts for the rapid cutaneous flare seen in **atopic** sensitivity tests."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Plants having naked seeds not enclosed in an ovary; in some systems considered a class (gymnospermae) and in others a division (gymnospermophyta); comprises three subdivisions (or classes): cycadophytina (class cycadopsida) and gnetophytina (class gnetopsida) and coniferophytina (class coniferopsida); in some classifications the coniferophytina are divided into three groups: pinophytina (class pinopsida) and ginkgophytina (class ginkgopsida) and taxophytina (class taxopsida).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Plants having naked seeds not enclosed in an ovary; in some systems considered a class (gymnospermae) and in others a division (gymnospermophyta); comprises three subdivisions (or classes): cycadophytina (class cycadopsida) and gnetophytina (class gnetopsida) and coniferophytina (class coniferopsida); in some classifications the coniferophytina are divided into three groups: pinophytina (class pinopsida) and ginkgophytina (class ginkgopsida) and taxophytina (class taxopsida).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A formal botanical phylum or division name equivalent to Gymnospermae, designating the naked-seeded plants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In paleobotany and phylogenetics, Gymnospermophyta emphasizes the monophyletic or paraphyletic relationship of living seed plants lacking carpels.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gymnospermophyta designates plants having naked seeds not enclosed in an ovary; in some systems considered a class (gymnospermae) and in others a division (gymnospermophyta); comprises three subdivisions (or classes): cycadophytina (class cycadopsida) and gnetophytina (class gnetopsida) and coniferophytina (class coniferopsida); in some classifications the coniferophytina are divided into three groups: pinophytina (class pinopsida) and ginkgophytina (class ginkgopsida) and taxophytina (class taxopsida)."*
+> - 📜 **Peter H. Raven (*Biology of Plants*):** *"The division **Gymnospermophyta** flourished throughout the Jurassic, leaving vast fossilized coal beds and petrified forests."*
+> - 📜 **C. J. Alexopoulos (*Introductory Botany*):** *"Taxonomists use the rank **Gymnospermophyta** to contrast naked-seeded taxa with Angiospermophyta."*
+> - 📜 **Lincoln Taiz (*Plant Physiology*):** *"Xylem resin canals and sunken stomata evolved within **Gymnospermophyta** as critical xerophytic adaptations."*

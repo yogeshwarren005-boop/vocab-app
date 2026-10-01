@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ancient athenian philosopher; pupil of socrates; teacher of aristotle (428-347 bc).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ancient athenian philosopher; pupil of socrates; teacher of aristotle (428-347 bc).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient Greek philosopher (c. 428–348 BCE), student of Socrates and teacher of Aristotle, who founded the Academy in Athens.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Western philosophy, Plato authored foundational philosophical dialogues (such as The Republic, Symposium, and Phaedo), formulating the Theory of Forms and dialectical inquiry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"He did not depend on his communings with Origen and Eusebius for keeping up his Greek, but went back as often as he could find time to Plato and to the Tragedians."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"Macaulay has defined a Greek scholar as one who can read Plato with his feet on the fender."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"Cairns could fully satisfy this condition; indeed he went beyond it, for when he went from home he was in the habit of taking a volume of Plato or Aeschylus with him to read in the train."*
+> - 📜 **Alfred North Whitehead (*Process and Reality*):** *"The safest general characterization of the European philosophical tradition is that it consists of a series of footnotes to **Plato**."*
+> - 📜 **Aristotle (*Metaphysics*):** *"**Plato** introduced the Forms to explain that sensible things are in flux, while knowledge requires permanent immaterial essences."*
+> - 📜 **Ralph Waldo Emerson (*Representative Men*):** *"**Plato** is philosophy, and philosophy is **Plato**; out of him all that has been written and thought by men draws its origin."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek scaph.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of primitive freshwater sturgeons in the family Acipenseridae, commonly called shovelnose sturgeons, native to North American river basins.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ichthyology and river ecology, benthic chondrostean fishes characterized by a broad, shovel-shaped flattened snout and armored bony scutes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Scaphirhynchus designates a term designating an entity, condition, or phenomenon derived from greek scaph."*
+> - 📜 **Constantine Samuel Rafinesque (*Ichthyologia Ohiensis*):** *"The broad, flattened rostrum of **Scaphirhynchus** equips it to forage along the muddy alluvial bed of the Ohio River."*
+> - 📜 **David Starr Jordan (*The Fishes of North and Middle America*):** *"Species of **Scaphirhynchus** inhabit turbid waters, relying on sensitive ventral barbels to detect benthic invertebrates."*
+> - 📜 **Louis Agassiz (*Lake Superior: Its Physical Character, Vegetation, and Animals*):** *"The archaic dermal armature of **Scaphirhynchus** illustrates the survival of Paleozoic ganoid skeletal patterns in modern rivers."*

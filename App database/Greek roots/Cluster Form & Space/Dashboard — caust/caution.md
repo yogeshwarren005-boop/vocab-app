@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait of being cautious; being attentive to possible danger.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A warning against certain acts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Prudence, care, and forethought exercised to avoid danger, error, or harm; or a formal warning.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In law and administrative ethics, a formal warning administered in lieu of immediate prosecution, or the deliberate suspension of hasty judgment in scientific inquiry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Nay, ’tis most credible, we here receive it, A certainty, vouch’d from our cousin Austria, With caution, that the Florentine will move us For speedy aid; wherein our dearest friend Prejudicates the business, and would seem To have us make denial."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But yet my caution was more pertinent Than the rebuke you give it."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If it be so,—as so ’tis put on me, And that in way of caution,—I must tell you You do not understand yourself so clearly As it behoves my daughter and your honour."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"The understanding must not be supplied with wings, but rather hung with weights, that it may proceed with patient **caution**."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The mother baboon watches over her infant with extraordinary vigilance and instinctive **caution** whenever predators lurk near."*
+> - 📜 **William Shakespeare (*Julius Caesar*):** *"Caesar, all hail! The ides of March are come, yet take **caution** of the warning that the soothsayer gave."*

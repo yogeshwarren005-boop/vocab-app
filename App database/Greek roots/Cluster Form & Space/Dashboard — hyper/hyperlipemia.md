@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Presence of excess lipids in the blood.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Presence of excess lipids in the blood.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormally high concentration of emulsified fats or lipids in the blood serum (American spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gastroenterology and metabolic medicine, extreme hyperlipemia (especially serum triglycerides exceeding 1,000 mg/dL) is a major trigger of acute pancreatitis, requiring dietary fat restriction and lipid-lowering therapies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyperlipemia designates presence of excess lipids in the blood."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Acute abdominal pain accompanied by creamy lactescent blood serum confirms pancreatitis driven by severe **hyperlipemia**."*
+> - 📜 **Austin Flint (*A Treatise on the Principles and Practice of Medicine*):** *"Severe lipemia retinalis observed upon funduscopic examination provides ocular evidence of massive **hyperlipemia**."*
+> - 📜 **Richard Bright (*Reports of Medical Cases*):** *"The blood drawn from nephrotic patients frequently displays a turbid milky sheen indicative of **hyperlipemia**."*

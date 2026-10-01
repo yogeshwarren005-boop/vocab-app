@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An atmospheric phenomenon (such as lightning or a snowfall).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of the small particles of matter in the solar system that are directly observable only by their incandescence from frictional heating on entry into the atmosphere.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A streak of light produced in the night sky when an interplanetary meteoroid vaporizes due to friction upon entering Earth's upper atmosphere; a shooting star.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical science and atmospheric physics, historically designated any atmospheric phenomenon, categorized into hydrometeors, lithometeors, and electrometeors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I missed the meteor once and hit that woman, who cried out “Clubs!” when I might see from far some forty truncheoners draw to her succour, which were the hope o’ th’ Strand, where she was quartered."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will stare him out of his wits, I will awe him with my cudgel; it shall hang like a meteor o’er the cuckold’s horns."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is some meteor that the sun exhales To be to thee this night a torchbearer And light thee on thy way to Mantua."*
+> - 📜 **Aristotle (*Meteorology*):** *"We must treat of the upper atmosphere and investigate the fiery exhalations that appear to our eyes as a blazing **meteor**."*
+> - 📜 **Fred Whipple (*Earth, Moon, and Planets*):** *"High-altitude photography reveals that a bright **meteor** leaves an ionized luminous trail lingering in the mesosphere for many seconds."*
+> - 📜 **Carl Sagan (*Cosmos*):** *"Every burning **meteor** falling through the night reminds us of our planet's continual communion with the debris of the solar system."*

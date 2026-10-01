@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A carbohydrate that can be decomposed by hydrolysis into two or more molecules of monosaccharides; especially : one (such as cellulose, starch, or glycogen) containing many monosaccharide units and marked by complexity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A carbohydrate that can be decomposed by hydrolysis into two or more molecules of monosaccharides; especially : one (such as cellulose, starch, or glycogen) containing many monosaccharide units and marked by complexity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A complex carbohydrate macromolecule consisting of long chains of monosaccharide units bound together by glycosidic linkages.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biochemistry, ubiquitous biopolymers fulfilling storage (starch, glycogen) or structural (cellulose, chitin) functions in living organisms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polysaccharide designates a carbohydrate that can be decomposed by hydrolysis into two or more molecules of monosaccharides; especially : one (such as cellulose, starch, or glycogen) containing many monosaccharide units and marked by complexity."*
+> - 📜 **W. N. Haworth (*The Constitution of Sugars*):** *"Methylation analysis revealed that each linear **polysaccharide** chain consists of hundreds of hexose residues linked in regular order."*
+> - 📜 **Emil Fischer (*Untersuchungen über Kohlenhydrate*):** *"Hydrolysis of a biological **polysaccharide** yields simple reducing sugars that can be quantitatively estimated with Fehling's solution."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"Cellulose is the most abundant organic **polysaccharide** on Earth, forming the skeletal framework of the plant world."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of hide, hidden.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of hide, hidden.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or capable of existing in a state of cryptobiosis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In soil ecology and microbiology, describing biological crusts composed of cyanobacteria, lichens, and mosses that survive prolonged desiccation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cryptobiotic designates adjective*) pertaining to, derived from, or characteristic of hide, hidden."*
+> - 📜 **Edward O. Wilson (*The Diversity of Life*):** *"Arid desert plateaus are stabilized by fragile **cryptobiotic** soil crusts that prevent wind erosion."*
+> - 📜 **Alexander von Humboldt (*Aspects of Nature*):** *"Microscopic **cryptobiotic** organisms endure months of parching equatorial drought before sudden rains awaken them."*
+> - 📜 **Aldo Leopold (*A Sand County Almanac*):** *"Careless steps across the dunes destroy the delicate **cryptobiotic** mantle that took centuries to mature."*

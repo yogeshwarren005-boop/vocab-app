@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mole rats.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mole rats.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of large burrowing rodents in the family Bathyergidae, comprising the dune mole-rats of southern Africa.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mammalian zoology, the largest of the African mole-rats (Bathyergus suillus), possessing powerful forelimb claws for digging expansive underground tunnel networks in sandy coastal soils.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bathyergus designates mole rats."*
+> - 📜 **Alfred Russel Wallace (*The Geographical Distribution of Animals*):** *"The dune mole-rat of the genus **Bathyergus** throws up colossal mounds of sand along the shores of the Cape of Good Hope."*
+> - 📜 **Georges Cuvier (*The Animal Kingdom*):** *"In **Bathyergus**, the massive claws on the anterior feet compensate for weaker dental digging specializations."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"The heavy zygomatic arches of **Bathyergus** anchor the immense masseter muscles required for subterranean burrowing."*

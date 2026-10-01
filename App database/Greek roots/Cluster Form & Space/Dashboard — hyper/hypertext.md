@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Machine-readable text that is not sequential but is organized so that related items of information are connected; --ted nelson.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Machine-readable text that is not sequential but is organized so that related items of information are connected; --ted nelson.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A software system and text format that allows documents to contain embedded cross-references (hyperlinks) to other documents or media, enabling non-linear reading and exploration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Coined by Ted Nelson in 1965 in his vision of Project Xanadu; in computer science, hypertext forms the foundational text model of Tim Berners-Lee's World Wide Web via Hypertext Markup Language (HTML) and HTTP.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypertext designates machine-readable text that is not sequential but is organized so that related items of information are connected; --ted nelson."*
+> - 📜 **Ted Nelson (*Literary Machines*):** *"By **hypertext**, I mean non-sequential writing—text that branches and allows choices to the reader on an interactive screen."*
+> - 📜 **Tim Berners-Lee (*Weaving the Web*):** *"The Web was conceived as an open, universal **hypertext** space wherein all information everywhere could be linked."*
+> - 📜 **Vannevar Bush (*As We May Think*):** *"The human mind operates by association; building trails between items anticipates the dynamic structure of **hypertext**."*

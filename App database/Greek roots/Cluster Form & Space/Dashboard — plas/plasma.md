@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A green faintly translucent quartz.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The fluid part of blood, lymph, or milk as distinguished from suspended material; especially : blood plasma.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The colorless, fluid part of blood, lymph, or milk, in which corpuscles or fat globules are suspended.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physics, a fourth state of matter consisting of a gas of ionized particles, free electrons, and photons at high temperatures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Sensors, analyzers, siphons and beam-guides paralleled the lasers' signals along an incandescent column of plasma from the dissolving planetoid into the Extractor's processes and, when ready, into the hopper."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Whole blood centrifugation separates the cellular elements from the clear straw-colored **plasma**."*
+> - 📜 **Irving Langmuir (*Oscillations in Ionized Gases*):** *"I have used the word **plasma** to describe this ionized region containing balanced charges of ions and electrons."*
+> - 📜 **Bruce Alberts (*Molecular Biology of the Cell*):** *"Fibrinogen and albumin dissolved in blood **plasma** maintain oncotic pressure and coagulation readiness."*

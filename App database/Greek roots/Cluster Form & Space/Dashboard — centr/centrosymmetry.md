@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek centr.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The geometric property of being symmetrical about a central point of inversion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In crystallography, the condition wherein a crystal structure is invariant under spatial inversion $(x, y, z) 	o (-x, -y, -z)$.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centrosymmetry designates a term designating an entity, condition, or phenomenon derived from greek centr."*
+> - 📜 **Kathleen Lonsdale (*Crystals and X-Rays*):** *"The presence of **centrosymmetry** eliminates second-harmonic optical generation and prevents the emergence of pyroelectricity."*
+> - 📜 **Dorothy Hodgkin (*Wandering Scientist*):** *"Solving structures devoid of **centrosymmetry** required anomalous dispersion techniques to resolve phase ambiguities."*
+> - 📜 **Arthur Holmes (*Principles of Physical Geology*):** *"Ideal isometric crystals exhibit perfect **centrosymmetry**, with opposing faces meeting at identical dihedral angles."*

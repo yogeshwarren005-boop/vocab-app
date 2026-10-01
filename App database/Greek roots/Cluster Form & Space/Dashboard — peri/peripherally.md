@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In or at or near a periphery or according to a peripheral role or function or relationship.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In or at or near a periphery or according to a peripheral role or function or relationship.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a peripheral manner; on or near the edge, boundary, or periphery; of secondary or non-essential importance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacology and physiology, acting on peripheral tissues or nerves outside the blood-brain barrier without central nervous system involvement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, peripherally designates in or at or near a periphery or according to a peripheral role or function or relationship."*
+> - 📜 **Tinsley R. Harrison (*Principles of Internal Medicine*):** *"Certain opioid antagonists act only **peripherally**, reversing gut hypomotility without blunting central analgesia."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"Sympathetic vasoconstriction acts **peripherally** in arteriolar beds to elevate total systemic vascular resistance."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Objects perceived **peripherally** in the visual field lack chromatic detail yet remain exquisitely sensitive to motion."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A female sexual organ in various algae and fungi that corresponds to the archegonium of ferns and mosses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A descendant of a primordial germ cell that gives rise to oocytes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A diploid cell in the ovary of an animal that undergoes mitotic division to produce primary oocytes, or in lower plants and algae, the female organ producing eggs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In developmental biology, oogonia represent the proliferative stage of female germ cell development, multiplying by mitosis before entering meiosis to become primary oocytes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"When these bodies have attained their full dimensions, the large granules which are contained in the oogonium accumulate at its centre, and form an irregular, somewhat spherical mass, which is called by De Bary a _gonosphere_."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"This gonosphere having been formed, a straight tube shoots out from the antheridium which perforates the wall of the oogonium, passes through the fluid which surrounds the gonosphere, elongating itself until it touches that body."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Oogonium of Crucifer white rust (_Cystopus candidus_) × 400 (_De Bary_). 〃 207."*
+> - 📜 **Edmund Beecher Wilson (*The Cell in Development and Heredity*):** *"Each **oogonium** divides repeatedly by mitosis, amplifying the population of potential egg precursors."*
+> - 📜 **Keith L. Moore (*The Developing Human*):** *"By the fifth month of fetal life, the **oogonium** population peaks at approximately seven million cells."*
+> - 📜 **Anton de Bary (*Comparative Morphology and Biology of the Fungi*):** *"The **oogonium** of Saprolegnia swells to a spherical shape before the differentiation of oospheres within it."*

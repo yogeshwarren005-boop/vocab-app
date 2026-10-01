@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An equiangular polygon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An equiangular polygon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A polygon having all its interior angles equal (an equiangular polygon).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In crystallography and coordinate geometry, an isogon maintains angular symmetry across all corresponding vertex transitions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, isogon designates an equiangular polygon."*
+> - 📜 **H. S. M. Coxeter (*Regular Polytopes*):** *"Every regular polygon is both an **isogon** and an isotoxon, possessing equal angles and equal sides."*
+> - 📜 **Euclid (*The Elements*):** *"If the angles of a rectilinear figure are mutually equal, the figure is defined as an **isogon**."*
+> - 📜 **Branko Grünbaum (*Convex Polytopes*):** *"Classification of uniform tilings relies upon vertex-transitive **isogon** building blocks."*

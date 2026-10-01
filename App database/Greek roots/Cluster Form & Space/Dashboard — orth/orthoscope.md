@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek orth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An optical or ophthalmic instrument designed to examine the interior of the eye, neutralize corneal refraction, or measure field distortions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In optical instrumentation and ophthalmology, an apparatus comprising a liquid bath or specialized prism that eliminates corneal curvature to allow direct view of the iris and angle.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, orthoscope designates a term designating an entity, condition, or phenomenon derived from greek orth."*
+> - 📜 **Hermann von Helmholtz (*Treatise on Physiological Optics*):** *"By employing an **orthoscope** filled with water against the cornea, we neutralize its refractive power and examine deeper ocular structures."*
+> - 📜 **Louis Émile Javal (*Memoires d'Ophtalmométrie*):** *"The development of the corneal **orthoscope** marked an important step toward modern gonioscopy."*
+> - 📜 **Allvar Gullstrand (*Physiological Optics*):** *"Early investigators used the **orthoscope** to eliminate corneal astigmatism during funduscopic observation."*

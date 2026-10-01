@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek lab.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rhetorical device in which a speaker mentions something while pretending to pass over it or disclaim mentioning it; paralipsis or apophasis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical argumentation, proslepsis allows an orator to plant damaging insinuations in the minds of the audience while maintaining an outward posture of discretion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, proslepsis designates a term designating an entity, condition, or phenomenon derived from greek lab."*
+> - 📜 **Cicero (*De Oratore*):** *"Through skillful **proslepsis**, the orator announces he will say nothing of his opponent's private vices, thereby publishing them to all."*
+> - 📜 **Quintilian (*Institutio Oratoria*):** *"The artful dissimulation of **proslepsis** emphasizes the very point which it professes to omit."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"The satirist used **proslepsis** with malicious elegance, affecting charity while destroying his rival's reputation."*

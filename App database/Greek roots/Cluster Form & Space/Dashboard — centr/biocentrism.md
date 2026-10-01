@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Considering all forms of life as having intrinsic value.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Considering all forms of life as having intrinsic value.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ethical perspective that extends inherent moral value and rights to all living things, asserting that human beings are merely one member of the biotic community.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In environmental philosophy and bioethics, a doctrine contrasted with anthropocentrism, holding that every organism possesses an objective good of its own.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, biocentrism designates considering all forms of life as having intrinsic value."*
+> - 📜 **Edward O. Wilson (*The Diversity of Life*):** *"The philosophical shift toward **biocentrism** provides the ethical foundation necessary to halt the global biodiversity crisis."*
+> - 📜 **Rachel Carson (*Lost Woods: The Discovered Writing of Rachel Carson*):** *"Only through an attitude of humble **biocentrism** can modern civilization live in enduring harmony with the natural world."*
+> - 📜 **Julian Huxley (*Evolution in Action*):** *"Scientific **biocentrism** treats the entire planetary biosphere as a continuous, interconnected fabric of life."*

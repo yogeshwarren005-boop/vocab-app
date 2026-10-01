@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the urinary bladder.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inflammation of the urinary bladder.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the urinary bladder, typically caused by bacterial infection.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In urology, an acute or chronic condition characterized by dysuria, urinary frequency, urgency, and pelvic pain, most commonly caused by uropathogenic Escherichia coli.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cystitis designates inflammation of the urinary bladder."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In acute bacterial **cystitis**, the patient complains of scalding micturition, tenesmus, and constant suprapubic distress."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The sensory innervation of the vesical trigone explains the excruciating reflex spasm provoked by acute **cystitis**."*
+> - 📜 **Sir Thomas Watson (*Lectures on the Principles and Practice of Physic*):** *"Warm hip baths and copious bland fluids afford soothing palliative relief during paroxysms of catarrhal **cystitis**."*

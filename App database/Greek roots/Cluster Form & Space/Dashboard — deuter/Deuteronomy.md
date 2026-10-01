@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The fifth book of the old testament; contains a second statement of mosaic law.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The fifth book of the old testament; contains a second statement of mosaic law.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The fifth book of the Hebrew Bible and Old Testament, containing Moses' final discourses and a restatement of the Mosaic law.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biblical hermeneutics and Near Eastern history, Deuteronomy adopts the treaty structure of second-millennium BCE covenant agreements.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"I never saw him going there, and I pass it every Lord’s day.” “I don’t know anything about Deacon Deuteronomy or his meeting,” said I, “all I know is, that Queequeg here is a born member of the First Congregational Church."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Deacon Deuteronomy—why Father Mapple himself couldn’t beat it, and he’s reckoned something."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"I never saw him going there, and I pass it every Lord’s day.” “I don’t know anything about Deacon Deuteronomy or his meeting,” said I; “all I know is, that Queequeg here is a born member of the First Congregational Church."*
+> - 📜 **William Foxwell Albright (*From the Stone Age to Christianity*):** *"The legal code preserved in **Deuteronomy** reflects the solemn renewal of the covenant on the plains of Moab."*
+> - 📜 **Martin Noth (*The Deuteronomistic History*):** *"The theology of **Deuteronomy** provides the normative framework for interpreting Israel's subsequent monarchic narrative."*
+> - 📜 **Gerhard von Rad (*Old Testament Theology*):** *"In **Deuteronomy**, the proclamation of divine grace precedes and undergirds the ethical imperatives of the law."*

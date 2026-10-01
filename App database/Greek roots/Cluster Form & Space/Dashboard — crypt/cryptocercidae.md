@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of blattodea.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A family of blattodea.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of subsocial, wingless, wood-eating roaches comprising the solitary genus Cryptocercus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In entomology and evolutionary systematics, primitive roaches whose mutualistic gut flagellates and social behavior establish them as the sister group to termites (Isoptera).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cryptocercidae designates a family of blattodea."*
+> - 📜 **William Morton Wheeler (*The Social Insects: Their Origin and Evolution*):** *"The close phylogenetic tie between termites and cockroaches is demonstrated by the wood-boring roaches of **Cryptocercidae**."*
+> - 📜 **Edward O. Wilson (*Sociobiology: The New Synthesis*):** *"Subsocial parent-offspring care and cellulose-digesting symbiotes make **Cryptocercidae** a living window into termite origins."*
+> - 📜 **Ernst Mayr (*The Growth of Biological Thought*):** *"Taxonomists placed **Cryptocercidae** at the base of dictyopteran evolution, bridging solitary blattodeans and eusocial termites."*

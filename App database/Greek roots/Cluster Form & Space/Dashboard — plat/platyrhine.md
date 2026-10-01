@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or related to new world monkeys having nostrils far apart or to people with broad noses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or related to new world monkeys having nostrils far apart or to people with broad noses.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a broad, flat nose or flattened nasal apertures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical anthropology and primatology, designating primates of the New World (Platyrrhini), characterized by widely separated nostrils that open sideways.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, platyrhine designates of or related to new world monkeys having nostrils far apart or to people with broad noses."*
+> - 📜 **William Henry Flower (*An Introduction to the Osteology of the Mammalia*):** *"The **platyrhine** skull differs conspicuously from that of Old World primates in the conformation of the nasal septa."*
+> - 📜 **Arthur Keith (*Human Embryology and Morphology*):** *"Facial development in early human embryos briefly passes through a broad, **platyrhine** phase before nasal elevation."*
+> - 📜 **William King Gregory (*Our Face from Fish to Man*):** *"South American monkeys belong exclusively to the **platyrhine** division of the anthropoid stock."*

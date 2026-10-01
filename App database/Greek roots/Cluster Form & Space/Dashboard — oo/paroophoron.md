@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek oo.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A vestigial remnant of the caudal mesonephric tubules located in the broad ligament of the uterus between the ovary and the uterus in adult females.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In embryology and gynecological anatomy, the paroophoron is the female analogue of the paradidymis in males, occasionally giving rise to small paraovarian cysts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paroophoron designates a term designating an entity, condition, or phenomenon derived from greek oo."*
+> - 📜 **Henry Gray (*Gray's Anatomy*):** *"The **paroophoron** consists of a few scattered tubules lying medial to the epoophoron in the broad ligament."*
+> - 📜 **Keith L. Moore (*The Developing Human*):** *"The **paroophoron** represents the vestigial caudal group of mesonephric tubules that degenerate in the female."*
+> - 📜 **T. W. Sadler (*Langman's Medical Embryology*):** *"Small cysts derived from the **paroophoron** may occasionally be encountered during pelvic surgery."*

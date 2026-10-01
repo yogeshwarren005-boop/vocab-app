@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make less central.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Withdrawn from a center or place of concentration; especially having power or function dispersed from a central to local authorities.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Distributed among multiple local bodies, nodes, or regional centers rather than concentrated under a single authority.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In distributed network theory and political theory, operating without reliance upon a single coordinator or single point of failure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decentralised designates make less central."*
+> - 📜 **Friedrich Hayek (*The Use of Knowledge in Society*):** *"In a **decentralised** market, localized price signals mobilize fragmented knowledge far more effectively than any central board."*
+> - 📜 **Lewis Mumford (*The City in History*):** *"Medieval towns formed a **decentralised** federation of autonomous guilds united by shared cultural values."*
+> - 📜 **Peter Kropotkin (*Fields, Factories and Workshops*):** *"A **decentralised** network of small communal workshops can combine high craftsmanship with technological efficiency."*

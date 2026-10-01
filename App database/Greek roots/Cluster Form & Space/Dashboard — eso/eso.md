@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek eso.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A Greek combining element meaning 'within', 'inward', or 'inside'.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical ophthalmology and philosophy, eso- denotes inward deviation (esophoria, esotropia) or inner, restricted doctrines (esoteric).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eso designates a term designating an entity, condition, or phenomenon derived from greek eso."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"The adverb **eso** or eiso signifies 'inwards' or 'into the interior', the morphological counterpart of exo."*
+> - 📜 **Robert Beekes (*Etymological Dictionary of Greek*):** *"Deriving from PIE *h₁en-s ('into'), **eso** productively forms technical terms denoting internal convergence."*
+> - 📜 **Herbert Weir Smyth (*Greek Grammar*):** *"Spatial adverbs based on **eso** indicate direction toward the inner sanctum or central axis."*

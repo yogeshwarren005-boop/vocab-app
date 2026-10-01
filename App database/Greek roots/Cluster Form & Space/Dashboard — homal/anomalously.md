@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an anomalous manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In an anomalous manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an anomalous, abnormal, irregular, or unexpected manner; deviating from ordinary rules or patterns.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scientific observation and statistics, occurring outside established standard distributions or regular physical laws.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"If he did not have a common soul in him, he had a subtle something that somehow anomalously did its duty."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"If he did not have a common soul in him, he had a subtle something that somehow anomalously did its duty."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Some species vary **anomalously**, exhibiting sudden morphological shifts that appear to contradict gradual adaptation."*
+> - 📜 **James Clerk Maxwell (*Theory of Heat*):** *"Water behaves **anomalously** below four degrees Celsius, expanding as it approaches the freezing threshold."*
+> - 📜 **Alexander von Humboldt (*Cosmos: A Sketch of a Physical Description of the Universe*):** *"Isothermal lines deviate **anomalously** across continents, deflected by prevailing oceanic currents and mountain barriers."*

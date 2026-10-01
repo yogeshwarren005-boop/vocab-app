@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: tea dance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: tea dance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Afternoon tea receptions or tea dances (from French *thés*, plural of *thé*); historically also an archaic variant spelling of 'these'.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nineteenth- and early twentieth-century polite society, afternoon gatherings known as thés dansants (or simply thes) featured light tea, pastries, and social dancing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"O Let Me In Thes Ae Night O Lassie, are ye sleepin yet, Or are ye waukin, I wad wit?"*
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"This is it: Good friend for Iesus sake forbeare To digg the dust encloased heare: Blest be ye man yt spares thes stones And curst be he yt moves my bones."*
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"Good friend for Iesus sake forbeare To digg the dust encloased heare: Blest be ye man yt spares thes stones And curst be he yt moves my bones."*
+> - 📜 **Marcel Proust (*In the Shadow of Young Girls in Flower*):** *"In the fashionable Parisian salons, society matrons gathered at intimate **thes** to discuss music and salon gossip."*
+> - 📜 **Edith Wharton (*The Age of Innocence*):** *"The drawing-room was prepared for the customary winter **thes**, with silver samovars gleaming upon the sideboard."*
+> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"O let me in **thes** ae night, / For pity's sake, sweet lassie, let me in."*

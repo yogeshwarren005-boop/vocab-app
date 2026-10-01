@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the colon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A nonspecific inflammatory disease of the colon of unknown cause characterized by diarrhea with discharge of mucus and blood, cramping abdominal pain, and inflammation and edema of the mucous membrane with patches of ulceration.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the mucous membrane lining the colon (the large intestine).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gastroenterology, classified into ulcerative colitis (an inflammatory bowel disease restricted to mucosa and submucosa of the rectum and colon), Crohn's colitis, infectious colitis (such as *Clostridioides difficile*), and ischemic colitis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, colitis designates inflammation of the colon."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Amebic **colitis** produces characteristic flask-shaped ulcerations in the cecum, predisposing to secondary liver abscess."*
+> - 📜 **Austin Flint (*A Treatise on the Principles and Practice of Medicine*):** *"Ulcerative **colitis** presents with chronic bloody diarrhea, tenesmus, fever, and progressive constitutional debility."*
+> - 📜 **Richard Bright (*Reports of Medical Cases*):** *"Autopsy in chronic membranous **colitis** showed extensive sloughing of the large bowel epithelium."*

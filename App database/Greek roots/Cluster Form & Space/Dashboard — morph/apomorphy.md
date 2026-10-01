@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek morph.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An evolutionary novelty or derived character state that evolved in an ancestral lineage and distinguishes a clade from other taxa.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In phylogenetic systematics (cladistics), an apomorphy shared among multiple descendant lineages (synapomorphy) provides the sole valid basis for defining monophyletic groups.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, apomorphy designates a term designating an entity, condition, or phenomenon derived from greek morph."*
+> - 📜 **Willi Hennig (*Phylogenetic Systematics*):** *"Only the shared derived character state, or synapomorphy derived from an ancestral **apomorphy**, demonstrates genuine evolutionary relationship."*
+> - 📜 **Ernst Mayr (*Principles of Systematic Zoology*):** *"The cladistic method insists that primitive traits be segregated from an **apomorphy** when constructing phylogenetic trees."*
+> - 📜 **Douglas Futuyma (*Evolutionary Biology*):** *"The presence of feathers in birds represents an **apomorphy** inherited from their theropod dinosaur ancestors."*

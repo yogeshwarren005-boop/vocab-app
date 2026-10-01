@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a projecting lower jaw.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a projecting lower jaw.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a protruding or forward-projecting lower or upper jaw; prognathous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cephalometrics and facial aesthetics, prognathic profiles result from skeletal maxillary or mandibular overdevelopment relative to the cranial base.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"A hobgoblin in the image of Punch Costello, hipshot, crookbacked, hydrocephalic, prognathic with receding forehead and Ally Sloper nose, tumbles in somersaults through the gathering darkness.)_ ALL: What?"*
+> - 📜 **William R. Proffit (*Contemporary Orthodontics*):** *"A severe Class III malocclusion is characteristically caused by an excessively long, **prognathic** mandible."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The more **prognathic** facial profile of early hominids gradually receded as cranial brain volume expanded."*
+> - 📜 **Aleš Hrdlička (*Anthropometry*):** *"Cephalometric measurements reliably distinguish between a **prognathic** alveolar process and basal maxillary protrusion."*

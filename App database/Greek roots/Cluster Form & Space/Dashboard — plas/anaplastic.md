@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to anaplasia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to anaplasia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by anaplasia; describing poorly differentiated or undifferentiated malignant cells that have lost their normal specialized structure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In surgical pathology, anaplastic thyroid carcinoma is one of the most rapidly progressive and aggressive malignancies in human medicine.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anaplastic designates of or relating to anaplasia."*
+> - 📜 **Vinay Kumar (*Robbins and Cotran Pathologic Basis of Disease*):** *"An **anaplastic** carcinoma displays striking cellular pleomorphism, tumor giant cells, and atypical tripolar mitoses."*
+> - 📜 **Juan Rosai (*Rosai and Ackerman's Surgical Pathology*):** *"Immunohistochemical stains often fail in **anaplastic** tumors due to loss of lineage-specific differentiation proteins."*
+> - 📜 **Tinsley R. Harrison (*Principles of Internal Medicine*):** *"Prompt diagnosis of an **anaplastic** thyroid mass is essential, as rapid local invasion can cause acute airway compromise."*

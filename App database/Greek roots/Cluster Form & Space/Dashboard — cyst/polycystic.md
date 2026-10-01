@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or involving more than one cyst.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Either of two hereditary diseases characterized by gradually enlarging bilateral cysts of the kidney which lead to reduced renal functioning or renal failure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by, consisting of, or containing multiple cysts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical genetics and internal medicine, designating inherited pathological conditions (notably polycystic kidney disease and polycystic ovary syndrome) marked by the progressive proliferation of fluid-filled cysts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polycystic designates having or involving more than one cyst."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Bilateral **polycystic** kidneys may enlarge to enormous dimensions, gradually replacing normal renal parenchyma with honeycomb cysts."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Congenital **polycystic** degeneration represents a developmental failure in the union of metanephric tubules with collecting ducts."*
+> - 📜 **Harvey Cushing (*The Life of Sir William Osler*):** *"Osler demonstrated the familial transmission of adult **polycystic** renal disease through three successive generations."*

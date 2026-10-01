@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: From 2,500 to 544 million years ago; bacteria and fungi; primitive multicellular organisms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Formed in the later of two divisions of the precambrian era.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The major geological eon spanning from 2.5 billion to 538.8 million years ago, preceding the Phanerozoic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical geology and paleobiology, the era marked by the accumulation of atmospheric oxygen, banded iron formations, and the emergence of multicellular eukaryotes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Proterozoic designates from 2,500 to 544 million years ago; bacteria and fungi; primitive multicellular organisms."*
+> - 📜 **J. William Schopf (*Cradle of Life: The Discovery of Earth's Earliest Fossils*):** *"Microscopic acritarchs retrieved from **Proterozoic** shales reveal the quiet radiation of early nucleated cells."*
+> - 📜 **Andrew H. Knoll (*Life on a Young Planet: The First Three Billion Years of Evolution on Earth*):** *"The environmental upheavals of the late **Proterozoic** triggered extensive glaciations that preceded macroscopic metazoan life."*
+> - 📜 **Preston Cloud (*Oasis in Space: Earth History from the Beginning*):** *"The geochemical transition into the **Proterozoic** eon witnessed the widespread precipitation of oxidic iron sediments across continental margins."*

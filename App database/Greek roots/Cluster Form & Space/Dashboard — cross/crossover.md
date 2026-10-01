@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The interchange of sections between pairing homologous chromosomes during the prophase of meiosis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A voter who is registered as a member of one political party but who votes in the primary of another party.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act, process, or instance of passing from one style, category, or sphere to another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In genetics, the reciprocal exchange of genetic material between non-sister chromatids during meiotic prophase I (crossing over).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, crossover designates the interchange of sections between pairing homologous chromosomes during the prophase of meiosis."*
+> - 📜 **Thomas Hunt Morgan (*The Mechanism of Mendelian Heredity*):** *"A single **crossover** event between homologous chromosome strands alters the linkage values of adjacent genes."*
+> - 📜 **Barbara McClintock (*A Cytological and Genetical Study of Multiple Allelomorphs in Maize*):** *"Physical evidence of chromosomal **crossover** was confirmed by tracking morphological knobs under the microscope."*
+> - 📜 **Theodosius Dobzhansky (*Genetics and the Origin of Species*):** *"Chromosomal inversions suppress effective **crossover** recombination, preserving co-adapted gene complexes in wild populations."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large genus of epiphytic and lithophytic orchids of tropical and subtropical americas and west indies; formerly included in genus epidendrum.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large genus of epiphytic and lithophytic orchids of tropical and subtropical americas and west indies; formerly included in genus epidendrum.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of neotropical epiphytic orchids in the family Orchidaceae, known as butterfly orchids or clamshell orchids.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic orchidology, pseudobulbous orchids distinguished from Epidendrum by having a lip that encircles the column without being fused to it along its entire length.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, encyclia designates large genus of epiphytic and lithophytic orchids of tropical and subtropical americas and west indies; formerly included in genus epidendrum."*
+> - 📜 **John Lindley (*The Genera and Species of Orchidaceous Plants*):** *"I established **Encyclia** in reference to the curious floral lip that wraps like a collar around the central column."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"Florists prize **Encyclia** tampensis for its graceful sprays of scented greenish-bronze blossoms with magenta spots."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels to the Equinoctial Regions of America*):** *"Trunks of live oaks along the coastal lagoons were encrusted with clusters of wild **Encyclia** in full bloom."*

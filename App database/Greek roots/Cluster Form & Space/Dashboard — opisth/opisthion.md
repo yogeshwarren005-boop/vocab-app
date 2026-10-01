@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek opisth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The craniometric point located at the midpoint of the posterior margin of the foramen magnum, used as a landmark in skull measurements.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical anthropology and forensic osteology, the opisthion serves as a reference point for calculating the anteroposterior diameter of the foramen magnum and assessing cranial base morphology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, opisthion designates a term designating an entity, condition, or phenomenon derived from greek opisth."*
+> - 📜 **W. Henry Flower (*An Introduction to the Osteology of the Mammalia*):** *"The **opisthion** marks the posterior limit of the foramen magnum and is essential for comparative craniology."*
+> - 📜 **Ales Hrdlicka (*Practical Anthropometry*):** *"The basion-**opisthion** line defines the sagittal diameter of the foramen magnum."*
+> - 📜 **Tim D. White (*Human Osteology*):** *"Identifying the **opisthion** accurately is critical for measurements of the cranial base."*

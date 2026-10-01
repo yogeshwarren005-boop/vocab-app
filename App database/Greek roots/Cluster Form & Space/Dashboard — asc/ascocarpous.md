@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to ascocarps.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to ascocarps.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, having, or producing an ascocarp; characteristic of the fruiting bodies of sac fungi.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic mycology, designating fungal taxa or developmental stages that produce macroscopic sporocarps containing asci.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ascocarpous designates of or relating to ascocarps."*
+> - 📜 **Anton de Bary (*Comparative Morphology and Biology of the Fungi*):** *"The **ascocarpous** stage represents the teleomorphic or sexual generation in the life history of Peziza."*
+> - 📜 **William Benjamin Carpenter (*Principles of General and Comparative Physiology*):** *"During moist autumn weather, the fungal mycelium transitions rapidly into an **ascocarpous** reproductive phase."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"Lichens exhibit an **ascocarpous** fructification embedded within a dual algal-fungal thallus."*

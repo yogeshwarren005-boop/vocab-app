@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormally large braincase.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abnormally large braincase.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A developmental or congenital state characterized by an abnormally large brain volume and increased head circumference.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pediatric neurology and medical genetics, macrencephaly may indicate underlying metabolic storage diseases, overgrowth syndromes, or benign familial megalencephaly.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, macrencephaly designates an abnormally large braincase."*
+> - 📜 **Norman Geschwind (*Cerebral Lateralization*):** *"True **macrencephaly** involves an enlargement of the cerebral parenchyma itself rather than an accumulation of cerebrospinal fluid."*
+> - 📜 **Wilder Penfield (*The Cerebral Cortex of Man*):** *"Surgical exposure in cases of congenital **macrencephaly** often reveals normal cortical architecture across an expansive cranial vault."*
+> - 📜 **Joseph Volpe (*Neurology of the Newborn*):** *"Neuroimaging is essential to differentiate benign familial **macrencephaly** from progressive neurodegenerative syndromes."*

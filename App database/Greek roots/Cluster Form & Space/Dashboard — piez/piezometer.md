@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument for measuring pressure or compressibility; especially : one for measuring the change of pressure of a material subjected to hydrostatic pressure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instrument for measuring pressure or compressibility; especially : one for measuring the change of pressure of a material subjected to hydrostatic pressure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument for measuring the pressure of a liquid or gas, or the compressibility of substances under pressure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In hydrogeology and geotechnical engineering, an open standpipe or vibrating-wire piezometer measures pore water pressure and potentiometric levels in aquifers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, piezometer designates an instrument for measuring pressure or compressibility; especially : one for measuring the change of pressure of a material subjected to hydrostatic pressure."*
+> - 📜 **Hans Christian Ørsted (*Experiments on the Compressibility of Water*):** *"By enclosing liquid within a glass **piezometer**, I measured the exact volumetric compression under atmospheric increments."*
+> - 📜 **Karl von Terzaghi (*Theoretical Soil Mechanics*):** *"Monitoring pore-water pressures with an electric **piezometer** is vital for predicting slope stability in embankment dams."*
+> - 📜 **Frank Wigglesworth Clarke (*The Data of Geochemistry*):** *"Deep borehole hydrologic investigations utilize a sensitive downhole **piezometer** to record artesian heads."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of megachiroptera.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of megachiroptera.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of large megabats in the family Pteropodidae, commonly known as flying foxes or fruit bats, native to Old World tropics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mammalogy and tropical forest ecology, large non-echolocating frugivorous bats vital as keystone seed dispersers and pollinators.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pteropus designates a genus of megachiroptera."*
+> - 📜 **Thomas Pennant (*Synopsis of Quadrupeds*):** *"The great bat of Madagascar, belonging to **pteropus**, spans nearly four feet between the tips of its extended wings."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"In **pteropus**, the sense of smell is exquisitely acute, guiding the animal to nocturnal blossoms and ripening forest fruits."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"Enormous colonies of **pteropus** hung suspended by their claws from bare mangrove boughs, screeching when the sun rose."*

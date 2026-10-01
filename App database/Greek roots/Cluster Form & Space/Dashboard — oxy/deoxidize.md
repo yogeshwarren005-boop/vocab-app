@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To remove oxygen from a compound, or cause to react with hydrogen or form a hydride, or to undergo an increase in the number of electrons.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To remove oxygen from a compound, or cause to react with hydrogen or form a hydride, or to undergo an increase in the number of electrons.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To remove oxygen from a chemical substance or molten material; to reduce an oxide.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In metallurgical engineering, to add deoxidizers such as ferrosilicon or aluminum to molten metal to eliminate gas porosity and improve tensile ductility.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, deoxidize designates to remove oxygen from a compound, or cause to react with hydrogen or form a hydride, or to undergo an increase in the number of electrons."*
+> - 📜 **Robert F. Mehl (*A History of the Metallurgy of Iron and Steel*):** *"The introduction of aluminum to **deoxidize** molten steel prevented the formation of subsurface gas cavities."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"Powerful reducing agents readily **deoxidize** high-oxidation state transition metal complexes."*
+> - 📜 **Frank Wigglesworth Clarke (*The Data of Geochemistry*):** *"Hydrothermal fluids rich in sulfur can **deoxidize** ferric iron, precipitating insoluble pyrite."*

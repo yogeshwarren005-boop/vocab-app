@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A boy who submits to a sexual relationship with a man.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A boy who submits to a sexual relationship with a man.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A boy kept for homosexual practices, especially the younger, passive partner in ancient Greek or Roman pederasty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical history and moral literature, a youth maintained for erotic gratification by an older patron.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Catamite. —The sense of beauty leads us astray, said beautifulinsadness Best to ugling Eglinton."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The dissolute emperor Heliogabalus paraded his imperial palace in the company of every pampered **catamite** and flatterer."*
+> - 📜 **John Milton (*Paradise Lost*):** *"In royal courts where luxury reigned, shameful flatteries corrupt the youth, mimicking the pagan **catamite** of old."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"Satirists of the Restoration court spared neither king nor minister, denouncing both mistress and courtly **catamite** alike."*

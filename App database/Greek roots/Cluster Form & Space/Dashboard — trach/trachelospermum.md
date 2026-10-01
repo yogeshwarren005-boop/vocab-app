@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of asiatic woody vines with milky sap in leaves and stems.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of asiatic woody vines with milky sap in leaves and stems.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of evergreen woody climbing vines in the dogbane family (Apocynaceae), notably star jasmine (*Trachelospermum jasminoides*), prized for fragrant white flowers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Named from Greek *trachelos* (neck) and *sperma* (seed) in reference to the slender neck of its seeds, *Trachelospermum* produces glossy foliage and indole-scented corollas with twisted lobes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trachelospermum designates genus of asiatic woody vines with milky sap in leaves and stems."*
+> - 📜 **Robert Fortune (*A Residence Among the Chinese*):** *"Garden walls in Shanghai were luxuriantly draped with the fragrant white blooms of **Trachelospermum** jasminoides."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"In mild climates, **Trachelospermum** serves as an indispensable ornamental evergreen climber for trellises."*
+> - 📜 **Asa Gray (*Scientific Papers of Asa Gray*):** *"Morphological characters of the seeds distinguish the climbing liana **Trachelospermum** from allied apocynaceous genera."*

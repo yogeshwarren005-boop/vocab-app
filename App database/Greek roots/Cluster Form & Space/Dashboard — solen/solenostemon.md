@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of shrubby often succulent herbs of tropical africa and asia; includes some plants often placed in genus coleus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of shrubby often succulent herbs of tropical africa and asia; includes some plants often placed in genus coleus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A former genus of perennial flowering plants in the mint family (Lamiaceae), now largely reclassified under *Plectranthus* or *Coleus*, cultivated for colorful foliage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ornamental horticulture, plants formerly designated *Solenostemon scutellarioides* (coleus) display striking variegated leaves with crimson, chartreuse, and burgundy anthocyanin pigmentation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, solenostemon designates genus of shrubby often succulent herbs of tropical africa and asia; includes some plants often placed in genus coleus."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"The greenhouse cultivars of **Solenostemon** are prized for their kaleidoscopic foliage, easily propagated from soft terminal cuttings."*
+> - 📜 **Asa Gray (*Synoptical Flora of North America*):** *"The monadelphous stamen tube joined at the base separates **Solenostemon** from conventional members of the mint genus Mentha."*
+> - 📜 **George Bentham (*Labiatarum Genera et Species*):** *"In our systematic review of the Labiatae, we established **Solenostemon** upon the distinctive tubular union of the staminal filaments."*

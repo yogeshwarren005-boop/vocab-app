@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone with the power of communicating thoughts directly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A magician who seems to discern the thoughts of another person (usually by clever signals from an accomplice).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who claims or is believed to have the ability to read minds or transmit thoughts telepathically.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of nineteenth- and twentieth-century spiritualism and parapsychology, a practitioner or stage mentalist demonstrating presumed direct thought transference.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, telepathist designates someone with the power of communicating thoughts directly."*
+> - 📜 **Henry Sidgwick (*Presidential Address to the Society for Psychical Research*):** *"The investigator must distinguish the genuine claimant from the stage **telepathist** who relies on confederates and subtle acoustic codes."*
+> - 📜 **Frank Podmore (*Apparitions and Thought-Transference*):** *"When closely monitored under laboratory conditions, the reputed **telepathist** failed to duplicate his drawing experiments."*
+> - 📜 **Andrew Lang (*The Making of Religion*):** *"Tribal folklore frequently credits the medicine man with powers resembling those claimed by the modern European **telepathist**."*

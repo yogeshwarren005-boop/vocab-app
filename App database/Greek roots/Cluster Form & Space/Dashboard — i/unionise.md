@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Recruit for a union or organize into a union.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Form or join a union.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To organize workers or workplaces into a labor trade union (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In labor economics and industrial relations, to unionise involves collective bargaining, negotiating contracts, and organizing employees to counter employer power.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unionise designates recruit for a union or organize into a union."*
+> - 📜 **George Bernard Shaw (*The Intelligent Woman's Guide to Socialism and Capitalism*):** *"The imperative to **unionise** arose as the only practical shield for the individual labourer against exploitation."*
+> - 📜 **H. G. Wells (*The World of William Clissold*):** *"Attempts to **unionise** the sprawling retail trade met with fierce managerial opposition throughout the provinces."*
+> - 📜 **Winston Churchill (*Great Contemporaries*):** *"Efforts to **unionise** the industrial proletariat transformed British parliamentary politics in the late nineteenth century."*

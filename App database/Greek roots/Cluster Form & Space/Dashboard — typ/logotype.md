@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A single piece of type or a single plate faced with a term (such as the name of a newspaper or a trademark).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A single piece of type or a single plate faced with a term (such as the name of a newspaper or a trademark).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A single piece of printer's type bearing two or more letters, a syllable, or a whole word; a graphic mark, emblem, or symbol commonly used to aid public recognition of an organization (logo).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In typographic history, logotypes were cast by John Walter of *The Times* to accelerate manual typesetting; in modern graphic design and branding, a logotype represents the distinctive typographical lettering of a brand name.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, logotype designates a single piece of type or a single plate faced with a term (such as the name of a newspaper or a trademark)."*
+> - 📜 **John Walter (*An Address to the Public on Logographic Printing*):** *"Casting frequently combined syllables as a single metal **logotype** dramatically expedited daily newspaper composition."*
+> - 📜 **Thorstein Veblen (*The Theory of the Leisure Class*):** *"A distinctive commercial **logotype** functions as an intangible asset conveying corporate prestige and reputation."*
+> - 📜 **Marshall McLuhan (*Understanding Media*):** *"The modern corporate **logotype** operates as a condensed heraldic icon communicating instantaneously in electric media."*

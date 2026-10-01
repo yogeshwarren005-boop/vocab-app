@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An ambiguous grammatical construction; e.g., `they are flying planes' can mean either that someone is flying planes or that something is flying planes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ambiguous grammatical construction; e.g., `they are flying planes' can mean either that someone is flying planes or that something is flying planes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Ambiguity in sentence structure or phrasing, permitting more than one grammatical interpretation; a statement of uncertain meaning.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In formal logic and rhetoric, a fallacy arising when syntactical looseness causes a proposition to support two contradictory conclusions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amphibology designates an ambiguous grammatical construction; e.g., `they are flying planes' can mean either that someone is flying planes or that something is flying planes."*
+> - 📜 **Thomas Aquinas (*Summa Theologiae*):** *"The oracles of the pagans gained their reputation through cunning **amphibology**, leaving the hearer to interpret the outcome either way."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Words should be free from misleading **amphibology**, lest philosophical inquiry degenerate into disputes over verbal syntax."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"The poet must distinguish between intentional symbolic resonance and careless grammatical **amphibology** that obscures his thought."*

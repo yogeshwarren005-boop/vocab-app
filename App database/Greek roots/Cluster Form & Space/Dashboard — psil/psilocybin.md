@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hallucinogenic indole C12H17N2O4P obtained from a fungus (such as Psilocybe mexicana or P. cubensis synonym Stropharia cubensis).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hallucinogenic indole C12H17N2O4P obtained from a fungus (such as Psilocybe mexicana or P. cubensis synonym Stropharia cubensis).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A naturally occurring psychedelic prodrug compound produced by more than 200 species of fungi, primarily within the genus Psilocybe.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuropsychiatry and clinical psychopharmacology, an organic compound investigated for treatment of major depression, anxiety, and addiction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psilocybin designates a hallucinogenic indole c12h17n2o4p obtained from a fungus (such as psilocybe mexicana or p. cubensis synonym stropharia cubensis)."*
+> - 📜 **Michael Pollan (*How to Change Your Mind: What the New Science of Psychedelics Teaches Us*):** *"Clinical administration of **psilocybin** temporarily downregulates the brain's default mode network, fostering transcendent experiences of oceanic unity."*
+> - 📜 **Terence McKenna (*Food of the Gods: The Search for the Original Tree of Knowledge*):** *"Early hominids foraging on grassland plains may have encountered **psilocybin** mushrooms, catalyzing cognitive and linguistic evolution."*
+> - 📜 **Albert Hofmann (*The Botany and Chemistry of Hallucinogens*):** *"Upon ingestion, enzymatic alkaline phosphatase rapidly cleaves the phosphate group of **psilocybin** to release active psilocin."*

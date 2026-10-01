@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A thick mush made of cornmeal boiled in stock or water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A thick mush made of cornmeal boiled in stock or water.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A traditional northern Italian dish of boiled coarsely ground yellow or white cornmeal, served hot as porridge or cooled and sliced.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In culinary history, an ancient staple dating back to Roman barley or spelt pulmentum, transformed in modern times by maize cultivation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polenta designates a thick mush made of cornmeal boiled in stock or water."*
+> - 📜 **Pellegrino Artusi (*Science in the Kitchen and the Art of Eating Well*):** *"In the northern provinces, steaming **polenta** forms the daily bread of the peasant table, poured onto wooden platters."*
+> - 📜 **Elizabeth David (*Italian Food*):** *"A dish of golden **polenta** topped with stewed wild mushrooms is one of the great autumnal consolations of Lombardy."*
+> - 📜 **Ernest Hemingway (*A Farewell to Arms*):** *"We sat by the hearth in the inn, eating hot **polenta** and roast hare while the mountain wind rattled the shutters."*

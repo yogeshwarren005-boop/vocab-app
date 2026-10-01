@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek morph.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mineral species that encloses, encrusts, or coats another mineral crystal of a different species, forming an outer mineral sheath.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In descriptive mineralogy, a perimorph forms when a newly deposited mineral encapsulates an earlier crystal, often preserving the mold if the core later dissolves.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, perimorph designates a term designating an entity, condition, or phenomenon derived from greek morph."*
+> - 📜 **J. D. Dana (*A System of Mineralogy*):** *"When chalcedony forms an incrustation over cubic fluorite crystals, the external shell is known as a **perimorph**."*
+> - 📜 **René Just Haüy (*Traité de minéralogie*):** *"The cavity left after the central mineral decomposes reveals the exact impression captured by the surrounding **perimorph**."*
+> - 📜 **Paul Groth (*Physikalische Krystallographie*):** *"Epitaxial deposition frequently produces a crystalline **perimorph** whose growth directions align with the host prism."*

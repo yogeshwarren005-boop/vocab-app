@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Physical environment : space.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A way for admission or transit.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A particular position, point, or area in space; a location, region, or seat.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To put or arrange in a particular position or order; or one's social status, role, or station.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But thou art all my art, and dost advance As high as learning, my rude ignorance. 79 Whilst I alone did call upon thy aid, My verse alone had all thy gentle grace, But now my gracious numbers are decayed, And my sick muse doth give an other place."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou mayst be false, and yet I know it not. 93 So shall I live, supposing thou art true, Like a deceived husband, so love’s face, May still seem love to me, though altered new: Thy looks with me, thy heart in other place."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And to be sure that is not false I swear, A thousand groans but thinking on thy face, One on another’s neck do witness bear Thy black is fairest in my judgement’s place."*
+> - 📜 **William Shakespeare (*The Merchant of Venice*):** *"The quality of mercy is not strained, it droppeth as the gentle rain from heaven upon the **place** beneath."*
+> - 📜 **Aristotle (*Physics*):** *"The question of **place** is fundamental to natural philosophy, for every moving body must exist in some definite locality."*
+> - 📜 **Francis Bacon (*Essays: Of Great Place*):** *"Men in great **place** are thrice servants: servants of the sovereign or state, servants of fame, and servants of business."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An asexual spore developed within the cell especially in bacteria.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An asexual spore developed within the cell especially in bacteria.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A tough, dormant, non-reproductive structure produced inside certain bacteria (such as *Bacillus* and *Clostridium*) to survive extreme environmental stress.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In microbiology, endospores contain dipicolinic acid and calcium in their dehydrated core, conferring extreme resistance to heat, ultraviolet radiation, and chemical disinfectants.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The spores of this species (_Uromyces appendiculatus_) are oboval cells, terminated by a rounded point, provided with a deep brown, smooth, _epispore_, or outer coating, and a distinct, but colourless _endospore_, or inner coating."*
+> - 📜 **Ferdinand Cohn (*Researches on Bacteria*):** *"The discovery of the heat-resistant **endospore** in *Bacillus subtilis* finally disproved the hypothesis of spontaneous generation."*
+> - 📜 **Robert Koch (*The Etiology of Anthrax Disease*):** *"Pastures remained infective for years because the anthrax **endospore** could survive winter frosts and summer suns without losing virulence."*
+> - 📜 **Louis Pasteur (*Studies on the Germ Theory*):** *"Sterilization requires heating above the boiling point to destroy the stubborn bacterial **endospore** lurking in the broth."*

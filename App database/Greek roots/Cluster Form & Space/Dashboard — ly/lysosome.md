@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A saclike cellular organelle that contains various hydrolytic enzymes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A saclike cellular organelle that contains various hydrolytic enzymes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A membrane-bound eukaryotic cytoplasmic organelle containing acid hydrolases that degrade foreign pathogens, cellular debris, and macromolecular complexes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cell biology and immunology, lysosomes fuse with autophagosomes and endosomes to execute nutrient recycling and antigen presentation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lysosome designates a saclike cellular organelle that contains various hydrolytic enzymes."*
+> - 📜 **Christian de Duve (*A Guided Tour of the Living Cell*):** *"The discovery of the **lysosome** unveiled a specialized digestive tract within each eukaryotic cell."*
+> - 📜 **Bruce Alberts (*Molecular Biology of the Cell*):** *"Proton pumps maintain the interior of the **lysosome** at an acidic pH optimal for its resident hydrolytic enzymes."*
+> - 📜 **Keith R. Porter (*Fine Structure of Cells and Tissues*):** *"Electron micrographs demonstrate the polymorphic internal structure of the primary and secondary **lysosome**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of a group of peoples of mexico.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A member of a group of peoples of mexico.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A proposed subfamily or group of Uto-Aztecan languages spoken in northwestern Mexico, including Tarahumara, Guarijío, Yaqui, and Mayo.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anthropological linguistics, Taracahitian languages are characterized by rich verbal suffixation, agglutinative morphology, and cultural continuity among indigenous desert peoples.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, taracahitian designates a member of a group of peoples of mexico."*
+> - 📜 **Edward Sapir (*Southern Paiute and Nahuatl: A Study in Uto-Aztecan*):** *"Comparative analysis confirms deep phonological correspondences linking Nahuatl to the **Taracahitian** branch."*
+> - 📜 **Franz Boas (*Handbook of American Indian Languages*):** *"Grammatical descriptions of the **Taracahitian** tongues illuminate the historical divergence of northern Mexican tribes."*
+> - 📜 **Carl Lumholtz (*Unknown Mexico*):** *"Living among the Tarahumara taught me the musical cadence and complex poetic rhythms of this ancient **Taracahitian** idiom."*

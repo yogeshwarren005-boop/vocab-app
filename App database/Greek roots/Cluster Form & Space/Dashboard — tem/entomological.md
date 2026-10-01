@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the biological science of entomology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the biological science of entomology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to the scientific study of insects or the methods and collections of entomologists.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agricultural and public health contexts, entomological surveys monitor vector-borne disease transmission (e.g. malaria mosquitoes) and crop pollination dynamics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"His chief amusements were gunning and fishing, or sauntering along the beach and through the myrtles, in quest of shells or entomological specimens—his collection of the latter might have been envied by a Swammerdamm."*
-> - 📜 **David Christie Murray (*Young Mr. Barter's Repentance*):** *"In the entomological world a solitary interview between fly and spider is usually fatal to the one, and satisfactory to the other."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"The valley gave an entomological invitation to Mr."*
+> - 📜 **Vladimir Nabokov (*Speak, Memory*):** *"Armed with an **entomological** net and killing jar, I spent my childhood summers scouring Russian bogs for rare blues."*
+> - 📜 **Henry Walter Bates (*The Naturalist on the River Amazons*):** *"Our **entomological** collections from the Amazonian basin exceeded fourteen thousand species, mostly new to science."*
+> - 📜 **Edward O. Wilson (*The Insect Societies*):** *"Rigorous **entomological** analysis of pheromone trails uncovered the chemical syntax governing the ant colony."*

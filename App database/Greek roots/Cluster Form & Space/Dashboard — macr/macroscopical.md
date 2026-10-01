@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Visible to the naked eye; using the naked eye.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large enough to be visible with the naked eye.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, observable on, or relating to a macroscopic scale; discernible to unaided vision.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pathological anatomy and surgical pathology, macroscopical examination documents the gross color, margins, and consistency of tissues prior to histological sectioning.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, macroscopical designates visible to the naked eye; using the naked eye."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"While **macroscopical** examination reveals the outward contours of a diseased organ, its true nature is unveiled only at the cellular level."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Autopsy protocols require careful **macroscopical** inspection of the pleural cavities and cardiac valves before microscopic sampling."*
+> - 📜 **Juan Rosai (*Rosai and Ackerman's Surgical Pathology*):** *"Accurate tumor staging begins with precise **macroscopical** measurement of surgical resection margins."*

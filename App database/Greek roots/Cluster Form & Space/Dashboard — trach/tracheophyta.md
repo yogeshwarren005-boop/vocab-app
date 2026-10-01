@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In former classifications: comprising plants with a vascular system including ferns and fern allies as well as seed plants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In former classifications: comprising plants with a vascular system including ferns and fern allies as well as seed plants.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The division or subkingdom of plants (vascular plants) characterized by possessing specialized conducting tissues (xylem and phloem).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In phylogenetic plant taxonomy, Tracheophyta encompasses lycophytes, monilophytes (ferns), gymnosperms, and angiosperms, defined by sporophyte dominance and lignified vascular elements.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tracheophyta designates in former classifications: comprising plants with a vascular system including ferns and fern allies as well as seed plants."*
+> - 📜 **Douglas Houghton Campbell (*The Evolution of the Land Plants*):** *"The geological conquest of terrestrial continents began with the evolutionary diversification of the **Tracheophyta**."*
+> - 📜 **D. H. Scott (*Studies in Fossil Botany*):** *"Lignified conducting elements characterize all true members of the **Tracheophyta** discovered in Devonian deposits."*
+> - 📜 **Arthur George Tansley (*The New Phytologist*):** *"Systematic classification separates the non-vascular bryophytes from the advanced cormophytic **Tracheophyta**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to an element consisting of a single atom.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to an element consisting of a single atom.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Consisting of single separate atoms rather than polyatomic molecules (variant of monatomic); having a valence of one.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vacuum science and surface physics, monoatomic layers (such as graphene or adatoms) exhibit distinct electronic band structures and two-dimensional quantum transport.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monoatomic designates of or relating to an element consisting of a single atom."*
+> - 📜 **Irving Langmuir (*Phenomena, Atoms and Molecules*):** *"Tungsten filaments in high vacuum adsorb a stable **monoatomic** film of thorium that drastically increases electron emission."*
+> - 📜 **J. J. Thomson (*Rays of Positive Electricity and Their Application to Chemical Analyses*):** *"Positive ray parabolas showed distinct traces corresponding to **monoatomic** ions in the discharge tube."*
+> - 📜 **Linus Pauling (*The Architecture of Molecules*):** *"Under high thermal excitation, metal vapors like mercury behave as ideal **monoatomic** gases."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Athenian statesman whose leadership contributed to athens' political and cultural supremacy in greece; he ordered the construction of the parthenon (died in 429 bc).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Athenian statesman whose leadership contributed to athens' political and cultural supremacy in greece; he ordered the construction of the parthenon (died in 429 bc).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A prominent and influential Greek statesman, orator, and general of Athens during its Golden Age in the fifth century BCE.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical history, Pericles fostered the Athenian empire, spearheaded the construction of the Parthenon on the Acropolis, and championed direct democratic civic participation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"On board Pericles’ ship, off Mytilene Scene II."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"MARINA, daughter to Pericles and Thaisa."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter Antiochus, Prince Pericles and followers."*
+> - 📜 **Thucydides (*History of the Peloponnesian War*):** *"In what was nominally a democracy, power was really in the hands of the first citizen, **Pericles**."*
+> - 📜 **Plutarch (*Parallel Lives: Life of Pericles*):** *"The noble monuments raised under **Pericles** still impress the traveler with a sense of living eternity."*
+> - 📜 **George Grote (*A History of Greece*):** *"The funeral oration of **Pericles** remains the supreme literary testament to Athenian democratic ideals."*

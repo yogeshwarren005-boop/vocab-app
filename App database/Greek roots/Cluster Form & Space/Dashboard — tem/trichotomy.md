@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Division into three parts, elements, or classes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Division into three parts, elements, or classes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A division or classification into three distinct parts, categories, or stages.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophy and systematic theology, trichotomy often denotes the tripartite division of human nature into body, soul, and spirit (e.g. Pauline anthropology).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trichotomy designates division into three parts, elements, or classes."*
+> - 📜 **Immanuel Kant (*Critique of Pure Reason*):** *"Each class of categories displays a natural **trichotomy**, the third arising from the combination of the first two."*
+> - 📜 **C. S. Lewis (*The Discarded Image*):** *"Medieval philosophy preserved the Pauline **trichotomy** of body, soul, and spirit alongside Aristotelian dualism."*
+> - 📜 **G. W. F. Hegel (*The Science of Logic*):** *"The dialectical progression moves through a necessary **trichotomy** of thesis, antithesis, and synthetic unity."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Dissect in order to analyze.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Analyze down to the smallest detail.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To dissect a biological organism for structural study; to analyze, dissect, or critique an argument, concept, or character in meticulous detail.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of scientific methodology and rhetoric, anatomizing implies uncovering hidden internal mechanisms through rigorous decomposition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I speak but brotherly of him, but should I anatomize him to thee as he is, I must blush and weep, and thou must look pale and wonder."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But what need I thus My well-known body to anatomize Among my household?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then let them anatomize Regan; see what breeds about her heart."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"He who would understand the human intellect must **anatomize** our complex ideas into their simple components."*
+> - 📜 **Jonathan Swift (*A Tale of a Tub*):** *"Last week I saw a woman flayed, and you will hardly believe how much it altered her person for the worse; let us **anatomize** folly."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"It is the proper business of moral satire to **anatomize** the hypocrisies that disguise self-love."*

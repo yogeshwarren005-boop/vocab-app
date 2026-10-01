@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of circle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of circle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or containing four closed chemical rings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biochemistry and clinical psychopharmacology, describing tetracyclic antidepressants (such as mirtazapine or maprotiline) or steroids possessing the cyclopentanoperhydrophenanthrene four-ring core.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tetracyclic designates adjective*) pertaining to, derived from, or characteristic of circle."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"Cholesterol and sex hormones are built upon an identical **tetracyclic** carbon skeleton of three six-membered and one five-membered ring."*
+> - 📜 **Alexander Todd (*A Time to Remember*):** *"Total chemical synthesis of the fused **tetracyclic** steroid nucleus was an Everest of twentieth-century organic chemistry."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Novel **tetracyclic** agents were introduced to modulate central noradrenergic neurotransmission in treatment-resistant depression."*

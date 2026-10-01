@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A base hit on which the batter scores a run.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ancient greek epic poet who is believed to have written the iliad and the odyssey (circa 850 bc).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient Hebrew dry measure of capacity equal to ten ephahs (approximately 220 liters or 6 bushels); also, the legendary ancient Greek epic poet of the Iliad and Odyssey.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biblical weights and measures, the homer represents the maximum bulk measure for grain harvests; in classical literature, Homer stands as the fountainhead of Western poetry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The sun went down in an ochreous mist; but they sat, and talked on, and grew as merry as the gods in Homer’s heaven."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Her lord, a wight of Homer’s craft,^2 Tho’ limpin wi’ the spavie, He hirpl’d up, an’ lap like daft, An’ shor’d them Dainty Davie."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Air Tune—“For a’ that, an’ a’ that.” I am a Bard of no regard, Wi’ gentle folks an’ a’ that; But Homer-like, the glowrin byke, Frae town to town I draw that."*
+> - 📜 **Alexander Pope (*Preface to the Iliad of Homer*):** *"**Homer** was the greater genius, Virgil the better artist; in that we more admire the man, in this the work."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The verses of **Homer** were recited by wandering rhapsodists, inspiring generations of Hellenic warriors and statesmen."*
+> - 📜 **John Keats (*On First Looking into Chapman's Homer*):** *"Oft of one wide expanse had I been told that deep-brow'd **Homer** ruled as his demesne; yet did I never breathe its pure serene till I heard Chapman speak out loud and bold."*

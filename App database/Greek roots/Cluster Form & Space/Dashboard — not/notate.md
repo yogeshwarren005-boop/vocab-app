@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Put into notation, as of music or choreography.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Put into notation, as of music or choreography.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To record, set down, or represent information using a formal system of graphic symbols, musical marks, or mathematical characters.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In musicology and choreography, to notate a composition or dance sequence creates an enduring textual score enabling precise interpretation and performance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, notate designates put into notation, as of music or choreography."*
+> - 📜 **Igor Stravinsky (*Poetics of Music in the Form of Six Lessons*):** *"The composer must **notate** his musical thoughts with utmost precision to prevent performers from distorting his expressive intent."*
+> - 📜 **Aaron Copland (*What to Listen for in Music*):** *"To **notate** rhythmic polyphony accurately, modern composers developed complex meters and unconventional time signatures."*
+> - 📜 **Willard Van Orman Quine (*Mathematical Logic*):** *"A transparent symbolic system enables logicians to **notate** quantified predicates without lexical ambiguity."*

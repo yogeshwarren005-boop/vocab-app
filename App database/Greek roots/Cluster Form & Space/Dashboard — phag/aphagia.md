@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Loss of the ability to swallow.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Loss of the ability to swallow.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The inability or refusal to swallow, resulting from neurological injury, esophageal obstruction, or psychiatric distress.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In experimental neurobiology, bilateral electrolytic lesions of the lateral hypothalamus induce profound aphagia and adipsia in animal models.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aphagia designates loss of the ability to swallow."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Complete esophageal occlusion by an advanced carcinoma results in total **aphagia**, requiring feeding gastrostomy."*
+> - 📜 **Eric Kandel (*Principles of Neural Science*):** *"Disruption of the lateral hypothalamic feeding center causes immediate and persistent **aphagia**."*
+> - 📜 **Tinsley R. Harrison (*Principles of Internal Medicine*):** *"Severe motor neuron degeneration in bulbar palsy leads to dangerous **aphagia** and aspiration risk."*

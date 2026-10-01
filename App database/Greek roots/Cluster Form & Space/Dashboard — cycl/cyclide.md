@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek cycl.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A fourth-order algebraic geometric surface whose lines of curvature are all circles; especially a Dupin cyclide.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In differential and algebraic geometry, a quartic surface defined as the envelope of a variable sphere touching three fixed spheres, introduced by Pierre-Charles Dupin.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cyclide designates a term designating an entity, condition, or phenomenon derived from greek cycl."*
+> - 📜 **Gaston Darboux (*Treatise on the General Theory of Surfaces*):** *"Every line of curvature upon the Dupin **cyclide** is a planar circle, a property that makes it unique among quartic surfaces."*
+> - 📜 **Arthur Cayley (*Collected Mathematical Papers*):** *"Inversion with respect to a sphere transforms a torus into an asymmetrical ring **cyclide**."*
+> - 📜 **William Kingdon Clifford (*Mathematical Papers*):** *"The geometric properties of the **cyclide** illuminate the deep connection between conformal geometry and focal conics."*

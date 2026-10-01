@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A self-taught person.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A self-taught person.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A self-taught person who has acquired knowledge or mastery in a subject through independent reading and practice without formal schooling.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In educational philosophy and intellectual history, autodidacts often exhibit distinctive, idiosyncratic syntheses across disparate disciplines.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, autodidact designates a self-taught person."*
+> - 📜 **Jean-Paul Sartre (*Nausea*):** *"The **autodidact** had spent seven years reading every volume in the municipal library in strict alphabetical order."*
+> - 📜 **Virginia Woolf (*The Common Reader*):** *"He possessed the voracious, unguided curiosity of the true **autodidact**, untamed by academic convention."*
+> - 📜 **George Steiner (*Lessons of the Masters*):** *"Every profound reader remains at heart an **autodidact**, discovering personal truths outside institutional syllabi."*

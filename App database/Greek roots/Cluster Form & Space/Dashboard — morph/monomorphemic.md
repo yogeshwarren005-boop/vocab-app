@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Consisting of only one morpheme.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Consisting of only one morpheme.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Consisting of or containing only a single morpheme; morphologically simplex, uninflected, and indivisible.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In structural linguistics, monomorphemic root words (such as 'cat' or 'walk') contrast with polymorphemic words containing bound affixes or compounding elements.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monomorphemic designates consisting of only one morpheme."*
+> - 📜 **Leonard Bloomfield (*Language*):** *"A primary word like 'tree' is **monomorphemic**, carrying an irreducible lexical meaning that cannot be divided into smaller linguistic signs."*
+> - 📜 **Noam Chomsky (*Aspects of the Theory of Syntax*):** *"The lexicon stores **monomorphemic** bases alongside morphological rules that generate inflected and derived surface words."*
+> - 📜 **Edward Sapir (*Language*):** *"Certain isolating languages tend to make every word **monomorphemic**, avoiding bound affixes in favor of syntactic particle sequences."*

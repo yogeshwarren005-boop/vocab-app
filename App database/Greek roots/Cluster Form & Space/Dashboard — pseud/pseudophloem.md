@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: False phloem.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: False phloem.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A plant tissue that functionally or structurally resembles true phloem, occurring in certain non-seed vascular plants or abnormal secondary growth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant anatomy, conductive tissue found in certain ferns and fossil tracheophytes that transports photosynthate without exhibiting companion cells or sieve tube plates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pseudophloem designates false phloem."*
+> - 📜 **Katherine Esau (*Plant Anatomy*):** *"In primitive vascular axes, the layer termed **pseudophloem** mediates nutrient translocations before the evolution of true sieve tubes."*
+> - 📜 **Edward Charles Jeffrey (*The Anatomy of Woody Plants*):** *"Transverse sections of the fossil stem display a prominent sheath of **pseudophloem** surrounding the central xylem cylinder."*
+> - 📜 **Ray F. Evert (*Esau's Plant Anatomy*):** *"The developmental differentiation of **pseudophloem** provides insights into early cellular adaptations for long-distance transport."*

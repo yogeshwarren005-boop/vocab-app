@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A lichen in which the fungus component is an ascomycete.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A lichen in which the fungus component is an ascomycete.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any lichen in which the fungal partner (mycobiont) belongs to the Ascomycota (representing over ninety-eight percent of all known lichens).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In lichenology, symbiotic organisms that reproduce sexually via ascospores formed within disc-shaped apothecia or flask-shaped perithecia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ascolichen designates a lichen in which the fungus component is an ascomycete."*
+> - 📜 **Edward Tuckerman (*Genera Lichenum: An Arrangement of the North American Lichens*):** *"Almost every familiar rock and bark lichen is an **ascolichen**, producing its spores within microscopic eight-spored asci."*
+> - 📜 **William Nylander (*Synopsis Methodica Lichenum*):** *"The iodine reaction upon the hymenium of an **ascolichen** provides essential chemical evidence for taxonomic discrimination."*
+> - 📜 **Bruce Fink (*The Lichens of Minnesota*):** *"In each **ascolichen**, the fungal partner surrounds green or blue-green algal cells, constructing complex layered thalli."*

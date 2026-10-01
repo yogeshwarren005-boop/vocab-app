@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pearl oysters.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pearl oysters.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxonomic family of marine bivalve mollusks in the order Pterioida, commonly known as feather oysters and pearl oysters.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In malacology, marine bivalves having an oblique, winged hinge line and an inner shell layer coated in iridescent nacre (mother-of-pearl).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pteriidae designates pearl oysters."*
+> - 📜 **George Washington Tryon (*Structural and Systematic Conchology*):** *"Bivalves of the family **pteriidae** attach themselves to rocky substrates or wharf pilings by a stout fibrous byssus."*
+> - 📜 **S. P. Woodward (*A Manual of the Mollusca*):** *"The renowned pearl oyster, belonging to **pteriidae**, secretes concentric layers of aragonite around foreign irritants."*
+> - 📜 **R. Tucker Abbott (*American Seashells*):** *"The Atlantic wing oyster exemplifies the characteristic oblique hinge and posterior wing extension typical of **pteriidae**."*

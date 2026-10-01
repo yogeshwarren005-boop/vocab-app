@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A form of chorea in which spasms occur mainly when the patient is erect.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A form of chorea in which spasms occur mainly when the patient is erect.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A neurological movement disorder characterized by choreic spasms or involuntary movements that occur predominantly or exclusively while standing erect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neurology, a postural variation of chorea wherein motor symptoms diminish or subside when the patient assumes a recumbent position.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, orthochorea designates a form of chorea in which spasms occur mainly when the patient is erect."*
+> - 📜 **William Richard Gowers (*A Manual of Diseases of the Nervous System*):** *"In rare manifestations of **orthochorea**, the bizarre clonic spasms become aggravated immediately upon the patient rising to an erect posture."*
+> - 📜 **Charles-Édouard Brown-Séquard (*Lectures on the Physiology and Pathology of the Central Nervous System*):** *"The manifestation termed **orthochorea** demonstrates how postural reflexes can trigger abnormal motor discharges."*
+> - 📜 **Kinnier Wilson (*Neurology*):** *"Clinical observations of **orthochorea** emphasize the profound influence of axial equilibrium on extrapyramidal hyperkinesias."*

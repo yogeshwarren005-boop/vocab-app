@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a cryptographic manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a cryptographic manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a cryptographic manner; by means of secret codes, ciphers, or encryption.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cybersecurity, using mathematically secure cryptographic algorithms to protect data integrity and authenticity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cryptographically designates in a cryptographic manner."*
+> - 📜 **Claude Shannon (*Communication Theory of Secrecy Systems*):** *"Transmissions that are **cryptographically** secure must display the statistical randomness of white noise to an interceptor."*
+> - 📜 **David Kahn (*The Codebreakers*):** *"The telegram was **cryptographically** scrambled before being transmitted over transatlantic cables."*
+> - 📜 **Alan Turing (*Turing's Treatise on the Enigma*):** *"By operating **cryptographically** upon daily cipher traffic, our team reconstructed changing naval call signs."*

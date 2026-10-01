@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Omission of the conjunctions that ordinarily join coordinate words or clauses (as in "I came, I saw, I conquered").
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Omission of the conjunctions that ordinarily join coordinate words or clauses (as in "I came, I saw, I conquered").
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rhetorical figure of speech in which coordinating conjunctions are deliberately omitted between successive words, phrases, or clauses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical literature and prose composition, a stylistic device (as in 'I came, I saw, I conquered') employed to achieve brevity, rapid momentum, and emotional intensity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, asyndeton designates omission of the conjunctions that ordinarily join coordinate words or clauses (as in "i came, i saw, i conquered")."*
+> - 📜 **Aristotle (*Rhetoric*):** *"The figure of **asyndeton** speeds up the narration and imbues the spoken word with sudden emotional force."*
+> - 📜 **Longinus (*On the Sublime*):** *"By stripping away connectives, **asyndeton** presents actions tumbling forward with the rapid urgency of torrents."*
+> - 📜 **Winston Churchill (*The Second World War: Their Finest Hour*):** *"The great orator deployed **asyndeton** to strike like hammer blows upon the ears of parliament."*

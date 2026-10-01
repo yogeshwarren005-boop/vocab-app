@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mole rats; sand rats.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mole rats; sand rats.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of subterranean, fossorial rodents native to sub-Saharan Africa, commonly known as African mole-rats or blesmols.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology and behavioral ecology, a hystricomorph rodent family famous for extreme subterranean adaptations and the eusociality of the naked mole-rat (Heterocephalus glaber).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bathyergidae designates mole rats; sand rats."*
+> - 📜 **Edward O. Wilson (*The Diversity of Life*):** *"Among the mammalian family **Bathyergidae**, eusocial colonies exhibit reproductive division of labor rivaling that of social insects."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"The skull of **Bathyergidae** features enormous incisors situated outside the buccal cavity, allowing excavation without swallowing earth."*
+> - 📜 **Alfred Russel Wallace (*The Geographical Distribution of Animals*):** *"The Ethiopian distribution of **Bathyergidae** reflects ancient isolation and specialized adaptation to arid sand-dune habitats."*

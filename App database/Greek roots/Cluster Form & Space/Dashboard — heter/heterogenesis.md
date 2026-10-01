@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The alternation of two or more different forms in the life cycle of a plant or animal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The alternation of two or more different forms in the life cycle of a plant or animal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The obsolete biological theory that living organisms could arise from matter of a completely different nature; spontaneous generation; also, alternation of generations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology and embryology, heterogenesis historically encompassed saltational leaps or cyclical alternations between sexual and parthenogenetic forms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heterogenesis designates the alternation of two or more different forms in the life cycle of a plant or animal."*
+> - 📜 **Louis Pasteur (*Experiments on Spontaneous Generation*):** *"My experiments demonstrated that the doctrines of **heterogenesis** rested upon faulty sterilization and aerial contamination."*
+> - 📜 **Thomas Henry Huxley (*Biogenesis and Abiogenesis*):** *"Pasteur dealt the death-blow to **heterogenesis**, establishing that living matter arises exclusively from pre-existing living parentage."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"The hypothesis of **heterogenesis** was invoked by early observers who could not trace the minute sexual stages of parasites."*

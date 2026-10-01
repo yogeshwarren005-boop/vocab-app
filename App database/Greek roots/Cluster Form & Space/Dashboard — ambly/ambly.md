@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ambly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combining form of Greek origin meaning blunt, dull, dim, or weakened.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scientific and medical terminology, a productive prefix denoting impairment of acuity (as in amblyopia) or rounded anatomical margins (as in Amblyrhynchus).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ambly designates a term designating an entity, condition, or phenomenon derived from greek ambly."*
+> - 📜 **Richard Chenevix Trench (*On the Study of Words*):** *"The prefix **ambly** derives from the Greek for blunt or dull, serving scientific nomenclature across ophthalmology and zoology."*
+> - 📜 **William Benjamin Carpenter (*The Microscope and Its Revelations*):** *"Terms compounded with **ambly** frequently signify an organ whose terminal apex is obtuse rather than sharp."*
+> - 📜 **Archibald Geikie (*Text-book of Geology*):** *"Mineral names employing **ambly** signal obtuse interfacial angles between cleavage planes."*

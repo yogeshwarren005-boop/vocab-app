@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not divided into zones.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not divided into zones.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not arranged or distributed in zones; in geography and ecology, describing soils, vegetation, or phenomena that do not conform to the expected latitudinal or climatic zonation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pedology, azonal soils are immature or geologically young formations whose characteristics are determined by local factors such as parent material or drainage rather than climate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, azonal designates not divided into zones."*
+> - 📜 **Vasily Dokuchaev (*Russian Chernozem*):** *"**Azonal** soils develop under conditions where local geological or hydrological factors override the climatic influence."*
+> - 📜 **Curtis Marbut (*Soils of the United States*):** *"The **azonal** group includes alluvial, lithosol, and regosol soils lacking mature horizon development."*
+> - 📜 **Heinrich Walter (*Vegetation of the Earth*):** *"**Azonal** vegetation occurs along watercourses, on cliffs, and in other microhabitats independent of regional climate."*

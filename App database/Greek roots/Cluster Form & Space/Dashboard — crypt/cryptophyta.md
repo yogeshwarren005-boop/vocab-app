@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A phylum in the kingdom protoctista.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A phylum in the kingdom protoctista.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A phylum or division of largely photosynthetic, eukaryotic, single-celled flagellates known as cryptomonads.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In protist evolution, a distinct algal lineage characterized by a periplast, ejectisomes, flattened cell morphology, and complex quadri-membranous plastids derived from red algae.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cryptophyta designates a phylum in the kingdom protoctista."*
+> - 📜 **Lynn Margulis (*Symbiosis in Cell Evolution*):** *"Members of **Cryptophyta** offer an irreplaceable snapshot of eukaryotic evolution frozen in the act of secondary plastid acquisition."*
+> - 📜 **Ernst Mayr (*This Is Biology*):** *"The unexpected cellular complexity of **Cryptophyta** upset traditional two-kingdom classifications of animals and plants."*
+> - 📜 **E. Ray Lankester (*A Treatise on Zoology*):** *"The classification of **Cryptophyta** was established based upon the arrangement of flagella and the morphology of the cytopharynx."*

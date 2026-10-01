@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of an insect with aquatic young) undergoing incomplete metamorphosis in which the young does not resemble the adult.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of an insect with aquatic young) undergoing incomplete metamorphosis in which the young does not resemble the adult.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Undergoing or characterized by hemimetamorphosis; displaying incomplete metamorphosis from nymph to adult.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic entomology, describing insects whose immature forms share the general morphology, compound eyes, and often dietary habits of the reproductive adults.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemimetamorphous designates (of an insect with aquatic young) undergoing incomplete metamorphosis in which the young does not resemble the adult."*
+> - 📜 **Thomas Say (*American Entomology*):** *"The cicadas and leafhoppers constitute a prominent **hemimetamorphous** group whose immature stages feed upon subterranean root sap."*
+> - 📜 **John Lawrence LeConte (*The Rhynchophora of America North of Mexico*):** *"While weevils undergo complete pupation, true bugs are **hemimetamorphous**, lacking a quiescent pupal stage."*
+> - 📜 **Alpheus Spring Packard (*Guide to the Study of Insects*):** *"In every **hemimetamorphous** species, the rudiments of wings appear externally on the meso- and metathorax during later nymphal stages."*

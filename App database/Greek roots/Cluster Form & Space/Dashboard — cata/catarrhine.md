@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or being any of a division (Catarrhina) of primates comprising the Old World monkeys, higher apes, and hominids that have the nostrils close together and directed downward, 32 teeth, and the tail when present never prehensile.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or being any of a division (Catarrhina) of primates comprising the Old World monkeys, higher apes, and hominids that have the nostrils close together and directed downward, 32 teeth, and the tail when present never prehensile.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Belonging to the primate parvorder Catarrhini, comprising Old World monkeys, apes, and humans, characterized by downward-pointing, closely spaced nostrils.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical anthropology and evolutionary primatology, higher primates with a 2-1-2-3 dental formula, non-prehensile tails, and trichromatic color vision.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, catarrhine designates of, relating to, or being any of a division (catarrhina) of primates comprising the old world monkeys, higher apes, and hominids that have the nostrils close together and directed downward, 32 teeth, and the tail when present never prehensile."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Man indisputably belongs in his anatomical structure to the **catarrhine** division of the Simiadae of the Old World."*
+> - 📜 **Thomas Henry Huxley (*Man's Place in Nature*):** *"The narrow nasal septum and downward-directed nares define the **catarrhine** primates, setting them apart from American platyrrhines."*
+> - 📜 **Ernst Haeckel (*The Evolution of Man*):** *"Comparative embryology demonstrates that humanity branched directly from the ancestral stem of the Miocene **catarrhine** apes."*

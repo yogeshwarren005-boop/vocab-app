@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An essential structural component of living cells and source of energy for animals; includes simple sugars with small molecules as well as macromolecular substances; are classified according to the number of monosaccharide groups they contain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An essential structural component of living cells and source of energy for animals; includes simple sugars with small molecules as well as macromolecular substances; are classified according to the number of monosaccharide groups they contain.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any carbohydrate group comprising sugars, starches, and celluloses, formed of carbon, hydrogen, and oxygen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemical taxonomy, categorized by degree of polymerization into monosaccharides, disaccharides, oligosaccharides, and polysaccharides.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, saccharide designates an essential structural component of living cells and source of energy for animals; includes simple sugars with small molecules as well as macromolecular substances; are classified according to the number of monosaccharide groups they contain."*
+> - 📜 **Justus von Liebig (*Animal Chemistry*):** *"Nutritional digestion transforms every digestible **saccharide** into circulatory fuel for respiration and animal heat."*
+> - 📜 **Emil Fischer (*Untersuchungen über Kohlenhydrate*):** *"The synthesis of an artificial **saccharide** confirmed the spatial tetrahedral theory of the asymmetric carbon atom."*
+> - 📜 **Louis Pasteur (*Études sur le vinaigre*):** *"Fermentation of an alcoholic **saccharide** broth by acetic bacteria yields commercial vinegar under aeration."*

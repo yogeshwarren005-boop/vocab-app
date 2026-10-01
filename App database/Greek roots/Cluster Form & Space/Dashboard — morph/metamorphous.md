@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to metamorphosis (especially of rocks).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Produced by metamorphosis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Undergoing, characterized by, or resulting from metamorphosis; transformative in bodily or structural form.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical petrological literature, an alternative adjectival variant for metamorphic, describing crystalline schists and altered mineral formations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metamorphous designates of or relating to metamorphosis (especially of rocks)."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"These ancient crystalline strata were formerly termed primitive, but their **metamorphous** origin from fossiliferous shale is now demonstrated."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"The alpine aiguilles consist of twisted **metamorphous** schists, whose jagged precipices record ancient violent crustal upheavals."*
+> - 📜 **Thomas Henry Huxley (*Discourses: Biological and Geological*):** *"Granite intrusions acted upon sedimentary beds, baking them into hard **metamorphous** rocks of crystalline luster."*

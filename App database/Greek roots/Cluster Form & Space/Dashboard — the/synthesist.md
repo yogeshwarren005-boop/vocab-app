@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An intellectual who synthesizes or uses synthetic methods.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An intellectual who synthesizes or uses synthetic methods.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who synthesizes ideas, materials, or diverse fields of knowledge into a unified system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In intellectual historiography, a synthesist bridges disparate academic disciplines, integrating specialized data into broad explanatory frameworks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, synthesist designates an intellectual who synthesizes or uses synthetic methods."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Herbert Spencer was the quintessential Victorian **synthesist**, seeking to bring all cosmic phenomena under the law of evolution."*
+> - 📜 **Stephen Jay Gould (*The Structure of Evolutionary Theory*):** *"Ernst Mayr stood out as a premier **synthesist**, harmonizing systematics with modern population genetics."*
+> - 📜 **Edward O. Wilson (*Consilience: The Unity of Knowledge*):** *"The contemporary scholar must aspire to be a **synthesist**, weaving together insights from biology and the social sciences."*

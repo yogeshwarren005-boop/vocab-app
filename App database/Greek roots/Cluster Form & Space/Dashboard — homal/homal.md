@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of even, flat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of even, flat.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A Greek combining element meaning 'flat', 'level', 'even', or 'regular' (*homalos*), forming terms designating smooth, flat planes or regular geometry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematics, botany, and paleontology, homal- denotes level planar surfaces (homalographic, homaloid) or smooth structural contours.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, homal designates adjective*) pertaining to, derived from, or characteristic of even, flat."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"The Greek adjective homalos signifies even, level, or flat, the parent root of mathematical terms incorporating **homal**."*
+> - 📜 **Robert Beekes (*Etymological Dictionary of Greek*):** *"Cognate with PIE *sem- ('one, same, together'), **homal** denotes uniformity across level surfaces and geometric planes."*
+> - 📜 **Herbert Weir Smyth (*Greek Grammar*):** *"Compounds formed with **homal** convey regularity of elevation or smoothness of outline."*

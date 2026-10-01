@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A condition in which the number of white blood cells circulating in the blood is abnormally low.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A condition in which the number of white blood cells circulating in the blood is abnormally low.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal reduction in the total number of white blood cells (leukocytes) in the circulating blood.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In hematology, leukopenia (typically defined as total WBC count < 4,000 per microliter) increases susceptibility to opportunistic bacterial and fungal infections.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, leukopenia designates a condition in which the number of white blood cells circulating in the blood is abnormally low."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Profound **leukopenia** with absolute neutropenia leaves the typhoid patient vulnerable to secondary septicemia."*
+> - 📜 **Maxwell M. Wintrobe (*Clinical Hematology*):** *"Drug-induced bone marrow suppression is the most common cause of sudden severe **leukopenia** in clinical practice."*
+> - 📜 **Tinsley R. Harrison (*Principles of Internal Medicine*):** *"Evaluating **leukopenia** requires a microscopic differential count to determine whether granulocytes or lymphocytes are primarily depleted."*

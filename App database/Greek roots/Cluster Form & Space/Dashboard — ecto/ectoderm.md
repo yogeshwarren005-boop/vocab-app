@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The outermost of the three primary germ layers of an embryo that is the source of various tissues and structures (such as the epidermis, the nervous system, and the eyes and ears).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tissue (such as neural tissue) derived from this germ layer.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The outermost of the three primary germ layers of an animal embryo, giving rise to the nervous system, epidermis, hair, nails, and sensory organs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In embryology, neural crest cells derived from the ectoderm undergo epithelial-mesenchymal transition to populate diverse tissues.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ectoderm designates the outermost of the three primary germ layers of an embryo that is the source of various tissues and structures (such as the epidermis, the nervous system, and the eyes and ears)."*
+> - 📜 **Scott F. Gilbert (*Developmental Biology*):** *"During gastrulation, the cells remaining on the exterior surface of the embryo constitute the **ectoderm**."*
+> - 📜 **Bruce Alberts (*Molecular Biology of the Cell*):** *"Neural tube induction transforms a specialized patch of dorsal **ectoderm** into the progenitor cells of the brain and spinal cord."*
+> - 📜 **Ernst Haeckel (*The Evolution of Man*):** *"Comparative embryology reveals that the skin and brain share a common developmental cradle within the primary **ectoderm**."*

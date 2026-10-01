@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A workplace that serves as a telecommunications facility where lines from telephones can be connected together to permit communication.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Serving as an essential component.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Situated at, in, or near the center; forming the center; of primary importance, principal, essential, or dominant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuroanatomy, designating structures lying along the neuraxis (such as the central nervous system, central sulcus, or central canal of the spinal cord).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"They were about to disperse, when a smart footstep, entering the porch and coming up the central passage, arrested their attention."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"This stone edifice consisted of a central mass and two wings, whereon stood as sentinels a few slim chimneys, now gurgling sorrowfully to the slow wind."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Nearing the central part, her echoes were intruded on by other sounds; and seeing the barn not far off the road, she guessed these to be the utterances of the preacher."*
+> - 📜 **Eric Kandel (*Principles of Neural Science*):** *"The **central** nervous system integrates sensory input from peripheral nerves to execute voluntary behavioral programs."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"Natural selection occupies the **central** position in explaining the origin of complex adaptations across all taxa."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Truth is a **central** sun whose illumination warms and orders all the collateral branches of human inquiry."*

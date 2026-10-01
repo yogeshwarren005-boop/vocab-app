@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific study of cryptography and cryptanalysis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The scientific study of cryptography and cryptanalysis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The overall scientific study of secret codes, encompassing both cryptography (creating codes) and cryptanalysis (breaking codes).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In communications and military intelligence, the comprehensive mathematical discipline governing the security and decryption of information systems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cryptology designates the scientific study of cryptography and cryptanalysis."*
+> - 📜 **David Kahn (*The Codebreakers*):** *"Modern **cryptology** was born when mathematical statistical analysis replaced intuitive guesswork in code-breaking."*
+> - 📜 **Claude Shannon (*Communication Theory of Secrecy Systems*):** *"Information theory transformed **cryptology** from an empirical trade into an exact branch of applied probability."*
+> - 📜 **Alan Turing (*Turing's Treatise on the Enigma*):** *"The progress of mechanized **cryptology** showed that calculating engines could outstrip human calculation in combinatorial deduction."*

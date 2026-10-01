@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: By catalytic action; in a catalytic manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: By catalytic action; in a catalytic manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: By means of catalysis; through the agency or action of a catalyst.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In enzymology and physical chemistry, referring to reactions mediated through an intermediate activated complex without consuming the reagent.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, catalytically designates by catalytic action; in a catalytic manner."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"Enzymes function **catalytically**, processing thousands of substrate molecules per second without undergoing irreversible alteration."*
+> - 📜 **Svante Arrhenius (*Theories of Chemistry*):** *"Hydrogen ions accelerate the inversion of cane sugar **catalytically**, their concentration directly determining the reaction velocity."*
+> - 📜 **Eric Kandel (*Principles of Neural Science*):** *"Activated protein kinase A acts **catalytically** within the nucleus to phosphorylate CREB transcription factors."*

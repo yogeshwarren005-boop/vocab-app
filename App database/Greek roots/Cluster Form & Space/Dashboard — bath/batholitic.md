@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a batholith.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a batholith.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to or of the nature of a batholite; alternative spelling of batholithic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In descriptive geology, characterizing deep-seated igneous plutonic formations and their metamorphic contact zones.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, batholitic designates of or relating to a batholith."*
+> - 📜 **Archibald Geikie (*Text-book of Geology*):** *"The **batholitic** mass invaded the folded schists, recrystallizing them into high-grade hornfels."*
+> - 📜 **Charles Lyell (*Elements of Geology*):** *"Uplift and denudation laid bare the **batholitic** granite that originally cooled beneath miles of overburden."*
+> - 📜 **James Dwight Dana (*Manual of Geology*):** *"Dike swarms commonly originate from the apex of a rising **batholitic** intrusion."*

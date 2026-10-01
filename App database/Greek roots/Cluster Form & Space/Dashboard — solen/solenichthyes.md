@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bellows fishes; shrimpfishes; cornetfishes; pipefishes; small order of chiefly tropical marine fishes of varied and bizarre form all having a small mouth at the end of a drawn-out tubular snout.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bellows fishes; shrimpfishes; cornetfishes; pipefishes; small order of chiefly tropical marine fishes of varied and bizarre form all having a small mouth at the end of a drawn-out tubular snout.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An order or suborder of specialized marine teleost fishes, including pipefishes, seahorses, and snipefishes, characterized by a tubular, pipe-like snout.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic ichthyology, the Solenichthyes (now frequently classified within Syngnathiformes) possess fused jawbones forming a suction tube for engulfing tiny crustaceans.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, solenichthyes designates bellows fishes; shrimpfishes; cornetfishes; pipefishes; small order of chiefly tropical marine fishes of varied and bizarre form all having a small mouth at the end of a drawn-out tubular snout."*
+> - 📜 **Albert Günther (*Catalogue of the Fishes in the British Museum*):** *"The group **Solenichthyes** is distinguished by the prolonged, tubiform snout bearing tiny toothless jaws at its extremity."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"In the order **Solenichthyes**, armored bony rings encase the elongated body of the seahorses and pipefishes."*
+> - 📜 **E. Ray Lankester (*A Treatise on Zoology: Fishes*):** *"The specialized branchial apparatus and tubular jaws of the **Solenichthyes** represent extreme adaptations to suction feeding."*

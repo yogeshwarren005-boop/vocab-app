@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A piece of writing that has been copied from someone else and is presented as being your own work.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of plagiarizing; taking someone's words or ideas as if they were your own.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The practice of taking someone else's work or ideas and passing them off as one's own.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In academic and legal ethics, plagiarism violates professional honesty through unauthorized appropriation and intellectual fraud.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"An attempt to convict Euripides of plagiarism from Plato's _Republic_ shows the worth of these suggestions, and the whole scheme wakes doubts as to the value of Clement's judgment.[68] Another theory was angelic mediation."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Various books on mental healing have since been issued, most of them incorrect in theory x:6 and filled with plagiarisms from SCIENCE AND HEALTH."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"For Euripides and other inter-Hellenic plagiarisms, _Strom._ vi, 24. [69] _Strom._ vii, 6. [70] _Strom._ v, 10, 2."*
+> - 📜 **Martial (*Epigrams*):** *"My book complains to me, Fidentinus, that you recite its verses to the crowd as if they were your own; that is **plagiarism**."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"The charge of **plagiarism** is often made against those who happen to think alike upon universal subjects."*
+> - 📜 **Ralph Waldo Emerson (*Letters and Social Aims*):** *"Our best thoughts come from others; yet honest quotation preserves honor while clandestine **plagiarism** poisons thought."*

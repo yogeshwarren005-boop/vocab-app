@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of darkness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of darkness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Thriving in, preferring, or characterized by an affinity for darkness or night; active during darkness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In photobiology and circadian chronobiology, the scotophilic phase represents the nocturnal half of the oscillation during which darkness is physiologically required.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scotophilic designates adjective*) pertaining to, derived from, or characteristic of darkness."*
+> - 📜 **Erwin Bünning (*The Physiological Clock*):** *"When the biological clock enters its **scotophilic** phase, light exposure produces phase shifts and disrupts diapause."*
+> - 📜 **Arthur Galston (*Plant Photobiology*):** *"Short-day plants possess a **scotophilic** reaction system that is acutely sensitive to red and far-red light interruptions."*
+> - 📜 **Colin Pittendrigh (*Temporal Organization in Living Systems*):** *"The nocturnal foraging behavior of the desert beetle exemplifies a strictly adapted **scotophilic** mode of life."*

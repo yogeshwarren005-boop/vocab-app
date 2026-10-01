@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A calcium carbonate concretion arising from the cellulose wall of cells of higher plants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A calcium carbonate concretion arising from the cellulose wall of cells of higher plants.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A stone or calculus formed in the urinary bladder; or in botany, an internal nodule of calcium carbonate on a cellulose stalk in epidermal plant cells.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant anatomy, a mineralized intrusion (common in Urticaceae and Acanthaceae) that deposits calcium carbonate; in urology, a bladder stone formed around a nidus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cystolith designates a calcium carbonate concretion arising from the cellulose wall of cells of higher plants."*
+> - 📜 **Asa Gray (*Botanical Text-Book*):** *"Under the microscope, epidermal cells of the nettle leaf contain a curious stalked calcified body known as a **cystolith**."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The vesical sound produced a distinct metallic click upon contacting the large uric acid **cystolith**."*
+> - 📜 **John Lindley (*An Introduction to Botany*):** *"The physiological role of the foliar **cystolith** appears to be both calcium storage and skeletal stiffening."*

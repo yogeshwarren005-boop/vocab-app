@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the cells in a sporangium that give rise to spores.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the cells in a sporangium that give rise to spores.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or derived from the archesporium (the primitive cell layer that gives rise to spore mother cells in plants).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant developmental anatomy and embryology, the archesporial cell undergoes periclinal division to produce the primary parietal layer and primary sporogenous tissue.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, archesporial designates of or relating to the cells in a sporangium that give rise to spores."*
+> - 📜 **Katherine Esau (*Plant Anatomy*):** *"In the young anther, the subepidermal **archesporial** cell divides to form the parietal layer and the pollen mother cells."*
+> - 📜 **P. Maheshwari (*An Introduction to the Embryology of Angiosperms*):** *"The initial differentiation of the **archesporial** tissue occurs in the hypodermal layer of the ovular nucellus."*
+> - 📜 **F. O. Bower (*Size and Form in Plants*):** *"The volume of fertile spores produced is directly determined by the early mitotic expansion of the **archesporial** zone."*

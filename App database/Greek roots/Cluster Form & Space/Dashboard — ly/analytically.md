@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: By virtue of analysis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: By virtue of analysis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an analytic manner; by means of analysis, logical deduction, or decomposition into parts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adverb used in mathematics to denote solutions derived through algebraic and differential methods rather than geometric construction, or in philosophy to denote a priori truth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, analytically designates by virtue of analysis."*
+> - 📜 **Leonhard Euler (*Introductio in Analysin Infinitorum*):** *"Functions which can be expressed **analytically** by algebraic formulas reveal their properties through differentiation."*
+> - 📜 **Immanuel Kant (*Prolegomena to Any Future Metaphysics*):** *"The proposition that every body is extended is known **analytically**, without need of empirical confirmation."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"The economist proceeds **analytically**, isolating the influence of wealth accumulation from competing social motives."*

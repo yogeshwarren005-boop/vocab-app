@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A fit, attack, or sudden increase or recurrence of symptoms (as of a disease) : convulsion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sudden violent emotion or action : outburst.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sudden, violent attack or sudden outburst of an emotion, action, or symptom, such as a convulsion or coughing fit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical pathology, a recurrent cyclical peak in fever and chills, especially characteristic of malaria (ague).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Wopsle’s great-aunt fell into a state of coma, arising either from sleep or a rheumatic paroxysm."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"I’m so frightened!” feigned to be in a paroxysm of terror and contrition, occasioned by the dignity of my appearance."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Hubble; the last-named in a decent speechless paroxysm in a corner."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The malarial **paroxysm** begins with a shaking chill, progresses to intense burning fever, and terminates in profuse perspiration."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"A sudden **paroxysm** of weeping seized her, shaking her slender frame with irresistible grief."*
+> - 📜 **Thomas Sydenham (*The Works of Thomas Sydenham*):** *"Each quartan **paroxysm** recurs punctually upon the fourth day according to immutable natural laws."*

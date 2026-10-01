@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or characteristic of plants of the class gymnospermae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or characteristic of plants of the class gymnospermae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or producing seeds that are not enclosed in an ovary; of or relating to a gymnosperm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dendrology and timber anatomy, designating softwood trees belonging to the conifers and related cone-bearing lineages.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gymnospermous designates relating to or characteristic of plants of the class gymnospermae."*
+> - 📜 **Katherine Esau (*Plant Anatomy*):** *"The **gymnospermous** wood structure is remarkably uniform, composed almost exclusively of radial files of tracheids."*
+> - 📜 **Asa Gray (*Manual of Botany*):** *"Pollen tubes in **gymnospermous** species often require months to complete their passage through the nucellar tissue."*
+> - 📜 **Peter H. Raven (*Biology of Plants*):** *"The primitive **gymnospermous** genus Ginkgo produces swimming multiciliated sperm cells reminiscent of ancient ferns."*

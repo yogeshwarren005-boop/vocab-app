@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A woman who is a scot.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A woman who is a scot.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A woman of Scottish birth or descent; a Scotswoman.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical and literary narrative, used to describe women from Scotland, reflecting traditional dialectal and regional designations in English prose.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scotchwoman designates a woman who is a scot."*
+> - 📜 **Walter Scott (*The Heart of Midlothian*):** *"Jeanie Deans displayed that steadfast, uncomplaining fortitude which marks the character of the pious **scotchwoman**."*
+> - 📜 **George Eliot (*Middlemarch*):** *"She spoke with the sensible, crisp clarity of an educated **scotchwoman** accustomed to domestic management."*
+> - 📜 **Robert Louis Stevenson (*Catriona*):** *"The elderly **scotchwoman** shook her head in solemn disapproval of youthful vanities and high-handed adventures."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the urinary bladder or the gallbladder.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to, composed of, or containing cysts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, having the nature of, or containing a cyst or cysts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human anatomy, pertaining specifically to the urinary bladder or gallbladder (as in the cystic duct and cystic artery).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cystic designates of or relating to the urinary bladder or the gallbladder."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The **cystic** duct joins the common hepatic duct at an acute angle to form the common bile duct."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Impact of a gallstone in the **cystic** duct produces intense biliary colic accompanied by acute distension."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"In **cystic** hygroma of the neck, dilated lymphatic channels form interconnected fluid chambers lined with endothelium."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the pseudococcidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the pseudococcidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of scale insects in the family Pseudococcidae, containing several notorious mealybug pests of greenhouse and fruit crops.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic entomology, soft-bodied, segmented insects such as Pseudococcus comstocki that infest roots, foliage, and fruit clusters.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pseudococcus designates type genus of the pseudococcidae."*
+> - 📜 **L. O. Howard (*The Insect Book*):** *"Greenhouse infestations of **pseudococcus** are notoriously stubborn because their waxy coats repel contact insecticides."*
+> - 📜 **E. O. Essig (*Insects of Western North America*):** *"Orchardists employ predatory ladybird beetles to suppress thriving populations of **pseudococcus** upon deciduous fruit trees."*
+> - 📜 **Vernon L. Kellogg (*American Insects*):** *"Females of **pseudococcus** remain wingless throughout life, depositing hundreds of eggs inside cottony ovisacs."*

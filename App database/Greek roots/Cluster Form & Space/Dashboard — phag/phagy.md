@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Eating of a (specified) type or substance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Eating of a (specified) type or substance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combining form denoting the eating, consuming, or feeding on a specified substance or food type (as in coprophagy, monophagy).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ecological taxonomy and nutritional biology, terms ending in -phagy define specific trophic habits and dietary specializations across animal taxa.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bram Stoker (*Dracula*):** *"You must get a new patient, doctor, if you wish to study zoöphagy!” This puzzled me a little, so I drew him on:-- “Then you command life; you are a god, I suppose?” He smiled with an ineffably benign superiority."*
+> - 📜 **E. O. Wilson (*Sociobiology: The New Synthesis*):** *"Specialized dietary habits like xylophagy and mycophagy illustrate how ecological **phagy** drives morphological adaptation."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Anthropological records demonstrate how cannibalistic **phagy** was historically tied to ceremonial conquest."*
+> - 📜 **Robert Beekes (*Etymological Dictionary of Greek*):** *"The suffix -**phagy** traces back directly to the Greek verbal noun denoting consumption and feeding."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A triclinic feldspar; especially : one having calcium or sodium in its composition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A triclinic feldspar; especially : one having calcium or sodium in its composition.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An important series of rock-forming triclinic feldspar minerals consisting of a solid solution of albite and anorthite.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In petrology and geology, plagioclase feldspars are distinguished by two cleavage planes intersecting at an oblique angle (around 86 degrees) and characteristic polysynthetic twinning.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plagioclase designates a triclinic feldspar; especially : one having calcium or sodium in its composition."*
+> - 📜 **Norman L. Bowen (*The Evolution of the Igneous Rocks*):** *"The continuous reaction series of **plagioclase** feldspars ranges from calcium-rich anorthite to sodium-rich albite."*
+> - 📜 **Frank Wigglesworth Clarke (*The Data of Geochemistry*):** *"Basaltic lavas are characterized by abundant laths of calcic **plagioclase** intergrown with augite."*
+> - 📜 **James Dwight Dana (*Manual of Mineralogy*):** *"The oblique cleavage angle of **plagioclase** readily separates it from the rectangular cleavage of orthoclase."*

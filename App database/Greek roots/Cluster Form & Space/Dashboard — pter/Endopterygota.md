@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek pter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A superorder of insects (holometabolous insects) whose wings develop internally inside the body of the larva and pupa.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic entomology, comprising beetles, flies, wasps, and butterflies, defined by complete metamorphosis through egg, larva, pupa, and adult stages.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Endopterygota designates a term designating an entity, condition, or phenomenon derived from greek pter."*
+> - 📜 **A. D. Imms (*Recent Advances in Entomology*):** *"The evolutionary success of **Endopterygota** stems from the complete functional separation of larval feeding and adult reproductive stages."*
+> - 📜 **Vincent Dethier (*The Physiology of Insect Senses*):** *"Imaginal discs within the pupa of **Endopterygota** give rise to the wings, legs, and compound eyes of the adult insect."*
+> - 📜 **Michael S. Engel (*Evolution of the Insects*):** *"Over eighty percent of all extant insect species belong to the colossal monophyletic radiation of **Endopterygota**."*

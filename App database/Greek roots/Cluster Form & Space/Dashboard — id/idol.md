@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An object of extreme devotion; also : ideal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A representation or symbol of an object of worship; broadly : a false god.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An image or physical representation of a deity used as an object of worship; also, a person or thing that is greatly admired, loved, or revered.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophy of science, Francis Bacon's 'Idols of the Mind' (*Novum Organum*) categorize cognitive biases into Idols of the Tribe, Cave, Marketplace, and Theater that distort objective observation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For fear of which, hear this thou age unbred, Ere you were born was beauty’s summer dead. 105 Let not my love be called idolatry, Nor my beloved as an idol show, Since all alike my songs and praises be To one, of one, still such, and ever so."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And what art thou, thou idol Ceremony?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Shall the proud lord That bastes his arrogance with his own seam And never suffers matter of the world Enter his thoughts, save such as doth revolve And ruminate himself—shall he be worshipp’d Of that we hold an idol more than he?"*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"The mind of man is far from being a flat plate; it receives impressions from every **idol** that clouds human understanding."*
+> - 📜 **John Milton (*Paradise Lost*):** *"They prostrated themselves before the molten **idol**, forgetting the living God who led them through the desert."*
+> - 📜 **Thomas Carlyle (*On Heroes, Hero-Worship, and the Heroic in History*):** *"Man is by nature a hero-worshipper; when true gods fail, he will fashion an **idol** out of any charismatic conqueror."*

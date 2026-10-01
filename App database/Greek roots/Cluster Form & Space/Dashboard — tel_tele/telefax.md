@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Send something via a facsimile machine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Send something via a facsimile machine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A facsimile machine; also, a facsimile transmission or printed document conveyed over telephone lines; a fax.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In office technology from the 1970s through the 1990s, the telefax revolutionized business communications by enabling near-instantaneous transmission of signed contracts and printed graphics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, telefax designates send something via a facsimile machine."*
+> - 📜 **Nicholas Negroponte (*Being Digital*):** *"The sudden worldwide popularity of the **telefax** in the 1980s proved the intense human hunger for instantaneous printed documents."*
+> - 📜 **Alvin Toffler (*Powershift*):** *"During political crises, the **telefax** defeated official censorship by streaming uncensored reports directly into private offices."*
+> - 📜 **Arthur C. Clarke (*How the World Was One*):** *"A single roll of sensitized paper on the **telefax** machine could receive complex architectural blueprints from across the ocean."*

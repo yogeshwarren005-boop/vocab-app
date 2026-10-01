@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A secret method of writing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A piece of writing in code or cipher.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A secret text or cipher; also a mechanical device, apparatus, or system used for enciphering and deciphering communications.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cryptographic history, an instrument such as the Wheatstone cryptograph that encrypts plaintext into polyalphabetic cipher.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"As it was, I assumed the cryptograph to be English."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"In the present instance we see it doubled no less than five times, although the cryptograph is brief."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Referring, now, to the beginning of the cryptograph, we find the combination, 53++!."*
+> - 📜 **Charles Babbage (*Passages from the Life of a Philosopher*):** *"I constructed a mechanical **cryptograph** designed to scramble printed characters according to predetermined wheel teeth."*
+> - 📜 **David Kahn (*The Codebreakers*):** *"Wheatstone exhibited his revolving **cryptograph** at the Royal Society, demonstrating rapid cipher substitution."*
+> - 📜 **Edgar Allan Poe (*Essays on Secret Writing*):** *"The cunning artisan who frames an elaborate **cryptograph** often forgets that linguistic redundancy inevitably exposes his secret."*

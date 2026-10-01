@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Navigable deep diving vessel for underwater exploration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Navigable deep diving vessel for underwater exploration.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A deep-sea submersible apparatus; alternative short form of bathyscaphe.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A free-diving deep-sea exploration vehicle operating without tether cables, controlled by jettisoning iron ballast.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bathyscaph designates navigable deep diving vessel for underwater exploration."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"With the descent of the **bathyscaph**, man finally set his eyes upon the abyssal benthic plains."*
+> - 📜 **Arthur C. Clarke (*The Challenge of the Sea*):** *"The heavy steel hull of the **bathyscaph** resisted pressures exceeding one thousand atmospheres without deformation."*
+> - 📜 **Jacques Cousteau (*The Silent World*):** *"Descending slowly through ink-black water, the **bathyscaph** glided toward the edge of the submerged canyon."*

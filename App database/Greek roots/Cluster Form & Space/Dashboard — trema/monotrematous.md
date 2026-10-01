@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of hole.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of hole.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Belonging or pertaining to the Monotremata; possessing a single cloacal opening; oviparous (of mammals).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology, monotrematous physiological traits include oviparity, lower body temperatures, milk secreted without nipples onto abdominal skin patches, and unique electroreceptive rostrums.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monotrematous designates adjective*) pertaining to, derived from, or characteristic of hole."*
+> - 📜 **Alfred Russel Wallace (*The Geographical Distribution of Animals*):** *"The isolated survival of archaic **monotrematous** mammals in Australasia resulted from early continental separation."*
+> - 📜 **Edward Drinker Cope (*The Primary Factors of Organic Evolution*):** *"The osteological framework of early Mesozoic prototherians reflects a primitive **monotrematous** grade of organization."*
+> - 📜 **Edwin Ray Lankester (*A Treatise on Zoology*):** *"Females of **monotrematous** species incubate leathery eggs in temporary abdominal pouches or subterranean burrows."*

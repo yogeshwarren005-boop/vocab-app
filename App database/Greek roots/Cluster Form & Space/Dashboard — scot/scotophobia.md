@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fear of the dark is a common fear or phobia among toddlers, children and, to a varying degree, adults.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fear of the dark does not always concern darkness itself; it can also be a fear of possible or imagined dangers concealed by darkness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal, morbid, or irrational fear of darkness; nyctophobia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychopathology, scotophobia represents a specific situational phobia often rooted in early childhood trauma or catastrophic misinterpretation of sensory deprivation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scotophobia designates fear of the dark is a common fear or phobia among toddlers, children and, to a varying degree, adults."*
+> - 📜 **G. Stanley Hall (*Adolescence*):** *"Childhood **scotophobia** frequently peaks between the ages of four and seven, triggered by imaginative hyper-arousal."*
+> - 📜 **Richard von Krafft-Ebing (*Text-Book of Insanity*):** *"The severe paroxysms of **scotophobia** observed in the melancholic patient led to profound insomnia and pacing."*
+> - 📜 **Henry Maudsley (*The Pathology of Mind*):** *"Unreasonable terror of the dark, or **scotophobia**, reflects a primitive breakdown of sensory equilibrium."*

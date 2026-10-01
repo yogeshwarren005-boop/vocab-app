@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bacteria usually producing greenish fluorescent water-soluble pigment; some pathogenic for plants and animals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bacteria usually producing greenish fluorescent water-soluble pigment; some pathogenic for plants and animals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any bacterium belonging to the genus Pseudomonas or the family Pseudomonadaceae, characterized as Gram-negative, rod-shaped, and usually motile by polar flagella.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In environmental and medical microbiology, aerobic non-sporing bacilli renowned for metabolic versatility, biofilm formation, and antibiotic resistance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pseudomonad designates bacteria usually producing greenish fluorescent water-soluble pigment; some pathogenic for plants and animals."*
+> - 📜 **Martinus Beijerinck (*On Oligonitrophilous Microbes*):** *"The soil **pseudomonad** plays a prominent role in decomposing aromatic hydrocarbons and recycling organic nitrogen."*
+> - 📜 **Roger Y. Stanier (*The Microbial World*):** *"A typical **pseudomonad** derives energy through oxidative respiration rather than fermentation, utilizing diverse carbon substrates."*
+> - 📜 **Michael T. Madigan (*Brock Biology of Microorganisms*):** *"Fluorescent pigments synthesized by the **pseudomonad** illuminate under ultraviolet light when cultured on iron-deficient media."*

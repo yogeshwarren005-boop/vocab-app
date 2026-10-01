@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of darkness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of darkness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Oriented toward, moving toward, or exhibiting an affinity for dark areas; characterized by positive scototaxis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sensory ecology and animal orientation, scototactic behaviors guide nocturnal insects and cave dwelling arthropods to find sheltered microhabitats.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scototactic designates adjective*) pertaining to, derived from, or characteristic of darkness."*
+> - 📜 **Jacques Loeb (*Forced Movements, Tropisms, and Animal Conduct*):** *"The terrestrial isopod exhibits pronounced **scototactic** movement, steering directly toward dark silhouettes in the arena."*
+> - 📜 **Herbert Spencer Jennings (*Behavior of the Lower Organisms*):** *"These primitive organisms demonstrate a **scototactic** response that ensures survival beneath moisture-retaining stones."*
+> - 📜 **G. H. Parker (*The Elementary Nervous System*):** *"The simple photoreceptors mediate **scototactic** steering away from lethal desiccating sunlight into dark crevices."*

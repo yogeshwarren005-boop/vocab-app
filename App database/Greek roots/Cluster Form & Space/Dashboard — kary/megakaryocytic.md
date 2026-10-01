@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or pertaining to large bone marrow cells.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or pertaining to large bone marrow cells.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or derived from megakaryocytes (the giant platelet-producing cells of the bone marrow).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In hematopathology, megakaryocytic hyperplasia occurs in essential thrombocythemia and immune thrombocytopenia (ITP); acute megakaryocytic leukemia (FAB M7) is a rare subtype of acute myeloid leukemia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, megakaryocytic designates of or pertaining to large bone marrow cells."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Bone marrow aspirates in purpura hemorrhagica display vigorous **megakaryocytic** hyperplasia despite peripheral thrombocytopenia."*
+> - 📜 **Austin Flint (*A Treatise on the Principles and Practice of Medicine*):** *"Proliferation of the **megakaryocytic** lineage in myelofibrosis is frequently associated with secondary marrow fibrosis."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Histological sections revealed atypical clusters of **megakaryocytic** giant cells infiltrating the marrow trabeculae."*

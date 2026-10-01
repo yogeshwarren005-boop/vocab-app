@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek scaph.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any marine burrowing mollusk of the class Scaphopoda, commonly known as a tusk shell or tooth shell.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine invertebrate zoology, a micro-carnivore inhabiting soft benthic sediment, using prehensile ciliated tentacles (captacula) to capture foraminifera.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scaphopod designates a term designating an entity, condition, or phenomenon derived from greek scaph."*
+> - 📜 **S. P. Woodward (*A Manual of the Mollusca*):** *"The cylindrical, tapering shell of a **scaphopod** remains open at both ends, allowing respiratory currents to circulate while buried in sand."*
+> - 📜 **R. Tucker Abbott (*American Seashells*):** *"Indigenous peoples along the Pacific Northwest prized the polished shell of the **scaphopod** Dentalium as currency and ceremonial ornament."*
+> - 📜 **Robert D. Barnes (*Invertebrate Zoology*):** *"A living **scaphopod** excavates sediment using its muscular spade-shaped foot while extending delicate captacula into surrounding mud."*

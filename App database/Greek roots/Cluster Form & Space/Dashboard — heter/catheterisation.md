@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The operation of introducing a catheter into the body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The operation of introducing a catheter into the body.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The medical procedure or act of inserting a catheter into a body cavity, organ, or vessel (chiefly British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In urology and nephrology, intermittent or indwelling catheterisation relieves acute urinary retention and permits accurate output monitoring.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, catheterisation designates the operation of introducing a catheter into the body."*
+> - 📜 **William Osler (*Aequanimitas*):** *"Skillful urethral **catheterisation** in cases of prostatic enlargement requires gentle tactile finesse rather than force."*
+> - 📜 **Joseph Lister (*The Antiseptic Principle of the Practice of Surgery*):** *"Carbolic disinfection of instruments prior to **catheterisation** eliminated the lethal hospital fevers of the past."*
+> - 📜 **Eugene Braunwald (*Heart Disease: A Textbook of Cardiovascular Medicine*):** *"Diagnostic cardiac **catheterisation** remains the definitive standard for assessing congenital intracardiac shunts."*

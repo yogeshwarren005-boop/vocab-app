@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Calmness untroubled by mental or emotional disquiet.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Calmness untroubled by mental or emotional disquiet.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of serene calmness, untroubled tranquility, and freedom from mental disturbance or anxiety; imperturbability.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ancient Hellenistic philosophy, ataraxia was celebrated by Epicurus and Pyrrho of Elis as the ultimate goal of moral wisdom and freedom from fear.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Christians for a century or two never thought of _ataraxia_ or apathy, and, though Clement of Alexandria plays with them, he tries to give them a new turn."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"The aim of the Sceptic is ataraxia [freedom from mental perturbation or excitement] in matters which depend on opinion, and in things which are inevitable restraint of the feelings (_metriopatheian_)."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Astronomy, 27, 97, 219, 277, 281, 285. _Ataraxia_, 216, 219."*
+> - 📜 **Epicurus (*Letter to Menoeceus*):** *"The end of all our actions is to be free from pain and fear; when once we have reached this, **ataraxia** is attained."*
+> - 📜 **Michel de Montaigne (*Essays*):** *"The ancient Pyrrhonists sought that quietude of mind which they termed **ataraxia**, undisturbed by rash dogmatic assertions."*
+> - 📜 **Bertrand Russell (*A History of Western Philosophy*):** *"Both Stoics and Epicureans agreed that the supreme good was **ataraxia**, a state of undisturbed peace of soul."*

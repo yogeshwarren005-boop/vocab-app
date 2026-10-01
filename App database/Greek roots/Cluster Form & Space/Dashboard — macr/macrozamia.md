@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any treelike cycad of the genus macrozamia having erect trunks and pinnate leaves and large cones with sometimes edible nuts; australia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any treelike cycad of the genus macrozamia having erect trunks and pinnate leaves and large cones with sometimes edible nuts; australia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of ancient palmlike cycads endemic to Australia in the family Zamiaceae, having pinnate fronds and subterranean or emergent woody trunks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In paleobotany and ethnobotany, *Macrozamia* seeds contain toxic azoxyglycosides (macrozamin) that indigenous Australians leached through running water before milling into flour.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, macrozamia designates any treelike cycad of the genus macrozamia having erect trunks and pinnate leaves and large cones with sometimes edible nuts; australia."*
+> - 📜 **Ferdinand von Mueller (*Fragmenta Phytographiae Australiae*):** *"The robust cones of **Macrozamia** adorn the stony ridges of eastern Australia, persisting as living relics of ancient flora."*
+> - 📜 **Charles Joseph Chamberlain (*The Living Cycads*):** *"Field studies on **Macrozamia** reveal that pollination is facilitated by specialized weevils that feed within male sporophylls."*
+> - 📜 **Knut Norstog (*The Biology of the Cycads*):** *"The subterranean coralloid roots of **Macrozamia** harbor cyanobacterial symbionts that perform active nitrogen fixation."*

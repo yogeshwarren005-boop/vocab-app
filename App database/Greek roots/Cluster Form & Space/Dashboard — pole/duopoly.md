@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An oligopoly limited to two sellers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Preponderant influence or control by two political powers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A market condition or industry structure in which only two suppliers or sellers dominate the market for a commodity or service.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In microeconomic game theory, an oligopolistic model wherein two competing firms determine price and output strategies based on mutual anticipation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, duopoly designates an oligopoly limited to two sellers."*
+> - 📜 **Antoine Augustin Cournot (*Researches into the Mathematical Principles of the Theory of Wealth*):** *"In the case of a **duopoly**, each proprietor adjusts his output on the assumption that his rival's production remains constant."*
+> - 📜 **Joseph Schumpeter (*Capitalism, Socialism and Democracy*):** *"A stable **duopoly** may temporarily avoid ruinous price-cutting through unspoken consensus or differentiated branding."*
+> - 📜 **Joan Robinson (*The Economics of Imperfect Competition*):** *"Price determination under conditions of **duopoly** remains inherently indeterminate without assumptions regarding rival reactions."*

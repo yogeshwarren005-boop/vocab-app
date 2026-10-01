@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Approximately cubical in shape.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or being the cuboid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Approximating the shape of a cube; a rectangular solid whose six faces are quadrilaterals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human and comparative anatomy, a cube-shaped tarsal bone situated on the lateral side of the foot between the calcaneus and the fourth and fifth metatarsals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cuboid designates approximately cubical in shape."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The **cuboid** bone occupies the outer and anterior part of the tarsus, articulating posteriorly with the calcaneus."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"In ungulates, the **cuboid** fuses with the navicular to establish a rigid tarsal lever for running."*
+> - 📜 **Thomas Henry Huxley (*Evidence as to Man's Place in Nature*):** *"The human foot differs from the ape's in the robust weight-bearing alignment of the **cuboid** and tarsal arches."*

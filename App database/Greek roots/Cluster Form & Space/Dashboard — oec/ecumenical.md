@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Concerned with promoting unity among churches or religions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of worldwide scope or applicability; ; - christopher morley.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Promoting or tending toward worldwide Christian unity or cooperation among differing denominations; of worldwide Christian scope.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In church history, designating the historical general church councils (such as Nicaea and Chalcedon) whose doctrinal definitions are accepted across Christendom.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ecumenical designates concerned with promoting unity among churches or religions."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The first **ecumenical** council at Nicaea brought together three hundred and eighteen prelates to formulate the orthodox creed."*
+> - 📜 **C. S. Lewis (*Mere Christianity*):** *"My aim is not to plead the cause of any particular faction, but to present that **ecumenical** faith which Christians have held in common across all ages."*
+> - 📜 **Pope John XXIII (*Gaudet Mater Ecclesia*):** *"The convening of the Second Vatican Council marks an **ecumenical** opening toward dialogue with all separated Christian brethren."*

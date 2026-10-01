@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek scot.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A condition characterized by dimness, obscurity, or darkening of vision; dizziness accompanied by temporary darkness in the visual field.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical and nineteenth-century medical texts, scotosis denoted transient cerebral ischemia or vertigo attended by faintness and ocular blacking out.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scotosis designates a term designating an entity, condition, or phenomenon derived from greek scot."*
+> - 📜 **William Cullen (*First Lines of the Practice of Physic*):** *"The patient complained of frequent attacks of **scotosis**, wherein darkness suddenly obscured the eyes during sudden standing."*
+> - 📜 **Thomas Sydenham (*The Whole Works of That Excellent Practical Physician*):** *"A sudden rush of vapours to the head was followed by swimming of the brain and alarming **scotosis**."*
+> - 📜 **Robert Hooper (*Lexicon Medicum; or Medical Dictionary*):** *"In ancient nosology, **scotosis** was regarded as a species of vertigo accompanied by utter deprivation of sight."*

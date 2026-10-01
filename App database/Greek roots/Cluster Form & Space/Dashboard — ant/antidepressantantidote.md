@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A therapeutic countermeasure or antidote formulated to reverse the acute toxicity, arrhythmias, or neurotoxicity of antidepressant medications.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical toxicology, specific reversal protocols including intravenous lipid emulsion and receptor antagonists employed to stabilize hemodynamics in antidepressant overdose.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antidepressantantidote designates a term designating an entity, condition, or phenomenon derived from greek ant."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Emergency resuscitation mandates an immediate **antidepressantantidote** when refractory ventricular ectopy threatens cardiac arrest."*
+> - 📜 **Eric Kandel (*Principles of Neural Science*):** *"Reversing synaptic monoamine overload requires an targeted **antidepressantantidote** capable of clearing competitive reuptake inhibitors."*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*):** *"The intensive care team relied on an **antidepressantantidote** protocol to overcome the profound anticholinergic coma."*

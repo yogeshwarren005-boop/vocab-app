@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to anions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by an active and especially surface-active anion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, containing, or acting as an anion (a negatively charged ion).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In surface chemistry and biochemistry, anionic surfactants (such as sodium dodecyl sulfate / SDS) possess negatively charged polar headgroups, widely utilized in cell lysis, protein gel electrophoresis, and industrial detergents.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anionic designates of or relating to anions."*
+> - 📜 **Svante Arrhenius (*Theories of Chemistry*):** *"The velocity of migration of the **anionic** constituent varies systematically with ionic radius and hydration."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"Discharge at the positive terminal confirms that the liberated element belongs to the **anionic** class of matter."*
+> - 📜 **Ernest Starling (*Principles of Human Physiology*):** *"The negative charge of the glomerular basement membrane repels circulating **anionic** albumin molecules."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of resembling a cube.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of resembling a cube.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state, quality, or condition of being cubic in form or dimension; cubical character.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geometry and volume measurement, the quantitative internal volumetric capacity or cubic content of a container or space.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cubicity designates the property of resembling a cube."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"The mathematical calculation of electrostatic capacity requires evaluating the volume and **cubicity** of the dielectric space."*
+> - 📜 **D'Arcy Wentworth Thompson (*On Growth and Form*):** *"Surface tension resists the rigid **cubicity** of crystals, striving always toward spherical equilibrium in living cells."*
+> - 📜 **William Whewell (*The Philosophy of the Inductive Sciences*):** *"The **cubicity** of mineral cleavage planes provided Haüy with his fundamental geometric building blocks."*

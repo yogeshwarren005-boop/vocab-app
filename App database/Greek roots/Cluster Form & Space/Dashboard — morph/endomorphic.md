@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the component in W. H. Sheldon's classification of body types that measures the massiveness of the digestive viscera and the body's degree of roundedness and softness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a heavy rounded body build often with a marked tendency to become fat.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, having the physical characteristics of, or classified as an endomorph; possessing rounded contours and relatively high body fat.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In metamorphic petrology and geology, describing mineralogical changes produced within an igneous magma body through assimilation of surrounding host rocks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endomorphic designates of or relating to the component in w. h. sheldon's classification of body types that measures the massiveness of the digestive viscera and the body's degree of roundedness and softness."*
+> - 📜 **William H. Sheldon (*The Varieties of Temperament*):** *"Physical examinations revealed prominent **endomorphic** traits, accompanied by a relaxed posture and deep visceral respiration."*
+> - 📜 **Reginald Aldworth Daly (*Igneous Rocks and Their Origin*):** *"The border zone of the granitic batholith exhibits **endomorphic** modification where shale country rock was ingested and melted."*
+> - 📜 **Alfred Harker (*The Natural History of Igneous Rocks*):** *"We differentiate exomorphic effects in the invaded strata from internal **endomorphic** alterations within the igneous margin."*

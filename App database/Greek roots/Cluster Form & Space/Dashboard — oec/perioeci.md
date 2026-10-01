@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek oec.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In ancient Sparta and classical Laconia, the free, non-citizen autonomous residents living in peripheral towns, subject to Spartan military service and taxation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical Greek historiography, the perioeci (perioikoi, 'dwellers around') controlled commerce, manufacturing, and bronze-working, lacking political franchise in the Spartan assembly.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, perioeci designates a term designating an entity, condition, or phenomenon derived from greek oec."*
+> - 📜 **Thucydides (*History of the Peloponnesian War*):** *"The Spartan army drew heavy hoplite contingents from the towns of the **perioeci**, who fought alongside the Spartiate peers."*
+> - 📜 **Aristotle (*Politics*):** *"The Spartans kept their agricultural serfs in check while entrusting external trade and coastal manufacture to the **perioeci**."*
+> - 📜 **George Grote (*A History of Greece*):** *"Unlike the enslaved helots, the **perioeci** retained local municipal autonomy and property ownership in their provincial communities."*

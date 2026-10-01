@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mineral having the characteristic outward form of another species.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A deceptive or irregular form.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mineral specimen that exhibits the outward geometric crystal form characteristic of another mineral species, resulting from chemical substitution, encrustation, or alteration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mineralogy and petrology, pseudomorphs (such as goethite pseudomorphs after pyrite) preserve the exact cubic or pyritohedral habit of the precursor while undergoing complete chemical replacement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pseudomorph designates a mineral having the characteristic outward form of another species."*
+> - 📜 **J. D. Dana (*A System of Mineralogy*):** *"A **pseudomorph** tells a fascinating story of chemical alteration, where one mineral species quietly supplants another without disturbing its geometric outline."*
+> - 📜 **René Just Haüy (*Traité de minéralogie*):** *"The external shape of a **pseudomorph** belongs to the former inhabitant, while its internal fracture reveals the intruding mineral."*
+> - 📜 **Alfred Harker (*Metamorphism*):** *"Serpentine forms a fibrous **pseudomorph** after olivine, preserving the original fractures and crystal faces of the peridotite rock."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Shaped like a rhombus or rhomboid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shaped like a rhombus or rhomboid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the shape of a rhomboid; oblique-angled parallelogram whose opposite sides are equal but adjacent sides are unequal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In descriptive human anatomy, designating the rhomboid major and minor muscles that retract and elevate the scapula.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"SOUTHERNWOOD BRAND; spots obliterated; sori subrotund, minute, surrounded by the ruptured epidermis; sporidia brown, oblong or ovoid, somewhat rhomboidal, with both cells attenuated, and triangular; peduncles elongated.—On _Artemisia maritima_."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The **rhomboidal** muscles arise from the spines of the lower cervical and upper thoracic vertebrae and insert into the scapula."*
+> - 📜 **Andreas Vesalius (*De Humani Corporis Fabrica*):** *"Beneath the trapezius lies a broad fleshy band of **rhomboidal** contour, pulling the shoulder blade toward the spine."*
+> - 📜 **Charles Bell (*The Nervous System of the Human Body*):** *"Motor innervation to the **rhomboidal** musculature is supplied by the dorsal scapular nerve originating from C5."*

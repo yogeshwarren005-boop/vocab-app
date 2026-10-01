@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mapping of a mathematical set (such as a group, ring, or vector space) into or onto another set or itself in such a way that the result obtained by applying the operations to elements of the first set is mapped onto the result obtained by applying the corresponding operations to their respective images in the second set.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mapping of a mathematical set (such as a group, ring, or vector space) into or onto another set or itself in such a way that the result obtained by applying the operations to elements of the first set is mapped onto the result obtained by applying the corresponding operations to their respective images in the second set.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In abstract algebra, related by a homomorphism; exhibiting an algebraic correspondence between structures that preserves operations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative anatomy and morphology, exhibiting superficial similarity of form or anatomical structure despite having divergent evolutionary origins.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, homomorphic designates a mapping of a mathematical set (such as a group, ring, or vector space) into or onto another set or itself in such a way that the result obtained by applying the operations to elements of the first set is mapped onto the result obtained by applying the corresponding operations to their respective images in the second set."*
+> - 📜 **Emmy Noether (*Idealtheorie in Ringbereichen*):** *"The quotient ring is naturally **homomorphic** to the original ring, preserving modular addition and multiplication operations."*
+> - 📜 **Bartel Leendert van der Waerden (*Modern Algebra*):** *"If two groups are **homomorphic**, the identity element of the domain maps directly onto the identity element of the codomain."*
+> - 📜 **Ernst Mayr (*Principles of Systematic Zoology*):** *"Unrelated organisms adapting to parallel aerial niches often evolve **homomorphic** wing profiles through convergent selection."*

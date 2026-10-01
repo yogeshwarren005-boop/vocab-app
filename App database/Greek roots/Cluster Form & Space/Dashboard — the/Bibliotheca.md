@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A collection of books.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A list of books.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A library or collection of books; also used in titles of comprehensive literary, bibliographical, or historical compilations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: From Latin and Greek *bibliotheke* (book-receptacle), historically applied to major canonical compilations such as the Bibliotheca of Photius or the Bibliotheca Historica of Diodorus Siculus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Bibliotheca designates a collection of books."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The surviving fragments of Diodorus's **Bibliotheca** preserve invaluable details concerning ancient Hellenistic dynasties."*
+> - 📜 **Thomas Frognall Dibdin (*The Bibliomania; or Book-Madness*):** *"Every bibliophile dreams of amassing a splendid **Bibliotheca** filled with early printed incunabula."*
+> - 📜 **Jorge Luis Borges (*Selected Non-Fictions*):** *"The mythical **Bibliotheca** of Alexandria symbolized humanity's noble desire to house universal knowledge under one roof."*

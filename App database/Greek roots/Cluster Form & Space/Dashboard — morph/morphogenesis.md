@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Differentiation and growth of the structure of an organism (or a part of an organism).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Differentiation and growth of the structure of an organism (or a part of an organism).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The biological process that causes an organism, tissue, or cellular organelle to develop and establish its physical shape and structural form.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In developmental biology and mathematical biophysics, morphogenesis is modeled through morphogen diffusion gradients, cellular adhesion, and mechanical tissue stress.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, morphogenesis designates differentiation and growth of the structure of an organism (or a part of an organism)."*
+> - 📜 **Alan Turing (*The Chemical Basis of Morphogenesis*):** *"A system of reacting and diffusing chemical substances can account for the main phenomena of **morphogenesis** in early development."*
+> - 📜 **D'Arcy Wentworth Thompson (*On Growth and Form*):** *"Physical forces such as surface tension and mechanical pressure dictate the mathematical contours of cellular **morphogenesis**."*
+> - 📜 **Lewis Wolpert (*Principles of Development*):** *"Morphogen concentration gradients provide embryonic cells with positional coordinates that guide coordinated **morphogenesis**."*

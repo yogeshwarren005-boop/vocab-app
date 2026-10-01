@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Katydids.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Katydids.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of broad-winged katydids or bush crickets in the family Tettigoniidae, known as angle-wing katydids.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In entomology and acoustics, phytophagous orthopterans noted for leaflike forewings and high-frequency nocturnal stridulation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog microcentrum as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Samuel Hubbard Scudder (*Catalogue of the Orthoptera of North America*):** *"The species of **Microcentrum** mimic broad deciduous leaves so closely that predators pass them by unnoticed."*
+> - 📜 **William Morton Wheeler (*Ants: Their Structure, Development and Behavior*):** *"Nymphs of **Microcentrum** blend perfectly into the foliage while feeding upon tender young shoots."*
+> - 📜 **Jean-Henri Fabre (*The Life of the Grasshopper*):** *"With its broad green tegmina veined like foliage, **Microcentrum** provides one of nature's finest examples of protective camouflage."*

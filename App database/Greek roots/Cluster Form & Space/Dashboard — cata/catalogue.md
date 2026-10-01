@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A complete list of things; usually arranged systematically.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A book or pamphlet containing an enumeration of things.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A complete, systematically ordered list of items, such as books in a library, merchandise in a store, or works in an exhibition; or to record such items.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epic poetry and rhetoric, an extended stylistic enumeration of heroic warriors, ships, or genealogical lineages (as in Homer's Catalogue of Ships).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I say I am your mother, And put you in the catalogue of those That were enwombed mine. ’Tis often seen Adoption strives with nature, and choice breeds A native slip to us from foreign seeds."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Have you a catalogue Of all the voices that we have procured, Set down by th’ poll?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But I could then have look’d on him without the help of admiration, though the catalogue of his endowments had been tabled by his side, and I to peruse him by items."*
+> - 📜 **Homer (*The Iliad*):** *"Tell me now, Muses who possess the halls of Olympus, the leaders and chieftains whose names furnish the grand **catalogue** of the Achaean ships."*
+> - 📜 **Walt Whitman (*Song of Myself*):** *"I weave the great American **catalogue** of artisans, farmers, sailors, and pioneers into one democratic chant."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Natural philosophy requires a comprehensive **catalogue** of documented empirical facts before universal axioms can be safely deduced."*

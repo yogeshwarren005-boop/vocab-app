@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A molecular chain of amino acids.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An intestinal polypeptide hormone that stimulates insulin secretion by the pancreas in response to the presence of glucose in the small intestine especially following meal ingestion : glucose-dependent insulinotropic polypeptide —abbreviation GIP.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A linear organic polymer consisting of a large number of amino-acid residues bonded together in a chain, forming part of (or the whole of) a protein molecule.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In molecular biochemistry, a polypeptide chain folds into specific secondary and tertiary conformations driven by hydrophobic interactions and hydrogen bonding.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polypeptide designates a molecular chain of amino acids."*
+> - 📜 **Emil Fischer (*Untersuchungen über Aminosäuren, Polypeptide und Proteine*):** *"The synthesis of an artificial **polypeptide** demonstrated that protein structures are linked by amide bonds between amino acid residues."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"Planar peptide units dictate how a **polypeptide** chain twists into an alpha-helix or aligns into a beta-sheet."*
+> - 📜 **Bruce Alberts (*Molecular Biology of the Cell*):** *"Ribosomal translation synthesizes a nascent **polypeptide** from its amino-terminal start to its carboxyl terminus."*

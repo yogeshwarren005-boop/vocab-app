@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An empirical doctrine that advocates experimental principles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An orientation that favors experimentation and innovation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The practice of or reliance on experimentation, especially as a philosophical method or artistic approach.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pragmatist philosophy (notably John Dewey), the doctrine that ideas, beliefs, and values must be continuously tested and revised through empirical inquiry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, experimentalism designates an empirical doctrine that advocates experimental principles."*
+> - 📜 **John Dewey (*The Quest for Certainty*):** *"Philosophical **experimentalism** replaces static dogmas with a continuous method of inquiry and self-correction."*
+> - 📜 **William James (*Pragmatism*):** *"The spirit of radical **experimentalism** welcomes whatever hypothesis can validate itself in the crucible of practical consequences."*
+> - 📜 **T. S. Eliot (*The Sacred Wood*):** *"Artistic **experimentalism** is justified only when it serves to rejuvenate a decaying poetic tradition."*

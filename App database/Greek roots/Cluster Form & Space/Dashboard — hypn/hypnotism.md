@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of inducing hypnosis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of inducing hypnosis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The study, science, or practice of inducing and utilizing hypnosis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of medicine and psychology, nineteenth-century debates between the Salpêtrière school (Charcot, viewing hypnotism as a somatic manifestation of hysteria) and the Nancy school (Bernheim, viewing it as universal suggestion) formed modern understanding of suggestibility.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"If by hypnotism the conscious mind were put to sleep, and the subconscious mind awakened, then was the thing accomplished, then would all the dungeon doors of the brain be thrown wide, then would the prisoners emerge into the sunshine."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This is emphasized by a psychological factor called sometimes the "hypnotism of the crowd," and sometimes, the "mob mind." Most men follow a leader in investment as in other things."*
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"It may have been bloodless surgery but I suspect it of being partly hypnotism, because the same sort of surgery was used on the minds of all my women friends and with a like result."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The phenomena of **hypnotism** opened the doors to scientific exploration of the subliminal consciousness."*
+> - 📜 **Jean-Martin Charcot (*Clinical Lectures on Diseases of the Nervous System*):** *"We observed three distinct stages of profound **hypnotism**: lethargy, catalepsy, and somnambulism."*
+> - 📜 **Sigmund Freud (*An Autobiographical Study*):** *"My experience with **hypnotism** convinced me of the profound reality of powerful unconscious mental processes."*

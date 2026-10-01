@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to gustation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to gustation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the sense of taste; gustatory.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiological psychology and sensory anatomy, gustative pathways convey taste receptor potentials through the solitary tract to the primary gustatory cortex in the insula.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gustative designates of or relating to gustation."*
+> - 📜 **Hermann von Helmholtz (*Treatise on Physiological Optics*):** *"Specific nerve energy distinguishes the visual sensations of the retina from the **gustative** impulses of the lingual mucosa."*
+> - 📜 **Alexander Bain (*The Senses and the Intellect*):** *"The **gustative** sensibility acts as a chemical sentinel at the entrance of the alimentary canal."*
+> - 📜 **Herbert Spencer (*The Principles of Psychology*):** *"Higher cognitive discriminations evolve from primary visceral and **gustative** reflexes found in primitive invertebrates."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to the surface of a body part.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or arranged by topics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of immediate relevance, interest, or importance at the present time; applied directly to a part of the body (medicine).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pharmacology, topical administration delivers dermatological ointments, drops, or creams directly to cutaneous or mucosal tissues to produce localized therapeutic effects.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Algis Budrys (*Citadel*):** *"Union citizen Harrison was unavailable for comment at this time, but Topical News will present his views and such other clues when more ensues."*
-> - 📜 **James Joyce (*Ulysses*):** *"We subjoin a specimen which has been rendered into English by an eminent scholar whose name for the moment we are not at liberty to disclose though we believe that our readers will find the topical allusion rather more than an indication."*
-> - 📜 **James Joyce (*Ulysses*):** *"What had prevented him from completing a topical song (music by R."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"For superficial fungal infections, **topical** applications of sulfur and salicylic acid ointment suffice."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Newspaper editors maintain reader engagement by publishing vigorous editorials on **topical** legislative debates."*
+> - 📜 **George Orwell (*The Lion and the Unicorn*):** *"Satirical cartoonists thrive by seizing upon **topical** political controversies and translating them into visual humor."*

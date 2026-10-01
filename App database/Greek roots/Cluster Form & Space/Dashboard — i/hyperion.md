@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (greek mythology) a titan who was the son of gaea and uranus and the father of helios and selene and eos in ancient mythology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (greek mythology) a titan who was the son of gaea and uranus and the father of helios and selene and eos in ancient mythology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In Greek mythology, a Titan god of heavenly light, son of Uranus and Gaia, and father of Helios (the Sun), Selene (the Moon), and Eos (the Dawn); also, a sponge-like, chaotic moon of Saturn.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In astronomy, Hyperion (Saturn VII, discovered in 1848 by Bond and Lassell) is noted for its highly irregular shape, deeply cratered sponge-like surface, low density, and chaotic rotation driven by orbital resonance with Titan.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But two months dead—nay, not so much, not two: So excellent a king; that was to this Hyperion to a satyr; so loving to my mother, That he might not beteem the winds of heaven Visit her face too roughly."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And when thy car is loaden with their heads, I will dismount, and by the waggon-wheel Trot like a servile footman all day long, Even from Hyperion’s rising in the east Until his very downfall in the sea."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That were to enlard his fat-already pride, And add more coals to Cancer when he burns With entertaining great Hyperion."*
+> - 📜 **John Keats (*Hyperion*):** *"Deep in the shady sadness of a vale far sunken from the healthy breath of morn, sat gray-haired Saturn, while fallen **Hyperion** groaned in his fiery sphere."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"So excellent a king; that was, to this, **Hyperion** to a satyr; so loving to my mother that he might not beteem the winds of heaven visit her face too roughly."*
+> - 📜 **John Herschel (*Outlines of Astronomy*):** *"The discovery of the irregular satellite **Hyperion** added a strange, perturbing member to the Saturnian system."*

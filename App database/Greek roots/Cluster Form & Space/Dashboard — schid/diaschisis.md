@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek schid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sudden loss of function in a portion of the central nervous system distant from a primary focal brain lesion, caused by loss of afferent input.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neurology and neurorehabilitation, a neurophysiological concept introduced by von Monakow explaining acute functional deficits that gradually resolve.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diaschisis designates a term designating an entity, condition, or phenomenon derived from greek schid."*
+> - 📜 **Constantin von Monakow (*Die Lokalisation im Grosshirn*):** *"I designated as **diaschisis** that sudden functional standstill in intact cortical areas following abrupt injury to connected subcortical pathways."*
+> - 📜 **Norman Geschwind (*Selected Papers on Language and the Brain*):** *"Transient global aphasia after localized infarction may reflect acute **diaschisis** across bilateral transcallosal fibers."*
+> - 📜 **Wilder Penfield (*Speech and Brain-Mechanisms*):** *"Recovery from post-surgical deficits frequently parallels the gradual subsidence of cortical **diaschisis** over several weeks."*

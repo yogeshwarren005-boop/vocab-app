@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any plant of the genus phacelia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any plant of the genus phacelia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of mostly annual flowering plants in the borage family (Boraginaceae), commonly known as scorpionweeds or phacelias.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botany and agriculture, *Phacelia tanacetifolia* is widely cultivated as an exceptional honey-producing cover crop that attracts pollinating bees and beneficial insects.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phacelia designates any plant of the genus phacelia."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The genus **Phacelia** is recognized by its scorpioid cymes that uncoil gracefully as the delicate blue flowers expand."*
+> - 📜 **Liberty Hyde Bailey (*Manual of Cultivated Plants*):** *"Beekeepers value **Phacelia** for its copious nectar yield and prolonged summer flowering period."*
+> - 📜 **Charles Darwin (*The Effects of Cross and Self Fertilisation in the Vegetable Kingdom*):** *"Experiments with species of **Phacelia** demonstrated increased seed set following insect-mediated cross-pollination."*

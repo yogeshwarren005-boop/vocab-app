@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A librarian who classifies publication according to a categorial system.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A librarian who classifies publication according to a categorial system.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who creates, organizes, and maintains catalogs, especially a professional librarian who classifies, describes, and indexes bibliographic items.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In information science and museology, a specialist who standardizes metadata records, assigning controlled subject headings and call numbers to cultural collections.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cataloger designates a librarian who classifies publication according to a categorial system."*
+> - 📜 **Jorge Luis Borges (*The Library of Babel*):** *"An ambitious **cataloger** once registered thousands of hexagonal rooms, hoping to decipher the universal index of all knowledge."*
+> - 📜 **Virginia Woolf (*Orlando*):** *"The patient **cataloger** in the British Museum had spent twenty years indexing royal state papers without ever visiting the palace."*
+> - 📜 **Henry David Thoreau (*The Journal of Henry David Thoreau*):** *"Every true naturalist is a **cataloger** of nature's subtle appointments, recording the exact day when the wood thrush first sings."*

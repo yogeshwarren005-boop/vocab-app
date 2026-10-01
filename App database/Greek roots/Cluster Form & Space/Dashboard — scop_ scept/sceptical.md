@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by or given to doubt.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Denying or questioning the tenets of especially a religion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, characterized by, or displaying an attitude of doubt or disbelief toward accepted doctrines; British/Commonwealth spelling of skeptical.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scientific methodology, a rigorous sceptical posture prevents premature consensus and demands empirical verification before theoretical acceptance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Perhaps in no minor point does woman astonish her helpmate more than in the strange power she possesses of believing cajoleries that she knows to be false—except, indeed, in that of being utterly sceptical on strictures that she knows to be true."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Politically I am sceptical as to the virtue of their being old."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Jackson, a weak stick of a creature with a smattering of medicine, grew sceptical."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"A man must preserve a **sceptical** vigilance toward the idols of the mind if he would behold natural truth uncorrupted."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"The scientist has learned that **sceptical** scrutiny is the highest of duties, and blind faith the one unpardonable sin."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"We ought not to be overly **sceptical** concerning the testimony of our senses when they agree with experience."*

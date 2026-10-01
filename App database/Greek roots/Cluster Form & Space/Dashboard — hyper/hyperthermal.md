@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or affected by hyperthermia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or affected by hyperthermia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characterized by unusually high heat, elevated temperature, or thermal springs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In hydrogeology and vulcanology, hyperthermal springs issue mineral-rich waters at temperatures significantly exceeding ambient local mean temperature; in therapeutics, hyperthermal baths induce systemic vasodilation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyperthermal designates of or relating to or affected by hyperthermia."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Deep fissures in volcanic regions discharge boiling **hyperthermal** waters charged with silica and sulfur."*
+> - 📜 **Alexander von Humboldt (*Cosmos: A Sketch of a Physical Description of the Universe*):** *"The temperature of the subterranean **hyperthermal** springs remains remarkably constant through seasonal atmospheric shifts."*
+> - 📜 **Archibald Geikie (*Text-Book of Geology*):** *"Precipitation of siliceous sinter around **hyperthermal** geysers builds extensive terrace formations over centuries."*

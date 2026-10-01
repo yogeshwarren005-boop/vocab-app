@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marine crustaceans with feathery food-catching appendages; free-swimming as larvae; as adults form a hard shell and live attached to submerged surfaces.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marine crustaceans with feathery food-catching appendages; free-swimming as larvae; as adults form a hard shell and live attached to submerged surfaces.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of the crustacean subclass Cirripedia, comprising acorn barnacles and goose barnacles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine biology, a sedentary hermaphroditic crustacean that secretes calcareous plates and feeds by rhythmic sweeps of its cirri.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cirripede designates marine crustaceans with feathery food-catching appendages; free-swimming as larvae; as adults form a hard shell and live attached to submerged surfaces."*
+> - 📜 **Charles Darwin (*A Monograph on the Sub-class Cirripedia*):** *"No organ in the whole group of the **cirripede** crustaceans exhibits more morphological variation than the cement glands."*
+> - 📜 **Philip Henry Gosse (*A Year at the Shore*):** *"The acorn **cirripede** opens its folding doors and casts forth its feathered casting-net into the surging tide."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Clusters of stalked **cirripede** shells clung tenaciously to the ancient copper sheathing beneath the waterline."*

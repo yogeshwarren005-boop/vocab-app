@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Snapdragon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Snapdragon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of flowering herbaceous plants in the family Plantaginaceae, commonly known as snapdragons, with snout-shaped bilabiate flowers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical genetics and plant morphology, a premier model genus (notably Antirrhinum majus) used to elucidate floral organ identity genes and anthocyanin biosynthesis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antirrhinum designates snapdragon."*
+> - 📜 **Charles Darwin (*The Effects of Cross and Self Fertilisation in the Vegetable Kingdom*):** *"In **Antirrhinum**, the closed corolla yields only to heavy bumblebees whose weight forces open the lower lip of the petal."*
+> - 📜 **William Bateson (*Mendel's Principles of Heredity*):** *"Color inheritance in **Antirrhinum** provided early confirmation of Mendelian factor segregation and incomplete dominance in crosses."*
+> - 📜 **John Ruskin (*Proserpina*):** *"The curious throat of the garden **Antirrhinum** opens like a dragon's jaws when pinched by a child's fingers."*

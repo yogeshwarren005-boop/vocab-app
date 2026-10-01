@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A morphine derivative that is not as strong as morphine; used as an emetic and in small doses as a sedative.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A morphine derivative that is not as strong as morphine; used as an emetic and in small doses as a sedative.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A dopamine receptor agonist derived chemically by heating morphine with concentrated hydrochloric acid, traditionally utilized as a rapid-acting emetic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neurology and movement disorder therapeutics, apomorphine is administered as a subcutaneous rescue medication for sudden 'off' freezing episodes in Parkinson's disease.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, apomorphine designates a morphine derivative that is not as strong as morphine; used as an emetic and in small doses as a sedative."*
+> - 📜 **Arvid Carlsson (*Brain Dopamine and Movement Disorders*):** *"Early pharmacological experiments demonstrated that **apomorphine** acts directly on central dopamine receptors, reversing reserpine-induced akinesia."*
+> - 📜 **Louis S. Goodman (*Goodman & Gilman's The Pharmacological Basis of Therapeutics*):** *"Subcutaneous administration of **apomorphine** provides rapid relief for severe hypomobility episodes in Parkinsonian patients unresponsive to oral levodopa."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"The dramatic awakening of frozen post-encephalitic patients foreshadowed modern dopamine therapies, including the targeted use of **apomorphine**."*

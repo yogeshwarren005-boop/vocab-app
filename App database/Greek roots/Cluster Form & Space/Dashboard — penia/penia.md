@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Deficiency.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deficiency.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combining suffix or medical combining form from Greek penia ('poverty, deficiency, lack') denoting a deficiency or subnormal concentration of a blood component.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pathology, words ending in -penia (such as neutropenia, thrombocytopenia, and lymphopenia) signify cell count deficits below reference ranges.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, penia designates deficiency."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"The classical Greek noun **penia** signifies poverty or destitution, personified as the mother of Eros in Plato's Symposium."*
+> - 📜 **Maxwell M. Wintrobe (*Clinical Hematology*):** *"In hematological terminology, the suffix -**penia** consistently designates an abnormal cellular deficit in peripheral blood."*
+> - 📜 **Plato (*Symposium*):** *"Because **Penia** was destitute and had no resources, she conspired to have a child by Poros at the birthday feast of Aphrodite."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to teleology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to teleology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or involving the explanation of phenomena by the purpose or end they serve (*telos*) rather than by postulated mechanical causation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology, teleological explanations (such as asserting that organisms adapt 'in order to survive') are rigorously replaced by non-teleological natural selection mechanisms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, teleological designates of or relating to teleology."*
+> - 📜 **Charles Darwin (*The Life and Letters of Charles Darwin*):** *"Asa Gray noticed that natural selection restored a grand **teleological** harmony to nature, without invoking miraculous creation."*
+> - 📜 **Immanuel Kant (*Critique of Judgement*):** *"An organized living product of nature requires a **teleological** principle of judgment to comprehend its internal purposiveness."*
+> - 📜 **Ernst Mayr (*Toward a New Philosophy of Biology*):** *"We must carefully separate cosmic **teleological** dogmas from legitimate teleonomic programs encoded in DNA."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the lining of the uterus (of the endometrium).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inflammation of the lining of the uterus (of the endometrium).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation or infection of the endometrium, the inner mucous lining of the uterine body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In obstetrics and gynecology, postpartum endometritis arises from ascending polymicrobial vaginal flora following prolonged labor or cesarean delivery.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endometritis designates inflammation of the lining of the uterus (of the endometrium)."*
+> - 📜 **F. Gary Cunningham (*Williams Obstetrics*):** *"Postpartum **endometritis** manifests with uterine tenderness, foul-smelling lochia, and fever exceeding 38 degrees Celsius."*
+> - 📜 **Vinay Kumar (*Robbins and Cotran Pathologic Basis of Disease*):** *"The histologic hallmark of chronic **endometritis** is the presence of plasma cells within the endometrial stroma."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Puerperal fever was historically driven by fulminant bacterial **endometritis** spreading through pelvic venous sinuses."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extinct ground sloths.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extinct ground sloths.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of extinct giant ground sloths within the mammalian suborder Folivora.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate paleontology, endemic South American ground sloths that achieved massive body mass during the Neogene and Pleistocene, including Megatherium and Eremotherium.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, megatheriidae designates extinct ground sloths."*
+> - 📜 **Richard Owen (*Description of the Skeleton of an Extinct Gigantic Sloth*):** *"The family **Megatheriidae** encompasses the most gigantic mammalian quadrupeds ever discovered in South America."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"In **Megatheriidae**, the zygomatic arch sends a long, descending process down over the lower jaw."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Extinct pampean quadrupeds of the family **Megatheriidae** demonstrate the profound anatomical affinity between fossil and living South American edentates."*

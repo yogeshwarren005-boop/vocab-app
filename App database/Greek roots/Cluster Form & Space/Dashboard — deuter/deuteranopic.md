@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inability to see the color green or to distinguish green and purplish-red.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inability to see the color green or to distinguish green and purplish-red.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, affected with, or characteristic of deuteranopia (congenital green-blindness).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychophysics and visual displays, deuteranopic simulation algorithms assist in designing universally accessible graphic interfaces.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, deuteranopic designates inability to see the color green or to distinguish green and purplish-red."*
+> - 📜 **W. D. Wright (*Researches on Normal and Defective Colour Vision*):** *"The neutral point of a **deuteranopic** observer occurs near 498 nanometers, where green wavelengths appear completely achromatic."*
+> - 📜 **Edwin H. Land (*The Retinex Theory of Color Vision*):** *"Experiments with **deuteranopic** subjects demonstrate remarkable lightness constancy despite diminished spectral bandwidth."*
+> - 📜 **Robert M. Boynton (*Human Color Vision*):** *"Interface designers must account for **deuteranopic** vision when choosing contrasting traffic signal cues."*

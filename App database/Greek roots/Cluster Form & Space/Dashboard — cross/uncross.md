@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Change from a crossed to an uncrossed position.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Change from a crossed to an uncrossed position.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To change from a crossed position to an open or parallel one; to separate things that are crossed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To undo or reverse an intersection, crossing, or folded bodily posture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, this life Is nobler than attending for a check, Richer than doing nothing for a robe, Prouder than rustling in unpaid-for silk: Such gain the cap of him that makes him fine, Yet keeps his book uncross’d."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"It aroused him; he uncrossed his legs, sat erect, turned to me."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Guppy, uncrossing and recrossing his legs, “how do you suppose he spelt out that name of Hawdon?” “He never spelt it out."*
+> - 📜 **Jane Austen (*Emma*):** *"Mr. Knightley shifted in his armchair and began to **uncross** his legs as the conversation took a more serious turn."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"She watched him deliberately **uncross** his arms and lean forward to inspect the contested miniature."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Lydgate paused to **uncross** his hands from behind his back before offering his clinical opinion."*

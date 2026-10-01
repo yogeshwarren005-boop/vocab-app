@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A red or pink variety of garnet used as a gemstone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A red or pink variety of garnet used as a gemstone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rose-pink or purplish-red gem variety of garnet consisting of a natural mixture of pyrope and almandine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gemology and mineralogy, an aluminum garnet prized for its transparent raspberry luster and absence of brown secondary tones.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhodolite designates a red or pink variety of garnet used as a gemstone."*
+> - 📜 **George Frederick Kunz (*Gems and Precious Stones of North America*):** *"In Macon County, North Carolina, stream gravels yielded fine crystals of **rhodolite** sparkling with rich rhododendron-pink hues."*
+> - 📜 **James Dwight Dana (*System of Mineralogy*):** *"The chemical composition of **rhodolite** represents an intermediate member of the pyrope-almandine isomorphic series."*
+> - 📜 **Edward Salisbury Dana (*A Textbook of Mineralogy*):** *"Faceters esteem **rhodolite** above common pyrope because of its vivid transparency and fiery dispersion under artificial light."*

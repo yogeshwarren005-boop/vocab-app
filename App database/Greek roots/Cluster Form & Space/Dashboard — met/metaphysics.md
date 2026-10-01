@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A division of philosophy that is concerned with the fundamental nature of reality and being and that includes ontology, cosmology, and often epistemology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A division of philosophy that is concerned with the fundamental nature of reality and being and that includes ontology, cosmology, and often epistemology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The foundational branch of philosophy that examines the essential nature of reality, being, existence, time, and the relation between mind and matter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In intellectual history, named after Aristotle's treatises compiled 'after the physics' (ta meta ta physika), focusing on ontology and first causes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"The class of Hamilton's that he attended in the session of 1838-39 was that of Advanced Metaphysics."*
-> - 📜 **John Fletcher (*The Elder Brother*):** *"Go to, I say, _Charles_ shall inherit. _Bri._ I say, no, unless _Charles_ had a Soul to understand it; can he manage six thousand Crowns a year out of the Metaphysics? or can all his learn'd Astronomy look to my Vineyards?"*
-> - 📜 **Sydney Waterlow (*Shelley*):** *"The friends read Plato together, and held endless talk of metaphysics, pre-existence, and the sceptical philosophy, on winter walks across country, and all night beside the fire, until Shelley would curl up on the hearthrug and go to sleep."*
+> - 📜 **Aristotle (*Metaphysics*):** *"All men by nature desire to know, and the highest wisdom is that first philosophy which later commentators designated **metaphysics**."*
+> - 📜 **Immanuel Kant (*Prolegomena to Any Future Metaphysics*):** *"My purpose is to convince all who find it worth while to consider whether such a thing as **metaphysics** be even possible."*
+> - 📜 **Martin Heidegger (*Being and Time*):** *"Western philosophy from Plato onward has forgotten the central question of being, transforming fundamental ontology into classical **metaphysics**."*

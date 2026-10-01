@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: flatworm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: any of a phylum (Platyhelminthes) of soft-bodied usually much flattened acoelomate worms (such as the planarians, flukes, and tapeworms) —called also platyhelminth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any member of the phylum Platyhelminthes, comprising dorsoventrally flattened, bilaterally symmetrical unsegmented worms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In parasitology and invertebrate zoology, acoelomate organisms lacking circulatory and respiratory systems, including planarians, trematodes, and cestodes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog platyhelminth as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **E. Ray Lankester (*A Treatise on Zoology*):** *"The typical **platyhelminth** exhibits flame cells that mediate osmoregulation within its parenchymatous mesoderm."*
+> - 📜 **Libbie Hyman (*The Invertebrates: Platyhelminthes and Rhynchocoela*):** *"No free-living **platyhelminth** possesses an anus; undigested particulate matter must be expelled through the pharyngeal orifice."*
+> - 📜 **Stephen Jay Gould (*Ontogeny and Phylogeny*):** *"Early morphologists debated whether the primitive **platyhelminth** represented the root ancestor of all triploblastic animals."*

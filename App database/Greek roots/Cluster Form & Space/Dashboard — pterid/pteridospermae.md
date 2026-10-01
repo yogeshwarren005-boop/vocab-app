@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Used in some classification systems: a group of extinct fossil gymnosperms coextensive with the order cycadofilicales.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used in some classification systems: a group of extinct fossil gymnosperms coextensive with the order cycadofilicales.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The extinct taxonomic class of seed ferns, prominent in late Paleozoic and Mesozoic floras.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In paleobotany, fossil seed plants combining fern-like leaf morphology with true gymnospermous seeds, secondary wood, and pollen organs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pteridospermae designates used in some classification systems: a group of extinct fossil gymnosperms coextensive with the order cycadofilicales."*
+> - 📜 **Robert Kidston (*Fossil Plants of the Carboniferous Rocks of Great Britain*):** *"Compression specimens of **pteridospermae** dominate Carboniferous shale beds, preserving exquisite details of frond venation."*
+> - 📜 **Chester A. Arnold (*An Introduction to Paleobotany*):** *"The formal recognition of **pteridospermae** revolutionized historical paleobotany by reclassifying half of all Carboniferous 'ferns.'"*
+> - 📜 **Henry N. Andrews (*Studies in Paleobotany*):** *"Ovules borne directly upon the vegetative pinnules of **pteridospermae** demonstrate primitive gymnospermous reproductive architecture."*

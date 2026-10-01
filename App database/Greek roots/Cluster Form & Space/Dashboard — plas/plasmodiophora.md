@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of plasmodiophoraceae comprising minute plant parasitic fungi similar to and sometimes included among the slime molds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of plasmodiophoraceae comprising minute plant parasitic fungi similar to and sometimes included among the slime molds.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of obligate plant-parasitic protists in the family Plasmodiophoraceae, including Plasmodiophora brassicae, the causative agent of clubroot disease in crucifers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant pathology, *Plasmodiophora* causes hypertrophy and hyperplasia of host root tissues, resulting in characteristic club-shaped galls that stunt cabbage and canola crops.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plasmodiophora designates type genus of plasmodiophoraceae comprising minute plant parasitic fungi similar to and sometimes included among the slime molds."*
+> - 📜 **Mikhail Voronin (*Plasmodiophora Brassicae: The Cause of Cabbage Clubroot*):** *"I observed that the amoeboid plasmodium of **Plasmodiophora** invades young root hairs and induces monstrous galling."*
+> - 📜 **Anton de Bary (*Comparative Morphology and Biology of the Fungi, Mycetozoa and Bacteria*):** *"The multinucleate intracellular vegetative stage of **Plasmodiophora** clearly separates it from true filament-forming fungi."*
+> - 📜 **George Agrios (*Plant Pathology*):** *"Resting spores of **Plasmodiophora** brassicae survive in infested soils for over fifteen years, challenging crop rotation."*

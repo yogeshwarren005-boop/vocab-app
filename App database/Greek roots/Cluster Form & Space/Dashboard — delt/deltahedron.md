@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A deltahedron is a polyhedron whose faces are all equilateral triangles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The deltahedron was named by Martyn Cundy, after the Greek capital letter delta resembling a triangular shape Δ..
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A polyhedron whose faces are all congruent equilateral triangles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geometry and structural chemistry, there exist exactly eight convex deltahedra, including the regular tetrahedron, octahedron, and icosahedron.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, deltahedron designates a deltahedron is a polyhedron whose faces are all equilateral triangles."*
+> - 📜 **H. S. M. Coxeter (*Regular Polytopes*):** *"Any convex **deltahedron** must possess triangular faces meeting at vertices with valence between three and five."*
+> - 📜 **Branko Grünbaum (*Convex Polytopes*):** *"The classification of every convex **deltahedron** forms a fundamental chapter in the metric study of triangulated surfaces."*
+> - 📜 **Norman Johnson (*Convex Polyhedra with Regular Faces*):** *"Beyond the Platonic solids, five non-regular deltahedra complete the set of strictly convex **deltahedron** forms."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Warthogs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Warthogs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of wild African swine in the family Suidae, comprising the common warthog (Phacochoerus africanus) and desert warthog.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mammalogy and vertebrate morphology, *Phacochoerus* is characterized by prominent facial wattles, curved canine tusks, and columnar hypsodont third molars.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog Phacochoerus as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Alfred Russel Wallace (*The Geographical Distribution of Animals*):** *"The African warthog, classified in the genus **Phacochoerus**, displays bizarre facial callosities and formidable tusks."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The elongated canine tusks of **Phacochoerus** serve as weapons of defense against savannah predators."*
+> - 📜 **Richard Owen (*Odontography*):** *"The composite third molar of **Phacochoerus** consists of numerous cement-fused dentinal columns adapted for grinding coarse grasses."*

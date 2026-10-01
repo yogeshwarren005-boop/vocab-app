@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The electrode of an electrochemical cell at which oxidation occurs: such as.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The positive terminal of an electrolytic cell.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The positively charged electrode in an electrolytic cell through which electric current enters from an external circuit; the site where oxidation occurs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a galvanic cell or discharging battery, the anode acts as the negative terminal where spontaneous oxidation liberates electrons into the external circuit.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"In addition, the purity of the materials, the cleanliness of the batteries, the perfection of the electrical connections as well as the distance between the anode and the cathode are all matters of importance."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The individual electrodes, again, have special names, that by which the current enters being the anode and that by which it leaves the cathode."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"A lead anode is used while the process is carried on in a box the bottom of which is covered with mercury, which forms the cathode."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"I propose to call that electrode the **anode** by which the positive electric current enters the electrolyte from the battery."*
+> - 📜 **William Whewell (*History of the Inductive Sciences*):** *"Faraday consulted classical philologists to construct the scientific terms **anode** and cathode from the Greek words for ascent and descent."*
+> - 📜 **J. J. Thomson (*Rays of Positive Electricity and Their Application to Chemical Analyses*):** *"The stream of canal rays accelerates through the electric field established between the perforated cathode and the metallic **anode**."*

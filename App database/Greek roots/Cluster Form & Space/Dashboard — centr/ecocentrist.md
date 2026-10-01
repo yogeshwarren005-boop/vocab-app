@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek centr.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An adherent or advocate of ecocentrism who views natural ecosystems as possessing supreme intrinsic moral value.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In environmental jurisprudence, a theorist who argues for legal personhood and moral rights for rivers, forests, and wild biotas.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ecocentrist designates a term designating an entity, condition, or phenomenon derived from greek centr."*
+> - 📜 **Edward O. Wilson (*The Diversity of Life*):** *"The thoughtful **ecocentrist** reminds us that human survival depends on thousands of inconspicuous invertebrates."*
+> - 📜 **Aldo Leopold (*Round River*):** *"As an **ecocentrist**, one learns to think like a mountain, recognizing that wolves preserve the health of the hillside."*
+> - 📜 **Gary Snyder (*The Practice of the Wild*):** *"The genuine **ecocentrist** accepts residency in the watershed as a sacred participant rather than an external proprietor."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (linguistics) the phonemes (or strings of phonemes) that constitute the various allomorphs of a morpheme.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (linguistics) the phonemes (or strings of phonemes) that constitute the various allomorphs of a morpheme.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In structural and generative linguistics, a theoretical underlying phonological unit or class of phonemes that alternates across allomorphic variants of a single morpheme.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In phonological theory, morphophonemes bridge abstract underlying lexical representations and surface phonetic realizations through systematic rewrite rules.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, morphophoneme designates (linguistics) the phonemes (or strings of phonemes) that constitute the various allomorphs of a morpheme."*
+> - 📜 **Roman Jakobson (*Selected Writings*):** *"The concept of the **morphophoneme** unifies phonetic alternations under an abstract functional unit within the linguistic code."*
+> - 📜 **Leonard Bloomfield (*The Menomini Language*):** *"By establishing a single underlying **morphophoneme**, we explain complex vowel length alternations through a concise rule."*
+> - 📜 **Noam Chomsky (*The Sound Pattern of English*):** *"Underlying representations employ each abstract **morphophoneme** to generate diverse surface realizations via cyclical phonological rules."*

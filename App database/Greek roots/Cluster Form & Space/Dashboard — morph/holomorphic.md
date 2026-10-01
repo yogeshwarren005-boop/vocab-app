@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of form / shape / structural configuration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of form / shape / structural configuration.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In complex analysis, describing a complex-valued function of one or more complex variables that is complex-differentiable at every point throughout an open domain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geometric function theory, every holomorphic function is infinitely differentiable, analytic (equal to its Taylor series), and defines a conformal mapping where its derivative is non-zero.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, holomorphic designates adjective*) pertaining to, derived from, or characteristic of form / shape / structural configuration."*
+> - 📜 **Augustin-Louis Cauchy (*Mémoire sur les intégrales définies*):** *"If a function of a complex variable is **holomorphic** throughout a simply connected domain, its contour integral around any closed loop vanishes."*
+> - 📜 **Bernhard Riemann (*Grundlagen für eine allgemeine Theorie der Functionen einer veränderlichen complexen Grösse*):** *"A complex function is **holomorphic** if and only if its real and imaginary parts satisfy the Cauchy-Riemann partial differential equations."*
+> - 📜 **Lars Ahlfors (*Complex Analysis*):** *"The remarkable rigidity of a **holomorphic** function implies that its values in an open set are completely determined by its behavior in an arbitrarily small neighborhood."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek typ.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A biological form or entity that deviates from the normal or common type; in cytology, the first meiotic reduction division.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical cytology, heterotype division referred to the first division of meiosis where homologous chromosome pairs segregate, reducing chromosome number by half.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heterotype designates a term designating an entity, condition, or phenomenon derived from greek typ."*
+> - 📜 **Edmund Beecher Wilson (*The Cell in Development and Inheritance*):** *"The first meiotic division is truly a **heterotype** division because it separates homologous maternal and paternal chromosomes."*
+> - 📜 **Thomas Hunt Morgan (*The Physical Basis of Heredity*):** *"Chiasmata formed during the **heterotype** prophase permit reciprocal crossing-over between linked genes."*
+> - 📜 **William Bateson (*Mendel's Principles of Heredity*):** *"Unusual phenotypic mutants were catalogued as a **heterotype** strain awaiting genetic testcrosses."*

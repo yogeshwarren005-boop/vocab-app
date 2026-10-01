@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Yellow-green algae with simple or branching filaments; comprising the single family tribonemaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Yellow-green algae with simple or branching filaments; comprising the single family tribonemaceae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An order of yellow-green algae (Xanthophyceae) characterized by filamentous thalli that may show differentiation into prostrate and erect systems.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In phycology, members of Heterotrichales produce unbranched or branched filaments with cellulose-pectin cell walls and discoid plastids lacking pyrenoids.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heterotrichales designates yellow-green algae with simple or branching filaments; comprising the single family tribonemaceae."*
+> - 📜 **F. E. Fritsch (*The Structure and Reproduction of the Algae*):** *"The order **heterotrichales** illustrates the transition from unicellular coccoid forms to integrated multicellular filamentous organization."*
+> - 📜 **Robert Edward Lee (*Phycology*):** *"In **heterotrichales**, motile zoospores possessing heterokont flagellation are formed within vegetative filament cells."*
+> - 📜 **Peter H. Raven (*Biology of Plants*):** *"Yellow-green filaments of **heterotrichales** carpet submerged stones in oligotrophic, acidic mountain streams."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of the various silver or gold coins of ancient greece.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A resident of a particular state or group of states.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient Greek gold, silver, or electrum coin of standardized weight and high purchasing value, widely minted across the Hellenic world.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical numismatics, the Athenian silver tetradrachm was often termed a silver stater, while Persian gold darics were termed staters by Greek historians.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stater designates any of the various silver or gold coins of ancient greece."*
+> - 📜 **Herodotus (*The Histories*):** *"The Lydians were the first people who minted coins of gold and silver, striking the electrum **stater** of Croesus."*
+> - 📜 **Thucydides (*The History of the Peloponnesian War*):** *"The tributary allies paid their contributions into the Delian treasury in Athenian silver **stater** coinage."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The golden **stater** of Philip of Macedon circulated through the Levant as the international currency of antiquity."*

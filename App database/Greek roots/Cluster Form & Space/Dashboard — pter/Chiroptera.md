@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: bat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: bat.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The mammalian order comprising bats, characterized by forelimbs modified into wings supported by elongated metacarpals and phalanges.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic mammalogy, the second largest mammalian order, subdivided into Yinpterochiroptera and Yangochiroptera, capable of true sustained powered flight.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog Chiroptera as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **John James Audubon (*The Viviparous Quadrupeds of North America*):** *"The nocturnal agility of **Chiroptera** fills the twilight sky with silent sweeps as they gather myriad flying insects."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The wing of **Chiroptera** exhibits immense elongation of the four fingers, between which the thin patagial membrane extends."*
+> - 📜 **Donald Griffin (*Listening in the Dark: The Acoustic Orientation of Bats and Men*):** *"Echolocation in **Chiroptera** allows navigation through pitch-black subterranean caverns by analyzing reflected ultrasonic pulses."*

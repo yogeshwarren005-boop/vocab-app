@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: center.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: center.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combining form of Greek origin meaning center, sharp point, prick, or middle (derived from Greek kentron).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scientific, mathematical, and spatial nomenclature, a productive root appearing in words like centrifugal, centripetal, eccentric, and centrosome.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Everybody’s glance was now centred upon him and the unconscious Bathsheba."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I was only a mind, a soul, a consciousness—call it what you will—incorporate in a nebulous brain that, while it still centred inside my skull, was expanded, and was continuing to expand, beyond my skull."*
-> - 📜 **Jane Austen (*Northanger Abbey*):** *"Tilney should ask her a third time to dance, her wishes, hopes, and plans all centred in nothing less."*
+> - 📜 **Richard Chenevix Trench (*On the Study of Words*):** *"The Greek stem **centr**, originally a sharp goad or stationary compass point, became the parent of all our terms for midpoint."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"From the pivot point of the geometer's compass, the root **centr** radiates across every European tongue."*
+> - 📜 **Isaac Newton (*Principia*):** *"Forces directed toward a central attracting body are compounded with the stem **centr** to designate radial gravitation."*

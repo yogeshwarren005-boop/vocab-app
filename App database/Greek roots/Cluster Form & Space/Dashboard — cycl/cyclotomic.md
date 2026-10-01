@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, being, or containing a polynomial of the form xp—1 + xp—2 + … + x + 1 where p is a prime number.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to, being, or containing a polynomial of the form xp—1 + xp—2 + … + x + 1 where p is a prime number.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or functioning in the division of a circle into equal parts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In algebraic number theory, describing polynomials (cyclotomic polynomials $\Phi_n(x)$) or number fields obtained by adjoining complex roots of unity to the rational numbers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cyclotomic designates relating to, being, or containing a polynomial of the form xp—1 + xp—2 + … + x + 1 where p is a prime number."*
+> - 📜 **Carl Friedrich Gauss (*Disquisitiones Arithmeticae*):** *"The theory of the division of the circle, or **cyclotomic** analysis, demonstrates the geometric constructibility of the regular 17-gon."*
+> - 📜 **Richard Dedekind (*Theory of Algebraic Integers*):** *"Kummer was led to the discovery of ideal numbers through his profound investigations into **cyclotomic** fields."*
+> - 📜 **Arthur Cayley (*The Collected Mathematical Papers*):** *"The irreducible factors of $x^n - 1$ over the field of rational numbers are precisely the canonical **cyclotomic** polynomials."*

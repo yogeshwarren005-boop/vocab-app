@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek morph.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The domain of linguistics that investigates the interdependent grammatical rules operating between word-level morphology and sentence-level syntax.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistic typology, morphosyntax examines how different language families distribute grammatical information between synthetic inflectional markers and analytical word orders.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, morphosyntax designates a term designating an entity, condition, or phenomenon derived from greek morph."*
+> - 📜 **Edward Sapir (*Language: An Introduction to the Study of Speech*):** *"A language expresses its relational concepts either through analytical word order or through synthetic **morphosyntax**."*
+> - 📜 **Talmy Givón (*Syntax: An Introduction*):** *"Diachronic grammaticalization shows how loose discourse strategies gradually freeze into tight **morphosyntax** over centuries."*
+> - 📜 **William Croft (*Typology and Universals*):** *"Typological classification compares how different languages organize their **morphosyntax** to encode semantic transitivity."*

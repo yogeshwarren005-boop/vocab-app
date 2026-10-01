@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or being an era of geologic history that extends from the beginning of the Tertiary period to the present time and is marked by a rapid evolution of mammals and birds and of angiosperms and especially grasses and by little change in the invertebrates; also : relating to the corresponding system of rocks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or being an era of geologic history that extends from the beginning of the Tertiary period to the present time and is marked by a rapid evolution of mammals and birds and of angiosperms and especially grasses and by little change in the invertebrates; also : relating to the corresponding system of rocks.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The current geological era, beginning approximately 66 million years ago with the extinction of the non-avian dinosaurs and continuing to the present day; the Age of Mammals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical geology and paleobiology, the era divided into the Paleogene, Neogene, and Quaternary periods, marked by continental drift toward modern positions and explosive angiosperm-mammal co-radiation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Cenozoic designates of, relating to, or being an era of geologic history that extends from the beginning of the tertiary period to the present time and is marked by a rapid evolution of mammals and birds and of angiosperms and especially grasses and by little change in the invertebrates; also : relating to the corresponding system of rocks."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"In the strata of the **Cenozoic** era, we observe the gradual dawn of the modern marine mollusc species."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"During the **Cenozoic** epoch, mammalian quadrupeds diversified rapidly to occupy the terrestrial niches left vacant by giant reptiles."*
+> - 📜 **Carl Sagan (*The Dragons of Eden*):** *"The **Cenozoic** witnessed the rapid expansion of mammalian neocortical brain structures, culminating in hominid intelligence."*

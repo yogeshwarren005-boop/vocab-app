@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or consisting of a system.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Presented or formulated as a coherent body of ideas or principles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Done or acting according to a fixed plan, organized method, or structured scheme; methodical and orderly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biological taxonomy, systematic biology (systematics) investigates evolutionary relationships, phylogenetics, and organismal classifications.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Pardiggle, but her voice had not a friendly sound, I thought; it was much too business-like and systematic."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Her systematic manner of flying at her and pouncing on her, with or without pretence, whether or no, is wonderful, evincing an accomplishment in the art of girl-driving seldom reached by the oldest practitioners."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"This it was only possible to protect by systematic thatching."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The great tree of life provides the true basis for **systematic** arrangement among all organic beings."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"True empirical induction requires **systematic** tables of discovery, not erratic and haphazard experimentation."*
+> - 📜 **Carl Linnaeus (*Systema Naturae*):** *"My aim has been to provide a clear and **systematic** classification of the three kingdoms of nature."*

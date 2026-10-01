@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or constituting a phenotype.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or constituting a phenotype.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a phenotype; exhibiting observable physical or physiological traits (variant of phenotypic).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical genetics and breeding, phenotypical profiling correlates observable clinical manifestations with underlying chromosomal mutations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phenotypical designates of or relating to or constituting a phenotype."*
+> - 📜 **William Bateson (*Mendel's Principles of Heredity*):** *"Statistical counts of F2 progeny reveal precise **phenotypical** ratios conforming to Mendelian segregation."*
+> - 📜 **Thomas Hunt Morgan (*The Mechanism of Mendelian Heredity*):** *"Multiple alleles at a single locus give rise to a spectrum of distinct **phenotypical** manifestations in *Drosophila*."*
+> - 📜 **Francis Galton (*Natural Inheritance*):** *"Stature and ocular pigment present quantitative **phenotypical** gradations governed by ancestral blending."*

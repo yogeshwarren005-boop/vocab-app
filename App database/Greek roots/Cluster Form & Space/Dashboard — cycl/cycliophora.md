@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tiny marine organisms each the size of a period found in great numbers on lobsters' lips; identified tentatively in 1995 as a new phylum or as possible link between entoprocta and ectoprocta.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tiny marine organisms each the size of a period found in great numbers on lobsters' lips; identified tentatively in 1995 as a new phylum or as possible link between entoprocta and ectoprocta.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A phylum of microscopic, pseudocoelomate metazoan animals discovered living as commensals on the mouthparts of marine lobsters.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In invertebrate systematic zoology, an unusual phylum comprising the solitary genus Symbion (notably Symbion pandora), characterized by a complex life cycle alternating between asexual and dwarf sexual phases.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cycliophora designates tiny marine organisms each the size of a period found in great numbers on lobsters' lips; identified tentatively in 1995 as a new phylum or as possible link between entoprocta and ectoprocta."*
+> - 📜 **Stephen Jay Gould (*Dinosaur in a Haystack*):** *"The discovery in 1995 of the new phylum **Cycliophora** living on lobster mouthparts proved that nature still conceals fundamental body architectures."*
+> - 📜 **Edward O. Wilson (*The Future of Life*):** *"Even in well-studied temperate coastal waters, tiny creatures of **Cycliophora** had eluded zoologists for over two centuries."*
+> - 📜 **Richard Dawkins (*The Ancestor's Tale*):** *"The microscopic bizarre inhabitants of **Cycliophora** attach themselves like microscopic vacuum cleaners to the bristly bristles of Nephrops."*

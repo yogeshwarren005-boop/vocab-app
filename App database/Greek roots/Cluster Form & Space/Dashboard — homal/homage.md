@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Respectful deference.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Respectful deference.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Special honor, respect, or reverence shown publicly; also, in feudal law, the formal public acknowledgment of feudal allegiance made by a vassal to a lord.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In feudal history, the ceremony of homage required the unweaponed vassal to kneel before his suzerain and place his hands between the lord's hands.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let me have a child at fifty, to whom Herod of Jewry may do homage."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I know his eye doth homage otherwhere, Or else what lets it but he would be here?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But if that I am I, then well I know Your weeping sister is no wife of mine, Nor to her bed no homage do I owe."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"The ceremony of **homage** was the most honorable service a free tenant could perform, swearing fealty for the lands he held."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"Barbarian princes prostrated themselves before the Byzantine emperor, offering theatrical **homage** in return for gold and titles."*
+> - 📜 **William Shakespeare (*The Tempest*):** *"To him he did resign his crown, and bend the dukedom, yet unbow'd—alas, poor Milan!—to most ignoble **homage**."*

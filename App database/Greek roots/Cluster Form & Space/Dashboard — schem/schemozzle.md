@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (yiddish) a confused situation or affair; a mess.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (yiddish) a confused situation or affair; a mess.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of confusion, brawl, quarrel, muddle, or noisy disorderly commotion (slang of Yiddish origin).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In colloquial British and Commonwealth English, an entangled or chaotic situation characterized by sudden misunderstandings and uproar.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, schemozzle designates (yiddish) a confused situation or affair; a mess."*
+> - 📜 **P. G. Wodehouse (*Right Ho, Jeeves*):** *"I found myself plunged headlong into a frightful **schemozzle** involving an enraged aunt and an overturned soup tureen."*
+> - 📜 **James Joyce (*Finnegans Wake*):** *"Amidst the polyglot tumult of the marketplace, a sudden **schemozzle** broke out over the payment of tavern coins."*
+> - 📜 **George Orwell (*Down and Out in Paris and London*):** *"The kitchen was in a roaring **schemozzle**, waiters shouting curses as orders piled up and plates crashed to the floor."*

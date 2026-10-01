@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of house.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of house.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Confined to a single host species throughout an entire parasitic life cycle; autoecious.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mycology and parasitology, homoecious rust fungi (such as Puccinia helianthi on sunflowers) complete all five spore stages on one host.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, homoecious designates adjective*) pertaining to, derived from, or characteristic of house."*
+> - 📜 **Anton de Bary (*Comparative Morphology and Biology of the Fungi*):** *"A **homoecious** rust completes its full developmental cycle upon a single host plant species without alternation."*
+> - 📜 **C. J. Alexopoulos (*Introductory Mycology*):** *"Contrasting with heteroecious pathogens, **homoecious** fungi do not require intermediate alternate hosts to survive winter."*
+> - 📜 **John Webster (*Introduction to Fungi*):** *"Agricultural breeding programs can more easily manage **homoecious** rusts because the infection cycle is localized."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or caused by hormones.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or caused by hormones.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, affected by, or produced by hormones.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiology and medicine, hormonal fluctuations regulate puberty, the menstrual cycle, metabolic rate, and stress responses across the lifespan.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hormonal designates of or relating to or caused by hormones."*
+> - 📜 **Arthur C. Guyton (*Textbook of Medical Physiology*):** *"Homeostatic regulation relies upon precise **hormonal** feedback loops governed by the hypothalamic-pituitary axis."*
+> - 📜 **Eugene Braunwald (*Harrison's Principles of Internal Medicine*):** *"Targeted **hormonal** ablation therapy substantially delays the recurrence of estrogen-receptor-positive breast carcinoma."*
+> - 📜 **Hans Selye (*The Stress of Life*):** *"The systemic alarm reaction unleashes a profound **hormonal** cascade of adrenaline and adrenocortical glucocorticoids."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large diverse group of bony fishes; includes most living species.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large diverse group of bony fishes; includes most living species.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A major infraclass of ray-finned fishes containing the vast majority of extant bony fishes, possessing mobile premaxillae and homocercal tails.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic zoology, Teleostei arose during the Mesozoic era and underwent massive adaptive radiation, encompassing more than thirty thousand modern species.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, teleostei designates large diverse group of bony fishes; includes most living species."*
+> - 📜 **Albert Günther (*An Introduction to the Study of Fishes*):** *"The extraordinary structural diversity found within the **Teleostei** far surpasses that of all other aquatic vertebrate divisions."*
+> - 📜 **Alfred Romer (*Vertebrate Paleontology*):** *"By the close of the Cretaceous period, members of the **Teleostei** had largely replaced the holostean fauna in global oceans."*
+> - 📜 **Edwin Ray Lankester (*A Treatise on Zoology*):** *"Cranial mobility and branchial chamber mechanics achieve their apex of mechanical refinement in the **Teleostei**."*

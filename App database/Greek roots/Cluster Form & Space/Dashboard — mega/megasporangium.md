@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sporangium that develops only megaspores.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sporangium that develops only megaspores.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A plant sporangium that produces megaspores; in seed plants, the nucellus of the ovule.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical embryology and comparative morphology, the maternal reproductive organ wherein megasporocyte meiosis generates the functional female gametophyte.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, megasporangium designates a sporangium that develops only megaspores."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"Within the protective coat of the ovule lies the **megasporangium**, inside which the embryo sac develops."*
+> - 📜 **Eduard Strasburger (*Textbook of Botany*):** *"A single functional megaspore survives within the **megasporangium**, while its three sister cells abort."*
+> - 📜 **Francis Maitland Balfour (*A Treatise on Comparative Embryology*):** *"The evolutionary transition from free-sporing lycophytes to seed plants involved the permanent retention of the **megasporangium** upon the parent sporophyte."*

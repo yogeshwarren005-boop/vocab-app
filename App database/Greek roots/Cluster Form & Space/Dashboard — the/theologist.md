@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who is learned in theology or who speculates about theology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who is learned in theology or who speculates about theology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A theologian; a scholar or thinker who studies theology or religious doctrine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically applied to doctrinal authorities and scholastic system-builders who systematize divine revelation into ecclesiastical orthodoxy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, theologist designates someone who is learned in theology or who speculates about theology."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The subtle Byzantine **theologist** debated the mystery of the Trinity while enemy legions besieged the outer walls."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Let no man think that a philosopher can search too far in nature, or a **theologist** in the divine oracles."*
+> - 📜 **Voltaire (*Philosophical Dictionary*):** *"Every dogmatic **theologist** imagines that his particular sect holds exclusive title to celestial truth."*

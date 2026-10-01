@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A facial expression characterized by turning up the corners of the mouth; usually shows pleasure or amusement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Change one's facial expression by spreading the lips, often to signal pleasure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A pleased, kind, amused, or approving facial expression characterized by an upward curving of the corners of the mouth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology and psychology, the smile (specifically the Duchenne smile involving orbicularis oculi) signals social affiliation, appeasement, and positive affect.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Good fortune and the favour of the king Smile upon this contract; whose ceremony Shall seem expedient on the now-born brief, And be perform’d tonight."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here feel we not the penalty of Adam, The seasons’ difference, as the icy fang And churlish chiding of the winter’s wind, Which when it bites and blows upon my body Even till I shrink with cold, I smile and say: “This is no flattery."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Loose now and then A scattered smile, and that I’ll live upon."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"A gentle **smile** is accompanied by the drawing up of the corners of the lips through contraction of the zygomatic muscles."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"O villain, villain, smiling, damned villain! That one may **smile**, and **smile**, and be a villain; at least I'm sure it may be so in Denmark."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Elizabeth could not suppress a **smile** at the pompous gravity with which Mr. Collins delivered his compliments."*

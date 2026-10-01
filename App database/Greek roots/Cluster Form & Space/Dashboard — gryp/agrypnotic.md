@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or pertaining to agrypnia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or pertaining to agrypnia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Promoting wakefulness; preventing or counteracting sleep; stimulant or somnifugous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacology, an agrypnotic substance (such as caffeine or modafinil) stimulates cortical arousal networks to stave off fatigue.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, agrypnotic designates of or pertaining to agrypnia."*
+> - 📜 **Jonathan Pereira (*The Elements of Materia Medica and Therapeutics*):** *"Strong infusions of Camellia sinensis exert a marked **agrypnotic** effect upon students studying through the night."*
+> - 📜 **William Osler (*Aequanimitas*):** *"He relied on coffee as a gentle **agrypnotic**, sustaining concentration through long hours of hospital duty."*
+> - 📜 **Laurence L. Brunton (*Goodman & Gilman's The Pharmacological Basis of Therapeutics*):** *"Central stimulants act as **agrypnotic** agents by blocking adenosine receptors in sleep-promoting nuclei."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or at or relating to an anode.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or at or relating to an anode.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, situated at, or directed toward the anode in an electrochemical cell, cathode-ray tube, or electronic circuit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In electrochemistry and neurostimulation, anodal current depolarizes neuronal membranes beneath the positive electrode, increasing cellular excitability.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anodal designates of or at or relating to an anode."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"Electrolytic decomposition releases chlorine and oxygen at the **anodal** surface of the platinum wire."*
+> - 📜 **J. J. Thomson (*Conduction of Electricity through Gases*):** *"Perforations in the cathode allow positive rays to stream away from the **anodal** region into the observation tube."*
+> - 📜 **Svante Arrhenius (*Immunochemistry*):** *"Positively charged metal ions migrate away from the **anodal** zone during continuous electrophoretic separation."*

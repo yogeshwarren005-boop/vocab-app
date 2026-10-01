@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of carangidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of carangidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of deep-bodied, silvery marine carangid fishes comprising the pompanos and permits.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine ichthyology, *Trachinotus* species inhabit warm surf zones and coastal reefs, celebrated as premier game and food fishes prized for delicate flesh.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trachinotus designates a genus of carangidae."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"The Florida pompano, *Trachinotus carolinus*, represents the most delectable table fish belonging to the genus **Trachinotus**."*
+> - 📜 **Albert Günther (*Catalogue of the Fishes in the British Museum*):** *"The genus **Trachinotus** is recognized by its compressed rhomboidal body, short snout, and spinous dorsal fin."*
+> - 📜 **Spencer Fullerton Baird (*Report on the Condition of the Sea Fisheries*):** *"Schools of **Trachinotus** migrate along Atlantic sandy beaches feeding upon small bivalves and coquina clams."*

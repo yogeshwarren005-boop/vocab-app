@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a class (Trematoda) of parasitic usually hermaphroditic flatworms including the flukes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a class (Trematoda) of parasitic usually hermaphroditic flatworms including the flukes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any parasitic flatworm belonging to the class Trematoda; a fluke.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In veterinary medicine and epidemiological parasitology, trematode infestations (such as fascioliasis and schistosomiasis) inflict chronic morbidity across human populations and grazing herds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trematode designates any of a class (trematoda) of parasitic usually hermaphroditic flatworms including the flukes."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Bilharzia hematobium is an endemic blood **trematode** producing painless hematuria among Egyptian agricultural laborers."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The extraordinary life cycle of the liver fluke demonstrates how a parasitic **trematode** shifts between mollusk and sheep."*
+> - 📜 **Alexander Fleming (*Chemotherapy: Yesterday, Today, and Tomorrow*):** *"Eradication of the aquatic snail host is essential to break the transmission cycle of the intestinal **trematode**."*

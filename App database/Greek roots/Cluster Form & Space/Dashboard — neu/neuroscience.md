@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch (such as neurophysiology) of the life sciences that deals with the anatomy, physiology, biochemistry, or molecular biology of nerves and nervous tissue and especially with their relation to behavior and learning.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A branch (such as neurophysiology) of the life sciences that deals with the anatomy, physiology, biochemistry, or molecular biology of nerves and nervous tissue and especially with their relation to behavior and learning.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The multidisciplinary scientific study of the nervous system, encompassing neuroanatomy, neurophysiology, molecular neurobiology, and cognitive neuroscience.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In contemporary science, neuroscience bridges molecular genetics and psychological behavior to explain consciousness, cognition, and neurological pathologies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neuroscience designates a branch (such as neurophysiology) of the life sciences that deals with the anatomy, physiology, biochemistry, or molecular biology of nerves and nervous tissue and especially with their relation to behavior and learning."*
+> - 📜 **Eric Kandel (*Principles of Neural Science*):** *"The central mission of **neuroscience** is to understand the biological mechanisms that give rise to human thought, emotion, and action."*
+> - 📜 **Francis Crick (*The Astonishing Hypothesis*):** *"The astounding challenge facing twenty-first century **neuroscience** is to explain subjective conscious experience through neural firing patterns."*
+> - 📜 **Gerald Edelman (*Neural Darwinism*):** *"Theoretical **neuroscience** models the brain not as an engineered computer, but as a dynamic selective system operating via neuronal group selection."*

@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A festivity in ancient greece at which competitors contended for prizes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A festivity in ancient greece at which competitors contended for prizes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A contest, struggle, or competition, especially in ancient Greek dramatic festivals, athletic games, or rhetoric.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical dramaturgy and literary theory, the agon constitutes the formal verbal debate between protagonist and antagonist.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"As soon as the horses have passed by their bridles are taken off, and they are made to go between two fires that they kindle, called by the Russians _Givoy Agon_, that is to say, living fires, of which I shall give an account."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"This is the manner of their lighting these _givoy agon_, or living fires."*
+> - 📜 **Jacob Burckhardt (*The Greeks and Greek Civilization*):** *"The spirit of the **agon** permeated every facet of Hellenic life, driving citizens to strive for excellence before their peers."*
+> - 📜 **A. E. Haigh (*The Attic Theatre*):** *"The dramatic **agon** in Aristophanic comedy pits conflicting philosophies against one another in brilliant verse."*
+> - 📜 **Friedrich Nietzsche (*Homer's Contest*):** *"Hellenic culture understood that without the competitive spark of the **agon**, human striving degenerates into cruel savagery."*

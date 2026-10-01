@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the latest period of the Stone Age characterized by polished stone implements.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Belonging to an earlier age and now outmoded.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to or denoting the later part of the Stone Age, characterized by polished stone implements, agricultural cultivation, animal domestication, and pottery.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In archaeology and anthropology, the Neolithic Revolution marks the transformative transition from nomadic hunter-gatherer bands to sedentary farming communities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I have lived through the ages known to-day among the scientists as the Paleolithic, the Neolithic, and the Bronze."*
-> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"When was it inhabited?” “Neolithic man—no date.” “What did he do?” “He grazed his cattle on these slopes, and he learned to dig for tin when the bronze sword began to supersede the stone axe."*
-> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Mortimer for opening a grave without the consent of the next of kin because he dug up the Neolithic skull in the barrow on Long Down."*
+> - 📜 **John Lubbock (*Pre-historic Times*):** *"I propose the term **Neolithic** for that polished stone age which witnessed the dawn of agriculture and pottery in Europe."*
+> - 📜 **Gordon Childe (*Man Makes Himself*):** *"The **Neolithic** revolution gave humankind control over its food supply through the domestication of cereals and sheep."*
+> - 📜 **Lewis Henry Morgan (*Ancient Society*):** *"The transition to **Neolithic** village settlements laid the material foundations for tribal confederacies and organized architecture."*

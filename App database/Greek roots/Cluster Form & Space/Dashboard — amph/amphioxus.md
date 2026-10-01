@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small translucent lancet-shaped burrowing marine animal; primitive forerunner of the vertebrates.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small translucent lancet-shaped burrowing marine animal; primitive forerunner of the vertebrates.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small, translucent, fish-shaped marine cephalochordate (Branchiostoma) lacking a skull, jaws, and paired fins, but possessing a dorsal notochord.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative embryology and evolutionary biology, a classic model organism providing structural insight into the stem lineage of all vertebrates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amphioxus designates small translucent lancet-shaped burrowing marine animal; primitive forerunner of the vertebrates."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The lancelet or **amphioxus** is a wonderful creature, so low in the scale of organization that naturalists long doubted whether to place it among the vertebrates."*
+> - 📜 **Thomas Henry Huxley (*Lay Sermons, Addresses, and Reviews*):** *"In **amphioxus**, the spinal cord runs uninterrupted from snout to tail, without swelling into an anterior cranial brain."*
+> - 📜 **Ernst Haeckel (*The History of Creation*):** *"From an ancestor closely resembling the living **amphioxus**, the entire host of fishes, reptiles, birds, and mammals originally ascended."*

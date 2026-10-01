@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Become converted into ions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Convert into ions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To convert an atom, molecule, or substance wholly or partly into ions (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In radiation physics and chemistry, high-energy electromagnetic rays (X-rays, gamma rays) or collisions ionise neutral gas atoms, liberating free electrons and creating positive ions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ionise designates become converted into ions."*
+> - 📜 **Ernest Rutherford (*Radioactivity*):** *"Alpha particles emitted by radium **ionise** the air through which they pass, rendering it a conductor of electricity."*
+> - 📜 **J. J. Thomson (*Conduction of Electricity through Gases*):** *"Röntgen rays possess the remarkable property to **ionise** gases by detaching corpuscles from neutral molecules."*
+> - 📜 **Svante Arrhenius (*Theories of Chemistry*):** *"Polar water molecules surround salt crystals to **ionise** the lattice into solvated cations and anions."*

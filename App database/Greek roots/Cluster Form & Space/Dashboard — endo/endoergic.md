@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Absorbing energy : endothermic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Absorbing energy : endothermic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Absorbing or requiring an input of energy (especially in nuclear or atomic physics); endothermic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nuclear reaction kinetics, an endoergic reaction has a negative Q-value and can only proceed if the projectile possesses kinetic energy exceeding a threshold value.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endoergic designates absorbing energy : endothermic."*
+> - 📜 **Enrico Fermi (*Nuclear Physics*):** *"An **endoergic** nuclear transmutation requires the incoming projectile to supply the necessary reaction threshold energy."*
+> - 📜 **Hans Bethe (*Elementary Nuclear Theory*):** *"The negative Q-value confirms that the reaction is **endoergic**, requiring kinetic energy conversion into rest-mass energy."*
+> - 📜 **Emilio Segrè (*Nuclei and Particles*):** *"Threshold detectors exploit **endoergic** neutron capture processes to quantify high-energy flux distributions in reactors."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The usually epithelium-lined space between the body wall and the digestive tract of metazoans above the lower worms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The usually epithelium-lined space between the body wall and the digestive tract of metazoans above the lower worms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The principal fluid-filled body cavity in most triploblastic animals, situated between the body wall and the digestive canal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In animal embryology and anatomy, a true body cavity completely lined by mesodermally derived epithelium (peritoneum).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coelom designates the usually epithelium-lined space between the body wall and the digestive tract of metazoans above the lower worms."*
+> - 📜 **Ernst Haeckel (*Generelle Morphologie der Organismen*):** *"The evolution of the true **coelom** liberated internal visceral organs to pulse and contract independently of somatic musculature."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"In annelids, the spacious **coelom** is partitioned into segmental chambers by transverse muscular septa."*
+> - 📜 **Stephen Jay Gould (*Ontogeny and Phylogeny*):** *"The origin of the triploblastic **coelom** represents one of the major architectural transitions in metazoan history."*

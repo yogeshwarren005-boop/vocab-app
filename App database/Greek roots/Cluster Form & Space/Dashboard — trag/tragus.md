@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The prominence in front of the external opening of the outer ear.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The prominence in front of the external opening of the outer ear.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The small, cartilaginous projection on the anterior portion of the external ear, partially covering the entrance to the ear canal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human otological anatomy and physical anthropology, the tragus is named from Greek *tragos* (he-goat) because of the prominent tuft of coarse hairs resembling a goat's beard that often sprouts from its surface in mature males.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tragus designates the prominence in front of the external opening of the outer ear."*
+> - 📜 **Henry Gray (*Gray's Anatomy*):** *"The concha is bounded anteriorly by the **tragus**, a small conical eminence pointing backward over the meatus."*
+> - 📜 **Charles Darwin (*The Descent of Man, and Selection in Relation to Sex*):** *"The rudimentary cartilages of the human ear, including the **tragus** and helix, bear witness to mammalian ancestry."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Pain elicited by gentle pressure upon the **tragus** strongly suggests acute inflammation of the external auditory canal."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek scot.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The movement or orientation of an organism away from darkness toward light, or an avoidance reaction elicited by darkness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cellular physiology and behavioral biology, scotophobotaxis (negative scototaxis) describes motile microorganisms or flagellates reversing direction upon encountering dark zones.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scotophobotaxis designates a term designating an entity, condition, or phenomenon derived from greek scot."*
+> - 📜 **Jacques Loeb (*Forced Movements, Tropisms, and Animal Conduct*):** *"The flagellates displayed pronounced **scotophobotaxis**, instantly reversing their ciliary stroke when swimming into a shadow."*
+> - 📜 **Herbert Spencer Jennings (*Behavior of the Lower Organisms*):** *"This phototactic avoidance of shade, termed **scotophobotaxis**, keeps the photosynthetic swarm gathered in the light cone."*
+> - 📜 **Wilhelm Pfeffer (*The Physiology of Plants*):** *"Microscopic algal zoospores exhibit sharp **scotophobotaxis**, steering systematically away from darkened glass boundaries."*

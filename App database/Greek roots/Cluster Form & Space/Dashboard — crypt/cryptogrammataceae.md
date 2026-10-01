@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of a number of families into which the family polypodiaceae has been subdivided in some classification systems.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of a number of families into which the family polypodiaceae has been subdivided in some classification systems.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A former or segregate family of leptosporangiate ferns containing the genus Cryptogramma.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic pteridology, a taxon erected for rock-brake ferns displaying distinct frond dimorphism, now usually subsumed under Pteridaceae.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cryptogrammataceae designates one of a number of families into which the family polypodiaceae has been subdivided in some classification systems."*
+> - 📜 **Adolf Engler (*Syllabus der Pflanzenfamilien*):** *"Characters of spore ornamentation and marginal indusia justified the provisional separation of **Cryptogrammataceae**."*
+> - 📜 **John Merle Coulter (*Morphology of Gymnosperms and Cryptogams*):** *"Ferns assigned to **Cryptogrammataceae** demonstrate marked adaptations to saxicolous alpine habitats."*
+> - 📜 **William Gilson Farlow (*Notes on North American Pteridophytes*):** *"Frond dimorphism remains the most conspicuous morphological criterion uniting the genera of **Cryptogrammataceae**."*

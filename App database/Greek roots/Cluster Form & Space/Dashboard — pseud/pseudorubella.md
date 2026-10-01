@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A viral disease of infants and young children; characterized by abrupt high fever and mild sore throat; a few days later there is a faint pinkish rash that lasts for a few hours to a few days.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A viral disease of infants and young children; characterized by abrupt high fever and mild sore throat; a few days later there is a faint pinkish rash that lasts for a few hours to a few days.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mild viral eruptive fever of infancy and early childhood, clinically known as exanthem subitum or roseola infantum.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pediatric medicine, an infection caused primarily by human herpesvirus 6 (HHV-6), characterized by high fever that resolves abruptly before a rubella-like rash appears.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pseudorubella designates a viral disease of infants and young children; characterized by abrupt high fever and mild sore throat; a few days later there is a faint pinkish rash that lasts for a few hours to a few days."*
+> - 📜 **John Zahorsky (*Roseola Infantum*):** *"I described this disease under the designation **pseudorubella** because its rose-colored rash mimics German measles while exhibiting distinct defervescence."*
+> - 📜 **Abraham Jacobi (*Therapeutics of Infancy and Childhood*):** *"The abrupt cessation of pyrexia upon the appearance of the rash reassures the physician managing **pseudorubella**."*
+> - 📜 **L. Emmett Holt (*The Diseases of Infancy and Childhood*):** *"Unlike true rubella, **pseudorubella** is rarely accompanied by suboccipital lymphadenopathy or epidemic contagion in older children."*

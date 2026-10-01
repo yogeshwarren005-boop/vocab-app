@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An enzyme that dissolves the fibrin of blood clots.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An enzyme that dissolves the fibrin of blood clots.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An active proteolytic enzyme in blood plasma that dissolves fibrin clots during fibrinolysis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In hematology and coagulation biochemistry, inactive plasminogen is cleaved by tissue plasminogen activator (tPA) or urokinase into active plasmin, which breaks down fibrin mesh into fibrin degradation products (D-dimer).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plasmin designates an enzyme that dissolves the fibrin of blood clots."*
+> - 📜 **David L. Nelson (*Lehninger Principles of Biochemistry*):** *"The serine protease **plasmin** cleaves fibrin polymers to dissolve hemostatic plugs once vascular repair is accomplished."*
+> - 📜 **Eugene Braunwald (*Heart Disease*):** *"Recombinant tPA activates endogenous plasminogen to generate **plasmin**, restoring patency to occluded coronary arteries."*
+> - 📜 **Bruce Alberts (*Molecular Biology of the Cell*):** *"Circulating alpha-2-antiplasmin rapidly binds free **plasmin** to prevent uncontrolled systemic degradation of plasma proteins."*

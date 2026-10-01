@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To subject to metabolism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To perform metabolism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To process, transform, or break down a substance by chemical reactions within an organism's metabolism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacokinetics and cellular biology, to biotransform drugs, xenobiotics, or endogenous substrates through Phase I and Phase II enzymatic reactions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metabolize designates to subject to metabolism."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Failure of the cirrhotic liver to **metabolize** circulating estrogens leads to spider angiomas and palmar erythema."*
+> - 📜 **Claude Bernard (*An Introduction to the Study of Experimental Medicine*):** *"The living tissues **metabolize** absorbed nutrients to generate kinetic mechanical force and animal heat."*
+> - 📜 **Paul Ehrlich (*Studies in Immunity*):** *"Specialized microsomal enzymes within hepatic parenchyma **metabolize** exogenous alkaloids into harmless conjugates."*

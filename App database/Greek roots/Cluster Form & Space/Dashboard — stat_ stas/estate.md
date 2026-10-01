@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Everything you own; all of your assets (whether real property or personal property) and liabilities.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extensive landed property (especially in the country) retained by the owner for his own use.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An extensive tract of land, typically with a large house, owned by one individual or family; also, the total property, money, and possessions belonging to a person, especially at death.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political history and constitutional theory, the three estates of the realm (clergy, nobility, and commons) represented social orders, with the press known as the 'Fourth Estate'.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We thank you, maiden, But may not be so credulous of cure, When our most learned doctors leave us, and The congregated college have concluded That labouring art can never ransom nature From her inaidable estate."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Take her by the hand, And tell her she is thine; to whom I promise A counterpoise; if not to thy estate, A balance more replete."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Though my estate be fall’n, I was well born, Nothing acquainted with these businesses, And would not put my reputation now In any staining act."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Mr. Darcy was master of a splendid **estate** at Pemberley, comprising parklands, woods, and great ancient oaks."*
+> - 📜 **Thomas Carlyle (*Heroes and Hero-Worship*):** *"Burke said there were Three Estates in Parliament; but, in the Reporters' Gallery yonder, there sat a Fourth **Estate** more important far than they all."*
+> - 📜 **John Locke (*Second Treatise of Government*):** *"Government exists to protect the lives, liberties, and **estate**s of the citizens who constitute the commonwealth."*

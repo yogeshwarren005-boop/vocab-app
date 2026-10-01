@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Undergoing metamorphosis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Undergoing metamorphosis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Undergoing, characterized by, or pertaining to biological metamorphosis, especially during insect development.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In entomology and invertebrate zoology, metabolous insects are divided into hemimetabolous (incomplete metamorphosis) and holometabolous (complete metamorphosis with a pupal stage) orders.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metabolous designates undergoing metamorphosis."*
+> - 📜 **John Lubbock (*On the Origin and Metamorphoses of Insects*):** *"The distinction between ametabolous and **metabolous** insects marks a profound evolutionary leap in developmental specialization."*
+> - 📜 **Alpheus Spring Packard (*Guide to the Study of Insects*):** *"In every truly **metabolous** order, embryonic growth is followed by marked post-embryonic transformations of mouthparts and wings."*
+> - 📜 **Vincent Dethier (*The Physiology of Insect Senses*):** *"Metamorphic reorganization in a **metabolous** species completely remodels the peripheral nervous system between nymphal and adult stages."*

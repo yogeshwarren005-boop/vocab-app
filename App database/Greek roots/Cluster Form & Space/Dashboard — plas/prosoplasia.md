@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek plas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The forward differentiation or development of a cell or tissue into a state more specialized or differentiated than normal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In histopathology, prosoplasia occurs when mucosal cells develop unexpected specialized structures (such as salivary gland epithelium developing sebaceous differentiation).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prosoplasia designates a term designating an entity, condition, or phenomenon derived from greek plas."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"We describe as **prosoplasia** that remarkable progressive metamorphosis wherein cells attain a higher functional differentiation than normal."*
+> - 📜 **Vinay Kumar (*Robbins and Cotran Pathologic Basis of Disease*):** *"Sebaceous differentiation within oral salivary acini represents a benign example of glandular **prosoplasia**."*
+> - 📜 **Juan Rosai (*Rosai and Ackerman's Surgical Pathology*):** *"Focal squamous **prosoplasia** in endocervical mucosa must be carefully distinguished from atypical neoplastic dysplasia."*

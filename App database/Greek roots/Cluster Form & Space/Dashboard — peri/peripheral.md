@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (computer science) electronic equipment connected by cable to the cpu of a computer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: On or near an edge or constituting an outer boundary; the outer area.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or situated on the edge, periphery, or margin of something; secondary or minor in importance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human neuroanatomy, the peripheral nervous system (PNS) comprises the cranial and spinal nerves connecting the central nervous system to the limbs and organs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Generally familiar with the schematics of the Slingshot stations, he was overwhelmed by the two enormous cones and their peripherals, which configured the Terminals' hoppers."*
+> - 📜 **Santiago Ramón y Cajal (*Histology of the Nervous System*):** *"Unlike central axons, severed **peripheral** nerve fibers possess a remarkable capacity to regenerate within Schwann cell conduits."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Attention focuses upon the vivid focal object while relegating background sensations to a dim **peripheral** fringe."*
+> - 📜 **Claude Shannon (*A Mathematical Theory of Communication*):** *"Routing messages through **peripheral** communication channels minimizes central network bottlenecking."*

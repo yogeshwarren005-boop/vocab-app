@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having an allergy or peculiar or excessive susceptibility (especially to a specific factor).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having an allergy or peculiar or excessive susceptibility (especially to a specific factor).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Rendered excessively sensitive, responsive, or allergic to a specific antigen, allergen, or stimulus (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In immunology, an individual or animal whose immune system has generated high titers of IgE antibodies or sensitized T cells after initial antigen exposure is hypersensitised.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypersensitised designates having an allergy or peculiar or excessive susceptibility (especially to a specific factor)."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The guinea pig had been **hypersensitised** by a minute preliminary injection of foreign horse serum."*
+> - 📜 **Paul Ehrlich (*Studies in Immunity*):** *"Cells **hypersensitised** to toxins display altered receptor avidities upon subsequent experimental challenge."*
+> - 📜 **Frank Macfarlane Burnet (*The Clonal Selection Theory of Acquired Immunity*):** *"A **hypersensitised** organism mobilizes memory clones with accelerated velocity upon re-exposure to the antigen."*

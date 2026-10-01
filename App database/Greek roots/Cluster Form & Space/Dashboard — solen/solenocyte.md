@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In biology, solenocytes are elongated, flagellated cells commonly found in lower invertebrates, such as flatworms, chordates and several other animal species.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In terms of function, solenocytes play a significant role in the excretory systems of their host organism(s).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialized flagellated excretory cell resembling a flame cell, found in the protonephridia of certain invertebrates such as amphioxus and polychaete annelids.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative invertebrate histology, a solenocyte consists of a tubular chamber enclosing a single long whiplike flagellum that drives fluid into the excretory tubule.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, solenocyte designates in biology, solenocytes are elongated, flagellated cells commonly found in lower invertebrates, such as flatworms, chordates and several other animal species."*
+> - 📜 **Edwin Stephen Goodrich (*On the Nephridia of the Polychaeta and Amphioxus*):** *"The discovery of the **solenocyte** demonstrated remarkable morphological homology between the excretory organs of cephalochordates and annelids."*
+> - 📜 **E. Ray Lankester (*A Treatise on Zoology*):** *"Each delicate **solenocyte** projects into the coelom, its undulating flagellum maintaining excretory flow through the tubule."*
+> - 📜 **J. Z. Young (*The Life of Vertebrates*):** *"The protonephridial tubules of Amphioxus bear clusters of tiny **solenocyte** cells that filter coelomic waste."*

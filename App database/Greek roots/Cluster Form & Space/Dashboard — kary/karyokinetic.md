@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the division of the nucleus of a cell during mitosis or meiosis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the division of the nucleus of a cell during mitosis or meiosis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or occurring during karyokinesis (mitotic nuclear division).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical histology, karyokinetic figures refer to the characteristic stained mitotic spindle and chromosomal configurations visible under the light microscope in rapidly proliferating tissues.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, karyokinetic designates of or relating to the division of the nucleus of a cell during mitosis or meiosis."*
+> - 📜 **Walter Flemming (*Cell-Substance, Nucleus, and Cell-Division*):** *"In growing tissues, numerous cells display the intricate star-shaped **karyokinetic** figures of active metaphase."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"The frequency of **karyokinetic** division figures in malignant neoplasms correlates directly with rapid cellular proliferation."*
+> - 📜 **Edmund Beecher Wilson (*The Cell in Development and Heredity*):** *"Achromatic spindle fibers exert mechanical traction during the **karyokinetic** separation of daughter chromosomes."*

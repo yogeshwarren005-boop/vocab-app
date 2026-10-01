@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Designed for or understood by the specially initiated alone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Requiring or exhibiting knowledge that is restricted to a small group; broadly : difficult to understand.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Intended for or likely to be understood by only a small number of people with specialized knowledge or interest; abstruse or recondite.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of philosophy, esoteric doctrines were reserved by Aristotle and Pythagorean schools for initiated disciples, distinct from exoteric public lectures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"One of the great features of the system was that it guaranteed all the old religions--for the crowd; while for the initiated, for the esoteric, it had something more--it had mystic trance, mystic vision, mystic comprehension."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"They acknowledged God, but after that their faith ran into esoteric subtleties of nature-worship, which they kept to the initiates among themselves...."*
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Give me strength, or I die!" And somewhere, out of something, some esoteric, where he had plucked strength and given it to her, and he knew it wasn't from his body, or from his mind, or his spirit even, he had given it."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Philosophers were accustomed to have two methods of teaching: one vulgar or exoteric, the other **esoteric** and reserved for initiates."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The philosophers reserved their **esoteric** skepticism for private conversation, while observing state rituals in public."*
+> - 📜 **Bertrand Russell (*A History of Western Philosophy*):** *"Pythagoras founded a society where **esoteric** mathematical mysteries were guarded with religious solemnity."*

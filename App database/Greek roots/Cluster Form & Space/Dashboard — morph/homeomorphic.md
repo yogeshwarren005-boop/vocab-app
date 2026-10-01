@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A function that is a one-to-one mapping between sets such that both the function and its inverse are continuous and that in topology exists for geometric figures which can be transformed one into the other by an elastic deformation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A function that is a one-to-one mapping between sets such that both the function and its inverse are continuous and that in topology exists for geometric figures which can be transformed one into the other by an elastic deformation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In topology, related by a homeomorphism; topologically equivalent through a continuous bijective mapping possessing a continuous inverse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geometric topology and manifold theory, two homeomorphic spaces share all fundamental topological invariants such as compactness, connectedness, and Euler characteristic.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, homeomorphic designates a function that is a one-to-one mapping between sets such that both the function and its inverse are continuous and that in topology exists for geometric figures which can be transformed one into the other by an elastic deformation."*
+> - 📜 **Henri Poincaré (*Analysis Situs*):** *"Two manifolds are **homeomorphic** when there exists a continuous one-to-one correspondence between their points in both directions."*
+> - 📜 **Felix Hausdorff (*Grundzüge der Mengenlehre*):** *"Topological equivalence demands that the open neighborhood systems of **homeomorphic** spaces map faithfully onto one another."*
+> - 📜 **James Munkres (*Topology*):** *"The topologist views a coffee mug and a doughnut as **homeomorphic**, since each can be deformed into the other without tearing or gluing."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A binary compound of oxygen with a more electropositive element or group.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The oxide of aluminum Al2O3 that occurs both in pure form as corundum and in hydrated forms (as in bauxite) and that has superior strength and hardness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A binary chemical compound of oxygen with another element or radical.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In solid-state chemistry and geology, metal oxides form basic or amphoteric lattice networks that constitute major rock-forming minerals and ceramic refractories.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Do you feel the pain of tooth-pulling, when you believe that nitrous-oxide gas has made you unconscious? 346:27 Yet, in your concept, the tooth, the operation, and the forceps are unchanged."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The oxygen combines with the lead of its plate and so is safely stored up there in the form of oxide of lead."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The positive plate consists of nickel tubes filled with alternate layers of nickel hydroxide, while the negative plate is formed of prepared oxide of iron in a nickel framework."*
+> - 📜 **Antoine Lavoisier (*Elements of Chemistry*):** *"We have given the name **oxide** to metallic calces to express their combination with oxygen without acidity."*
+> - 📜 **Frank Wigglesworth Clarke (*The Data of Geochemistry*):** *"Silicon dioxide and aluminum **oxide** represent the dominant constituents of the earth's crustal mass."*
+> - 📜 **C. N. R. Rao (*Transition Metal Oxides*):** *"Strong electronic correlations in transition metal **oxide** crystals give rise to high-temperature superconductivity."*

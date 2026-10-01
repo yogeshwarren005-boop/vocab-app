@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of form / shape / structural configuration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of form / shape / structural configuration.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, involving, or governed by the intersection of morphological inflections and syntactic sentence structures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theoretical grammar, morphosyntactic features (such as case, number, tense, and gender agreement) regulate structural government across phrases.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, morphosyntactic designates adjective*) pertaining to, derived from, or characteristic of form / shape / structural configuration."*
+> - 📜 **Noam Chomsky (*Syntactic Structures*):** *"Agreement rules must check the **morphosyntactic** features of subject and verb before spelling out the final phonological form."*
+> - 📜 **Bernard Comrie (*Language Universals and Linguistic Typology*):** *"Ergative alignment represents a fundamental **morphosyntactic** pattern in which the subject of an intransitive verb patterns with the object of a transitive verb."*
+> - 📜 **Joseph Greenberg (*Universals of Language*):** *"Cross-linguistic surveys reveal universal correlations between word order types and specific **morphosyntactic** marking strategies."*

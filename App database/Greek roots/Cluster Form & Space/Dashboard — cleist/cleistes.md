@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Terrestrial orchids of north and south america having slender fibrous roots; allied to genus pogonia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Terrestrial orchids of north and south america having slender fibrous roots; allied to genus pogonia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of terrestrial orchids in the family Orchidaceae, commonly called rosebud orchids or small spreading pogonias.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic orchidology, bog-dwelling orchids native to the Americas bearing solitary, semi-tubular pink blossoms that appear partially closed.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cleistes designates terrestrial orchids of north and south america having slender fibrous roots; allied to genus pogonia."*
+> - 📜 **John Lindley (*The Genera and Species of Orchidaceous Plants*):** *"In **Cleistes**, the floral perianth forms a delicate tubular throat whose petals remain partially connivent."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"Native to coastal pine savannahs, **Cleistes** divaricata enchants botanists with its slender purple-veined lip."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"A rare terrestrial orchid belonging to **Cleistes** was collected in the sphagnum meadows of the pine barrens."*

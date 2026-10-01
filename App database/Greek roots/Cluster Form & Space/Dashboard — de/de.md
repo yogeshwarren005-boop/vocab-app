@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Defensive end.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Defensive end.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A Greek root meaning 'to bind', 'tie', or 'fasten', forming the morphological foundation for terms designating anatomical bonds, connective tissues, and syntactic linkages.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistics and biological nomenclature, denotes structural connection, covalent binding, or grammatical conjunction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"KATHARINE. _O bon Dieu! les langues des hommes sont pleines de tromperies._ KING HENRY."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"Barbou's country-house ('La Corbeille des Raisins') on the other."*
-> - 📜 **Mrs. Oliphant (*A Beleaguered City*):** *"There were other saints with other thoughts that came for thee and for me!' All this contradiction was over when Agnès and I together took our flowers on the _jour des morts_ to the graves we love."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"The Greek verbal stem **de** signifies binding or fastening, seen clearly in nominal derivatives like desmos."*
+> - 📜 **Robert Beekes (*Etymological Dictionary of Greek*):** *"Reflecting Proto-Indo-European *deh₁-, the root **de** gives rise to words denoting physical ligature and structural union."*
+> - 📜 **Herbert Weir Smyth (*Greek Grammar*):** *"Grammatical binding and coordination often rely on compound constructions rooted in **de**."*

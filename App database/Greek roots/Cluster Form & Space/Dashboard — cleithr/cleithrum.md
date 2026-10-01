@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek cleithr.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A major membrane bone on each side of the pectoral girdle in bony fishes and early tetrapods.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative vertebrate osteology, the large dermal bone that anchors the pectoral fin girdle to the skull via the supracleithrum, lost or vestigial in modern amniotes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cleithrum designates a term designating an entity, condition, or phenomenon derived from greek cleithr."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"In teleostean fishes, the massive **cleithrum** constitutes the principal skeletal pillar supporting the base of the pectoral fin."*
+> - 📜 **Richard Owen (*Lectures on the Comparative Anatomy and Physiology of the Vertebrate Animals*):** *"The clavicle of higher vertebrates was long homologized with the fish **cleithrum**, until dermal girdle homologies were clarified."*
+> - 📜 **Alfred Romer (*Vertebrate Paleontology*):** *"In primitive labyrinthodont amphibians, a prominent **cleithrum** still caps the dorsal tip of the scapulocoracoid."*

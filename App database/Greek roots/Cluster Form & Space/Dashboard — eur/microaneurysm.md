@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek eur.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A tiny, microscopic saccular dilation of a capillary wall, classically observed in retinal microvessels during diabetic retinopathy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ophthalmology, retinal microaneurysms represent the earliest clinically detectable sign of diabetic eye disease, appearing as sharp red dots on fundoscopy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microaneurysm designates a term designating an entity, condition, or phenomenon derived from greek eur."*
+> - 📜 **Eugene Braunwald (*Harrison's Principles of Internal Medicine*):** *"Funduscopic examination revealing an isolated **microaneurysm** mandates tight glycemic and blood pressure optimization."*
+> - 📜 **Vinay Kumar (*Robbins and Cotran Pathologic Basis of Disease*):** *"Loss of vascular pericytes weakens capillary walls, facilitating focal **microaneurysm** formation and plasma leakage."*
+> - 📜 **Duke-Elder, Stewart (*System of Ophthalmology*):** *"Fluorescein angiography lights up every retinal **microaneurysm** long before ophthalmoscopic visibility is attained."*

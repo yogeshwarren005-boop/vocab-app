@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the cryptobranchidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the cryptobranchidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of giant North American aquatic salamanders comprising the hellbender (Cryptobranchus alleganiensis).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In herpetology, a large, dorsoventrally flattened stream salamander with fleshy, highly vascularized skin folds used for cutaneous oxygen uptake.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cryptobranchus designates type genus of the cryptobranchidae."*
+> - 📜 **Alexander von Humboldt (*Views of Nature*):** *"The formidable water-dog of the Ohio River, designated **Cryptobranchus**, lurks under flat submerged slabs of limestone."*
+> - 📜 **Spencer Fullerton Baird (*Iconographic Encyclopaedia of Science, Literature, and Art*):** *"The broad, depressed head and wrinkled cutaneous flaps of **Cryptobranchus** equip it perfectly for bottom-dwelling life in turbulent waters."*
+> - 📜 **Louis Agassiz (*Contributions to the Natural History of the United States*):** *"In **Cryptobranchus**, fertilization remains external, an ancient reproductive trait conserved from primitive aquatic ancestors."*

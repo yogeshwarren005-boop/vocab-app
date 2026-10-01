@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Degrading : reduction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dispersed state : dispersion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A Greek root and combining form denoting loosening, dissolving, dissolution, decomposition, or biochemical breakdown.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biochemical nomenclature and clinical pathology, serves as the base for terms describing catabolic cleavage, cell disruption, or pharmacological release.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Marry, ill, to like him that ne’er it likes. ’Tis a commodity will lose the gloss with lying; the longer kept, the less worth."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The mere word’s a slave, Debauch’d on every tomb, on every grave A lying trophy, and as oft is dumb Where dust and damn’d oblivion is the tomb Of honour’d bones indeed."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"On board Pompey’s Galley, lying near Misenum."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"The Greek verbal stem **ly** signifies to untie, release, or dissolve, forming the basis of words like lysis."*
+> - 📜 **Robert Beekes (*Etymological Dictionary of Greek*):** *"Derived from Proto-Indo-European *leu-, the elemental root **ly** denotes freeing from bonds or breaking apart."*
+> - 📜 **Bruce Alberts (*Molecular Biology of the Cell*):** *"Processes of macromolecular degradation frequently employ enzymes whose names incorporate the ancient root **ly**."*

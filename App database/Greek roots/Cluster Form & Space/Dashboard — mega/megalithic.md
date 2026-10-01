@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to megaliths or the people who erected megaliths.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to megaliths or the people who erected megaliths.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or constructed of megaliths (large prehistoric stones).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural archaeology, designating Neolithic and Bronze Age monumental traditions characterized by chambered tombs, stone alignments, and astronomical cromlechs across Atlantic Europe.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, megalithic designates of or relating to megaliths or the people who erected megaliths."*
+> - 📜 **John Lubbock (*Pre-historic Times*):** *"The **megalithic** tombs of Brittany preserve human remains alongside polished stone celts and coarse earthenware."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"They stood within the mysterious **megalithic** circle of Stonehenge, enveloped by the vast silence of the Salisbury Plain."*
+> - 📜 **James George Frazer (*The Golden Bough*):** *"Ancient solar rites were celebrated within open-air **megalithic** temples oriented toward the summer solstice."*

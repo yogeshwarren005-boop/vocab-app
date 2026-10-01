@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or being a cation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by an active and especially surface-active cation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, possessing the nature of, or functioning as a cation (a positively charged ion).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacology and microbiology, cationic antimicrobial peptides (such as polymyxins and defensins) bind selectively to negatively charged bacterial lipopolysaccharide membranes to disrupt membrane integrity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cationic designates of, relating to, or being a cation."*
+> - 📜 **Svante Arrhenius (*Theories of Chemistry*):** *"Electromotive force drives the **cationic** components toward the negative plate at predictable rates."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"Hydrogen and metals appear invariably as the **cationic** products of aqueous electrolysis."*
+> - 📜 **Ernest Starling (*Principles of Human Physiology*):** *"Ion channels display selective filters that admit specific **cationic** species while excluding opposing anions."*

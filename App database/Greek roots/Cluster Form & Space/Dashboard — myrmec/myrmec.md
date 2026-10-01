@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek myrmec.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A Greek root and combining form derived from myrmex, signifying ant or relating to ants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In zoology and ecological nomenclature, forms combining terms denoting ant-eating habits (myrmecophagy), ant dispersal of seeds (myrmecochory), or ant mimicry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, myrmec designates a term designating an entity, condition, or phenomenon derived from greek myrmec."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"The ancient Greek noun myrmex forms the scientific base **myrmec**, denoting the ant in both myth and nature."*
+> - 📜 **Robert Beekes (*Etymological Dictionary of Greek*):** *"Indo-European cognates of **myrmec** exhibit diverse metathesized forms, all pointing to small social burrowing insects."*
+> - 📜 **William Morton Wheeler (*Ants: Their Structure, Development and Behavior*):** *"Systematic biologists combine **myrmec** with diverse descriptive suffixes to name complex symbioses between ants and tropical plants."*

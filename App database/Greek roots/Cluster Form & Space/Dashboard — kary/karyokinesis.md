@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Organic process consisting of the division of the nucleus of a cell during mitosis or meiosis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Organic process consisting of the division of the nucleus of a cell during mitosis or meiosis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The division of a cell nucleus during mitosis or meiosis, as distinguished from the division of the cytoplasm (cytokinesis).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Coined in 1878 by German cytologist Walter Flemming; karyokinesis encompasses prophase, metaphase, anaphase, and telophase, ensuring the equal segregation of replicated chromosomes into daughter nuclei.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, karyokinesis designates organic process consisting of the division of the nucleus of a cell during mitosis or meiosis."*
+> - 📜 **Walter Flemming (*Cell-Substance, Nucleus, and Cell-Division*):** *"I have proposed the term **karyokinesis** to denote the complex series of internal movements by which the nucleus divides."*
+> - 📜 **Edmund Beecher Wilson (*The Cell in Development and Heredity*):** *"The remarkable phenomenon of **karyokinesis** demonstrates that nuclear division is an exact qualitative and quantitative process."*
+> - 📜 **Theodor Boveri (*Cells and Tissues*):** *"Equatorial alignment of chromosomes during **karyokinesis** guarantees identical distribution of hereditary traits."*

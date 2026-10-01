@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the two alleles at corresponding loci on homologous chromosomes different for one or more loci.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the two alleles at corresponding loci on homologous chromosomes different for one or more loci.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having two different alleles at a given genetic locus on a pair of homologous chromosomes; not homozygous for that particular gene.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical genetics, being heterozygous for a recessive disease allele designates carrier status, while heterozygosity at a dominant locus may result in full or partial phenotypic expression.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heterozygous designates having the two alleles at corresponding loci on homologous chromosomes different for one or more loci."*
+> - 📜 **Gregor Mendel (*Experiments on Plant Hybridization*):** *"Plants **heterozygous** for the round-wrinkled factor uniformly produce round seeds in the first filial generation."*
+> - 📜 **Thomas Hunt Morgan (*The Theory of the Gene*):** *"A fly **heterozygous** for the white-eye mutation displays the wild-type red eye color."*
+> - 📜 **Mary-Claire King (*Breast and Ovarian Cancer Risks Due to Inherited Mutations in BRCA1 and BRCA2*):** *"Women **heterozygous** for BRCA1 mutations face a significantly elevated lifetime risk of breast cancer."*

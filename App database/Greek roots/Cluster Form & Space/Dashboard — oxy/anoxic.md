@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or affected with anoxia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Greatly deficient in oxygen : oxygenless.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by, suffering from, or relating to anoxia; completely devoid of oxygen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biogeochemistry, oceanography, and limnology, describing aquatic sediments or water columns lacking dissolved oxygen.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anoxic designates of, relating to, or affected with anoxia."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"Deep in the basin, stagnant and **anoxic** waters preserve organic sediment undisturbed by bottom-dwelling scavengers."*
+> - 📜 **G. Evelyn Hutchinson (*A Treatise on Limnology*):** *"During summer thermal stratification, the hypolimnion often becomes completely **anoxic**, driving anaerobic bacterial decomposition."*
+> - 📜 **Bruce Alberts (*Molecular Biology of the Cell*):** *"Under **anoxic** cellular conditions, pyruvate undergoes fermentation to regenerate NAD+ for glycolysis."*

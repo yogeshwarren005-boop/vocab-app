@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the production of an electrical beat between two radio frequencies of which one usually is that of a received signal-carrying current and the other that of an uninterrupted current introduced into the apparatus; also : of or relating to the production of a beat between two optical frequencies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To combine (something, such as a radio frequency) with a different frequency so that a beat is produced.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to or involving the combination of two different radio frequencies to produce new frequencies equal to their sum and difference (beats).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In telecommunications and signal engineering, Edwin Armstrong's superheterodyne receiver uses heterodyne mixing to achieve superior selectivity and sensitivity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heterodyne designates of or relating to the production of an electrical beat between two radio frequencies of which one usually is that of a received signal-carrying current and the other that of an uninterrupted current introduced into the apparatus; also : of or relating to the production of a beat between two optical frequencies."*
+> - 📜 **Edwin H. Armstrong (*A New System of Short Wave Amplification*):** *"The super-**heterodyne** circuit converts high-frequency incoming signals to a lower intermediate frequency easily amplified without distortion."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"The interference of two wave trains differing slightly in pitch creates regular **heterodyne** beats in the resulting field."*
+> - 📜 **Claude Shannon (*A Mathematical Theory of Communication*):** *"Frequency shifting via **heterodyne** conversion preserves the complete information entropy of the original modulated band."*

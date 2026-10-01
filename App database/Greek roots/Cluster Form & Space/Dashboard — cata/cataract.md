@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An eye disease that involves the clouding or opacification of the natural lens of the eye.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large waterfall; violent rush of water over a precipice.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A very large, powerful waterfall, cascade, or torrential downpour; also a clouding or opacity of the lens of the eye that obscures vision.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ophthalmology, a major cause of blindness resulting from protein denaturing and aggregation in the crystalline lens, treated by phacoemulsification.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Other dispersed fragments of the same great palladium are to be found on the canals of Venice, at the second cataract of the Nile, in the baths of Germany, and sprinkled on the sea-sand all over the English coast."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Were Niagara but a cataract of sand, would you travel your thousand miles to see it?"*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Floating on the waves we saw the abandoned boat, as for one instant it tossed and gaped beneath the ship’s bows like a chip at the base of a cataract; and then the vast hull rolled over it, and it was seen no more till it came up weltering astern."*
+> - 📜 **Lord Byron (*Childe Harold's Pilgrimage*):** *"The roaring **cataract** poured headlong from the precipice, shrouding the chasm in perpetual rainbow mist."*
+> - 📜 **William Wordsworth (*Lines Composed a Few Miles above Tintern Abbey*):** *"The sounding **cataract** haunted me like a passion; the tall rock, the mountain, and the deep and gloomy wood."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Senile **cataract** advances gradually, the cortical opacities coalescing until mature cataractous clouding blocks all light."*

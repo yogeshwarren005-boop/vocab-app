@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cineraria.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cineraria.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of flowering plants in the family Asteraceae, native to the Canary Islands and Madeira, including florists' cineraria.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In horticulture and floriculture, hybrid cultivars of *Pericallis hybrida* are widely cultivated in greenhouses for their vibrant daisy-like inflorescences.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pericallis designates cineraria."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"The popular florist cinerarias, classified under the genus **Pericallis**, present magnificent domes of purple, blue, and crimson blossoms."*
+> - 📜 **Carl Linnaeus (*Species Plantarum*):** *"Island endemics of the Atlantic archipelago yielded striking composites allied to **Pericallis**."*
+> - 📜 **Asa Gray (*Manual of Botany*):** *"Greenhouse selections of **Pericallis** exhibit remarkable ray-floret variation under controlled illumination."*

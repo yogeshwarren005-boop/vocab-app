@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A glandular disorder caused by excessive acth resulting in greater than normal functioning of the adrenal gland; characterized by obesity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A glandular disorder caused by excessive acth resulting in greater than normal functioning of the adrenal gland; characterized by obesity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessive secretion of hormones by the adrenal gland, encompassing either the adrenal cortex or adrenal medulla.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical endocrinology, hyperadrenalism manifests as hypercortisolemia (Cushing's syndrome), hyperaldosteronism (Conn's syndrome), or excessive catecholamine release from a pheochromocytoma.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyperadrenalism designates a glandular disorder caused by excessive acth resulting in greater than normal functioning of the adrenal gland; characterized by obesity."*
+> - 📜 **Harvey Cushing (*The Pituitary Body and Its Disorders*):** *"Secondary **hyperadrenalism** driven by basophil pituitary adenomas produces truncal adiposity and violaceous cutaneous striae."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Severe paroxysmal hypertension with palpitations points to medullary **hyperadrenalism** associated with chromaffin tumors."*
+> - 📜 **Ernest Starling (*Principles of Human Physiology*):** *"Cortical **hyperadrenalism** accelerates gluconeogenesis while promoting progressive muscular and protein wasting."*

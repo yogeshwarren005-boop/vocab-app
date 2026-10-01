@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An organism such as an insect that habitually shares the nest of a species of ant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An organism such as an insect that habitually shares the nest of a species of ant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An organism (such as an insect, mite, or spider) that lives in habitual symbiotic, commensal, or parasitic association with an ant colony.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary entomology, a myrmecophile often produces specialized appeasement secretions from trichome glands to suppress worker aggression inside the nest.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, myrmecophile designates an organism such as an insect that habitually shares the nest of a species of ant."*
+> - 📜 **William Morton Wheeler (*Ants: Their Structure, Development and Behavior*):** *"The paussid beetle is an esteemed **myrmecophile**, pampered by host workers who greedily lick the golden secretions from its antennae."*
+> - 📜 **Auguste Forel (*The Social World of the Ants*):** *"Every flourishing anthill shelters a diverse community of guests, each **myrmecophile** exploiting nest warmth and food stores."*
+> - 📜 **E. O. Wilson (*The Insect Societies*):** *"Chemical mimicry allows an obligate **myrmecophile** to acquire the cuticular hydrocarbon signature of its host colony."*

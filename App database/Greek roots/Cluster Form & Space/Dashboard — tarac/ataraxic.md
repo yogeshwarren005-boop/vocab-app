@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to soothe or tranquilize.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending to soothe or tranquilize.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Promoting peace of mind and emotional calmness; of or relating to ataraxia; a tranquilizing substance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical therapeutics, ataraxic compounds soothe autonomic hyper-excitability, dampening sympathetic fight-or-flight cascades in acute anxiety disorders.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ataraxic designates tending to soothe or tranquilize."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"A deep religious conversion often acts as a potent **ataraxic** influence, banishing long-standing anxieties."*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*):** *"The mild **ataraxic** medication quieted his nocturnal agitation without dulling his keen intellectual faculties."*
+> - 📜 **Sigmund Freud (*Civilization and Its Discontents*):** *"Mankind resorts to chemical palliatives as **ataraxic** buffers against the harsh frictions of civilized life."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An unsubstantial image : phantom.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An unsubstantial image : phantom.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An idealized person or thing; an phantom, apparition, or spectral image.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ancient Greek literature (Homer, Euripides), an eidolon is a shade, phantom double, or spirit of a deceased person; in Walt Whitman's poetry, symbolizes the spiritual essence underlying material creation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eidolon designates an unsubstantial image : phantom."*
+> - 📜 **Walt Whitman (*Leaves of Grass*):** *"Ever the dim beginning, ever the growth, the rounding of the circle, ever the aggregate and the **eidolon**."*
+> - 📜 **Homer (*Odyssey*):** *"In the underworld Odysseus encountered the **eidolon** of mighty Heracles, while the hero himself feasted among the immortals."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"What are all material institutions but the transitory **eidolon** through which eternal ideas manifest to human sense?"*

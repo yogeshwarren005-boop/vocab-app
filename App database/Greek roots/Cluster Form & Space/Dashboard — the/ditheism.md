@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek the.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Belief in two equal and distinct gods, especially one good and one evil; dualism in religious theology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative religion, ditheism is exemplified in classic Zoroastrianism (Ahura Mazda and Angra Mainyu) and certain early Christian Gnostic sects (distinguishing the supreme benevolent God from the inferior Demiurge).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ditheism designates a term designating an entity, condition, or phenomenon derived from greek the."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Manichaean **ditheism** posited an eternal cosmic war between the kingdom of Light and the empire of Darkness."*
+> - 📜 **David Hume (*The Natural History of Religion*):** *"Confronted by the mingled good and ill of existence, primitive theologians frequently embraced a simplistic **ditheism**."*
+> - 📜 **John Locke (*A Discourse of Miracles*):** *"The coherence of moral duty disintegrates if faith is divided under the conflicting mandates of **ditheism**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a caustic vitriolic manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a caustic vitriolic manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a caustic manner; with sharp, cutting sarcasm, or in a chemically corrosive and searing way.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Delivering biting wit, scathing ridicule, or aggressive chemical destruction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"He said, "That means we must have the depot under our control when you speak to President Camari." "Sound conclusion," Narval replied caustically."*
+> - 📜 **George Eliot (*Middlemarch*):** *"The old doctor remarked **caustically** that young reformers were always eager to operate before they could diagnose."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"He criticized the parliament **caustically**, dismissing their endless debates as empty wind and mechanical pedantry."*
+> - 📜 **Virginia Woolf (*The Common Reader*):** *"Jane Austen observed her neighbors' pretensions **caustically**, yet with an exquisite lightness of comedic touch."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek zyg.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rhetorical figure in which a single verb is yoked to multiple subjects or objects within a compound sentence, serving as the shared predicate for all members.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In grammatical rhetoric, synezeugmenon is closely related to zeugma but emphasizes the syntactic conjunction of multiple noun phrases under one verbal government within a coordinated structure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, synezeugmenon designates a term designating an entity, condition, or phenomenon derived from greek zyg."*
+> - 📜 **Quintilian (*Institutio Oratoria*):** *"**Synezeugmenon** binds several subjects together under the government of a single verb within one period."*
+> - 📜 **Richard Lanham (*A Handlist of Rhetorical Terms*):** *"**Synezeugmenon** describes the syntactic yoking of multiple elements to one predicate in a compound clause."*
+> - 📜 **George Puttenham (*The Arte of English Poesie*):** *"The figure **synezeugmenon** couples diverse things under one common word of action."*

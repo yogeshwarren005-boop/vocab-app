@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek pept.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A single amino acid molecule viewed as the basic monomeric subunit of peptide chains; or an amino acid derivative with a single peptide-like bond.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nutritional biochemistry and pharmacology, free amino acids or single peptide residues administered for targeted metabolic supplementation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monopeptide designates a term designating an entity, condition, or phenomenon derived from greek pept."*
+> - 📜 **Emil Fischer (*Chemical Synthesis of Polypeptides*):** *"The linking of each successive **monopeptide** residue requires activation of the carboxyl terminus."*
+> - 📜 **Bruce Alberts (*Molecular Biology of the Cell*):** *"Ribosomal translation recruits aminoacyl-tRNA molecules to append each **monopeptide** unit onto the nascent polypeptide chain."*
+> - 📜 **David L. Nelson (*Lehninger Principles of Biochemistry*):** *"Free amino acid units, sometimes termed **monopeptide** building blocks, assemble into intricate macromolecular architectures."*

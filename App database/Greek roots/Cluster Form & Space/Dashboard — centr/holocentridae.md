@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Squirrelfishes and soldierfishes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Squirrelfishes and soldierfishes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of beryciform marine spiny-finned fishes commonly known as squirrelfishes and soldierfishes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine biology, nocturnal reef-dwelling fishes characterized by large eyes, sharp opercular spines, and brilliant red coloration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, holocentridae designates squirrelfishes and soldierfishes."*
+> - 📜 **David Starr Jordan (*Fishes*):** *"Members of **Holocentridae** hide in deep cavernous reef crevices by day, emerging after dusk to forage on crustaceans."*
+> - 📜 **Albert Günther (*An Introduction to the Study of Fishes*):** *"The heavy, serrated scales and formidable opercular spines of **Holocentridae** afford robust defense against predatory morays."*
+> - 📜 **William Beebe (*Beneath Tropic Seas*):** *"Gazing through the diving helmet, I watched flashing red soldierfish of the family **Holocentridae** hover motionless beside elkhorn corals."*

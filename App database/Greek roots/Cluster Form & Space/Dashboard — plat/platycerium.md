@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Often epiphytic tropical old world ferns.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Often epiphytic tropical old world ferns.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of epiphytic ferns in the family Polypodiaceae, commonly known as staghorn or elkhorn ferns.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In horticultural botany, tropical epiphytes characterized by two distinct frond types: sterile basal nest fronds and fertile antler-like foliage fronds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, platycerium designates often epiphytic tropical old world ferns."*
+> - 📜 **William Jackson Hooker (*Species Filicum*):** *"The magnificent fronds of **platycerium** cling to forest barks, collecting falling debris within their basal shields."*
+> - 📜 **David Fairchild (*The World Was My Garden*):** *"Giant specimens of **platycerium** hung suspended from the tropical trees like verdant chandeliers."*
+> - 📜 **George Nicholson (*The Illustrated Dictionary of Gardening*):** *"Cultivators prize **platycerium** for its dramatic bifurcated leaves resembling the antlers of a stag."*

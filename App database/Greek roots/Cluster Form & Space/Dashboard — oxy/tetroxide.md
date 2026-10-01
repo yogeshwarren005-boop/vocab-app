@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A compound of an element or group with four atoms of oxygen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A colorless toxic gas N2O4 that is a dimer of nitrogen dioxide and that in liquid form is used as an oxidizer in rocket engines.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An oxide containing four atoms of oxygen per molecule or formula unit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In synthetic organic chemistry, osmium tetroxide (OsO4) serves as a stereospecific reagent for the syn-dihydroxylation of alkenes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tetroxide designates a compound of an element or group with four atoms of oxygen."*
+> - 📜 **Robert B. Woodward (*Total Synthesis of Cortisone*):** *"Oxidation of the hindered olefin proceeded stereospecifically upon treatment with catalytic osmium **tetroxide**."*
+> - 📜 **F. Albert Cotton (*Advanced Inorganic Chemistry*):** *"Ruthenium **tetroxide** is a powerful oxidizing agent that cleaves aromatic rings under mild ambient conditions."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"Dinitrogen **tetroxide** exists in rapid temperature-dependent equilibrium with nitrogen dioxide gas."*

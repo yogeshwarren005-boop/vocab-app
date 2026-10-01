@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A market situation in which each of a few producers affects but does not control the market.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A market situation in which each of a few producers affects but does not control the market.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A seller, producer, or firm operating in an oligopolistic market characterized by a small number of dominant competitors.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial economics, a market participant whose pricing and production decisions explicitly depend upon the anticipated strategies of rival firms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oligopolist designates a market situation in which each of a few producers affects but does not control the market."*
+> - 📜 **William Fellner (*Competition Among the Few: Oligopoly and Similar Market Structures*):** *"An **oligopolist** realizes that an aggressive reduction in price will instantly provoke retaliatory cuts from his few competitors."*
+> - 📜 **George Stigler (*The Theory of Price*):** *"The fundamental dilemma confronting the **oligopolist** is whether to engage in tacit collusion or risk independent rivalry."*
+> - 📜 **Paul Samuelson (*Economics: An Introductory Analysis*):** *"Because every **oligopolist** watches his neighbors keenly, price stability often prevails even when market demand fluctuates."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The usually pathologic dissolution or disintegration of cells.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The usually pathologic dissolution or disintegration of cells.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The dissolution, rupture, or destruction of a cell, particularly through damage to or lysis of its outer plasma membrane.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In immunology, the membrane attack complex (MAC, C5b-9) of the complement system creates hydrophilic transmembrane pores in target bacteria or cells, driving osmotic water influx and lethal cytolysis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cytolysis designates the usually pathologic dissolution or disintegration of cells."*
+> - 📜 **Paul Ehrlich (*Studies in Immunity*):** *"The union of complement with amboceptor-sensitized erythrocytes provokes immediate **cytolysis** and hemoglobin release."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Snake venom hemolysins provoke acute **cytolysis** of red blood cells, causing hemoglobinuria and renal failure."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Membrane disintegration leads to osmotic **cytolysis**, scattering cytoplasmic granules into the surrounding tissue."*

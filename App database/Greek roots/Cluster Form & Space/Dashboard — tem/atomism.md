@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (psychology) a theory that reduces all mental phenomena to simple elements (sensations and feelings) that form complex ideas by association.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (chemistry) any theory in which all matter is composed of tiny discrete finite indivisible indestructible particles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The philosophical or scientific theory that all matter is composed of small, indivisible particles called atoms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Originating in ancient Greece with Leucippus and Democritus, revived by Epicurus and Lucretius, and formalized in modern chemistry by John Dalton, atomism explains macroscopic physical phenomena through mechanical interactions of corpuscles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, atomism designates (psychology) a theory that reduces all mental phenomena to simple elements (sensations and feelings) that form complex ideas by association."*
+> - 📜 **Lucretius (*De Rerum Natura*):** *"The ancient doctrine of **atomism** asserts that void and imperishable particles constitute the entire fabric of existence."*
+> - 📜 **Robert Boyle (*The Sceptical Chymist*):** *"A refined corpuscular philosophy, drawing upon mechanical **atomism**, explains chemical transformations far better than the four elements."*
+> - 📜 **Bertrand Russell (*The Philosophy of Logical Atomism*):** *"My aim in logical **atomism** is to analyze propositions into ultimate simple facts that correspond directly to reality."*

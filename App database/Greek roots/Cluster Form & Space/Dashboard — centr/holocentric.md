@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of center.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of center.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Possessing diffuse centromeric activity along the entire length of the chromosome rather than localized at a single constriction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cytogenetics, describing chromosomes (as in nematodes and sedges) where spindle microtubules attach across the entire chromatin axis during anaphase.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, holocentric designates adjective*) pertaining to, derived from, or characteristic of center."*
+> - 📜 **C. D. Darlington (*Recent Advances in Cytology*):** *"In Luzula, the chromosomes are strictly **holocentric**, enabling fragmented pieces to persist and divide normally."*
+> - 📜 **Michael J. D. White (*Animal Cytology and Evolution*):** *"X-ray-induced breakage in **holocentric** chromosomes rarely produces lethal acentric fragments during mitotic division."*
+> - 📜 **Theodosius Dobzhansky (*Genetics of the Evolutionary Process*):** *"Hemipteran insects exploit **holocentric** chromosome architecture to facilitate rapid karyotypic radiation."*

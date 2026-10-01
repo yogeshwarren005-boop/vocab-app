@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek xer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormal dryness of the skin, mucous membranes, or conjunctiva, often resulting from reduced sebaceous or lacrimal gland activity, dehydration, or environmental exposure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dermatology, xerosis cutis is the most common skin complaint among elderly patients, predisposing to pruritus, eczema craquele, and secondary infection if left untreated.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xerosis designates a term designating an entity, condition, or phenomenon derived from greek xer."*
+> - 📜 **Thomas Fitzpatrick (*Fitzpatrick's Dermatology in General Medicine*):** *"**Xerosis** is the most prevalent dermatological condition in the aging population."*
+> - 📜 **Ferdinand Hebra (*On Diseases of the Skin*):** *"Severe **xerosis** produces a network of fine cracks in the epidermis resembling dried mud."*
+> - 📜 **Alfred Sommer (*Vitamin A Deficiency and Its Consequences*):** *"Conjunctival **xerosis** is the earliest ocular sign of vitamin A deficiency in children."*

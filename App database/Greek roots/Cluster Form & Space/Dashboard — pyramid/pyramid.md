@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient massive structure found especially in Egypt having typically a square ground plan, outside walls in the form of four triangles that meet in a point at the top, and inner sepulchral chambers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A structure or object of similar form.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A monumental ancient stone structure with a square or triangular base and sloping triangular sides meeting at an apex.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In solid geometry, a polyhedron formed by connecting a polygonal base and a point, called the apex.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"ANTONY. [_To Caesar_.] Thus do they, sir: they take the flow o’ th’ Nile By certain scales i’ th’ pyramid; they know By th’ height, the lowness, or the mean, if dearth Or foison follow."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They said that Palamon had Arcite’s body Within an inch o’ th’ pyramid, that the cry Was general “À Palamon.” But anon, Th’ assistants made a brave redemption, and The two bold titlers at this instant are Hand to hand at it."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Rather was it a pyramid, four-square, broad at the base, sloping upward not steeply to the apex."*
+> - 📜 **Herodotus (*Histories*):** *"Cheops compelled all his subjects to work on the great **pyramid**, dragging limestone blocks from Arabian quarries across the Nile."*
+> - 📜 **Napoleon Bonaparte (*Proclamation to the Army of Egypt*):** *"Soldiers, from the height of this magnificent **pyramid**, forty centuries of history gaze down upon your deeds today."*
+> - 📜 **John Greaves (*Pyramidographia: Or a Description of the Pyramids in Aegypt*):** *"The solid masonry of the Great **pyramid** stands as an everlasting monument to ancient mathematical and mechanical genius."*

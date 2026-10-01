@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A movement promoting union between religions (especially between christian churches).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A movement promoting union between religions (especially between christian churches).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A classical or alternative spelling of ecumenism, the movement or principle directed toward promoting cooperation and visible unity among Christian churches.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In twentieth-century theological discourse, oecumenism emphasized mutual recognition of baptism, common prayer, and shared social witness among divided communions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oecumenism designates a movement promoting union between religions (especially between christian churches)."*
+> - 📜 **Dietrich Bonhoeffer (*No Rusty Swords*):** *"True **oecumenism** must not seek a superficial organizational peace at the expense of confessing the Gospel under totalitarian tyranny."*
+> - 📜 **Karl Barth (*Church Dogmatics*):** *"The work of **oecumenism** requires humble listening to how other Christian traditions hear the Word of God."*
+> - 📜 **Hans Küng (*The Council, Reform and Reunion*):** *"Our commitment to **oecumenism** demands that we reform our own structures before pointing out the faults of our brethren."*

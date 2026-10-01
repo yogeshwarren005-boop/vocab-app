@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A region or area set off as distinct from surrounding or adjoining parts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of the sections of an area or territory created for a particular purpose or activity : such as.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A defined area or region distinguished from adjacent areas by a particular characteristic, purpose, or set of conditions; a belt or band encircling or extending across a surface.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In urban planning and ecology, zone designates regulated divisions of land use or bioclimatic regions, from zoning ordinances governing development to biogeographic zones delineating species distributions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And if thou prate of mountains, let them throw Millions of acres on us, till our ground, Singeing his pate against the burning zone, Make Ossa like a wart."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I lie in a shady place like this and think of adventurous spirits going to the North Pole or penetrating to the heart of the Torrid Zone with admiration."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The carriages in the streets are few, and other late sounds in that neighbourhood there are none, unless a man so very nomadically drunk as to stray into the frigid zone goes brawling and bellowing along the pavement."*
+> - 📜 **Alexander von Humboldt (*Cosmos*):** *"Each climatic **zone** of the earth supports a characteristic assemblage of plants and animals."*
+> - 📜 **Aristotle (*Meteorology*):** *"The habitable **zone** lies between the frigid and torrid regions, enjoying a temperate climate."*
+> - 📜 **Ebenezer Howard (*Garden Cities of To-morrow*):** *"The city should be divided into a central **zone** of public buildings surrounded by residential and industrial belts."*

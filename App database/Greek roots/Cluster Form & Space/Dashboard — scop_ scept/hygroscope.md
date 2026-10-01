@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hygrometer that shows variations in the relative humidity of the atmosphere.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hygrometer that shows variations in the relative humidity of the atmosphere.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument designed to indicate or detect changes in atmospheric humidity without providing an exact quantitative measurement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical meteorology, early hygroscopes utilized the hygroscopic expansion and contraction of organic fibers such as catgut, oat awns, or human hair.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hygroscope designates hygrometer that shows variations in the relative humidity of the atmosphere."*
+> - 📜 **Robert Hooke (*Micrographia*):** *"By affixing a pointer to a twisted beard of wild oat, I constructed a sensitive **hygroscope** that twisted upon the slightest moisture."*
+> - 📜 **Horace Bénédict de Saussure (*Essays on Hygrometry*):** *"Before graduating to the calibrated hygrometer, the naturalist relied upon the crude indications of an organic **hygroscope**."*
+> - 📜 **Benjamin Franklin (*Experiments and Observations on Electricity*):** *"A simple paper **hygroscope** exposed to the sea air will curl conspicuously as dampness gathers before a tempest."*

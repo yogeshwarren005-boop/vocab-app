@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The development of a single kind of asexual spores.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The development of a single kind of asexual spores.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition or evolutionary state of producing spores of a single, uniform type and size that give rise to bisexual gametophytes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant reproductive biology, homospory represents the primitive condition from which heterospory and the seed habit subsequently evolved in vascular lineages.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, homospory designates the development of a single kind of asexual spores."*
+> - 📜 **F. O. Bower (*The Origin of a Land Flora*):** *"The persistence of **homospory** throughout modern ferns proves the remarkable ecological efficacy of the independent prothallus."*
+> - 📜 **Gilbert M. Smith (*Cryptogamic Botany*):** *"In species maintaining **homospory**, both sperm and egg are produced on the same diminutive thallus."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"From ancestral **homospory**, the selective advantage of maternal nourishment drove the diversification of heterosporous taxa."*

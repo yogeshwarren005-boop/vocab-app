@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Comprising seed plants that produce an embryo with a single cotyledon and parallel-veined leaves: includes grasses and lilies and palms and orchids; divided into four subclasses or superorders: alismatidae; arecidae; commelinidae; and liliidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Comprising seed plants that produce an embryo with a single cotyledon and parallel-veined leaves: includes grasses and lilies and palms and orchids; divided into four subclasses or superorders: alismatidae; arecidae; commelinidae; and liliidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The plural taxonomic designation for monocotyledons in botanical classification.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical taxonomy (such as Jussieu's natural system), the primary division of angiosperm plants whose seeds contain only one cotyledon.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monocotyledones designates comprising seed plants that produce an embryo with a single cotyledon and parallel-veined leaves: includes grasses and lilies and palms and orchids; divided into four subclasses or superorders: alismatidae; arecidae; commelinidae; and liliidae."*
+> - 📜 **Antoine Laurent de Jussieu (*Genera Plantarum*):** *"I established the primary division of **Monocotyledones** on the basis of embryo architecture and floral insertion."*
+> - 📜 **George Bentham (*Genera Plantarum*):** *"The **Monocotyledones** present an astonishing ecological range, from subaquatic duckweeds to massive columnar palms."*
+> - 📜 **Alexander von Humboldt (*Cosmos: A Sketch of a Physical Description of the Universe*):** *"In equatorial zones, the luxuriant growth of **Monocotyledones** gives tropical landscapes their distinctive majestic character."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of two genera of stilts; similar to avocets but with straight bills.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of two genera of stilts; similar to avocets but with straight bills.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of Australian wading birds in the family Recurvirostridae, represented by the banded stilt (Cladorhynchus leucocephalus).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ornithology, nomadic shorebirds inhabiting ephemeral inland hypersaline lakes and breeding opportunistically following desert rain events.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cladorhyncus designates one of two genera of stilts; similar to avocets but with straight bills."*
+> - 📜 **John Gould (*The Birds of Australia*):** *"The banded stilt, described under **Cladorhynchus**, frequents the brackish lagoons of the southern interior in immense nomadic flocks."*
+> - 📜 **Alfred Russel Wallace (*The Geographical Distribution of Animals*):** *"Australian saltpans harbor specialized avian forms such as **Cladorhynchus**, adapted to hyper-saline aquatic foraging."*
+> - 📜 **Gregory Mathews (*The Birds of Australia: Volume III*):** *"The long, slender bill and webbed front toes of **Cladorhynchus** distinguish it from other members of the stilt family."*

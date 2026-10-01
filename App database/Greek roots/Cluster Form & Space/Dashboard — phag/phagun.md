@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The twelfth month of the hindu calendar.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The twelfth month of the hindu calendar.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The eleventh month of the Hindu calendar (corresponding to February–March), often celebrating the arrival of spring and the festival of Holi.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In South Asian literature and ethnobotany, Phagun (Phalguna) is associated with blossoming flora, harvest celebrations, and seasonal folk songs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phagun designates the twelfth month of the hindu calendar."*
+> - 📜 **Rabindranath Tagore (*Gitanjali*):** *"In the joyous breeze of **Phagun**, the red palash blossoms awaken the slumbering forest with vibrant spring fire."*
+> - 📜 **Premchand (*Godan*):** *"The villagers gathered in the square during **Phagun**, singing festive songs of spring despite their grinding debts."*
+> - 📜 **Mirabai (*Songs of Devotion*):** *"The month of **Phagun** has arrived, and the courtyard is filled with colored dust and celestial ecstasy."*

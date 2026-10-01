@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The membranous oval or tubular spore case of an ascomycete.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The membranous oval or tubular spore case of an ascomycete.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A microscopic, sac-like reproductive structure in ascomycete fungi in which ascospores are formed by meiosis and mitosis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In fungal cytogenetics, typically a cylindrical or club-shaped sporangium containing eight haploid ascospores, often functioning as an explosive ejection mechanism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ascus designates the membranous oval or tubular spore case of an ascomycete."*
+> - 📜 **Anton de Bary (*Comparative Morphology and Biology of the Fungi*):** *"Karyogamy occurs within the young **ascus**, followed immediately by two meiotic divisions that generate four haploid nuclei."*
+> - 📜 **William Benjamin Carpenter (*The Microscope and Its Revelations*):** *"Under polarized light, the apical ring of the **ascus** glows brilliantly just before the terminal pore opens to discharge spores."*
+> - 📜 **Julian Huxley (*Evolution: The Modern Synthesis*):** *"The linear arrangement of spores within the **ascus** of Neurospora made it the supreme organism for mapping gene loci."*

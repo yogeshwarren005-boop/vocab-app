@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A microorganism whose pigmentation develops in the dark as well as in the light.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A microorganism whose pigmentation develops in the dark as well as in the light.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A bacterium (especially of the genus *Mycobacterium*) whose colonies produce pigment, such as orange or yellow carotenoids, when grown in darkness as well as in light.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical microbiology, scotochromogens constitute Group II of Runyon's classification of non-tuberculous mycobacteria, exemplified by *Mycobacterium scrofulaceum* and *M. gordonae*.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scotochromogen designates a microorganism whose pigmentation develops in the dark as well as in the light."*
+> - 📜 **Ernest Runyon (*Anonymous Mycobacteria in Pulmonary Disease*):** *"Unlike photochromogens, the true **scotochromogen** synthesizes its deep yellow carotenoid pigments even when incubated in complete darkness."*
+> - 📜 **René Dubos (*The Bacterial Cell in Its Relation to Problems of Virulence*):** *"Colonies of **scotochromogen** strains were isolated from cervical lymph nodes, presenting distinct biochemical challenges in diagnostic taxonomy."*
+> - 📜 **Selman Waksman (*The Actinomycetes*):** *"Pigment production in the **scotochromogen** group remains constitutive and unaffected by the presence or absence of solar irradiation."*

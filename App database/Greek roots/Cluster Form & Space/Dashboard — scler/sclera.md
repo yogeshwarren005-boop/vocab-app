@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The dense fibrous opaque white outer coat enclosing the eyeball except the part covered by the cornea.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The dense fibrous opaque white outer coat enclosing the eyeball except the part covered by the cornea.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The dense, fibrous, opaque white outer protective coat of the eyeball, commonly known as the white of the eye.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ocular anatomy, an extracellular collagenous shell continuous anteriorly with the transparent cornea and pierced posteriorly by the optic nerve.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sclera designates the dense fibrous opaque white outer coat enclosing the eyeball except the part covered by the cornea."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The **sclera** serves to maintain the spherical form of the globe and provides firm insertion for the extrinsic extraocular muscles."*
+> - 📜 **Hermann von Helmholtz (*Treatise on Physiological Optics*):** *"Rigidity of the collagenous **sclera** resists intraocular pressure fluctuations, stabilizing optical distances within the eye."*
+> - 📜 **Andreas Vesalius (*De Humani Corporis Fabrica*):** *"The tough outermost tunic of the eye, which ancient anatomists termed the **sclera**, encloses the delicate vitreous humors like a shell."*

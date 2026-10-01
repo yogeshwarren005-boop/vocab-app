@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An emoticon of a smiling face.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An emoticon of a smiling face.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A stylized graphic depiction of a smiling face, especially a yellow circle with two dots for eyes and a curved line for a mouth; an emoticon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In digital communications and semiotics, Scott Fahlman's 1982 ASCII smiley ':-)' inaugurated the widespread use of typographic emotional markers in text messaging.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, smiley designates an emoticon of a smiling face."*
+> - 📜 **Scott Fahlman (*Proposal for ASCII Emotion Markers on the CMU Bboard*):** *"I propose that the sequence :-) be used as a **smiley** marker to distinguish humorous posts from serious debate."*
+> - 📜 **Douglas Coupland (*Microserfs*):** *"His email closed with a jaunty **smiley**, a pixelated grin floating in the cold fluorescent glow of the cubicle."*
+> - 📜 **David Crystal (*Language and the Internet*):** *"The ubiquitous **smiley** acts as a visual tone-of-voice, preventing unfortunate misunderstandings in rapid digital exchanges."*

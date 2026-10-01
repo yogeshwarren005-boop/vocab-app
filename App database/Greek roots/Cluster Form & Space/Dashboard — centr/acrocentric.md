@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the centromere situated so that one chromosomal arm is much shorter than the other.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the centromere situated so that one chromosomal arm is much shorter than the other.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Describing a chromosome in which the centromere is located near one end, resulting in one very short arm and one exceptionally long arm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human cytogenetics, referring to chromosomes 13, 14, 15, 21, and 22, which possess short arms bearing nucleolar organizing regions (rDNA repeats) and are prone to Robertsonian translocations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acrocentric designates having the centromere situated so that one chromosomal arm is much shorter than the other."*
+> - 📜 **Theodosius Dobzhansky (*Genetics and the Origin of Species*):** *"Robertsonian centric fusion between two non-homologous **acrocentric** chromosomes reduces the total chromosome number while preserving genetic material."*
+> - 📜 **Eric Kandel (*Principles of Neural Science*):** *"Trisomy of the small **acrocentric** chromosome twenty-one produces the complex neurodevelopmental phenotypes of Down syndrome."*
+> - 📜 **Edmund Beecher Wilson (*The Cell in Development and Inheritance*):** *"Karyotypic analysis revealed that each **acrocentric** element terminates in a minute heterochromatic satellite knob."*

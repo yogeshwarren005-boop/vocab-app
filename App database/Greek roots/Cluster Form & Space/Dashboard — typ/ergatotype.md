@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek typ.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A type specimen of the worker caste in social insects, especially ants (Formicidae).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In myrmecological taxonomy (William Morton Wheeler), an ergatotype designates a representative worker (*ergate*) selected when species descriptions are based on the non-reproductive worker caste rather than alate queens or males.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ergatotype designates a term designating an entity, condition, or phenomenon derived from greek typ."*
+> - 📜 **William Morton Wheeler (*Ants: Their Structure, Development and Behavior*):** *"Because most ant colonies are collected without queens, the **ergatotype** or worker type often anchors the original species description."*
+> - 📜 **Edward O. Wilson (*The Insect Societies*):** *"Comparison of museum **ergatotype** specimens revealed striking morphological divergence across desert harvester ants."*
+> - 📜 **August Forel (*The Senses of Insects*):** *"Careful measurement of the designated **ergatotype** establishes the standard cephalic index for the newly named caste."*

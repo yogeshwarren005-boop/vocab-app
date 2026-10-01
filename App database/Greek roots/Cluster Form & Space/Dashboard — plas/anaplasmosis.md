@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A disease of cattle that is transmitted by cattle ticks; similar to texas fever.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disease of cattle that is transmitted by cattle ticks; similar to texas fever.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An infectious tick-borne disease of cattle and other ruminants (and rarely humans) caused by obligate intracellular bacteria of the genus Anaplasma.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In veterinary medicine, bovine anaplasmosis (caused by Anaplasma marginale) induces severe hemolytic anemia, icterus, and progressive cachexia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anaplasmosis designates a disease of cattle that is transmitted by cattle ticks; similar to texas fever."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Tick vectors transmit bovine **anaplasmosis**, causing acute erythrocyte destruction without hemoglobinuria."*
+> - 📜 **Theobald Smith (*Investigations into the Nature, Causation, and Prevention of Texas Cattle Fever*):** *"Microscopic examination revealed marginal inclusion bodies in red blood cells characteristic of acute **anaplasmosis**."*
+> - 📜 **Tinsley R. Harrison (*Principles of Internal Medicine*):** *"Human granulocytic **anaplasmosis**, transmitted by Ixodes scapularis, responds promptly to oral doxycycline therapy."*

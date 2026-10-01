@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or affected by an aneurysm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or affected by an aneurysm.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, resembling, or affected with an aneurysm; dilatational.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pathology, designating dilated vascular structures, such as an aneurysmal bone cyst or aneurysmal dilation of the ascending aorta.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aneurysmal designates relating to or affected by an aneurysm."*
+> - 📜 **Vinay Kumar (*Robbins and Cotran Pathologic Basis of Disease*):** *"An **aneurysmal** bone cyst contains blood-filled cavernous spaces separated by fibrous septa containing osteoclast-like giant cells."*
+> - 📜 **Courtney M. Townsend (*Sabiston Textbook of Surgery*):** *"Progressive **aneurysmal** expansion increases wall tension exponentially according to the law of Laplace."*
+> - 📜 **Arthur C. Guyton (*Textbook of Medical Physiology*):** *"Turbulent hemodynamic vortices within an **aneurysmal** sac promote thrombus formation along the vessel perimeter."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek piez.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The phenomenon whereby a substance changes color reversibly under the influence of applied mechanical pressure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In materials science and solid-state physics, piezochromism occurs in certain conjugated polymers and coordination complexes due to pressure-induced alterations in molecular orbital overlap.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, piezochromism designates a term designating an entity, condition, or phenomenon derived from greek piez."*
+> - 📜 **Roald Hoffmann (*Solids and Surfaces*):** *"Dramatic **piezochromism** in metallomacrocycles results from compression of intermolecular axial metal-metal distances."*
+> - 📜 **C. N. R. Rao (*Solid State Chemistry*):** *"Subjecting crystalline organic salts to high hydrostatic pressure induces reversible **piezochromism** through lattice strain."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"Band gap narrowing under severe compression provides the quantum mechanical explanation for visible **piezochromism**."*

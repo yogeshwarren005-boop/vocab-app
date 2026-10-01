@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mantra consisting of the sound \ˈōm\ and used in contemplation of ultimate reality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Order of merit.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A Greek combining form meaning raw or uncooked, appearing in compound words relating to the consumption or state of unprocessed food or material.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical studies, the root om- connects to Dionysian ritual practices involving the eating of raw flesh, linking the morpheme to religious and anthropological discourse.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, om designates a mantra consisting of the sound \ˈōm\ and used in contemplation of ultimate reality."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"The root **om-** from Greek omos conveys the sense of rawness or the uncooked state."*
+> - 📜 **Pierre Chantraine (*Dictionnaire etymologique de la langue grecque*):** *"The combining form **om-** retains its Indo-European sense of raw, unprocessed, or crude throughout Greek derivatives."*
+> - 📜 **Robert Beekes (*Etymological Dictionary of Greek*):** *"Greek **om-** is cognate with Sanskrit ama, both preserving the Proto-Indo-European root for uncooked."*

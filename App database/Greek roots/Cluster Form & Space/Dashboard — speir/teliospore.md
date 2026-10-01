@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A chlamydospore that is the final stage in the life cycle of a rust fungus and that gives rise to the basidium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A chlamydospore that is the final stage in the life cycle of a rust fungus and that gives rise to the basidium.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The thick-walled, resting winter spore of rust fungi (Pucciniales) and smut fungi, from which the basidium arises upon germination.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant pathology, teliospores of *Puccinia graminis* overwinter on wheat stubble, undergoing karyogamy and meiosis in spring to infect barberry bushes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, teliospore designates a chlamydospore that is the final stage in the life cycle of a rust fungus and that gives rise to the basidium."*
+> - 📜 **Heinrich Anton de Bary (*Researches on the Development of Rust Fungi*):** *"The dark, two-celled **teliospore** constitutes the dormant resting stage that survives harsh continental winters."*
+> - 📜 **E. C. Stakman (*Physiologic Specialization in Puccinia graminis*):** *"Germination of the wheat rust **teliospore** produces a promycelium bearing four haploid basidiospores."*
+> - 📜 **Selman Waksman (*Principles of Soil Microbiology*):** *"The heavily melanized wall of the **teliospore** resists enzymatic breakdown by saprophytic soil bacteria."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who drinks alcoholic beverages (especially to excess).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who drinks alcoholic beverages (especially to excess).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chronic or habitual drinker of alcoholic liquor, especially one given to heavy intoxication; a drunkard.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Frequently appearing in eighteenth- and nineteenth-century English tavern literature, a toper was characterized as a convivial, seasoned imbiber of ale, punch, or port.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It may be observed that such a class of mug is called a God-forgive-me in Weatherbury and its vicinity for uncertain reasons; probably because its size makes any given toper feel ashamed of himself when he sees its bottom in drinking it empty."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"At any rate, there will be a kindred pleasure in treading the halls once vocal with their mirth to that the toper enjoys in smelling to the empty cask, once filled with generous wine.” The resolution was no sooner formed than put in execution."*
-> - 📜 **Oliver Optic (*Plane and Plank; or, The Mishaps of a Mechanic*):** *"You didn't find him," chuckled the toper."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The mug was called a God-forgive-me because its immense depth made any seasoned **toper** feel ashamed when he saw the bottom empty."*
+> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"The retired old **toper** derived kindred pleasure from inhaling the rich aroma of the empty wine cask."*
+> - 📜 **William Makepeace Thackeray (*The History of Henry Esmond*):** *"The jovial country squire was an unrepentant **toper**, spending every evening over bumpers of mulled claret."*

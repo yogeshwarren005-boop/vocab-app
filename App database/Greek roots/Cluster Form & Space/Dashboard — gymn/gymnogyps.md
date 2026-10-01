@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing solely the california condor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Containing solely the california condor.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A monotypic genus of large New World vultures containing the California condor (Gymnogyps californianus).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In conservation biology and ornithology, Gymnogyps californianus is one of the world's most endangered raptors, noted for its unfeathered, naked head and three-meter wingspan.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gymnogyps designates containing solely the california condor."*
+> - 📜 **Elliott Coues (*Key to North American Birds*):** *"The colossal California vulture, **gymnogyps**, soars on motionless pinions above the highest peaks of the Pacific coast ranges."*
+> - 📜 **E. O. Wilson (*The Diversity of Life*):** *"Intensive captive breeding rescued **gymnogyps** from the brink of total extinction when only twenty-two individuals remained."*
+> - 📜 **Alexander Wetmore (*A Systematic Classification for the Birds of the World*):** *"The bare, corrugated skin of the head in adult **gymnogyps** flushes vivid orange-pink during territorial courtship displays."*

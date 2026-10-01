@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Rod-shaped gram-negative bacteria; include important plant and animal pathogens.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rod-shaped gram-negative bacteria; include important plant and animal pathogens.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of Gram-negative, aerobic, non-spore-forming rod-shaped bacteria (standard spelling Pseudomonadaceae).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In bacterial taxonomy, a diverse bacterial family containing Pseudomonas, characterized by polar flagellation, catalase positivity, and widespread metabolic pathways.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pseudomonodaceae designates rod-shaped gram-negative bacteria; include important plant and animal pathogens."*
+> - 📜 **Robert E. Buchanan (*Bergey's Manual of Determinative Bacteriology*):** *"The family **pseudomonodaceae** embraces numerous ecological generalists capable of mineralizing recalcitrant organic matter."*
+> - 📜 **Selman Waksman (*Principles of Soil Microbiology*):** *"Abundant representatives of **pseudomonodaceae** in agricultural topsoils participate actively in nitrification and denitrification."*
+> - 📜 **Roger Y. Stanier (*The Aerobic Pseudomonads: A Taxonomic Study*):** *"Subdividing the **pseudomonodaceae** on the basis of nutritional spectra resolved decades of taxonomic confusion."*

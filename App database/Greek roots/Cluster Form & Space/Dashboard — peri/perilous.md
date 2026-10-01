@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fraught with danger.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fraught with danger.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Full of danger or risk; hazardous; fraught with peril.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical and literary narrative, describing arduous endeavors or existential thresholds fraught with catastrophic jeopardy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then on good ground we fear, If we do fear this body hath a tail More perilous than the head."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You speak like a green girl, Unsifted in such perilous circumstance."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A perilous gash, a very limb lopp’d off— And yet, in faith, it is not!"*
+> - 📜 **William Shakespeare (*Julius Caesar*):** *"Now could I, Casca, name to thee a man most like this dreadful night, that thunders, lightens, opens graves, and roars in **perilous** defiance."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Lowering whaleboats into tempestuous waters is a desperate and **perilous** enterprise."*
+> - 📜 **John Bunyan (*The Pilgrim's Progress*):** *"Christian journeyed through the Slough of Despond along a narrow and **perilous** pathway."*

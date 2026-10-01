@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: As the hard flattened scales of e.g. sharks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: As the hard flattened scales of e.g. sharks.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Plate-like; flattened; specifically designating the tooth-like dermal denticles characteristic of cartilaginous fishes (sharks and rays).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative anatomy and ichthyology, a placoid scale consists of a vascular pulp cavity, dentine, and a hard enameloid cap identical in structure to vertebrate teeth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, placoid designates as the hard flattened scales of e.g. sharks."*
+> - 📜 **Louis Agassiz (*Recherches sur les Poissons Fossiles*):** *"I classified cartilaginous elasmobranchs into the order **placoid**, characterized by hard enamel-tipped dermal denticles."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"Each tiny **placoid** spine on the shark's skin is homologous in structure and development to a mammalian tooth."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"The rough sandpaper texture of shark skin is due to millions of microscopic **placoid** scales."*

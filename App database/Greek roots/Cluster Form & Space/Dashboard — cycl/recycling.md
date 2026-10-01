@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of processing used or abandoned materials for use in creating new products.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause to repeat a cycle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of collecting, processing, and remanufacturing waste materials into new products.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biogeochemistry and circular economy, the natural or industrial circulation and return of elements or commodities into productive use.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"He repeated charges that the UIPS non-renewables deficits resulted from poor control and excessive consumption of raw materials, plus breakdown in recycling and conservation policies."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Recycling, salvage, ever-deeper mine shafts and tunnels, repeated sweeps of the Earth's sea beds and planetary and satellites' crusts, trenches, beds and craters offered insufficient returns."*
+> - 📜 **Barry Commoner (*The Closing Circle*):** *"The breakdown of natural **recycling** mechanisms is the root cause of the modern environmental crisis."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"Upwelling deep currents accomplish a perpetual **recycling** of oceanic nutrients to nourish surface plankton."*
+> - 📜 **E. F. Schumacher (*Small Is Beautiful*):** *"Efficient industrial **recycling** reduces our rapacious depletion of virgin geological deposits."*

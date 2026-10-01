@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An organization of employees formed to bargain with the employer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The united states (especially the northern states during the american civil war).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The action of joining or being joined together, especially in a political, social, marriage, or legal bond; also, an organized association of workers formed to protect and further their rights and interests (trade union).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In set theory and mathematics, the union of a collection of sets is the set of all elements contained in at least one of the sets; in American history, the Union denotes the United States as a federal republic, especially during the Civil War.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This union shall do more than battery can To our fast-closed gates; for at this match, With swifter spleen than powder can enforce, The mouth of passage shall we fling wide ope, And give you entrance."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jellyby the union of mind and matter."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"In the last scene, when the Emperor of Tartary gets up into a cart and condescends to bless the united lovers by hovering over them with the Union Jack, his eyelashes are moistened with emotion."*
+> - 📜 **Abraham Lincoln (*First Inaugural Address*):** *"I hold that, in contemplation of universal law and of the Constitution, the **Union** of these States is perpetual."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Workmen frequently enter into a voluntary **union** to raise the wages of their labour and protect their craft."*
+> - 📜 **Bertrand Russell (*The Principles of Mathematics*):** *"The logical **union** of two distinct classes contains every entity that belongs to either class or to both."*

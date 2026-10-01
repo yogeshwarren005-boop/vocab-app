@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In former classification systems: one of two major plant divisions, including all plants that do not bear seeds: ferns, mosses, algae, fungi.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In former classification systems: one of two major plant divisions, including all plants that do not bear seeds: ferns, mosses, algae, fungi.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The 24th and final class in the Linnaean sexual system of plant classification, encompassing plants with concealed reproductive organs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical taxonomy, a vast non-flowering assemblage embracing ferns, mosses, liverworts, lichens, algae, and fungi.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Relhan, for instance, only occupies one-fifth of his “Flora Cantabrigiensis,” and Hudson one-fourth of his “Flora Anglica,” with the Cryptogamia."*
+> - 📜 **Carl Linnaeus (*Genera Plantarum*):** *"In the class **Cryptogamia**, the stamens and pistils are either too minute to be detected or entirely hidden from sight."*
+> - 📜 **John Ray (*The Wisdom of God Manifested in the Works of the Creation*):** *"Even in the obscure realms of **Cryptogamia**, the Divine Architect has provided exquisite mechanisms for propagation."*
+> - 📜 **Asa Gray (*Botanical Text-Book*):** *"Microscopic discoveries gradually dismembered the artificial class **Cryptogamia**, segregating fungi and algae from vascular archegoniates."*

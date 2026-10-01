@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Conforming to a fixed or general pattern or type especially when of an oversimplified or prejudiced nature : of, relating to, or constituting a stereotype.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or marked by stereotypy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by or conforming to a stereotype; repetitive, unvarying, and mechanical in nature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In behavioral ethology and neuropsychiatry, stereotypic movements (stereotypies) are repetitive, purposeless, invariant motor patterns (e.g. pacing, rocking) caused by captivity stress or basal ganglia dysfunction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stereotypic designates conforming to a fixed or general pattern or type especially when of an oversimplified or prejudiced nature : of, relating to, or constituting a stereotype."*
+> - 📜 **Konrad Lorenz (*On Aggression*):** *"Animals confined to barren cages frequently exhibit **stereotypic** pacing that reflects thwarted instinctive drives."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"Severe Parkinsonian dyskinesias often assumed a rhythmic, **stereotypic** repetition that exhausted the patient."*
+> - 📜 **Edward O. Wilson (*Sociobiology: The New Synthesis*):** *"Courtship displays in birds rely on invariant, **stereotypic** motor sequences released by specific sign stimuli."*

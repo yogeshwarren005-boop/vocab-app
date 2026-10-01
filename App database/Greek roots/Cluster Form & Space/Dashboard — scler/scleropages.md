@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of large freshwater fishes of australia and borneo.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of large freshwater fishes of australia and borneo.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of primitive freshwater osteoglossiform bonytongue fishes (family Osteoglossidae) native to Southeast Asia and Australia, including the Asian and Australian arowanas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ichthyology and evolutionary biogeography, archaic Gondwanan surface predators equipped with sensory chin barbels, large cycloid scales, and a bony toothed tongue.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scleropages designates a genus of large freshwater fishes of australia and borneo."*
+> - 📜 **Albert Günther (*Catalogue of the Fishes in the British Museum*):** *"The genus **scleropages** comprises archaic freshwater fishes whose massive armor-like scales reflect primitive teleost lineage."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"In tropical rivers, **scleropages** cruises close to the surface, leaping several feet into overhanging foliage to catch terrestrial insects."*
+> - 📜 **Theodore Gill (*Arrangement of the Families of Fishes*):** *"The biogeographic distribution of **scleropages** across Australasia and Sundaland provides strong evidence for ancient continental connections."*

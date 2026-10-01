@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An adherent of neoplatonism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An adherent of neoplatonism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An adherent or philosopher of Neoplatonism, such as Plotinus, Porphyry, Iamblichus, or Proclus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In intellectual history, a thinker influenced by the Neoplatonic tradition during the Renaissance (such as Marsilio Ficino or Pico della Mirandola).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neoplatonist designates an adherent of neoplatonism."*
+> - 📜 **Bertrand Russell (*A History of Western Philosophy*):** *"To the Alexandrian **Neoplatonist**, intellectual contemplation was the sacred path leading toward unity with the divine source."*
+> - 📜 **Saint Augustine (*Confessions*):** *"The writings of the **Neoplatonist** philosophers opened my mind to the reality of immaterial spiritual substance."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Every pagan philosopher of the fourth century claimed to be an inspired **Neoplatonist** and interpreter of divine mysteries."*

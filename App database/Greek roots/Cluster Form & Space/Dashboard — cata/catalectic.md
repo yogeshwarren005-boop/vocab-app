@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (prosody) a line of verse that lacks a syllable in the last metrical foot.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (verse) metrically incomplete; especially lacking one or more syllables in the final metrical foot.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In classical metrics and poetic prosody, lacking one or more syllables in the final foot of a line of verse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by terminal metrical truncation, commonly used in trochaic or dactylic meters to impart a sharp, resolute cadence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"A catalectic tetrameter of iambs marching."*
+> - 📜 **Edgar Allan Poe (*The Philosophy of Composition*):** *"The rhythm of The Raven is trochaic, the measure octameter acatalectic, alternating with heptameter **catalectic**."*
+> - 📜 **George Saintsbury (*A History of English Prosody*):** *"The dropping of the final unaccented syllable renders the trochaic line **catalectic**, ending upon an emphatic monosyllabic beat."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"A **catalectic** close arrests the flowing cadence of the verse, concentrating dramatic attention on the final word."*

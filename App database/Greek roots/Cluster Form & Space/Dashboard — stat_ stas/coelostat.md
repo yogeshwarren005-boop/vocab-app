@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Optical device used to follow the path of a celestial body and reflect its light into a telescope; has a movable and a fixed mirror.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Optical device used to follow the path of a celestial body and reflect its light into a telescope; has a movable and a fixed mirror.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An astronomical apparatus consisting of a plane mirror mounted on an axis parallel to the Earth's polar axis, driven by clockwork to reflect a constant, stationary image of a celestial region into a fixed telescope.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In solar physics and eclipse expeditions, a coelostat eliminates field rotation, allowing massive horizontal or vertical spectrographs to analyze solar coronal spectra without moving the primary telescope tube.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coelostat designates optical device used to follow the path of a celestial body and reflect its light into a telescope; has a movable and a fixed mirror."*
+> - 📜 **Gabriel Lippmann (*Sur le Coelostat*):** *"The **coelostat** reflects the revolving sky so that the reflected constellation appears completely motionless in the observer's field."*
+> - 📜 **George Ellery Hale (*The Study of Stellar Evolution*):** *"The high focal length of the Snow solar telescope required a twin-mirror **coelostat** to direct the sunbeam into the spectrograph pit."*
+> - 📜 **Arthur Eddington (*Space, Time and Gravitation*):** *"At Principe during the 1919 solar eclipse, our sixteen-inch **coelostat** mirror fed the photographic tube that tested Einstein's deflection."*

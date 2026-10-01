@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek zyg.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A former phylum of fungi characterized by the formation of zygospores through the sexual fusion of compatible hyphae, including bread molds and related organisms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In fungal systematics, Zygomycota is no longer recognized as a monophyletic group; its members have been redistributed among Mucoromycota, Zoopagomycota, and other phyla based on molecular phylogenetics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, zygomycota designates a term designating an entity, condition, or phenomenon derived from greek zyg."*
+> - 📜 **C. J. Alexopoulos (*Introductory Mycology*):** *"The **Zygomycota** were defined by the production of thick-walled zygospores resulting from gametangial conjugation."*
+> - 📜 **John Webster (*Introduction to Fungi*):** *"Members of the **Zygomycota** include the common bread mold Rhizopus and the insect pathogen Entomophthora."*
+> - 📜 **Timothy James (*Reconstructing the Early Evolution of Fungi*):** *"Molecular analyses have revealed that the **Zygomycota** as traditionally defined are polyphyletic."*

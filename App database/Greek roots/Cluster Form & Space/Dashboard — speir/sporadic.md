@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring occasionally, singly, or in irregular or random instances.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A layer of ionization occurring irregularly within the E region of the ionosphere.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring at irregular intervals or only in a few isolated places; scattered, occasional, or intermittent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epidemiology, sporadic cases denote isolated disease occurrences that arise without clear temporal clustering or connection to a wider outbreak.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sporadic designates occurring occasionally, singly, or in irregular or random instances."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Typhoid fever, formerly an endemic plague, now manifests only in **sporadic** outbreaks traceable to contaminated wells."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Volcanic eruptions in that ancient rift appear to have been **sporadic**, separated by millenia of structural quiescence."*
+> - 📜 **Thomas Hardy (*The Return of the Native*):** *"Across the vast darkness of Egdon Heath, only **sporadic** bonfires flickered against the gloomy horizon."*

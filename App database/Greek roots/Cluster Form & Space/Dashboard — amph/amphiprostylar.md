@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by columniation having free columns in porticoes either at both ends or at both sides of a structure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by columniation having free columns in porticoes either at both ends or at both sides of a structure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having open columnar porticoes at both the front and rear facades, but no columns along the lateral sides (describing classical buildings).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical architecture, describing a temple design typified by the Temple of Athena Nike on the Athenian Acropolis, balancing entrance and rear colonnades.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amphiprostylar designates marked by columniation having free columns in porticoes either at both ends or at both sides of a structure."*
+> - 📜 **Vitruvius (*De Architectura*):** *"The **amphiprostylar** temple has all the features of the prostyle, and besides has columns and a pediment in the rear like those in front."*
+> - 📜 **John Ruskin (*The Seven Lamps of Architecture*):** *"The elegant symmetry of an **amphiprostylar** facade bestows noble balance without the heavy encumbrance of a continuous peristyle."*
+> - 📜 **James Fergusson (*A History of Architecture in All Countries*):** *"In the miniature sanctuary of Athena Nike, the **amphiprostylar** arrangement produced an exquisite lightness upon the bastion."*

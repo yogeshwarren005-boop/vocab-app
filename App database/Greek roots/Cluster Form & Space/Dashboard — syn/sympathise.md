@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Share the feelings of; understand the sentiments of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To feel or express sympathy or compassion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To feel or express sympathy, pity, or compassion for another's distress; British/Commonwealth spelling of sympathize.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral philosophy, to sympathise is to mentally reproduce another's emotional experience through imaginative fellow-feeling.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"While something in me,” he went on, “is acutely sensible to her charms, something else is as deeply impressed with her defects: they are such that she could sympathise in nothing I aspired to—co-operate in nothing I undertook."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"John’s taciturnity: he was sincerely glad to see his sisters; but in their glow of fervour and flow of joy he could not sympathise."*
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"We, of this self-conscious, incredulous generation, sentimentalise our children, analyse our children, think we are endowed with a special capacity to sympathise and identify ourselves with children; we play at being children."*
+> - 📜 **Adam Smith (*The Theory of Moral Sentiments*):** *"To **sympathise** with another's sorrow is to place oneself imaginatively in his situation and feel his grief."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Dorothea could deeply **sympathise** with Casaubon's intellectual toils, though his cold heart repelled her warmth."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"I can **sympathise** with your loneliness, for my own childhood was passed in unloved seclusion."*

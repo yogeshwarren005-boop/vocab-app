@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek scaph.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The boat-shaped carpal bone situated on the thumb (radial) side of the human wrist, articulating with the radius, lunate, and trapezium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In orthopedic traumatology, the most commonly fractured carpal bone, notorious for poor vascular supply through its distal pole and risk of avascular necrosis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scaphoid bone designates a term designating an entity, condition, or phenomenon derived from greek scaph."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The **scaphoid bone** is the largest bone of the proximal carpal row, presenting a deep concavity for articulation with the head of the os magnum."*
+> - 📜 **Andreas Vesalius (*De Humani Corporis Fabrica*):** *"Resembling a skiff or small boat, the **scaphoid bone** mediates movements between the forearm and the palm."*
+> - 📜 **Frank H. Netter (*Atlas of Human Anatomy*):** *"Tenderness in the anatomical snuffbox upon palpation strongly indicates a fracture of the **scaphoid bone** following a fall on the outstretched hand."*

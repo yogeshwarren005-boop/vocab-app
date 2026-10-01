@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A diagonal path.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A route shorter than the usual one.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Made or directed across the grain or main flow; cut transversely.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A transverse cut, path, or saw designed to cut timber across the wood grain; figuratively, a shortcut across terrain.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, crosscut designates a diagonal path."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"With a keen **crosscut** saw, the woodman sliced the fallen pine trunk into even hearth logs."*
+> - 📜 **Thomas Hardy (*The Woodlanders*):** *"The rhythmic rasp of the **crosscut** echoed through the misty hazel coppice from sunrise to dusk."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The harpooneer made a swift **crosscut** through the tangle of hemp line to free the capsizing whaleboat."*

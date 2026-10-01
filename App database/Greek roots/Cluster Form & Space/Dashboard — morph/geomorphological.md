@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to geological structure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to geological structure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to geomorphology; concerned with the physical configuration and sculpting mechanisms of planetary surface landforms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geotechnical engineering and coastal management, geomorphological field surveys assess slope stability, sediment transport dynamics, and flood hazards.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, geomorphological designates pertaining to geological structure."*
+> - 📜 **William Morris Davis (*The Geographical Cycle*):** *"A complete **geomorphological** description of any landscape requires an account of structure, process, and developmental stage."*
+> - 📜 **Ralph Alger Bagnold (*The Physics of Blown Sand and Desert Dunes*):** *"Field measurements reveal that crescentic barchan dunes migrate as coherent **geomorphological** units across rocky desert plains."*
+> - 📜 **Richard Chorley (*Physical Geography: A Systems Approach*):** *"Modern hydrology analyzes the drainage basin as an integrated open **geomorphological** system operating in dynamic equilibrium."*

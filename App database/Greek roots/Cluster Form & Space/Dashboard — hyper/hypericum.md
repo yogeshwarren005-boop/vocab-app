@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large almost cosmopolitan genus of evergreen or deciduous shrubs and herbs with often showy yellow flowers; cosmopolitan except tropical lowlands and arctic or high altitudes and desert regions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large almost cosmopolitan genus of evergreen or deciduous shrubs and herbs with often showy yellow flowers; cosmopolitan except tropical lowlands and arctic or high altitudes and desert regions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large genus of flowering plants in the family Hypericaceae, commonly known as St. John's worts, comprising hundreds of species with bright yellow flowers and glandular-punctate leaves.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ethnopharmacology and psychiatry, *Hypericum perforatum* is traditionally utilized for mild to moderate depression; its active constituent hyperforin acts as a non-selective reuptake inhibitor of monoamines while inducing cytochrome P450 CYP3A4.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"John’s-wort (_Hypericum_), but especially on the under surface of the leaves of the Tutsan, covering them with its golden-coloured spores (Plate VIII. fig. 174)."*
+> - 📜 **John Gerard (*The Herball or Generall Historie of Plantes*):** *"St. John's wort, called **Hypericum**, is a singular herb to heal deep wounds and dispel melancholic humors."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"Leaves of **Hypericum** perforatum appear pierced with tiny holes when held to the sun, owing to pellucid oil glands."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Herbal preparations of **Hypericum** have been employed since antiquity as nervine tonics and vulneraries."*

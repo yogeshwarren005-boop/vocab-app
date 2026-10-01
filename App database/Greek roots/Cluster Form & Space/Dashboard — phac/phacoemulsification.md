@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek phac.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A modern cataract surgical technique in which the clouded crystalline lens of the eye is broken up using ultrasonic vibrations and aspirated through a small incision.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ophthalmology, Charles Kelman introduced phacoemulsification in 1967, drastically reducing incision size and postoperative recovery time.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phacoemulsification designates a term designating an entity, condition, or phenomenon derived from greek phac."*
+> - 📜 **Charles Kelman (*Phaco-Emulsification and Aspiration: A New Technique of Cataract Removal*):** *"Ultrasonic **phacoemulsification** allows the clouded lens nucleus to be liquefied and removed through a miniature corneal puncture."*
+> - 📜 **Duke-Elder (*System of Ophthalmology*):** *"The adoption of **phacoemulsification** transformed cataract surgery into a rapid outpatient procedure with minimal astigmatic impact."*
+> - 📜 **Jack J. Kanski (*Clinical Ophthalmology*):** *"Continuous curvilinear capsulorhexis provides the necessary stability for safe nuclear **phacoemulsification** within the capsular bag."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A firm-walled and distinctive egg case (as of a cockroach).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A firm-walled and distinctive egg case (as of a cockroach).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A protective egg case or capsule produced by certain insects and mollusks, enclosing a batch of eggs in a hardened or leathery covering.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In entomology, the ootheca is characteristic of cockroaches, mantises, and some grasshoppers, providing mechanical protection and environmental buffering during embryonic development.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ootheca designates a firm-walled and distinctive egg case (as of a cockroach)."*
+> - 📜 **Louis Roth (*The Cockroach*):** *"The female German cockroach carries her **ootheca** protruding from the abdomen until the nymphs are ready to hatch."*
+> - 📜 **William Kirby (*An Introduction to Entomology*):** *"The **ootheca** of the praying mantis is a foamy mass that hardens into a sponge-like protective casing."*
+> - 📜 **E. O. Wilson (*The Insect Societies*):** *"The architecture of the **ootheca** varies considerably among cockroach species and serves as a taxonomic character."*

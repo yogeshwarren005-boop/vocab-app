@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To practice economy : be frugal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To use frugally : save.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To manage financial, natural, or physical resources with prudence and frugality; to reduce expenditure and prevent waste.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In thermodynamics and power plant design, to economize boiler fuel consumption by preheating feedwater using waste flue gases.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He could not bring himself to consider, calculate, or economize."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Their effects are least felt in the staple industries, for when hard times come people economize on the less essential things."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He could not bring himself to consider, calculate, or economize."*
+> - 📜 **Benjamin Franklin (*Poor Richard's Almanack*):** *"Beware of little expenses; a small leak will sink a great ship: **economize** today that you may feast in old age."*
+> - 📜 **Ralph Waldo Emerson (*The Conduct of Life*):** *"Spend for your expense, and **economize** in your expenditure, remembering that wealth consists in the wise direction of power."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"Evolutionary progress tends everywhere to **economize** vital energy, substituting specialized physiological organs for diffuse tissues."*

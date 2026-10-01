@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Razor clams.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Razor clams.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxonomic family of marine bivalve mollusks commonly known as razor clams, possessing elongated, narrow, tubular shells open at both ends.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In malacology, Solenidae (such as *Solen*) burrow vertically and rapidly into coastal sandflats using a powerful muscular foot extending from the anterior gape.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, solenidae designates razor clams."*
+> - 📜 **G. W. Tryon (*Structural and Systematic Conchology*):** *"The bivalve family **Solenidae** comprises razor shells whose straight, cylindrical valves gape widely at both extremities."*
+> - 📜 **Philip Henry Gosse (*A Year at the Shore*):** *"Digging into the wet sands at low tide, we unearthed specimens of **Solenidae** that vanished downward with astonishing speed."*
+> - 📜 **Thomas Martyn (*The Universal Conchologist*):** *"The delicate porcelain texture and amber periostracum of the **Solenidae** shell make it a favorite among collectors."*

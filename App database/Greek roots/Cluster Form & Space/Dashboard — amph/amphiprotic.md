@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of first.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of first.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Describing a chemical substance or molecule that can both donate and accept a proton (hydrogen ion), acting as both a Brønsted acid and base.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical chemistry, referring to self-ionizing solvents such as water (H2O) and liquid ammonia, or polyprotic acid anions such as bicarbonate (HCO3-).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amphiprotic designates adjective*) pertaining to, derived from, or characteristic of first."*
+> - 📜 **Gilbert N. Lewis (*Valence and the Structure of Atoms and Molecules*):** *"The water molecule is quintessential in its **amphiprotic** behavior, simultaneously capable of releasing or capturing a proton."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"The bicarbonate ion acts as an **amphiprotic** buffer in mammalian blood, stabilizing systemic pH against sudden acidemia or alkalemia."*
+> - 📜 **Svante Arrhenius (*Theories of Chemistry*):** *"Solvents displaying **amphiprotic** autoionization form conjugate pairs that govern the dissociation constants of dissolved salts."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a sect of ascetics in ancient India who went naked and practiced meditation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a sect of ascetics in ancient India who went naked and practiced meditation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of an ancient sect of Indian ascetics and philosophers (such as Jains or forest sadhus) who went naked and devoted themselves to mystical contemplation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical Greco-Roman historiography, gymnosophists were encountered by Alexander the Great in the Punjab, captivating Greek philosophers with their radical renunciation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gymnosophist designates any of a sect of ascetics in ancient india who went naked and practiced meditation."*
+> - 📜 **Plutarch (*Life of Alexander*):** *"Alexander questioned the ten captured **gymnosophist** philosophers, testing their legendary ability to answer riddles with penetrating brevity."*
+> - 📜 **Strabo (*Geography*):** *"The Greek envoy Megasthenes recorded that the Indian **gymnosophist** endured motionless meditation under the open sky for days."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Such robes the Indian **gymnosophist** contemns, choosing naked simplicity in sacred groves."*

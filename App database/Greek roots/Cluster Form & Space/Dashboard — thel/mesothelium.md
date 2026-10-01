@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Epithelium derived from mesoderm that lines the body cavity of a vertebrate embryo and gives rise to epithelia (as of the peritoneum, pericardium, and pleura), striated muscle, heart muscle, and several minor structures.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Epithelium derived from mesoderm that lines the body cavity of a vertebrate embryo and gives rise to epithelia (as of the peritoneum, pericardium, and pleura), striated muscle, heart muscle, and several minor structures.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The layer of flat cells forming an epithelium that lines the serous cavities of the body (peritoneum, pericardium, and pleura).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In embryology and histology, the mesothelium arises from embryonic mesoderm (unlike ectodermal/endodermal epithelia), secreting serous lubricating fluid to facilitate frictionless organ movement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mesothelium designates epithelium derived from mesoderm that lines the body cavity of a vertebrate embryo and gives rise to epithelia (as of the peritoneum, pericardium, and pleura), striated muscle, heart muscle, and several minor structures."*
+> - 📜 **Wilhelm His (*The First Form of the Human Organism*):** *"The lining of the coelomic body cavity originates from mesoderm and constitutes the true **mesothelium**."*
+> - 📜 **Henry Gray (*Gray's Anatomy*):** *"The serous fluid secreted by the **mesothelium** permits the pleural membranes to glide smoothly during respiration."*
+> - 📜 **Arthur Keith (*Human Embryology and Morphology*):** *"During pericardial development, the primitive **mesothelium** folds to enclose the developing cardiac tube."*

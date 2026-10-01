@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Secret writing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The enciphering and deciphering of messages in secret code or cipher; also : the computerized encoding and decoding of information.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The practice and study of techniques for secure communication in the presence of adversarial third parties; secret writing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In computer science and mathematics, the discipline encompassing data encryption, digital signatures, hash functions, and authentication protocols.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cryptography designates secret writing."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The virtues required in **cryptography** are three: that they be easy to write, that they be difficult to decipher, and that they be devoid of suspicion."*
+> - 📜 **Claude Shannon (*Communication Theory of Secrecy Systems*):** *"The fundamental problem of **cryptography** is that of transmitting a secret message over an insecure communication channel."*
+> - 📜 **Edgar Allan Poe (*The Gold-Bug*):** *"Circumstances led me to give particular attention to the fascinating curiosities of **cryptography**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of being analytic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of being analytic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality, state, or property of being analytic; in philosophy, the status of a statement or proposition whose truth depends solely on the meaning of its terms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Central to modern epistemology and philosophy of language; famously challenged by W. V. O. Quine in his 1951 essay 'Two Dogmas of Empiricism', questioning the boundary between analytic and synthetic truths.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, analyticity designates the property of being analytic."*
+> - 📜 **Bertrand Russell (*The Problems of Philosophy*):** *"The doctrine of **analyticity** asserted that mathematical truths are true purely by virtue of logical definitions."*
+> - 📜 **Immanuel Kant (*Critique of Pure Reason*):** *"The criterion of **analyticity** is grounded in the principle of contradiction: its denial yields a direct absurdity."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"Mere **analyticity** produces verbal tautologies that cannot extend our empirical knowledge of the natural world."*

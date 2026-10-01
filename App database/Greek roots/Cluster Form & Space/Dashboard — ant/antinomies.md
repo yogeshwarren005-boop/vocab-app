@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A contradiction between two apparently equally valid principles or between inferences correctly drawn from such principles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fundamental and apparently unresolvable conflict or contradiction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Plural of antinomy: contradictions or paradoxes between two principles, conclusions, or laws that each appear equally reasonable and necessary.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Kantian philosophy, the four cosmological dialectical dilemmas arising from the illegitimate application of categories of understanding to the transcendent cosmos.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antinomies designates a contradiction between two apparently equally valid principles or between inferences correctly drawn from such principles."*
+> - 📜 **Immanuel Kant (*Critique of Pure Reason*):** *"Pure reason falls into inescapable **antinomies** whenever it attempts to determine whether the world has a beginning in time or is eternal."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"The intellect cannot escape these speculative **antinomies** without appealing to direct pragmatic and experiential validation."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"Transcendental philosophy seeks to dissolve the seemingly intractable **antinomies** that divide mechanical matter from spiritual will."*

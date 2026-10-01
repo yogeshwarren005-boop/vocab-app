@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to monasteries or to monks or nuns.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resembling (as in seclusion or ascetic simplicity) life in a monastery.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The religious practice, system, or lifestyle of living in secluded communities as monks or nuns under vows of poverty, chastity, and obedience.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of world religions, an ascetic and contemplative institutional movement prominent in Christianity, Buddhism, and Jainism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"It is significant that Christian monasticism and the coenobite life began in Egypt, where, as we learn from papyri found in recent years, great monasteries of Serapis existed long before our era."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The enthusiastic spread of **monasticism** transformed the Mediterranean landscape with solitary hermitages and fortified abbeys."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"The ascetic rigors of **monasticism** represent heroic attempts to emancipate the spiritual life from worldly contamination."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"During the Dark Ages, European **monasticism** preserved the fragile spark of classical learning amidst barbarian chaos."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The disposition of constituents in a pattern or according to a scheme : design; also : a particular systematic disposition of parts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The disposition of constituents in a pattern or according to a scheme : design; also : a particular systematic disposition of parts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act, process, or practice of schematizing; an arrangement, classification, or disposition according to a scheme.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Kantian epistemology, the transcendental procedure of the understanding by which pure conceptual categories are applied to temporal sensory intuitions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, schematism designates the disposition of constituents in a pattern or according to a scheme : design; also : a particular systematic disposition of parts."*
+> - 📜 **Immanuel Kant (*Critique of Pure Reason*):** *"This **schematism** of our understanding, in its application to appearances and their mere form, is an art concealed in the depths of the human soul."*
+> - 📜 **Arthur Schopenhauer (*The World as Will and Representation*):** *"Kant's doctrine of the **schematism** was an ingenious attempt to bridge the gulf between abstract concepts and empirical perceptions."*
+> - 📜 **Ernst Cassirer (*The Philosophy of Symbolic Forms*):** *"Mythological thought possesses its own symbolic **schematism**, structuring space and time according to sacred boundaries."*

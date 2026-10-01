@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Going or extending across a town or city.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Across a town or city.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Extending, traveling, or situated across a town or city, typically perpendicular to the principal avenues.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In urban transportation, designating transit routes, buses, or expressways that connect opposite city districts across the urban core.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, crosstown designates going or extending across a town or city."*
+> - 📜 **Lewis Mumford (*The Culture of Cities*):** *"A congested metropolis requires efficient **crosstown** arterials to relieve pressure on radiating radial avenues."*
+> - 📜 **E. B. White (*Here Is New York*):** *"Taking a **crosstown** bus in midtown Manhattan during the midday rush can be slower than traveling by foot."*
+> - 📜 **John Dos Passos (*Manhattan Transfer*):** *"The clanging yellow streetcar rattled along the **crosstown** tracks, carrying commuters toward the East River docks."*

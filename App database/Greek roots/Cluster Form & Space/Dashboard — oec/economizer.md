@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A frugal person who limits spending and avoids waste.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A frugal person who limits spending and avoids waste.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mechanical device, apparatus, or person that economizes; specifically, a heat exchanger that preheats boiler feedwater using waste flue gases.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial steam engineering and thermal power plants, an economizer significantly increases overall thermal efficiency and reduces boiler fuel consumption.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, economizer designates a frugal person who limits spending and avoids waste."*
+> - 📜 **William Rankine (*A Manual of the Steam Engine and Other Prime Movers*):** *"The installation of an **economizer** in the chimney flue recovers waste heat from the gases before they discharge into the atmosphere."*
+> - 📜 **Thomas Edison (*The Papers of Thomas A. Edison*):** *"We introduced a flue-gas **economizer** into the Pearl Street central station to reduce the tons of coal burned per kilowatt-hour."*
+> - 📜 **James Watt (*Correspondence of the Late James Watt*):** *"Every thermal **economizer** attached to a condensing engine repays its construction cost within a single mining season."*

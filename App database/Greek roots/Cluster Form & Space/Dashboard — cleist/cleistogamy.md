@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by or being small inconspicuous closed self-pollinating flowers additional to and often more fruitful than showier ones on the same plant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by or being small inconspicuous closed self-pollinating flowers additional to and often more fruitful than showier ones on the same plant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of producing small, closed, self-fertilizing flowers that never open.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary botany, a reproductive strategy that functions as a fail-safe mechanism to guarantee pollination when pollinators or weather conditions are unfavorable.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cleistogamy designates characterized by or being small inconspicuous closed self-pollinating flowers additional to and often more fruitful than showier ones on the same plant."*
+> - 📜 **Charles Darwin (*The Effects of Cross and Self Fertilisation in the Vegetable Kingdom*):** *"The study of **cleistogamy** demonstrates that nature can resort to perpetual self-fertilization when cross-pollination becomes too hazardous."*
+> - 📜 **Asa Gray (*Darwiniana: Essays and Reviews Pertaining to Darwinism*):** *"In many woodland herbs, **cleistogamy** operates in autumn after the early insect-visited blossoms have completed their display."*
+> - 📜 **Stephen Jay Gould (*The Flamingo's Smile*):** *"Adaptive flexibility is well illustrated by the coexistence of outcrossing and **cleistogamy** on the very same stem."*

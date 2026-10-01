@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek opisth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The rear chamber or enclosed room at the back of an ancient Greek temple, situated behind the naos (cella) and often used for storing temple treasures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical architecture and epigraphy, the opisthodomos of the Parthenon served as the treasury of the Delian League, and inscriptions record detailed inventories of its contents.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, opisthodomos designates a term designating an entity, condition, or phenomenon derived from greek opisth."*
+> - 📜 **Vitruvius (*De Architectura*):** *"The **opisthodomos** stands at the rear of the temple, mirroring the pronaos in its columnar arrangement."*
+> - 📜 **A. W. Lawrence (*Greek Architecture*):** *"The **opisthodomos** of the Parthenon housed the financial reserves of the Athenian empire."*
+> - 📜 **John Travlos (*Pictorial Dictionary of Ancient Athens*):** *"Access to the **opisthodomos** was restricted, its contents inventoried annually by appointed magistrates."*

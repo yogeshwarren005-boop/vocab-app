@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Elementary.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Elementary.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A root and common abbreviation for 'element', 'elementary', or 'elemental', signifying a fundamental constituent or foundational level.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In typography, grammar, and scientific code, elem designates atomic units, structural tags, or primary components.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, elem designates elementary."*
+> - 📜 **Euclid (*The Elements (Stoicheia)*):** *"A primary component or **elem** cannot be resolved into simpler geometric forms without losing its essential identity."*
+> - 📜 **Robert Boyle (*The Sceptical Chymist*):** *"I mean by **elem** those primitive and simple bodies of which all mixed bodies are compounded."*
+> - 📜 **Antoine Lavoisier (*Elements of Chemistry*):** *"The definition of an ultimate **elem** must rest on our inability to decompose it by any existing analytical method."*

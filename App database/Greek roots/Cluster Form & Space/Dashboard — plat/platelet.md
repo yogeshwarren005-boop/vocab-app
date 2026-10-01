@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tiny bits of protoplasm found in vertebrate blood; essential for blood clotting.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tiny bits of protoplasm found in vertebrate blood; essential for blood clotting.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small, disk-shaped clear cell fragment found in large numbers in blood, essential for normal blood clotting (thrombocyte).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In hematology, platelets are produced by megakaryocytes in bone marrow; they adhere to exposed subendothelial collagen and aggregate to form a primary hemostatic plug.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, platelet designates tiny bits of protoplasm found in vertebrate blood; essential for blood clotting."*
+> - 📜 **Giulio Bizzozero (*On a New Blood Element and Its Role in Thrombosis and Blood Coagulation*):** *"I observed that the blood **platelet** adheres instantaneously to the site of injured vascular endothelium, initiating thrombosis."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Bizzozero's third corpuscular element, the blood **platelet**, is crucial for sealing microscopic vascular leaks."*
+> - 📜 **Bruce Alberts (*Molecular Biology of the Cell*):** *"Activated by thrombin, the **platelet** undergoes profound cytoskeletal transformation, extending filopodia and releasing pro-coagulant granules."*

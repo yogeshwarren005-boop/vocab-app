@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek plat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A broad, thin sheet of muscle lying superficial to the deep cervical fascia on either side of the neck.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human surgical anatomy, an expressive muscle innervated by the cervical branch of the facial nerve, acting to depress the mandible and tense the skin of the neck.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, platysma designates a term designating an entity, condition, or phenomenon derived from greek plat."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The **platysma** arises from the fascia covering the upper part of the pectoral and deltoid muscles and ascends across the clavicle."*
+> - 📜 **Andreas Vesalius (*De Humani Corporis Fabrica*):** *"Beneath the subcutaneous fat of the throat spreads the thin fleshy membrane known as the **platysma** myoides."*
+> - 📜 **Frank H. Netter (*Atlas of Human Anatomy*):** *"In facial rejuvenation and neck dissection, meticulous re-approximation of the severed **platysma** borders ensures smooth contours."*

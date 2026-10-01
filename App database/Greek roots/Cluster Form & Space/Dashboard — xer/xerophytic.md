@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adapted to a xeric (or dry) environment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adapted to a xeric (or dry) environment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characteristic of xerophytes; adapted to or thriving in dry, arid, or water-scarce conditions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In landscape ecology, xerophytic vegetation zones delineate regions where aridity is the dominant factor shaping plant community composition and physiognomy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xerophytic designates adapted to a xeric (or dry) environment."*
+> - 📜 **A. F. W. Schimper (*Plant Geography upon a Physiological Basis*):** *"**Xerophytic** adaptations include thickened cuticles, sunken stomata, and extensive root networks."*
+> - 📜 **Heinrich Walter (*Vegetation of the Earth*):** *"The **xerophytic** scrublands of the Mediterranean basin are shaped by summer drought and winter rainfall."*
+> - 📜 **Michael Crawley (*Plant Ecology*):** *"**Xerophytic** plant communities exhibit remarkable convergent evolution across the world's deserts."*

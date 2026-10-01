@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek spher.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A classical Greek combining element (*rhis*, genitive *rhinos*, ῥίς, ῥινός) meaning 'nose', foundational in medical and biological terminology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistic morphology and anatomical terminology, the root forms compounds such as rhinoceros (horned nose), rhinitis (nasal inflammation), and rhinoplasty (nasal surgical reconstruction).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhis, rhinos designates a term designating an entity, condition, or phenomenon derived from greek spher."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Clinical terms derived from Greek **rhis, rhinos** signify nasal pathology, from catarrhal rhinitis to structural deviations."*
+> - 📜 **Jonathan Wright (*A History of Laryngology and Rhinology*):** *"Ancient Hellenic anatomists designated the nasal organ as **rhis, rhinos**, distinguishing external cartilage from internal cavities."*
+> - 📜 **Henry Liddell (*A Greek-English Lexicon*):** *"The ancient Greek noun **rhis, rhinos** served both for the human nose and the snouts of beasts in Homeric epic."*

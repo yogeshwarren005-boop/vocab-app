@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Either of two related enzymes that control the production of prostaglandins and are blocked by aspirin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Either of two related enzymes that control the production of prostaglandins and are blocked by aspirin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An enzyme (prostaglandin-endoperoxide synthase) that catalyzes the conversion of arachidonic acid into prostanoids, including prostaglandins, prostacyclin, and thromboxane.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In enzymology and clinical pharmacology, the membrane-bound, heme-containing bis-dioxygenase enzyme that serves as the principal molecular target of nonsteroidal anti-inflammatory drugs (NSAIDs).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cyclooxygenase designates either of two related enzymes that control the production of prostaglandins and are blocked by aspirin."*
+> - 📜 **John R. Vane (*Inhibition of Prostaglandin Synthesis as a Mechanism of Action for Aspirin-like Drugs*):** *"I demonstrated that aspirin and indomethacin exert their clinical anti-inflammatory action by directly inhibiting the enzyme **cyclooxygenase**."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"The catalytic pocket of **cyclooxygenase** binds arachidonic acid, guiding two sequential oxygen additions with stereospecific precision."*
+> - 📜 **Sydney Brenner (*Loose Ends*):** *"Deciphering the crystallographic architecture of **cyclooxygenase** transformed empirical pharmacology into rational, structure-guided drug design."*

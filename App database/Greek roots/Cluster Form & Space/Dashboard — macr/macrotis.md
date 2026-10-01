@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of peramelidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of peramelidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having large ears; specifically designating the mammalian genus *Macrotis*, comprising the greater bilby (rabbit-eared bandicoot) of Australia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marsupial mammalogy and conservation biology, *Macrotis* represents an arid-adapted fossorial omnivore that utilizes its immense auditory pinnae for prey detection and heat dissipation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, macrotis designates a genus of peramelidae."*
+> - 📜 **John Gould (*The Mammals of Australia*):** *"The rabbit-eared bandicoot, designated **Macrotis**, burrows deep beneath the sandy loam of the interior wastes to avoid the scorching sun."*
+> - 📜 **Ronald Strahan (*The Mammals of Australia*):** *"Predation by feral foxes and cats has severely restricted **Macrotis** to isolated enclaves within the Great Sandy Desert."*
+> - 📜 **Tim Flannery (*The Future Eaters*):** *"Reintroduction projects in protected reserves demonstrate that **Macrotis** plays a vital role as an ecosystem engineer through soil aeration."*

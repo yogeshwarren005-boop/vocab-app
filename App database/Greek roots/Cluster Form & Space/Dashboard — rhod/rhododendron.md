@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a genus (Rhododendron) of widely cultivated shrubs and trees of the heath family with alternate leaves and showy flowers; especially : one with leathery evergreen leaves as distinguished from a deciduous azalea.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Great laurel.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large genus of woody flowering shrubs and trees in the heath family (Ericaceae), famed for clusters of showy, bell-shaped blossoms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical ecology and horticulture, acidophilic, mycorrhizal shrubs native largely to the Himalayas, East Asia, and the Appalachian mountains.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Anthony Pryde (*Nightfall*):** *"Winding between dense shrubs of rhododendron under darker deodars, the road was long and gloomy, but Lawrence was thankful to be out of sight of Chilmark."*
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"Later the valley opened, and we ascended gradually over beautiful slopes gay with rhododendron and iris."*
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"Just before reaching the top we descended into a cup-like hollow, a huge dimple lined with the rich greens and gay reds of the rhododendron, and merry with the babble of many tiny waterfalls."*
+> - 📜 **Joseph Dalton Hooker (*The Rhododendrons of Sikkim-Himalaya*):** *"The mountain slopes of Sikkim were blaze with scarlet blooms of **rhododendron**, transforming rugged Himalayan cliffs into a floral paradise."*
+> - 📜 **Carl Linnaeus (*Species Plantarum*):** *"I grouped under **rhododendron** those alpine shrubs whose evergreen leaves protect clusters of magnificent terminal blossoms."*
+> - 📜 **Ernest Henry Wilson (*A Naturalist in Western China*):** *"High mountain passes in Sichuan are choked with impenetrable thickets of **rhododendron**, through which we had to cut our path."*

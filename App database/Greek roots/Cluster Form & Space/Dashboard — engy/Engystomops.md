@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek engy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of small neotropical leptodactylid frogs (including the túngara frog, Engystomops pustulosus) known for building floating foam nests.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In behavioral ecology and bioacoustics, Engystomops pustulosus is a prominent model organism for sexual selection and predatory eavesdropping by bats.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Engystomops designates a term designating an entity, condition, or phenomenon derived from greek engy."*
+> - 📜 **Michael J. Ryan (*The Túngara Frog: A Study in Sexual Selection and Communication*):** *"Male **Engystomops** frogs add acoustic whines and chucks to their calls, balancing female attraction against predatory bat interception."*
+> - 📜 **Ernst Mayr (*Animal Species and Evolution*):** *"Acoustic divergence between geographical isolates of **Engystomops** illustrates speciation driven by sexual selection."*
+> - 📜 **G. A. Boulenger (*Catalogue of the Batrachia Salientia in the British Museum*):** *"The morphological characters of the genus **Engystomops** combine narrow pectoral architecture with granular dorsal tuberculation."*

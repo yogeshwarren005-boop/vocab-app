@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek centr.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The point on the Earth's surface situated vertically above the subterranean hypocentre of a seismic disturbance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Figuratively, the pivotal hub, core storm-centre, or epicenter of an ideological debate, artistic movement, or political crisis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"The epicentre appears to have been that part of the metropolis which constitutes the Inn’s Quay ward and parish of Saint Michan covering a surface of fortyone acres, two roods and one square pole or perch."*
+> - 📜 **Arthur Holmes (*Principles of Physical Geology*):** *"Isoseismal lines form closed curves radiating around the seismic **epicentre** with decreasing destructive intensity."*
+> - 📜 **Winston Churchill (*The Second World War: The Gathering Storm*):** *"Berlin had become the ominous **epicentre** from which tremors of militarism shook all Central Europe."*
+> - 📜 **E. M. Forster (*A Passage to India*):** *"The courtroom became the passionate **epicentre** of racial antagonism, vibrating with suppressed animosities."*

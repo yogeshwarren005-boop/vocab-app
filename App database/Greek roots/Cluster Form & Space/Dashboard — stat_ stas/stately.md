@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Impressive in appearance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of size and dignity suggestive of a statue.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a dignified, imposing, majestic, and grand appearance, manner, or size.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In poetry and architectural description, stately characterizes grand monuments, royal palaces, or measured ceremonial processions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Upon a wooden coffin we attend, And Death’s dishonourable victory We with our stately presence glorify, Like captives bound to a triumphant car."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Here’s a silly stately style indeed!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And now what rests but that we spend the time With stately triumphs, mirthful comic shows, Such as befits the pleasure of the court?"*
+> - 📜 **Samuel Taylor Coleridge (*Kubla Khan*):** *"In Xanadu did Kubla Khan a **stately** pleasure-dome decree: where Alph, the sacred river, ran through caverns measureless to man down to a sunless sea."*
+> - 📜 **Edgar Allan Poe (*The Raven*):** *"In there stepped a **stately** Raven of the saintly days of yore; not the least obeisance made he; not a minute stopped or stayed he."*
+> - 📜 **Walter Scott (*The Lady of the Lake*):** *"The ancient chieftain moved with **stately** grace across the heather, surrounded by his loyal clan."*

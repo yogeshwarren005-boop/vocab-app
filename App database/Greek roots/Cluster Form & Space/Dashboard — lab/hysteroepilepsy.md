@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek lab.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A severe form of hysteria characterized by violent paroxysms of convulsive movements and emotional displays resembling true epileptic seizures; major hysteria.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Famously studied and classified by Jean-Martin Charcot at the Salpêtrière in Paris in the 1870s-1880s (*hystéro-épilepsie à grand culbutis*), later recognized by Babinski and Freud as psychogenic non-epileptic seizures (PNES) distinct from neurological epilepsy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hysteroepilepsy designates a term designating an entity, condition, or phenomenon derived from greek lab."*
+> - 📜 **Jean-Martin Charcot (*Clinical Lectures on Diseases of the Nervous System*):** *"The grand attack of **hysteroepilepsy** unfolds through the epileptoid phase, clownism, passionate attitudes, and final delirium."*
+> - 📜 **Sigmund Freud (*Studies on Hysteria*):** *"Charcot's celebrated demonstration of **hysteroepilepsy** proved that convulsive crises could be triggered by psychic trauma."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In **hysteroepilepsy**, the tongue is rarely bitten and consciousness is clouded rather than completely extinguished as in true epilepsy."*

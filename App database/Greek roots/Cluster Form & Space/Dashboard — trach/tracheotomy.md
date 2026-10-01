@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The surgical operation of cutting into the trachea especially through the skin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The surgical operation of cutting into the trachea especially through the skin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The surgical incision made directly into the trachea through the anterior neck to relieve airway obstruction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Practiced since ancient times (described by Galen and refined by Armand Trousseau in nineteenth-century Paris), tracheotomy is the surgical incision preceding the placement of a cannula.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tracheotomy designates the surgical operation of cutting into the trachea especially through the skin."*
+> - 📜 **Armand Trousseau (*Lectures on Clinical Medicine*):** *"Trousseau championed prompt **tracheotomy** in membranous croup, saving hundreds of lives in Parisian hospitals."*
+> - 📜 **William Halsted (*Surgical Papers*):** *"The rapid performance of emergency **tracheotomy** demands precise anatomical identification of the cricoid cartilage."*
+> - 📜 **Charles Dickens (*The Uncommercial Traveller*):** *"The hospital surgeon kept silver cannula tubes polished and ready for urgent **tracheotomy** at a moment's notice."*

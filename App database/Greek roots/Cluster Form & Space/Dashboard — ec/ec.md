@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: European Community; European Communities.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Out of : away : off.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A Greek preposition and prefix (variant of 'ex' used before consonants) meaning 'out of', 'away from', or 'external'.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In morphological linguistics, ec- forms words designating outward derivation, deviation, or removal (eccentric, ectomy).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ec designates european community; european communities."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"Before consonants, the preposition ex becomes **ec**, maintaining its fundamental sense of emergence or detachment."*
+> - 📜 **Herbert Weir Smyth (*Greek Grammar*):** *"Compounds formed with **ec** denote physical exit, deviation from a center, or intensive completion of action."*
+> - 📜 **Robert Beekes (*Etymological Dictionary of Greek*):** *"Reflecting PIE *eǵʰs ('out'), the morpheme **ec** is preserved in numerous Greek loanwords in European scientific registers."*

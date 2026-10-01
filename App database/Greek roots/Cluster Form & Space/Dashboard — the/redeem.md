@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Save from sins.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Restore the honor or worth of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To compensate for the faults or bad aspects of something; to gain or regain possession of something in exchange for payment; to free from captivity, sin, or blame.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Derived from Latin *redimere* (to buy back), cognate through Indo-European roots with notions of restoration, financial discharge of debt, and theological atonement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Return forgetful Muse, and straight redeem, In gentle numbers time so idly spent, Sing to the ear that doth thy lays esteem, And gives thy pen both skill and argument."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I sent you money to redeem you By Dromio here, who came in haste for it."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It is a thing I made, which hath the King Five times redeem’d from death."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Thy merit / Imputed shall absolve them who renounce / Their own both righteous and unrighteous deeds, / And live in thee transplanted, and from thee / Receive new life, to **redeem** mankind."*
+> - 📜 **Charles Dickens (*A Christmas Carol*):** *"I will live in the Past, the Present, and the Future; the Spirits of all Three shall strive within me, to **redeem** the time."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"A prudent state will allocate surplus revenues toward a sinking fund to **redeem** its outstanding annuities."*

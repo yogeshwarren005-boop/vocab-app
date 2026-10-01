@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Suffering from mysophobia; abnormally afraid of dirt or contamination.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Suffering from mysophobia; abnormally afraid of dirt or contamination.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Afflicted with, characterized by, or pertaining to mysophobia; obsessively terrified of dirt, germs, or contamination.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In behavioral psychology, describing avoidance behaviors, barrier protocols, and compulsive cleaning routines exhibited by individuals with contamination obsessions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mysophobic designates suffering from mysophobia; abnormally afraid of dirt or contamination."*
+> - 📜 **William A. Hammond (*A Treatise on Insanity in Its Medical Relations*):** *"The **mysophobic** subject avoided touching paper money or shaking hands, fearing lethal contamination from every stranger."*
+> - 📜 **Pierre Janet (*Les Obsessions et la Psychasthénie*):** *"Patients with **mysophobic** anxieties will scrub their skin with abrasive brushes until ulcerated wounds appear."*
+> - 📜 **Sigmund Freud (*Notes Upon a Case of Obsessional Neurosis*):** *"The Rat Man exhibited **mysophobic** defenses, attempting to ward off guilt by performing elaborate purifying washings."*

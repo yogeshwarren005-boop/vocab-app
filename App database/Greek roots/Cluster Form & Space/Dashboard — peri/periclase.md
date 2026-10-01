@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A white solid mineral that occurs naturally as periclase; a source of magnesium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A white solid mineral that occurs naturally as periclase; a source of magnesium.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cubic magnesium oxide mineral (MgO) formed by high-temperature contact metamorphism of impure dolomitic limestones.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In petrology and high-pressure mineral physics, periclase readily hydrates to brucite ($Mg(OH)_2$) and forms ferropericlase, a major constituent of the Earth's lower mantle.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, periclase designates a white solid mineral that occurs naturally as periclase; a source of magnesium."*
+> - 📜 **James Dwight Dana (*System of Mineralogy*):** *"The rare mineral **periclase** occurs in dark octahedrons embedded in metamorphic limestone ejected from Mount Somma."*
+> - 📜 **Frank Wigglesworth Clarke (*The Data of Geochemistry*):** *"Under contact metamorphism, thermal decarbonation of dolomite yields calcite and crystalline **periclase**."*
+> - 📜 **Norman L. Bowen (*Progressive Metamorphism of Siliceous Limestone and Dolomite*):** *"The appearance of **periclase** marks the highest metamorphic grade in carbonate contact aureoles."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of stamp, model.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of stamp, model.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or exhibiting the same type or corresponding structure; in cytology, of the second division of meiosis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In oncology and immunology, homotypic cell-cell adhesion (mediated by cadherins) binds identical epithelial cells together, while loss of homotypic adhesion facilitates metastatic invasion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, homotypic designates adjective*) pertaining to, derived from, or characteristic of stamp, model."*
+> - 📜 **Edmund Beecher Wilson (*The Cell in Development*):** *"Equational segregation characterizes the **homotypic** nuclear division across all higher eukaryotic germlines."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Benign adenomas retain **homotypic** cellular cohesion, mirroring the organized glandular tissue from which they arise."*
+> - 📜 **Alexis Carrel (*Tissue Culture and Cellular Physiology*):** *"Cultured hepatocytes assemble through **homotypic** cell-cell junctions into organized cord-like functional aggregates."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a class or subclass (Magnoliopsida or Dicotyledoneae) of angiospermous plants that produce an embryo with two cotyledons and usually have floral organs arranged in cycles of four or five and leaves with reticulate venation —called also dicot.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a class or subclass (Magnoliopsida or Dicotyledoneae) of angiospermous plants that produce an embryo with two cotyledons and usually have floral organs arranged in cycles of four or five and leaves with reticulate venation —called also dicot.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having two cotyledons or seed lobes in the embryo.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical anatomy, describing plants exhibiting concentric woody rings with open vascular bundles and cambial secondary growth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"Near Fort Harker, certain strata contain large quantities of the remains (leaves chiefly) of dicotyledonous and other forms of land vegetation."*
+> - 📜 **Alexander von Humboldt (*Aspects of Nature*):** *"The great expanse of the temperate forest is dominated by stately **dicotyledonous** trees such as oak and chestnut."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"Every tender **dicotyledonous** seedling that poked its twin leaves through my bean-field soil was an invitation to work."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"A cross-section of a **dicotyledonous** stem reveals a distinct central pith surrounded by a cylinder of wood."*

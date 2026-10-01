@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek zyg.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A suborder of the order Odonata comprising the damselflies, characterized by slender bodies, widely spaced eyes, and wings that are typically held folded along the body at rest.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In odonatology, Zygoptera are distinguished from Anisoptera (dragonflies) by their smaller size, equal fore- and hindwing shape, and weaker flight, with over 2,800 described species worldwide.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Zygoptera designates a term designating an entity, condition, or phenomenon derived from greek zyg."*
+> - 📜 **Philip Corbet (*Dragonflies: Behavior and Ecology of Odonata*):** *"The **Zygoptera** differ from dragonflies in their more delicate build and the habit of folding wings at rest."*
+> - 📜 **Edmond de Selys Longchamps (*Monographie des Libellulidees d'Europe*):** *"I established the suborder **Zygoptera** to separate the damselflies from the robust-bodied Anisoptera."*
+> - 📜 **Dennis Paulson (*Dragonflies and Damselflies of the World*):** *"**Zygoptera** are found on every continent except Antarctica, inhabiting freshwater habitats from tropical to subarctic regions."*

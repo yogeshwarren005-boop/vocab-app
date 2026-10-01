@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make central.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make central.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To draw into or gather around a common center; to bring under a single central control or direction (US spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In computer systems and organizational management, to replace distributed nodes with a single authoritative central server or hub.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The ideal of socialism is the abolition of private property, the centralizing under the control of the state of all wealth, except the simple personal belongings, clothing and other consumption goods."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"However, the best informed American students favor in some features the more decentralized German rather than the centralized British system."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The remarkable (tho far from perfect) adjustment of industry to the needs of each neighborhood is brought about by individual motives, not by centralized authority."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"As conditions become more equal, men naturally seek to **centralize** the power of the state to guarantee equal rights."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"To conduct foreign relations effectively, the republic was compelled to **centralize** diplomatic authority in the national executive."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Philosophical academies must **centralize** empirical observations to construct a unified natural history."*

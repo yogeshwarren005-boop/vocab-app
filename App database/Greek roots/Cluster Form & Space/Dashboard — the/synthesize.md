@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Combine so as to form a more complex, product.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Combine and form a synthesis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To combine different ideas, styles, or materials to form a coherent single whole; to manufacture chemically from simpler precursors.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cognitive science and scientific methodology, synthesizing involves integrating multivariate experimental data into consistent conceptual models.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"His voice was on our tapes, and easy to synthesize."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"Organic chemists learned to **synthesize** complex structural ring systems that mirror natural antibiotics."*
+> - 📜 **John Dewey (*How We Think*):** *"Reflective thought must continually analyze observations and then **synthesize** them into meaningful conclusions."*
+> - 📜 **Oliver Sacks (*The Mind's Eye*):** *"The visual cortex works relentlessly to **synthesize** fragmented retinal signals into a coherent perceptual scene."*

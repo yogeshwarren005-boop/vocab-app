@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek calyp.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combining form of Greek origin meaning covered, hooded, or hidden (derived from Greek kalyptra and kalypto).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical and anatomical nomenclature, a prefix denoting protective hoods, caps, or veils (as in calyptra, Calyptraea, and Calyptrogyne).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calyp designates a term designating an entity, condition, or phenomenon derived from greek calyp."*
+> - 📜 **Richard Chenevix Trench (*On the Study of Words*):** *"The Greek stem **calyp** signifies covering or concealment, surviving alike in the name of the nymph Calypso and the botanical calyptra."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"Words built upon **calyp** evoke the mythological veil that conceals secrets from mortal eyes."*
+> - 📜 **William Benjamin Carpenter (*The Microscope and Its Revelations*):** *"Compounds featuring **calyp** indicate protective hooded sheaths covering delicate sporangia."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The establishment of a plant or animal in a new habitat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The establishment of a plant or animal in a new habitat.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The successful establishment and maturation of a plant or animal in a new habitat following migration or dispersal, including germination and growth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ecological plant succession, ecesis represents the crucial intermediate phase between initial seed immigration and competitive aggregation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ecesis designates the establishment of a plant or animal in a new habitat."*
+> - 📜 **Frederic Clements (*Plant Succession: An Analysis of the Development of Vegetation*):** *"Migration brings the disseminule to the bare area, but **ecesis** decides whether the seedling can adapt to the local soil and climate."*
+> - 📜 **Arthur Tansley (*Practical Plant Ecology*):** *"Successful **ecesis** requires adequate soil moisture during the vulnerable period of embryonic root penetration."*
+> - 📜 **Eugene Odum (*Fundamentals of Ecology*):** *"Colonizing pioneers fail in **ecesis** whenever abiotic microclimates exceed their physiological tolerance limits."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling a pyramid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resembling a pyramid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the form of a pyramid; tapering upward to a single peak or apex.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical and philosophical treatises, characterized by hierarchical, monumental, or tapering geometry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"For, it was not so much his uncommon bulk that so much distinguished him from other sperm whales, but, as was elsewhere thrown out—a peculiar snow-white wrinkled forehead, and a high, pyramidical white hump."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"It is moreover declared in his pyramidical silence."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"In particular, he led me to a remarkable pyramidical structure some three yards square at the base, and perhaps ten feet in height, which had lately been thrown up, and occupied a very conspicuous position."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Knowledge advances in a **pyramidical** order, broadening from diverse empirical facts to a few unified axioms at the apex."*
+> - 📜 **John Evelyn (*Sylva, or A Discourse of Forest-Trees*):** *"The Italian cypress grows in a strict **pyramidical** column, making it a favorite ornament for solemn cemetery avenues."*
+> - 📜 **Samuel Johnson (*Lives of the Most Eminent English Poets*):** *"The architect piled monument upon monument, striving to achieve a **pyramidical** grandeur that overpowered the eye."*

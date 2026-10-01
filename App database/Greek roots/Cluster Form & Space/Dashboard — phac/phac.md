@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek phac.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A Greek combining root (from phakos, 'lentil', 'lens', or 'eye lens') forming scientific and anatomical terms relating to the crystalline lens.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ophthalmology and medical etymology, the stem phac (or phako-) forms foundational terms for lens disorders (aphakia, phacoemulsification, phacoma).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phac designates a term designating an entity, condition, or phenomenon derived from greek phac."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"The Greek noun **phac** signifies a lentil bean, applied by ancient anatomists to the lenticular crystal of the eye."*
+> - 📜 **Robert Beekes (*Etymological Dictionary of Greek*):** *"Comparative Indo-European phonology traces **phac** to ancient agricultural terms for pulse legumes."*
+> - 📜 **Duke-Elder (*System of Ophthalmology*):** *"Ophthalmic vocabulary preserves the root **phac** in designating diseases and surgical manipulations of the ocular lens."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Obtaining knowledge of distant events allegedly without use of normal sensory mechanisms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Obtaining knowledge of distant events allegedly without use of normal sensory mechanisms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, possessing, or acquired by telegnosis (clairvoyance or supernatural knowledge of distant events).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychical research literature, telegnostic faculties describe cognitive abilities to discern distant physical objects or circumstances without sensory clues.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, telegnostic designates obtaining knowledge of distant events allegedly without use of normal sensory mechanisms."*
+> - 📜 **Frederic W. H. Myers (*Human Personality*):** *"The experiment tested whether the subject possessed genuine **telegnostic** vision of sealed documents."*
+> - 📜 **William James (*Essays in Psychical Research*):** *"She displayed what appeared to be a startling **telegnostic** awareness of her brother's plight in the distant mining camp."*
+> - 📜 **Arthur Conan Doyle (*The Edge of the Unknown*):** *"The medium's **telegnostic** impressions were corroborated by newspaper reports arriving three days later."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek schid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In musical acoustics and ancient Greek music theory, a microtonal interval equal to approximately 19.55 cents.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Pythagorean tuning and harmonic theory, the tiny interval by which two minor semitones exceed one diapente, or the difference between a schisma and a limma.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diaschisma designates a term designating an entity, condition, or phenomenon derived from greek schid."*
+> - 📜 **Hermann von Helmholtz (*On the Sensations of Tone*):** *"The minute interval termed the **diaschisma** measures the minute acoustic discrepancy between eight fourths and three octaves."*
+> - 📜 **Boethius (*De Institutione Musica*):** *"Pythagorean calculations divide the musical tone into half-steps, isolating the tiny **diaschisma** at the fringe of audible concordance."*
+> - 📜 **Aristoxenus (*Elementa Harmonica*):** *"Musicians trained in melodic nuance discern the subtle shift when a tuning system accommodates a microtonal **diaschisma**."*

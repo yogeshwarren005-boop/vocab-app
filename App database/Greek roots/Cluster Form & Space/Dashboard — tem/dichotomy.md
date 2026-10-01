@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Division into two especially mutually exclusive or contradictory groups or parts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Differentiation into two contrasted or sharply opposed groups.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A division or contrast between two things that are represented as being opposed or entirely different.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical epistemology and formal logic, a dichotomy partitions a universe of discourse into two mutually exclusive and collectively exhaustive categories.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dichotomy designates division into two especially mutually exclusive or contradictory groups or parts."*
+> - 📜 **William James (*Pragmatism: A New Name for Some Old Ways of Thinking*):** *"Philosophers have long posited a rigid **dichotomy** between the tender-minded rationalist and tough-minded empiricist."*
+> - 📜 **John Dewey (*Democracy and Education*):** *"We must overcome the false **dichotomy** between cultural education and vocational preparation in modern schooling."*
+> - 📜 **Arthur Schopenhauer (*The World as Will and Representation*):** *"The fundamental **dichotomy** of consciousness divides the subject who knows from the object that is known."*

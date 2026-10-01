@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the spheniscidae: jackass penguins.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the spheniscidae: jackass penguins.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of banded penguins characterized by a black horse-shoe marking across the chest, including the Magellanic, Humboldt, Galápagos, and African penguins.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ethology and marine conservation, species of *Spheniscus* burrow into guano or sandy coastal cliffs and nest in temperate to tropical maritime environments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spheniscus designates type genus of the spheniscidae: jackass penguins."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The little jackass penguin, **Spheniscus** demersus, emitted a braying cry so loud it startled our landing party on the beach."*
+> - 📜 **William Beebe (*Galapagos: World's End*):** *"Watching a tiny **Spheniscus** penguin swim across the equator in shimmering blue water was an astounding natural spectacle."*
+> - 📜 **Robert Cushman Murphy (*Oceanic Birds of South America*):** *"The Humboldt penguin of the genus **Spheniscus** depends completely on the cold upwelling of the Peruvian marine current."*

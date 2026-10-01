@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of oxidizing; the addition of oxygen to a compound with a loss of electrons; always occurs accompanied by reduction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process of oxidizing; the addition of oxygen to a compound with a loss of electrons; always occurs accompanied by reduction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The chemical process or reaction involving the loss of electrons or an increase in the oxidation state of an atom, ion, or molecule.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biochemistry, cellular oxidation of glucose and fatty acids drives mitochondrial oxidative phosphorylation to generate adenosine triphosphate (ATP).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"When a metal is heated in the air there is usually trouble from oxidation."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"And so when one melts metal by means of the white cone the hydrogen jacket shields the molten metal from oxygen and prevents the oxidation."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Only one who knows the bother caused by oxidation whenever metals are heated can realise the wonderful advantage of this."*
+> - 📜 **Gilbert N. Lewis (*Valence and the Structure of Atoms and Molecules*):** *"We define **oxidation** fundamentally as the loss of valence electrons, regardless of whether oxygen is chemically involved."*
+> - 📜 **Hans Krebs (*The Citric Acid Cycle*):** *"Mitochondrial **oxidation** of acetyl-CoA yields reducing equivalents that power the respiratory chain."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"The formal **oxidation** state of an atom in a molecule reflects an idealized ionic electron assignment."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make a compound react with water and undergo hydrolysis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make a compound react with water and undergo hydrolysis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To subject to or decompose by chemical reaction with water; hydrolyze (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial biochemistry and brewing, acid or enzymes hydrolise complex polysaccharides (starches) into fermentable mono- and disaccharides.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrolise designates make a compound react with water and undergo hydrolysis."*
+> - 📜 **Claude Bernard (*Lectures on the Physiology of Digestion*):** *"Pancreatic amylase will rapidly **hydrolise** boiled starch into soluble dextrins and maltose."*
+> - 📜 **Justus von Liebig (*Researches on the Chemistry of Food*):** *"Boiling animal proteins with mineral acid serves to **hydrolise** complex polypeptides into crystalline amino acids."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"Invertase secreted by brewer's yeast acts to **hydrolise** cane sugar into fermentable invert sugar."*

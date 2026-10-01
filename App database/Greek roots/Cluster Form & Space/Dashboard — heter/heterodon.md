@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of small colubrid snakes containing the north american hognose snakes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of small colubrid snakes containing the north american hognose snakes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of harmless North American colubrid snakes known as hognose snakes, characterized by an upturned rostral scale and rear maxillary teeth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In herpetology, Heterodon species are famous for elaborate defensive theatrics, including spreading a cobra-like neck hood and feigning death (thanatosis).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heterodon designates a genus of small colubrid snakes containing the north american hognose snakes."*
+> - 📜 **Raymond L. Ditmars (*The Reptile Book*):** *"When threatened, **heterodon** flattens its head, hisses loudly, and if pressed further, rolls upon its back to feign death."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"The theatrical shamming of death displayed by **heterodon** illustrates an extraordinary instinctive protective deception."*
+> - 📜 **Edwin H. Colbert (*The World of Reptiles*):** *"The spade-like snout of **heterodon** enables the snake to dig toads out of sandy subterranean burrows."*

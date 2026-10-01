@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of middle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of middle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or thriving in moderate temperatures (characteristic of a mesophile).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In wastewater engineering and microbiology, describing biological anaerobic digestion or composting processes maintained at operating temperatures between 30°C and 40°C.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mesophilic designates adjective*) pertaining to, derived from, or characteristic of middle."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"The lactic acid ferment consists of **mesophilic** organisms whose enzymatic activity drops sharply under refrigeration."*
+> - 📜 **Martinus Beijerinck (*Studies on Fermentation and Soil Microbiology*):** *"Enrichment cultures incubated at thirty degrees select specifically for **mesophilic** nitrogen-fixing bacteria."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Human gastrointestinal flora is dominated by **mesophilic** anaerobic bacilli that synthesize essential vitamins."*

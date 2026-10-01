@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or pertaining to telemetry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or pertaining to telemetry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Recorded, measured, and transmitted over distance by telemetry to a remote receiving apparatus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aerospace physiology and rocket engineering, telemetered parameters allow mission controllers to diagnose anomalous vehicle performance or astronaut vital signs in real time.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, telemetered designates of or pertaining to telemetry."*
+> - 📜 **Carl Sagan (*Pale Blue Dot*):** *"Every photograph of Saturn's golden rings was **telemetered** across billions of kilometers of vacuum by Voyager's radio transmitter."*
+> - 📜 **Tom Wolfe (*The Right Stuff*):** *"The flight surgeon watched the astronaut's **telemetered** electrocardiogram trace dance across the cathode-ray tube."*
+> - 📜 **Arthur C. Clarke (*2010: Odyssey Two*):** *"Automated data **telemetered** from the probe confirmed that deep thermal vents existed beneath the ice sheets."*

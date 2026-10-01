@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Spray very finely.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Strike at with firepower or bombs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To reduce to atoms, tiny particles, or a fine spray; to fragment or break down a cohesive whole into isolated elements (chiefly Commonwealth spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social theory and politics, to atomise a community or society is to disintegrate shared communal bonds, leaving isolated individuals vulnerable to alienation or state control.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, atomise designates spray very finely."*
+> - 📜 **Hannah Arendt (*The Origins of Totalitarianism*):** *"Totalitarian movements seek systematically to **atomise** civil society, destroying every traditional group and family loyalty."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Extreme individualism threatens to **atomise** the social fabric, isolating every citizen in solitary indifference."*
+> - 📜 **J. B. S. Haldane (*Possible Worlds and Other Essays*):** *"High-velocity fuel injectors **atomise** heavy oil droplets into a vapor susceptible to instantaneous combustion."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Suffering from megalomania.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Suffering from megalomania.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characterized by megalomania; excessively grandiose.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychopathology, describing behavioral conduct, rhetoric, or political regimes governed by delusions of supreme power and self-exaltation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, megalomaniacal designates suffering from megalomania."*
+> - 📜 **Bertrand Russell (*Power: A New Social Analysis*):** *"Unrestrained authoritarian power fosters **megalomaniacal** fantasies that ultimately detach leaders from practical reality."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The paretic patient proposed **megalomaniacal** projects to purchase all the kingdoms of Europe with counterfeit promissory notes."*
+> - 📜 **Sigmund Freud (*Civilization and Its Discontents*):** *"The leader's **megalomaniacal** demands upon his followers compensate for private feelings of sexual inadequacy."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormal accumulation of serous fluid in the spaces between tissues and organs in the cavity of the abdomen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abnormal accumulation of serous fluid in the spaces between tissues and organs in the cavity of the abdomen.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, characterized by, or affected with ascites; containing or consisting of peritoneal fluid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pathology and diagnostic medicine, describing transudative or exudative fluid drawn from the peritoneal cavity during abdominal paracentesis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ascitic designates abnormal accumulation of serous fluid in the spaces between tissues and organs in the cavity of the abdomen."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Microscopic examination of the **ascitic** fluid revealed malignant cells desquamated from metastatic peritoneal implants."*
+> - 📜 **René Laennec (*A Treatise on the Diseases of the Chest*):** *"Percussion over the flank elicited a shifting dullness characteristic of free **ascitic** effusion."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"The patient became progressively dyspneic from diaphragmatic splinting caused by rapid re-accumulation of **ascitic** fluid."*

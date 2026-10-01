@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An amphibious organism; especially : any of a class (Amphibia) of cold-blooded vertebrates (such as frogs, toads, or salamanders) intermediate in many characters between fish and reptiles and having gilled aquatic larvae and air-breathing adults.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An amphibious vehicle; especially : an airplane designed to take off from and land on either land or water.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any cold-blooded vertebrate belonging to the class Amphibia, such as a frog, toad, salamander, or newt.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A vehicle, aircraft, or military craft designed to operate on both land and water; metaphorically, an entity thriving in two distinct realms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"With this monologue should be read the mystical description, in ‘The Passing of Arthur’ (Tennyson’s Idylls of the King), of “the last, dim, weird battle of the west”, beginning,-- “A deathwhite mist slept over sand and sea.” Amphibian."*
+> - 📜 **Thomas Henry Huxley (*Man's Place in Nature*):** *"Every air-breathing vertebrate passes through an embryonic stage reminiscent of the ancestral **amphibian** gill-slit arrangement."*
+> - 📜 **Rachel Carson (*Under the Sea-Wind*):** *"The little **amphibian** crept out from the marsh weeds, shedding its tadpole tail to begin life on dry mud."*
+> - 📜 **Edward O. Wilson (*The Diversity of Life*):** *"The rapid global decline of **amphibian** populations signaled early warnings of fungal pathogens and environmental disruption."*

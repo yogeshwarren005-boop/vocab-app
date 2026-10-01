@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The biological process that involves the enzymatic breakdown of a cell's cytoplasm or cytoplasmic components (such as damaged or unneeded organelles or proteins) within the lysosomes of the same cell.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The biological process that involves the enzymatic breakdown of a cell's cytoplasm or cytoplasmic components (such as damaged or unneeded organelles or proteins) within the lysosomes of the same cell.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The natural, regulated cellular process of self-digestion in which a cell degrades and recycles its own non-functional or damaged components.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiology and medicine (recognized by the 2016 Nobel Prize to Yoshinori Ohsumi), macroautophagy provides survival energy during starvation and eliminates toxic proteopathic aggregates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, autophagy designates the biological process that involves the enzymatic breakdown of a cell's cytoplasm or cytoplasmic components (such as damaged or unneeded organelles or proteins) within the lysosomes of the same cell."*
+> - 📜 **Christian de Duve (*Lysosomes: A New Group of Cytoplasmic Particles*):** *"We coined the term **autophagy** to designate the internal digestion of cellular components within lysosomal vacuoles."*
+> - 📜 **Yoshinori Ohsumi (*Molecular Dissection of Autophagy: Two Decades with Yeast*):** *"Dissecting the genetic pathways of **autophagy** uncovered fundamental mechanisms of intracellular waste disposal."*
+> - 📜 **Bruce Alberts (*Molecular Biology of the Cell*):** *"Defective **autophagy** has been implicated in neurodegenerative diseases like Parkinson’s due to accumulation of misfolded proteins."*

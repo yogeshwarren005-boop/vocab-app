@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek morph.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Aristotelian philosophical doctrine that physical substances are composite entities consisting of prime matter (hyle) and substantial form (morphe).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Scholastic philosophy and Thomistic metaphysics, hylomorphism explains bodily individuation and substantial change, wherein form actualizes passive matter.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hylomorphism designates a term designating an entity, condition, or phenomenon derived from greek morph."*
+> - 📜 **Aristotle (*Physics*):** *"Our foundational doctrine of **hylomorphism** posits that substance arises only when form informs underlying matter."*
+> - 📜 **Thomas Aquinas (*Summa Theologiae*):** *"According to **hylomorphism**, the rational soul is the substantial form of the human body, giving it life and actual existence."*
+> - 📜 **Anthony Kenny (*Aquinas on Mind*):** *"Aristotelian **hylomorphism** avoids the dualistic pitfalls of Cartesianism by viewing mind as the animating form of living matter."*

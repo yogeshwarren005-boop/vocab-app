@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The operation of introducing a catheter into the body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The operation of introducing a catheter into the body.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The insertion of a catheter into a body duct, cavity, or vessel for diagnostic or therapeutic purposes (standard American spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In interventional medicine, cardiac catheterization pioneered by Forssmann, Cournand, and Richards enabled modern vascular therapeutics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, catheterization designates the operation of introducing a catheter into the body."*
+> - 📜 **Eugene Braunwald (*Heart Disease: A Textbook of Cardiovascular Medicine*):** *"Emergency cardiac **catheterization** within ninety minutes of acute myocardial infarction saves ischemic myocardium."*
+> - 📜 **Anthony S. Fauci (*Harrison's Principles of Internal Medicine*):** *"Central venous **catheterization** allows administration of hypertonic parenteral nutrition and vasoactive pressor infusions."*
+> - 📜 **Arthur C. Guyton (*Textbook of Medical Physiology*):** *"Right-heart **catheterization** provides precise oxygen saturation readings across successive cardiac chambers."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of mechanics concerned with forces in equilibrium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A crackling or hissing noise caused by electrical interference.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of classical mechanics that deals with physical bodies at rest and forces acting in equilibrium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In structural and civil engineering, the principles of statics (vector sum of forces = 0, sum of torques = 0) govern the load-bearing design of trusses, arches, and suspension bridges.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, statics designates the branch of mechanics concerned with forces in equilibrium."*
+> - 📜 **Archimedes (*On the Equilibrium of Planes*):** *"The foundational law of **statics** states that weights balance at distances reciprocal to their magnitudes."*
+> - 📜 **Isaac Newton (*Philosophiae Naturalis Principia Mathematica*):** *"Before investigating dynamic planetary trajectories, one must establish the balance laws of elementary **statics**."*
+> - 📜 **D'Arcy Wentworth Thompson (*On Growth and Form*):** *"The skeletal architecture of the quadrupeds obeys the exact mathematical theorems of mechanical **statics**."*

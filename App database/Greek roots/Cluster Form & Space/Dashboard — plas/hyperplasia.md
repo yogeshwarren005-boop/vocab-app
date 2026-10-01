@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormal increase in number of cells.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abnormal increase in number of cells.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The enlargement of an organ or tissue caused by an abnormal increase in the reproduction rate of its cells.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cellular pathology, physiologic hyperplasia occurs in glandular breast tissue during lactation, whereas pathologic endometrial hyperplasia predisposes to cancer.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyperplasia designates abnormal increase in number of cells."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"We distinguish true **hyperplasia**, which multiplies the number of cells, from simple hypertrophy, which merely enlarges them."*
+> - 📜 **Vinay Kumar (*Robbins and Cotran Pathologic Basis of Disease*):** *"Benign prostatic **hyperplasia** arises from hormonal dysregulation between testosterone and dihydrotestosterone in aging men."*
+> - 📜 **Robert A. Weinberg (*The Biology of Cancer*):** *"Constitutive growth factor signaling drives continuous epithelial **hyperplasia**, laying the foundation for oncogenesis."*

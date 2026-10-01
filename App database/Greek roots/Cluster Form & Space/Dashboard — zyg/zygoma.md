@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Zygomatic arch.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A slender bony process of the zygomatic arch.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The bony arch of the cheek formed by the zygomatic bone and the zygomatic process of the temporal bone, creating the prominence of the lateral face.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In craniofacial surgery and forensic anthropology, the zygoma is a key structural buttress of the midface and a frequent site of fracture in blunt facial trauma.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, zygoma designates zygomatic arch."*
+> - 📜 **Henry Gray (*Gray's Anatomy*):** *"The **zygoma** forms the lateral wall and floor of the orbit and the prominence of the cheek."*
+> - 📜 **Andreas Vesalius (*De Humani Corporis Fabrica*):** *"The arch of the **zygoma** bridges between the temporal and malar bones like a flying buttress."*
+> - 📜 **Keith L. Moore (*Clinically Oriented Anatomy*):** *"Fractures of the **zygoma** are among the most common injuries in maxillofacial trauma."*

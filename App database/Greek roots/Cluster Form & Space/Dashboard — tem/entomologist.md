@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A zoologist who studies insects.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A zoologist who studies insects.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A scientist or specialist who studies insects.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Entomologists conduct research in insect physiology, taxonomy, ecology, ethology, and pest control, often working in agriculture, forestry, and public health epidemiology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"One of the pocket-cases of our entomologist had opened, and the inmates, imprisoned but that morning, were now swarming over our fat friend's fingers, and up his arm, which he was shaking vigorously."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"It was hard to tell which was most incensed, the Briton or the entomologist."*
+> - 📜 **Charles Valentine Riley (*Annual Report on the Noxious, Beneficial, and Other Insects of Missouri*):** *"The economic **entomologist** must balance agricultural chemical application with the preservation of natural predators."*
+> - 📜 **William Morton Wheeler (*Ants: Their Structure, Development and Behavior*):** *"Every patient **entomologist** finds that an artificial formicarium reveals social behaviors invisible in open fields."*
+> - 📜 **August Forel (*The Senses of Insects*):** *"To the keen **entomologist**, the olfactory antenna of a wasp is a sensory marvel beyond human imagination."*

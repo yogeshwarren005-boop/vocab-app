@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of pleuronectidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of pleuronectidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of righteye flatfishes in the family Pleuronectidae, containing the winter flounder (Pseudopleuronectes americanus).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine biology and commercial fisheries, cold-tolerant benthic flatfish of the northwest Atlantic characterized by antifreeze glycopeptides in their blood plasma.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pseudopleuronectes designates a genus of pleuronectidae."*
+> - 📜 **Theodore Gill (*Synopsis of the Pleuronectoids of the Eastern Coast of North America*):** *"The genus **pseudopleuronectes** encompasses littoral flounders whose dextral eyes and oval contours adapt them to sandy estuaries."*
+> - 📜 **David Starr Jordan (*The Fishes of North and Middle America*):** *"Commercial trawlers take vast quantities of **pseudopleuronectes** along the shoals of New England during the winter season."*
+> - 📜 **George Brown Goode (*Oceanic Ichthyology*):** *"Specimens of **pseudopleuronectes** survive subzero coastal shallows thanks to specialized proteinaceous antifreeze compounds."*

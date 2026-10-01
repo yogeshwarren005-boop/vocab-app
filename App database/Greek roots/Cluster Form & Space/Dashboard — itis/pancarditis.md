@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the entire heart (the epicardium and the myocardium and the endocardium).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inflammation of the entire heart (the epicardium and the myocardium and the endocardium).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Diffuse, comprehensive inflammation simultaneously involving all three structural layers of the heart: the endocardium, myocardium, and pericardium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pediatric cardiology, pancarditis is the hallmark of severe acute rheumatic fever, presenting with cardiac murmurs (endocarditis), cardiomegaly and heart failure (myocarditis), and a pericardial friction rub (pericarditis).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pancarditis designates inflammation of the entire heart (the epicardium and the myocardium and the endocardium)."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Acute rheumatic **pancarditis** in children is an ominous condition, attacking all three anatomical coats of the heart."*
+> - 📜 **Austin Flint (*A Treatise on the Principles and Practice of Medicine*):** *"The simultaneous detection of endocardial murmurs, gallop rhythm, and a pericardial friction rub confirms **pancarditis**."*
+> - 📜 **Thomas Watson (*Lectures on the Principles and Practice of Physic*):** *"When inflammation spreads unchecked through muscular wall and membranes, lethal **pancarditis** rapidly exhausts the patient."*

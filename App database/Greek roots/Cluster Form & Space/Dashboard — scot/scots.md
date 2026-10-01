@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The dialect of english used in scotland.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A native or inhabitant of scotland.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Anglic language or dialect spoken in Lowland Scotland; also the Scottish people collectively.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philology, Scots developed alongside Middle English from Northern Northumbrian Old English, producing a rich poetic and legal tradition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Those same noble Scots That are your prisoners— HOTSPUR."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am not yet of Percy’s mind, the Hotspur of the north, he that kills me some six or seven dozen of Scots at a breakfast, washes his hands, and says to his wife, “Fie upon this quiet life!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Owen, Owen, the same; and his son-in-law Mortimer, and old Northumberland, and that sprightly Scot of Scots, Douglas, that runs a-horseback up a hill perpendicular— PRINCE."*
+> - 📜 **Robert Burns (*Poems, Chiefly in the Scottish Dialect*):** *"I sing in honest **scots**, the ancient tongue that echoes the hills and passions of my native soil."*
+> - 📜 **Walter Scott (*Rob Roy*):** *"The bailie spoke a broad, vigorous **scots** that made his legal admonitions all the more formidable."*
+> - 📜 **Robert Louis Stevenson (*Underwoods*):** *"There is a music in broad **scots** which touches the wanderer's heart wherever he may roam."*

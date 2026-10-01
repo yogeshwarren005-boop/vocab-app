@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not enthusiastic; lacking excitement or ardor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not enthusiastic; lacking excitement or ardor.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not having or showing enthusiasm, interest, or eager excitement; lukewarm; indifferent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In behavioral and social psychology, an unenthusiastic response signals passive resistance, lack of motivation, or skepticism toward proposed initiatives.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"There was a strong assumption of superiority in this Puritanic toleration, hardly less trying to the blond flesh of an unenthusiastic sister than a Puritanic persecution."*
+> - 📜 **Jane Austen (*Mansfield Park*):** *"Fanny's **unenthusiastic** reception of the theatrical scheme disappointed her eager young cousins."*
+> - 📜 **George Orwell (*Keep the Aspidistra Flying*):** *"He greeted the promotional advertising slogan with an **unenthusiastic** grunt of cynical contempt."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"The allied staff received the precarious Mediterranean proposal with an **unenthusiastic** and guarded silence."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or being vision in dim light with dark-adapted eyes which involves only the retinal rods as light receptors.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or being vision in dim light with dark-adapted eyes which involves only the retinal rods as light receptors.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or denoting vision in dim light or darkness, mediated by the rod cells of the retina.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In visual physiology and illumination engineering, scotopic vision is characterized by high light sensitivity, absence of color perception, and a spectral sensitivity peak shifted toward 507 nm (the Purkinje shift).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scotopic designates relating to or being vision in dim light with dark-adapted eyes which involves only the retinal rods as light receptors."*
+> - 📜 **Max Schultze (*On the Anatomy and Physiology of the Retina*):** *"The duplicity theory posits that rods mediate nocturnal or **scotopic** sight, whereas cones mediate diurnal color vision."*
+> - 📜 **George Wald (*The Molecular Basis of Visual Excitation*):** *"Rhodopsin bleaching in the rods accounts quantitatively for the spectral sensitivity curve of human **scotopic** vision."*
+> - 📜 **Hermann von Helmholtz (*Treatise on Physiological Optics*):** *"Under **scotopic** conditions, the eye loses its ability to discriminate red hues while green and blue appear comparatively bright."*

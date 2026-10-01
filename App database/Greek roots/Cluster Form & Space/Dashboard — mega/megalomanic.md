@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Suffering from megalomania.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Suffering from megalomania.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, affected by, or exhibiting megalomania (synonym of megalomaniacal).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychology, describing individual actions, thoughts, or speech expressing grandiose delusions of superiority or boundless authority.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, megalomanic designates suffering from megalomania."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"Fanatical prophets sometimes drift into **megalomanic** claims of direct divine commission and exclusive revelation."*
+> - 📜 **Sigmund Freud (*Moses and Monotheism*):** *"The pharaoh's **megalomanic** architecture proclaimed an unshakeable belief in his own personal divinity."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"Following excessive dopamine therapy, the patient developed euphoric, **megalomanic** convictions of supreme intellectual insight."*

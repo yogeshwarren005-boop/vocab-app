@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek id.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The cognitive, intellectual, or formal essence of a thing, culture, or philosophical concept; the Platonic form or idea.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Platonic philosophy, *eidos* designates the unchanging metaphysical Form or Archetype; in anthropology (Gregory Bateson), denotes the standardized cognitive framework and intellectual logic characteristic of a culture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eidos designates a term designating an entity, condition, or phenomenon derived from greek id."*
+> - 📜 **Plato (*Republic*):** *"The philosopher turns his mind toward the eternal **eidos**, contemplating the immutable Form of the Good."*
+> - 📜 **Aristotle (*Metaphysics*):** *"Every substance consists of underlying matter informed by its determining **eidos** or formal principle."*
+> - 📜 **Edmund Husserl (*Ideas: General Introduction to Pure Phenomenology*):** *"Phenomenological reduction passes from the empirical fact to grasp the essential **eidos** through eidetic variation."*

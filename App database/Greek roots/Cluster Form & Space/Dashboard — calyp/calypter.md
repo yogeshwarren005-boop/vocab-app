@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Scalelike structure between the base of the wing and the halter of a two-winged fly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Scalelike structure between the base of the wing and the halter of a two-winged fly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A membranous lobe or scale located at the base of the wing in certain true flies (Diptera) that covers the haltere; also the calyptra of a moss.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic entomology, the anatomical character that divides true flies into Calyptratae and Acalyptratae.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calypter designates scalelike structure between the base of the wing and the halter of a two-winged fly."*
+> - 📜 **William Benjamin Carpenter (*The Microscope and Its Revelations*):** *"Beneath the root of the fly's wing lies the delicate **calypter**, protecting the vibrating haltere from air turbulence."*
+> - 📜 **Alpheus Spring Packard (*A Text-Book of Entomology*):** *"In muscoid Diptera, the enlarged **calypter** forms a dual squama concealing the thoracic spiracle."*
+> - 📜 **Thomas Henry Huxley (*The Invertebrata*):** *"The presence or absence of a developed **calypter** furnishes a fundamental taxonomic division among cyclorrhaphous flies."*

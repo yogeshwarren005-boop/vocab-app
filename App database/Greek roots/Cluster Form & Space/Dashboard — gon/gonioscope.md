@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek gon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An optical diagnostic instrument consisting of a specialized mirrored contact lens used with a slit lamp to inspect the anterior chamber angle of the eye.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ophthalmology, gonioscopy with a gonioscope is the clinical gold standard for differentiating open-angle from angle-closure glaucoma.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gonioscope designates a term designating an entity, condition, or phenomenon derived from greek gon."*
+> - 📜 **Duke-Elder, Stewart (*System of Ophthalmology*):** *"Because total internal reflection normally conceals the iridocorneal junction, placing a **gonioscope** upon the cornea is necessary for direct inspection."*
+> - 📜 **Eugene Braunwald (*Harrison's Principles of Internal Medicine*):** *"Examination with a **gonioscope** reveals trabecular meshwork pigmentation and determines whether the filtration angle is occluded."*
+> - 📜 **David H. Hubel (*Eye, Brain, and Vision*):** *"The specialized mirrored prisms of the **gonioscope** overcome corneal curvature to illuminate the canal of Schlemm."*

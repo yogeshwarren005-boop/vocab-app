@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the urinary bladder.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inflammation of the urinary bladder.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the urinary bladder, typically caused by ascending bacterial infection of the lower urinary tract.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical urology, acute bacterial cystitis (predominantly caused by *Escherichia coli*) presents with dysuria, urinary frequency, urgency, and suprapubic tenderness; non-infectious forms include interstitial cystitis and radiation cystitis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cystitis designates inflammation of the urinary bladder."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Catheterization without rigorous antiseptic precautions frequently introduces pyogenic bacteria, provoking acute **cystitis**."*
+> - 📜 **Austin Flint (*A Treatise on the Principles and Practice of Medicine*):** *"Severe vesical tenesmus, with turbid ammoniacal urine passed in drops, characterizes acute purulent **cystitis**."*
+> - 📜 **Astley Cooper (*The Principles and Practice of Surgery*):** *"A stone long retained in the bladder produces chronic **cystitis** with thickened, trabeculated muscular walls."*

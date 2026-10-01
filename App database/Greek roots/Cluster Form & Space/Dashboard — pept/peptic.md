@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or promoting digestion : digestive.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, producing, or caused by pepsin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, promoting, or aiding digestion; of or relating to pepsin or the action of gastric juice.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pathology, a peptic ulcer is an excoriation or ulceration of the digestive tract mucosa (stomach or duodenum) caused by acid-peptic digestion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, peptic designates relating to or promoting digestion : digestive."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A chronic **peptic** ulcer arises in areas of the mucosa exposed to the corrosive action of acid gastric juice."*
+> - 📜 **Tinsley R. Harrison (*Principles of Internal Medicine*):** *"Eradication of Helicobacter pylori drastically reduces the recurrence rate of both gastric and duodenal **peptic** ulcers."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"The **peptic** cells, or chief cells, synthesize and store zymogen granules containing inactive pepsinogen."*

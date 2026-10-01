@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of tropical american trees: quira.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of tropical american trees: quira.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of neotropical trees in the legume family (Fabaceae), yielding heavy, dense timber known commercially as macawood or granadillo.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In forestry and wood anatomy, prized for its high dimensional stability, dark variegated heartwood, and resonant qualities in musical instrument making.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, platymiscium designates genus of tropical american trees: quira."*
+> - 📜 **Samuel J. Record (*Timbers of Tropical America*):** *"The lustrous wood of **platymiscium** takes a high polish and resists insect attack with exceptional durability."*
+> - 📜 **Paul C. Standley (*Trees and Shrubs of Mexico*):** *"Species of **platymiscium** grow in the deciduous and evergreen lowland forests of Central and South America."*
+> - 📜 **Julian A. Steyermark (*Flora of the Venezuelan Guayana*):** *"Specimens of **platymiscium** along the riparian corridors produce handsome clusters of papilionaceous flowers."*

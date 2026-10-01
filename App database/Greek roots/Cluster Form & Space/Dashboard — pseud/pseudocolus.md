@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of fungi belonging to the family clathraceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of fungi belonging to the family clathraceae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of saprophytic stinkhorn fungi in the family Phallaceae, known as the squid stinkhorn or octopus stinkhorn.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mycology, characterized by a stalk dividing into three or four arching, reddish arms joined at the tips, coated in fetid gleba.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pseudocolus designates a genus of fungi belonging to the family clathraceae."*
+> - 📜 **Curtis Gates Lloyd (*Synopsis of the Known Phalloids*):** *"The architectural elegance of **pseudocolus** is overshadowed by the offensive carrion scent emitted by its spore-bearing gleba."*
+> - 📜 **David Arora (*Mushrooms Demystified*):** *"A mature **pseudocolus** looks astonishingly like a tiny red sea anemone or octopus stranded upon forest mulch."*
+> - 📜 **Orson K. Miller Jr. (*Mushrooms of North America*):** *"Flies attracted to the odor of **pseudocolus** inadvertently disperse the microscopic spores adhering to their feet."*

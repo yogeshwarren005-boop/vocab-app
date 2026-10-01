@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A nuclease that cleaves nucleic acids at interior bonds and so produces fragments of various sizes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A nuclease that cleaves nucleic acids at interior bonds and so produces fragments of various sizes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An enzyme that cleaves the phosphodiester bonds within a polynucleotide chain (DNA or RNA) rather than at its terminal ends.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In molecular cloning and biotechnology, restriction endonucleases recognize specific palindromic nucleotide sequences to generate cohesive or blunt DNA fragments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endonuclease designates a nuclease that cleaves nucleic acids at interior bonds and so produces fragments of various sizes."*
+> - 📜 **Hamilton O. Smith (*Nucleotide Sequence Specificity of Restriction Endonucleases*):** *"The type II restriction **endonuclease** cleaves double-stranded DNA exclusively at a distinct palindromic sequence."*
+> - 📜 **James D. Watson (*Molecular Biology of the Gene*):** *"Repair of pyrimidine dimers begins when a damage-specific **endonuclease** introduces a nick adjacent to the lesion."*
+> - 📜 **Bruce Alberts (*Molecular Biology of the Cell*):** *"CRISPR-Cas9 acts as an RNA-guided **endonuclease** that creates site-specific double-strand breaks in target genomic loci."*

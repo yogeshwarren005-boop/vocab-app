@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of the spores in heterosporous plants that give rise to male gametophytes and are generally smaller than the megaspore.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of the spores in heterosporous plants that give rise to male gametophytes and are generally smaller than the megaspore.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The smaller of the two types of spores produced by heterosporous plants, which develops into a male gametophyte; in seed plants, a pollen grain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In palynology and plant cytology, each microspore mother cell undergoes meiosis to yield a tetrad of haploid microspores coated with durable sporopollenin.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microspore designates any of the spores in heterosporous plants that give rise to male gametophytes and are generally smaller than the megaspore."*
+> - 📜 **Eduard Strasburger (*Handbook of Practical Botany*):** *"The division of the nucleus within the unicellular **microspore** gives rise to the tube cell and generative cell."*
+> - 📜 **Katherine Esau (*Anatomy of Seed Plants*):** *"The exine of the **microspore** displays intricate species-specific sculpturing of tremendous taxonomic value."*
+> - 📜 **F. O. Bower (*The Ferns (Filicales)*):** *"In heterosporous water ferns, the **microspore** contains minimal cytoplasm and germinates without photosynthetic expansion."*

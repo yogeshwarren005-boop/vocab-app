@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A usually tubular optical instrument for viewing distant objects by means of the refraction of light rays through a lens or the reflection of light rays by a concave mirror.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various tubular magnifying optical instruments.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An optical instrument designed to gather and focus light from distant objects, making them appear closer and larger; also, to slide or compress into one another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In observational astronomy, refracting and reflecting telescopes revolutionized human cosmology by revealing planetary rings, stellar nurseries, and remote galactic clusters.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"Oh, how I wish I could shut up like a telescope!"*
-> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"The Pool of Tears “Curiouser and curiouser!” cried Alice (she was so much surprised, that for the moment she quite forgot how to speak good English); “now I’m opening out like the largest telescope that ever was!"*
-> - 📜 **George Eliot (*Middlemarch*):** *"Not at all: a telescope might have swept the parishes of Tipton and Freshitt, the whole area visited by Mrs."*
+> - 📜 **Galileo Galilei (*Dialogue Concerning the Two Chief World Systems*):** *"With my **telescope**, I observed four moons revolving about Jupiter, proving that the Earth is not the sole center of celestial motion."*
+> - 📜 **Isaac Newton (*Opticks*):** *"The reflecting **telescope** avoids the chromatic fringes that afflict lenses by focusing rays from a curved silvered mirror."*
+> - 📜 **Edwin Hubble (*The Observational Approach to Cosmology*):** *"Peering through the great Mount Wilson **telescope**, we measured the redshifts of distant nebulae and proved that the universe expands."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a parochial manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a parochial manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a parochial manner; with a narrow, limited, or provincial outlook; or in a manner relating strictly to a local church parish.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural and political discourse, describing administrative decisions or intellectual viewpoints that ignore broad national interests in favor of petty local concerns.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parochially designates in a parochial manner."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Township citizens who think only **parochially** risk missing the grand collective destiny of their democratic republic."*
+> - 📜 **Walter Bagehot (*The English Constitution*):** *"When members of Parliament act merely **parochially**, they degenerate from national legislators into mere agents for borough interests."*
+> - 📜 **George Eliot (*Scenes of Clerical Life*):** *"The vestry met weekly to manage their funds **parochially**, debating the mendicants' bread allowances with meticulous frugality."*

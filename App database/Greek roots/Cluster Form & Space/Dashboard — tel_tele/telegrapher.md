@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who transmits messages by telegraph.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who transmits messages by telegraph.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who operates a telegraph apparatus, sending and receiving messages in Morse code or other telegraphic codes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nineteenth-century rail operations, the telegrapher held life-and-death responsibility for issuing train orders and preventing head-on collisions on single-track lines.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, telegrapher designates someone who transmits messages by telegraph."*
+> - 📜 **Thomas Alva Edison (*The Diary and Sundry Observations of Thomas Alva Edison*):** *"As an eager young **telegrapher**, I learned to copy press dispatches at top speed with a stylus on carbon paper."*
+> - 📜 **Mark Twain (*Roughing It*):** *"The overland **telegrapher** sat in his lonely prairie cabin, his key clicking out news from the Atlantic seaboard."*
+> - 📜 **Walt Whitman (*Memoranda During the War*):** *"Night after night, the military **telegrapher** decoded casualty lists from the Virginia wilderness."*

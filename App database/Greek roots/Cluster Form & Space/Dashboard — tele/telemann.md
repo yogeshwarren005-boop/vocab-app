@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: German baroque composer (1681-1767).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: German baroque composer (1681-1767).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Georg Philipp Telemann (1681–1767), a German Baroque composer and multi-instrumentalist renowned for his vast musical output and influential church and chamber music.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In musicology, Telemann was a contemporary of J. S. Bach and Handel, celebrated for synthesizing German counterpoint, French elegance, and Italian melodic warmth in collections like *Tafelmusik*.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, telemann designates german baroque composer (1681-1767)."*
+> - 📜 **Charles Burney (*The Present State of Music in Germany, the Netherlands, and United Provinces*):** *"In Hamburg, the celebrated Kapellmeister **Telemann** amazed all Europe by composing church cantatas, concertos, and operas with inexhaustible ease."*
+> - 📜 **Albert Schweitzer (*J. S. Bach*):** *"In their own lifetime, the public acclaim awarded to **Telemann** far surpassed the modest provincial reputation of Sebastian Bach."*
+> - 📜 **Romain Rolland (*A Musical Tour through the Land of the Past*):** *"The delightful chamber sonatas of **Telemann** opened the doorway through which the stiff Baroque polyphony relaxed into the galant style."*

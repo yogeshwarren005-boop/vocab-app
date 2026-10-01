@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or resembling a carpospore.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or resembling a carpospore.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or functioning as a carpospore; pertaining to carpospore formation in red algae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In rhodophyte cytology, carposporic development encompasses the gonimoblast filaments producing terminal carposporangia within the female cystocarp.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carposporic designates relating to or resembling a carpospore."*
+> - 📜 **Fritsch, F. E. (*The Structure and Reproduction of the Algae*):** *"The **carposporic** phase represents an amplification mechanism, generating hundreds of diploid spores from a single fertilization event."*
+> - 📜 **Kathleen M. Drew-Baker (*Studies in the Bangiophycidae*):** *"Nuclear staining revealed that the **carposporic** divisions remain diploid prior to emission from the parent thallus."*
+> - 📜 **E. M. Delf (*The Morphological Aspect of the Red Algae*):** *"The protective pericarp shelters the developing **carposporic** filaments against mechanical abrasion from surf."*

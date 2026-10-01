@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek tem.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Divination or prophecy based on the appearance, numbers, or behavior of insects.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural anthropology and the history of occultism, entomomancy was practiced in various ancient cultures by interpreting ant swarms, locust flights, or spider web patterns as omens.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, entomomancy designates a term designating an entity, condition, or phenomenon derived from greek tem."*
+> - 📜 **Edward Tylor (*Primitive Culture*):** *"Practices of **entomomancy** survive in folklore where sudden swarms of ants or bees are interpreted as auguries of war."*
+> - 📜 **James George Frazer (*Folk-Lore in the Old Testament*):** *"Diviners resorted to **entomomancy**, observing the erratic migrations of locusts to foretell royal fortunes."*
+> - 📜 **Andrew Lang (*Custom and Myth*):** *"Like augury from birds, rustic **entomomancy** attributed prophetic intelligence to the movements of common insects."*

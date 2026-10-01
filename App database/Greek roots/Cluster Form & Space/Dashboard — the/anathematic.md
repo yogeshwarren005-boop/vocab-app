@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of the.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of the.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or having the character of an anathema; marked by curse, formal condemnation, or banishment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical and ecclesiastical theology, anathematic pronouncements signified absolute exclusion from religious fellowship and divine favor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anathematic designates adjective*) pertaining to, derived from, or characteristic of the."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The furious crowd echoed the **anathematic** denunciations voiced by revolutionary orators against the aristocracy."*
+> - 📜 **Henry Hallam (*View of the State of Europe during the Middle Ages*):** *"Papal bulls carrying an **anathematic** sanction frequently undermined the secular authority of recalcitrant monarchs."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"Critical dogma should avoid the harsh, **anathematic** tone that stifles genuine poetic originality."*

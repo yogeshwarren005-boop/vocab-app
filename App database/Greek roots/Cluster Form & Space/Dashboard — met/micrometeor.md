@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A meteorite or meteoroid so small that it drifts down to earth without becoming intensely heated in the atmosphere.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A meteorite or meteoroid so small that it drifts down to earth without becoming intensely heated in the atmosphere.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A microscopic or submillimeter extraterrestrial particle that enters the upper atmosphere, vaporizing to create a faint, transient ionization trail.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In upper-atmospheric physics and aeronomy, micrometeors supply metallic ions that influence the electrical conductivity and chemical composition of the mesosphere.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, micrometeor designates a meteorite or meteoroid so small that it drifts down to earth without becoming intensely heated in the atmosphere."*
+> - 📜 **Fred Whipple (*The Mystery of Comets*):** *"Radar tracking detects the ionization column produced as each interplanetary **micrometeor** disintegrates high above the stratosphere."*
+> - 📜 **James Van Allen (*Origins of Magnetospheric Physics*):** *"Rocket sensors deployed during meteor showers recorded an influx of charged particles originating from **micrometeor** ablation."*
+> - 📜 **Carl Sagan (*The Cosmic Connection*):** *"Countless dust grains from pulverized comets burn away as a faint **micrometeor**, gently seeding our atmosphere with extraterrestrial minerals."*

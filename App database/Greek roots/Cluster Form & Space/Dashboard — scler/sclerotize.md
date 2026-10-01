@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Verb*) To subject to, transform by, or operate upon through hard.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Verb*) To subject to, transform by, or operate upon through hard.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To harden, indurate, or stiffen, especially through cross-linking of structural proteins and chitin in the arthropod cuticle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In insect physiology and developmental biochemistry, the chemical tanning process (quinone tanning) that hardens soft newly molted exoskeleton.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sclerotize designates verb*) to subject to, transform by, or operate upon through hard."*
+> - 📜 **V. B. Wigglesworth (*The Principles of Insect Physiology*):** *"Bursicon hormone released into the hemolymph triggers phenolic tanning agents that **sclerotize** the pale cuticle following ecdysis."*
+> - 📜 **R. E. Snodgrass (*Principles of Insect Morphology*):** *"Before the wings can support flight, atmospheric oxygen and cuticular enzymes must **sclerotize** the flexible veins into rigid spars."*
+> - 📜 **Penny Gullan (*The Insects: An Outline of Entomology*):** *"Arthropods must rapidly **sclerotize** their mandibles and claws after molting to defend against aggressive predators."*

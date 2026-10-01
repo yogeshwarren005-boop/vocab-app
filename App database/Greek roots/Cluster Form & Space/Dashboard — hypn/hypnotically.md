@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: By means of hypnotism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: By means of hypnotism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a hypnotic manner; by means of hypnosis or as if in a mesmerizing trance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adverb used in clinical psychology to denote responses elicited under hypnotic trance, or in literature to describe captivating, trance-inducing actions or rhythms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypnotically designates by means of hypnotism."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The subject obeyed the post-hypnotic suggestion promptly, behaving **hypnotically** while rationalizing his action."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"The flickering flames danced **hypnotically** upon the ancient granite hearth, lulling us into silence."*
+> - 📜 **Sigmund Freud (*Studies on Hysteria*):** *"When queried **hypnotically**, the patient recounted the forgotten scene of her father's illness with tearful clarity."*

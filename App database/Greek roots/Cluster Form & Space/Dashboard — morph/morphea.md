@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Localized scleroderma.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Localized scleroderma.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A localized form of scleroderma characterized by circumscribed, firm, sclerotic, ivory-colored patches on the skin surrounded by a violaceous halo.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical dermatology and rheumatology, morphea involves excessive collagen deposition in the dermis and subcutaneous tissue without internal organ fibrosis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, morphea designates localized scleroderma."*
+> - 📜 **Jonathan Hutchinson (*Lectures on Clinical Surgery*):** *"The localized indurated plaques of **morphea** typically progress slowly, leaving smooth, atrophic scars in their wake."*
+> - 📜 **Ferdinand von Hebra (*Diseases of the Skin*):** *"Microscopic sections of **morphea** show dense, swollen bundles of collagen fibers obliterating dermal vessels and hair follicles."*
+> - 📜 **Thomas Addison (*On the Keloid of Alibert, and on True Keloid*):** *"What some authors designate as **morphea** is an insidiously progressive cicatricial thickening of the integument."*

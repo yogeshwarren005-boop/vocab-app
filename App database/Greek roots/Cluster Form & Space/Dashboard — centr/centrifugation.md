@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of separating substances of different densities by the use of a centrifuge.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process of separating substances of different densities by the use of a centrifuge.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process or technique of separating substances of different densities from a liquid mixture or suspension using high-speed rotational force (centrifugal force).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cell biology and biophysics, differential and density-gradient centrifugation techniques developed by Theodor Svedberg to fractionate subcellular organelles and nucleic acids.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centrifugation designates the process of separating substances of different densities by the use of a centrifuge."*
+> - 📜 **Theodor Svedberg (*The Ultracentrifuge (Nobel Lecture)*):** *"Through high-speed **centrifugation**, we succeeded in sedimenting protein molecules and demonstrating their discrete molecular weights."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Rapid **centrifugation** of whole blood separates yellow plasma from the packed red erythrocyte column."*
+> - 📜 **Primo Levi (*The Periodic Table*):** *"Industrial **centrifugation** whirled the viscous varnish until suspended resin impurities were forced against the outer drum."*

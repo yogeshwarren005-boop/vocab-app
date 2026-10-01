@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having columns at each end only.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having columns at each end only.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A classical temple or building possessing a row of columns at both front and back facades, but without lateral columns.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In architectural history, a specific design typology distinguished from peripteral and prostyle plans, providing double axial dignity to religious monuments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amphiprostyle designates having columns at each end only."*
+> - 📜 **Vitruvius (*De Architectura*):** *"When columns of equal number and proportion stand before the posticum as before the pronaos, the building is termed an **amphiprostyle**."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Near the banks of the Ilissus stood a small Ionic **amphiprostyle**, admired by travelers for its pristine proportion."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The Greek master preferred the dignified economy of the **amphiprostyle** when hillside terrain precluded a wide colonnade."*

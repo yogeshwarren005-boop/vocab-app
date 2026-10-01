@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Incorporation of substances into a cell by phagocytosis or pinocytosis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incorporation of substances into a cell by phagocytosis or pinocytosis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The cellular process by which a cell internalizes extracellular substances, fluids, or particles by invaginating its plasma membrane to form a vesicle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cell biology, endocytosis encompasses receptor-mediated endocytosis via clathrin-coated pits, pinocytosis, and phagocytosis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endocytosis designates incorporation of substances into a cell by phagocytosis or pinocytosis."*
+> - 📜 **Bruce Alberts (*Molecular Biology of the Cell*):** *"Receptor-mediated **endocytosis** provides a selective mechanism by which cells ingest specific macromolecules such as cholesterol-rich LDL."*
+> - 📜 **Harvey Lodish (*Molecular Cell Biology*):** *"Upon ligand binding, clathrin triskelions assemble at the membrane to pinch off the invaginated vesicle during **endocytosis**."*
+> - 📜 **Christian de Duve (*A Guided Tour of the Living Cell*):** *"Lysosomal degradation relies upon vesicular delivery routed through the early and late stages of cellular **endocytosis**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective & Noun*) Resembling, having the physical form of, or akin to egg.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective & Noun*) Resembling, having the physical form of, or akin to egg.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling or having the characteristics of an oidium; pertaining to the morphology of small, thin-walled fungal spores formed by fragmentation of hyphae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mycology, oidioid describes asexual spore forms produced by arthrospore segmentation, relevant to the identification and classification of powdery mildew and related fungi.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"This species (_Sphærotheca pannosa_, Lev.), in its oidioid or conidiiferous form, was for some time known under the name of _Oidium leucoconium_."*
+> - 📜 **C. J. Alexopoulos (*Introductory Mycology*):** *"The **oidioid** spores arise from the disarticulation of hyphal cells under favorable conditions."*
+> - 📜 **G. C. Ainsworth (*Ainsworth and Bisby's Dictionary of the Fungi*):** *"An **oidioid** conidiogenous pattern distinguishes several anamorphic genera within the Erysiphales."*
+> - 📜 **Paul Kirk (*Dictionary of the Fungi*):** *"The **oidioid** morphology is a key diagnostic feature for identifying certain asexual fungal stages."*

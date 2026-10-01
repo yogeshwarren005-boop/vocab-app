@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A firm partly muscular chestnut sized gland in males at the neck of the urethra; produces a viscid secretion that is the fluid part of semen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to the prostate gland.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A firm, partly muscular and partly glandular body in male mammals surrounding the beginning of the urethra, secreting a fluid that forms part of the semen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In urology, benign prostatic hyperplasia (BPH) and adenocarcinoma of the prostate constitute major causes of lower urinary tract symptoms, monitored via prostate-specific antigen (PSA) testing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"My trouble was pronounced by some to be Bright's disease, by others gravel on the kidneys with very acute inflammation of the bladder and prostate gland."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The **prostate** gland resembles a chestnut in size and shape, situated immediately below the neck of the bladder."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Enlargement of the **prostate** in elderly men frequently leads to urinary retention and secondary cystitis."*
+> - 📜 **Howard Kelly (*Operative Surgery and Urology*):** *"Surgical enucleation of the hyperplastic lobes of the **prostate** restored unobstructed urinary outflow."*

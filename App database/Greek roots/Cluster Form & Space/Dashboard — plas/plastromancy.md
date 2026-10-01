@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek plas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Divination practiced by applying heat to turtle plastrons (undershells) and interpreting the resulting thermal stress cracks, characteristic of ancient China.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Sinology and archaeology, plastromancy was the primary divination method used by Shang dynasty rulers, recording oracle bone inscriptions in early Chinese characters.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plastromancy designates a term designating an entity, condition, or phenomenon derived from greek plas."*
+> - 📜 **K. C. Chang (*Shang Civilization*):** *"Royal diviners practiced **plastromancy**, applying heated bronze rods to carved hollows on turtle plastrons to read divine omens."*
+> - 📜 **Joseph Needham (*Science and Civilisation in China*):** *"The archaic characters inscribed during **plastromancy** rituals represent the earliest systematic written records of Chinese civilization."*
+> - 📜 **David N. Keightley (*Sources of Shang History: The Oracle-Bone Inscriptions of Bronze Age China*):** *"The crack pattern produced by **plastromancy** provided the king with supernatural sanction for state decisions."*

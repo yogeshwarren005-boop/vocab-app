@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek gymn.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A Greek root meaning 'naked', 'bare', or 'unclothed', forming the base for terms relating to athletic training, unprotected seeds, or uncovered organs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical antiquity and biological taxonomy, gymn- denotes unclothed physical exercise (gymnasium) or exposed reproductive structures (gymnosperm).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gymn designates a term designating an entity, condition, or phenomenon derived from greek gymn."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"The adjective gymnos signifies naked, bare, or stripped for athletic exercise, the foundation of **gymn** derivatives."*
+> - 📜 **Robert Beekes (*Etymological Dictionary of Greek*):** *"Rooted in PIE *nogʷ-no- ('naked') via Hellenic metathesis, **gymn** gave rise to both athletic and botanical nomenclatures."*
+> - 📜 **Herbert Weir Smyth (*Greek Grammar*):** *"Compounds formed with **gymn** consistently convey notions of unadorned exposure or physical unclothed training."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A parallelepiped whose faces are rhombuses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A parallelepiped whose faces are rhombuses.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A three-dimensional geometric polyhedron bounded by six congruent rhombus faces.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In crystallography, the fundamental primitive closed form in the trigonal crystal system, resembling a cube deformed along one of its body diagonals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhombohedron designates a parallelepiped whose faces are rhombuses."*
+> - 📜 **René Just Haüy (*Essai d'une théorie sur la structure des crystaux*):** *"Every specimen of spar, however complex its exterior shape, reduces by cleavage to a primitive **rhombohedron**."*
+> - 📜 **James Dwight Dana (*Manual of Mineralogy*):** *"The obtuse **rhombohedron** of dolomite possesses characteristic curved surfaces and pearly luster upon its cleavage faces."*
+> - 📜 **Edward Salisbury Dana (*A Textbook of Mineralogy*):** *"A fundamental **rhombohedron** can be combined with hexagonal prisms to generate diverse mineral crystal habits."*

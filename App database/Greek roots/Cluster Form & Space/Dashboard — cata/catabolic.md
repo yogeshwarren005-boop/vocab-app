@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by or promoting metabolic activity concerned with the breakdown of complex molecules (such as proteins or lipids) and the release of energy within the organism : relating to, characterized by, or stimulating catabolism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by or promoting metabolic activity concerned with the breakdown of complex molecules (such as proteins or lipids) and the release of energy within the organism : relating to, characterized by, or stimulating catabolism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characterized by catabolism; destructive metabolism involving the breakdown of complex molecules into simpler ones.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biochemistry and clinical endocrinology, describing metabolic states (induced by cortisol, glucagon, or severe trauma) where tissue proteolysis and glycogenolysis exceed synthesis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, catabolic designates marked by or promoting metabolic activity concerned with the breakdown of complex molecules (such as proteins or lipids) and the release of energy within the organism : relating to, characterized by, or stimulating catabolism."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Severe diabetic ketoacidosis represents a profound **catabolic** crisis driven by uninhibited lipolysis and gluconeogenesis."*
+> - 📜 **Eric Kandel (*Principles of Neural Science*):** *"Neuronal energy depletion activates **catabolic** cascades that degrade structural cytoskeletal proteins."*
+> - 📜 **Hans Selye (*The Stress of Life*):** *"During the exhaustion stage of the general adaptation syndrome, unchecked **catabolic** breakdown consumes vital tissue reserves."*

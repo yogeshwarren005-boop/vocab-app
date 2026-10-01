@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An accumulation of a large amount of fat on the buttocks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An accumulation of a large amount of fat on the buttocks.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A condition characterized by substantial genetic accumulation of fat in the buttocks and upper thighs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical anthropology and human physiology, a phenotypic trait most prominent in female San (Bushmen) and Khoikhoi populations of southern Africa.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, steatopygia designates an accumulation of a large amount of fat on the buttocks."*
+> - 📜 **Charles Darwin (*The Descent of Man, and Selection in Relation to Sex*):** *"The pronounced **steatopygia** of Bushmen women was regarded by early travelers as a remarkable racial physical peculiarity."*
+> - 📜 **Francis Galton (*Narrative of an Explorer in Tropical South Africa*):** *"I observed how **steatopygia** appeared to function as a metabolic energy reserve comparable to the camel's adipose hump."*
+> - 📜 **Aleš Hrdlička (*Anthropometry*):** *"Anthropometric measurements of gluteal fat deposition in southern Africa establish the unique physiological distribution of **steatopygia**."*

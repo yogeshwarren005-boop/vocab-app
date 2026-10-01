@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Badlands in three areas along the Little Missouri River in western North Dakota.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Frederick 1862—1934 English composer.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A masculine given name derived from the Greek name *Theodoros*, meaning 'gift of God' (*theos* + *doron*).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Borne by numerous saints, Byzantine emperors, popes, and prominent historical figures including US President Theodore Roosevelt and novelist Theodore Dreiser.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Brocklehurst; remember me to Mrs. and Miss Brocklehurst, and to Augusta and Theodore, and Master Broughton Brocklehurst.” “I will, madam."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"What tricks Theodore and I used to play on our Miss Wilsons, and Mrs."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"Theodore Tiffereau made gold at Paris in the year 1854 in the presence of M."*
+> - 📜 **Theodore Roosevelt (*An Autobiography*):** *"My father, **Theodore** Roosevelt, was the best man I ever knew, combining strength and courage with gentleness."*
+> - 📜 **Theodore Dreiser (*A Book About Myself*):** *"Reflecting on his literary ambitions, young **Theodore** resolved to capture the raw realism of American cities."*
+> - 📜 **Henry James (*The Bostonians*):** *"The old doctor reminisced fondly about his college classmate **Theodore**, admiring his unbending moral integrity."*

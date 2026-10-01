@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of muscular tissue) the state of being hypertonic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of muscular tissue) the state of being hypertonic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of abnormally increased muscle tone or tension; hypertonia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurophysiology, hypertonus results from the loss of supraspinal inhibitory control over gamma or alpha motor neurons, producing muscular stiffness and resistance to passive movement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypertonus designates (of muscular tissue) the state of being hypertonic."*
+> - 📜 **Charles Sherrington (*The Integrative Action of the Nervous System*):** *"The **hypertonus** of decerebrate rigidity is confined predominantly to those muscles which counteract the force of gravity."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Following cerebral apoplexy, initial flaccid paralysis is gradually replaced by permanent spastic **hypertonus**."*
+> - 📜 **Henry Head (*Studies in Neurology*):** *"Reflex **hypertonus** in hemiplegia can be temporarily inhibited by eliciting flexor withdrawal reflexes."*

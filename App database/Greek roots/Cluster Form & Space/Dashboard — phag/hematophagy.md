@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek phag.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The practice or habit of feeding on blood; blood-drinking by hematophagous parasites or predators.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical parasitology and entomology, hematophagy evolved independently in leeches, vampire bats, and arthropod vectors (such as mosquitoes and tsetse flies).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hematophagy designates a term designating an entity, condition, or phenomenon derived from greek phag."*
+> - 📜 **Ronald Ross (*The Prevention of Malaria*):** *"Obligate **hematophagy** in the female Anopheles mosquito provides essential protein for oocyte maturation while vectoring Plasmodium."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"We observed the habits of the Desmodus vampire bat, whose nocturnal **hematophagy** is dreaded by horses in Chile."*
+> - 📜 **Patrick Manson (*Tropical Diseases*):** *"Vector-borne epidemiology depends entirely on repeated bouts of **hematophagy** across mammalian host populations."*

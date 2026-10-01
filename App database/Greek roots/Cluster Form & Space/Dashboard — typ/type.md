@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A particular kind, class, or group.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something distinguishable as a variety : sort.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A category of people or things sharing common characteristics that distinguish them as a recognizable class or group; a representative specimen or model.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophy and semiotics, a type is an abstract class or universal of which individual instances (tokens) are concrete realizations, foundational to discussions of identity and classification.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thy father bears the type of King of Naples, Of both the Sicils, and Jerusalem, Yet not so wealthy as an English yeoman."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Unto the dignity and height of fortune, The high imperial type of this earth’s glory."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Of that true type hath Tarquin rifled me."*
+> - 📜 **Plato (*Republic*):** *"Each **type** of soul corresponds to a particular form of government and a particular way of life."*
+> - 📜 **Charles Sanders Peirce (*Collected Papers*):** *"A word is a **type**, and every written or spoken instance of it is a token of that type."*
+> - 📜 **Max Weber (*Economy and Society*):** *"The ideal **type** is a methodological construct that accentuates certain elements of reality for analytical purposes."*

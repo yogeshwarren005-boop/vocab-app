@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: panpipe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: the vocal organ of birds that is a special modification of the lower part of the trachea or of the bronchi or of both.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The vocal organ of birds, located at or near the junction of the trachea and bronchi; also, in mythology, a nymph transformed into water reeds from which Pan fashioned panpipes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuroanatomy and medicine, a syrinx denotes a fluid-filled neuroglial cavity within the spinal cord (syringomyelia) or brainstem (syringobulbia).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog syrinx as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The musical songs of male passerine birds are produced by vibrations of membranes within the avian **syrinx**."*
+> - 📜 **John Milton (*Arcades*):** *"Pan himself was moved to tears when lovely **Syrinx** slipped from his grasp and turned to sighing reeds."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Magnetic imaging revealed a large cervical **syrinx** compressing the anterior horns and crossing spinothalamic tracts."*

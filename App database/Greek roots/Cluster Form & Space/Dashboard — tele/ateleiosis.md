@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek tele.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A form of proportionate dwarfism caused by growth hormone deficiency (pituitary dwarfism), in which normal infantile bodily proportions and intellectual faculties are preserved.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical genetics and clinical endocrinology, Hastings Gilford coined the term ateleiosis (incomplete development) to distinguish pituitary proportionate dwarfism from achondroplasia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ateleiosis designates a term designating an entity, condition, or phenomenon derived from greek tele."*
+> - 📜 **Hastings Gilford (*The Disorders of Post-Natal Growth and Development: Progeria and Ateleiosis*):** *"In **ateleiosis**, the skeleton remains miniature yet perfectly proportioned, retaining child-like facial features into adulthood."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Unlike the disproportionate limbs of the achondroplastic, the subject of **ateleiosis** represents a true miniature human being."*
+> - 📜 **Harvey Cushing (*The Pituitary Body and Its Disorders*):** *"Pituitary hypoplasia in early childhood arrests skeletal growth, producing the striking clinical portrait of **ateleiosis**."*

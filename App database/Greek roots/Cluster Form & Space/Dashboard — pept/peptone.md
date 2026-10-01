@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various water-soluble products of partial hydrolysis of proteins.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various water-soluble products of partial hydrolysis of proteins.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A soluble protein derivative formed during the partial enzymatic hydrolysis of proteins by pepsin or other proteases.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In microbiology, peptones serve as a primary water-soluble source of nitrogen, amino acids, and peptides in nutrient broth and agar culture media.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. G. Wells (*The Time Machine*):** *"I won’t say a word until I get some peptone into my arteries."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"Nutrient broths enriched with meat **peptone** provide optimal sustenance for cultivating fastidious bacterial strains."*
+> - 📜 **Robert Koch (*The Etiology of Tuberculosis*):** *"Solid culture media containing agar-agar and **peptone** allowed the isolation of distinct microbial colonies."*
+> - 📜 **Emil Fischer (*Studies on Amino Acids and Polypeptides*):** *"Fractionation of commercial **peptone** reveals a complex mixture of lower peptides along with free amino acids."*

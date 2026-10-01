@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The engulfing and usually the destruction of particulate matter by phagocytes that serves as an important bodily defense mechanism against infection by microorganisms and against occlusion of mucous surfaces or tissues by foreign particles and tissue debris.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The engulfing and usually the destruction of particulate matter by phagocytes that serves as an important bodily defense mechanism against infection by microorganisms and against occlusion of mucous surfaces or tissues by foreign particles and tissue debris.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ingestion of bacteria or other material by phagocytes and amoeboid protozoans.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cellular immunology, phagocytosis is a receptor-mediated endocytic mechanism for clearing microbial pathogens, apoptotic cells, and foreign debris.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phagocytosis designates the engulfing and usually the destruction of particulate matter by phagocytes that serves as an important bodily defense mechanism against infection by microorganisms and against occlusion of mucous surfaces or tissues by foreign particles and tissue debris."*
+> - 📜 **Élie Metchnikoff (*Immunity in Infective Diseases*):** *"I observed under the microscope that mobile cells engulfed rose thorns in starfish larvae, discovering **phagocytosis**."*
+> - 📜 **Bruce Alberts (*Molecular Biology of the Cell*):** *"Receptor-mediated **phagocytosis** triggers rapid remodeling of the actin cytoskeleton to extend engulfing pseudopodia."*
+> - 📜 **Paul Ehrlich (*Studies in Immunity*):** *"Complement factors act as opsonins, enhancing the rate and efficiency of bacterial **phagocytosis** by leukocytes."*

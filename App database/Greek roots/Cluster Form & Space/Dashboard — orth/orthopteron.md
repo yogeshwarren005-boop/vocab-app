@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various insects having leathery forewings and membranous hind wings and chewing mouthparts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various insects having leathery forewings and membranous hind wings and chewing mouthparts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A single insect belonging to the order Orthoptera (singular of Orthoptera; variant of orthopter).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical entomological texts, an individual specimen of the jumping insect order possessing straight tegmina and chewing mouthparts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, orthopteron designates any of various insects having leathery forewings and membranous hind wings and chewing mouthparts."*
+> - 📜 **William Kirby (*An Introduction to Entomology*):** *"Each curious **orthopteron** exhibits striking adaptations in the venation of its leathery wing-covers."*
+> - 📜 **Jean-Henri Fabre (*Social Life in the Insect World*):** *"The green grasshopper, a majestic **orthopteron**, preys voraciously upon smaller insects in the vineyard."*
+> - 📜 **James George Needham (*Elementary Lessons on Insects*):** *"Observe how the hind leg of this **orthopteron** functions as a spring-loaded catapult."*

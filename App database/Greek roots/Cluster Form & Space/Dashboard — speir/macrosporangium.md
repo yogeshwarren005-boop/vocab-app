@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A plant structure that produces megaspores.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A plant structure that produces megaspores.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sporangium that produces macrospores (megaspores), which develop into female gametophytes; a megasporangium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant morphology, the macrosporangium is found in heterosporous vascular cryptogams like *Selaginella* and represents the precursor to the seed plant nucellus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, macrosporangium designates a plant structure that produces megaspores."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"Within each axillary **macrosporangium**, typically four large tetrahedral spores develop to maturity."*
+> - 📜 **F. O. Bower (*The Origin of a Land Flora*):** *"The nutritional investment of the sporophyte is concentrated within the walls of the protective **macrosporangium**."*
+> - 📜 **Gilbert M. Smith (*Cryptogamic Botany*):** *"Cross sections through the cone of *Selaginella* reveal basal **macrosporangium** capsules beside apical microsporangia."*

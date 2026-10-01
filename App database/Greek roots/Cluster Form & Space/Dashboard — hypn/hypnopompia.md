@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek hypn.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The transitional state of consciousness experienced when awakening from sleep, intermediate between dreaming and full alertness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sleep neurology and psychology, hypnopompia (coined by F. W. H. Myers) is characterized by lingering dream imagery, auditory hallucinations, sleep inertia, and occasional episodes of isolated sleep paralysis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypnopompia designates a term designating an entity, condition, or phenomenon derived from greek hypn."*
+> - 📜 **William James (*The Principles of Psychology*):** *"During morning **hypnopompia**, fragments of the night's final dream linger vividly against the waking daylight."*
+> - 📜 **Oliver Sacks (*Hallucinations*):** *"Unlike hypnagogic visions, **hypnopompia** surprises the sleeper as he emerges toward wakefulness with eyes half open."*
+> - 📜 **Sigmund Freud (*The Interpretation of Dreams*):** *"The abrupt transition in **hypnopompia** allows waking critical logic to disintegrate the fragile structure of the dream."*

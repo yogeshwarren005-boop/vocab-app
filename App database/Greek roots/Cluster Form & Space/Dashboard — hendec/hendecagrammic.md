@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of eleven.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of eleven.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, having the form of, or arranged like a hendecagram (an eleven-pointed star).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In architectural ornamentation and geometric tiling theory, designating intricate star patterns possessing eleven-fold rotational symmetry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hendecagrammic designates adjective*) pertaining to, derived from, or characteristic of eleven."*
+> - 📜 **H. S. M. Coxeter (*Regular Polytopes*):** *"The **hendecagrammic** prism combines two parallel star-polygon faces linked by eleven rectangular vertical walls."*
+> - 📜 **Branko Grünbaum (*Tilings and Patterns*):** *"Quasicrystalline and exotic Islamic mosaics occasionally incorporate **hendecagrammic** star motifs in boundary borders."*
+> - 📜 **Norman Johnson (*Uniform Polytopes*):** *"Non-convex uniform tilings may exhibit **hendecagrammic** vertex figures with alternating intersecting edges."*

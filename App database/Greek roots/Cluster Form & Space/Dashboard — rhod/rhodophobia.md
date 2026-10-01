@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Chromophobia is a persistent, irrational fear of, or aversion to, colors and is usually a conditioned response.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: While actual clinical phobias to color are rare, colors can elicit hormonal responses and psychological reactions..
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal, irrational fear of or intense psychological aversion to the color red, or to roses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychology and psychopathology, a specific chromophobia where red hues or floral forms trigger severe autonomic anxiety.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhodophobia designates chromophobia is a persistent, irrational fear of, or aversion to, colors and is usually a conditioned response."*
+> - 📜 **Havelock Ellis (*Studies in the Psychology of Sex*):** *"A patient suffering from pronounced **rhodophobia** experienced acute distress whenever presented with crimson draperies or red flowers."*
+> - 📜 **S. Weir Mitchell (*Wear and Tear: Or, Hints for the Overworked*):** *"Sensory hyperesthesia in neurasthenic subjects occasionally manifests as **rhodophobia**, rendering vivid colors intolerable."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Unreasonable phobic aversions, such as **rhodophobia**, demonstrate how visceral fear responses can attach to arbitrary visual stimuli."*

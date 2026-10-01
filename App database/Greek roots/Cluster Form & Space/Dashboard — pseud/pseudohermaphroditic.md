@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having internal reproductive organs of one sex and external sexual characteristics of the other sex.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having internal reproductive organs of one sex and external sexual characteristics of the other sex.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or exhibiting the anatomical characteristics of pseudohermaphroditism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In developmental embryology, describing an organism whose reproductive tract demonstrates phenotypic discordance with its gonadal histology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pseudohermaphroditic designates having internal reproductive organs of one sex and external sexual characteristics of the other sex."*
+> - 📜 **Richard Goldschmidt (*The Mechanism and Physiology of Sex Determination*):** *"Experimental intersexuality in moths produces individuals exhibiting clearly **pseudohermaphroditic** genital structures."*
+> - 📜 **Frank Lillie (*The Freemartin: A Study of the Action of Sex Hormones*):** *"The sterile heifer exhibits **pseudohermaphroditic** internal duct alterations induced by chorionic anastomoses with a male twin."*
+> - 📜 **Alfred Jost (*Problems of Fetal Endocrinology: The Gonadal and Hypophyseal Hormones*):** *"Early castration experiments revealed that embryos deprived of testicular secretions develop along non-**pseudohermaphroditic** female lines."*

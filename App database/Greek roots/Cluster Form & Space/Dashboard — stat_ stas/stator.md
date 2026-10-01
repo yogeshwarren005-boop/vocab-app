@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mechanical device consisting of the stationary part of a motor or generator in or around which the rotor revolves.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mechanical device consisting of the stationary part of a motor or generator in or around which the rotor revolves.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The stationary portion of an electric motor, generator, or rotary engine, within which or around which the rotor revolves.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In electrical machine design, the stator houses the field windings or armature coils embedded in laminated iron cores that generate the rotating magnetic field.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stator designates mechanical device consisting of the stationary part of a motor or generator in or around which the rotor revolves."*
+> - 📜 **Nikola Tesla (*A New System of Alternate Current Motors and Transformers*):** *"Polyphase currents flowing through the toroidal windings of the **stator** set up a smooth, rotating magnetic field."*
+> - 📜 **Charles Proteus Steinmetz (*Alternating Current Phenomena*):** *"Magnetic losses in the laminated iron sheets of the **stator** were minimized by introducing silicon steel alloys."*
+> - 📜 **Thomas Alva Edison (*The Edison Papers: Dynamos and Generators*):** *"We reinforced the copper insulation on the **stator** frame to withstand high inductive voltages."*

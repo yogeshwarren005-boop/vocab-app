@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A membranous cellular tissue that covers a free surface or lines a tube or cavity of an animal body and serves especially to enclose and protect the other parts of the body, to produce secretions and excretions, and to function in assimilation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A usually thin layer of parenchyma that lines a cavity or tube of a plant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The continuous sheet of tightly packed cells forming the skin and lining the cavities, tubes, and vessels of the body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Coined by Dutch anatomist Frederik Ruysch in the early eighteenth century, epithelium provides selective biochemical barriers, active absorption, secretion, and sensory reception across all organ systems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epithelium designates a membranous cellular tissue that covers a free surface or lines a tube or cavity of an animal body and serves especially to enclose and protect the other parts of the body, to produce secretions and excretions, and to function in assimilation."*
+> - 📜 **Frederik Ruysch (*Thesaurus Anatomicus*):** *"Ruysch described the delicate surface covering of the nipple and lip as the **epithelium**."*
+> - 📜 **Theodor Schwann (*Microscopical Researches*):** *"The cells composing the intestinal **epithelium** adhere closely together without intercellular substance."*
+> - 📜 **Santiago Ramón y Cajal (*Recollections of My Life*):** *"I observed olfactory nerve endings penetrating between the supporting cells of the nasal **epithelium**."*

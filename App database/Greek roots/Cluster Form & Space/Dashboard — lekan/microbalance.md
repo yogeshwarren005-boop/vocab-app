@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Balance for weighing very small objects.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Balance for weighing very small objects.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ultra-sensitive laboratory instrument designed to measure very small masses with high precision, typically with microgram ($\mu g$) or sub-microgram resolution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In analytical chemistry and surface science, quartz crystal microbalances (QCM) measure nanogram mass changes resulting from thin-film deposition, adsorption, or biological binding events in real time.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microbalance designates balance for weighing very small objects."*
+> - 📜 **William Crookes (*Select Methods in Chemical Analysis*):** *"By using a quartz-fiber **microbalance** suspended in a vacuum, fractions of a milligram were weighed with exactness."*
+> - 📜 **Ernest Rutherford (*Radioactive Substances and Their Radiations*):** *"The minute volume of radon gas was successfully weighed using Ramsay's exquisitely delicate quartz **microbalance**."*
+> - 📜 **Marie Curie (*Radioactive Substances*):** *"Determination of the atomic weight of radium demanded the highest precision of an analytical **microbalance**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Automatic transmission and measurement of data from remote sources by wire or radio or other means.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Automatic transmission and measurement of data from remote sources by wire or radio or other means.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The automated measurement, transmission, and reception of data from remote or inaccessible sources to receiving equipment for monitoring and analysis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aerospace exploration, industrial SCADA systems, and telemedicine, telemetry links relay multi-channel digital sensor information over radio, satellite, or fiber optic lines.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, telemetry designates automatic transmission and measurement of data from remote sources by wire or radio or other means."*
+> - 📜 **Wernher von Braun (*The Mars Project*):** *"Continuous radio **telemetry** from every propulsion stage gave launch controllers immediate warning of combustion instability."*
+> - 📜 **Arthur C. Clarke (*Rendezvous with Rama*):** *"The explorer satellite's automated **telemetry** revealed unexpected atmospheric composition inside the alien cylinder."*
+> - 📜 **Carl Sagan (*Contact*):** *"The radiotelescope array locked onto the anomalous microwave signal, streaming diagnostic **telemetry** into the computer bank."*

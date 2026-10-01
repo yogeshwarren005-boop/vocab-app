@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of tail.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of tail.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a short abdomen tucked beneath the thorax; characteristic of or resembling a true crab.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative crustacean anatomy, describing the carcinized body plan of decapod crustaceans.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, brachyurous designates adjective*) pertaining to, derived from, or characteristic of tail."*
+> - 📜 **Thomas Henry Huxley (*The Invertebrata*):** *"The **brachyurous** condition evolved through the progressive reduction and ventral flexion of the ancestral tail."*
+> - 📜 **Georges Cuvier (*The Animal Kingdom*):** *"Crabs are distinguished from lobsters by their strictly **brachyurous** form and lateral walking gait."*
+> - 📜 **Rachel Carson (*The Edge of the Sea*):** *"The small **brachyurous** creature wedged itself so firmly between the barnacles that no wave could dislodge it."*

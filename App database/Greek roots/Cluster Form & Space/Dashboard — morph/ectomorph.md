@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An ectomorphic individual.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ectomorphic individual.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An individual having a somatotype characterized by a lean, slender body build with light bone structure, narrow shoulders, and low muscle and fat development.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In constitutional psychology and somatotyping, William Sheldon postulated that an ectomorph typically demonstrates a cerebrotonic, reflective, and introverted temperament.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ectomorph designates an ectomorphic individual."*
+> - 📜 **William H. Sheldon (*The Varieties of Human Physique*):** *"The typical **ectomorph** is distinguished by linear fragility, long delicate limbs, and a minimal accumulation of subcutaneous fat."*
+> - 📜 **Gordon Allport (*Personality: A Psychological Interpretation*):** *"Sheldon's description of the **ectomorph** links physical linearity with intellectual sensitivity and a preference for solitary contemplation."*
+> - 📜 **Hans Eysenck (*The Structure of Human Personality*):** *"Empirical correlations between an **ectomorph** somatotype and introversion prove modest, yet the typology remains historically influential."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek salping.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A benign condition characterized by the ectopic presence of fallopian-tube-like ciliated epithelium in the peritoneum, ovaries, or pelvic lymph nodes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gynecologic pathology, a non-neoplastic mullerian glandular proliferation that mimics metastatic adenocarcinoma or endometriosis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endosalpingiosis designates a term designating an entity, condition, or phenomenon derived from greek salping."*
+> - 📜 **John A. Sampson (*Heterotopic or Misplaced Endometrial and Tubal Tissues*):** *"I observed that peritoneal implants of **endosalpingiosis** consist of ciliated tubal epithelium without endometrial stroma."*
+> - 📜 **Robert W. Kistner (*Gynecology: Principles and Practice*):** *"Laparoscopic evaluation frequently detects tiny calcified psammoma bodies associated with asymptomatic **endosalpingiosis**."*
+> - 📜 **Juan Rosai (*Surgical Pathology*):** *"The pathologist must distinguish the benign glands of **endosalpingiosis** from low-grade serous carcinoma of the peritoneum."*

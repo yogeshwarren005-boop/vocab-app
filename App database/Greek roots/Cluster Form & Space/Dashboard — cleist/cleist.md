@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek cleist.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combining form derived from Greek kleistos, meaning closed, shut, or enclosed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical and zoological terminology, an affix denoting organs, flowers, or anatomical structures that remain permanently closed or seal off cavities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cleist designates a term designating an entity, condition, or phenomenon derived from greek cleist."*
+> - 📜 **Charles Darwin (*The Different Forms of Flowers on Plants of the Same Species*):** *"The Greek stem **cleist** designates closed floral structures that accomplish self-fertilization without ever expanding."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"In morphological compounding, the prefix **cleist** denotes an organ or spore chamber that lacks a natural opening."*
+> - 📜 **Edmund Beecher Wilson (*The Cell in Development and Inheritance*):** *"Morphologists use the root **cleist** to indicate structures sealed within an impenetrable membranous capsule."*

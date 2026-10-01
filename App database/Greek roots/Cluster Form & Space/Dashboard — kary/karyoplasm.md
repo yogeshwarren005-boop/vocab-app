@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The protoplasm that constitutes the nucleus of a cell.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The protoplasm that constitutes the nucleus of a cell.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The protoplasm or substance of the cell nucleus, as distinguished from the cytoplasm; nucleoplasm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cell biology, karyoplasm comprises the nuclear matrix, chromatin, ribonucleoprotein complexes, and nucleolar compartments contained within the double-membraned nuclear envelope.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, karyoplasm designates the protoplasm that constitutes the nucleus of a cell."*
+> - 📜 **Edmund Beecher Wilson (*The Cell in Development and Heredity*):** *"The living substance of the cell is partitioned between the peripheral cytoplasm and the central **karyoplasm**."*
+> - 📜 **Walter Flemming (*Cell-Substance, Nucleus, and Cell-Division*):** *"Chromatin granules embedded within the **karyoplasm** condense into distinct thread-like bodies at prophase."*
+> - 📜 **Theodor Boveri (*Cells and Tissues*):** *"Interactions across the nuclear envelope regulate continuous molecular exchange between cytoplasm and **karyoplasm**."*

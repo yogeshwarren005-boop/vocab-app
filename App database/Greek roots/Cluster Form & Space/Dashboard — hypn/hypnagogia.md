@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek hypn.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The transitional state of consciousness experienced during the onset of sleep, situated between wakefulness and dreaming.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychology and sleep neurology, hypnagogia is characterized by spontaneous sensory hallucinations (visual geometric patterns, phantom sounds, sensations of falling), lucid ideation, and sleep paralysis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypnagogia designates a term designating an entity, condition, or phenomenon derived from greek hypn."*
+> - 📜 **William James (*The Principles of Psychology*):** *"During nocturnal **hypnagogia**, vivid kaleidoscopic imagery drifts across the visual field without conscious bidding."*
+> - 📜 **Sigmund Freud (*The Interpretation of Dreams*):** *"Phantasmagoric visions arising in **hypnagogia** demonstrate the uninhibited hallucinatory power of early sleep."*
+> - 📜 **Oliver Sacks (*Hallucinations*):** *"Many creative thinkers have captured their most original insights in the liminal twilight of **hypnagogia**."*

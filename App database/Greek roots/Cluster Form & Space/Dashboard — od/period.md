@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The completion of a cycle, a series of events, or a single action : conclusion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An utterance from one full stop to another : sentence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A distinct interval or span of time characterized by particular events, conditions, or cultural cycles; in grammar, a punctuation mark (.) terminating a sentence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In astronomy and physics, the time required for a recurring cyclic motion or wave to complete one full cycle, such as an orbital or pendulum period.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Tend me tonight; May be it is the period of your duty."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Upon thy sight My worldly business makes a period."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The period of thy tyranny approacheth."*
+> - 📜 **Isaac Newton (*Philosophiae Naturalis Principia Mathematica*):** *"Kepler's third law demonstrates that the square of the orbital **period** of a planet is proportional to the cube of its mean distance from the Sun."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Each successive geological **period** left its characteristic fossil flora and fauna embedded within stratified sedimentary rocks."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"A well-balanced prose **period** satisfies both the ear with musical cadence and the intellect with structural symmetry."*

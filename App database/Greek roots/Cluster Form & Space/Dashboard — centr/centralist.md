@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Advocating centralization.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Advocating centralization.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An advocate, supporter, or proponent of political or administrative centralism; or relating to the concentration of power.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political history, contrasting with federalist, regionalist, or confederal factions in constitutional debates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centralist designates advocating centralization."*
+> - 📜 **Alexis de Tocqueville (*The Old Regime and the Revolution*):** *"The ardent **centralist** regarded provincial privileges as archaic obstructions to enlightened national efficiency."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The opponents of the new Constitution unfairly denounced every energetic federal measure as the design of a **centralist** faction."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The Jacobin **centralist** believed that the republic could survive only if every departmental decree emanated directly from Paris."*

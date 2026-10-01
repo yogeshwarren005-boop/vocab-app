@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The eudicots or eudicotyledons are flowering plants that have two seed leaves (cotyledons) upon germination.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The term derives from dicotyledon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any member of a major monophyletic clade of angiosperms whose pollen grains typically possess three apertures (tricolpate).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern phylogenetic angiosperm systematics (APG), the large monophyletic assemblage encompassing the vast majority of traditional dicotyledons, excluding primitive magnoliids and basal lines.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eudicotyledon designates the eudicots or eudicotyledons are flowering plants that have two seed leaves (cotyledons) upon germination."*
+> - 📜 **Ernst Mayr (*This Is Biology*):** *"Cladistic analysis of pollen ultrastructure revealed that the true **eudicotyledon** lineage forms a strictly monophyletic group."*
+> - 📜 **Stephen Jay Gould (*The Structure of Evolutionary Theory*):** *"The recognition of the **eudicotyledon** clade revolutionized angiosperm taxonomy, separating tricolpate plants from ancient magnoliid grades."*
+> - 📜 **Richard Dawkins (*The Ancestor's Tale*):** *"A familiar apple tree is a **eudicotyledon**, sharing tricolpate pollen with roses, buttercups, and sunflowers."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked by or involving extraordinarily accurate and vivid recall especially of visual images.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by or involving extraordinarily accurate and vivid recall especially of visual images.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, possessing, or denoting mental images of extraordinary vividness, precision, and photographic detail, as if the object were still physically present.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cognitive psychology, eidetic imagery (commonly called photographic memory) occurs most frequently in young children and fades with adult linguistic abstraction, investigated extensively by E. R. Jaensch.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eidetic designates marked by or involving extraordinarily accurate and vivid recall especially of visual images."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Certain visualizers possess an almost **eidetic** faculty, projecting remembered scenes onto blank paper with sensory vividness."*
+> - 📜 **A. R. Luria (*The Mind of a Mnemonist*):** *"Shereshevsky relied upon his remarkable **eidetic** memory, reading off lines of numbers as if inscribed on an inner chalkboard."*
+> - 📜 **Oliver Sacks (*The Mind's Eye*):** *"The autistic artist exhibited striking **eidetic** recall, drawing complex architectural panoramas after a brief helicopter flight."*

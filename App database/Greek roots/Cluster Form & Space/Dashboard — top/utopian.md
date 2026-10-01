@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An idealistic (but usually impractical) social reformer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or pertaining to or resembling a utopia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Modeled on or aiming for a state in which everything is desirable or perfect; idealistic and visionary but often impractical.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Derived from Sir Thomas More's 1516 satire *Utopia* (coined from Greek *ou* not + *topos* place), utopian political projects attempt radical societal reorganization based on egalitarian or rationalist ideals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Utopian nature of "scientific" socialism. § 19."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"There is no doubt that Marx, when he first formulated this philosophy, believed that such a revolution, most violent in nature, would occur within a few years. § 18. #Utopian nature of "scientific" socialism#."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The term "scientific" set in contrast with "utopian" was meant to imply that the doctrine of Marx was not "utopian" (a word which had come to mean fanciful and impracticable)."*
+> - 📜 **Thomas More (*Utopia*):** *"In their ideal commonwealth, the citizens designed **utopian** laws that eliminated private property and greed."*
+> - 📜 **Karl Marx (*The Communist Manifesto*):** *"We must distinguish scientific socialism from the visionary fantasies of early **utopian** socialists like Fourier and Owen."*
+> - 📜 **Isaiah Berlin (*The Crooked Timber of Humanity*):** *"The pursuit of the ideal society frequently transforms **utopian** dreams into coercive ideological tyrannies."*

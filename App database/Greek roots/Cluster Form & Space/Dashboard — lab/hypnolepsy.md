@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek lab.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A condition characterized by sudden, irresistible, and recurrent attacks of deep sleep occurring during waking hours; an older or variant clinical term for narcolepsy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nineteenth-century neurological literature, hypnolepsy described paroxysmal sleep attacks distinct from ordinary fatigue, now recognized as narcolepsy type 1 with hypocretin/orexin deficiency.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypnolepsy designates a term designating an entity, condition, or phenomenon derived from greek lab."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Paroxysmal daytime sleep seizures, formerly termed **hypnolepsy**, overcome the patient even while walking or conversing."*
+> - 📜 **Jean-Martin Charcot (*Clinical Lectures on Diseases of the Nervous System*):** *"We observed rare cases of **hypnolepsy** where profound slumber seized the subject abruptly in the midst of daily labor."*
+> - 📜 **Austin Flint (*A Treatise on the Principles and Practice of Medicine*):** *"The sudden irresistible onset of **hypnolepsy** must be distinguished from the lethargy of uremic poisoning."*

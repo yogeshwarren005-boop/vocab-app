@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek gon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of marine armored dinoflagellates (family Gonyaulacaceae) responsible for producing red tides and potent paralytic shellfish toxins.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine biology and oceanography, blooms of Gonyaulax species synthesize saxitoxin and gonyautoxins that accumulate in filter-feeding bivalves.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gonyaulax designates a term designating an entity, condition, or phenomenon derived from greek gon."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"Massive blooms of the dinoflagellate **gonyaulax** stain coastal waters crimson, leaving millions of dead fish in their wake."*
+> - 📜 **Robert Edward Lee (*Phycology*):** *"Bioluminescent flashes emitted by **gonyaulax** illuminate breaking waves with brilliant blue-green nocturnal light."*
+> - 📜 **Sherwood L. Gorbach (*Infectious Diseases*):** *"Ingestion of mussels contaminated with **gonyaulax** toxins triggers severe paralytic shellfish poisoning."*

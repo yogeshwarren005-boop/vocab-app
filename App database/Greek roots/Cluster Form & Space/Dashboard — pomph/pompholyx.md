@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek pomph.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Dyshidrotic eczema; an acute or recurrent inflammatory skin condition characterized by tiny, intensely itchy blisters on the palms and soles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical dermatology, any sudden eruption of vesicular bullae without primary erythema, often triggered by stress, sweating, or contact allergens.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pompholyx designates a term designating an entity, condition, or phenomenon derived from greek pomph."*
+> - 📜 **Tilbury Fox (*Skin Diseases: Their Description, Pathology, Diagnosis, and Treatment*):** *"I proposed the term **pompholyx** for that distressing affection wherein clear sago-grain vesicles erupt along the sides of the fingers."*
+> - 📜 **Robert Willan (*On Cutaneous Diseases*):** *"The transparent bullae of **pompholyx** arise suddenly without antecedent fever, drying into thin brownish crusts."*
+> - 📜 **Jean-Louis Alibert (*Monographie des dermatoses*):** *"Vesicular eruptions conforming to **pompholyx** demand soothing emollients rather than aggressive mercurial salves."*

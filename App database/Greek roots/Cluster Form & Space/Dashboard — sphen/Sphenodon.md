@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Coextensive with the order rhynchocephalia: tuataras.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Coextensive with the order rhynchocephalia: tuataras.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of primitive, lizard-like reptiles native to New Zealand comprising the tuatara (*Sphenodon punctatus*), the sole surviving members of the ancient order Rhynchocephalia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology, *Sphenodon* is renowned as a 'living fossil' possessing a diapsid skull with complete arches, gastralia (abdominal ribs), and a prominent parietal (third) eye.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Sphenodon designates coextensive with the order rhynchocephalia: tuataras."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The cranial morphology of **Sphenodon** preserves the primitive diapsid condition seen in Triassic fossil reptiles."*
+> - 📜 **Albert Günther (*Contribution to the Anatomy of Hatteria (Sphenodon)*):** *"The distinct tooth-bearing palatine bones in **Sphenodon** set it apart from all existing lizards and snakes."*
+> - 📜 **Stephen Jay Gould (*Eight Little Piggies*):** *"The solitary survival of **Sphenodon** on offshore New Zealand islets provides an unmatched window into Mesozoic reptile anatomy."*

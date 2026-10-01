@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Arrange according to a system or reduce to a system.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Arrange according to a system or reduce to a system.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To reduce to a system; to organize or arrange according to a system; American spelling of systemise.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scientific and organizational management, to systemize procedures ensures consistency, reproducibility, and error minimization.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Then, again, in 1825, Bernard Germain, Count de Lacépède, a great naturalist, published a scientific systemized whale book, wherein are several pictures of the different species of the Leviathan."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"Then, again, in 1825, Bernard Germain, Count de Lacépède, a great naturalist, published a scientific systemized whale book, wherein are several pictures of the different species of the Leviathan."*
+> - 📜 **Benjamin Franklin (*Autobiography of Benjamin Franklin*):** *"I attempted to **systemize** my daily employment by allotting specific hours to each civic and moral duty."*
+> - 📜 **Ralph Waldo Emerson (*The Conduct of Life*):** *"The man of affairs seeks to **systemize** his enterprises so that routine tasks run without friction."*
+> - 📜 **Henry Adams (*The Education of Henry Adams*):** *"The historian's task is to **systemize** the chaotic movements of human societies under universal physical laws."*

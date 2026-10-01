@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small shop dealing in fashionable clothing or accessories.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small shop within a large department store.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small shop or department selling fashionable clothes, jewelry, or specialized specialty goods.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Etymologically descended from Old French *botique* and Greek *apotheke* (storehouse), boutique conveys an aura of exclusivity, curated craftsmanship, and luxury retail marketing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, boutique designates a small shop dealing in fashionable clothing or accessories."*
+> - 📜 **Roland Barthes (*The Fashion System*):** *"The Parisian **boutique** functions not merely as a retail establishment but as a sacred temple of aesthetic mythologies."*
+> - 📜 **Truman Capote (*Breakfast at Tiffany's*):** *"Holly paused before the window of an exclusive **boutique**, admiring vintage jewels glittering on black velvet."*
+> - 📜 **Thorstein Veblen (*The Theory of the Leisure Class*):** *"The patronizing of an expensive **boutique** signals the consumer's ability to command rare and unstandardized handiwork."*

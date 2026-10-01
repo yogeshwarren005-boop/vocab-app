@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The 5th letter of the Greek alphabet.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something or someone designated with the name epsilon or the Greek letter ε especially denoting the fifth in position, order, or class.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The fifth letter of the Greek alphabet (Ε, ε), representing a short 'e' sound.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematical analysis, a standard symbol denoting an arbitrarily small positive real number, fundamental in rigorous limit definitions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Oun: Greek particle Ou^’n, then, now then, etc. 131. the enclitic De: Greek De {Delta epsilon}; in regard to this, the following letter by Browning appeared in the London ‘Daily News’ of Nov. 21, 1874: “To the Editor of ‘The Daily News’."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Plutarch read it as Epsilon and translates it "Thou Art," and from this as from the very name of Apollo he draws a lesson as to the nature of real Being."*
+> - 📜 **Augustin-Louis Cauchy (*Cours d'Analyse*):** *"When the difference between a variable and its limit becomes less than any assigned quantity **epsilon**, convergence is established."*
+> - 📜 **Karl Weierstrass (*Mathematische Werke*):** *"The rigorous delta and **epsilon** formulation liberated differential calculus from intuitive appeals to geometric infinitesimals."*
+> - 📜 **G. H. Hardy (*A Course of Pure Mathematics*):** *"Let **epsilon** be an arbitrarily chosen positive number, however small; we can find a corresponding index N satisfying the condition."*

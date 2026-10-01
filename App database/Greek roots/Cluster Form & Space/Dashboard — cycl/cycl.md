@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: circle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: cyclic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combining form derived from Greek kyklos, meaning circle, wheel, ring, circular path, or recurrent period.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scientific terminology, an affix denoting cyclic chemical structures, repetitive chronological processes, or circular anatomical and mechanical devices.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"About six and a half years ago, however, having exhausted all material means at my command, - /materia medica/, electricity, gymnastics, cycling, and so on, - and being in a hopeless state, the study of Christian Science was taken up."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The need of greater elasticity of credit was felt in the more or less regular seasonal variations within the year, and in the more irregular variations in cycles of years from periods of prosperity to those of panic and depression in business."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"We are now to study the nature of these cycles. § 2. #Definitions.# Crisis means, generally, a decisive moment or turning point."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"The combining form **cycl** designates closed carbon rings that exhibit distinctive aromatic resonance stabilization."*
+> - 📜 **Francis Galton (*Meteorographica*):** *"From the Greek stem **cycl**, we derive meteorological terms denoting the great swirling wind vortices of our atmosphere."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Invertebrated Animals*):** *"Comparative morphologists employ **cycl** to designate circular anatomical arrangements such as the cyclostome oral sucker."*

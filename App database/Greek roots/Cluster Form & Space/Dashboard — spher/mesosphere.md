@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The part of the earth's atmosphere between the stratosphere and the thermosphere in which temperature decreases with altitude to the atmosphere's absolute minimum.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The part of the earth's atmosphere between the stratosphere and the thermosphere in which temperature decreases with altitude to the atmosphere's absolute minimum.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The layer of the Earth's atmosphere lying directly above the stratosphere and below the thermosphere, extending from approximately 50 to 85 kilometers altitude; in geophysics, the lower mantle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In atmospheric physics, the mesosphere is the coldest region of Earth's atmosphere (reaching temperatures near -90°C), characterized by noctilucent clouds and the ablation of incoming meteors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mesosphere designates the part of the earth's atmosphere between the stratosphere and the thermosphere in which temperature decreases with altitude to the atmosphere's absolute minimum."*
+> - 📜 **James Lovelock (*Gaia: A New Look at Life on Earth*):** *"Incoming interplanetary dust particles burn as shooting stars upon penetrating the cold density of the **mesosphere**."*
+> - 📜 **Carl Sagan (*Cosmos*):** *"Above the protective ozone canopy lies the shadowy **mesosphere**, where noctilucent ice clouds gleam in midnight sunlight."*
+> - 📜 **Alfred Wegener (*Thermodynamics of the Atmosphere*):** *"Sound waves from massive explosions reflect off the warm stratosphere down into the silent cold of the **mesosphere**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek hemi.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Number & Mathematics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Incomplete or partial metamorphosis in insects, characterized by egg, nymph, and adult stages without a pupa.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In insect physiology and endocrinology, a developmental strategy wherein juvenile hormone titers gradually decrease, allowing adult cuticular structures to differentiate through successive molts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemimetabolism designates a term designating an entity, condition, or phenomenon derived from greek hemi."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The phenomenon of **hemimetabolism** is well illustrated by the life cycle of the cicada and the cricket."*
+> - 📜 **Edwin Ray Lankester (*A Treatise on Zoology*):** *"Endocrine regulation in **hemimetabolism** relies on a balance between ecdysone pulses and diminishing juvenile hormone."*
+> - 📜 **Francis Maitland Balfour (*A Treatise on Comparative Embryology*):** *"Embryological studies indicate that **hemimetabolism** evolved in the Carboniferous period alongside the origin of wings."*

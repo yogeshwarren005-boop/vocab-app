@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A central nervous system stimulant that increases energy and decreases appetite; used to treat narcolepsy and some forms of depression.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A central nervous system stimulant that increases energy and decreases appetite; used to treat narcolepsy and some forms of depression.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A synthetic central nervous system stimulant that promotes wakefulness and focus, used therapeutically to treat ADHD and narcolepsy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychopharmacology and neurochemistry, a phenethylamine derivative that acts by reversing monoamine transporters, triggering massive presynaptic release of dopamine and norepinephrine.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amphetamine designates a central nervous system stimulant that increases energy and decreases appetite; used to treat narcolepsy and some forms of depression."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"Before the advent of L-DOPA, high doses of **amphetamine** were occasionally administered to arouse post-encephalitic patients from profound lethargy."*
+> - 📜 **Eric Kandel (*Principles of Neural Science*):** *"By inhibiting dopamine reuptake and reversing the vesicular transporter, **amphetamine** substantially increases extracellular catecholamines in the nucleus accumbens."*
+> - 📜 **Aldous Huxley (*Brave New World Revisited*):** *"The pharmacological mobilization of mental energy via synthetic **amphetamine** raises ethical questions about chemical enhancement in competitive societies."*

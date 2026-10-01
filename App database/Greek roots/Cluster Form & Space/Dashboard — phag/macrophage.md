@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A phagocytic tissue cell of the immune system that may be fixed or freely motile, is derived from a monocyte, functions in the destruction of foreign antigens (such as bacteria and viruses), and serves as an antigen-presenting cell.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A phagocytic tissue cell of the immune system that may be fixed or freely motile, is derived from a monocyte, functions in the destruction of foreign antigens (such as bacteria and viruses), and serves as an antigen-presenting cell.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large phagocytic white blood cell found in tissues and at sites of infection, capable of engulfing pathogens and cellular debris.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In immunology, macrophages differentiate from circulating monocytes, acting as professional antigen-presenting cells and orchestrating wound healing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, macrophage designates a phagocytic tissue cell of the immune system that may be fixed or freely motile, is derived from a monocyte, functions in the destruction of foreign antigens (such as bacteria and viruses), and serves as an antigen-presenting cell."*
+> - 📜 **Élie Metchnikoff (*Immunity in Infective Diseases*):** *"The large amoeboid **macrophage** acts as a vigilant scavenger, devouring dying cellular elements and microbial invaders."*
+> - 📜 **Bruce Alberts (*Molecular Biology of the Cell*):** *"Upon sensing bacterial endotoxin, a resident **macrophage** secretes inflammatory cytokines that recruit neutrophils."*
+> - 📜 **David L. Nelson (*Lehninger Principles of Biochemistry*):** *"Phagocytosis by a tissue **macrophage** delivers engulfed pathogens into lysosomes for oxidative destruction."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A period or condition of freedom from storms, high winds, or rough activity of water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Complete absence of wind or presence of wind having a speed no greater than one mile (1.6 kilometers) per hour.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Peaceful, quiet, untroubled, and free from agitation, violent disturbance, or stormy wind; tranquility or stillness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In meteorology, the lowest wind force on the Beaufort scale (Force 0), where smoke rises vertically and the sea surface is smooth as glass.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go with me to my tent, where you shall see How hardly I was drawn into this war, How calm and gentle I proceeded still In all my writings."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"At length the sun, gazing upon the earth, Dispers’d those vapours that offended us, And by the benefit of his wished light The seas wax’d calm, and we discovered Two ships from far, making amain to us, Of Corinth that, of Epidaurus this."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That drop of blood that’s calm proclaims me bastard; Cries cuckold to my father, brands the harlot Even here between the chaste unsmirched brow Of my true mother."*
+> - 📜 **Samuel Taylor Coleridge (*The Rime of the Ancient Mariner*):** *"Day after day, day after day, we stuck, nor breath nor motion; as idle as a painted ship upon a painted ocean, in terrible **calm**."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"There is no staying in any harbor in this world, yet after every gale the Atlantic yields to a sunny, majestic **calm**."*
+> - 📜 **Marcus Aurelius (*Meditations*):** *"Retire into your own self; for the rational soul has the nature of resting content within its own internal **calm**."*

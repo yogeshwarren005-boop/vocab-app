@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek zon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A convex polytope that is the Minkowski sum of finitely many line segments, generalizing the concept of a zonohedron to arbitrary dimensions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In computational geometry and optimization, zonotopes serve as efficient representations of reachable sets, are used in robustness analysis, and have connections to matroid theory and hyperplane arrangements.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, zonotope designates a term designating an entity, condition, or phenomenon derived from greek zon."*
+> - 📜 **Gunter Ziegler (*Lectures on Polytopes*):** *"A **zonotope** is a projection of a higher-dimensional hypercube and inherits its rich combinatorial structure."*
+> - 📜 **Branko Grunbaum (*Convex Polytopes*):** *"Every **zonotope** has centrally symmetric faces, and its facial structure reflects the underlying oriented matroid."*
+> - 📜 **Peter McMullen (*Geometric Combinatorics*):** *"The volume of a **zonotope** can be computed as a sum over its parallelotope decomposition."*

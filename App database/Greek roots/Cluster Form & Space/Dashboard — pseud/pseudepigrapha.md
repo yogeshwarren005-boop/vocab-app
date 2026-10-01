@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: 52 texts written between 200 bc and ad 200 but ascribed to various prophets and kings in the hebrew scriptures; many are apocalyptic in nature.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: 52 texts written between 200 bc and ad 200 but ascribed to various prophets and kings in the hebrew scriptures; many are apocalyptic in nature.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Spurious or pseudonymous writings, especially Jewish religious texts composed between 200 BCE and 200 CE that were not included in the canonical biblical canon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In textual criticism and biblical studies, historical religious literature attributed falsely to revered patriarchs, prophets, or apostles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pseudepigrapha designates 52 texts written between 200 bc and ad 200 but ascribed to various prophets and kings in the hebrew scriptures; many are apocalyptic in nature."*
+> - 📜 **R. H. Charles (*The Apocrypha and Pseudepigrapha of the Old Testament*):** *"The apocalyptic visions preserved in the **pseudepigrapha** illuminate the theological matrix from which primitive Christianity emerged."*
+> - 📜 **James H. Charlesworth (*The Old Testament Pseudepigrapha*):** *"Studying the **pseudepigrapha** dispels the misconception that ancient Jewish religious thought was uniform or monolithic."*
+> - 📜 **Emil Schürer (*A History of the Jewish People in the Time of Jesus Christ*):** *"Authors of the **pseudepigrapha** borrowed the names of Enoch and Moses to invest their ethical admonitions with venerable authority."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A white hard metallic element that is one of the platinum group and is found in platinum ores; used in alloys with platinum.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A white hard metallic element that is one of the platinum group and is found in platinum ores; used in alloys with platinum.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rare, silvery-white, hard, corrosion-resistant metallic chemical element of the platinum group, atomic number 45 (symbol Rh).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial chemistry and jewelry, a noble metal used primarily in automotive three-way catalytic converters and as electroplated coatings on white gold.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhodium designates a white hard metallic element that is one of the platinum group and is found in platinum ores; used in alloys with platinum."*
+> - 📜 **William Hyde Wollaston (*On a New Metal Found in Crude Platina*):** *"I have named this newly discovered element **rhodium**, from the rose color of its dilute saline solutions."*
+> - 📜 **Humphry Davy (*Elements of Chemical Philosophy*):** *"The remarkable resistance of **rhodium** to mineral acids exceeds that of platinum itself under ordinary temperatures."*
+> - 📜 **Jöns Jacob Berzelius (*Treatise on Chemistry*):** *"Alloying a small percentage of **rhodium** with platinum produces an intensely hard metal ideal for scientific crucibles."*

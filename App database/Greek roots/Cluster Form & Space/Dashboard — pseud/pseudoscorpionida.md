@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: False scorpions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: False scorpions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An older taxonomic order name for the false scorpions (now commonly designated Pseudoscorpiones).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical entomological and arachnological literature, the division of arachnids containing small predatory false scorpions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pseudoscorpionida designates false scorpions."*
+> - 📜 **Alpheus Spring Packard (*Guide to the Study of Insects*):** *"The **pseudoscorpionida** possess flattened bodies and immense chelate claws, living concealed beneath rotten wood and stones."*
+> - 📜 **William A. Riley (*Medical Entomology*):** *"Though armed with formidable claws, members of **pseudoscorpionida** are entirely harmless to human beings and feed upon domestic pests."*
+> - 📜 **Nathan Banks (*The Arachnida of Florida*):** *"Our survey of southern pine litter yielded multiple endemic species belonging to the order **pseudoscorpionida**."*

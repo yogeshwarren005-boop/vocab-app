@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek crypt.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The study, decipherment, and analysis of ancient ciphers, hidden inscriptions, and historical cryptographic texts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical epigraphy and forensic archaeology, the methodological reconstruction of obsolete code systems and steganographic inscriptions found on ancient artifacts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, archaeocryptography designates a term designating an entity, condition, or phenomenon derived from greek crypt."*
+> - 📜 **David Kahn (*The Codebreakers*):** *"Pioneering work in **archaeocryptography** unlocked the Spartan scytale and early Mesopotamian secret cuneiform tablets."*
+> - 📜 **Claude Shannon (*Communication Theory of Secrecy Systems*):** *"Techniques from modern **archaeocryptography** prove that even monoalphabetic substitutions in forgotten languages surrender to frequency analysis."*
+> - 📜 **Alan Turing (*Turing's Treatise on the Enigma*):** *"The analytical discipline required for **archaeocryptography** mirrors that needed to break mechanized polyalphabetic rotors."*

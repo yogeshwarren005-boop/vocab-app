@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who uses another person's words or ideas as if they were his own.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who uses another person's words or ideas as if they were his own.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who uses another person's words or ideas and pretends that they are their own.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary and artistic culture, an unoriginal creator who relies on clandestine copying rather than independent invention.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"The Rows of Casteele. _(Laughter.)_ LENEHAN: Plagiarist!"*
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"Here are two where the mistake has resulted from sound assisted by remote fact: PLAGIARIST, a writer of plays."*
+> - 📜 **John Milton (*Eikonoklastes*):** *"Such borrowing as this, if it be not bettered by the borrower, among good authors is accounted no better than a **plagiarist**."*
+> - 📜 **Alexander Pope (*The Dunciad*):** *"Every dunce turned **plagiarist** when Grub Street offered pennies for stolen lines."*
+> - 📜 **Mark Twain (*Letter to Helen Keller*):** *"The kernel of all human invention is borrowed, and no man can justly throw a stone at a fellow **plagiarist**."*

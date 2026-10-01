@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of stromateidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of stromateidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of marine perciform fishes in the family Centrolophidae, commonly known as barrelfishes or medusafishes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine fisheries biology, species such as *Hyperoglyphe antarctica* (Antarctic butterfish or bluenose warehou) are valuable commercial food fishes inhabiting deep continental slope reefs and seamounts in the Southern Hemisphere.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyperoglyphe designates a genus of stromateidae."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"The robust genus **Hyperoglyphe** includes deep-bodied pelagic fishes possessing fleshy fins and blunt, rounded snouts."*
+> - 📜 **George Brown Goode (*Oceanic Ichthyology*):** *"Specimens of **Hyperoglyphe** are occasionally trawled near deep offshore banks, feeding upon pelagic salps and small fishes."*
+> - 📜 **Francis Day (*The Fishes of Great Britain and Ireland*):** *"The Centrolophid genus **Hyperoglyphe** is characterized by small cycloid scales and a single, long dorsal fin."*

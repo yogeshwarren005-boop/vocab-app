@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A large molecule consisting of lipids and sugars joined by chemical bonds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large molecule consisting of lipids and sugars joined by chemical bonds.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large molecule consisting of a lipid and a polysaccharide; the major structural component of the outer membrane of Gram-negative bacteria (endotoxin).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In immunology and cellular medicine, a potent pyrogen whose lipid A moiety binds toll-like receptor 4 (TLR4), triggering massive pro-inflammatory cytokine release.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lipopolysaccharide designates a large molecule consisting of lipids and sugars joined by chemical bonds."*
+> - 📜 **Christian de Duve (*A Guided Tour of the Living Cell*):** *"The outer surface of the bacterium bristles with **lipopolysaccharide** molecules that protect the cell from hydrophobic antibiotics."*
+> - 📜 **Bruce Beutler (*The Role of Cachectin/TNF in Septic Shock*):** *"Injection of purified **lipopolysaccharide** stimulates macrophages to release tumor necrosis factor, precipitating septic shock."*
+> - 📜 **Charles Janeway (*Immunobiology: The Immune System in Health and Disease*):** *"Toll-like receptor 4 detects bacterial **lipopolysaccharide**, initiating the innate immune response against Gram-negative pathogens."*

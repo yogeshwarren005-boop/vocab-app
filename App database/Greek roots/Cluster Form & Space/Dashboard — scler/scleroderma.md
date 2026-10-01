@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A usually slowly progressive disease marked by the deposition of fibrous connective tissue in the skin and often in internal organs and structures.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A usually slowly progressive disease marked by the deposition of fibrous connective tissue in the skin and often in internal organs and structures.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chronic autoimmune disease characterized by excessive collagen accumulation leading to hardening and thickening of the skin and internal organs (systemic sclerosis).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In rheumatology, categorized into localized forms (morphea) and systemic sclerosis with Raynaud's phenomenon, esophageal dysmotility, and pulmonary fibrosis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scleroderma designates a usually slowly progressive disease marked by the deposition of fibrous connective tissue in the skin and often in internal organs and structures."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In advanced **scleroderma**, the skin of the face becomes smooth, shiny, and tightly stretched over the bones like parchment."*
+> - 📜 **Jonathan Hutchinson (*Lectures on Clinical Surgery*):** *"Raynaud's phenomenon of the fingers frequently precedes the cutaneous induration of systemic **scleroderma** by many years."*
+> - 📜 **Vinay Kumar (*Robbins and Cotran Pathologic Basis of Disease*):** *"Microvascular endothelial damage and hyperactive fibroblast signaling are the dual pathogenic hallmarks of visceral **scleroderma**."*

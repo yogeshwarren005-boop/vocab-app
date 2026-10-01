@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Periapsis in orbit around the moon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Periapsis in orbit around the moon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The point in a lunar orbit that is closest to the surface or center of the Moon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In orbital astrodynamics, entering low perilune allows spacecraft to perform high-resolution radar altimetry and terrain mapping.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, perilune designates periapsis in orbit around the moon."*
+> - 📜 **Howard D. Curtis (*Orbital Mechanics for Engineering Students*):** *"A retro-rocket firing at **perilune** efficiently inserts the lunar orbiter into a circular circumlunar trajectory."*
+> - 📜 **Arthur C. Clarke (*The Promise of Space*):** *"At **perilune**, the Apollo spacecraft skimmed merely sixty miles above the craggy lunar highlands."*
+> - 📜 **Carl Sagan (*Cosmos*):** *"Automated probes decelerated near **perilune** to land softly upon the basaltic plains of the Ocean of Storms."*

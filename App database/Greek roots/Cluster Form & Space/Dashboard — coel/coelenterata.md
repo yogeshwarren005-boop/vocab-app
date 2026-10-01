@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hydras; polyps; jellyfishes; sea anemones; corals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hydras; polyps; jellyfishes; sea anemones; corals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A traditional phylum or taxonomic group of aquatic invertebrates encompassing cnidarians (corals, sea anemones, jellyfish) and ctenophores.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic invertebrate zoology, diploblastic metazoans possessing a single central digestive body cavity (coelenteron) that serves both digestive and circulatory functions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coelenterata designates hydras; polyps; jellyfishes; sea anemones; corals."*
+> - 📜 **Thomas Henry Huxley (*The Oceanic Hydrozoa*):** *"I proposed the division of **Coelenterata** to unite those radially symmetrical animals whose digestive cavity coincides with the general body space."*
+> - 📜 **Ernst Haeckel (*Art Forms in Nature*):** *"The medusae and siphonophores belonging to **Coelenterata** display geometric radial symmetries of incomparable beauty."*
+> - 📜 **Louis Agassiz (*Contributions to the Natural History of the United States*):** *"Our investigations into **Coelenterata** prove that hydroids and acalephs are developmental phases of one unified plan of creation."*

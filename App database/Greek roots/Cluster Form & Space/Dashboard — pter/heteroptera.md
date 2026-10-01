@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: True bugs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: True bugs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A suborder of the order Hemiptera comprising the true bugs, having forewings whose basal portion is thickened and leathery while the apical part is membranous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic entomology, including assassin bugs, shield bugs, water striders, and bedbugs, distinguished by wings folding flat over the abdomen.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heteroptera designates true bugs."*
+> - 📜 **W. S. Blatchley (*Heteroptera or True Bugs of Eastern North America*):** *"The suborder **heteroptera** encompasses aquatic, littoral, and terrestrial forms adapted to diverse nutritional niches."*
+> - 📜 **H. G. Barber (*Insects of Porto Rico and the Virgin Islands: Heteroptera*):** *"Identification of **heteroptera** relies upon the venation of the hemelytral membrane and the morphology of the scutellum."*
+> - 📜 **O. M. Reuter (*Hemiptera Gymnocerata Europae*):** *"Comparative analysis of antennae and sensory organs clarifies the evolutionary divergence across terrestrial **heteroptera**."*

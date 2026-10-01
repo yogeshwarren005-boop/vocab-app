@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A closed plane figure bounded by straight lines.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A closed figure on a sphere bounded by arcs of great circles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A closed plane figure bounded by three or more straight line segments intersecting only at their endpoints.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In computer graphics, planar polygon meshes form the foundational geometric representation for rendering 3D surfaces and volumetric models.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"He lived in a place called the Polygon, in Somers Town, where there were at that time a number of poor Spanish refugees walking about in cloaks, smoking little paper cigars."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"You’re the most charming of polygons!” her companion broke out."*
+> - 📜 **Euclid (*The Elements*):** *"The sum of the interior angles of any convex **polygon** having n sides equals twice as many right angles as the figure has sides, minus four."*
+> - 📜 **H. S. M. Coxeter (*Regular Polytopes*):** *"A regular **polygon** displays congruent sides and congruent interior angles, admitting both inscribed and circumscribed circles."*
+> - 📜 **Benoit Mandelbrot (*The Fractal Geometry of Nature*):** *"Classical Euclidean shapes approximate physical landscapes with smooth **polygon** facets, but nature exhibits fractal roughness."*

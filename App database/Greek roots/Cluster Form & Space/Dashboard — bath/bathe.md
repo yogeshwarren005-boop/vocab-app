@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of swimming.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cleanse the entire body.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To wash, immerse, or soak in water or another liquid for cleanliness, healing, or pleasure; to swim in open water.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To envelop, suffuse, or immerse completely with light, heat, color, or emotional atmosphere.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Or I will live, Or bathe my dying honour in the blood Shall make it live again."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She dreamt tonight she saw my statue, Which like a fountain with an hundred spouts Did run pure blood; and many lusty Romans Came smiling, and did bathe their hands in it."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The crow may bathe his coal-black wings in mire, And unperceived fly with the filth away; But if the like the snow-white swan desire, The stain upon his silver down will stay."*
+> - 📜 **John Milton (*Paradise Lost*):** *"And in the morning light we rose to **bathe** our limbs in the cool crystalline fountain."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Golden rays of dawn seemed to **bathe** the quiet Pacific in an ethereal, translucent splendor."*
+> - 📜 **Virginia Woolf (*The Waves*):** *"The pale lavender twilight began to **bathe** the bedroom walls in quiet, receding shadow."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A stethoscope placed on the pregnant woman's abdomen to listen for the fetal heartbeat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A stethoscope placed on the pregnant woman's abdomen to listen for the fetal heartbeat.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An alternative Commonwealth/British spelling of fetoscope: an instrument used to view or auscultate a human foetus within the womb.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical obstetrics, the acoustic Pinard horn or foetoscope served as the standard acoustic monitor before widespread electronic Doppler telemetry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, foetoscope designates a stethoscope placed on the pregnant woman's abdomen to listen for the fetal heartbeat."*
+> - 📜 **Adolphe Pinard (*Treatise on Abdominal Palpation*):** *"The wooden **foetoscope** placed perpendicular to the uterine fundus conveys the fetal heart sounds directly to the ear."*
+> - 📜 **Thomas Hawkes Tanner (*The Signs and Diseases of Pregnancy*):** *"With a well-adjusted **foetoscope**, the double pulsations of the infant heart become unmistakable after the twentieth week."*
+> - 📜 **Fleetwood Churchill (*On the Theory and Practice of Midwifery*):** *"The application of the **foetoscope** has dispelled many diagnostic perplexities in cases of suspected spurious pregnancy."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various plants of the genus spathiphyllum having a white or green spathe and a spike of fragrant flowers and often cultivated as an ornamental.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various plants of the genus spathiphyllum having a white or green spathe and a spike of fragrant flowers and often cultivated as an ornamental.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of tropical monocotyledonous evergreen plants in the arum family (Araceae), commonly known as peace lilies, cultivated for glossy leaves and white flowering spathes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In indoor horticulture and environmental biology, species of *Spathiphyllum* are popular house plants renowned for their tolerance of low light and air-filtering capabilities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spathiphyllum designates any of various plants of the genus spathiphyllum having a white or green spathe and a spike of fragrant flowers and often cultivated as an ornamental."*
+> - 📜 **Liberty Hyde Bailey (*Cyclopedia of American Horticulture*):** *"The elegant white banner-like spathe of **Spathiphyllum** remains decorative for many weeks after flowering."*
+> - 📜 **David Fairchild (*The World Was My Garden*):** *"In the shaded understory of the Colombian rain forest, we collected robust specimens of **Spathiphyllum** for greenhouse propagation."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The distinct spadix free from the expanded white **Spathiphyllum** spathe distinguishes it from other aroid genera."*

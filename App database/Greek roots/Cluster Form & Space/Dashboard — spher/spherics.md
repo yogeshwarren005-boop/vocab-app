@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek spher.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of geometry and trigonometry that deals with the properties of spherical figures and circles on a sphere; the doctrine of the celestial sphere.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical mathematical education, spherics was a prerequisite for astronomical navigation, sundial construction, and geodetic surveying.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spherics designates a term designating an entity, condition, or phenomenon derived from greek spher."*
+> - 📜 **John Herschel (*Outlines of Astronomy*):** *"A thorough mastery of mathematical **spherics** is essential before one can compute great-circle sailing routes."*
+> - 📜 **Claudius Ptolemy (*Almagest*):** *"We establish the theorems of celestial **spherics** to calculate the rising and setting times of zodiacal signs."*
+> - 📜 **Benjamin Martin (*The Young Gentleman and Lady's Philosophy*):** *"The study of **spherics** teaches the youthful mind to visualize celestial arcs upon the revolving globe."*

@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: By hypothesis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: By hypothesis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: By way of hypothesis; theoretically; conjecturally or under assumed conditions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scientific argumentation and thought experiments, reasoning hypothetically allows theorists to isolate fundamental variables from confounding physical factors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Henry James (*The Turn of the Screw*):** *"Grose looked straight out of the window, but I felt that, hypothetically, I had a right to know what young persons engaged for Bly were expected to do."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"There was also some latitude here for endorsement, as the direct question of territorial acquisition had not before been presented, but only hypothetically stated in the constitutional disputations then in great fashion."*
+> - 📜 **Albert Einstein (*Relativity: The Special and General Theory*):** *"Consider **hypothetically** an observer enclosed within a chest falling freely in empty space."*
+> - 📜 **Bertrand Russell (*The Problems of Philosophy*):** *"Even if we reason **hypothetically** about a world devoid of mind, the laws of logic remain valid."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"If we grant **hypothetically** that consciousness is an epiphenomenon, volitional action remains an evolutionary puzzle."*

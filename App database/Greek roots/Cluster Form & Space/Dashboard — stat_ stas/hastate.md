@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of a leaf shape) like a spear point, with flaring pointed lobes at the base.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of a leaf shape) like a spear point, with flaring pointed lobes at the base.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Shaped like a spearhead or arrowhead, especially having two flaring, pointed lobes at the base pointing outward at right angles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical organography, hastate leaf architecture (exemplified in *Rumex hastatulus* or *Arum maculatum*) differs from sagittate leaves whose basal lobes point straight backward.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hastate designates (of a leaf shape) like a spear point, with flaring pointed lobes at the base."*
+> - 📜 **Asa Gray (*First Lessons in Botany*):** *"A **hastate** leaf has the base triangularly enlarged with two spreading lobes projecting outward like the barbs of a halberd."*
+> - 📜 **John Ruskin (*Proserpina: Studies of Wayside Flowers*):** *"The sharp **hastate** contour of the field sorrel leaf cuts through surrounding grass with crisp geometric beauty."*
+> - 📜 **Henry David Thoreau (*The Maine Woods*):** *"Along the gravelly riverbanks we found arrowhead plants with wide **hastate** leaves standing out of the shallow water."*

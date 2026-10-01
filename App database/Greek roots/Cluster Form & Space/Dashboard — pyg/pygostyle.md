@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek pyg.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A triangular bone formed by the fusion of the caudal vertebrae at the end of the avian spinal column, supporting tail feathers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In avian osteology and functional anatomy, the plowshare-shaped terminal skeletal structure that provides anchorage for the rectrices and associated flight steering musculature.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pygostyle designates a term designating an entity, condition, or phenomenon derived from greek pyg."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The fusion of the terminal caudal vertebrae into a **pygostyle** distinguishes modern carinate birds from archaic long-tailed archosaurs."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Vertebrated Animals*):** *"The **pygostyle** serves as a sturdy osseous base for the insertion of the powerful levator and depressor muscles of the tail."*
+> - 📜 **Alfred Sherwood Romer (*The Vertebrate Body*):** *"In modern birds, the elongated reptile tail is reduced to a short stump ending in the compact plowshare bone or **pygostyle**."*

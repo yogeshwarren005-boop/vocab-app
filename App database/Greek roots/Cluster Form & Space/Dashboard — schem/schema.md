@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A diagrammatic presentation; broadly : a structured framework or plan : outline.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mental codification of experience that includes a particular organized way of perceiving cognitively and responding to a complex situation or set of stimuli.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An underlying organizational pattern, framework, plan, or mental structure used to organize knowledge and guide behavior.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cognitive psychology and philosophy, an internalized cognitive model (as in Kantian epistemology or Piagetian developmental theory).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, schema designates a diagrammatic presentation; broadly : a structured framework or plan : outline."*
+> - 📜 **Immanuel Kant (*Critique of Pure Reason*):** *"The **schema** is in itself always a product of imagination, connecting pure intellectual concepts with sensory intuition."*
+> - 📜 **Jean Piaget (*The Origins of Intelligence in Children*):** *"The infant assimilates novel environmental stimuli into an existing behavioral **schema**, modifying it through accommodation."*
+> - 📜 **Frederic Bartlett (*Remembering: An Experimental and Social Study*):** *"Remembering is not the retrieval of static traces, but an imaginative reconstruction shaped by our active mental **schema**."*

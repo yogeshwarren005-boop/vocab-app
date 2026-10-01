@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being exotic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of being exotic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state, quality, or condition of being exotic; foreignness or strikingly novel unusualness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ecological biogeography, the degree to which an introduced non-native taxon differs phylogenetically and ecologically from resident endemic biota.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, exoticness designates the quality of being exotic."*
+> - 📜 **E. O. Wilson (*The Diversity of Life*):** *"The sheer **exoticness** of the island avifauna enchanted the naturalists who first landed upon the archipelago."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The Byzantine arches imparted a strange **exoticness** to the Gothic facades bordering the Grand Canal."*
+> - 📜 **Henry James (*Transatlantic Sketches*):** *"The quaint costumes of the peasantry possessed an undeniable **exoticness** that delighted traveling watercolorists."*

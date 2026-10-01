@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking wings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking wings.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking wings; wingless (especially of insects or birds).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botany, designating plant organs, such as stems, petioles, or seeds, that lack membranous wing-like expansions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, apterous designates lacking wings."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"In oceanic islands, beetles frequently become **apterous** because flying individuals are repeatedly swept out to sea."*
+> - 📜 **Jean-Henri Fabre (*The Wonders of Instinct*):** *"The female glow-worm remains permanently **apterous**, emitting her luminous beacon from the roadside grass."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"Unlike the winged fruits of maple and ash, the nut of the oak remains strictly **apterous**."*

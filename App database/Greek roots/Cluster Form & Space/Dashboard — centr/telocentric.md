@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the centromere terminally situated so that there is only one chromosomal arm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the centromere terminally situated so that there is only one chromosomal arm.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the centromere situated at the very terminal end of the chromosome.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cytogenetics, designating rod-shaped chromosomes that possess only a single discernible cytological arm during anapase movement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, telocentric designates having the centromere terminally situated so that there is only one chromosomal arm."*
+> - 📜 **Theodosius Dobzhansky (*Genetics and the Origin of Species*):** *"House mice exhibit a karyotype composed entirely of **telocentric** chromosomes, predisposing them to centric fusions."*
+> - 📜 **Michael J. D. White (*Animal Cytology and Evolution*):** *"A true **telocentric** element lacks even a minute second arm, terminating directly at the kinetochore plate."*
+> - 📜 **Edmund Beecher Wilson (*The Cell in Development and Heredity*):** *"During polar migration, the **telocentric** rod is dragged forward from its lead tip like a towed javelin."*

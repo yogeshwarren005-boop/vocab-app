@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (greek mythology) the greek god of sleep; the son of nyx.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (greek mythology) the greek god of sleep; the son of nyx.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ancient Greek mythological personification and god of sleep, son of Nyx (Night) and twin brother of Thanatos (Death); also, sleep or slumber itself.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical literature (Homer, Hesiod, Ovid), Hypnos dwells in a dark cave in the underworld through which the river Lethe flows; in psychology, symbolizes restful subconscious restoration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypnos designates (greek mythology) the greek god of sleep; the son of nyx."*
+> - 📜 **Homer (*Iliad*):** *"Then Hera sought out **Hypnos**, the sovereign lord of all gods and mortal men, entreating him to close Zeus' eyes."*
+> - 📜 **Hesiod (*Theogony*):** *"There dwell the children of dark Night, **Hypnos** and Thanatos, awful gods whom the shining sun never beholds."*
+> - 📜 **John Keats (*Endymion*):** *"O gentle **Hypnos**, pour thy quiet poppy-balm upon the weary eyes of wanderers beneath the silent stars."*

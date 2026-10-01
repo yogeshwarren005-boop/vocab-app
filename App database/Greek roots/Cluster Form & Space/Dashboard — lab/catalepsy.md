@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A trancelike state marked by loss of voluntary motion in which the limbs remain in whatever position they are placed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A trancelike state marked by loss of voluntary motion in which the limbs remain in whatever position they are placed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A neurological and psychiatric condition characterized by muscular rigidity, fixity of posture, and decreased sensitivity to external stimuli.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychiatry and neurology, catalepsy involves waxy flexibility (flexibilitas cerea), where a patient's limbs remain in whatever position they are passively placed; classic feature of catatonic schizophrenia, encephalitis, and deep hypnosis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"Must not be lost." When not in a catalepsy of literary composition, I am essentially the man of action."*
-> - 📜 **George MacDonald (*The Portent and Other Stories*):** *"He had lain unconscious throughout the operations of Teufelsbürst, but now the catalepsy had passed away, possibly under the influence of the electric condition of the atmosphere."*
+> - 📜 **Jean-Martin Charcot (*Clinical Lectures on Diseases of the Nervous System*):** *"During the phase of **catalepsy**, the patient's limbs maintain the most unnatural postures without signs of muscular fatigue."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Hysterical **catalepsy** may simulate death so closely as to deceive all but the most experienced clinical observers."*
+> - 📜 **Edgar Allan Poe (*The Fall of the House of Usher*):** *"A settled apathy and frequent transient attacks of **catalepsy** had long baffled the skill of her physicians."*

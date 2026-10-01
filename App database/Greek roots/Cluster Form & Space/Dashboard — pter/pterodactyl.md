@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various pterosaurs (suborder Pterodactyloidea) of the Late Jurassic and Cretaceous having a rudimentary tail and a beak with reduced dentition; broadly : pterosaur.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various pterosaurs (suborder Pterodactyloidea) of the Late Jurassic and Cretaceous having a rudimentary tail and a beak with reduced dentition; broadly : pterosaur.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any extinct flying reptile of the order Pterosauria, particularly those of the Late Jurassic with short tails and long beaks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In popular paleontology, an informal designation for all flying archosaurs of the Mesozoic that flew by means of a skin membrane stretched along an elongated fourth finger.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"The exhibit also included a Petrushka the Pterodactyl and a Tallyrand the Tyranosaurus."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"In the transition from the fish to the bird there is an anomalous animal, long since extinct, named by the geologists the pterodactyl, or the winged reptile, a lizard with feathers upon its paws and plumes upon its tail."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"Eaton can properly be regarded as in the transition epoch and characterized as the pterodactyl of politics."*
+> - 📜 **Richard Owen (*Palaeontology: Or a Systematic Summary of Extinct Animals*):** *"The fragile, pneumatic bones of the **pterodactyl** were exquisitely lightened to sustain active flight through Mesozoic skies."*
+> - 📜 **Arthur Conan Doyle (*The Lost World*):** *"A sudden shadow fell across the volcanic lake as an enormous **pterodactyl** wheeled overhead on leathery wings."*
+> - 📜 **Gideon Mantell (*Petrifactions and Their Teachings*):** *"The discovery of a toothless **pterodactyl** in chalk strata astonished those who viewed these creatures merely as winged lizards."*

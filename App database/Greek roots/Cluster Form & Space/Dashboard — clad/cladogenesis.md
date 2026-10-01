@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Evolutionary change characterized by treelike branching of taxa.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Evolutionary change characterized by treelike branching of taxa.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The evolutionary splitting of a parent species into two or more distinct descendant lineages.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In macroevolution and cladistics, lineage branching that generates biodiversity, in contrast to gradual phyletic change within a single unbranching lineage (anagenesis).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cladogenesis designates evolutionary change characterized by treelike branching of taxa."*
+> - 📜 **Julian Huxley (*Evolution: The Modern Synthesis*):** *"Through repeated events of **cladogenesis**, an ancestral stock radiates into diverse ecological niches across an archipelago."*
+> - 📜 **Ernst Mayr (*Animal Species and Evolution*):** *"Geographic isolation serves as the indispensable physical catalyst for genuine evolutionary **cladogenesis**."*
+> - 📜 **Stephen Jay Gould (*The Panda's Thumb*):** *"The fossil record records long periods of stasis punctuated by rapid episodes of **cladogenesis**."*

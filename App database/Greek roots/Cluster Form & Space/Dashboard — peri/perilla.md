@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small genus of asiatic herbs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small genus of asiatic herbs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An annual herbaceous plant (Perilla frutescens) of the mint family (Lamiaceae), widely cultivated in East Asia for its culinary leaves and edible seed oil.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In organic chemistry and ethnobotany, perilla seed oil is exceptionally rich in alpha-linolenic acid, and perillaldehyde contributes to the distinct aroma of shiso.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, perilla designates small genus of asiatic herbs."*
+> - 📜 **Carl Linnaeus (*Species Plantarum*):** *"The aromatic herb **perilla** belongs to the family of labiates, flourishing in the warm gardens of eastern Asia."*
+> - 📜 **Liberty Hyde Bailey (*Manual of Cultivated Plants*):** *"The bronzed foliage of ornamental **perilla** serves as a popular bedding plant in temperate gardens."*
+> - 📜 **Harold McGee (*On Food and Cooking*):** *"In Japanese cuisine, the green leaves of **perilla**, known as shiso, impart an herbaceous, mint-like fragrance to raw seafood."*

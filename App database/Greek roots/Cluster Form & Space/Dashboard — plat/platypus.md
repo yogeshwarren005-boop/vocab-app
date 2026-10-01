@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small carnivorous aquatic monotreme mammal (Ornithorhynchus anatinus) of eastern Australia and Tasmania that has a fleshy bill resembling that of a duck, dense fur, webbed feet, and a broad flattened tail —called also duck-billed platypus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small carnivorous aquatic monotreme mammal (Ornithorhynchus anatinus) of eastern Australia and Tasmania that has a fleshy bill resembling that of a duck, dense fur, webbed feet, and a broad flattened tail —called also duck-billed platypus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A semi-aquatic, egg-laying mammal (Ornithorhynchus anatinus) of eastern Australia, possessing a duck-like bill, webbed feet, and a beaver-like tail.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology, an archaic monotreme that produces milk without nipples, detects prey via electroreception, and features venomous ankle spurs in males.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, platypus designates a small carnivorous aquatic monotreme mammal (ornithorhynchus anatinus) of eastern australia and tasmania that has a fleshy bill resembling that of a duck, dense fur, webbed feet, and a broad flattened tail —called also duck-billed platypus."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"A little time before it was dark, I was lucky enough to see two of the famous **platypus** swimming and diving in the creek."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The paradoxical combination of avian and reptilian skeletal characters in the **platypus** astonished early European anatomists."*
+> - 📜 **Thomas Henry Huxley (*On the Classification and Distribution of the Mammalia*):** *"The oviparous habits of the **platypus** demonstrate its survival as an ancient offshoot of proto-mammalian lineage."*

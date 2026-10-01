@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek typ.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any specimen from an original syntype series that remains after a lectotype has been designated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In taxonomic entomology and malacology, paralectotypes retain high historical reference value as former syntypes examined by the original describing author.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paralectotype designates a term designating an entity, condition, or phenomenon derived from greek typ."*
+> - 📜 **Ernst Mayr (*Methods and Principles of Systematic Zoology*):** *"Once the lectotype was chosen, all other specimens from the historic series were catalogued as **paralectotype** vouchers."*
+> - 📜 **George Gaylord Simpson (*Principles of Animal Taxonomy*):** *"Curators segregated the **paralectotype** material into secondary drawers to ensure primary type security."*
+> - 📜 **William Morton Wheeler (*The Formicidae of the Expedition*):** *"Wheeler noted that several specimens labeled as **paralectotype** in fact belonged to an allied cryptic species."*

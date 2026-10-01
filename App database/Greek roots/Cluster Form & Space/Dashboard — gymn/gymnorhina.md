@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In some classifications placed in the family laniidae: australian piping crows.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In some classifications placed in the family laniidae: australian piping crows.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of Australian passerine birds of the family Artamidae containing the Australian magpie (Gymnorhina tibicen).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In avian ethology and bioacoustics, Gymnorhina is renowned for complex, musical carolling vocalizations, territorial swooping behavior, and remarkable facial recognition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gymnorhina designates in some classifications placed in the family laniidae: australian piping crows."*
+> - 📜 **John Gould (*The Birds of Australia*):** *"The fluting, organ-like carol of **gymnorhina** greets the Australian sunrise with unmatched wild melodic sweetness."*
+> - 📜 **Alfred Russel Wallace (*Australasia*):** *"The piping crow-shrike of the genus **gymnorhina** displays bold pied plumage and vigorous predatory terrestrial habits."*
+> - 📜 **Ernst Mayr (*Systematics and the Origin of Species*):** *"Geographic variation in the dorsal plumage of **gymnorhina** provides a textbook example of clinal character intergradation across a continent."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Utter platitudes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Utter platitudes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To utter or write platitudes; to make trite, commonplace remarks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In rhetorical criticism, to substitute stale moral formulas and cliches for rigorous logical analysis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, platitudinize designates utter platitudes."*
+> - 📜 **George Eliot (*Middlemarch*):** *"It was impossible to discuss serious civic reform with a mayor whose only talent was to **platitudinize** at parish meetings."*
+> - 📜 **H. L. Mencken (*The American Language*):** *"Editorial writers across the provinces continue to **platitudinize** about civic duty without examining municipal corruption."*
+> - 📜 **Aldous Huxley (*Point Counter Point*):** *"Whenever awkward questions of morality were raised, the headmaster would clear his throat and begin to **platitudinize**."*

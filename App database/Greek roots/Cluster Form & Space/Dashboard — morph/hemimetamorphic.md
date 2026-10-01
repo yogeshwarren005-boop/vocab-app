@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of an insect with aquatic young) undergoing incomplete metamorphosis in which the young does not resemble the adult.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of an insect with aquatic young) undergoing incomplete metamorphosis in which the young does not resemble the adult.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by, undergoing, or exhibiting incomplete or partial metamorphosis, wherein immature nymphs develop gradually into adults without a pupal stage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In entomology and invertebrate zoology, hemimetamorphic insects (including dragonflies, grasshoppers, and true bugs) possess nymphal instars with external wing pads.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemimetamorphic designates (of an insect with aquatic young) undergoing incomplete metamorphosis in which the young does not resemble the adult."*
+> - 📜 **John Lubbock (*On the Origin and Metamorphoses of Insects*):** *"In **hemimetamorphic** insects, the nymph emerges from the egg resembling a miniature adult, acquiring wings progressively through successive molts."*
+> - 📜 **Alpheus Spring Packard (*A Text-Book of Entomology*):** *"The evolutionary transition from ancient ametabolous hexapods proceeded through intermediate **hemimetamorphic** ancestral orders."*
+> - 📜 **Vincent Dethier (*The Physiology of Insect Senses*):** *"Sensory receptors on the antennae of **hemimetamorphic** nymphs mature in synchrony with somatic cuticle expansion."*

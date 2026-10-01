@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to microeconomics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to microeconomics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to the branch of economics that analyzes the behaviors and decisions of individual consumers, households, and firms in resource allocation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In market theory, microeconomic models examine price formation, consumer utility maximization, and marginal production costs within competitive markets.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microeconomic designates of or relating to microeconomics."*
+> - 📜 **Alfred Marshall (*Principles of Economics*):** *"At the **microeconomic** margin, the consumer equates the marginal utility of expenditure across all purchased commodities."*
+> - 📜 **Paul Samuelson (*Foundations of Economic Analysis*):** *"The theory of revealed preference provides an operational mathematical foundation for **microeconomic** consumer behavior."*
+> - 📜 **Kenneth Arrow (*Social Choice and Individual Values*):** *"Individual preference orderings serve as the starting point for **microeconomic** theorems of general market equilibrium."*

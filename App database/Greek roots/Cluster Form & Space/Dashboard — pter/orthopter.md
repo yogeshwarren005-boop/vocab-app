@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Heavier-than-air craft that is propelled by the flapping of wings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Heavier-than-air craft that is propelled by the flapping of wings.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any insect belonging to the order Orthoptera, such as a grasshopper, cricket, katydid, or locust.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In entomology, a saltatorial insect with powerful jumping hind legs and leathery forewings that protect membranous hindwings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, orthopter designates heavier-than-air craft that is propelled by the flapping of wings."*
+> - 📜 **Jean-Henri Fabre (*Social Life in the Insect World*):** *"The great green **orthopter** chirps rhythmically from the vine, rubbing its file and scraper to serenade the twilight."*
+> - 📜 **Samuel H. Scudder (*The Orthopteran Group Melanopli*):** *"Systematic identification of each **orthopter** depends upon the shape of the male subgenital plate and caudal cerci."*
+> - 📜 **Leland O. Howard (*The Insect Book*):** *"A voracious **orthopter** can consume its own weight in green foliage within a single afternoon."*

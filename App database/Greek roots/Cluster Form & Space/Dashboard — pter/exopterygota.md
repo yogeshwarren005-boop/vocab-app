@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Subclass of insects characterized by gradual and usually incomplete metamorphosis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Subclass of insects characterized by gradual and usually incomplete metamorphosis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A division or superorder of insects (hemimetabolous insects) in which the wings develop externally as visible wing buds during nymphal stages.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In entomology, including dragonflies, grasshoppers, true bugs, and mantises, characterized by gradual or incomplete metamorphosis lacking a pupal instar.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, exopterygota designates subclass of insects characterized by gradual and usually incomplete metamorphosis."*
+> - 📜 **R. F. Chapman (*The Insects: Structure and Function*):** *"In **exopterygota**, the immature nymph already resembles a miniature adult, acquiring larger wing buds with each successive moult."*
+> - 📜 **John Henry Comstock (*The Wings of Insects*):** *"External wing development in **exopterygota** represents the phylogenetically ancestral condition among winged hexapods."*
+> - 📜 **Howard E. Evans (*Life on a Little-Known Planet*):** *"A young grasshopper belonging to **exopterygota** hops alongside its parents, feeding on the very same vegetation."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause a body part to undergo autotomy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause a body part to undergo autotomy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To shed or cast off a limb or appendage spontaneously by autotomy, typically as a defensive reflex (chiefly Commonwealth spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In behavioral ecology, describing organisms such as geckos, spiders, and octopuses that sacrifice non-vital appendages to escape predation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, autotomise designates cause a body part to undergo autotomy."*
+> - 📜 **William Beebe (*Nonsuch: Land of Water*):** *"When grasped by a hungry reef fish, the brittlestar will promptly **autotomise** two or three writhing arms to distract its foe."*
+> - 📜 **Edward O. Wilson (*The Diversity of Life*):** *"Certain harvestmen will **autotomise** a long leg that continues to twitch rhythmically while the arachnid scuttles away."*
+> - 📜 **J. Arthur Thomson (*The Biology of the Seasons*):** *"A captured lizard does not hesitate to **autotomise** its tail to ensure its immediate survival."*

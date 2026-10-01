@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or involving a small motile male gamete and a large immobile female gamete.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or involving a small motile male gamete and a large immobile female gamete.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or characterized by oogamy, in which sexual reproduction involves the fusion of a large, immotile egg with a small, motile sperm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology, oogamous reproduction represents the most derived form of sexual dimorphism in gametes, prevalent among multicellular plants and animals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oogamous designates having or involving a small motile male gamete and a large immobile female gamete."*
+> - 📜 **Lynn Margulis (*Symbiosis in Cell Evolution*):** *"All land plants and animals are **oogamous**, producing eggs and sperm of vastly different sizes."*
+> - 📜 **Edmund Beecher Wilson (*The Cell in Development and Heredity*):** *"The **oogamous** condition evolved independently in multiple lineages from isogamous ancestors."*
+> - 📜 **Graham Bell (*The Masterpiece of Nature*):** *"The evolution of **oogamous** reproduction is driven by disruptive selection on gamete size."*

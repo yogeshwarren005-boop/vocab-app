@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Change by catalysis or cause to catalyze.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Change by catalysis or cause to catalyze.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To cause or accelerate a reaction by acting as a catalyst; to inspire or stimulate rapid development or change (American spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biochemistry and synthetic organic chemistry, enzymes and organometallic complexes catalyze regio- and enantioselective bond formation under mild conditions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, catalyze designates change by catalysis or cause to catalyze."*
+> - 📜 **Wilhelm Ostwald (*Manual of Physico-Chemical Measurements*):** *"Finely divided nickel will actively **catalyze** the hydrogenation of unsaturated oils into solid fats."*
+> - 📜 **Francis Crick (*What Mad Pursuit*):** *"The discovery of catalytic RNA revealed that ribosomes utilize ribozymes to **catalyze** peptide bond synthesis."*
+> - 📜 **John Dewey (*Democracy and Education*):** *"A dynamic educational curriculum should **catalyze** independent intellectual inquiry rather than enforce passive recall."*

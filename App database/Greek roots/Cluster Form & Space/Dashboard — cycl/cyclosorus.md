@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small genus of terrestrial ferns of tropical and subtropical southern hemisphere.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small genus of terrestrial ferns of tropical and subtropical southern hemisphere.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large genus of terrestrial marsh and woodland ferns in the family Thelypteridaceae, commonly known as maiden ferns.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic pteridology, tropical and subtropical ferns characterized by pinnatifid fronds and circular sori borne midway along free or anastomosing veins.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cyclosorus designates small genus of terrestrial ferns of tropical and subtropical southern hemisphere."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"Species of **Cyclosorus** flourish along marshy ditches, their circular sori neatly aligned beneath indusiate flaps."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"The vigorous creeping rootstock of **Cyclosorus** rapidly establishes attractive green carpets in moist shade."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels to the Equinoctial Regions of America*):** *"Along shaded jungle riverbanks, robust fronds of **Cyclosorus** arched over the water in graceful emerald tiers."*

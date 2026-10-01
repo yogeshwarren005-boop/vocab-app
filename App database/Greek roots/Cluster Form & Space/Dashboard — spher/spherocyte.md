@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal spherical red blood cell.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abnormal spherical red blood cell.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal, small, spherical red blood cell that lacks the normal biconcave disc shape and central zone of pallor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In hematology, spherocytes exhibit increased osmotic fragility due to membrane spectrin or ankyrin defects in hereditary spherocytosis and autoimmune hemolytic anemia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spherocyte designates an abnormal spherical red blood cell."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Blood smears revealed abundant **spherocyte** forms, associated with splenomegaly and familial hemolytic jaundice."*
+> - 📜 **Paul Ehrlich (*Histology of the Blood*):** *"The dense, hyperchromic **spherocyte** demonstrates loss of membrane elasticity, leading to rapid destruction in the spleen."*
+> - 📜 **Maxwell Wintrobe (*Clinical Hematology*):** *"The hallmark of hereditary spherocytosis is the presence of the rigid **spherocyte**, highly vulnerable to osmotic lysis."*

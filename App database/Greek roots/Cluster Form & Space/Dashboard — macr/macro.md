@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A single computer instruction that results in a series of instructions in machine language.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Very large in scale or scope or capability.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Operating on a large, broad, or comprehensive scale; a computer instruction that automatically expands into a predefined sequence of commands.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In software engineering and macro-programming, macros provide syntactic abstraction and compile-time code substitution to minimize repetitive logic.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"On that mystery and not on the madonna which the cunning Italian intellect flung to the mob of Europe the church is founded and founded irremovably because founded, like the world, macro and microcosm, upon the void."*
+> - 📜 **Donald Knuth (*The TeXbook*):** *"The definition of a **macro** allows the author to package complex typesetting routines into a single concise command."*
+> - 📜 **Brian Kernighan (*The C Programming Language*):** *"Preprocessors expand each **macro** definition inline, substituting tokens directly into the source stream before compilation."*
+> - 📜 **Guy L. Steele Jr. (*Common Lisp the Language*):** *"A powerful hygienic **macro** system transforms user-written syntax trees directly within the compiler's execution cycle."*

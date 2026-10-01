@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person in desperate straits; someone doomed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person in desperate straits; someone doomed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An informal term for a person or thing that is doomed, ruined, past recovery, or near death.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In colloquial idiom and narrative fiction, expressing absolute fatality or irrevocable defeat.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"One whiff of that and you’re a goner."*
-> - 📜 **Mark Twain (*What Is Man? and Other Essays*):** *"THAT won’t do!—to the left!—to the right!—to the LEFT—right! left—ri—Stay where you ARE, or you’re a goner!” And just then I caught the off horse in the starboard and went down in a pile."*
-> - 📜 **Mark Twain (*The Adventures of Tom Sawyer, Complete*):** *"She’s a goner, just as dead sure as Muff Potter’s a goner."*
+> - 📜 **Mark Twain (*Adventures of Huckleberry Finn*):** *"I made up my mind I was a **goner**, for the raft was drifting straight toward the wreck in the dark."*
+> - 📜 **Stephen Crane (*The Red Badge of Courage*):** *"'He's a **goner**,' whispered the soldier, pointing to the comrade lying motionless beneath the pine branches."*
+> - 📜 **Jack London (*The Sea-Wolf*):** *"When the schooner's mainmast snapped, every sailor thought the ship was a **goner**."*

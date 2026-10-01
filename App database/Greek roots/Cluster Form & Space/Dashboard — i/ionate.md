@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Add ions to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Add ions to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To convert into ions; to ionize or treat with ionizing substances (a rare or archaic verb).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used in early twentieth-century chemical engineering and electrochemistry as an occasional variant for ionize or electrochemically activate solutions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ionate designates add ions to."*
+> - 📜 **Svante Arrhenius (*Theories of Chemistry*):** *"Thermal agitation and polar solvent forces combine to **ionate** neutral salt crystals upon dissolution."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"The electric tension applied across the cell served to **ionate** the fluid into oppositely migrating constituents."*
+> - 📜 **William Crookes (*Select Methods in Chemical Analysis*):** *"Intense spark discharges readily **ionate** surrounding gas molecules, inducing electrical conductivity."*

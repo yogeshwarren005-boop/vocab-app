@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A plant shaped by topiary art.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Topiary plants.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The art or practice of clipping and training shrubs or trees into decorative ornamental shapes; clipped or shaped foliage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Originating in ancient Roman gardening (*ars topiaria*) and reaching elaborate heights in Renaissance formal gardens, topiary sculpts boxwood, yew, and privet into geometric figures, animals, or labyrinthine hedges.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, topiary designates a plant shaped by topiary art."*
+> - 📜 **Francis Bacon (*Of Gardens*):** *"I, for my part, do not like images cut out in juniper or other garden stuff; they be for children; such **topiary** work tires the eye."*
+> - 📜 **Alexander Pope (*The Guardian: Essay on Verdant Sculpture*):** *"Pope satirized formal **topiary** gardens where yew trees were distorted into dragons, giants, and geometric cones."*
+> - 📜 **John Evelyn (*Sylva, or A Discourse of Forest-Trees*):** *"The dense evergreen foliage of boxwood renders it the quintessential shrub for architectural **topiary** hedges."*

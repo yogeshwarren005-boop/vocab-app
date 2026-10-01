@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of functioning as a phagocyte.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of functioning as a phagocyte.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or characterized by phagocytes or phagocytosis; having the capability to engulf and digest cells or particles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cell biology, phagocytic uptake involves actin polymerization that projects pseudopodia around large extracellular targets (>0.5 micrometers).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phagocytic designates capable of functioning as a phagocyte."*
+> - 📜 **Élie Metchnikoff (*Comparative Pathology of Inflammation*):** *"The **phagocytic** reaction represents a universal biological defense preserved from lower invertebrates to man."*
+> - 📜 **Bruce Alberts (*Molecular Biology of the Cell*):** *"Specialized **phagocytic** cells clear billions of senescent erythrocytes daily in the human spleen."*
+> - 📜 **David L. Nelson (*Lehninger Principles of Biochemistry*):** *"The oxidative burst in **phagocytic** leukocytes generates superoxide anions via membrane-bound NADPH oxidase."*

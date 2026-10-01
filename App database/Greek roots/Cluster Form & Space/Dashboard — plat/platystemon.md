@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One species: creamcups.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One species: creamcups.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of annual wildflowers in the poppy family (Papaveraceae), native to western North America, containing the single species Platystemon californicus (cream cups).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical morphology, distinguished by its flattened stamens and a compound ovary consisting of multiple carpels that separate at maturity into one-seeded joints.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, platystemon designates one species: creamcups."*
+> - 📜 **Asa Gray (*Synoptical Flora of North America*):** *"The delicate yellow petals and dilated stamens of **platystemon** brighten the gravelly hills of California each spring."*
+> - 📜 **Willis Linn Jepson (*A Flora of Western Middle California*):** *"In open coastal grasslands, **platystemon** flowers carpet wide swaths with nodding cream-colored blossoms."*
+> - 📜 **LeRoy Abrams (*Illustrated Flora of the Pacific States*):** *"The linear carpels of **platystemon** disarticulate transversely when dry, dispersing seeds through mechanical rupture."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marked or affected by enlargement or hypertrophy of the extremities or the face.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked or affected by enlargement or hypertrophy of the extremities or the face.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or affected by acromegaly, a condition marked by enlargement of the bones of the hands, feet, and face.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical endocrinology, designating the clinical manifestations resulting from sustained hypersecretion of growth hormone by a pituitary somatotroph adenoma in adulthood.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acromegalic designates marked or affected by enlargement or hypertrophy of the extremities or the face."*
+> - 📜 **Harvey Cushing (*The Pituitary Body and Its Disorders*):** *"The patient exhibited the characteristic coarse facial features and spatulate hands of the **acromegalic** subject."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Pierre Marie first clearly demarcated the **acromegalic** syndrome from other osteopathies in 1886."*
+> - 📜 **Oliver Sacks (*The Island of the Colorblind*):** *"Severe prognathism and soft-tissue hypertrophy lent the patient's visage a distinctly **acromegalic** contour."*

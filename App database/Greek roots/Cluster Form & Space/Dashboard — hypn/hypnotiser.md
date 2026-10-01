@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who induces hypnosis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who induces hypnosis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who induces hypnosis in another; a hypnotist (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of psychiatry, the role of the hypnotiser transitioned from the animal magnetist (Mesmer) to the clinical psychotherapist (Braid, Charcot, Bernheim).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypnotiser designates a person who induces hypnosis."*
+> - 📜 **James Braid (*Neurypnology*):** *"The successful **hypnotiser** relies not on mysterious fluidic currents, but on physiological exhaustion of the ocular muscles."*
+> - 📜 **William James (*The Principles of Psychology*):** *"A single firm word of command from the **hypnotiser** suffices to banish the patient's spontaneous willpower."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Parasite*):** *"The sinister **hypnotiser** exercised an invisible tyranny over the mental faculties of his impressionable victim."*

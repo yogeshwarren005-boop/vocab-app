@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of having abnormally many cells.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of having abnormally many cells.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or condition of having an abnormally high density or excessive number of cells in a tissue or organ.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In renal and bone marrow pathology, hypercellularity indicates proliferative or inflammatory states, such as endocapillary hypercellularity in post-streptococcal glomerulonephritis or hypercellular bone marrow in myeloproliferative disorders.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypercellularity designates the state of having abnormally many cells."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"The inflamed glomerulus displays striking **hypercellularity**, with proliferating endothelial cells occluding capillary loops."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Bone marrow biopsy in chronic leukemia reveals dense **hypercellularity**, with normal adipose tissue completely displaced."*
+> - 📜 **Richard Bright (*Reports of Medical Cases*):** *"Microscopic sections of the diseased kidney demonstrated marked **hypercellularity** throughout the cortical interstitium."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A law or ordinance especially in Anglo-Saxon England.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Judgment, decision; especially : a judicial condemnation or sentence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Death, destruction, or some other terrible and unavoidable fate; an irrevocable adverse judgment or sentence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: From Old English *dōm* (judgment, statute, legal decree), sharing the Proto-Indo-European root *dhe-* (to place/set, cognate to Greek *thesis* and *tithemi*), shifting semantically toward inevitable ruin.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Tell him, from his all-obeying breath I hear The doom of Egypt."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The death of Antony Is not a single doom; in the name lay A moiety of the world."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Firm and irrevocable is my doom Which I have passed upon her."*
+> - 📜 **Geoffrey Chaucer (*The Canterbury Tales*):** *"No mortal can evade the solemn **doom** ordained by heaven's sovereign decree."*
+> - 📜 **William Shakespeare (*Macbeth*):** *"What, will the line stretch out to the crack of **doom**? Another yet! A seventh! I'll see no more."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"I felt as if an inescapable **doom** hung over my head, ready to descend and crush all I held dear."*

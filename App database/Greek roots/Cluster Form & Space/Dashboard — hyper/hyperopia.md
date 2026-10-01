@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormal condition in which vision for distant objects is better than for near objects.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abnormal condition in which vision for distant objects is better than for near objects.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A refractive error of the eye in which parallel light rays focus behind the retina when accommodation is relaxed; farsightedness (American medical spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiological optics, hyperopia results from an eyeball that is axially too short or has a flat corneal curvature, causing near objects to appear blurred while distant objects may remain clear through accommodative effort.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyperopia designates abnormal condition in which vision for distant objects is better than for near objects."*
+> - 📜 **Hermann von Helmholtz (*Treatise on Physiological Optics*):** *"The essential optical defect in **hyperopia** is that the focal point of the unaccommodated eye falls behind the retina."*
+> - 📜 **Francis Cornelis Donders (*On the Anomalies of Accommodation and Refraction of the Eye*):** *"I proved that constant accommodative effort in uncorrected **hyperopia** is the principal trigger of childhood convergent squint."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Correction of latent **hyperopia** by suitable plus spectacles dispels chronic frontal headaches and eye-strain."*

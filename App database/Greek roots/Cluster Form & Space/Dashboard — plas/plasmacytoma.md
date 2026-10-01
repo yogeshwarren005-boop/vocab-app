@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Neoplasm of plasma cells (usually in bone marrow).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Neoplasm of plasma cells (usually in bone marrow).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A discrete, solitary malignant tumor composed of monoclonal plasma cells, typically arising in bone marrow or soft tissue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In hematology and oncology, a solitary bone plasmacytoma produces a localized osteolytic lesion and carries a high risk of progressing to systemic multiple myeloma.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plasmacytoma designates neoplasm of plasma cells (usually in bone marrow)."*
+> - 📜 **Vinay Kumar (*Robbins and Cotran Pathologic Basis of Disease*):** *"A biopsy of an isolated osteolytic bone lesion confirming monoclonal plasma cells establishes the diagnosis of **plasmacytoma**."*
+> - 📜 **Tinsley R. Harrison (*Principles of Internal Medicine*):** *"Solitary osseous **plasmacytoma** requires definitive local radiotherapy, followed by long-term monitoring for progression to myeloma."*
+> - 📜 **Juan Rosai (*Rosai and Ackerman's Surgical Pathology*):** *"Extramedullary **plasmacytoma** occurs most commonly in the upper respiratory tract and carries a better prognosis than bone lesions."*

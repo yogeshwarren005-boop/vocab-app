@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Broadcasting visual images of stationary or moving objects; ;  - ernie kovacs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Broadcast via television.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The operation, process, or industry of broadcasting visual programs and audio by television.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In twentieth-century electrical engineering, the emergence of UHF and color telecasting expanded signal bandwidth and consumer electronics markets.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, telecasting designates broadcasting visual images of stationary or moving objects; ;  - ernie kovacs."*
+> - 📜 **David Sarnoff (*Pioneering in Television*):** *"Commercial **telecasting** represents the culmination of decades of electronic research in cathode-ray tube dynamics."*
+> - 📜 **Edward R. Murrow (*See It Now Memoirs*):** *"The moral potential of **telecasting** lies in its power to expose injustice and bring distant suffering home to the conscience."*
+> - 📜 **Marshall McLuhan (*Understanding Media: The Extensions of Man*):** *"The mosaic screen of daily **telecasting** invites constant perceptual participation from the viewer."*

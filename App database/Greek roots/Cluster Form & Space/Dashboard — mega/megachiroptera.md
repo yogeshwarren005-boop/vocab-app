@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fruit bats.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fruit bats.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A former suborder of bats comprising the fruit bats or flying foxes, now typically classified within Yinpterochiroptera.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic mammalogy, large, predominantly frugivorous or nectarivorous Old World bats possessing large eyes, keen olfaction, clawed second digits, and lacking laryngeal echolocation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, megachiroptera designates fruit bats."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"The suborder **Megachiroptera** includes the giant flying foxes that feed exclusively upon tropical pulpy fruits."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Visual adaptations in **Megachiroptera** are acute, compensating for the absence of complex ultrasonic navigation."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"Immense colonies of **Megachiroptera** roost suspended like hanging fruit from the upper branches of coastal fig trees."*

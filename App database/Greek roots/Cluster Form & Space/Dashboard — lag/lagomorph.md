@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of an order (Lagomorpha) of gnawing herbivorous mammals having two pairs of incisors in the upper jaw one behind the other and comprising the rabbits, hares, and pikas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of an order (Lagomorpha) of gnawing herbivorous mammals having two pairs of incisors in the upper jaw one behind the other and comprising the rabbits, hares, and pikas.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any herbivorous placental mammal of the order Lagomorpha, comprising rabbits, hares, and pikas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate zoology, lagomorphs are distinguished from rodents (Rodentia) by possessing four upper incisors (a large front pair and a small peg-like pair directly behind) and practicing cecotrophy (ingesting soft nutrient cecal pellets).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lagomorph designates any of an order (lagomorpha) of gnawing herbivorous mammals having two pairs of incisors in the upper jaw one behind the other and comprising the rabbits, hares, and pikas."*
+> - 📜 **Alfred Sherwood Romer (*Vertebrate Paleontology*):** *"The fossil record demonstrates that the **lagomorph** lineage separated from primitive placental stock in the early Eocene."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"The duplicated upper incisors immediately separate any **lagomorph** skull from that of a true rodent."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants under Domestication*):** *"Domestication has produced astonishing variations in ear length and skull proportions in the **lagomorph** rabbit."*

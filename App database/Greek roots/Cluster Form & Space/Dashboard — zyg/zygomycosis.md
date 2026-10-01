@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek zyg.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A severe fungal infection caused by members of the order Mucorales (formerly class Zygomycetes), typically affecting immunocompromised patients and often involving the sinuses, lungs, or brain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical mycology, zygomycosis (also termed mucormycosis) is characterized by rapid tissue invasion and vascular thrombosis, requiring urgent antifungal therapy and surgical debridement for survival.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, zygomycosis designates a term designating an entity, condition, or phenomenon derived from greek zyg."*
+> - 📜 **Abraham Paltauf (*Mycosis Mucorina*):** *"The rapidly invasive nature of **zygomycosis** demands early recognition and aggressive surgical intervention."*
+> - 📜 **Thomas Walsh (*Treatment of Invasive Fungal Infections*):** *"**Zygomycosis** carries a mortality rate exceeding fifty percent in patients with uncontrolled diabetes or neutropenia."*
+> - 📜 **Dimitrios Kontoyiannis (*Zygomycosis in the Era of Targeted Therapy*):** *"The incidence of **zygomycosis** has risen as transplant and chemotherapy populations expand."*

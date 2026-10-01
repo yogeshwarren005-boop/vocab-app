@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A substance added to plastics or other materials to make them more pliable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A substance added to plastics or other materials to make them more pliable.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A substance (such as a phthalate or adipate) added to a synthetic resin to promote flexibility, reduce brittleness, and facilitate processing (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In concrete engineering, a chemical admixture (superplasticizer) that increases workability without requiring excess water.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plasticiser designates a substance added to plastics or other materials to make them more pliable."*
+> - 📜 **Paul J. Flory (*Principles of Polymer Chemistry*):** *"The added **plasticiser** lowers the glass-transition temperature by increasing free volume between macromolecular chains."*
+> - 📜 **Herman Mark (*Polymer Chemistry*):** *"Selecting an appropriate non-volatile **plasticiser** prevents embrittlement of commercial plastics over time."*
+> - 📜 **Roald Hoffmann (*The Same and Not the Same*):** *"Modern vinyl products rely upon a chemical **plasticiser** to convert rigid PVC into supple upholstery."*

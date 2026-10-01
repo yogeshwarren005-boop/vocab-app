@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various orchids of the genus coelogyne with: clusters of fragrant lacy snow-white flowers; salmon-pink solitary flowers; chainlike racemes of topaz and chocolate brown flowers; spikes of delicate white spice-scented flowers; emerald green flowers marked with blue-black.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various orchids of the genus coelogyne with: clusters of fragrant lacy snow-white flowers; salmon-pink solitary flowers; chainlike racemes of topaz and chocolate brown flowers; spikes of delicate white spice-scented flowers; emerald green flowers marked with blue-black.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of epiphytic and lithophytic orchids native to tropical and subtropical Asia, characterized by pendulous clusters of fragrant blossoms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In horticulture and systematic botany, pseudobulbous orchids possessing a deeply concave or hollow stigma and prominent hooded column.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coelogyne designates any of various orchids of the genus coelogyne with: clusters of fragrant lacy snow-white flowers; salmon-pink solitary flowers; chainlike racemes of topaz and chocolate brown flowers; spikes of delicate white spice-scented flowers; emerald green flowers marked with blue-black."*
+> - 📜 **John Lindley (*The Genera and Species of Orchidaceous Plants*):** *"I established **Coelogyne** in allusion to the deeply excavated, cup-shaped stigma characteristic of the flower."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"Massive clumps of white-flowered **Coelogyne** hung suspended from high forest branches like aromatic garlands."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"Species of **Coelogyne** from Himalayan elevations require cool, humid greenhouse culture to bloom abundantly."*

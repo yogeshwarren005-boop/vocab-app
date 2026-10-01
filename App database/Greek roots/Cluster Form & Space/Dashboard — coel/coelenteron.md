@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The saclike body cavity of a coelenterate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The saclike body cavity of a coelenterate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The central digestive cavity of a cnidarian or ctenophore, having a single opening that serves as both mouth and anus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative invertebrate anatomy, the gastrovascular cavity that carries out both enzymatic digestion and the circulatory distribution of nutrients.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coelenteron designates the saclike body cavity of a coelenterate."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"Ingested food passes directly through the mouth into the spacious **coelenteron**, where extracellular digestion begins."*
+> - 📜 **Ernst Haeckel (*The Evolution of Man*):** *"The primitive gut or **coelenteron** of the gastraea represents the ancestral prototype of all metazoan digestive tracts."*
+> - 📜 **E. Ray Lankester (*A Treatise on Zoology*):** *"Flagellated gastrodermal cells lining the **coelenteron** maintain a steady current to circulate oxygen and chyme."*

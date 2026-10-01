@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek psil.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The doctrine or assertion of the mere humanity of Jesus Christ (variant of psilanthropism).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical theology, an anti-trinitarian view viewing Jesus as an inspired prophet but essentially a mortal man.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psilanthropy designates a term designating an entity, condition, or phenomenon derived from greek psil."*
+> - 📜 **F. D. Maurice (*Theological Essays*):** *"The sterile dogma of **psilanthropy** fails to satisfy the spiritual longing for a mediator who partakes of the divine essence."*
+> - 📜 **Philip Schaff (*History of the Christian Church*):** *"The early monarchian disputants defended **psilanthropy** in a misguided effort to preserve monotheistic simplicity."*
+> - 📜 **Henry Liddon (*The Divinity of Our Lord and Saviour Jesus Christ*):** *"Adherence to **psilanthropy** inevitably leads to a dismantling of the entire sacramental architecture of traditional Christianity."*

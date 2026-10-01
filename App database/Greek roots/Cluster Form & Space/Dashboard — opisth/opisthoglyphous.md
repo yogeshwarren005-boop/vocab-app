@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of behind.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of behind.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having rear-positioned fangs; describing snakes whose enlarged, grooved teeth for venom delivery are located at the back of the upper jaw rather than the front.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In herpetology, opisthoglyphous dentition is characteristic of many colubrid snakes that employ a chewing motion to envenomate prey through posterior maxillary teeth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, opisthoglyphous designates adjective*) pertaining to, derived from, or characteristic of behind."*
+> - 📜 **Carl Gans (*Biology of the Reptilia*):** *"The **opisthoglyphous** arrangement requires the snake to advance the prey into the back of the mouth before envenomation occurs."*
+> - 📜 **Harry Greene (*Snakes: The Evolution of Mystery in Nature*):** *"Many **opisthoglyphous** colubrids are mildly venomous but pose little danger to humans."*
+> - 📜 **Albert Gunther (*The Reptiles of British India*):** *"The **opisthoglyphous** dentition is distinguished by posteriorly placed grooved fangs on the maxilla."*

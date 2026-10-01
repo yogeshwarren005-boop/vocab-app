@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With respect to ecology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With respect to ecology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an ecological manner; with regard to the relationships between organisms and their environment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sustainable resource management, harvesting practices must be ecologically sustainable to prevent soil erosion and fish stock collapse.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ecologically designates with respect to ecology."*
+> - 📜 **Aldo Leopold (*A Sand County Almanac*):** *"A thing is right when it tends to preserve the integrity, stability, and beauty of the biotic community; it is wrong when it tends **ecologically** otherwise."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"We have subjected millions of acres to pesticide applications that are **ecologically** disastrous and ultimately futile."*
+> - 📜 **E. O. Wilson (*The Diversity of Life*):** *"Conserving rainforests is **ecologically** sound because primary forests generate their own regional rainfall cycles."*

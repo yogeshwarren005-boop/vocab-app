@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek homoe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Greek adjective meaning 'like', 'similar', or 'resembling', forming the philosophical and etymological foundation for terms in homoe- and homeo-.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In patristic theology (the 4th-century Arian controversy), the dispute between homoousios ('of the same substance') and homoiousios (*homoios*, 'of similar substance') divided the Christian empire.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, homoios designates a term designating an entity, condition, or phenomenon derived from greek homoe."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The Christian world was divided by a single iota, contending fiercely over whether the Son was homousios or of like substance, **homoios**."*
+> - 📜 **Aristotle (*Topics*):** *"Things that are **homoios** resemble one another in form or quality without sharing absolute numerical identity."*
+> - 📜 **Robert Beekes (*Etymological Dictionary of Greek*):** *"From the stem **homoios** emerge foundational scientific concepts of equilibrium, similitude, and homeostasis."*

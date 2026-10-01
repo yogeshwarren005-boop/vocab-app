@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek brachy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormal shortness or truncation of the tail in animals, caused by genetic mutation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In developmental genetics, a classical mouse mutation in the Brachyury (T) gene encoding a T-box transcription factor essential for mesoderm formation and notochord extension.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, brachyury designates a term designating an entity, condition, or phenomenon derived from greek brachy."*
+> - 📜 **Theodosius Dobzhansky (*Genetics and the Origin of Species*):** *"The heterozygous **brachyury** mutation yields a tailless mouse, while homozygotes die in utero from failure of posterior mesoderm."*
+> - 📜 **Julian Huxley (*Evolution: The Modern Synthesis*):** *"The discovery of the **brachyury** locus illuminated how regulatory genes control axial elongation and caudal somite formation."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"Caudal reduction or **brachyury** occurs sporadically across mammalian orders as a consequence of truncated developmental arcs."*

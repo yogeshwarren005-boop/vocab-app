@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make central.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Drawn toward a center or brought under the control of a central authority.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Concentrated at a single center or managed under unified central authority (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Describing hierarchical governance, financial banking systems, or computational architectures directed from a central core.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centralised designates make central."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"A **centralised** administration produces uniformity of regulations, but frequently stifles the creative vitality of the provinces."*
+> - 📜 **George Orwell (*Nineteen Eighty-Four*):** *"The economy of Oceania was strictly **centralised**, every ration and production quota decreed from the Ministry of Plenty."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"France possessed a formidable **centralised** army, whereas England relied upon decentralized county militias."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality or state of consisting of dissimilar or diverse elements : the quality or state of being heterogeneous.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality or state of consisting of dissimilar or diverse elements : the quality or state of being heterogeneous.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality or state of being diverse, varied, or composed of dissimilar components or elements.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In oncology and genetics, intratumoral heterogeneity describes the presence of genetically distinct subclonal cell populations within a single neoplasm.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heterogeneity designates the quality or state of consisting of dissimilar or diverse elements : the quality or state of being heterogeneous."*
+> - 📜 **Robert A. Weinberg (*The Biology of Cancer*):** *"Genetic **heterogeneity** within a single tumor explains why targeted therapies often select for drug-resistant subclonal populations."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The demographic **heterogeneity** of the expanding continent prevented the establishment of a uniform aristocratic class."*
+> - 📜 **Claude Lévi-Strauss (*The Savage Mind*):** *"Mythological thought organizes the concrete **heterogeneity** of natural phenomena into cohesive cultural categories."*

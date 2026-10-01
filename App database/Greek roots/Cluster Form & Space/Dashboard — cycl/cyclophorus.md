@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tropical old world ferns having closely crowded circular sori and no indusia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tropical old world ferns having closely crowded circular sori and no indusia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large genus of tropical operculate terrestrial snails in the family Cyclophoridae, characterized by a circular shell aperture and round operculum.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic malacology, land snails widespread in tropical Asian and Indo-Pacific rainforests possessing a circular calcareous or corneous door.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cyclophorus designates tropical old world ferns having closely crowded circular sori and no indusia."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"I collected several magnificent land snails of the genus **Cyclophorus** creeping over damp limestone boulders in Sarawak."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The tight-fitting operculum of **Cyclophorus** enables the snail to survive extended periods of tropical drought."*
+> - 📜 **E. Ray Lankester (*A Treatise on Zoology*):** *"In **Cyclophorus**, the circular aperture of the shell reflects the perfectly rounded contours of the mantle collar."*

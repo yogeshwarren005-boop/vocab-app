@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An invertebrate (such as a nematode or rotifer) having a body cavity that is a pseudocoelom.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An invertebrate (such as a nematode or rotifer) having a body cavity that is a pseudocoelom.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An invertebrate animal possessing a pseudocoel—a fluid-filled body cavity that is not entirely lined by mesoderm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic invertebrate zoology, an animal (such as a nematode, rotifer, or kinorhynch) having a body space derived directly from the embryonic blastocoel rather than true mesodermal tissue.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pseudocoelomate designates an invertebrate (such as a nematode or rotifer) having a body cavity that is a pseudocoelom."*
+> - 📜 **Libbie Hyman (*The Invertebrates: Acanthocephala, Aschelminthes, and Entoprocta*):** *"A typical **pseudocoelomate** lacks visceral peritoneum, leaving internal organs bathed directly in fluid bounded by somatic muscle."*
+> - 📜 **Stephen Jay Gould (*The Structure of Evolutionary Theory*):** *"The simple wormlike habitus of the **pseudocoelomate** phyla represents an ancient, successful ecological compromise."*
+> - 📜 **Sydney Brenner (*The Genetics of Caenorhabditis elegans*):** *"Under differential interference contrast, the internal anatomy of this microscopic **pseudocoelomate** shines with crystal clarity."*

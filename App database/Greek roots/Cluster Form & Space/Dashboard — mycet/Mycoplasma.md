@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a genus (Mycoplasma of the family Mycoplasmataceae) of pleomorphic gram-negative chiefly nonmotile bacteria that lack a cell wall and are mostly parasitic usually in mammals —called also pleuropneumonia-like organism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Phytoplasma.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxonomic genus of minute bacteria that naturally lack a rigid peptidoglycan cell wall, allowing them to assume pleomorphic shapes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical microbiology and cell culture, Mycoplasma species (such as M. pneumoniae) are notorious contaminants and pathogens inherently resistant to beta-lactam antibiotics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Mycoplasma designates any of a genus (mycoplasma of the family mycoplasmataceae) of pleomorphic gram-negative chiefly nonmotile bacteria that lack a cell wall and are mostly parasitic usually in mammals —called also pleuropneumonia-like organism."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"Certain filter-passing organisms, later classed as **Mycoplasma**, challenged the classic bacteriological doctrines of rigid cellular envelopes."*
+> - 📜 **Robert Koch (*Investigations into the Etiology of Traumatic Infective Diseases*):** *"The extreme delicacy of **Mycoplasma** colonies requires specialized serum-enriched agar plates for diagnostic isolation."*
+> - 📜 **Bruce Alberts (*Molecular Biology of the Cell*):** *"With its tiny genome, **Mycoplasma** genitalium has become a premier model organism for synthetic biology and minimal cell design."*

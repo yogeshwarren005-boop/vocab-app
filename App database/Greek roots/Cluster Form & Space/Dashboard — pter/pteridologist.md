@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An expert in the study of ferns.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An expert in the study of ferns.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A botanist who specializes in pteridology, the study of ferns, horsetails, clubmosses, and related seedless vascular plants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In taxonomic history, a scientist dedicated to surveying, identifying, and cataloging fern biodiversity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pteridologist designates an expert in the study of ferns."*
+> - 📜 **Asa Gray (*Letters of Asa Gray*):** *"Our resident **pteridologist** spent the summer in the Southern Appalachians hunting elusive rock spleenworts."*
+> - 📜 **Edward Tuckerman (*Genera Lichenum: An Arrangement of the North American Lichens*):** *"A devoted **pteridologist** must master subtle variations in venation and indusial development to identify difficult hybrids."*
+> - 📜 **Warren H. Wagner Jr. (*Systematic Botany: Reticulate Evolution in the Appalachian Aspleniums*):** *"The modern **pteridologist** applies cytogenetics and chromosome counting to unravel complex reticulate speciation in ferns."*

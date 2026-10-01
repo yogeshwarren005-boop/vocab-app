@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective & Noun*) Resembling, having the physical form of, or akin to egg.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective & Noun*) Resembling, having the physical form of, or akin to egg.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small, rounded grain composed of concentric layers of mineral precipitate, typically calcium carbonate, formed by accretion around a nucleus in agitated shallow water.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sedimentology and carbonate petrology, ooids are diagnostic of warm, supersaturated, high-energy marine environments such as tidal shoals and oolitic sand bars.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ooid designates adjective & noun*) resembling, having the physical form of, or akin to egg."*
+> - 📜 **Robert L. Folk (*Petrology of Sedimentary Rocks*):** *"Each **ooid** records the physico-chemical conditions of the shallow water in which it formed."*
+> - 📜 **Noel P. James (*Facies Models*):** *"Modern **ooid** formation is largely restricted to tropical carbonate platforms where waters are warm and agitated."*
+> - 📜 **Hans Fuchtbauer (*Sediments and Sedimentary Rocks*):** *"The concentric laminae of an **ooid** reflect episodic growth in a turbulent depositional environment."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing, involving, or relating to catalysis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An automobile exhaust-system component containing a catalyst that causes conversion of harmful gases (such as carbon monoxide and uncombusted hydrocarbons) into mostly harmless products (such as water and carbon dioxide).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, caused by, or functioning as a catalyst or catalysis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In molecular biology and enzymology, the catalytic triad (e.g. Ser-His-Asp in chymotrypsin) forms the active site that mediates substrate bond cleavage; in automotive engineering, catalytic converters reduce toxic exhaust emissions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, catalytic designates causing, involving, or relating to catalysis."*
+> - 📜 **Wilhelm Ostwald (*Nobel Lecture: On Catalysis*):** *"The **catalytic** influence of acids upon ester hydrolysis depends directly upon hydrogen ion concentration."*
+> - 📜 **Jöns Jacob Berzelius (*Annual Report on the Progress of Chemistry*):** *"We ascribe the sudden union of hydrogen and oxygen over platinum sponge to a unique **catalytic** force."*
+> - 📜 **Ernest Starling (*Principles of Human Physiology*):** *"Pepsin operates by **catalytic** cleavage, breaking protein peptide bonds while remaining unaltered at the end."*

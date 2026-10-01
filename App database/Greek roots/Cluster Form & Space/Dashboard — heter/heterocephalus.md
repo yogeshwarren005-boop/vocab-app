@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sand rats.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sand rats.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A monotypic mammalian genus containing the naked mole-rat (Heterocephalus glaber), a subterranean eusocial rodent of the Horn of Africa.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mammalian biogerontology and physiology, Heterocephalus glaber is renowned for extreme longevity (over 30 years), cancer resistance, and lack of pain response to acid.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heterocephalus designates sand rats."*
+> - 📜 **E. O. Wilson (*Sociobiology: The New Synthesis*):** *"The subterranean rodent **heterocephalus** displays true eusociality, with sterile worker castes serving a single breeding queen."*
+> - 📜 **Richard Dawkins (*The Extended Phenotype*):** *"Colonies of **heterocephalus** resemble insect societies more closely than any other mammalian social system."*
+> - 📜 **Stephen Jay Gould (*The Flamingo's Smile*):** *"The hairless, wrinkled skin and massive protruding incisors of **heterocephalus** represent exquisite adaptations for tunneling through hard soil."*

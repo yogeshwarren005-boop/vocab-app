@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek speir.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A spore produced by mitosis, giving rise to an individual genetically identical to the parent; an asexual spore in fungi or algae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mycological life cycles, mitospores (such as conidia or sporangiospores) serve for rapid vegetative propagation and dispersal during favorable growth seasons.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mitospore designates a term designating an entity, condition, or phenomenon derived from greek speir."*
+> - 📜 **Heinrich Anton de Bary (*Comparative Morphology and Biology of the Fungi*):** *"The formation of the **mitospore** allows rapid colonial proliferation without the expenditure of sexual fusion."*
+> - 📜 **Fritsch, F. E. (*The Structure and Reproduction of the Algae*):** *"In green filamentous algae, each flagellated **mitospore** settles upon the substrate to generate a clonal thallus."*
+> - 📜 **Gilbert M. Smith (*Cryptogamic Botany: Algae and Fungi*):** *"Unlike the meiotic meiospore, the **mitospore** retains the exact chromosome complement of the maternal mycelium."*

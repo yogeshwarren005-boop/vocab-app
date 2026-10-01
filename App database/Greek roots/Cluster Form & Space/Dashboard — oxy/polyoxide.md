@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek oxy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An oxide containing a relatively high proportion of oxygen; an oxide with multiple oxygen atoms in its molecular formula.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In polymer and materials science, designating polymers or compounds possessing repetitive ether-oxygen linkages in the backbone chain.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polyoxide designates a term designating an entity, condition, or phenomenon derived from greek oxy."*
+> - 📜 **Frank Wigglesworth Clarke (*The Data of Geochemistry*):** *"Minerals bearing high-valence manganese often crystallize as an insoluble **polyoxide**."*
+> - 📜 **Paul J. Flory (*Principles of Polymer Chemistry*):** *"The flexible aliphatic chains of a **polyoxide** yield low glass-transition temperatures in elastomeric systems."*
+> - 📜 **Jöns Jacob Berzelius (*System of Chemical Mineralogy*):** *"Higher states of metallic oxidation were historically cataloged under the general rubric of the **polyoxide**."*

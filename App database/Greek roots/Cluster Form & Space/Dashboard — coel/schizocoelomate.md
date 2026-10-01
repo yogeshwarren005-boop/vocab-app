@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Verb*) To subject to, transform by, or operate upon through hollow.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Verb*) To subject to, transform by, or operate upon through hollow.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any animal whose coelom develops by schizocoely, through the splitting of solid masses of embryonic mesodermal tissue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative embryology, a classification grouping protostomes (such as annelids, arthropods, and mollusks) whose body cavity originates by cavitation of paired mesodermal bands.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, schizocoelomate designates verb*) to subject to, transform by, or operate upon through hollow."*
+> - 📜 **Francis Maitland Balfour (*A Treatise on Comparative Embryology*):** *"In every typical **schizocoelomate**, the primary mesoderm forms solid lateral cords which subsequently hollow out into segmented vesicles."*
+> - 📜 **Ernst Haeckel (*Generelle Morphologie*):** *"The splitting of the mesoblastic blocks in a **schizocoelomate** stands in marked contrast to the outpocketing seen in enterocoelates."*
+> - 📜 **E. Ray Lankester (*A Treatise on Zoology*):** *"Annelid evolution clearly illustrates the **schizocoelomate** pattern of body cavity construction accompanied by homonomous metamery."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or being a cycle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Moving in cycles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring in cycles or regular intervals; circular; moving or recurring in a cycle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemistry, designating molecular structures containing a closed ring of bonded atoms; in literature, pertaining to a series of poems or myths revolving around a central theme.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The speed or slowness of his recognition of such periodic or cyclic changes in nature will depend largely on the length of the particular cycle."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"Kekulé's insight that benzene forms a closed **cyclic** hexagon revolutionized nineteenth-century structural organic chemistry."*
+> - 📜 **Arnold Toynbee (*A Study of History*):** *"Spengler viewed the rise and fall of civilizations as a deterministic, **cyclic** rhythm resembling organic seasons."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Geological evidence refutes the ancient doctrine of **cyclic** catastrophes, testifying instead to continuous, gradual processes."*

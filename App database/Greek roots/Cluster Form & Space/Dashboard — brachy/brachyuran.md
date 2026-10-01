@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Typical crabs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Typical crabs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any crustacean belonging to the infraorder Brachyura (a true crab); or relating to crabs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine biology, describing decapod morphology characterized by an abbreviated pleon and depressed, expanded cephalothorax.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, brachyuran designates typical crabs."*
+> - 📜 **Rachel Carson (*The Edge of the Sea*):** *"The ghost crab is a swift, nocturnal **brachyuran** that digs deep spiral burrows above the high-tide line."*
+> - 📜 **Thomas Henry Huxley (*The Invertebrata*):** *"The typical **brachyuran** larva, known as a zoea, swims with sharp dorsal spines before settling as a megalopa."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Sexual dimorphism in the **brachyuran** crab is exemplified by the gigantic claw of the male fiddler crab."*

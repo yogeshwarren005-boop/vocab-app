@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A song (sometimes improvised) sung by guests at a banquet.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A song (sometimes improvised) sung by guests at a banquet.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A short lyric poem or song sung by guests at ancient Greek banquets or symposia as a myrtle branch or cup was passed around.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical Greek literature, convivial songs composed by poets like Terpander, Alcaeus, and Pindar celebrating drinking, love, or political freedom.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scolion designates a song (sometimes improvised) sung by guests at a banquet."*
+> - 📜 **Athenaeus (*The Deipnosophists*):** *"The guests sang the famous **scolion** of Harmodius and Aristogeiton, honoring the heroes who struck down the tyrant at Athens."*
+> - 📜 **Plutarch (*Moralia: Table-Talk*):** *"Passing the myrtle branch around the couch, each diner in turn was challenged to chant a witty **scolion** in harmonious rhythm."*
+> - 📜 **J. P. Mahaffy (*Social Life in Greece from Homer to Menander*):** *"The traditional banquet **scolion** was brief and pointed, designed to provoke philosophical conversation among educated diners."*

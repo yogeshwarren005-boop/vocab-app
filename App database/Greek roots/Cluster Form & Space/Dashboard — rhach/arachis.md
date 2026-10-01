@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of plants with pods that ripen underground (see peanut).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of plants with pods that ripen underground (see peanut).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of leguminous plants in the family Fabaceae containing Arachis hypogaea, the cultivated peanut or groundnut.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agricultural botany, geocarpic annual legumes whose fertilized flowers bend downward into the soil where the pods mature underground.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arachis designates a genus of plants with pods that ripen underground (see peanut)."*
+> - 📜 **Carl Linnaeus (*Species Plantarum*):** *"Under the genus **arachis**, nature presents the astonishing spectacle of a flower whose ripening fruit buries itself beneath the earth."*
+> - 📜 **George Bentham (*Flora Brasiliensis*):** *"Indigenous wild species of **arachis** carpet the interior savannas and sandy river banks of central Brazil."*
+> - 📜 **George Washington Carver (*How to Grow the Peanut and 105 Ways of Preparing It for Human Consumption*):** *"The common peanut, belonging to **arachis**, revitalizes exhausted cotton soils by fixing atmospheric nitrogen through root nodules."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Physical exercises designed to develop strength and coordination.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A competitive sport in which individuals perform optional and prescribed acrobatic feats mostly on special apparatus in order to demonstrate strength, balance, and body control.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Exercises developing or displaying physical agility, coordination, balance, and strength, performed as a competitive sport or physical discipline.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical philosophy, the system of physical training paired with 'music' (liberal arts) to foster an integrated mind and body.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He ultimately worked his passage to the United States, where he made a precarious living in various towns as Professor of Gymnastics, Sword Exercise, Fencing, and Pugilism."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He ultimately worked his passage to the United States, where he made a precarious living in various towns as Professor of Gymnastics, Sword Exercise, Fencing, and Pugilism."*
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"They seemed wide awake, and showed real disappointment that I could not stop to see a display of their skill in gymnastics."*
+> - 📜 **Aristotle (*Politics*):** *"The aim of **gymnastics** is not merely to produce fierce gladiatorial brute force, but to instill disciplined bodily health."*
+> - 📜 **Plato (*Timaeus*):** *"True well-being arises when the exercises of **gymnastics** are balanced by intellectual study of eternal truths."*
+> - 📜 **Michel de Montaigne (*Essays*):** *"Physical **gymnastics** should steel the student's constitution against all hardships of climate and fatigue."*

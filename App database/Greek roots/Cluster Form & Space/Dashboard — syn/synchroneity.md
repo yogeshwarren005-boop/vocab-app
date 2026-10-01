@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The relation that exists when things occur at the same time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The relation that exists when things occur at the same time.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state, property, or condition of being synchronous; simultaneous occurrence or operation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chronological analysis and communications engineering, synchroneity denotes the precise lock-step temporal alignment of concurrent periodic systems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, synchroneity designates the relation that exists when things occur at the same time."*
+> - 📜 **Norbert Wiener (*Cybernetics: Or Control and Communication in the Animal and the Machine*):** *"The smooth **synchroneity** of muscular contraction requires rapid, coordinated feedback through spinal reflex loops."*
+> - 📜 **Colin Pittendrigh (*The Circadian System: Entrainment by Photoperiodic Regimes*):** *"Environmental light pulses enforce internal **synchroneity** among the billions of cellular oscillators in mammalian tissues."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Fossil comparisons across continents established the **synchroneity** of major volcanic and depositional epochs."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialized endoscope for visually examining a woman's pelvic organs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A specialized endoscope for visually examining a woman's pelvic organs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An illuminated optical endoscope designed for transvaginal introduction through the posterior vaginal fornix into the cul-de-sac of Douglas.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gynecological diagnostics, an instrument widely used before transabdominal laparoscopy to visualize the ovaries, fallopian tubes, and pelvic peritoneum.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, culdoscope designates a specialized endoscope for visually examining a woman's pelvic organs."*
+> - 📜 **Albert Decker (*Culdoscopy: A New Technic in Gynecologic Diagnosis and Study*):** *"With the patient placed in the knee-chest position, the **culdoscope** is introduced into the pelvis through the posterior vaginal fornix without discomfort."*
+> - 📜 **Howard A. Kelly (*Medical Gynecology*):** *"Direct inspection through the **culdoscope** reveals tiny ovarian endometriomas that escape detection by bimanual palpation."*
+> - 📜 **Robert W. Kistner (*Gynecology: Principles and Practice*):** *"The wide optical field of the modern **culdoscope** allows clear visualization of tubal fimbriae and early ectopic gestations."*

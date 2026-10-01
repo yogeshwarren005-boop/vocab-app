@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek pyel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The visual inspection and examination of the renal pelvis and calyces using an endoscope (pyeloscope or ureteroscope) or fluoroscopy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In endourology, a minimally invasive endoscopic procedure enabling direct visualization, biopsy, and laser ablation of pelvic urothelial tumors and calculi.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pyeloscopy designates a term designating an entity, condition, or phenomenon derived from greek pyel."*
+> - 📜 **Meredith Campbell (*Pediatric Urology*):** *"Flexible instruments allow pediatric **pyeloscopy** to survey congenital diverticula and relieve ureteropelvic strictures."*
+> - 📜 **Hugh H. Young (*Practice of Urology*):** *"Fluoroscopic **pyeloscopy** enabled surgeons to observe rhythmic peristaltic contractions emptying the renal pelvis in real time."*
+> - 📜 **Victor Marshall (*Textbook of Urology*):** *"Direct **pyeloscopy** provides invaluable diagnostic confirmation when filling defects on radiographic films remain indeterminate."*

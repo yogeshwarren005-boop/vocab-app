@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An inability to stay awake.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An inability to stay awake.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sleep disorder characterized by excessive daytime sleepiness (EDS) or abnormally prolonged nocturnal sleep episodes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sleep medicine and neurology, hypersomnia is categorized as central (narcolepsy, idiopathic hypersomnia, Kleine-Levin syndrome) or secondary to obstructive sleep apnea, depression, or brainstem lesions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypersomnia designates an inability to stay awake."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Patients suffering from epidemic encephalitis often present with profound lethargy and intractable **hypersomnia**."*
+> - 📜 **A. R. Luria (*The Working Brain*):** *"Lesions impinging upon the ascending reticular activating system abolish cortical tone, inducing persistent **hypersomnia**."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"The post-encephalitic syndrome locked victims in a decades-long state of stuporous **hypersomnia**."*

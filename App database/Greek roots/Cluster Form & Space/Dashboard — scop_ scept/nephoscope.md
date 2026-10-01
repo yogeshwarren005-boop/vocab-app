@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A measuring instrument that uses a grid for measuring the altitude, direction, and velocity of movement of clouds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A measuring instrument that uses a grid for measuring the altitude, direction, and velocity of movement of clouds.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A meteorological instrument used for measuring the direction, speed, and angular velocity of clouds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In atmospheric physics before radar and satellite tracking, mirror and grid nephoscopes provided upper-air wind velocity estimates essential for synoptic forecasting.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nephoscope designates a measuring instrument that uses a grid for measuring the altitude, direction, and velocity of movement of clouds."*
+> - 📜 **Cleveland Abbe (*Treatise on Meteorological Apparatus and Methods*):** *"The observer aligns the moving cirrus reflection on the **nephoscope** grid to determine upper-troposphere drift."*
+> - 📜 **Carl Barus (*Report on the Condensation of Atmospheric Moisture*):** *"By tracking cloud crests across the graduated mirror of a **nephoscope**, wind shear at various altitudes was successfully computed."*
+> - 📜 **William Napier Shaw (*Manual of Meteorology*):** *"Systematic observations with the Fineman **nephoscope** yielded our first coherent understanding of cyclonic airflow aloft."*

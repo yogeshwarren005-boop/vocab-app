@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tattlers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tattlers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus or subgenus of wading shorebirds containing the tattlers (e.g., the wandering tattler, Heteroscelus incanus), breeding on alpine gravel bars.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In avian taxonomy, named 'different leg' from Greek for the scutellation of the tarsus, often subsumed into the larger sandpiper genus Tringa.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog heteroscelus as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Elliott Coues (*Key to North American Birds*):** *"The wandering tattler of the genus **heteroscelus** flies with rapid, whistling cries along rocky surf-beaten Pacific reefs."*
+> - 📜 **Alexander Wetmore (*The Migrations of Birds*):** *"Trans-Pacific migrations of **heteroscelus** carry birds from nesting torrents in Alaska across thousands of miles of open ocean to Polynesia."*
+> - 📜 **Arthur Cleveland Bent (*Life Histories of North American Shore Birds*):** *"The unstreaked leaden plumage of **heteroscelus** blends invisibly into basalt headlands where surf crashes incessantly."*

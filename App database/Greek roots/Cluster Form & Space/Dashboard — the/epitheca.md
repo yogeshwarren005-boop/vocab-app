@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek the.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The outer layer or upper valve of certain microorganisms and invertebrates, especially the larger upper half of a diatom's frustule or the protective wall of a coral.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In protistology and marine paleontology, the epitheca overlaps the smaller hypotheca in diatoms and dinoflagellates, forming a rigid protective siliceous or cellulosic envelope.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epitheca designates a term designating an entity, condition, or phenomenon derived from greek the."*
+> - 📜 **Ernst Haeckel (*Report on the Radiolaria*):** *"The overlapping margin where the **epitheca** encloses the lower hypotheca forms the distinctive girdle band of the diatom."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"In fossil rugose corals, the outer stony wall is enveloped by a wrinkled calcareous **epitheca**."*
+> - 📜 **Alister Hardy (*The Open Sea: Its Natural History*):** *"Armored dinoflagellates possess a cellular casing divided neatly into an **epitheca** and a posterior hypotheca."*

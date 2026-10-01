@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek centr.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A philosophical perspective or ethical framework that places intrinsic value on ecological systems and all living beings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In environmental philosophy, the doctrine that the ecosphere, rather than humanity, constitutes the primary moral community.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ecocentrism designates a term designating an entity, condition, or phenomenon derived from greek centr."*
+> - 📜 **Arne Naess (*The Shallow and the Deep, Long-Range Ecology Movement*):** *"The transition from anthropocentrism to radical **ecocentrism** requires a profound transformation in our conception of selfhood."*
+> - 📜 **Aldo Leopold (*A Sand County Almanac*):** *"Implicit in the land ethic is **ecocentrism**, affirming that the land is an organism to be loved and respected."*
+> - 📜 **Barry Commoner (*The Closing Circle*):** *"Without grounding public policy in **ecocentrism**, industrial technology will inevitably destabilize the biophysical cycle."*

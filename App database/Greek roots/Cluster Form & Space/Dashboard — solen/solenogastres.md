@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An order of amphineura.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An order of amphineura.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxonomic class of shell-less, worm-like benthic marine mollusks (subphylum Aplacophora) characterized by calcareous spicules and a ventral pedal groove.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine invertebrate systematics, Solenogastres (Neomeniomorpha) are distinguished from Caudofoveata by having a ciliated pedal pit and hermaphroditic reproductive organs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, solenogastres designates an order of amphineura."*
+> - 📜 **Johannes Thiele (*Handbuch der systematischen Weichtierkunde*):** *"We classify the **Solenogastres** as an ancient offshoot of ancestral molluscan stock possessing a spiculose integument."*
+> - 📜 **Libbie Hyman (*The Invertebrates: Mollusca I*):** *"Members of the class **Solenogastres** live predominantly in deep ocean dredgings, preying upon octocorals and hydrozoans."*
+> - 📜 **E. Ray Lankester (*A Treatise on Zoology: Mollusca*):** *"The absence of a shell in the **Solenogastres** represents an early evolutionary divergence rather than secondary degenerate loss."*

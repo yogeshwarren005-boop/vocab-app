@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a large brain case.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a large brain case.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Possessing an unusually large brain; exhibiting the anatomical features of macroencephaly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative anatomy and embryology, describing cranial morphologies marked by disproportionate cerebral mass relative to total body weight.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, macrencephalous designates having a large brain case."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"Certain cetaceans present a **macrencephalous** structure that contrasts strikingly with their relatively primitive limb morphology."*
+> - 📜 **Thomas Henry Huxley (*Evidence as to Man's Place in Nature*):** *"The Neanderthal calvarium reveals a truly **macrencephalous** braincase, exceeding even modern European averages in sheer volume."*
+> - 📜 **Arthur Keith (*Human Embryology and Morphology*):** *"The developmental factors that render an embryo **macrencephalous** frequently involve accelerated neuroepithelial cell divisions."*

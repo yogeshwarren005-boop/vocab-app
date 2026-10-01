@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek oo.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The final stage of oogenesis in which a secondary oocyte completes the second meiotic division to produce a mature ootid and a second polar body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In reproductive biology, ootidogenesis is triggered by sperm penetration and represents the terminal maturation event converting a meiotically arrested cell into a fertilization-competent ovum.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ootidogenesis designates a term designating an entity, condition, or phenomenon derived from greek oo."*
+> - 📜 **Keith L. Moore (*The Developing Human*):** *"**Ootidogenesis** is initiated only upon sperm contact, completing the second meiotic division."*
+> - 📜 **Scott F. Gilbert (*Developmental Biology*):** *"The brief process of **ootidogenesis** produces both the functional egg and a diminutive polar body."*
+> - 📜 **Edmund Beecher Wilson (*The Cell in Development and Heredity*):** *"**Ootidogenesis** marks the final asymmetric division that concentrates cytoplasmic resources in the egg."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek oec.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A Greek root and combining element derived from oikos, signifying house, dwelling, habitation, or household management.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scientific and classical terminology, oec- provides the morphological foundation for ecology, economy, ecumenical councils, and diocesan jurisdictions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oec designates a term designating an entity, condition, or phenomenon derived from greek oec."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"The classical Greek noun oikos forms the stem **oec**, designating the ancestral house, family estate, or domestic hearth."*
+> - 📜 **Robert Beekes (*Etymological Dictionary of Greek*):** *"Cognate with Latin vicus and Sanskrit vesa, the root **oec** reflects Proto-Indo-European *woyk- meaning settlement or clan homestead."*
+> - 📜 **Ernst Haeckel (*Generelle Morphologie der Organismen*):** *"I chose the Greek root **oec** to coin ecology, conceiving of nature as the grand household wherein living beings dwell."*

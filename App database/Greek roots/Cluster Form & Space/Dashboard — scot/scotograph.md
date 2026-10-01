@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek scot.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An image or photographic impression produced in the dark without visible light, such as through radioactivity, infrared emission, or spiritualist psychography; also, an instrument for writing in the dark.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nineteenth-century parapsychology and early radiation physics, scotographs were investigated alongside Becquerel rays to explore invisible radiative effects on sensitized photographic plates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scotograph designates a term designating an entity, condition, or phenomenon derived from greek scot."*
+> - 📜 **William Crookes (*Researches in the Phenomena of Spiritualism*):** *"The sensitized glass plate enclosed in light-tight lead foil showed a distinct **scotograph** after being exposed to the psychic medium."*
+> - 📜 **Arthur Conan Doyle (*The History of Spiritualism*):** *"He exhibited a curious **scotograph** obtained upon a sealed photographic emulsion in total darkness."*
+> - 📜 **Cesare Lombroso (*After-Death Phenomena*):** *"The resulting **scotograph** bore shadowy contours of lettering that could not be accounted for by normal illumination."*

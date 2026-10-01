@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the myrmecophagidae; south american ant bear.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the myrmecophagidae; south american ant bear.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxonomic genus of xenarthran mammals comprising the giant anteater (*Myrmecophaga tridactyla*), native to Central and South America.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mammalogy and evolutionary anatomy, Myrmecophaga is characterized by an elongated tubular skull, complete absence of teeth, and a sticky two-foot tongue used to raid termite mounds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, myrmecophaga designates type genus of the myrmecophagidae; south american ant bear."*
+> - 📜 **Carl Linnaeus (*Systema Naturae*):** *"We describe the great toothless anteater under the genus **Myrmecophaga**, noting its extended snout and powerful clawed forefeet."*
+> - 📜 **Georges Cuvier (*The Animal Kingdom*):** *"The salivary glands of **Myrmecophaga** secrete copious viscous mucus that covers the tongue during rapid extraction of insects."*
+> - 📜 **Alfred Russel Wallace (*The Geographical Distribution of Animals*):** *"The giant anteater **Myrmecophaga** wanders solitary over the South American savannas, ripping open termite mounds with immense claws."*

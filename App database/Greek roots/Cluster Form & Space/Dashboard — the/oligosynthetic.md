@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of the.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of the.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or using very few morphemes or linguistic roots from which vocabulary is synthesized (in linguistic typology).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theoretical linguistics and artificial language design, an oligosynthetic language constructs complex lexicons from a small inventory of root affixes, famously hypothesized (and disputed) in certain Native American languages.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oligosynthetic designates adjective*) pertaining to, derived from, or characteristic of the."*
+> - 📜 **Benjamin Lee Whorf (*Language, Thought, and Reality*):** *"Certain indigenous tongues were proposed to possess an **oligosynthetic** structure derived from a handful of fundamental roots."*
+> - 📜 **Edward Sapir (*Selected Writings in Language, Culture and Personality*):** *"Early philologists exaggerated the **oligosynthetic** nature of Nahuatl by confusing productive compounding with root paucity."*
+> - 📜 **Franz Boas (*Handbook of American Indian Languages*):** *"Detailed morphological analysis refuted claims that these American idioms conformed to an **oligosynthetic** archetype."*

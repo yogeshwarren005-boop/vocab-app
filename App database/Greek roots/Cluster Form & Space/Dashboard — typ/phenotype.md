@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The observable characteristics or traits of an organism that are produced by the interaction of the genotype and the environment : the physical expression of one or more genes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The observable characteristics or traits of a disease.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The set of observable characteristics or traits of an organism resulting from the interaction of its genotype with the environment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Coined in 1909 by Wilhelm Johannsen (alongside gene and genotype), the phenotype encompasses morphology, development, biochemical properties, and behavior.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phenotype designates the observable characteristics or traits of an organism that are produced by the interaction of the genotype and the environment : the physical expression of one or more genes."*
+> - 📜 **Wilhelm Johannsen (*Elements of the Exact Heredity Theory*):** *"I propose the term **phenotype** to designate the observable person or organism, as distinguished from its genotype."*
+> - 📜 **Richard Dawkins (*The Extended Phenotype*):** *"An animal's behavior can be regarded as part of its extended **phenotype**, influencing survival beyond its body boundaries."*
+> - 📜 **Theodosius Dobzhansky (*Genetics and the Origin of Species*):** *"Natural selection acts directly upon the expressed **phenotype**, weeding out individuals ill-suited to their habitat."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sandgrouses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sandgrouses.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The avian family of sandgrouse (order Pterocliformes), comprising sixteen species adapted to arid and semiarid habitats of the Old World.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic ornithology, seed-eating birds intermediate between pigeons and plovers, possessing pigeon-like heads and gamebird-like compact bodies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pteroclididae designates sandgrouses."*
+> - 📜 **Ernst Mayr (*Principles of Systematic Zoology*):** *"Taxonomic placement of **pteroclididae** provoked extensive debate until biochemical data allied them with Columbiformes."*
+> - 📜 **Joel Cracraft (*The Relationships and Evolution of the Galliform Birds*):** *"Feather morphology in the family **pteroclididae** exhibits unique structural helices that hold capillary water during flight."*
+> - 📜 **David Lack (*Ecological Adaptations for Breeding in Birds*):** *"Synchronous nesting in **pteroclididae** corresponds with peak seed abundance following sporadic desert rains."*

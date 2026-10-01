@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not occurring together.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not occurring together.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not synchronous; not occurring, operating, or developing at the same time; asynchronous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chronobiology and industrial machinery, unsynchronous rhythms lead to phase collisions and mechanical vibrations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unsynchronous designates not occurring together."*
+> - 📜 **Nikola Tesla (*Experiments with Alternate Currents*):** *"Operating two alternating dynamos in an **unsynchronous** condition causes dangerous circulating surge currents."*
+> - 📜 **Colin Pittendrigh (*Circadian Systems*):** *"Disruption of environmental light schedules left internal metabolic cycles running in an **unsynchronous** state."*
+> - 📜 **Norbert Wiener (*Cybernetics*):** *"The nervous system coordinates millions of **unsynchronous** cellular impulses into unified motor behavior."*

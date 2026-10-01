@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ana.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The surgical refreacturing, breaking, or resetting of a bone that has united abnormally; also the operative rupture of a structure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In orthopedic surgery, an intentional osteotomy or manual refracture performed to correct malunion, angular deformity, or improper joint alignment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anarrhexis designates a term designating an entity, condition, or phenomenon derived from greek ana."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"When malunion of the radius causes crippling deformities of the wrist, surgical **anarrhexis** is indicated to restore functional alignment."*
+> - 📜 **William R. Gowers (*A Manual of Diseases of the Nervous System*):** *"Following traumatic contracture, orthopedic **anarrhexis** of the united callus relieved pressure on the adjacent median nerve."*
+> - 📜 **Archibald Geikie (*Text-book of Geology*):** *"Metaphorically, structural geologists compare the tectonic resetting of broken strata to the orthopedic **anarrhexis** of fractured limbs."*

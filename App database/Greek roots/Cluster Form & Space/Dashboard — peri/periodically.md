@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a sporadic manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a sporadic manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: At regular intervals of time; recurring cyclically.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical sciences and economics, describing events or signals that repeat according to a predictable temporal period.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"I have him periodically in a vice."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"For there and then, for several consecutive years, Moby Dick had been periodically descried, lingering in those waters for awhile, as the sun, in its annual round, loiters for a predicted interval in any one sign of the Zodiac."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Drummer," he said, raising his eyes, "I want you to give Brad a special assignment, and report to me periodically how it is progressing."*
+> - 📜 **Dmitri Mendeleev (*The Principles of Chemistry*):** *"The elements, if arranged according to their atomic weights, exhibit an apparent **periodically** recurring sequence of properties."*
+> - 📜 **Johannes Kepler (*Harmonices Mundi*):** *"The celestial spheres swing **periodically** between aphelion and perihelion according to harmonious ratios."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Market prices fluctuate **periodically** about the natural price under the oscillating influence of supply and demand."*

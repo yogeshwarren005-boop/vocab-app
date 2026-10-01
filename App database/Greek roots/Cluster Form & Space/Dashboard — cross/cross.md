@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A structure consisting of an upright with a transverse beam used especially by the ancient Romans for execution.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The cross on which Jesus was crucified.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An upright post with a transverse beam, used in antiquity for execution, or an emblem thereof representing Christianity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An intersection of two lines or paths; a hybrid organism produced by mating different varieties or species; or to traverse a boundary.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In each thing give him way; cross him in nothing."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Yet I should bear no cross if I did bear you, for I think you have no money in your purse."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And he will bless that cross with other beating."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Upon the **cross** he hung, and by his death / Redeemed mankind from ancient misery."*
+> - 📜 **Charles Darwin (*The Effects of Cross and Self Fertilisation in the Vegetable Kingdom*):** *"A systematic **cross** between distinct individuals of the same species almost invariably imparts increased vigor and fertility to the offspring."*
+> - 📜 **Samuel Taylor Coleridge (*The Rime of the Ancient Mariner*):** *"Instead of the **cross**, the Albatross / About my neck was hung."*

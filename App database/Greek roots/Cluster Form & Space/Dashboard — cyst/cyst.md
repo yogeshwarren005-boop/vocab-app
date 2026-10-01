@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A closed sac having a distinct membrane and developing abnormally in a cavity or structure of the body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A body resembling a cyst: such as.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A closed sac or capsule having a distinct membrane, filled with fluid, air, or semi-solid matter, formed abnormally in body tissues.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In protozoology and cryptogamic botany, a tough, protective, thick-walled resting stage assumed by an organism to survive adverse environmental conditions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cyst designates a closed sac having a distinct membrane and developing abnormally in a cavity or structure of the body."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Aspiration of the renal **cyst** yielded clear amber fluid containing urea and traces of albumin."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Retention of glandular secretions behind an obstructed duct inevitably distends the acinus into a true retention **cyst**."*
+> - 📜 **Leeuwenhoek (*Letters to the Royal Society*):** *"Within each desiccated microscopic **cyst**, the tiny infusorian retains the latent spark of life until moisture returns."*

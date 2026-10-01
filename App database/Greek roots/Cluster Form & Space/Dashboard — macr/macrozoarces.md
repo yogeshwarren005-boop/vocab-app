@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of zoarcidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of zoarcidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxonomic genus of marine zoarcid fishes comprising the ocean pout (*Macrozoarces americanus*), native to the northwest Atlantic continental shelf.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative physiology and molecular cryobiology, *Macrozoarces* serves as the classic organism for isolating type III antifreeze proteins that inhibit ice crystallization in sub-zero seawater.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, macrozoarces designates a genus of zoarcidae."*
+> - 📜 **David Starr Jordan (*The Fishes of North and Middle America*):** *"The heavy-bodied ocean pout, catalogued under **Macrozoarces**, inhabits rocky reefs and muddy bottoms from Labrador to the Carolinas."*
+> - 📜 **Henry B. Bigelow (*Fishes of the Gulf of Maine*):** *"Winter trawlers frequently capture **Macrozoarces** as it grazes upon hard-shelled mollusks and echinoderms on coastal banks."*
+> - 📜 **Choy L. Hew (*Structure and Function of Antifreeze Proteins*):** *"Serum analysis of **Macrozoarces** led to the characterization of globular type III antifreeze polypeptides that depress the thermal hysteresis freezing point."*

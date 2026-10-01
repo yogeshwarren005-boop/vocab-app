@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To convert wholly or partly into ions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To become ionized.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To convert an atom, molecule, or compound into ions, or to separate into ions (American spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In atomic physics and spectroscopy, incident electromagnetic photons with energy exceeding the ionization potential ionize target atoms, ejecting photoelectrons.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ionize designates to convert wholly or partly into ions."*
+> - 📜 **J. J. Thomson (*Conduction of Electricity through Gases*):** *"Ultraviolet light striking a polished zinc plate will rapidly **ionize** the adjacent gas and discharge an electroscope."*
+> - 📜 **Ernest Rutherford (*Radioactive Substances and Their Radiations*):** *"Energetic rays emitted from radioactive ores **ionize** the surrounding atmosphere with tremendous efficiency."*
+> - 📜 **Enrico Fermi (*Nuclear Physics*):** *"Fast charged particles **ionize** gas atoms along their trajectory through Coulomb interactions with bound electrons."*

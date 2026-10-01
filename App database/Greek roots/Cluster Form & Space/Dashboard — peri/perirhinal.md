@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Near the nose.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Near the nose.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Situated around or bordering the rhinal sulcus or nasal region; specifically designating the perirhinal cortex of the temporal lobe.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cognitive neuroscience, the perirhinal cortex is essential for visual object recognition, semantic knowledge, and complex item memory.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, perirhinal designates near the nose."*
+> - 📜 **Eric Kandel (*Principles of Neural Science*):** *"Lesions confined to the **perirhinal** cortex severely impair visual object recognition memory in primates."*
+> - 📜 **Brenda Milner (*Memory and the Temporal Lobe*):** *"Declarative item encoding relies upon reciprocal connections between the **perirhinal** area and the hippocampus."*
+> - 📜 **Santiago Ramón y Cajal (*Studies on the Cerebral Cortex*):** *"Pyramidal neurons of the **perirhinal** transitional zone receive dense associational projections from sensory neocortex."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek cephal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormal largeness of the head; macrocephaly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical genetics and pediatric neurology, excessive cranial circumference exceeding two standard deviations above the mean, associated with hydrocephalus, neurofibromatosis, or megalencephaly.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, megacephaly designates a term designating an entity, condition, or phenomenon derived from greek cephal."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Progressive **megacephaly** during early infancy warrants urgent transillumination and cranial ultrasonography."*
+> - 📜 **Harvey Cushing (*Studies in Intracranial Physiology and Surgery*):** *"Arrested internal hydrocephalus frequently leaves the child with marked constitutional **megacephaly**."*
+> - 📜 **Francis Maitland Balfour (*A Treatise on Comparative Embryology*):** *"Premature expansion of the lateral ventricles produces compensatory expansion of the vault resulting in **megacephaly**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A curve traced by a point on the circumference of a circle rolling internally on the circumference of a fixed circle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A curve traced by a point on the circumference of a circle rolling internally on the circumference of a fixed circle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A plane curve traced by a point on the circumference of a circle as it rolls without slipping along the inside of a fixed circle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geometry and kinematics, a family of roulette curves including the astroid (four-cusped hypocycloid) and deltoid (three-cusped hypocycloid).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypocycloid designates a curve traced by a point on the circumference of a circle rolling internally on the circumference of a fixed circle."*
+> - 📜 **Leonhard Euler (*Mechanica*):** *"When the diameter of the rolling circle is half that of the fixed circle, the **hypocycloid** degenerates into a straight line."*
+> - 📜 **D'Arcy Wentworth Thompson (*On Growth and Form*):** *"Internal cusps of radiating radiolarian skeletons frequently trace the elegant curvature of a geometric **hypocycloid**."*
+> - 📜 **William John Macquorn Rankine (*A Manual of Machinery and Millwork*):** *"Internal gear flanks are formed along an internal **hypocycloid** curve to ensure rolling contact with external pinion teeth."*

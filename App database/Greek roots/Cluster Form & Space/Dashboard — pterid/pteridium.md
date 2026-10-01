@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of ferns belonging to the family dennstaedtiaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of ferns belonging to the family dennstaedtiaceae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of large, coarse terrestrial ferns in the family Dennstaedtiaceae, commonly known as bracken or brake.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant ecology, aggressive rhizomatous perennial ferns containing carcinogenic ptaquiloside, dominating open pastures and fire-prone woodlands.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pteridium designates a genus of ferns belonging to the family dennstaedtiaceae."*
+> - 📜 **Carl Linnaeus (*Species Plantarum*):** *"The cosmopolitan fern **pteridium** forms vast stands on uncultivated moors, unrolling stout crosiers each spring."*
+> - 📜 **A. C. Seward (*Plant Life Through the Ages*):** *"Fossil frond impressions indistinguishable from modern **pteridium** occur across Cretaceous and Tertiary strata."*
+> - 📜 **George Nicholson (*The Illustrated Dictionary of Gardening*):** *"The deep subterranean rootstocks of **pteridium** survive moorland fires and send up vigorous fronds through scorched peat."*

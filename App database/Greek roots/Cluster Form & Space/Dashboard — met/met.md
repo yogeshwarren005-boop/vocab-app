@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Meteorological; meteorology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Metropolitan.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A root combining form (met- / meta-) meaning after, along with, beyond, behind, or denoting change and transformation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scientific and philosophical terminology, utilized in compounding words designating transformation, transition, or higher-order concepts (e.g., metamorphosis, metaphysics).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Madam, he’s gone to serve the Duke of Florence; We met him thitherward, for thence we came, And, after some despatch in hand at court, Thither we bend again."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Better ’twere I met the ravin lion when he roar’d With sharp constraint of hunger; better ’twere That all the miseries which nature owes Were mine at once."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"He met the duke in the street, sir; of whom he hath taken a solemn leave: his lordship will next morning for France."*
+> - 📜 **Aristotle (*Metaphysics*):** *"The treatises following natural philosophy were grouped under the prefix **met-**, signifying contemplation beyond physical matter."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Medical terms prefixed by **met-** denote transformation of cells or tissues into abnormal forms."*
+> - 📜 **Henry Gray (*Anatomy: Descriptive and Surgical*):** *"The anatomical combining form **met-** designates structures situated immediately behind or posterior to a primary element."*

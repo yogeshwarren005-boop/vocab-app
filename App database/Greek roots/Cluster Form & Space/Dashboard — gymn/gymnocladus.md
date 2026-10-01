@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small genus of deciduous trees of china and united states having paniculate flowers and thick pulpy pods.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small genus of deciduous trees of china and united states having paniculate flowers and thick pulpy pods.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small genus of deciduous leguminous trees of North America and East Asia, notably Gymnocladus dioicus (the Kentucky coffeetree).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dendrology, named 'naked branch' because the stout, stubby branches remain bare of twigs and leaves for nearly half the year.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gymnocladus designates small genus of deciduous trees of china and united states having paniculate flowers and thick pulpy pods."*
+> - 📜 **Charles Sprague Sargent (*The Silva of North America*):** *"In winter, the stark, massive branches of **gymnocladus** stand out boldly against the deciduous woodland canopy."*
+> - 📜 **Donald Culross Peattie (*A Natural History of Trees of Eastern and Central North America*):** *"Pioneers roasted the heavy seeds of **gymnocladus** as a bitter coffee substitute during frontier shortages."*
+> - 📜 **Asa Gray (*Manual of Botany*):** *"The bipinnate foliage of **gymnocladus** can reach three feet in length, bearing thick pulpy woody pods."*

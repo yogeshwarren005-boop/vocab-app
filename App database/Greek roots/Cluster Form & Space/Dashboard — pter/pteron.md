@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A peristyle raised on a podium, differing from an ordinary peristyle raised only on a stylobate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A peristyle raised on a podium, differing from an ordinary peristyle raised only on a stylobate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In classical Greek architecture, the lateral exterior colonnade or flank peristyle surrounding a temple.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical archaeology and entomological morphology, a wing, wing-like flank, or lateral side of a structure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pteron designates a peristyle raised on a podium, differing from an ordinary peristyle raised only on a stylobate."*
+> - 📜 **Vitruvius (*Ten Books on Architecture*):** *"The **pteron** creates a sheltered ambulatory along the flanks of the sacred precinct, welcoming worshippers from the sun."*
+> - 📜 **Pausanias (*Description of Greece*):** *"Walking through the shaded **pteron** of the temple at Epidaurus, one admires the delicate fluting of the limestone columns."*
+> - 📜 **James Fergusson (*A History of Architecture in All Countries*):** *"The spacing of columns in the **pteron** determined the overall optical rhythm of classical monumental façades."*

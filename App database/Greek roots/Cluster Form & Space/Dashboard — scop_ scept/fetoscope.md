@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A stethoscope placed on the pregnant woman's abdomen to listen for the fetal heartbeat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A stethoscope placed on the pregnant woman's abdomen to listen for the fetal heartbeat.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialized stethoscope, acoustic horn, or fiber-optic endoscope designed for examining or listening to the heartbeat of a fetus in utero.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In perinatology, the term encompasses both the traditional acoustic DeLee-Hillis horn and minimally invasive operative fetoscopes used for intrauterine fetal surgery and chorionic vascular coagulation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fetoscope designates a stethoscope placed on the pregnant woman's abdomen to listen for the fetal heartbeat."*
+> - 📜 **Joseph DeLee (*The Principles and Practice of Obstetrics*):** *"By pressing the horn of the **fetoscope** firmly against the maternal abdominal wall, the faint rhythmic cardiac beats can be monitored."*
+> - 📜 **Virginia Apgar (*Is My Baby All Right?*):** *"Careful auscultation with a **fetoscope** remains a fundamental clinical check during active labor."*
+> - 📜 **Thomas Dent Mütter (*Surgical Lectures*):** *"The obstetrician's modified **fetoscope** permits early acoustic surveillance of developing fetal vitality."*

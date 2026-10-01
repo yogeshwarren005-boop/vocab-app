@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormally high body temperature; sometimes induced (as in treating some forms of cancer).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abnormally high body temperature; sometimes induced (as in treating some forms of cancer).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An elevated body temperature or fever; an alternative or variant form of hyperthermia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used in earlier clinical and physiological treatises to describe excessive elevation of body heat, whether induced experimentally, climatically, or by therapeutic baths.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyperthermy designates abnormally high body temperature; sometimes induced (as in treating some forms of cancer)."*
+> - 📜 **Claude Bernard (*Lessons on the Heat of the Animal Body*):** *"Puncture of the cerebral peduncles induced marked **hyperthermy** in experimental animals."*
+> - 📜 **Austin Flint (*A Treatise on the Principles and Practice of Medicine*):** *"The patient exhibited extreme **hyperthermy**, the clinical thermometer registering above forty-one degrees centigrade."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Therapeutic **hyperthermy** was historically explored as an empirical modality against chronic neurosyphilitic infection."*

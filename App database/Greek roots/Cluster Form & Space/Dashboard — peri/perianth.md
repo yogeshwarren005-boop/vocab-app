@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The floral structure comprised of the calyx and corolla especially when the two whorls are fused.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The floral structure comprised of the calyx and corolla especially when the two whorls are fused.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The outer envelope of a flower, consisting of the calyx (sepals) and corolla (petals) collectively.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic botany, when sepals and petals are undifferentiated in appearance, the individual segments of the perianth are termed tepals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, perianth designates the floral structure comprised of the calyx and corolla especially when the two whorls are fused."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"The **perianth** constitutes the floral envelope, serving to protect the essential organs of reproduction during bud stage."*
+> - 📜 **Charles Darwin (*The Various Contrivances by Which Orchids Are Fertilised by Insects*):** *"In orchids, one segment of the **perianth** is profoundly modified into an attractive landing stage or labellum."*
+> - 📜 **Katherine Esau (*Plant Anatomy*):** *"Vascular traces diverge from the floral receptacle to supply each segment of the biseriate **perianth**."*

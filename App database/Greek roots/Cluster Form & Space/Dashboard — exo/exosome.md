@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek exo.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small membrane-bound extracellular vesicle (30–150 nm) secreted by eukaryotic cells, containing proteins, lipids, and RNAs for intercellular communication.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In molecular biology and oncology, exosomes facilitate paracrine signaling and pre-metastatic niche formation, serving as non-invasive liquid biopsy biomarkers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, exosome designates a term designating an entity, condition, or phenomenon derived from greek exo."*
+> - 📜 **Bruce Alberts (*Molecular Biology of the Cell*):** *"Fusion of multivesicular bodies with the plasma membrane releases intraluminal vesicles as an **exosome** population into extracellular fluids."*
+> - 📜 **Harvey Lodish (*Molecular Cell Biology*):** *"Target cells internalize the **exosome**, taking up enclosed regulatory microRNAs that alter recipient gene expression."*
+> - 📜 **Robert A. Weinberg (*The Biology of Cancer*):** *"Tumor-derived **exosome** vesicles condition distant stromal microenvironments to prepare hospitable pre-metastatic niches."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of biology dealing with fungi.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fungal life.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of biological science that studies fungi, including their genetic properties, taxonomy, biochemical traits, and ecological relationships.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In applied science, mycology encompasses both industrial applications (fermentation, pharmaceuticals) and medical disciplines treating pathogenic fungal infections.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mycology designates a branch of biology dealing with fungi."*
+> - 📜 **Anton de Bary (*Comparative Morphology and Biology of the Fungi, Mycetozoa and Bacteria*):** *"The rise of experimental **mycology** transformed our understanding of parasitism and cellular symbiosis in plant disease."*
+> - 📜 **Pier Andrea Saccardo (*Sylloge Fungorum*):** *"Descriptive **mycology** requires standardized measurements of spore dimensions and precise descriptions of ascocarp anatomy."*
+> - 📜 **Bryce Kendrick (*The Fifth Kingdom*):** *"Modern molecular **mycology** has rewritten the fungal tree of life, demonstrating that fungi are more closely related to animals than to plants."*

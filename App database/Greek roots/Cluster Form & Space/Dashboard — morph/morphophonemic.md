@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to morphophonemics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to morphophonemics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, involving, or governed by morphophonemics; relating to phonological variations that occur at morpheme boundaries.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In descriptive linguistics, morphophonemic rules account for regular vowel shifts, assimilations, and consonant elisions during word derivation and inflection.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, morphophonemic designates of or relating to morphophonemics."*
+> - 📜 **Noam Chomsky (*The Sound Pattern of English*):** *"Regular vowel alternations in English words like 'divine' and 'divinity' are governed by systematic **morphophonemic** rules."*
+> - 📜 **Zellig Harris (*Methods in Structural Linguistics*):** *"A **morphophonemic** transcription simplifies morphological description by factoring out predictable phonetic conditioning."*
+> - 📜 **Morris Halle (*The Sound Pattern of Russian*):** *"Voicing assimilation across prefix boundaries provides a transparent example of a productive **morphophonemic** process."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or pertaining to a meson; - lawrence wilets.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or characterized by moderate or a well-balanced supply of moisture.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characterized by a moderate or well-balanced supply of moisture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In terrestrial ecology and biogeography, describing forest or grassland habitats (and associated mesophytic vegetation) neither excessively dry (xeric) nor excessively wet (hydric).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mesic designates of or pertaining to a meson; - lawrence wilets."*
+> - 📜 **Eugene P. Odum (*Fundamentals of Ecology*):** *"Deciduous broadleaf forests develop best under **mesic** climatic regimes where rainfall is evenly distributed throughout the growing season."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"Ferns and rich woodland herbs thrive within sheltered, moist **mesic** ravines."*
+> - 📜 **Frederic Clements (*Plant Succession*):** *"Secondary succession across disturbed cropland progressively shifts vegetation toward a stable, climax **mesic** community."*

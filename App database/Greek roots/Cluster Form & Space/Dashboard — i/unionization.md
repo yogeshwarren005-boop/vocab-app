@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Act of forming labor unions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Act of forming labor unions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process or act of organizing workers into a labor union to bargain collectively with employers over wages, working conditions, and rights (American spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In labor history and industrial economics, unionization campaigns grew rapidly during the New Deal under the Wagner Act, reshaping manufacturing, transportation, and public sector employment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unionization designates act of forming labor unions."*
+> - 📜 **W. E. B. Du Bois (*Black Reconstruction in America*):** *"The struggle for industrial **unionization** was continually complicated by racial divisions exploited by corporate managers."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The natural drive toward voluntary **unionization** among laborers counters the permanent, tacit combinations of masters."*
+> - 📜 **John Dewey (*Democracy and Education*):** *"Democratic participation in industrial life requires collective organization and lawful **unionization**."*

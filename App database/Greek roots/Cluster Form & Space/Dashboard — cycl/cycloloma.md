@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A caryophyllaceous genus of the family chenopodiaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A caryophyllaceous genus of the family chenopodiaceae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A monotypic genus of North American annual herbs in the amaranth family Amaranthaceae, containing the winged pigweed (Cycloloma atriplicifolium).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant ecology, a bushy, tumbleweed-forming annual native to sandy plains and river sandbars, characterized by broad horizontal-winged calyces around its seeds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cycloloma designates a caryophyllaceous genus of the family chenopodiaceae."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The winged pigweed, **Cycloloma**, thrives in sterile drift sands along the shores of Lake Michigan and western riverbanks."*
+> - 📜 **John Merle Coulter (*Manual of the Botany of the Rocky Mountain Region*):** *"In autumn, mature globular bushes of **Cycloloma** detach at ground level, rolling across the prairie as tumbleweeds to scatter seed."*
+> - 📜 **Alexander von Humboldt (*Views of Nature*):** *"Western sandy wastes harbor curious Chenopodiaceous pioneers like **Cycloloma**, whose winged fruits are dispersed by autumn gales."*

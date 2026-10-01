@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of circle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of circle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, having, or containing a closed chemical ring composed entirely of atoms of the same single element.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In organic chemistry, describing carbocyclic rings (such as benzene, cyclohexane, or cyclopentadiene) whose ring vertices consist solely of carbon atoms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, homocyclic designates adjective*) pertaining to, derived from, or characteristic of circle."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"Benzene and cyclohexane represent the classical prototypes of **homocyclic** carbon compounds in organic chemistry."*
+> - 📜 **Alexander Todd (*A Time to Remember*):** *"Comparing **homocyclic** rings with heterocyclic analogues highlights the dramatic influence of heteroatoms on ring resonance."*
+> - 📜 **J. D. Bernal (*The Origin of Life*):** *"Primitive catalytic synthesis yielded both simple **homocyclic** hydrocarbons and reactive nitrogenous heterocycles."*

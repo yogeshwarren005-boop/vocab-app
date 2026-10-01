@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Letterpress printing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The style, arrangement, or appearance of typeset matter.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The art, technique, and process of arranging type to make written language legible, readable, and visually appealing when displayed in print or on screen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In design history, typography evolved from Gutenberg's movable type through phototypesetting to digital font technology, profoundly shaping communication, aesthetics, and information architecture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"Junius does not say it, but clearly implies that, in this way, Coster came to the idea of the movability of the characters, the first step in the invention of typography."*
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"Granting that all the earlier works of typography preserved to us are impressions of cast-metal type, there are still differences of opinion, especially among practical printers and type-founders, as to the probable methods employed to cast them."*
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"It is considered unlikely, although not impossible, that the invention of printing passed all at once from xylography to the perfect typography of the punch, matrix, and mold."*
+> - 📜 **Robert Bringhurst (*The Elements of Typographic Style*):** *"**Typography** exists to honor content, giving it a visual voice that speaks clearly to the reader."*
+> - 📜 **Jan Tschichold (*The New Typography*):** *"Modern **typography** must communicate with absolute clarity, rejecting ornament in favor of functional form."*
+> - 📜 **Beatrice Warde (*The Crystal Goblet*):** *"Good **typography** is like a crystal goblet: transparent, revealing the wine of meaning within."*

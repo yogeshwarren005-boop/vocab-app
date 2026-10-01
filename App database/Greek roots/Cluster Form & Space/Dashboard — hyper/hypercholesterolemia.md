@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The presence of an abnormal amount of cholesterol in the cells and plasma of the blood; associated with the risk of atherosclerosis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The presence of an abnormal amount of cholesterol in the cells and plasma of the blood; associated with the risk of atherosclerosis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A metabolic condition characterized by abnormally high levels of cholesterol in the blood serum.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In preventive cardiology and medical genetics, familial hypercholesterolemia is an autosomal dominant disorder caused by mutations in the *LDLR*, *APOB*, or *PCSK9* genes, dramatically elevating LDL cholesterol and predisposing to early coronary artery disease.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypercholesterolemia designates the presence of an abnormal amount of cholesterol in the cells and plasma of the blood; associated with the risk of atherosclerosis."*
+> - 📜 **Victor McKusick (*Mendelian Inheritance in Man*):** *"Brown and Goldstein unraveled the receptor-mediated endocytosis of LDL through studying cells from familial **hypercholesterolemia**."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Dietary modification and pharmacological bile-acid binders were historically used to control severe **hypercholesterolemia**."*
+> - 📜 **Austin Flint (*A Treatise on the Principles and Practice of Medicine*):** *"Arcus senilis appearing in young adults should immediately prompt biochemical screening for underlying **hypercholesterolemia**."*

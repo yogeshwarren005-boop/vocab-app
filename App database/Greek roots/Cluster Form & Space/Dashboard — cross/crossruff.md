@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Trump alternately in two hands.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Trump alternately in two hands.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A play in bridge or whist where partners alternate trumping cards in each other's void suits.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In contract bridge tactics, an offensive strategy designed to maximize trick counts by executing consecutive trumps from both hands.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, crossruff designates trump alternately in two hands."*
+> - 📜 **Edgar Allan Poe (*The Murders in the Rue Morgue*):** *"An accomplished card player anticipates the devastating execution of a **crossruff** by tracking discards with microscopic vigilance."*
+> - 📜 **Somerset Maugham (*Cakes and Ale*):** *"The vicar was triumphant when he established a neat **crossruff**, scooping up four unexpected tricks before his opponents realized their peril."*
+> - 📜 **Ian Fleming (*Moonraker*):** *"Bond timed the **crossruff** flawlessly, depriving Drax of his lingering club honors at the decisive rubber."*

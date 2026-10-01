@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of phalaropidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of phalaropidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A former taxonomic genus of wading birds comprising Wilson's phalarope (*Steganopus tricolor*, now *Phalaropus tricolor*), characterized by lobed toes and reversed sexual dimorphism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In shorebird biology, Wilson's phalarope (*Steganopus*) is famous for rapid spinning on alkaline prairie potholes to create water vortexes that stir up insect larvae.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, steganopus designates a genus of phalaropidae."*
+> - 📜 **John James Audubon (*Birds of America*):** *"Wilson's phalarope, designated **Steganopus** by Vieillot, swims with duck-like ease upon interior prairie sloughs."*
+> - 📜 **Elliott Coues (*Birds of the Colorado Valley*):** *"The delicate lobed margins on the toes of **Steganopus** distinguish it from all typical sandpipers and plovers."*
+> - 📜 **Alexander Wetmore (*Observations on the Habits of Birds of Argentina*):** *"Vast flocks of the **Steganopus** phalarope pause during austral migration on salty Andean lagoons."*

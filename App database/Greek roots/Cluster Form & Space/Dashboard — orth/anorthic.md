@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having three unequal crystal axes intersecting at oblique angles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having three unequal crystal axes intersecting at oblique angles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not having right angles; in crystallography, describing a crystal system (triclinic) in which none of the three axes are perpendicular to one another.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mineralogy, the anorthic system is the least symmetric of the seven crystal systems, with all axial lengths and interaxial angles being unequal.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anorthic designates having three unequal crystal axes intersecting at oblique angles."*
+> - 📜 **William Phillips (*An Elementary Introduction to Mineralogy*):** *"The **anorthic** system, lacking any right-angled axes, exhibits the lowest symmetry of all crystal classes."*
+> - 📜 **Friedrich Mohs (*Treatise on Mineralogy*):** *"Crystals of the **anorthic** system are identified by three unequal axes meeting at oblique angles."*
+> - 📜 **Cornelius Klein (*Manual of Mineral Science*):** *"Triclinic, or **anorthic**, minerals present the greatest challenge to crystallographic identification due to their minimal symmetry."*

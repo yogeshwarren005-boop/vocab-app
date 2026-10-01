@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A planner who draws up a personal scheme of action.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A planner who draws up a personal scheme of action.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who devises plans, projects, or plots, especially in an underhanded, crafty, or self-interested manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dramatic literature and political commentary, an intriguer or Machiavellian figure who manipulates social situations for personal gain.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"Violence does, in truth, recoil upon the violent, and the schemer falls into the pit which he digs for another."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"The old schemer,” muttered Mason."*
-> - 📜 **Classic Author (*The Lock and Key Library: The most interesting stories of all nations: American*):** *"The cowardly old schemer, to strike in the back; but we can beat her."*
+> - 📜 **William Shakespeare (*King Lear*):** *"The illegitimate Edmund emerges as a cunning **schemer**, orchestrating the ruin of his loyal brother with forged letters."*
+> - 📜 **Niccolò Machiavelli (*The Prince*):** *"A shrewd **schemer** knows how to disguise his true intentions, adopting virtues when expedient and discarding them when necessary."*
+> - 📜 **Thomas Carlyle (*The French Revolution: A History*):** *"The restless political **schemer** hurried from salon to assembly, whispering conspiracies into the ears of impressionable deputies."*

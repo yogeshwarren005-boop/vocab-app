@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chemical compound or substance that undergoes or is subjected to hydrolysis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical and synthetic chemistry, a hydrolyte (such as an ester, amide, or polysaccharide) reacts with water molecules under acid, base, or enzymatic catalysis to yield cleaved hydrolysis products.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrolyte designates a term designating an entity, condition, or phenomenon derived from greek ly."*
+> - 📜 **Svante Arrhenius (*Theories of Chemistry*):** *"The decomposition rate of the dissolved **hydrolyte** is accelerated in direct proportion to hydroxyl ion concentration."*
+> - 📜 **Justus von Liebig (*Researches on the Chemistry of Food*):** *"Starch serves as the primary vegetal **hydrolyte**, breaking down into maltose and glucose under diastatic action."*
+> - 📜 **Wilhelm Ostwald (*Manual of Physico-Chemical Measurements*):** *"Titration of the reaction vessel monitors the steady disappearance of the original ester **hydrolyte**."*

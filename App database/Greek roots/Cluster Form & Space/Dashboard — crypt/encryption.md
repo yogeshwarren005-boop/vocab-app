@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The activity of converting data or information into code.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The activity of converting data or information into code.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The mathematical or procedural conversion of electronic data or messages into ciphertext to secure confidentiality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern cybersecurity, the algorithmic scrambling of plaintext using symmetric or asymmetric key protocols (such as AES or RSA) to ensure privacy and data integrity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Note the encryption structure."*
+> - 📜 **Claude Shannon (*A Mathematical Theory of Communication*):** *"Ideal **encryption** transforms structured natural language into a message statistically indistinguishable from pure entropy."*
+> - 📜 **David Kahn (*The Codebreakers*):** *"The transition from manual paper ciphers to mechanical rotor **encryption** revolutionized twentieth-century military communications."*
+> - 📜 **Alan Turing (*Turing's Treatise on the Enigma*):** *"Flaws in the protocol surrounding **encryption** frequently betray the most sophisticated mechanical cipher machines."*

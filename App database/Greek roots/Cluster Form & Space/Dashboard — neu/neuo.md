@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek neu.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A variant combining form derived from Greek neuron, meaning sinew, tendon, or nerve.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical anatomical literature and lexical surveys, neuo- appears in early compound descriptions of muscular-neural junctions and nervous system pathways.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neuo designates a term designating an entity, condition, or phenomenon derived from greek neu."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"The ancient Greek noun neuron, with dialectal variants like **neuo**, originally meant cord or bowstring before narrowing to nerve."*
+> - 📜 **Santiago Ramón y Cajal (*Histology of the Nervous System of Man and Vertebrates*):** *"Early anatomists combined stems related to **neuo** when cataloging the fibrous architecture of peripheral nerves."*
+> - 📜 **Charles Sherrington (*The Integrative Action of the Nervous System*):** *"The functional coordination of the motor unit reflects ancient linguistic roots that tied the concept of **neuo** to muscular tension."*

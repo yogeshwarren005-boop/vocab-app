@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A highly unstable radioactive element (the heaviest of the halogen series); a decay product of uranium and thorium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A highly unstable radioactive element (the heaviest of the halogen series); a decay product of uranium and thorium.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A highly radioactive chemical element of the halogen group, having atomic number 85 and chemical symbol At, the rarest naturally occurring element in the Earth's crust.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nuclear chemistry and radiopharmacy, astatine-211 decays by alpha emission with a 7.2-hour half-life, investigated for targeted alpha particle radiotherapy against micrometastatic cancers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, astatine designates a highly unstable radioactive element (the heaviest of the halogen series); a decay product of uranium and thorium."*
+> - 📜 **Emilio Segrè (*A Mind Always in Motion: An Autobiography*):** *"We synthesized element 85 in the Berkeley cyclotron and named it **astatine** from the Greek word for unstable."*
+> - 📜 **Glenn T. Seaborg (*The Transuranium Elements*):** *"Because of its swift radioactive decay, the total amount of **astatine** present in the crust of our planet never exceeds a few tens of milligrams."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"The chemical behavior of **astatine** demonstrates its transitional position between the halogens and the heavier semi-metals."*

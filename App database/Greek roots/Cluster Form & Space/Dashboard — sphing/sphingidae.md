@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hawkmoths.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hawkmoths.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cosmopolitan taxonomic family of stout-bodied, powerful-flying moths (the hawk moths, sphinx moths, and hornworms).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In lepidopterology, the Sphingidae encompass over 1,400 species displaying aerodynamic flight mechanics, high thoracic flight temperatures, and key roles as nocturnal pollinators.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sphingidae designates hawkmoths."*
+> - 📜 **Alfred Russel Wallace (*Contributions to the Theory of Natural Selection*):** *"The family **Sphingidae** contains some of the swiftest insects known, capable of sustained flight across broad channels."*
+> - 📜 **Charles Darwin (*The Effects of Cross and Self Fertilisation in the Vegetable Kingdom*):** *"Many nocturnal white blossoms depend entirely on members of the **Sphingidae** for genetic outcrossing."*
+> - 📜 **Edward O. Wilson (*The Diversity of Life*):** *"Tropical rain forest canopies harbor a staggering diversity of **Sphingidae**, adapted to specialized floral scents."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make less central.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make less central.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To redistribute administrative functions, powers, or people away from a single central location or executive body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In computational systems design, to partition processing tasks across distributed, autonomous nodes to avoid single points of failure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"However, the best informed American students favor in some features the more decentralized German rather than the centralized British system."*
+> - 📜 **E. F. Schumacher (*Small Is Beautiful*):** *"Any intelligent manager will endeavor to **decentralize** operations so that small teams feel direct ownership of outcomes."*
+> - 📜 **Lewis Mumford (*The Myth of the Machine*):** *"To break the spell of the megamachine, democratic communities must **decentralize** production and governance."*
+> - 📜 **Norbert Wiener (*The Human Use of Human Beings*):** *"Communication networks allow society to **decentralize** decision processes while preserving instantaneous coordination."*

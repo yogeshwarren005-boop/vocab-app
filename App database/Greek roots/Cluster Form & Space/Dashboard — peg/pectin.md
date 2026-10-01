@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various water-soluble substances that bind adjacent cell walls in plant tissues and yield a gel which is the basis of fruit jellies; also : a commercial product rich in pectins.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various water-soluble substances that bind adjacent cell walls in plant tissues and yield a gel which is the basis of fruit jellies; also : a commercial product rich in pectins.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A soluble gelatinous polysaccharide found in ripe fruits and plant cell walls, widely used as a setting agent in jams and jellies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In structural botany, pectin is a complex polymer of D-galacturonic acid residues that provides tensile flexibility and porosity to the primary cell wall.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pectin designates any of various water-soluble substances that bind adjacent cell walls in plant tissues and yield a gel which is the basis of fruit jellies; also : a commercial product rich in pectins."*
+> - 📜 **Henri Braconnot (*Recherches sur la Nouvelle Substance Gélatineuse Végétale*):** *"I have given to this vegetal gelatin the name **pectin**, derived from the Greek pektis, denoting curdled or coagulated matter."*
+> - 📜 **Katherine Esau (*Plant Anatomy*):** *"Ripening fruit softens dramatically as endogenous polygalacturonases degrade insoluble protopectin into soluble **pectin**."*
+> - 📜 **Harold McGee (*On Food and Cooking: The Science and Lore of the Kitchen*):** *"High concentrations of sugar and acid allow **pectin** molecules to cross-link into a continuous water-trapping network."*

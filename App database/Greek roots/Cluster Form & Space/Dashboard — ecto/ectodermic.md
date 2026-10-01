@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the ectoderm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the ectoderm.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Variant of ectodermal; of or relating to the ectoderm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative anatomy and embryological literature, designating structures originating from the outermost embryonic germ layer.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ectodermic designates of or relating to the ectoderm."*
+> - 📜 **Thomas Henry Huxley (*The Oceanic Hydrozoa*):** *"The outer body wall of the medusa consists of an **ectodermic** cellular layer overlying gelatinous mesoglea."*
+> - 📜 **F. M. Balfour (*A Treatise on Comparative Embryology*):** *"The lens of the vertebrate eye arises as an invagination of the overlying **ectodermic** epithelium."*
+> - 📜 **E. B. Wilson (*The Cell in Development and Inheritance*):** *"Cell division planes during early cleavage accurately segregate prospective **ectodermic** determinants."*

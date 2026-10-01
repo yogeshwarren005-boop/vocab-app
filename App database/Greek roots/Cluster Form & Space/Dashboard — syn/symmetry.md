@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Balanced proportions; also : beauty of form arising from balanced proportions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of being symmetrical; especially : correspondence in size, shape, and relative position of parts on opposite sides of a dividing line or median plane or about a center or axis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being made up of exactly similar parts facing each other or arranged around an axis; balanced proportion and harmony.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern physics, Noether's theorem establishes that every continuous differentiable symmetry of the action of a physical system corresponds to a fundamental conservation law.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Since the receipt of the missive in the morning, Boldwood had felt the symmetry of his existence to be slowly getting distorted in the direction of an ideal passion."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"There was, so to speak, that symmetry in their distortion which is less the characteristic of British than of Continental grotesques of the period."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Both are massive enough in all conscience; but there is a certain mathematical symmetry in the Sperm Whale’s which the Right Whale’s sadly lacks."*
+> - 📜 **Emmy Noether (*Invariant Variational Problems*):** *"To every continuous **symmetry** of a physical Lagrangian there corresponds a conserved charge and conservation law."*
+> - 📜 **Albert Einstein (*Relativity: The Special and General Theory*):** *"The laws of physics must display Lorentz **symmetry**, appearing identical in all inertial reference frames."*
+> - 📜 **Hermann Weyl (*Symmetry*):** *"**Symmetry**, as wide or narrow as you may define its meaning, is one idea through which man has tried to comprehend and create order, beauty, and perfection."*

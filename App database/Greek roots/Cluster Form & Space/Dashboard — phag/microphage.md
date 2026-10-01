@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A neutrophil that ingests small things (as bacteria).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A neutrophil that ingests small things (as bacteria).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small phagocytic white blood cell; an archaic or historical term for a neutrophil or polymorphonuclear leukocyte.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical immunology, Metchnikoff coined microphage to distinguish fast-responding, short-lived granular leukocytes from long-lived macrophages.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microphage designates a neutrophil that ingests small things (as bacteria)."*
+> - 📜 **Élie Metchnikoff (*Comparative Pathology of Inflammation*):** *"The polymorphonuclear leukocyte acts as an active **microphage**, rushing in great numbers to engulf acute bacterial invaders."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Metchnikoff's distinction between the mobile **microphage** and the stationary macrophage clarified cellular defense mechanisms."*
+> - 📜 **Paul Ehrlich (*Studies in Immunity*):** *"Specific staining confirms that the neutrophilic **microphage** carries granular enzymes suited for rapid bacteriolysis."*

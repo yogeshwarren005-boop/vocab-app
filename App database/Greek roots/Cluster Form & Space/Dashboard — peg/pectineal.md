@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the pubis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the pubis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to the pecten of the pubic bone; comb-shaped or relating to the pectineus muscle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human musculoskeletal anatomy, the pectineal line (pecten pubis) serves as the insertion ridge for the pectineus muscle and the pectineal ligament (of Cooper).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pectineal designates of or relating to the pubis."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"The **pectineal** line of the pubis forms a sharp crest bounding the pelvic brim and giving attachment to the lacunar ligament."*
+> - 📜 **John Hunter (*Treatise on the Blood, Inflammation, and Gun-shot Wounds*):** *"Fascia covering the femoral triangle blends seamlessly into the **pectineal** fascia overlying the pubic ramus."*
+> - 📜 **Frank H. Netter (*Atlas of Human Anatomy*):** *"The femoral nerve branches supply the pectineus muscle along its deep **pectineal** surface."*

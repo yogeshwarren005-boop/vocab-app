@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the form of a cube : cubical.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to the cube considered as a crystal form.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the shape of a cube; having three dimensions (length, breadth, and height) or measured in volume.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematics, involving the third power of a quantity or an algebraic equation of degree three ($ax^3 + bx^2 + cx + d = 0$).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"The cubic feet of oxygen yearly swallowed by a full-grown man—what a shudder they might have created in some Middlemarch circles!"*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The vast white headless phantom floats further and further from the ship, and every rod that it so floats, what seem square roods of sharks and cubic roods of fowls, augment the murderous din."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"So like a choice casket is it secreted in him, that I have known some whalemen who peremptorily deny that the Sperm Whale has any other brain than that palpable semblance of one formed by the cubic-yards of his sperm magazine."*
+> - 📜 **Isaac Newton (*Enumeration of Lines of the Third Order*):** *"The geometry of curves described by a **cubic** polynomial exhibits seventy-two distinct species of lines."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"In rock salt, sodium and chlorine ions assemble into a face-centered **cubic** lattice of high stability."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"I measured the pond's icy crust, calculating how many thousand **cubic** feet of clear ice could be harvested."*

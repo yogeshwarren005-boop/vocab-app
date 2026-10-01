@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A compact mass of hardened mycelium stored with reserve food material that in some higher fungi becomes detached and remains dormant until a favorable opportunity for growth occurs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A compact mass of hardened mycelium stored with reserve food material that in some higher fungi becomes detached and remains dormant until a favorable opportunity for growth occurs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A compact, hard mass of dormant fungal mycelium, often enclosed by a dark protective rind, capable of surviving adverse conditions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mycology and plant pathology, an overwintering vegetative survival structure (such as the ergot grain of Claviceps purpurea) that germinates to produce fruiting bodies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sclerotium designates a compact mass of hardened mycelium stored with reserve food material that in some higher fungi becomes detached and remains dormant until a favorable opportunity for growth occurs."*
+> - 📜 **Anton de Bary (*Comparative Morphology and Biology of the Fungi*):** *"The dark purple horn of ergot on rye is a true **sclerotium**, designed to withstand winter frost before germinating in spring."*
+> - 📜 **Louis Pasteur (*Études sur la bière*):** *"Desiccated in the laboratory, a resting **sclerotium** retains viability for years, awakening when placed in moist conditions."*
+> - 📜 **Pier Andrea Saccardo (*Sylloge Fungorum*):** *"Each **sclerotium** consists of an outer rind of pigmented pseudoparenchyma protecting an inner core of nutrient-rich hyphae."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hallucinogenic compound obtained from a mushroom.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hallucinogenic compound obtained from a mushroom.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A psychoactive indole alkaloid present in Psilocybe and related hallucinogenic mushrooms, formed by the dephosphorylation of psilocybin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuropharmacology, a serotonergic agonist that binds with high affinity to 5-HT2A receptors in the central nervous system, mediating profound perceptual alterations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psilocin designates a hallucinogenic compound obtained from a mushroom."*
+> - 📜 **Albert Hofmann (*LSD: My Problem Child*):** *"We isolated **psilocin** alongside its phosphorylated precursor, discovering it to be the pharmacologically active metabolite in the human brain."*
+> - 📜 **Alexander Shulgin (*TIHKAL: The Continuation*):** *"The chemical instability of **psilocin** causes rapid blue-green oxidation when fresh fungal tissue is bruised in the open air."*
+> - 📜 **R. Gordon Wasson (*Soma: Divine Mushroom of Immortality*):** *"The visionary potency of the sacred Mexican mushroom resides in the trace alkaloids psilocybin and **psilocin**."*

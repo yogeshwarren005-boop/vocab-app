@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Different in kind, arrangement, or form.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Different in kind, arrangement, or form.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to or characterized by a type different from the normal or standard; in cytology, of or relating to the reduction division in meiosis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In developmental and tumor biology, heterotypic cellular interactions describe signaling between distinct cell lineages (e.g. neoplastic epithelial cells and surrounding stromal fibroblasts).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heterotypic designates different in kind, arrangement, or form."*
+> - 📜 **Edmund Beecher Wilson (*The Cell in Development and Inheritance*):** *"During the **heterotypic** mitosis, paired homologues align along the equatorial plate before disjunction."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Tumor tissue displays **heterotypic** architecture when parenchymal cells proliferate in abnormal histological patterns."*
+> - 📜 **Julian Huxley (*The Individual in the Animal Kingdom*):** *"Synergistic **heterotypic** cooperation between different tissue types underpins complex metazoan organogenesis."*

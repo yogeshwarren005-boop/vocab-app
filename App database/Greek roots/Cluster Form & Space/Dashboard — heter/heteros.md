@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Heterosexual.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Heterosexual.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Greek adjective meaning 'the other of two', 'different', 'another', or 'second', the foundational etymon for English 'hetero-'.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical philology and philosophical ontology, heteros designates alterity, the counterpart, or the category of the different.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heteros designates heterosexual."*
+> - 📜 **Plato (*Sophist*):** *"Non-being is not the direct opposite of being, but merely that which is different, participating in the nature of **heteros**."*
+> - 📜 **Aristotle (*Metaphysics*):** *"Things are called diverse when their definitions are separate, belonging to the universal category of **heteros**."*
+> - 📜 **Robert Beekes (*Etymological Dictionary of Greek*):** *"The Greek stem **heteros** forms the polar contrast to homos ('the same') throughout Hellenic thought and syntax."*

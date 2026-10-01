@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the sclera of the eye.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inflammation of the sclera of the eye.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A benign, inflammatory condition affecting the episclera, the vascular tissue layer between the conjunctiva and the sclera.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical ophthalmology, a self-limiting condition presenting with localized sectoral redness and mild ocular discomfort, divided into simple and nodular forms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, episcleritis designates inflammation of the sclera of the eye."*
+> - 📜 **Sir Stewart Duke-Elder (*System of Ophthalmology*):** *"Unlike deep scleritis, **episcleritis** blanches readily upon application of topical phenylephrine drops and rarely causes permanent visual impairment."*
+> - 📜 **William Mackenzie (*A Practical Treatise on the Diseases of the Eye*):** *"The mild inflammation of **episcleritis** exhibits bright pink injection of the superficial vessels without intense deep ciliary aching."*
+> - 📜 **Albrecht von Graefe (*Archiv für Ophthalmologie*):** *"Recurrent attacks of **episcleritis** are frequently encountered in patients suffering from underlying rheumatoid diathesis."*

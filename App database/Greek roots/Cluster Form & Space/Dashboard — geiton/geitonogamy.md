@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek geiton.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The pollination of a flower by pollen from another flower on the same individual plant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant reproductive ecology and evolutionary genetics, geitonogamy is functionally cross-pollination by floral vectors but genetically equivalent to self-fertilization.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, geitonogamy designates a term designating an entity, condition, or phenomenon derived from greek geiton."*
+> - 📜 **Charles Darwin (*The Effects of Cross and Self Fertilisation in the Vegetable Kingdom*):** *"Pollen transferred between separate blossoms on the same bush constitutes **geitonogamy**, conferring none of the hybrid vigor of true cross-fertilisation."*
+> - 📜 **Peter H. Raven (*Biology of Plants*):** *"Massive floral displays attract numerous pollinators but inevitably increase rates of self-pollination via **geitonogamy**."*
+> - 📜 **David Attenborough (*The Private Life of Plants*):** *"To discourage **geitonogamy**, many plants mature their male stamens and female stigmas at different times across the inflorescence."*

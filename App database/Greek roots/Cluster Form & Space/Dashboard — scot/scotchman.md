@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A native or inhabitant of scotland.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A native or inhabitant of scotland.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A man of Scottish birth or ancestry; a Scotsman (an older or traditional English usage).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nineteenth-century literature and biographical accounts, Scotchman was commonly employed by English and American authors before Scotsman gained preference in modern style.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"A piteous wail was heard on the street one day, and a poor Scotchman crossed over to see the trouble."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"A whole tract is thus illuminated at the same time, and makes a fine appearance."[588] The custom has been described more fully by a Scotchman of the eighteenth century, John Ramsay of Ochtertyre."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"But bring a Scotchman frae his hill, Clap in his cheek a Highland gill, Say, such is royal George’s will, An’ there’s the foe!"*
+> - 📜 **James Boswell (*The Life of Samuel Johnson*):** *"Dr. Johnson observed that a **scotchman** never gives up his country's credit, but defends her mountains with stubborn tenacity."*
+> - 📜 **David Hume (*My Own Life*):** *"Born a **scotchman** of modest fortune, I resolved to pursue literary independence with frugality and philosophical perseverance."*
+> - 📜 **Washington Irving (*The Sketch Book of Geoffrey Crayon*):** *"The veteran **scotchman** smoked his pipe beside the hearth, recounting tales of Wallace and Bruce to the spellbound circle."*

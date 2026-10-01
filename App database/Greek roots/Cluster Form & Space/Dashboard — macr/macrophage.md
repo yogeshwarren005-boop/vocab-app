@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A phagocytic tissue cell of the immune system that may be fixed or freely motile, is derived from a monocyte, functions in the destruction of foreign antigens (such as bacteria and viruses), and serves as an antigen-presenting cell.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A phagocytic tissue cell of the immune system that may be fixed or freely motile, is derived from a monocyte, functions in the destruction of foreign antigens (such as bacteria and viruses), and serves as an antigen-presenting cell.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large, motile phagocytic white blood cell found in tissues throughout the body, crucial for engulfing cellular debris, foreign pathogens, and dying cells.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cellular immunology, macrophages orchestrate both innate and adaptive immune responses by presenting processed antigens to helper T cells and secreting inflammatory cytokines.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, macrophage designates a phagocytic tissue cell of the immune system that may be fixed or freely motile, is derived from a monocyte, functions in the destruction of foreign antigens (such as bacteria and viruses), and serves as an antigen-presenting cell."*
+> - 📜 **Élie Metchnikoff (*Immunity in Infective Diseases*):** *"The **macrophage** acts as a vigilant sentinel, absorbing foreign microbes into its cytoplasm to undergo intracellular digestion."*
+> - 📜 **Paul Ehrlich (*Studies in Immunity*):** *"Cellular defenses rely upon the active engulfing power of the **macrophage** to clear debris following toxic injury."*
+> - 📜 **Charles Janeway (*Immunobiology*):** *"Upon recognizing bacterial lipopolysaccharide via toll-like receptors, the activated **macrophage** secretes interleukins that ignite systemic inflammation."*

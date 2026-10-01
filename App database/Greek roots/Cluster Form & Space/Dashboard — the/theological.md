@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or concerning theology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or concerning theology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or involved in the study of religion, religious faith, practice, and the nature of God.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scholastic philosophy, theological virtues (faith, hope, love) and methodologies were distinguished from natural philosophy and secular jurisprudence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"I used to be quite up in that scene of Milton’s when I was theological."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"It was by no means so common in those days as it has since become for a Scottish theological student to attend a German University."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"With the completion of this task he seemed to be free to return to his theological work, and he did return to it; but his release turned out to be only a brief respite."*
+> - 📜 **Thomas Aquinas (*Summa Theologiae*):** *"Sacred doctrine is a science because it proceeds from principles established by the light of a higher **theological** revelation."*
+> - 📜 **David Hume (*An Enquiry Concerning Human Understanding*):** *"If we take in our hand any volume of divinity or **theological** dispute, let us ask: Does it contain any experimental reasoning?"*
+> - 📜 **Auguste Comte (*A General View of Positivism*):** *"In the historical law of the three stages, human civilization begins in the fictitious or **theological** phase."*

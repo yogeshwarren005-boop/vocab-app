@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek tem.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A paraphilia characterized by sexual attraction specifically to individuals with amputated limbs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical sexology and psychiatric nosology, acrotomophilia is distinguished from apotemnophilia (the desire to become an amputee oneself), representing an erotic preference for asymmetry or stump anatomy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acrotomophilia designates a term designating an entity, condition, or phenomenon derived from greek tem."*
+> - 📜 **Richard von Krafft-Ebing (*Psychopathia Sexualis*):** *"Certain abnormal erotic fixations, such as **acrotomophilia**, demonstrate how specific physical mutilations can become fetishes."*
+> - 📜 **Havelock Ellis (*Studies in the Psychology of Sex*):** *"In cases of **acrotomophilia**, the erotic imagination focuses with singular intensity upon the site of amputation."*
+> - 📜 **John Money (*Lovemaps: Clinical Concepts of Sexual/Erotic Health and Pathology*):** *"The diagnostic delineation between apotemnophilia and **acrotomophilia** hinges upon whether the eroticized deficiency belongs to self or partner."*

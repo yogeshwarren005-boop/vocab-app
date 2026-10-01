@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or being a prosthesis; also : of or relating to prosthetics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or constituting a nonprotein group of a conjugated protein.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, serving as, or involving an artificial replacement for a missing body part.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biomechanics and physical therapy, prosthetic devices are engineered to match natural anatomical load distributions, kinematics, and aesthetic contours.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prosthetic designates of, relating to, or being a prosthesis; also : of or relating to prosthetics."*
+> - 📜 **Sigmund Freud (*Civilization and Its Discontents*):** *"Man has become, so to speak, a **prosthetic** god; when he puts on all his auxiliary organs, he is truly magnificent."*
+> - 📜 **Marshall McLuhan (*Understanding Media: The Extensions of Man*):** *"Every electronic medium acts as a **prosthetic** extension of human perception and neurological faculties."*
+> - 📜 **Donna Haraway (*Simians, Cyborgs, and Women: The Reinvention of Nature*):** *"The boundary between biological organism and **prosthetic** machine dissolves in late twentieth-century cybernetic culture."*

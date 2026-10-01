@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek scot.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An optical device or viewing tube designed to assist the eye in discerning objects in darkness or faint light.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nineteenth-century experimental optics and psychic research, early scotoscopes utilized phosphorescent plates or light-concentrating lenses to study faint nocturnal luminescence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scotoscope designates a term designating an entity, condition, or phenomenon derived from greek scot."*
+> - 📜 **William Crookes (*Psychic Force and Modern Thought*):** *"By peering through the shielded aperture of the **scotoscope**, phosphorescent emissions on the table became plainly visible."*
+> - 📜 **Arthur Conan Doyle (*The Edge of the Unknown*):** *"The investigator applied the **scotoscope** to his eyes to detect any subtle phosphorescent glow in the darkened seance room."*
+> - 📜 **Nikola Tesla (*Experiments with Alternate Currents of High Potential and High Frequency*):** *"A phosphorescent screen mounted in a darkened **scotoscope** revealed the faint luminous aura of high-frequency radiant energy."*

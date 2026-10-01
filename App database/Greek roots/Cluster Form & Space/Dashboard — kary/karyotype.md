@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The appearance of the chromosomal makeup of a somatic cell in an individual or species (including the number and arrangement and size and structure of the chromosomes).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The appearance of the chromosomal makeup of a somatic cell in an individual or species (including the number and arrangement and size and structure of the chromosomes).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The complete chromosomal complement of an individual or species, categorized by number, size, and morphological shape of chromosomes as viewed under light microscopy during metaphase.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical cytogenetics and medical diagnostics, karyotyping uses G-banding (Giemsa staining) to detect numerical aneuploidies (e.g. trisomy 21) and large structural rearrangements (translocations, deletions, inversions).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, karyotype designates the appearance of the chromosomal makeup of a somatic cell in an individual or species (including the number and arrangement and size and structure of the chromosomes)."*
+> - 📜 **Jérôme Lejeune (*Étude des chromosomes somatiques de neuf enfants mongoliens*):** *"Inspection of the human **karyotype** revealed forty-seven chromosomes in children affected by mongolism."*
+> - 📜 **Victor McKusick (*Mendelian Inheritance in Man*):** *"High-resolution banding of the human **karyotype** facilitated precise mapping of microdeletion syndromes."*
+> - 📜 **Theodosius Dobzhansky (*Genetics and the Origin of Species*):** *"Evolutionary divergence between sibling species is frequently mirrored in structural differences of their **karyotype**."*

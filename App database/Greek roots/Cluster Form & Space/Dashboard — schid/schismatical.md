@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or involved in or characteristic of schism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or involved in or characteristic of schism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, of the nature of, or tending toward schism; divisive or factious (variant of schismatic).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In church history and political rhetoric, characterizing factions that disrupt institutional consensus and doctrinal unity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, schismatical designates of or relating to or involved in or characteristic of schism."*
+> - 📜 **Richard Hooker (*Of the Lawes of Ecclesiasticall Politie*):** *"To separate from the public assembly over indifferent ceremonies is a dangerous and **schismatical** procedure."*
+> - 📜 **Samuel Johnson (*Lives of the Most Eminent English Poets*):** *"He defended his refusal to subscribe to the test oaths without harboring any **schismatical** hostility toward the crown."*
+> - 📜 **Jeremy Taylor (*Holy Living and Holy Dying*):** *"Avoid contentious and **schismatical** disputes that kindle uncharitable fires while chilling the inward warmth of piety."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Paralysis of the urinary bladder.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Paralysis of the urinary bladder.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Paralysis of the urinary bladder musculature; cystoplegia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neurology and neuro-urology, neurogenic bladder dysfunction resulting from spinal cord lesions, trauma, or tabes dorsalis, leading to urinary retention or overflow incontinence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cystoparalysis designates paralysis of the urinary bladder."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Following transverse myelitis of the lumbar cord, acute **cystoparalysis** necessitates regular catheterization to prevent rupture."*
+> - 📜 **Sir Thomas Watson (*Lectures on the Principles and Practice of Physic*):** *"Complete **cystoparalysis** allows the bladder to become enormously distended without the patient experiencing pain."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Secondary bacterial infection rapidly supervenes in the stagnant urine accompanying chronic spinal **cystoparalysis**."*

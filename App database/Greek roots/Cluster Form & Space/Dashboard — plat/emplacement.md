@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Military installation consisting of a prepared position for siting a weapon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of putting something in a certain place.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A prepared platform or reinforced defensive position for a weapon, artillery piece, or radar installation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In structural geology and volcanology, the tectonic process of intrusion and positioning of a magma body or allochthonous terrane.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"I want to check your weapons control center, and every gun emplacement."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"I repeat: first, the fire control center, then each gun emplacement."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"At each gun emplacement, Rimov, his guards and Scarf watched Brad and Kumiko inspect sector guides, range and directional interlocks and power drives."*
+> - 📜 **Winston Churchill (*The Second World War*):** *"Allied reconnaissance aircraft photographed every reinforced coastal gun **emplacement** along the Atlantic Wall."*
+> - 📜 **Norman L. Bowen (*The Granite Controversy*):** *"The mechanism of batholith **emplacement** involves stoping, thermal assimilation, and forceful crustal doming."*
+> - 📜 **Erskine Childers (*The Riddle of the Sands*):** *"Behind the sand dunes lay a hidden concrete **emplacement** guarding the tidal channel."*

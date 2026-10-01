@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a dichotomous manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a dichotomous manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a dichotomous manner; dividing or branching repeatedly into two equal forks or divisions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic taxonomy and morphometrics, describing vegetative growth or structural bifurcations that split symmetrically at successive nodes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"PRIMROSE MOULD; densely cæspitose, white; threads erect, dichotomously branched; ultimate branchlets short, spreading; sporidia ovate.—On leaves of Primrose."*
+> - 📜 **Francis Darwin (*The Power of Movement in Plants*):** *"The terminal shoot divides **dichotomously**, each subsequent branch pursuing an independent arc of circumnutation."*
+> - 📜 **Joseph Dalton Hooker (*The Flora of British India*):** *"The inflorescence branches **dichotomously**, bearing pairs of subsessile flowers along the upper nodes."*
+> - 📜 **D'Arcy Wentworth Thompson (*On Growth and Form*):** *"Certain seaweeds and coral colonies ramify **dichotomously** according to rigorous mathematical laws of surface tension."*

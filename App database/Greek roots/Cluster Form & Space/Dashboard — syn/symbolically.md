@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a symbolic manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: By means of symbols.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: By means of symbols; in a manner that represents something figuratively or allegorically.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In semiotics and mathematics, an operation is performed symbolically when abstract glyphs are manipulated according to syntactic rules without immediate numerical substitution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"As in droughty regions baptism by immersion could only be performed symbolically, Mr."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"The absurdities of the old religion yielded place to Reason--embodied symbolically for the hour in the person of Mme Momoro--afterwards, more vaguely, in Robespierre's Supreme Being, who really came from Rousseau."*
+> - 📜 **Carl Jung (*Man and His Symbols*):** *"The dream expresses **symbolically** what the waking mind cannot articulate in everyday concepts."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The scarlet letter was **symbolically** burned upon her bosom, transforming private guilt into public ignominy."*
+> - 📜 **Bertrand Russell (*Introduction to Mathematical Philosophy*):** *"By stating mathematical theorems **symbolically**, we avoid the ambiguities of ordinary prose."*

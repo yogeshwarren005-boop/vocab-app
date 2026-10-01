@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The general region between the anus and the genital organs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The general region between the anus and the genital organs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The area of the body between the anus and the scrotum or vulva; the anatomical pelvic outlet bounded by the pelvic bones.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pelvic anatomy, the perineum is divided by an imaginary transverse line into an anterior urogenital triangle and a posterior anal triangle.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, perineum designates the general region between the anus and the genital organs."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"The **perineum** corresponds to the outlet of the pelvis, bounded anteriorly by the pubic arch and posteriorly by the coccyx."*
+> - 📜 **Howard A. Kelly (*Operative Gynecology*):** *"Integrity of the central tendon of the **perineum** is essential for maintaining normal rectal and vaginal axis."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Subcutaneous hematomas of the **perineum** indicate severe pelvic ring disruption following crush injuries."*

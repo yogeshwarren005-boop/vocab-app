@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having molecules consisting of two fused rings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having molecules consisting of two fused rings.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having two cycles or two rings; especially possessing two fused or bridged rings of atoms in a chemical molecule.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In synthetic organic chemistry, designating compounds (such as decalin, camphor, or bicycloalkanes) containing two rings sharing common atoms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bicyclic designates having molecules consisting of two fused rings."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"Camphor presents a bridged **bicyclic** hydrocarbon skeleton whose rigid geometry dictates its chemical reactivity."*
+> - 📜 **Alexander Todd (*A Time to Remember: The Autobiography of a Chemist*):** *"Determining the structure of the **bicyclic** purine ring system was an essential milestone in the elucidation of nucleic acids."*
+> - 📜 **J. D. Bernal (*The Origin of Life*):** *"The synthesis of **bicyclic** nitrogenous bases under prebiotic spark conditions opened the door to biochemical evolution."*

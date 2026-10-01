@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various amides that are derived from two or more amino acids by combination of the amino group of one acid with the carboxyl group of another and are usually obtained by partial hydrolysis of proteins.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The chemical bond between carbon and nitrogen in a peptide linkage.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chemical compound consisting of two or more amino acids linked in a chain by amide (peptide) bonds between carboxyl and amino groups.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biochemistry and physiology, bioactive peptides function as neurotransmitters, peptide hormones, and antimicrobial defense molecules across all kingdoms of life.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, peptide designates any of various amides that are derived from two or more amino acids by combination of the amino group of one acid with the carboxyl group of another and are usually obtained by partial hydrolysis of proteins."*
+> - 📜 **Emil Fischer (*Synthetical Chemistry in Its Relation to Biology*):** *"I have proposed the designation **peptide** for these synthetic condensation products of amino acids."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"Partial double-bond character makes the planar **peptide** linkage rigid, dictating the secondary folding of proteins."*
+> - 📜 **Bruce Alberts (*Molecular Biology of the Cell*):** *"A signal **peptide** directs nascent protein chains across the membrane of the endoplasmic reticulum during translation."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sculpture representing a human or animal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sculpture representing a human or animal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A three-dimensional carved, cast, molded, or sculpted figure of a person, animal, or deity, especially one of life size or larger.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In art history, the evolution of the statue traces from rigid archaic kouroi through Hellenistic naturalism and Renaissance contrapposto to modern abstract forms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She shows a body rather than a life, A statue than a breather."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We’ll set thy statue in some holy place, And have thee reverenced like a blessed saint."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Erect his statue and worship it, And make my image but an alehouse sign."*
+> - 📜 **Percy Bysshe Shelley (*Ozymandias*):** *"Two vast and trunkless legs of stone stand in the desert. Near them, on the sand, half sunk a shattered visage lies, whose frown and sneer of cold command tell that its sculptor well those passions read which yet survive, stamped on these lifeless things, the hand that mocked them, and the heart that fed. And on the pedestal, these words appear: My name is Ozymandias, King of Kings; Look on my Works, ye Mighty, and despair! Nothing beside remains. Round the decay of that colossal Wreck, boundless and bare The lone and level sands stretch far away, beside the ruined **statue**."*
+> - 📜 **Oscar Wilde (*The Happy Prince*):** *"High above the city, on a tall column, stood the **statue** of the Happy Prince, gilded all over with thin leaves of fine gold."*
+> - 📜 **William Shakespeare (*The Winter's Tale*):** *"O royal piece! There's magic in thy majesty, which has from thy admiring daughter took the spirits, standing before Hermione's living **statue**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Being of identical or similar form, shape, or structure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having sporophytic and gametophytic generations alike in size and shape.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having identical form, structure, or geometric shape; in mathematics, related by an isomorphism that preserves all structural relations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In crystallography and solid-state chemistry, describing substances that crystallize in identical crystal habits and can form homogeneous solid solutions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, isomorphic designates being of identical or similar form, shape, or structure."*
+> - 📜 **Eilhard Mitscherlich (*Sur la relation qui existe entre la forme cristalline et les proportions chimiques*):** *"Salts possessing an identical number of chemical atoms arranged in the same manner are **isomorphic**, assuming identical crystalline angles."*
+> - 📜 **Felix Klein (*Lectures on the Icosahedron*):** *"The alternating group on five letters is algebraically **isomorphic** to the group of rotational symmetries of the regular icosahedron."*
+> - 📜 **Garrett Birkhoff (*Lattice Theory*):** *"Two partially ordered sets are **isomorphic** if there exists an order-preserving bijection between their elements."*

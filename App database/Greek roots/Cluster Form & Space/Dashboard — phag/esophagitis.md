@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the esophagus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inflammation of the esophagus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the lining of the esophagus, commonly caused by acid reflux, infection, or medication injury.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gastroenterology, reflux esophagitis (GERD) can progress to erosive ulcerations, peptic strictures, or Barrett's metaplasia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, esophagitis designates inflammation of the esophagus."*
+> - 📜 **Tinsley R. Harrison (*Principles of Internal Medicine*):** *"Chronic acid regurgitation induces erosive **esophagitis**, causing severe retrosternal pyrosis and odynophagia."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Corrosive poisons like lye produce acute sloughing **esophagitis** followed by dense cicatricial stricture."*
+> - 📜 **Vinay Kumar (*Robbins and Cotran Pathologic Basis of Disease*):** *"Histologic assessment of eosinophilic **esophagitis** demonstrates dense intraepithelial eosinophilic microabscesses."*

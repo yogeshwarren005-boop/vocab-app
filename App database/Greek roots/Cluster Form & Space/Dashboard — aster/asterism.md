@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (mineralogy) a star-shaped figure with six rays that is seen in some crystal structures under reflected or transmitted light.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (astronomy) a cluster of stars (or a small constellation).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A prominent pattern or group of stars forming a recognized picture within or across constellations (such as the Big Dipper); or a six-rayed star pattern in minerals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gemology, the optical star phenomenon produced by reflected light from oriented microscopic needle-like mineral inclusions in gemstones.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, asterism designates (mineralogy) a star-shaped figure with six rays that is seen in some crystal structures under reflected or transmitted light."*
+> - 📜 **John Herschel (*Outlines of Astronomy*):** *"The Belt of Orion constitutes an **asterism** so brilliant and symmetrical that no human culture has failed to notice it."*
+> - 📜 **James Dwight Dana (*A System of Mineralogy*):** *"The beautiful phenomenon of **asterism** seen in star sapphires results from fine inclusions of rutile intersecting at sixty degrees."*
+> - 📜 **Alexander von Humboldt (*Cosmos: A Sketch of a Physical Description of the Universe*):** *"Every sailor in equatorial waters steers by that glorious southern **asterism**, the Southern Cross."*

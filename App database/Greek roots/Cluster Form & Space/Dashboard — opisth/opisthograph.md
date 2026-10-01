@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek opisth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A manuscript, scroll, or tablet that has been written on both sides, utilizing both the front (recto) and back (verso) surfaces for text.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In papyrology, an opisthograph often indicates the reuse of a scroll or economic use of writing material, and the verso text may be unrelated to the recto.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, opisthograph designates a term designating an entity, condition, or phenomenon derived from greek opisth."*
+> - 📜 **Frederic G. Kenyon (*Books and Readers in Ancient Greece and Rome*):** *"An **opisthograph** roll was sometimes produced when the verso was needed for a second, often unrelated, text."*
+> - 📜 **Eric Turner (*Greek Papyri: An Introduction*):** *"The presence of an **opisthograph** suggests either scribal economy or the secondary reuse of an existing roll."*
+> - 📜 **William A. Johnson (*Bookrolls and Scribes in Oxyrhynchus*):** *"Documentary **opisthograph** papyri from Oxyrhynchus reveal the daily business of the ancient town on their versos."*

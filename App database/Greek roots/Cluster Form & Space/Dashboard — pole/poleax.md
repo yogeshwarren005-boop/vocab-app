@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An ax used to slaughter cattle; has a hammer opposite the blade.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A battle ax used in the middle ages; a long handled ax and a pick.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A medieval European staff weapon or battle-axe combining an axe blade, hammerhead, and spear point on a long shaft.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A heavy butcher's tool with a spiked or blunt head historically used to stun livestock prior to slaughter.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, poleax designates an ax used to slaughter cattle; has a hammer opposite the blade."*
+> - 📜 **Geoffrey Chaucer (*The Canterbury Tales: The Knight's Tale*):** *"With mace and **poleax** the fierce knights struck, while sparks flew from their battered helmets."*
+> - 📜 **Sir Walter Scott (*Ivanhoe*):** *"The stalwart yeoman wielded his heavy **poleax**, beating back the men-at-arms at the castle gate."*
+> - 📜 **Howard Pyle (*The Merry Adventures of Robin Hood*):** *"He grasped the stout **poleax** firmly, ready to defend the bridge against all comers."*

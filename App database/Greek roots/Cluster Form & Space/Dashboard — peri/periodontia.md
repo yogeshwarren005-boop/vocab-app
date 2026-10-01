@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of dentistry dealing with diseases of the gums and other structures around the teeth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of dentistry dealing with diseases of the gums and other structures around the teeth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The tissues surrounding and supporting the teeth, including the gingiva, periodontal ligament, cementum, and alveolar bone; or an alternative term for periodontics.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dental nomenclature, the anatomical and functional complex that secures teeth within the jaws.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, periodontia designates the branch of dentistry dealing with diseases of the gums and other structures around the teeth."*
+> - 📜 **G. V. Black (*Special Dental Pathology*):** *"Diseases of the **periodontia** begin at the gingival margin and progressively destroy the deep investing tissues."*
+> - 📜 **Calvin S. Case (*Dental Orthopedia*):** *"The physiological resilience of the **periodontia** permits mechanical repositioning without devitalizing the pulp."*
+> - 📜 **Fermín A. Carranza (*Carranza's Clinical Periodontology*):** *"Chronic inflammatory breakdown of the **periodontia** results in progressive mobility and tooth migration."*

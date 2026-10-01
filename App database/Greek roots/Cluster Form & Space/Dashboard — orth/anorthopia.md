@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Distorted vision in which straight lines appear curved.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Distorted vision in which straight lines appear curved.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A visual defect in which straight lines appear curved or distorted, or in which objects are perceived as tilted or obliquely positioned.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ophthalmology, anorthopia is associated with retinal disorders, macular degeneration, or astigmatism that alters the spatial mapping of visual stimuli on the retina.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anorthopia designates distorted vision in which straight lines appear curved."*
+> - 📜 **Albrecht von Graefe (*Archiv fur Ophthalmologie*):** *"The patient's **anorthopia** caused straight edges to appear wavy, suggesting macular involvement."*
+> - 📜 **Hermann von Helmholtz (*Handbuch der physiologischen Optik*):** *"**Anorthopia** may result from irregular refraction or from disturbances in the retinal receptor mosaic."*
+> - 📜 **Duke-Elder (*System of Ophthalmology*):** *"Metamorphopsia and **anorthopia** are characteristic complaints in early macular degeneration."*

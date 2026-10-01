@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The apparent surface of the heavens of which half forms the dome of the visible sky.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of the concentric and eccentric revolving spherical transparent shells in which according to ancient astronomy stars, sun, planets, and moon are set.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A round solid figure in three dimensions with every point on its surface equidistant from the center; also a field, area, or domain of activity, interest, or influence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical astronomy, celestial spheres were transparent concentric shells revolving about the Earth; in geopolitics, a 'sphere of influence' denotes an area of political control.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In his bright radiance and collateral light Must I be comforted, not in his sphere."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To be called into a huge sphere, and not to be seen to move in ’t, are the holes where eyes should be, which pitifully disaster the cheeks."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O sun, Burn the great sphere thou mov’st in!"*
+> - 📜 **Archimedes (*On the Sphere and Cylinder*):** *"The surface of any **sphere** is equal to four times the area of its greatest circle, and its volume is two-thirds that of the circumscribing cylinder."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Ring out, ye crystal **sphere**s! Once bless our human ears, if ye have power to touch our senses so."*
+> - 📜 **Ralph Waldo Emerson (*Circles*):** *"The eye is the first circle; the horizon which it forms is the second; and throughout nature this primary figure is repeated into a universal **sphere**."*

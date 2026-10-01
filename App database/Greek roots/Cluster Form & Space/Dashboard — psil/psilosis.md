@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek psil.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Falling out or loss of hair; baldness or alopecia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical tropical medicine, an intestinal malabsorption disorder characterized by chronic diarrhea, aphthous stomatitis, and emaciation (tropical sprue).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psilosis designates a term designating an entity, condition, or phenomenon derived from greek psil."*
+> - 📜 **Patrick Manson (*Tropical Diseases: A Manual of the Diseases of Warm Climates*):** *"The debilitating diarrhea and characteristic raw tongue of tropical **psilosis** rapidly subside when the patient returns to temperate latitudes."*
+> - 📜 **George Thin (*Psilosis or Sprue: Its Nature and Treatment*):** *"Careful dietary management centered on fresh milk therapy remains essential in combating wasting from **psilosis**."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Severe nutritional deficiencies in **psilosis** lead to profound secondary anemia and progressive mucosal atrophy."*

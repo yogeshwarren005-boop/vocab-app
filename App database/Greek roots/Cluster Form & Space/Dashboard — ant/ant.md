@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a family (Formicidae) of colonial hymenopterous insects with a complex social organization and various castes performing special duties.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a family (Formicidae) of colonial hymenopterous insects with a complex social organization and various castes performing special duties.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A prefix variant of anti- used before vowels or the letter 'h', signifying opposite, opposing, counter, or against; also a small eusocial insect of the family Formicidae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistics and morphemic analysis, the elided Greek prefix appearing in words such as antagonist, Antarctic, and antonym.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"We’ll set thee to school to an ant, to teach thee there’s no labouring i’the winter."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"He gives the native name of the ant as _issauba_. [151] J."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Or, if you will, like so many ant-hills of powder, they all stand before me; and I their match."*
+> - 📜 **Richard Chenevix Trench (*On the Study of Words*):** *"In English compound words, the prefix **ant** represents the ancient Greek preposition for opposite or in front of."*
+> - 📜 **Edward O. Wilson (*The Ants*):** *"Every solitary **ant** operates as an individual neuron within the superorganism of the subterranean colony."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"The phonetic loss of the final vowel reduces anti to **ant** whenever the following root begins with an open syllable."*

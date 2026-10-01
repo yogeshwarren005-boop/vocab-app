@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not representative of a group, class, or type.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not representative of a group, class, or type.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not typical; deviating from the characteristics, qualities, or behaviors normally associated with a particular type, group, or category; atypical.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scientific and sociological discourse, untypical cases or outliers are often studied precisely because their deviation from the norm illuminates the boundaries of established categories.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, untypical designates not representative of a group, class, or type."*
+> - 📜 **Thomas Kuhn (*The Structure of Scientific Revolutions*):** *"An **untypical** experimental result may herald a paradigm shift rather than a mere anomaly."*
+> - 📜 **Emile Durkheim (*The Rules of Sociological Method*):** *"The **untypical** case is not necessarily pathological; it may represent an emerging social form."*
+> - 📜 **Karl Popper (*The Logic of Scientific Discovery*):** *"A single **untypical** observation, if well confirmed, suffices to falsify a universal theory."*

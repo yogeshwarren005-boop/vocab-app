@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: short.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: short.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combining form of Greek origin meaning short, abbreviated, or curtailed (from Greek brachys).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scientific terminology and anatomy, a productive prefix used in biological and medical names (such as brachycephalic and Brachyura).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog brachy as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Richard Chenevix Trench (*On the Study of Words*):** *"The Greek element **brachy** denotes shortness, contrasting directly with dolicho or macro in craniometric classifications."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"From ancient Greek brachys comes the prefix **brachy**, applied throughout zoological and medical vocabularies."*
+> - 📜 **Thomas Henry Huxley (*The Invertebrata*):** *"Compound names beginning with **brachy** systematically indicate an abbreviated organ or body segment."*

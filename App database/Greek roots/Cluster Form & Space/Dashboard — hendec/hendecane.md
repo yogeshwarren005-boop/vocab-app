@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek hendec.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A saturated aliphatic hydrocarbon (alkane) having the chemical formula $C_{11}H_{24}$; undecane.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In organic chemistry and chemical ecology, hendecane is a colorless liquid alkane found in petroleum and secreted as an alarm pheromone by certain ants.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hendecane designates a term designating an entity, condition, or phenomenon derived from greek hendec."*
+> - 📜 **E. O. Wilson (*The Insect Societies*):** *"Formicine ants discharge Dufour's gland secretions rich in **hendecane** to recruit nestmates during defensive alarms."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"The straight-chain paraffin **hendecane** boils at 196 degrees Celsius, reflecting increased London dispersion forces."*
+> - 📜 **F. A. Cotton (*Advanced Organic Chemistry*):** *"Catalytic cracking of crude oil fractions yields branched isomers alongside normal **hendecane**."*

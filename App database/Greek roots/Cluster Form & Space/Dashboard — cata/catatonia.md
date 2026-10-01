@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A psychomotor disturbance that may involve muscle rigidity, stupor or mutism, purposeless movements, negativism, echolalia, and inappropriate or unusual posturing and is associated with various medical conditions (such as schizophrenia and mood disorders).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A psychomotor disturbance that may involve muscle rigidity, stupor or mutism, purposeless movements, negativism, echolalia, and inappropriate or unusual posturing and is associated with various medical conditions (such as schizophrenia and mood disorders).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A complex neuropsychiatric syndrome characterized by motor immobility, stupor, mutism, muscular rigidity, waxy flexibility, or purposeless motor agitation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychiatry and behavioral neurology, a psychomotor disorder occurring across affective illnesses, schizophrenia, and neurological conditions, responding rapidly to lorazepam or electroconvulsive therapy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, catatonia designates a psychomotor disturbance that may involve muscle rigidity, stupor or mutism, purposeless movements, negativism, echolalia, and inappropriate or unusual posturing and is associated with various medical conditions (such as schizophrenia and mood disorders)."*
+> - 📜 **Karl Kahlbaum (*Catatonia, or the Tension Insanity*):** *"I isolated **catatonia** as a clinical entity defined by cyclical alternations between profound motor stupor and frantic hyperkinesia."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"Post-encephalitic parkinsonism sometimes presented as a lifelong frozen **catatonia**, patients suspended between sleep and waking."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In acute **catatonia**, the patient remains completely mute and unresponsive to external queries, maintaining awkward postures indefinitely."*

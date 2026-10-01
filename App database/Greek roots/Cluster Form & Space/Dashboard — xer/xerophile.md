@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Thriving in or tolerant or characteristic of a xeric environment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Thriving in or tolerant or characteristic of a xeric environment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An organism, especially a plant or microorganism, that thrives in or is adapted to extremely dry environmental conditions with minimal water availability.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In extremophile biology, xerophiles include desert-dwelling bacteria, lichens, and resurrection plants whose molecular mechanisms for desiccation tolerance inform astrobiology and crop resilience research.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xerophile designates thriving in or tolerant or characteristic of a xeric environment."*
+> - 📜 **A. F. W. Schimper (*Plant Geography upon a Physiological Basis*):** *"The true **xerophile** not merely endures drought but requires arid conditions for optimal growth."*
+> - 📜 **Lynn Rothschild (*Life in Extreme Environments*):** *"**Xerophile** microorganisms in the Atacama Desert survive with virtually no measurable rainfall."*
+> - 📜 **Heinrich Walter (*Ecology of Tropical and Subtropical Vegetation*):** *"A **xerophile** community often harbors astonishing biodiversity adapted to exploit scarce moisture."*

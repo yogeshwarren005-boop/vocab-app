@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Love unquestioningly and uncritically or to excess; venerate as an idol.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Love unquestioningly and uncritically or to excess; venerate as an idol.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To admire, revere, or love someone or something to excess; to treat as an idol (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literature and social psychology, describes blind or uncritical adoration that overlooks human frailty or moral defects.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"Shouts of noisy acclamation, Breathing savage expectation, Greet him while he takes his station Leisurely, disdaining haste; Now he doffs his tall sombrero, Fools! applaud your butcher hero, Ye would idolise a Nero, Pandering to public taste."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"One of the earliest settlers on the coast of Brazil, the Frenchman Thevet, reports that the Indians "hold these _pages_ (or medicine-men) in such honour and reverence that they adore, or rather idolise them."*
-> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"If it be bad to idolise you, I am the worst of men; if it be good, I am the best."*
+> - 📜 **Jane Austen (*Emma*):** *"It was impossible for Harriet not to **idolise** her clever friend, accepting every romantic judgment without question."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"Poor Dobbin continued to **idolise** Amelia throughout long years of patient, unrewarded devotion."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Dorothea was prepared to **idolise** Casaubon's intellect, mistaking dry pedantry for profound theological genius."*

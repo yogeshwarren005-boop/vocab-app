@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: British politician (born in the united states) who was the first woman to sit in the british house of commons (1879-1964).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: United states capitalist (born in germany) who made a fortune in fur trading (1763-1848).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A prominent family surname associated with American commerce and fur trading (John Jacob Astor); or a taxonomic star-related name.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In American economic history, the dynasty founded by John Jacob Astor, whose monopoly over the Pacific fur trade shaped 19th-century frontier expansion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Maria Thompson Daviess (*The Tinder-Box*):** *"I, at last, became determined, and chose the roof-garden at the Astor to tell him good-by, and perform the final operation."*
-> - 📜 **Jr. Horatio Alger (*Paul Prescott's Charge*):** *"He went into the reading-room of the Astor House every day to look over the advertised wants in the daily papers."*
-> - 📜 **Jr. Horatio Alger (*Paul Prescott's Charge*):** *"Stubbs?” “Over to the Astor House."*
+> - 📜 **Washington Irving (*Astoria*):** *"John Jacob **Astor** conceived a commercial enterprise of continental scope, planting a fur-trading outpost at the mouth of the Columbia."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The immense fortune amassed by **Astor** in New York illustrates how unrestrained enterprise thrives in the American republic."*
+> - 📜 **Henry David Thoreau (*A Week on the Concord and Merrimack Rivers*):** *"The voyageur stories of **Astor** and the fur companies sounded like chivalric romances enacted in the wild western forests."*

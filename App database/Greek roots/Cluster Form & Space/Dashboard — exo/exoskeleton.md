@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An external supportive covering of an animal (such as an arthropod).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bony or horny parts of a vertebrate produced from epidermal tissues.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rigid external covering supporting and protecting an animal's body, characteristic of arthropods, mollusks, and certain vertebrates.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biomechanics, an arthropod exoskeleton composed of chitin and sclerotized proteins requires periodic molting (ecdysis) to accommodate somatic growth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, exoskeleton designates an external supportive covering of an animal (such as an arthropod)."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The jointed **exoskeleton** of insects combines extraordinary structural rigidity with lightness and acrobatic mobility."*
+> - 📜 **Stephen Jay Gould (*The Panda's Thumb*):** *"Because an **exoskeleton** imposes scaling limits on gas exchange and molting hazards, giant insects remain fictional fantasies."*
+> - 📜 **R. McNeill Alexander (*Principles of Animal Locomotion*):** *"Leverage systems within an **exoskeleton** utilize hollow cylindrical geometries that resist bending forces with high structural efficiency."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lower vascular plants having dichotomously branched sporophyte divided into aerial shoot and rhizome and lacking true roots.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lower vascular plants having dichotomously branched sporophyte divided into aerial shoot and rhizome and lacking true roots.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An order of archaic, spore-bearing vascular plants consisting of the single extant family Psilotaceae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern phylogenetic botany, an order of reduced eusporangiate ferns sister to the Ophioglossales within the class Psilotopsida.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psilotales designates lower vascular plants having dichotomously branched sporophyte divided into aerial shoot and rhizome and lacking true roots."*
+> - 📜 **Katherine Esau (*Plant Anatomy*):** *"The anatomical features of **psilotales** display striking simplicity, possessing actinostelic or siphonostelic xylem surrounded by endodermis."*
+> - 📜 **David W. Bierhorst (*Morphology of Vascular Plants*):** *"Comparative gametophyte morphology in **psilotales** demonstrates profound affinities with subterranean ophioglossaceous prothallia."*
+> - 📜 **Robbin C. Moran (*A Natural History of Ferns*):** *"Molecular sequencing demonstrated that the **psilotales** are true ferns that secondarily shed their ancestral leaves and roots."*

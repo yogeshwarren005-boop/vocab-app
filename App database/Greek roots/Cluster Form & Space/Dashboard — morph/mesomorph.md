@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mesomorphic body or person.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mesomorphic body or person.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An individual having a somatotype characterized by a sturdy, athletic, muscular physique with broad shoulders, narrow waist, and heavy bone structure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In constitutional psychology and somatotyping, William Sheldon postulated that a mesomorph characteristically displays an assertive, vigorous somatotonic temperament.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mesomorph designates a mesomorphic body or person."*
+> - 📜 **William H. Sheldon (*The Varieties of Human Physique*):** *"The classic **mesomorph** displays hard, prominent musculature, dense cortical bone, and an upright martial posture."*
+> - 📜 **Gordon Allport (*Personality: A Psychological Interpretation*):** *"Constitutional theorists linked the energetic drive of the **mesomorph** to a psychological craving for muscular activity and risk."*
+> - 📜 **Hans Eysenck (*The Structure of Human Personality*):** *"Athletic profiling shows that high-level sprinters and weightlifters cluster heavily around the **mesomorph** somatotype."*

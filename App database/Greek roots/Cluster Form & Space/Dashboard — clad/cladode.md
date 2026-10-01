@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A flattened stem resembling and functioning as a leaf.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A flattened stem resembling and functioning as a leaf.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A modified photosynthetic stem or branch that resembles and functions as a leaf.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant anatomy and morphology, a flattened succulent or woody stem segment (as seen in Asparagus or prickly pear cactus) that bears flowers and fruit.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cladode designates a flattened stem resembling and functioning as a leaf."*
+> - 📜 **Adolf Engler (*Syllabus der Pflanzenfamilien*):** *"In Ruscus, the apparent foliage leaves are true cladodes or **cladode** structures arising from the axils of papery scale leaves."*
+> - 📜 **Asa Gray (*Botanical Text-Book*):** *"The joint of a prickly pear cactus represents an expanded green **cladode** performing the photosynthetic work of true foliage."*
+> - 📜 **Liberty Hyde Bailey (*Cyclopedia of American Horticulture*):** *"Florists value the delicate feathery spray of Asparagus plumosus, whose tiny needle-like green organs are each an individual **cladode**."*

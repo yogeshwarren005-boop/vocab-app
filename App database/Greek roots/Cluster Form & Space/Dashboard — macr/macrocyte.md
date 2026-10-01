@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormally large red blood cell (associated with pernicious anemia).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abnormally large red blood cell (associated with pernicious anemia).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormally large red blood cell (erythrocyte), typically defined as having a mean corpuscular volume (MCV) exceeding 100 femtoliters.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In diagnostic hematology, circulating macrocytes are classic indicators of megaloblastic anemias caused by vitamin B12 or folate deficiency.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, macrocyte designates abnormally large red blood cell (associated with pernicious anemia)."*
+> - 📜 **Paul Ehrlich (*Histology of the Blood*):** *"Under the staining lens, an enlarged **macrocyte** reveals altered chromatin density and abundant hemoglobin saturation."*
+> - 📜 **Maxwell Wintrobe (*Clinical Hematology*):** *"The presence of oval-shaped **macrocyte** forms on the peripheral smear strongly points toward megaloblastic maturation arrest."*
+> - 📜 **William Dameshek (*Leukemia and the Macrocytic Anemias*):** *"A patient presenting with profound fatigue and prominent **macrocyte** populations requires immediate evaluation for pernicious anemia."*

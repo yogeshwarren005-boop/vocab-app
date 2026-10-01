@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The anterior tip of the parietal bone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The anterior tip of the parietal bone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In craniometry and physical anthropology, the cranial point situated at the junction of the sphenoparietal and coronal sutures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anthropometric anatomy, the sphenion serves as a reliable cephalometric landmark for measuring skull width and cranial vault morphology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sphenion designates the anterior tip of the parietal bone."*
+> - 📜 **Paul Broca (*Instructions Craniologiques*):** *"Locating the **sphenion** requires tracing the pterion suture to the point where the greater sphenoid wing meets the frontal."*
+> - 📜 **Ales Hrdlicka (*Anthropometry*):** *"The distance between the bilateral **sphenion** points was recorded to evaluate temporal fossa projection."*
+> - 📜 **Arthur Keith (*Human Embryology and Morphology*):** *"In Neanderthal skulls, the relationship of the **sphenion** reflects the primitive low contour of the neurocranium."*

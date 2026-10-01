@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek morph.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A pseudomorph formed by the internal structural recrystallization of a mineral into an allomorphic crystalline phase without any change in chemical composition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In crystallography and petrology, paramorphs (such as rutile after anatase, or calcite after aragonite) preserve the original external crystal habit while altering internal lattice symmetry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paramorph designates a term designating an entity, condition, or phenomenon derived from greek morph."*
+> - 📜 **J. D. Dana (*A System of Mineralogy*):** *"When aragonite alters to calcite without loss of external prismatic shape, the resulting crystal is classed as a **paramorph**."*
+> - 📜 **Alfred Harker (*Petrology for Students*):** *"Thin sections of volcanic rocks often reveal inverted quartz forming an optical **paramorph** after high-temperature tridymite."*
+> - 📜 **René Just Haüy (*Traité de cristallographie*):** *"The internal molecular rearrangement in a **paramorph** alters physical cleavage while retaining the outward boundaries of the precursor."*

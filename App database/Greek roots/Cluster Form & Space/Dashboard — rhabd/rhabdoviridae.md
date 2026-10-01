@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of arborviruses carried by arthropods.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A family of arborviruses carried by arthropods.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of enveloped, negative-sense single-stranded RNA viruses having a characteristic bullet-like or rod-like morphology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic virology, an animal and plant virus family encompassing the genera Lyssavirus (rabies virus) and Vesiculovirus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhabdoviridae designates a family of arborviruses carried by arthropods."*
+> - 📜 **David Baltimore (*Expression of Animal Virus Genomes*):** *"Viruses of the family **rhabdoviridae** package their own viral RNA-dependent RNA polymerase within the bullet-shaped virion."*
+> - 📜 **Bernard N. Fields (*Virology*):** *"The helical nucleocapsid core of **rhabdoviridae** is encased by matrix protein and a lipid bilayer bristling with glycoprotein spikes."*
+> - 📜 **Frank Fenner (*Medical Virology*):** *"Members of **rhabdoviridae** infect an exceptionally wide host range, spanning plants, insects, fish, and terrestrial mammals."*

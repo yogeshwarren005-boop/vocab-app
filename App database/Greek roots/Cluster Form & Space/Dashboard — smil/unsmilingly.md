@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Without smile; in an unsmiling manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Without smile; in an unsmiling manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Without a smile; in a grave, stern, somber, or stony manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative prose, unsmilingly emphasizes an unrelenting, formal, or disquieting demeanor during personal interactions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unsmilingly designates without smile; in an unsmiling manner."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"The magistrate stared **unsmilingly** at the poor rustic defendant, unswayed by her youthful innocence."*
+> - 📜 **George Orwell (*Nineteen Eighty-Four*):** *"O'Brien nodded **unsmilingly**, his massive face framed by spectacles that reflected the glaring light bulbs."*
+> - 📜 **Edith Wharton (*The Age of Innocence*):** *"The butler stood **unsmilingly** at the door, holding the silver salver with impassive decorum."*

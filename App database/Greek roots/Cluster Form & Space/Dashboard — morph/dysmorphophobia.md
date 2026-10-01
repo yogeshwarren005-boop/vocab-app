@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek morph.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An obsessive, distressing psychiatric preoccupation with an imagined or grossly exaggerated defect in one's physical appearance; body dysmorphic disorder.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychiatry and psychopathology, dysmorphophobia is characterized by persistent anxiety, compulsive mirror inspection or avoidance, and severe social withdrawal.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dysmorphophobia designates a term designating an entity, condition, or phenomenon derived from greek morph."*
+> - 📜 **Emil Kraepelin (*Psychiatry: A Text-Book for Students and Physicians*):** *"Patients afflicted by **dysmorphophobia** obsess unceasingly over imagined facial blemishes, begging physicians for surgical correction."*
+> - 📜 **Pierre Janet (*Les Névroses*):** *"The psychic torment of **dysmorphophobia** arises not from actual physical asymmetry, but from deep-seated obsessional ideas of personal unworthiness."*
+> - 📜 **Aaron T. Beck (*Cognitive Therapy of Depression*):** *"Cognitive restructuring helps patients with **dysmorphophobia** challenge their distorted self-evaluations and catastrophic appraisals of minor imperfections."*

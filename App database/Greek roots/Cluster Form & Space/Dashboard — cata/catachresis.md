@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Strained or paradoxical use of words either in error (as `blatant' to mean `flagrant') or deliberately (as in a mixed metaphor: `blind mouths').
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Strained or paradoxical use of words either in error (as `blatant' to mean `flagrant') or deliberately (as in a mixed metaphor: `blind mouths').
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The misuse, strained application, or paradoxical abuse of a word or figure of speech, often involving a mixed or contradictory metaphor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical rhetoric and deconstruction, the deliberate appropriation of a signifier to denote something that lacks a proper literal term of its own.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, catachresis designates strained or paradoxical use of words either in error (as `blatant' to mean `flagrant') or deliberately (as in a mixed metaphor: `blind mouths')."*
+> - 📜 **Alexander Pope (*Peri Bathous, or The Art of Sinking in Poetry*):** *"A daring **catachresis** allows the poet to take arms against a sea of troubles and mow down winged ideas."*
+> - 📜 **Samuel Johnson (*The Lives of the English Poets*):** *"The metaphysical poets indulged in violent **catachresis**, yoking the most heterogeneous concepts by sheer rhetorical force."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"To speak of a blind mouth is an obvious **catachresis**, yet such forceful metaphors often strike deeply into the imagination."*

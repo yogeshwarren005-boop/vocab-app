@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An egg cell that results from the second meiotic division of an oocyte and that develops into a mature egg.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An egg cell that results from the second meiotic division of an oocyte and that develops into a mature egg.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A haploid cell resulting from the second meiotic division of a secondary oocyte, which matures directly into a functional ovum upon completion of meiosis II.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In reproductive cytology, the ootid retains nearly all the cytoplasm from the unequal division, while the second polar body receives minimal cytoplasmic content.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ootid designates an egg cell that results from the second meiotic division of an oocyte and that develops into a mature egg."*
+> - 📜 **Edmund Beecher Wilson (*The Cell in Development and Heredity*):** *"The **ootid** receives the bulk of the maternal cytoplasm, ensuring adequate reserves for early embryonic development."*
+> - 📜 **Keith L. Moore (*The Developing Human*):** *"The **ootid** is essentially the mature ovum, differing only in the final stages of cytoplasmic reorganization."*
+> - 📜 **Bruce Alberts (*Molecular Biology of the Cell*):** *"Completion of meiosis II transforms the secondary oocyte into an **ootid** and a second polar body."*

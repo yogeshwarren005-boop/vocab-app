@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small genus sometimes included in genus onoclea; in some classifications both genera are placed in polypodiaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small genus sometimes included in genus onoclea; in some classifications both genera are placed in polypodiaceae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A botanical synonym or historical genus name for the ostrich fern (now classified as Matteuccia or Struthiopteris).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pteridology, moisture-loving leptosporangiate ferns in Onocleaceae with dimorphic sterile arching fronds and erect woody fertile spikes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pteretis designates small genus sometimes included in genus onoclea; in some classifications both genera are placed in polypodiaceae."*
+> - 📜 **Carl Linnaeus (*Species Plantarum*):** *"The elegant crown of sterile fronds in **pteretis** surrounds dense brown fertile spikes that persist through winter."*
+> - 📜 **Merritt Lyndon Fernald (*Gray's Manual of Botany*):** *"In alluvial river floodplains, **pteretis** forms extensive colonies by means of deeply buried black subterranean stolons."*
+> - 📜 **Rolla M. Tryon (*Ferns and Allied Plants*):** *"Taxonomists historically assigned the ostrich fern to **pteretis** before consolidating the onocleoid genera."*

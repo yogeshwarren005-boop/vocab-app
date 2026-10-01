@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The direct opposite.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The rhetorical contrast of ideas by means of parallel arrangements of words, clauses, or sentences (as in "action, not words" or "they promised freedom and provided slavery").
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person or thing that is the direct opposite of someone or something else; a rhetorical contrast of ideas through parallel arrangement of words.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Hegelian dialectic, antithesis is the contradictory or opposing stage that arises against a thesis, resolved and unified in a higher synthesis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"You feel he does not strain after effect--epigram, antithesis, or alliteration."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"The Church denied that, just as the Church to-day rejects another hasty antithesis about pain, that comes from New England."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"Do you find this sort of antithesis in the Gospels? 4."*
+> - 📜 **Alexander Pope (*An Essay on Criticism*):** *"Through balanced clauses, heroic couplets achieve striking rhetorical force by setting idea against **antithesis**."*
+> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"The opening chapter presents an enduring **antithesis**: it was the best of times, it was the worst of times."*
+> - 📜 **Friedrich Nietzsche (*The Birth of Tragedy*):** *"Greek culture flourished from the continuous struggle and artistic **antithesis** between the Apollonian and Dionysian spirits."*

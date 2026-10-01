@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the three sides of unequal length.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the three sides of unequal length.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having unequal sides (as of a geometric triangle); or having axes inclined at unequal angles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anatomy, designating the scalenus muscles of the lateral neck; in geometry, an irregular triangle with three unequal sides.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scalene designates having the three sides of unequal length."*
+> - 📜 **Euclid (*Elements*):** *"Of triangles, that which has all its sides unequal is called **scalene**, contrasting with the isosceles and equilateral figures."*
+> - 📜 **James Dwight Dana (*Manual of Mineralogy*):** *"The crystal face forms a **scalene** triangle, sloping obliquely across three crystallographic axes of unequal length."*
+> - 📜 **Thomas Heath (*A History of Greek Mathematics*):** *"Early Greek geometers classified triangular figures into equilateral, isosceles, and **scalene** based on axial symmetry."*

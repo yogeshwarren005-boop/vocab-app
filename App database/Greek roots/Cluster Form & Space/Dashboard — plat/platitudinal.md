@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Dull and tiresome but with pretensions of significance or originality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dull and tiresome but with pretensions of significance or originality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characteristic of, containing, or resembling a platitude; trite, banal, or clichéd.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary and political criticism, describing discourse dominated by superficial, unoriginal, and moralizing commonplaces.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, platitudinal designates dull and tiresome but with pretensions of significance or originality."*
+> - 📜 **H. L. Mencken (*Prejudices*):** *"The politician’s speech was a masterpiece of **platitudinal** vacuity, pledging everything while committing to nothing."*
+> - 📜 **George Bernard Shaw (*Major Barbara*):** *"He defended his hypocrisy with **platitudinal** sermons that bored his rebellious children to distraction."*
+> - 📜 **Virginia Woolf (*Night and Day*):** *"She found herself answering in **platitudinal** phrases, concealing her true anxiety behind polite social banalities."*

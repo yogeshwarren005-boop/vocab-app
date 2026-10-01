@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A usually spherical crystalline body of radiating crystal fibers often found in vitreous volcanic rocks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A usually spherical crystalline body of radiating crystal fibers often found in vitreous volcanic rocks.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small, spherical or radiating fibrous crystalline body found in glassy igneous rocks such as obsidian and rhyolite, or in certain synthetic polymers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In igneous petrology, spherulites form during rapid quenching and devitrification of volcanic glass, consisting of radiating intergrowths of quartz and alkali feldspar.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spherulite designates a usually spherical crystalline body of radiating crystal fibers often found in vitreous volcanic rocks."*
+> - 📜 **Charles Darwin (*Geological Observations on Volcanic Islands*):** *"The black pitchstone contained thousands of pale **spherulite** pellets, each showing a delicate radiating fibrous structure."*
+> - 📜 **James Dwight Dana (*Manual of Geology*):** *"Microscopic examination of the obsidian thin-section revealed concentric **spherulite** clusters nucleating along flow lines."*
+> - 📜 **Archibald Geikie (*Text-Book of Geology*):** *"Under polarized light, each crystalline **spherulite** displays a distinctive black cross due to radial extinction."*

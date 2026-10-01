@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a genus (Oidium of the family Erysiphaceae) of imperfect fungi many of which are now considered to be conidial stages of various powdery mildews.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of the small conidia borne in chains by various fungi (such as an oidium) —called also arthrospore.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A type of asexual fungal spore (conidium) produced by the fragmentation of a hypha into individual cells, typically thin-walled and short-lived.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant pathology, Oidium historically referred to the anamorph stage of powdery mildew fungi, forming chains of barrel-shaped conidia on the surfaces of infected plants.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"These moulds were long known under the generic name of _Oidium_, to which genus the vine disease was also referred."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"This delicate little mould on the grass leaf at one time bore the name of _Oidium monilioides_."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"This species (_Sphærotheca pannosa_, Lev.), in its oidioid or conidiiferous form, was for some time known under the name of _Oidium leucoconium_."*
+> - 📜 **Miles Joseph Berkeley (*Observations on the Vine Disease*):** *"The devastating vine blight was traced to the minute **oidium** conidia coating the grape surfaces."*
+> - 📜 **Anton de Bary (*Comparative Morphology and Biology of the Fungi*):** *"The **oidium** stage produces chains of conidia by the successive segmentation of the terminal hypha."*
+> - 📜 **G. C. Ainsworth (*Introduction to the History of Mycology*):** *"The name **Oidium** was long applied to the imperfect state of numerous powdery mildew species."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek engy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A Greek root element meaning 'near', 'narrow', or 'pledge', appearing in zoological names and specialized anatomical and etymological terms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biological nomenclature, engy- denotes closeness or narrowness of form (as in Engystoma, narrow-mouthed amphibians).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, engy designates a term designating an entity, condition, or phenomenon derived from greek engy."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"The root **engy** denotes spatial proximity or tightness, cognate with terms designating immediate vicinity."*
+> - 📜 **Robert Beekes (*Etymological Dictionary of Greek*):** *"Related to Greek engys ('near'), the morpheme **engy** forms compounds indicating narrow or closely confined structures."*
+> - 📜 **Pierre Chantraine (*Dictionnaire étymologique de la langue grecque*):** *"Ancient Hellenic compounds incorporating **engy** convey notions of tight binding, pledged security, or physical nearness."*

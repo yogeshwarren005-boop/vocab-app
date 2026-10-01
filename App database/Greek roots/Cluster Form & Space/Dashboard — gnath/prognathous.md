@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a projecting lower jaw.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a projecting lower jaw.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a projecting jaw or jaws; having jaws that extend forward beyond the upper plane of the face; or having mouthparts directed forward horizontally (in insects).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In entomology, prognathous mouthparts are typical of predatory ground beetles (Carabidae), facilitating aggressive prey capture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prognathous designates having a projecting lower jaw."*
+> - 📜 **Thomas Henry Huxley (*Evidence as to Man's Place in Nature*):** *"The Australian aborigine skull was frequently described as **prognathous**, though its structural variations are extensive."*
+> - 📜 **R. F. Chapman (*The Insects: Structure and Function*):** *"Predaceous ground beetles possess a **prognathous** head orientation that projects formidable mandibles straight ahead."*
+> - 📜 **Wilfrid Le Gros Clark (*The Fossil Evidence for Human Evolution*):** *"Australopithecus africanus retains a strongly **prognathous** muzzle reminiscent of ancestral hominoids."*

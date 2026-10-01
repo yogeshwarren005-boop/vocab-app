@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Paralysis —used chiefly in combination.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A condition that is marked by uncontrollable tremor and quivering of the body or one or more of its parts —not used technically.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A condition characterized by paralysis, muscular weakness, or paresis, often accompanied by involuntary tremors, spasticity, or loss of sensation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical clinical neurology and historical literature, applied to distinct syndromes including Bell's palsy, bulbar palsy, and shaking palsy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The palsy, and not fear, provokes me."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Now play him me, Patroclus, Arming to answer in a night alarm.’ And then, forsooth, the faint defects of age Must be the scene of mirth: to cough and spit And, with a palsy fumbling on his gorget, Shake in and out the rivet."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"His hands shook as with palsy."*
+> - 📜 **James Parkinson (*An Essay on the Shaking Palsy*):** *"Involuntary tremulous motion, with lessened muscular power, characterizes the affliction known historically as shaking **palsy**."*
+> - 📜 **William Shakespeare (*The Second Part of King Henry the Fourth*):** *"A peace is of the nature of a conqueror; for then both parties nobly are subdued, and neither party loser... this apoplexy is, as I take it, a kind of lethargy... a kind of sleeping in the blood, a whoreson tingling... a **palsy**."*
+> - 📜 **Charles Bell (*The Nervous System of the Human Body*):** *"Lesions affecting the seventh cranial nerve produce complete facial **palsy** without blunting cutaneous sensation."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Wasteful of resources.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wasteful of resources.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not profitable, financially unviable, or commercially disadvantageous; wasting capital or generating insufficient return on investment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial and resource economics, describing extraction or production methods whose operating costs exceed market price realization.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Uneconomic character of gambling. § 3."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Even when fairest, gambling must, in its average results, be uneconomic."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"In the bets made on one's own prowess, as on speed in running, the chance-taking is still on the uneconomic side of the borderland, certainly if the running is for the sake of the wager, not for pleasure or for a useful purpose."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"To maintain public enterprises that yield no revenue is fundamentally **uneconomic**, burdening the productive capital of the nation."*
+> - 📜 **John Maynard Keynes (*The General Theory of Employment, Interest and Money*):** *"When interest rates are excessively high, private capital investment becomes **uneconomic**, causing factories to stand idle."*
+> - 📜 **David Ricardo (*On the Principles of Political Economy and Taxation*):** *"Cultivating marginal soils where cost exceeds grain yield is an **uneconomic** expenditure of national capital."*

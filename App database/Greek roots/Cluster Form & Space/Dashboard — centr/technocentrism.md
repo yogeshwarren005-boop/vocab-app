@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek centr.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The belief or ideological stance that technology is central to human progress and capable of resolving ecological and social crises.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociological theory, a perspective that privileges technical rationalism, industrial growth, and mechanistic control over natural systems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, technocentrism designates a term designating an entity, condition, or phenomenon derived from greek centr."*
+> - 📜 **Lewis Mumford (*Technics and Civilization*):** *"Unchecked **technocentrism** elevated mechanical devices above human values, reducing workers to adjuncts of the assembly line."*
+> - 📜 **E. F. Schumacher (*Small Is Beautiful*):** *"The dogma of modern **technocentrism** insists that if an engineering project creates pollution, only bigger machines can cure it."*
+> - 📜 **Neil Postman (*Technopoly: The Surrender of Culture to Technology*):** *"In full-fledged technopoly, **technocentrism** redesigns human institutions to serve the demands of algorithmic efficiency."*

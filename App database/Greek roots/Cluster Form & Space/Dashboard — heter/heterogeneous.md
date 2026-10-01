@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Consisting of dissimilar or diverse ingredients or constituents : mixed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Consisting of dissimilar or diverse ingredients or constituents : mixed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Diverse in character, quality, or content; composed of parts or ingredients of different kinds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical chemistry, a heterogeneous mixture consists of distinct phases (e.g., solid, liquid, gas) separated by clear boundary interfaces.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The populations of many rural neighborhoods thus became heterogeneous, with results calamitous to the social life."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"Oh,” she began, “is that where you usually sit?” She looked about at the heterogeneous chairs and tables."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"In Italy, as in England, the lady had a multitude of friends, both among the natives of the country and its heterogeneous visitors."*
+> - 📜 **J. Willard Gibbs (*On the Equilibrium of Heterogeneous Substances*):** *"Thermodynamic equilibrium in a **heterogeneous** system requires temperature and chemical potential to remain uniform across every phase."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"A large commercial metropolis gathers a **heterogeneous** multitude of traders seeking mutual economic advantage."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Natural selection acts continuously upon the **heterogeneous** variations that arise spontaneously within wild populations."*

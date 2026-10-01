@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of converting to a sol; bringing to a colloidal solution.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process of converting to a sol; bringing to a colloidal solution.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The conversion of a precipitate or gel into a colloidal sol by the action of an added chemical agent (peptizing agent) or solvent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In colloid and surface chemistry, peptization is the reverse of coagulation, restoring the diffuse double layer that stabilizes colloidal suspension.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, peptization designates the process of converting to a sol; bringing to a colloidal solution."*
+> - 📜 **Thomas Graham (*Liquid Diffusion Applied to Analysis*):** *"I have applied the term **peptization** to this spontaneous liquefaction of colloidal gels in analogy to gastric digestion."*
+> - 📜 **Herbert Freundlich (*Colloid and Capillary Chemistry*):** *"The **peptization** of iron(III) hydroxide by ferric chloride illustrates how preferential adsorption creates a protective electric charge."*
+> - 📜 **Arthur W. Adamson (*Physical Chemistry of Surfaces*):** *"Preventing unwanted **peptization** during gravimetric filtration requires washing the precipitate with volatile electrolyte solutions."*

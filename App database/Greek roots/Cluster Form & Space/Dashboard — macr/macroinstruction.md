@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: macro.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: macro.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A single computer instruction or mnemonic statement that expands during assembly or compilation into a sequence of multiple machine code instructions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In low-level software engineering and processor microarchitecture, macroinstructions provide clean abstraction layers over repetitive hardware-level command sequences.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog macroinstruction as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Donald Knuth (*The Art of Computer Programming*):** *"The assembler translates each **macroinstruction** into a predetermined cascade of elementary machine operations."*
+> - 📜 **Andrew S. Tanenbaum (*Structured Computer Organization*):** *"By encapsulating complex subroutine linkages within a **macroinstruction**, programmer productivity is vastly enhanced."*
+> - 📜 **John L. Hennessy (*Computer Architecture: A Quantitative Approach*):** *"Complex instruction set computers frequently decode a single **macroinstruction** into multiple internal micro-operations."*

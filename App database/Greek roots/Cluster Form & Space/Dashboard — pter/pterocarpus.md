@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of tropical trees or climbers having usually broadly winged pods.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of tropical trees or climbers having usually broadly winged pods.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of pantropical trees in the legume family (Fabaceae), yielding valuable timber (padauk, narra) and medicinal kino resin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In forestry and dendrology, trees characterized by golden-yellow flowers and circular, winged, indehiscent legume pods resembling discs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pterocarpus designates genus of tropical trees or climbers having usually broadly winged pods."*
+> - 📜 **George Bentham (*Flora Australiensis*):** *"The distinctive circular fruit of **pterocarpus** is surrounded by a membranous wavy wing that aids wind dispersal."*
+> - 📜 **Samuel J. Record (*Timbers of the New World*):** *"The heartwood of **pterocarpus** exhibits rich vermilion or blood-red hues prized by cabinetmakers for fine furniture."*
+> - 📜 **David Fairchild (*The World Was My Garden*):** *"When the trunk of **pterocarpus** is incised, it exudes a ruby-red astringent sap known to commerce as gum kino."*

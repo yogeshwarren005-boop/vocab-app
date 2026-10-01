@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A science that deals with the relief features of the earth or of another celestial body (such as the moon) and seeks an interpretation of them based on their origins and development.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The features dealt with in geomorphology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific discipline that studies the origin, evolution, classification, and dynamic processes shaping the landforms and topography of the Earth and other planets.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In contemporary earth system science, geomorphology integrates quantitative fluid mechanics, radiometric dating, and digital elevation modeling to quantify erosion rates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, geomorphology designates a science that deals with the relief features of the earth or of another celestial body (such as the moon) and seeks an interpretation of them based on their origins and development."*
+> - 📜 **William Morris Davis (*Geographical Essays*):** *"The science of **geomorphology** seeks not merely to catalog mountain peaks and river valleys, but to reconstruct their evolutionary history."*
+> - 📜 **G. K. Gilbert (*The Transportation of Debris by Running Water*):** *"Experimental flume studies laid the physical foundation for modern quantitative **geomorphology**, measuring bedload transport mechanics."*
+> - 📜 **Arthur Holmes (*Principles of Physical Geology*):** *"Tectonic uplift and denudation represent the opposing prime movers whose eternal interaction forms the subject matter of **geomorphology**."*

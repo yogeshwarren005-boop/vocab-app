@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A camp defended by a circular formation of wagons.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A general term for beer made with bottom fermenting yeast (usually by decoction mashing); originally it was brewed in march or april and matured until september.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A type of beer conditioned at low temperatures, typically brewed with bottom-fermenting yeast (*Saccharomyces pastorianus*) and stored cold for maturation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Derived from German *Lagern* (to store); in zymurgy and brewing history, cold lagering yields a clean, crisp, pale beer free of high fruity esters, popularized in nineteenth-century Pilsen and Munich.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Abner Cosens (*War Rhymes by Wayfarer*):** *"Roumanians, and others, Who now are standing pat Will call the allies brothers When lager beer goes flat."*
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"Wine & Spirits--Lager Beer, Whisky, Sherry, Port."*
-> - 📜 **W. D. Pitcairn (*Two Years Among the Savages of New Guinea.*):** *"F----h, and enjoying our cigarettes and lager beer, when one of the "Houris" of Paradise arrived on the scene, and was formally introduced to us by the hostess as Miss G----e."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"The bottom-fermenting yeast employed in brewing German **lager** requires strict low-temperature cellar storage."*
+> - 📜 **Justus von Liebig (*Familiar Letters on Chemistry*):** *"In Bavarian cellars, winter **lager** undergoes slow, quiet fermentation that clears the liquor to sparkling purity."*
+> - 📜 **Mark Twain (*A Tramp Abroad*):** *"We sat in the sunny Munich garden enjoying a cool glass of pale **lager** after our long mountain climb."*

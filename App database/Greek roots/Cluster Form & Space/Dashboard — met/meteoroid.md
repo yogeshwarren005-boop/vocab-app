@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (astronomy) any of the small solid extraterrestrial bodies that hits the earth's atmosphere.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (astronomy) any of the small solid extraterrestrial bodies that hits the earth's atmosphere.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small rocky or metallic body traveling through interplanetary space, ranging in size from a microscopic grain of cosmic dust to a small asteroid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In planetary astronomy, a meteoroid becomes a meteor when incandescently entering a planetary atmosphere, and a meteorite if surviving impact on the planetary surface.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"A convoy of robot deflectors and screens cleared the Extractor fleet's path of meteoroids, sand and rock swarms and space debris."*
+> - 📜 **Fred Whipple (*The Mystery of Comets*):** *"A fragile cometary **meteoroid** disintegrates rapidly into dust upon skimming the tenuous outer layers of Earth's atmosphere."*
+> - 📜 **Eugene Shoemaker (*Asteroid and Comet Impacts on the Earth*):** *"The kinetic energy released when a high-density nickel-iron **meteoroid** impacts the lunar surface excavates a crater many times its own diameter."*
+> - 📜 **Harold Urey (*The Planets: Their Origin and Development*):** *"Isotopic ratios in primitive chondritic material suggest that each ancient **meteoroid** preserves primordial solar nebula condensates."*

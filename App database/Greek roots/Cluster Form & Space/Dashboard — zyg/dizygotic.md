@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of yoke.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of yoke.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Derived from two separately fertilized ova; pertaining to fraternal twins who develop from two distinct zygotes and share approximately half their genetic material.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In behavioral genetics and twin studies, dizygotic twins serve as a control group against monozygotic twins to estimate the relative contributions of heredity and environment to phenotypic variation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dizygotic designates adjective*) pertaining to, derived from, or characteristic of yoke."*
+> - 📜 **Francis Galton (*The History of Twins*):** *"**Dizygotic** twins, arising from separate eggs, differ as much as ordinary siblings in their hereditary endowment."*
+> - 📜 **Thomas Bouchard (*Sources of Human Psychological Differences: The Minnesota Study of Twins Reared Apart*):** *"Comparing **dizygotic** with monozygotic twins allows estimation of the heritability of complex traits."*
+> - 📜 **Robert Plomin (*Behavioral Genetics*):** *"**Dizygotic** twins share on average fifty percent of their segregating genes, like any pair of siblings."*

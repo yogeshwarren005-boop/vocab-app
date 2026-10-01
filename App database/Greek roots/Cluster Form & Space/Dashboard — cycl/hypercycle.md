@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek cycl.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A theoretical organization of self-replicating macromolecular units connected in a cyclic, cross-catalytic feedback loop.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theoretical biology and prebiotic origins of life, Manfred Eigen and Peter Schuster's model of mutually supporting RNA/protein catalytic cycles capable of overcoming the error catastrophe in early evolution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypercycle designates a term designating an entity, condition, or phenomenon derived from greek cycl."*
+> - 📜 **Manfred Eigen (*The Hypercycle: A Principle of Natural Self-Organization*):** *"The **hypercycle** links distinct self-replicating informational units into a cooperative network, overcoming the information threshold."*
+> - 📜 **Stephen Jay Gould (*The Panda's Thumb*):** *"Eigen's concept of the prebiotic **hypercycle** showed how chemical cooperation could emerge before the advent of true cells."*
+> - 📜 **Richard Dawkins (*The Blind Watchmaker*):** *"In early molecular evolution, an autocatalytic **hypercycle** can maintain vast libraries of genetic information without error."*

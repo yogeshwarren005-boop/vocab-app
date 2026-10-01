@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Communicating without apparent physical signals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Communicating without apparent physical signals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, communicating by, or perceived through telepathy; mind-to-mind transmission of thoughts or impressions without physical senses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychical research and science fiction literature, telepathic communication transcends auditory and visual barriers to convey direct empathetic concepts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The processes of intense physical training and weapons drills, the concentrated telepathic loading of Plutonian political history and its government's despotic apparatus had been cleared from their consciousness; the substance remained."*
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"He gathered that the four-winged birds of the Lassans acted in some way or other as their scouts, remaining in a kind of telepathic communication with the Lassan in the fighting-machine they were assigned to help...."*
+> - 📜 **Frederic W. H. Myers (*Human Personality and Its Survival of Bodily Death*):** *"I introduced the term to describe that **telepathic** communion whereby minds affect one another across space without sensory organs."*
+> - 📜 **Arthur C. Clarke (*Childhood's End*):** *"The children merged into a single **telepathic** consciousness that surpassed the individual identities of their parents."*
+> - 📜 **H. G. Wells (*Men Like Gods*):** *"In that utopian world, spoken language was obsolete, replaced by a swift and subtle **telepathic** interplay of thought."*

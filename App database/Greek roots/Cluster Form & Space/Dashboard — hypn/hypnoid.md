@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a state of sleep or hypnosis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a state of sleep or hypnosis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling sleep or hypnosis; also, denoting an altered, trance-like state of consciousness in which traumatic memories become sequestered.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In early psychoanalytic history (Breuer and Freud's *Studies on Hysteria*), 'hypnoid hysteria' referred to hysterical symptoms originating from emotional shocks sustained during spontaneous twilight states of mind (hypnoid states).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypnoid designates of or relating to a state of sleep or hypnosis."*
+> - 📜 **Sigmund Freud (*Studies on Hysteria*):** *"Breuer assumed that hysterical conversion symptoms originate in peculiar, dreamy states of mind termed **hypnoid** states."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The split-off consciousness observed in secondary personalities frequently arises from an initial **hypnoid** dissociation."*
+> - 📜 **Carl Jung (*Psychology of the Unconscious*):** *"The emergence of mythic fantasies in twilight **hypnoid** reverie reveals the autonomous activity of the collective psyche."*

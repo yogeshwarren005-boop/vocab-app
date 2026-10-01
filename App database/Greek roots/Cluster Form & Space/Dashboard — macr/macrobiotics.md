@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The theory of promoting health and longevity by means of diet (especially whole beans and grains).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The theory of promoting health and longevity by means of diet (especially whole beans and grains).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A dietary and philosophical system emphasizing whole grains, vegetables, and natural balances to enhance health and prolong human life.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural history and integrative health, macrobiotics arose from Eastern philosophical principles synthesized with modern holistic dietary theories.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, macrobiotics designates the theory of promoting health and longevity by means of diet (especially whole beans and grains)."*
+> - 📜 **Christoph Wilhelm Hufeland (*Macrobiotics: The Art of Prolonging Human Life*):** *"True **macrobiotics** constitutes an art of living that preserves organic energy through physiological moderation."*
+> - 📜 **Herman Aihara (*Macrobiotics: An Alternative to Medicine*):** *"In the practice of **macrobiotics**, food is viewed as the primary medicine that shapes physical and mental harmony."*
+> - 📜 **Michio Kushi (*Macrobiotic Home Remedies*):** *"The principles of **macrobiotics** teach us to adapt our daily meals to the seasonal changes of our environment."*

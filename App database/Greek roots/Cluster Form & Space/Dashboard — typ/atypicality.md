@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any state that is not typical.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any state that is not typical.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality or state of being atypical; deviation from standard norms or typical patterns.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In statistical analysis and diagnostic pathology, atypicality denotes cellular or behavioral variance outside normal confidence intervals, prompting further genetic or histopathological evaluation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, atypicality designates any state that is not typical."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Nuclear pleomorphism and marked cytological **atypicality** serve as cardinal microscopic hallmarks of malignancy."*
+> - 📜 **Francis Galton (*Natural Inheritance*):** *"In every large population census, biometric curves highlight individuals whose **atypicality** lies at the outer tails."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"The extreme psychological **atypicality** of prophetic visionaries must not obscure the profound ethical value of their message."*

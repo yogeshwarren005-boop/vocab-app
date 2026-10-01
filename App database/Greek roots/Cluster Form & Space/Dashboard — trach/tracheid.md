@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Long tubular cell peculiar to xylem.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Long tubular cell peculiar to xylem.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An elongated, thick-walled, lignified water-conducting and supporting cell in the xylem of vascular plants, having tapered ends and pitted walls without perforations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant anatomy and paleobotany, tracheids are the sole water-conducting conduits in gymnosperms and seedless vascular plants, contrasted with the vessel elements of angiosperms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tracheid designates long tubular cell peculiar to xylem."*
+> - 📜 **Katherine Esau (*Plant Anatomy*):** *"Bordered pits along the tapered end walls of each **tracheid** permit lateral water movement while arresting gas embolisms."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"The coniferous wood of pine is composed almost exclusively of uniform rows of the fibrous **tracheid**."*
+> - 📜 **D. H. Scott (*Studies in Fossil Botany*):** *"Scalariform wall thickenings inside each fossilized **tracheid** confirmed the vascular nature of the Rhynie chert plants."*

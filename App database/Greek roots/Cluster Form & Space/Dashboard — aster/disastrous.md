@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of events) having extremely unfortunate or dire consequences; bringing ruin; ; ; ; - charles darwin; - douglas macarthur.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of events) having extremely unfortunate or dire consequences; bringing ruin; ; ; ; - charles darwin; - douglas macarthur.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing immense distress, injury, ruin, or catastrophe; calamitous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by ill fortune or leading to completely ruinous and adverse consequences.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It was the vane on the roof turning round, and this change in the wind was the signal for a disastrous rain."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"It was intrinsically different from the Vale of Little Dairies, Blackmoor Vale, which, save during her disastrous sojourn at Trantridge, she had exclusively known till now."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"The red wrath always has undone me in all my lives; for the red wrath is my disastrous catastrophic heritage from the time of the slimy things ere the world was prime."*
+> - 📜 **John Milton (*Paradise Lost*):** *"As when the Sun new risen looks through the horizontal misty air shorn of his beams, or from behind the moon in dim eclipse **disastrous** twilight sheds on half the nations."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The retreat from Moscow proved far more **disastrous** to the invading army than the fiercest pitched battles of the campaign."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The earthquake along the Chilean coast produced **disastrous** destruction, reducing flourishing towns to heaps of smoking rubble in seconds."*

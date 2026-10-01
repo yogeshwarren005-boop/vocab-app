@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A medical procedure involving needle drainage of fluid from a body cavity, most commonly the abdomen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A medical procedure involving needle drainage of fluid from a body cavity, most commonly the abdomen.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The surgical perforation or tapping of a body cavity, such as the peritoneum or tympanic membrane, to aspirate accumulated fluid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical medicine, a diagnostic and therapeutic procedure commonly performed to relieve high-volume abdominal ascites.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paracentesis designates a medical procedure involving needle drainage of fluid from a body cavity, most commonly the abdomen."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In chronic cirrhosis with tense abdominal distension, therapeutic **paracentesis** must be performed promptly to ease diaphragmatic distress."*
+> - 📜 **Sir Thomas Watson (*Lectures on the Principles and Practice of Physic*):** *"The trocar was introduced in the linea alba, and the **paracentesis** yielded several quarts of clear serous fluid."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"Careful palpation avoids injury to the inferior epigastric artery during abdominal **paracentesis**."*

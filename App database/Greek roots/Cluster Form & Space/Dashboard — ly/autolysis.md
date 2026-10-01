@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Breakdown of all or part of a cell or tissue by self-produced enzymes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Breakdown of all or part of a cell or tissue by self-produced enzymes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The spontaneous destruction, digestion, or dissolution of cells or tissues by their own internal lysosomal enzymes following cell death or somatic demise.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pathology and food microbiology, autolysis occurs post-mortem in the absence of putrefactive bacteria; in zymurgy, yeast autolysis releases mannoproteins and amino acids contributing to the complexity of aged sparkling wines.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, autolysis designates breakdown of all or part of a cell or tissue by self-produced enzymes."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Following ischemic necrosis, cellular **autolysis** proceeds via the release of intracellular proteolytic ferments."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Softening of the splenic pulp in post-mortem specimens is largely attributable to rapid aseptic **autolysis**."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"When yeast cells exhaust fermentable sugars, internal **autolysis** dissolves the cell wall and liberates nutrients."*

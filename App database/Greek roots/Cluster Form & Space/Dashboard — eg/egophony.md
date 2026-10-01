@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek eg.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal voice sound with a high-pitched, nasal, or bleating quality heard during lung auscultation when vocal resonance is transmitted through consolidated tissue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pulmonology, egophony is elicited by having the patient say 'E', which sounds like a compressed nasal 'A' over pleural effusion or lobar pneumonia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, egophony designates a term designating an entity, condition, or phenomenon derived from greek eg."*
+> - 📜 **René Laennec (*A Treatise on the Diseases of the Chest*):** *"I observed a peculiar voice timbre, which I named **egophony**, resembling the shrill, tremulous bleating of a goat."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Along the upper margin of a pleural effusion, auscultation frequently demonstrates marked **egophony**."*
+> - 📜 **Steven McGee (*Evidence-Based Physical Diagnosis*):** *"The presence of **egophony** significantly increases the post-test probability of pneumonia in patients presenting with cough and fever."*

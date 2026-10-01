@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek oec.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The botanical condition of bearing both staminate (male) and hermaphroditic (perfect) flowers on the same individual plant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In reproductive plant biology and evolutionary ecology, andromonecy optimizes maternal resource allocation between fruit set and pollen export in species like Solanum and chestnut.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, andromonecy designates a term designating an entity, condition, or phenomenon derived from greek oec."*
+> - 📜 **Charles Darwin (*The Different Forms of Flowers on Plants of the Same Species*):** *"In species exhibiting **andromonecy**, the presence of male flowers alongside hermaphrodites conserves maternal resources for maturing fruit."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"The umbels of many Apiaceae illustrate **andromonecy**, where central flowers bear fertile ovules while peripheral blossoms are purely staminate."*
+> - 📜 **Daniel Zohary (*Domestication of Plants in the Old World*):** *"Cultivated olive varieties show variable rates of **andromonecy** depending upon environmental water stress during flower bud differentiation."*

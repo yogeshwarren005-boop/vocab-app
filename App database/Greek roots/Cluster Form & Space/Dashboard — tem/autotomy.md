@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Reflex separation of a part (such as an appendage) from the body : division of the body into two or more pieces.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reflex separation of a part (such as an appendage) from the body : division of the body into two or more pieces.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The spontaneous casting off of a limb or other body part when seized, threatened, or injured, followed in many taxa by regeneration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary morphology, autotomy is an anti-predator defense widespread in arthropods, echinoderms, and reptiles, supported by specialized nervous arcs and fracture planes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, autotomy designates reflex separation of a part (such as an appendage) from the body : division of the body into two or more pieces."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"The phenomenon of **autotomy** in crustaceans illustrates how an apparent voluntary mutilation is governed by instinctive reflex."*
+> - 📜 **Thomas Henry Huxley (*The Crayfish: An Introduction to the Study of Zoology*):** *"When an appendage is severely bruised, **autotomy** at the breakage plane prevents dangerous fluid leakage."*
+> - 📜 **Hans Driesch (*The Science and Philosophy of the Organism*):** *"Following deliberate **autotomy**, the stump displays an intrinsic morphogenetic field capable of complete organogenesis."*

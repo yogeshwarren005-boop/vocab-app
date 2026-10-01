@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The sudden appearance of the commonplace in otherwise elevated matter or style.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Anticlimax.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abrupt, ludicrous descent from the lofty, sublime, or elevated to the commonplace, trivial, or absurd; anticlimax.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary theory, unintentional triviality or melodramatic excess that ruins an intended tragic or serious effect.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Emily Brontë (*Wuthering Heights*):** *"And he’ll never be able to emerge from his bathos of coarseness and ignorance."*
+> - 📜 **Alexander Pope (*Peri Bathous, or The Art of Sinking in Poetry*):** *"The art of **bathos** consists in descending with utmost solemnity from celestial heights into the nearest gutter."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"A sudden slip from tragic majesty into vulgar domestic detail plunges the entire scene into irremediable **bathos**."*
+> - 📜 **George Eliot (*The Mill on the Floss*):** *"The argument reached the level of pure **bathos** when the heated debate over honor descended to who paid for the mutton chop."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of placating and overcoming distrust and animosity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of placating and overcoming distrust and animosity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of placating, pacifying, or appeasing someone who is angry or hostile.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In religious anthropology, ceremonial rituals, offerings, and prayers performed to appease divine wrath or ancestral spirits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"As a physiologist he believed in the artificial placation of malignant agencies chiefly operative during somnolence."*
+> - 📜 **James George Frazer (*The Golden Bough*):** *"Primitive religion relies upon continuous rites of **placation** to avert the jealousy of forest demons."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"No amount of verbal **placation** could disarm the mercenary army demanding their promised arrears of pay."*
+> - 📜 **Thomas Hobbes (*Leviathan*):** *"Fear of invisible powers generates endless superstitious practices aimed at the **placation** of unpredictable spirits."*

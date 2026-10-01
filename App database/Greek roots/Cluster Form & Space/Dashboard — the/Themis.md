@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek the.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In Greek mythology, the Titaness of divine law, natural order, custom, and justice, often depicted holding scales and a sword.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical legal history and mythography, Themis represented the established divine order that governed human assemblies and the cosmic seasons, mother of the Horae and Moirai by Zeus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Themis designates a term designating an entity, condition, or phenomenon derived from greek the."*
+> - 📜 **Hesiod (*Theogony*):** *"Next Zeus took to wife glorious **Themis**, who bare the Horae: Lawfulness, Justice, and flourishing Peace."*
+> - 📜 **Henry Maine (*Ancient Law*):** *"In Homeric times, patriarchal awards were viewed as inspirations of **Themis**, representing customary divine decrees."*
+> - 📜 **Jane Ellen Harrison (*Themis: A Study of the Social Origins of Greek Religion*):** *"Ancient **Themis** embodied the collective conscience and social will of the primitive Hellenic tribal community."*

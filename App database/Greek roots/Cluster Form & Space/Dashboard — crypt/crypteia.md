@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek crypt.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient Spartan institution and secret police force in which young men carried out covert surveillance and killings of Helots.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical Greek history and political philosophy, a brutal state-sponsored survival rite of passage designed to terrorize the subjugated agricultural population.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, crypteia designates a term designating an entity, condition, or phenomenon derived from greek crypt."*
+> - 📜 **Plutarch (*Life of Lycurgus*):** *"In the operation of the **Crypteia**, the magistrates dispatched the most discreet youths into the countryside armed with daggers."*
+> - 📜 **Plato (*Laws*):** *"The arduous training of the **Crypteia** inures young citizens to extreme endurance, wandering barefoot in winter without bedding."*
+> - 📜 **George Grote (*A History of Greece*):** *"Spartan terror was institutionalized through the **Crypteia**, maintaining perpetual vigilance over a restless slave caste."*

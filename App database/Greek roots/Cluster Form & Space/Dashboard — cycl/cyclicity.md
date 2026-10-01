@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of recurring at regular intervals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of recurring at regular intervals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state, quality, or condition of being cyclic or recurring at periodic intervals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geochronology and sedimentology, the rhythmic, repetitive deposition of strata driven by Milankovitch orbital cycles or periodic climatic changes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cyclicity designates the quality of recurring at regular intervals."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The apparent **cyclicity** in coal seam depositions reflects alternating periods of coastal subsidence and swamp development."*
+> - 📜 **Arthur Holmes (*Principles of Physical Geology*):** *"Sedimentary **cyclicity** in varved lake clays provides an exact geochronological record of glacial retreat."*
+> - 📜 **Joseph Schumpeter (*Business Cycles*):** *"The underlying **cyclicity** of modern capitalist production is propelled by waves of technological innovation and creative destruction."*

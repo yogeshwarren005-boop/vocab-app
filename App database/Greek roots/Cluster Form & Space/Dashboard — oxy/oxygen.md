@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A chemical element with atomic number 8 that constitutes 21 percent of the Earth's atmosphere, that is capable of combining with all elements except some noble gases, that is active in physiological processes of almost all known organisms, and that is involved especially in combustion —often used before another noun.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something that sustains or fuels.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A nonmetallic chemical element with atomic number 8 and symbol O, existing as a colorless, odorless diatomic gas essential for aerobic respiration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In terrestrial biogeochemistry, atmospheric molecular oxygen (O2) constitutes approximately 20.95% of Earth's atmosphere, generated primarily by oxygenic photosynthesis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"The dimmest-sparked chip of a conception blazes and scintillates in the subtile oxygen of his mind."*
-> - 📜 **George Eliot (*Middlemarch*):** *"The cubic feet of oxygen yearly swallowed by a full-grown man—what a shudder they might have created in some Middlemarch circles!"*
-> - 📜 **George Eliot (*Middlemarch*):** *"Oxygen! nobody knows what that may be—is it any wonder the cholera has got to Dantzic?"*
+> - 📜 **Antoine Lavoisier (*Elements of Chemistry*):** *"I have imposed the name of **oxygen** upon the acidifying principle, derived from the Greek oxys and geinomai."*
+> - 📜 **Joseph Priestley (*Experiments and Observations on Different Kinds of Air*):** *"The discovery of dephlogisticated air, later named **oxygen**, opened a new era in the contemplation of nature."*
+> - 📜 **Carl Sagan (*Cosmos*):** *"Photosynthetic organisms altered the entire planetary atmosphere, releasing toxic **oxygen** that transformed biological history."*

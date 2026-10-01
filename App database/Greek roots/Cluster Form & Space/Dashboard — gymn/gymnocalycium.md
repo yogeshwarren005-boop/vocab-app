@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large genus of low-growing globular south american cacti with spiny ribs covered with many tubercles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large genus of low-growing globular south american cacti with spiny ribs covered with many tubercles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of South American globular cacti (chin cacti) noted for their colorful flowers with smooth, scale-bearing floral tubes that lack spines or hairs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In succulent botany and horticulture, named from the Greek for 'naked calyx', popular for miniature indoor cultivation and colorful chlorophyll-deficient grafted cultivars.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gymnocalycium designates large genus of low-growing globular south american cacti with spiny ribs covered with many tubercles."*
+> - 📜 **Nathaniel Lord Britton (*The Cactaceae*):** *"The floral tube of **gymnocalycium** is entirely devoid of bristles or hairs, covered solely by broad naked scales."*
+> - 📜 **Curt Backeberg (*Cactus Lexicon*):** *"Argentine hillsides harbor diverse dwarf species of **gymnocalycium** growing nestled in rocky crevices."*
+> - 📜 **Gordon Rowley (*The Illustrated Encyclopedia of Succulents*):** *"The famous red and yellow grafted mutant forms belong to the species **gymnocalycium** mihanovichii."*

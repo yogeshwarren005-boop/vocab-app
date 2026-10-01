@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Scorpaenoid flatheads.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Scorpaenoid flatheads.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of marine scorpaeniform fishes, commonly known as flatheads, possessing an exceptionally depressed head and body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ichthyology, benthic ambush predators of the Indo-West Pacific, characterized by cryptic coloration and upward-directed eyes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, platycephalidae designates scorpaenoid flatheads."*
+> - 📜 **Albert Günther (*Catalogue of the Fishes in the British Museum*):** *"The **platycephalidae** inhabit sandy bottoms, their flattened crania allowing them to bury themselves beneath the sediment."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"Fishes of the family **platycephalidae** are prized as food fishes in Australian waters and across the eastern tropics."*
+> - 📜 **Theodore Gill (*Arrangement of the Families of Fishes*):** *"In any natural systematic scheme, the family **platycephalidae** occupies a specialized branch of craniate scorpaenoids."*

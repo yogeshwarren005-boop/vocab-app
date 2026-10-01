@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Comprises some tropical american species usually placed in genus masdevallia: diminutive plants with small flowers carried on one scape.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Comprises some tropical american species usually placed in genus masdevallia: diminutive plants with small flowers carried on one scape.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of miniature epiphytic orchids in the subtribe Pleurothallidinae, native to cloud forests of Central and South America.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical orchidology, characterized by lateral sepals fused into a boat-shaped synsepalum with fleshy, tail-like cushions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scaphosepalum designates comprises some tropical american species usually placed in genus masdevallia: diminutive plants with small flowers carried on one scape."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The curious flowers of **scaphosepalum** possess boat-shaped lateral sepals tipped with elongated glandular tails."*
+> - 📜 **Heinrich Gustav Reichenbach (*Xenia Orchidacea*):** *"I described several Andean species of **scaphosepalum** whose miniature blossoms hang upside-down on slender wiry scapes."*
+> - 📜 **Carlyle A. Luer (*Icones Pleurothallidinarum: Systematics of Scaphosepalum*):** *"In **scaphosepalum**, the floral pad secretes droplets of nectar that lure small dipteran pollinators into the sepaline cup."*

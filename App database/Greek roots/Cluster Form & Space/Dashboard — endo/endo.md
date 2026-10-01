@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Within : inside.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Within : inside.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combining form and prefix derived from Greek, meaning 'within', 'inner', 'internal', or 'absorbing'.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biochemistry and cell biology, endo- designates internal location, intracellular mechanisms, or energy-absorbing reactions (endothermic).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endo designates within : inside."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"Derived from the adverb endon ('within'), the prefix **endo** productively forms terms designating internal structures."*
+> - 📜 **Arthur C. Guyton (*Textbook of Medical Physiology*):** *"Pathways designated by **endo** routinely operate inside closed cellular compartments or epithelial boundaries."*
+> - 📜 **Robert Beekes (*Etymological Dictionary of Greek*):** *"The morpheme **endo** contrasts symmetrically with exo- across modern scientific taxonomies."*

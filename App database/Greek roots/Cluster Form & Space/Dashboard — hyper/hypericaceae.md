@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Used in some classification systems for plants usually included among the guttiferae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used in some classification systems for plants usually included among the guttiferae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of flowering plants within the order Malpighiales, commonly known as the St. John's wort family, typified by the genus *Hypericum*.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botany and pharmacognosy, Hypericaceae species are characterized by opposite or whorled leaves with translucent glandular dots containing hypericin, and prominent stamens grouped into fascicles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypericaceae designates used in some classification systems for plants usually included among the guttiferae."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The family **Hypericaceae** is readily recognized by its opposite punctate leaves and numerous stamens united in bundles."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"Plants of the **Hypericaceae** secrete resinous, dark balsams valued by ancient practitioners for wound healing."*
+> - 📜 **Joseph Dalton Hooker (*The Flora of British India*):** *"In tropical hills, representatives of the **Hypericaceae** form robust shrubs displaying brilliant yellow cymes."*

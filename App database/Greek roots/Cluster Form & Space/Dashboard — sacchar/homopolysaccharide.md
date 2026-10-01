@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek sacchar.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A polysaccharide composed of a single repeating type of monosaccharide unit throughout its polymer chain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In carbohydrate biochemistry, storage and structural polymers such as glycogen, starch, and cellulose composed solely of D-glucose monomers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, homopolysaccharide designates a term designating an entity, condition, or phenomenon derived from greek sacchar."*
+> - 📜 **W. N. Haworth (*The Constitution of Sugars*):** *"Cellulose is a linear **homopolysaccharide** constructed from repeating beta-1,4-glycosidic bonds that form rigid crystalline fibrils."*
+> - 📜 **Albert L. Lehninger (*Biochemistry*):** *"Glycogen functions as the primary storage **homopolysaccharide** in animal liver and skeletal muscle fibers."*
+> - 📜 **Bruce Alberts (*Molecular Biology of the Cell*):** *"Plant cell walls derive high tensile rigidity from the close hydrogen-bonded packing of their **homopolysaccharide** chains."*

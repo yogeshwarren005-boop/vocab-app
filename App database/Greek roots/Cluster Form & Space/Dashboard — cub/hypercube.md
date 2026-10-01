@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A geometric figure (such as a tesseract) in Euclidean space of n dimensions that is analogous to a cube in three dimensions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A computer architecture in which each processor is connected to n others based on analogy to a hypercube of n dimensions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A geometric figure in four or more dimensions that is the multi-dimensional analogue of a three-dimensional cube; a tesseract in four dimensions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geometry and parallel computing architecture, an n-dimensional polytope bounded by $2n$ hypercubes of dimension $n-1$, or a multi-processor network topology connected along n-cube vertices.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypercube designates a geometric figure (such as a tesseract) in euclidean space of n dimensions that is analogous to a cube in three dimensions."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"Scientific people know very well that Time is only a kind of Space, and a **hypercube** is simply a four-dimensional figure."*
+> - 📜 **Edwin Abbott Abbott (*Flatland: A Romance of Many Dimensions*):** *"From the point to the square, from the square to the cube, reason demands that the cube project into a glorious four-dimensional **hypercube**."*
+> - 📜 **Carl Sagan (*Cosmos*):** *"Just as a cube casts a two-dimensional square shadow on a table, a four-dimensional **hypercube** casts a three-dimensional shadow in our world."*

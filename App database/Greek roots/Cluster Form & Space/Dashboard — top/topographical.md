@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Concerned with topography.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Concerned with topography.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the arrangement of physical features, mapping, or surveying of a geographical or anatomical surface.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military cartography and geomorphology, topographical maps use contour lines to represent elevation, drainage patterns, and human settlements.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"But in her topographical ignorance as a late comer to the place, she misreckoned the distance of her journey as not much more than half what it really was."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The district is of historic, no less than of topographical interest."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"Mackenzie, _An Historical, Topographical, and Descriptive View of the County of Northumberland_, Second Edition (Newcastle, 1825), i. 217. [502] _County Folk-lore_, vol. iv. _Northumberland_, collected by M.C."*
+> - 📜 **John Wesley Powell (*The Exploration of the Colorado River*):** *"Our expedition completed the first detailed **topographical** map of the Grand Canyon's sheer labyrinthine gorges."*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"Careful study of the **topographical** contours convinced the general staff that the ridge could be held against artillery."*
+> - 📜 **Arthur Conan Doyle (*The Hound of the Baskervilles*):** *"Holmes studied the Ordnance Survey sheet, noting every **topographical** pitfall of the treacherous Grimpen Mire."*

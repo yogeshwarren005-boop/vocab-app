@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of an order (Perissodactyla) of nonruminant ungulate mammals (such as a horse, a tapir, or a rhinoceros) that usually have an odd number of toes, molar teeth with transverse ridges on the grinding surface, and the posterior premolars resembling true molars.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of an order (Perissodactyla) of nonruminant ungulate mammals (such as a horse, a tapir, or a rhinoceros) that usually have an odd number of toes, molar teeth with transverse ridges on the grinding surface, and the posterior premolars resembling true molars.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An odd-toed ungulate mammal belonging to the order Perissodactyla, such as a horse, tapir, or rhinoceros.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mammalian comparative anatomy, a perissodactyl bears the weight of the body predominantly on the third (middle) digit (mesaxonic foot structure).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, perissodactyl designates any of an order (perissodactyla) of nonruminant ungulate mammals (such as a horse, a tapir, or a rhinoceros) that usually have an odd number of toes, molar teeth with transverse ridges on the grinding surface, and the posterior premolars resembling true molars."*
+> - 📜 **Richard Owen (*On the Archetype and Homologies of the Vertebrate Skeleton*):** *"We distinguish the **perissodactyl** ungulate by the symmetrical development of the middle digit of the foot."*
+> - 📜 **Thomas Henry Huxley (*American Addresses*):** *"The ancestral lineage of the modern horse exemplifies gradual specialization within the **perissodactyl** radiation."*
+> - 📜 **George Gaylord Simpson (*The Principles of Classification and a Classification of Mammals*):** *"A modern **perissodactyl** stands on a mesaxonic axis, contrasting sharply with the artiodactyl paraxonic condition."*

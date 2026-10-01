@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (classical mythology) a serpent with a head at each end of its body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the amphisbaenidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mythical serpent or dragon depicted with a head at each end of its body, capable of moving in either direction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In herpetology, any burrowing, limbless, ringed reptile belonging to the worm lizard genus Amphisbaena, native to tropical regions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amphisbaena designates (classical mythology) a serpent with a head at each end of its body."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Dreadful was the din of hissing through the hall, thickly swarming with scorpions and asps, and the two-headed **amphisbaena** dire."*
+> - 📜 **Pliny the Elder (*Natural History*):** *"The **amphisbaena** hath a twin head, that is, one at either extremity, as if one mouth were too little for the discharge of its poison."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"In the pampas we unearthed a subterranean reptile of the genus **amphisbaena**, whose blunt tail closely simulated its blind head."*

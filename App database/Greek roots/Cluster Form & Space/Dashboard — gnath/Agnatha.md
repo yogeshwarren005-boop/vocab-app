@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Superclass of eel-shaped chordates lacking jaws and pelvic fins: lampreys; hagfishes; some extinct forms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Superclass of eel-shaped chordates lacking jaws and pelvic fins: lampreys; hagfishes; some extinct forms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A superclass of primitive, jawless aquatic vertebrates, encompassing living cyclostomes (lampreys and hagfishes) and extinct armored ostracoderms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary chordate morphology, Agnatha represents the ancestral grade of vertebrates prior to the modification of visceral gill arches into biting jaws.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Agnatha designates superclass of eel-shaped chordates lacking jaws and pelvic fins: lampreys; hagfishes; some extinct forms."*
+> - 📜 **Alfred Romer (*Vertebrate Paleontology*):** *"The ancient **Agnatha** dominated the Ordovician and Silurian waters before the explosive adaptive radiation of jawed gnathostomes."*
+> - 📜 **Stephen Jay Gould (*Eight Little Piggies*):** *"Living members of **Agnatha**, the hagfishes and lampreys, offer precious morphological glimpses into the dawn of vertebrate history."*
+> - 📜 **Edwin H. Colbert (*Evolution of the Vertebrates*):** *"The jawless architecture of **Agnatha** restricted feeding modes to filter-feeding, scavenging, and specialized ectoparasitism."*

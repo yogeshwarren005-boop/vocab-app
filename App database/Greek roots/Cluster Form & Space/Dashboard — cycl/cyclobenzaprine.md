@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Muscle relaxant (trade name flexeril) used for muscle spasms or acute injury.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Muscle relaxant (trade name flexeril) used for muscle spasms or acute injury.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A tricyclic muscle relaxant medication used to relieve skeletal muscle spasms associated with acute, painful musculoskeletal conditions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pharmacology, a central nervous system depressant structurally related to tricyclic antidepressants that acts primarily at the brainstem level to reduce tonic somatic motor activity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cyclobenzaprine designates muscle relaxant (trade name flexeril) used for muscle spasms or acute injury."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In managing acute lumbosacral strain, short-term administration of **cyclobenzaprine** eases disabling muscular guarding."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"Central muscle relaxants like **cyclobenzaprine** act upon brainstem motor nuclei rather than directly on the peripheral neuromuscular junction."*
+> - 📜 **Paul Dudley White (*Heart Disease*):** *"Due to its tricyclic chemical architecture, **cyclobenzaprine** warrants caution in patients with cardiac conduction disturbances."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: For example.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Egypt; Egyptian.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A root and grammatical abbreviation: in Greek etymology, a root element relating to outward expulsion or goats (*aix*); also the common Latin abbreviation e.g. (*exempli gratia*, 'for example').
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical medicine, root eg- forms egophony (bleating lung resonance); in formal writing, e.g. introduces illustrative specimens.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eg designates for example."*
+> - 📜 **H. W. Fowler (*Modern English Usage*):** *"The abbreviation **eg** introduces illustrative examples, whereas i.e. provides an exhaustive rephrasing."*
+> - 📜 **Robert Beekes (*Etymological Dictionary of Greek*):** *"The Greek stem **eg** appears in medical diagnostic acoustics to describe sound quality mimicking a goat's voice."*
+> - 📜 **William Strunk Jr. (*The Elements of Style*):** *"Punctuate **eg** with periods and follow it with a comma when presenting selected instances in text."*

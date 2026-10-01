@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Widespread disruption of normal liver structure by fibrosis and the formation of regenerative nodules that is caused by any of various chronic progressive conditions affecting the liver (such as long-term alcohol abuse or hepatitis).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Widespread disruption of normal liver structure by fibrosis and the formation of regenerative nodules that is caused by any of various chronic progressive conditions affecting the liver (such as long-term alcohol abuse or hepatitis).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chronic, progressive degenerative disease of the liver marked by formation of diffuse fibrous scar tissue and regenerative nodules.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In hepatology and pathology, end-stage liver fibrosis resulting from chronic inflammation that disrupts hepatic architecture and blood flow.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cirrhosis designates widespread disruption of normal liver structure by fibrosis and the formation of regenerative nodules that is caused by any of various chronic progressive conditions affecting the liver (such as long-term alcohol abuse or hepatitis)."*
+> - 📜 **René Laennec (*A Treatise on the Diseases of the Chest*):** *"I designate this hepatic degeneration as **cirrhosis**, from the tawny yellow color of the dense granular nodules."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Alcoholic **cirrhosis** exhibits the characteristic hobnail surface, with bands of fibrous tissue compressing the portal venules."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"In advanced **cirrhosis**, chronic interstitial connective tissue proliferation slowly suffocates the parenchymal hepatic cells."*

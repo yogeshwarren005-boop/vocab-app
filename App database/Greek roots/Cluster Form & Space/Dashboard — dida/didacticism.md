@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Designed or intended to teach.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Intended to convey instruction and information in addition to serving another purpose (such as pleasure and entertainment); often : overly instructive.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The philosophy, practice, or quality of being didactic; emphasis on moral or educational instructional value in literature and art.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aesthetics and art criticism, didacticism often implies an excessive subordinating of artistic beauty to ideological or moral indoctrination.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, didacticism designates designed or intended to teach."*
+> - 📜 **Edgar Allan Poe (*The Poetic Principle*):** *"The heresy of **didacticism** assumes that the ultimate goal of poetry is truth and moral virtue, rather than beauty."*
+> - 📜 **Oscar Wilde (*The Decay of Lying*):** *"Art never expresses anything but itself, and the intrusion of **didacticism** heralds the death of pure aesthetic form."*
+> - 📜 **T. S. Eliot (*The Sacred Wood*):** *"Dante achieves great moral depth without vulgar **didacticism**, because his ethical vision is fully realized as poetic imagery."*

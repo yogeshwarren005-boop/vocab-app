@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a metacenter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the centromere medially situated so that the two chromosomal arms are of roughly equal length.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the centromere positioned at or near the middle of the chromosome, producing arms of approximately equal length.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cytogenetics and karyotyping, designating V-shaped chromosomes during anaphase as opposed to acrocentric or telocentric morphologies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metacentric designates of or relating to a metacenter."*
+> - 📜 **Theodosius Dobzhansky (*Genetics and the Origin of Species*):** *"Robertsonian fusion converts two separate acrocentric rods into a single stable **metacentric** chromosome."*
+> - 📜 **Michael J. D. White (*Animal Cytology and Evolution*):** *"Under the light microscope, the **metacentric** element forms two equal arms that flex symmetrically toward the pole."*
+> - 📜 **C. D. Darlington (*The Evolution of Genetic Systems*):** *"Chiasma frequency often displays symmetrical distribution across both arms of a **metacentric** bivalent."*

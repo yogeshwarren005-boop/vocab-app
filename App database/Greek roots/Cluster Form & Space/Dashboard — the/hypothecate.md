@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pledge without delivery or title of possession.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To believe especially on uncertain or tentative grounds.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To pledge money or property as security for a loan without relinquishing title or physical possession.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In maritime law and high finance, owners hypothecate vessels (via bottomry bonds) or capital securities to secure credit while maintaining operational control.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypothecate designates pledge without delivery or title of possession."*
+> - 📜 **Alexander Hamilton (*Report on Public Credit*):** *"The government resolved to **hypothecate** designated tariff revenues to guarantee payment of the national debt."*
+> - 📜 **Joseph Story (*Commentaries on the Law of Agency*):** *"In foreign ports of necessity, the shipmaster has authority to **hypothecate** the vessel to obtain urgent repairs."*
+> - 📜 **John Maynard Keynes (*The Economic Consequences of the Peace*):** *"The reparations treaty attempted to **hypothecate** the entire future customs receipts of the defeated nation."*

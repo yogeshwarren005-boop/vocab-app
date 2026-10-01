@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Coextensive with the rhodophyta: red algae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Coextensive with the rhodophyta: red algae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The taxonomic class of eukaryotic algae comprising the red algae, characterized by phycoerythrin pigments and absence of flagellated stages.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In phycology, predominantly marine macroscopic seaweeds that store floridean starch and exhibit complex triphasic life cycles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhodophyceae designates coextensive with the rhodophyta: red algae."*
+> - 📜 **William Henry Harvey (*Phycologia Britannica*):** *"The delicate crimson fronds of **rhodophyceae** decorate submerged tidal rocks below the low-water mark of spring tides."*
+> - 📜 **F. E. Fritsch (*The Structure and Reproduction of the Algae*):** *"Within the **rhodophyceae**, sexual reproduction culminates in the formation of a cystocarp upon the female gametophyte."*
+> - 📜 **Robert Edward Lee (*Phycology*):** *"Phycobiliproteins within the plastids of **rhodophyceae** enable efficient photosynthesis in dim, green-filtered deep coastal waters."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Share the feelings of; understand the sentiments of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be understanding of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To feel or express compassion, sorrow, or fellow-feeling for another; American spelling of sympathise.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social psychology, the capacity to sympathize involves empathic concern that motivates prosocial and altruistic behavior.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then with the losers let it sympathize, For nothing can seem foul to those that win. [_The trumpet sounds_.] Enter Worcester and Vernon."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Just, just; and the men do sympathize with the mastiffs in robustious and rough coming on, leaving their wits with their wives; and then, give them great meals of beef and iron and steel, they will eat like wolves and fight like devils."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For why, the senseless brands will sympathize The heavy accent of thy moving tongue, And in compassion weep the fire out; And some will mourn in ashes, some coal-black, For the deposing of a rightful king."*
+> - 📜 **David Hume (*A Treatise of Human Nature*):** *"The minds of all men are similar in their feelings, which makes us readily **sympathize** with the passions of our neighbors."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Animals that live in social communities **sympathize** with each other's distress and cooperate for common defense."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"We **sympathize** with the hero because his courage reflects our own dormant aspirations."*

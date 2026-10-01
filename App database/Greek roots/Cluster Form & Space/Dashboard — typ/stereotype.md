@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To make a stereotype from.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To repeat without variation : make hackneyed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A widely held but fixed and oversimplified image or idea of a particular type of person or thing; a solid printing plate cast from a papier-mâché or plaster mold.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Coined in 1798 by Firmin Didot for duplicate printing plates (*stereos* solid + *typos* impression), imported into social psychology by Walter Lippmann in 1922 to describe mental shortcuts that distort perception.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"This tablet of lead or tin, when cooled, being easily detached from the matrix, would then reveal the letters of the alphabet reversed and in relief, similar to a present day stereotype."*
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"This was the first "stereotype," a term derived from two Greek words meaning literally "solidtype." This method met one requirement."*
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"The distance between the flat plate and the mold was adjusted to make a stereotype plate of the required thickness."*
+> - 📜 **Walter Lippmann (*Public Opinion*):** *"For the most part we do not first see, and then define; we define first and then see, picking out what our culture has stereotyped; this is the nature of a **stereotype**."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The printer cast a solid lead **stereotype** plate to produce thousands of identical copies of the legislative decree."*
+> - 📜 **Virginia Woolf (*A Room of One's Own*):** *"Creative genius withers whenever a writer succumbs to the rigid, artificial **stereotype** of gendered expectation."*

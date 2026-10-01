@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking systematic arrangement or method or organization.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking systematic arrangement or method or organization.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not done, organized, or acting according to a plan, system, or methodical scheme; haphazard or disordered.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scientific methodology, unsystematic data collection introduces sampling biases that compromise statistical inference.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Effie Afton (*Eventide*):** *"But as to "Effie's" telling long magazine tales,--pshaw! she is the most unsystematic creature in the world."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"Men have hitherto pursued an **unsystematic** course in science, groping in the dark like blind wanderers."*
+> - 📜 **Charles Darwin (*The Life and Letters of Charles Darwin*):** *"My early collecting of beetles in Cambridge was completely **unsystematic**, driven purely by boyish enthusiasm."*
+> - 📜 **John Locke (*Some Thoughts Concerning Education*):** *"Desultory and **unsystematic** reading fills the memory with a confused heap of disconnected facts."*

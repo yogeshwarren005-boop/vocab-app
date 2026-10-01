@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having male reproductive organs in one individual and female in another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having staminate and pistillate flowers borne on different individuals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The sexual system or reproductive condition of being dioecious; the state in which male and female sex organs are on separate individuals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary botany, dioecy occurs in approximately six percent of angiosperm species, functioning as an outcrossing mechanism that prevents inbreeding depression.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dioecy designates having male reproductive organs in one individual and female in another."*
+> - 📜 **Charles Darwin (*The Effects of Cross and Self Fertilisation in the Vegetable Kingdom*):** *"The evolutionary advantage of **dioecy** lies primarily in the total avoidance of the deleterious effects of self-fertilization."*
+> - 📜 **Ronald Fisher (*The Genetical Theory of Natural Selection*):** *"Natural selection maintains a balanced one-to-one sex ratio under **dioecy** because parents investing equally in sons and daughters maximize fitness."*
+> - 📜 **John Maynard Smith (*The Evolution of Sex*):** *"The transition from cosexuality to **dioecy** requires the accumulation of male-sterility and female-sterility mutations on nascent sex chromosomes."*

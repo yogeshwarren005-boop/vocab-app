@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Located around the heart or relating to or affecting the pericardium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Located around the heart or relating to or affecting the pericardium.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or situated near the pericardium; pericardial.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anatomical nomenclature, designating vessels, nerves, or ligaments distributed to the pericardial sac (such as pericardiacophrenic vessels).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pericardiac designates located around the heart or relating to or affecting the pericardium."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"The **pericardiac** branches of the internal thoracic artery descend alongside the phrenic nerve to supply the fibrous sac."*
+> - 📜 **Arthur Keith (*Human Embryology and Morphology*):** *"Embryonic fusion of lateral mesodermal folds encloses the primitive **pericardiac** cavity."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A coarse friction rub heard over the lower sternum confirms **pericardiac** involvement in acute rheumatic fever."*

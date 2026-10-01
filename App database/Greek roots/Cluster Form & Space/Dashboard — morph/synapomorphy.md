@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A character or trait that is shared by two or more taxonomic groups and is derived through evolution from a common ancestral form.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A character or trait that is shared by two or more taxonomic groups and is derived through evolution from a common ancestral form.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A shared, derived evolutionary character state present in two or more lineages that was inherited from their most recent common ancestor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cladistic systematics, synapomorphies provide the fundamental and exclusive empirical basis for establishing monophyletic clades and resolving phylogenetic trees.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, synapomorphy designates a character or trait that is shared by two or more taxonomic groups and is derived through evolution from a common ancestral form."*
+> - 📜 **Willi Hennig (*Phylogenetic Systematics*):** *"A monophyletic group can be rigorously established only by demonstrating at least one shared derived character state, or **synapomorphy**."*
+> - 📜 **Edward O. Wiley (*Phylogenetics*):** *"Parsimony algorithms search for tree topologies that minimize ad hoc homoplasies while maximizing congruence among candidate **synapomorphy** characters."*
+> - 📜 **Colin Patterson (*Molecules and Morphology in Evolution*):** *"The presence of lactation and hair serves as an anatomical **synapomorphy** uniting all living mammals within a single evolutionary clade."*

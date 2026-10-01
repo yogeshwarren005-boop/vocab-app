@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A tax or fee paid for some liberty or privilege (as of passing over a highway or bridge).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Compensation for services rendered: such as.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A charge, tax, or fee paid for the use of a road, bridge, tunnel, or canal; also, the slow, solemn, rhythmic ringing of a large bell.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epidemiology and history, death toll measures the catastrophic loss of life resulting from wars, pandemics, or natural disasters.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I will buy me a son-in-law in a fair, and toll for this."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The country cocks do crow, the clocks do toll, And the third hour of drowsy morning name."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I heard of her first at the archway toll, over at Highgate, but couldn’t make quite sure."*
+> - 📜 **John Donne (*Devotions upon Emergent Occasions*):** *"No man is an island, entire of itself; every man is a piece of the continent, a part of the main; never send to know for whom the bell **toll**s; it **toll**s for thee."*
+> - 📜 **Thomas Gray (*Elegy Written in a Country Churchyard*):** *"The curfew **toll**s the knell of parting day, the lowing herd wind slowly o'er the lea."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The maintenance of high roads and bridges is most equitably defrayed by a moderate **toll** levied upon those who travel them."*

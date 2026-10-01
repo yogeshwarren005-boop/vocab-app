@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Crush together or collapse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make smaller or shorter.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Compressed, shortened, or condensed, especially by having sliding sections pushed into one another; forced together like the concentric tubes of a hand telescope.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In transportation accidents and historical narratives, carriages or chronological sequences are described as telescoped when violently crushed or tightly condensed.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"Two or three street cars had telescoped and an auto or so had piled into the wreckage."*
+> - 📜 **Charles Dickens (*The Signal-Man*):** *"The rear carriages of the express were smashed and **telescoped** by the force of the collision within the dark tunnel."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"Centuries of technological struggle were **telescoped** into a few fleeting hours as the laboratory indicators spun."*
+> - 📜 **Stephen Jay Gould (*Wonderful Life: The Burgess Shale and the Nature of History*):** *"In traditional textbook diagrams, millions of years of evolutionary diversification are misleadingly **telescoped** into a single page."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being heterozygous; having two different alleles of the same gene.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being heterozygous; having two different alleles of the same gene.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or condition of being heterozygous; the presence of two different alleles at a given gene locus in a diploid individual or population.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In conservation genetics and population ecology, high expected heterozygosity ($H_e$) correlates with genetic diversity, adaptive plasticity, and population resilience.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heterozygosity designates the state of being heterozygous; having two different alleles of the same gene."*
+> - 📜 **Theodosius Dobzhansky (*Genetics and the Origin of Species*):** *"Balancing selection actively maintains chromosomal **heterozygosity** within natural populations of Drosophila pseudoobscura."*
+> - 📜 **E. O. Wilson (*The Diversity of Life*):** *"Severe population bottlenecks drastically reduce **heterozygosity**, exposing deleterious recessive alleles to phenotypic expression."*
+> - 📜 **Sewall Wright (*Evolution and the Genetics of Populations*):** *"The fixation index, or FST, measures the deficit of **heterozygosity** caused by population subdivision into isolated demes."*

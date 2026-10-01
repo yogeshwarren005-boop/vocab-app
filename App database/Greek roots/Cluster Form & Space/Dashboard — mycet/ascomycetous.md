@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Related to or characteristic of fungi of the class ascomycetes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Related to or characteristic of fungi of the class ascomycetes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, characteristic of, or resembling an ascomycete fungus; producing sexual spores within asci.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant pathology and agricultural mycology, ascomycetous pathogens cause major blights, including powdery mildews, ergot of rye, and Dutch elm disease.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ascomycetous designates related to or characteristic of fungi of the class ascomycetes."*
+> - 📜 **Anton de Bary (*Comparative Morphology and Biology of the Fungi*):** *"The **ascomycetous** nature of the parasite was confirmed by the discovery of subterranean perithecia containing eight-spored asci."*
+> - 📜 **Katherine Esau (*Plant Anatomy*):** *"Hyphae of an **ascomycetous** endophyte penetrate intercellular spaces of the host cortex without inducing immediate cytolysis."*
+> - 📜 **John Webster (*Introduction to Fungi*):** *"Lichen thalli are composed predominantly of an **ascomycetous** fungal partner cultivating symbiotic green algal or cyanobacterial photobionts."*

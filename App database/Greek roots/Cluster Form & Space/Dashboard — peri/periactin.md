@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An antihistamine (trade name periactin) used to treat some allergic reactions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An antihistamine (trade name periactin) used to treat some allergic reactions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A brand name for cyproheptadine, a first-generation antihistamine with antiserotonergic and appetite-stimulating properties.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pharmacology and pediatrics, periactin is used to treat allergic rhinitis, stimulate weight gain, and manage serotonin syndrome.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, periactin designates an antihistamine (trade name periactin) used to treat some allergic reactions."*
+> - 📜 **Louis Sanford Goodman (*The Pharmacological Basis of Therapeutics*):** *"Cyproheptadine, marketed as **periactin**, antagonizes both histamine H1 and serotonin 5-HT2 receptors."*
+> - 📜 **Tinsley R. Harrison (*Principles of Internal Medicine*):** *"In severe serotonin toxicity, the administration of **periactin** helps block central serotonergic hyperactivation."*
+> - 📜 **Eugene Braunwald (*Harrison's Principles of Internal Medicine*):** *"Clinical trials noted marked weight gain in children receiving **periactin** due to hypothalamic appetite modulation."*

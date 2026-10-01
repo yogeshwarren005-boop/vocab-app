@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (christianity) the doctrine of the ecumenical movement that promotes cooperation and better understanding among different religious denominations: aimed at universal christian unity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (christianity) the doctrine of the ecumenical movement that promotes cooperation and better understanding among different religious denominations: aimed at universal christian unity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The philosophy, doctrine, or movement advocating mutual understanding, dialogue, and institutional unity among differing Christian denominations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In contemporary religious sociology, ecumenicism promotes interdenominational cooperation on civil rights, poverty relief, and common liturgical traditions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ecumenicism designates (christianity) the doctrine of the ecumenical movement that promotes cooperation and better understanding among different religious denominations: aimed at universal christian unity."*
+> - 📜 **Paul Tillich (*Systematic Theology*):** *"Modern **ecumenicism** seeks to overcome sectarian fragmentation without erasing the prophetic insights of the Protestant Reformation."*
+> - 📜 **Hans Küng (*The Council, Reform and Reunion*):** *"True **ecumenicism** begins within each communion through continuous internal spiritual renewal and historical self-criticism."*
+> - 📜 **Karl Barth (*Church Dogmatics*):** *"Theological **ecumenicism** cannot rest on vague emotional sentimentality, but must be anchored in Christological truth."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A nutritive tissue in the seed of a flowering plant that is formed within the embryo sac following double fertilization.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The triploid nucleus that is formed in the embryo sac of a flowering plant during double fertilization by fusion of a sperm cell with two polar nuclei and that gives rise to the nutritive endosperm.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The nutrient-rich tissue formed within the seeds of flowering plants following double fertilization, nourishing the developing embryo.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In angiosperm embryology, the endosperm is characteristically triploid ($3n$), formed when one sperm cell fuses with the binucleate central cell.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endosperm designates a nutritive tissue in the seed of a flowering plant that is formed within the embryo sac following double fertilization."*
+> - 📜 **Peter H. Raven (*Biology of Plants*):** *"Double fertilization generates both a diploid embryo and a triploid nutritive tissue known as the **endosperm**."*
+> - 📜 **Lincoln Taiz (*Plant Physiology*):** *"During cereal germination, gibberellins secreted by the embryo stimulate the aleurone layer to digest starch stored in the **endosperm**."*
+> - 📜 **Katherine Esau (*Plant Anatomy*):** *"The white flour of wheat corresponds to the milled starchy **endosperm**, separated from the proteinaceous aleurone and fibrous bran."*

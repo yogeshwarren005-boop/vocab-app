@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of the.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of the.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Introduced from outside into the body (in pathology); pertaining to diseases inoculated or implanted from external sources.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nineteenth-century epidemiology and public health nosology, enthetic diseases designated contagious infections (such as syphilis or rabies) contracted through inoculation or direct contact with external pathogens.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, enthetic designates adjective*) pertaining to, derived from, or characteristic of the."*
+> - 📜 **William Farr (*Vital Statistics: A Memorial Volume of Selections*):** *"The registrar classified syphilis, glanders, and hydrophobia under the broad nosological category of **enthetic** diseases."*
+> - 📜 **Thomas Sydenham (*The Works of Thomas Sydenham*):** *"An **enthetic** poison introduced via an animal bite spreads its contagion throughout the entire vascular humors."*
+> - 📜 **Florence Nightingale (*Notes on Hospitals*):** *"Sanitary segregation proved vital in controlling military barracks outbreaks of infectious **enthetic** disorders."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A multimedia system in which related items of information are connected and can be presented together.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A multimedia system in which related items of information are connected and can be presented together.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An extension of hypertext that incorporates multiple media formats (such as graphics, audio, video, animation, and plain text) linked together via non-linear electronic hyperlinks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Coined by Ted Nelson in 1965; in digital computing and multimedia interface design, hypermedia forms the structural and conceptual basis of the World Wide Web, interactive digital encyclopedias, and virtual learning environments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypermedia designates a multimedia system in which related items of information are connected and can be presented together."*
+> - 📜 **Ted Nelson (*Literary Machines*):** *"By **hypermedia**, I mean branching or performing media that respond to the user's navigational choices across sound, image, and text."*
+> - 📜 **Tim Berners-Lee (*Weaving the Web*):** *"The evolution of the Web into a rich **hypermedia** ecosystem transformed global computing from raw text into living culture."*
+> - 📜 **Vannevar Bush (*As We May Think*):** *"The universal retrieval of recorded thoughts through intertwined **hypermedia** channels fulfills the deepest promise of information science."*

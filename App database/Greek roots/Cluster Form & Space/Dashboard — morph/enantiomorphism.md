@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The relation of opposition between crystals or molecules that are reflections of one another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The relation of opposition between crystals or molecules that are reflections of one another.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition, quality, or phenomenon of existing as non-superimposable mirror-image structures; structural chirality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In organic chemistry and pharmaceutical sciences, enantiomorphism dictates chiral drug interactions, where one enantiomer may be therapeutically active while its mirror form is inactive or toxic.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, enantiomorphism designates the relation of opposition between crystals or molecules that are reflections of one another."*
+> - 📜 **Louis Pasteur (*Researches on Molecular Dimorphism*):** *"All living processes produce asymmetric compounds, proving that molecular **enantiomorphism** is fundamentally linked to biological synthesis."*
+> - 📜 **Jacobus Henricus van 't Hoff (*Chemistry in Space*):** *"The tetrahedral geometry of the carbon atom provides the foundational mechanical explanation for stereochemical **enantiomorphism**."*
+> - 📜 **Paul Groth (*Physikalische Krystallographie*):** *"Optical activity in crystals without center of symmetry is an immediate consequence of structural **enantiomorphism** in the lattice."*

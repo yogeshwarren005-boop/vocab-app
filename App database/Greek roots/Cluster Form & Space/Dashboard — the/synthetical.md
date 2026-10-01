@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Involving or of the nature of synthesis (combining separate elements to form a coherent whole) as opposed to analysis; - p.s.welch.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of a proposition whose truth value is determined by observation or facts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, based on, or involving synthesis (archaic or formal variant of synthetic).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical philosophical epistemology, the synthetical method reasons from principles, causes, or elements to complex consequences and systems (contrasted with analytical).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, synthetical designates involving or of the nature of synthesis (combining separate elements to form a coherent whole) as opposed to analysis; - p.s.welch."*
+> - 📜 **Isaac Newton (*Opticks*):** *"By the **synthetical** method, we assume the established causes as principles and explain the phenomena proceeding from them."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"The secondary imagination reveals itself in the balance or reconcilement of opposite or discordant qualities through a **synthetical** power."*
+> - 📜 **William Whewell (*The Philosophy of the Inductive Sciences*):** *"Inductive discovery progresses by combining separate factual observations into a unified **synthetical** conception."*

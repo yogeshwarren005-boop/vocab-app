@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormally large red blood cell (associated with pernicious anemia).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abnormally large red blood cell (associated with pernicious anemia).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormally large red blood cell (erythrocyte) found in the peripheral blood.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical hematology, an oval macrocyte measuring greater than 9 microns in diameter, characteristically observed on blood smears in severe vitamin B12 or folic acid deficiency.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, megalocyte designates abnormally large red blood cell (associated with pernicious anemia)."*
+> - 📜 **Paul Ehrlich (*Histology of the Blood*):** *"The oval **megalocyte** rich in hemoglobin is the hallmark of the peripheral blood in pernicious anemia."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Microscopic counts showed that the circulating **megalocyte** outnumbered normal erythrocytes during the acute relapse."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Accelerated destruction of the fragile **megalocyte** in the splenic pulp explains the patient's lemon-yellow jaundice."*

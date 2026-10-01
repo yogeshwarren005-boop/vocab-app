@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: cotyledon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: cotyledon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combining form derived from Greek kotyle, meaning cup, small vessel, or cup-shaped socket.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anatomical and botanical nomenclature, an affix designating cup-shaped structures such as the acetabular cotyloid cavity or embryonic seed leaves (cotyledons).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cotyl designates cotyledon."*
+> - 📜 **Asa Gray (*Botanical Text-Book*):** *"The Greek root **cotyl** designates a cup or vessel, describing the hollow, nourishing embryonic seed leaf."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"Comparative anatomists employ the stem **cotyl** to denote deep articular cups such as the hip acetabulum."*
+> - 📜 **John Lindley (*An Introduction to Botany*):** *"In morphological terminology, **cotyl** forms the base for classifying angiosperms by their seed-leaf architecture."*

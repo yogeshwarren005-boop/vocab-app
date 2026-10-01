@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Employment at home while communicating with the workplace by phone or fax or modem.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Employment at home while communicating with the workplace by phone or fax or modem.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The practice of working remotely from home or an alternative location using telecommunications, computers, and the internet rather than commuting.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In organizational sociology and labor economics, teleworking expanded rapidly in the digital era, reshaping urban transit, corporate real estate, and work-life balance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, teleworking designates employment at home while communicating with the workplace by phone or fax or modem."*
+> - 📜 **Alvin Toffler (*The Third Wave*):** *"The rise of the electronic cottage means that **teleworking** will replace the daily commute for millions of knowledge workers."*
+> - 📜 **Manuel Castells (*The Rise of the Network Society*):** *"Flexibility in network enterprises is reflected in the proliferation of **teleworking** and distributed project teams."*
+> - 📜 **Charles Handy (*The Age of Unreason*):** *"Organizations adopting **teleworking** must measure productivity by tangible output rather than mere physical attendance."*

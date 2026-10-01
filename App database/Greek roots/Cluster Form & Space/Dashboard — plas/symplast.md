@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek plas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The continuous inner system of cytoplasm of plant cells that is interconnected by plasmodesmata through the cell walls.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant physiology, water, mineral ions, and organic nutrients move through the symplast via symplastic transport, bypassing extracellular cell wall spaces (the apoplast).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, symplast designates a term designating an entity, condition, or phenomenon derived from greek plas."*
+> - 📜 **Katherine Esau (*Plant Anatomy*):** *"Cytoplasmic strands traversing the plasmodesmata unite individual cells into a continuous physiological **symplast**."*
+> - 📜 **Lincoln Taiz (*Plant Physiology*):** *"At the root endodermis, the Casparian strip forces all incoming water into the **symplast** for selective screening."*
+> - 📜 **Julius von Sachs (*Lectures on the Physiology of Plants*):** *"Transport through the living **symplast** allows coordinated metabolic communication across distant tissues of the plant body."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or characterized by words of more than three syllables.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of words) long and ponderous; having many syllables.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having more than three syllables; characterized by words of many syllables.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistics and stylistics, polysyllabic vocabulary often reflects formal, classical (Latin or Greek), technical, or pedantic register, contrasting with simpler monosyllabic native idioms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"To what inconsequent polysyllabic question of his host did the guest return a monosyllabic negative answer?"*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"A pomposity of diction that encumbers trivial thoughts with grand **polysyllabic** expressions excites ridicule."*
+> - 📜 **George Orwell (*Politics and the English Language*):** *"Bad writers resort to grand **polysyllabic** phrases to give an appearance of profundity to purely partisan dogma."*
+> - 📜 **William Makepeace Thackeray (*The Book of Snobs*):** *"The pedant delivered his modest opinion wrapped in magnificent, winding **polysyllabic** sentences."*

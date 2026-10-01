@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or having sclerosis; hardened.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or having sclerosis; hardened.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Hardened, thickened, or indurated through pathological chronic inflammation, fibrosis, or sclerosis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vascular and nervous pathology, describing blood vessels or neural tracts that have undergone fibrous degeneration and loss of elasticity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sclerosed designates relating to or having sclerosis; hardened."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Upon palpation, the radial artery felt rigid and **sclerosed** like a pipe-stem due to advanced Monckeberg medial calcification."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"The **sclerosed** tissue in chronic nephritis displays extensive replacement fibrosis around collapsed glomeruli."*
+> - 📜 **Vinay Kumar (*Robbins and Cotran Pathologic Basis of Disease*):** *"Microscopic sections through the plaque reveal **sclerosed** glia replacing myelinated axons in the cerebral white matter."*

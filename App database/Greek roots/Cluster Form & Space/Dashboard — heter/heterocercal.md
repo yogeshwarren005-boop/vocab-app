@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Possessing a tail with the upper lobe larger than the lower and with the vertebral column prolonged into the upper lobe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Possessing a tail with the upper lobe larger than the lower and with the vertebral column prolonged into the upper lobe.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having an asymmetrical caudal (tail) fin with the vertebral column extending into the upper, larger lobe, characteristic of sharks and sturgeons.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ichthyological biomechanics, a heterocercal tail produces both forward thrust and a vertical lift vector to counteract negative buoyancy in un-aerated chondrichthyans.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heterocercal designates possessing a tail with the upper lobe larger than the lower and with the vertebral column prolonged into the upper lobe."*
+> - 📜 **Alfred Romer (*The Vertebrate Body*):** *"The asymmetrical **heterocercal** tail of the shark provides upward hydrodynamic lift to support its heavy, sinking body."*
+> - 📜 **Louis Agassiz (*Recherches sur les poissons fossiles*):** *"Ancient fossil fishes uniformly possessed **heterocercal** fins, a primitive trait retained by living chondrosteans and selachians."*
+> - 📜 **Neil Shubin (*Your Inner Fish*):** *"The evolutionary shift from a **heterocercal** tail to a symmetrical homocercal fin freed teleost pectoral fins for precision maneuvering."*

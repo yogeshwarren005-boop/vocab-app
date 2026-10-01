@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek phag.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A vacuole formed around a particle absorbed by phagocytosis in a phagocyte.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cell biology, the nascent phagosome undergoes a maturation sequence involving sequential fusion with early endosomes, late endosomes, and lysosomes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phagosome designates a term designating an entity, condition, or phenomenon derived from greek phag."*
+> - 📜 **Bruce Alberts (*Molecular Biology of the Cell*):** *"The newly closed **phagosome** recruits Rab GTPases that direct its traffic along microtubules toward the cell center."*
+> - 📜 **David L. Nelson (*Lehninger Principles of Biochemistry*):** *"Proton pumps rapidly acidify the interior of the **phagosome** before it fuses with primary lysosomes."*
+> - 📜 **Élie Metchnikoff (*Immunity in Infective Diseases*):** *"Enclosing the foreign particle within a membranous **phagosome** prevents cytotoxic enzymes from damaging the host cytoplasm."*

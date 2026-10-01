@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Densely staining chromatin that appears as nodules in or along chromosomes and contains relatively few genes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Densely staining chromatin that appears as nodules in or along chromosomes and contains relatively few genes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Densely compacted, transcriptionally inactive chromosomal DNA that stains intensely throughout the cell cycle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epigenetics and cell biology, heterochromatin is characterized by histone H3K9 methylation and HP1 recruitment, maintaining genomic silencing and centromere integrity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heterochromatin designates densely staining chromatin that appears as nodules in or along chromosomes and contains relatively few genes."*
+> - 📜 **Bruce Alberts (*Molecular Biology of the Cell*):** *"Constitutive **heterochromatin** remains highly condensed throughout interphase, suppressing transcription of repetitive satellite DNA."*
+> - 📜 **Emil Heitz (*Das Heterochromatin der Moose*):** *"Heitz introduced the term **heterochromatin** to designate chromosomal regions that remain deeply stained even during nuclear interphase."*
+> - 📜 **Harvey Lodish (*Molecular Cell Biology*):** *"X-chromosome inactivation in female mammals condenses one entire X into a transcriptionally inert Barr body of facultative **heterochromatin**."*

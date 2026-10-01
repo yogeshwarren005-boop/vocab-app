@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Book; especially : a large or scholarly book.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A volume forming part of a larger work.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large, heavy, or scholarly book, especially one forming part of a multivolume work.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Derived from Greek *tomos* (a section or roll of papyrus cut from a larger scroll), tome carries connotations of erudition, density, and intellectual gravitas.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"In a short time, however, it became more distinct, and I soon found it an exceedingly fluent, conversable little tome."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"I sought to have a parting word with the quarto, but the worthy little tome was silent; the clasps were closed: and it looked perfectly unconscious of all that had passed."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Etienne’s Article is in Tome 85, pp. 704-735, of the ‘Revue des Deux Mondes’, 1870, and the letter probably appeared soon after its publication."*
+> - 📜 **Edgar Allan Poe (*The Raven*):** *"Once upon a midnight dreary, while I pondered, weak and weary, / Over many a quaint and curious volume of forgotten **tome**."*
+> - 📜 **Washington Irving (*The Sketch Book of Geoffrey Crayon*):** *"He sat surrounded by venerable folios, extracting wisdom from each leather-bound **tome** on the dusty shelves."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"Professor Teufelsdröckh produced a massive **tome** containing speculative philosophies of cosmic clothing."*

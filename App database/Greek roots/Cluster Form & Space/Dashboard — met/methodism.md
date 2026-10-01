@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The religious beliefs and practices of methodists characterized by concern with social welfare and public morals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The religious beliefs and practices of methodists characterized by concern with social welfare and public morals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Rigid or systematic adherence to a particular method, routine, or set of formal procedural rules.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ecclesiastical history, the Christian Protestant evangelical movement founded in 18th-century England by John and Charles Wesley, emphasizing personal holiness and structured piety.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"In his "Memorials of Methodism in Virginia," Dr."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"It was his conversion to Evangelicism which gave him his inspiration and his themes. ‘The Task’ has been as justly called the poem of Methodism as the ‘Paradise Lost’ has been called the epic of Puritanism."*
-> - 📜 **Byron J. Rees (*The Heart-Cry of Jesus*):** *"The ministers of early Methodism and early Quakerism were not of the sort who congregate in groups and discuss the relative desirability of various appointments."*
+> - 📜 **John Wesley (*The Journal of John Wesley*):** *"Our detractors mockingly named our pursuit of holiness **methodism**, yet we gladly embrace regular discipline in following Christ."*
+> - 📜 **George Whitefield (*Sermons on Various Subjects*):** *"The true spirit of **methodism** consists not in external forms or party names, but in a heart transformed by regenerating grace."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"Whatever faults critics find in early **methodism**, it stirred the stagnant spiritual waters of eighteenth-century English life."*

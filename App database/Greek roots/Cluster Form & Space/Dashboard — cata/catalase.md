@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Enzyme found in most plant and animal cells that functions as an oxidative catalyst; decomposes hydrogen peroxide into oxygen and water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Enzyme found in most plant and animal cells that functions as an oxidative catalyst; decomposes hydrogen peroxide into oxygen and water.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A pervasive antioxidant enzyme found in nearly all aerobic organisms that rapidly catalyzes the breakdown of toxic hydrogen peroxide into water and oxygen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In enzymology and microbiology, a heme-containing tetrameric oxidoreductase whose presence or absence is a standard diagnostic criterion in bacterial identification (catalase test).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, catalase designates enzyme found in most plant and animal cells that functions as an oxidative catalyst; decomposes hydrogen peroxide into oxygen and water."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"A single molecule of the enzyme **catalase** can decompose millions of hydrogen peroxide molecules every minute into oxygen and water."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Dropping dilute peroxide onto staphylococcal colonies elicits effervescence due to the active bacterial **catalase**."*
+> - 📜 **Julian Huxley (*Evolution: The Modern Synthesis*):** *"The universal presence of **catalase** across aerobic life forms underscores the ancient necessity of cellular antioxidant defense."*

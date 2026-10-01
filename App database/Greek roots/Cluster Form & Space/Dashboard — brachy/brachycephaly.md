@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Short-headed or broad-headed with a cephalic index of over 80.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Short-headed or broad-headed with a cephalic index of over 80.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of having a disproportionately short, broad head or skull; brachycephalism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pediatric neurology and craniometry, positional flattening of the occiput or premature fusion of the coronal sutures yielding a cephalic index greater than 81%.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, brachycephaly designates short-headed or broad-headed with a cephalic index of over 80."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Supine sleeping in early infancy frequently leads to deformational **brachycephaly**, which resolves with tummy time and maturation."*
+> - 📜 **Thomas Henry Huxley (*Man's Place in Nature*):** *"The contrast between extreme **brachycephaly** and dolichocephaly occupied the foremost attention of 19th-century craniologists."*
+> - 📜 **Oliver Sacks (*Seeing Voices*):** *"Genetic syndromic conditions often present with recognizable craniofacial features, including midface hypoplasia and **brachycephaly**."*

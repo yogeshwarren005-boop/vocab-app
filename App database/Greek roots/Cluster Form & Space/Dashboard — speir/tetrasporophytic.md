@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of sow.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of sow.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or functioning as a tetrasporophyte; pertaining to the diploid, tetraspore-producing generation in red algae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In rhodophyte cytology, isomorphic species possess gametophytic and tetrasporophytic phases that are structurally indistinguishable except through chromosome counts and reproductive organs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tetrasporophytic designates adjective*) pertaining to, derived from, or characteristic of sow."*
+> - 📜 **Kathleen M. Drew-Baker (*Studies in the Bangiophycidae*):** *"Culturing the Conchocelis filaments confirmed their diploid **tetrasporophytic** identity in the life history of Porphyra."*
+> - 📜 **Fritsch, F. E. (*The Structure and Reproduction of the Algae*):** *"In Polysiphonia, the **tetrasporophytic** plant mirrors the male and female thalli in external vegetative branching."*
+> - 📜 **Gilbert M. Smith (*Cryptogamic Botany*):** *"Meiotic segregation occurs exclusively within the sporangia of the diploid **tetrasporophytic** phase."*

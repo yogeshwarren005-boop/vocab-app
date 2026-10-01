@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessive acidity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Excessive acidity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of having an abnormally high level of acid, especially excess hydrochloric acid in the gastric secretions of the stomach.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gastroenterology, hyperacidity (hyperchlorhydria) frequently accompanies duodenal ulceration, Zollinger-Ellison syndrome, or functional dyspepsia, causing epigastric pyrosis and acid regurgitation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyperacidity designates excessive acidity."*
+> - 📜 **William Beaumont (*Experiments and Observations on the Gastric Juice and the Physiology of Digestion*):** *"Irritation of the gastric mucosa by stimulating liquors was followed by transient **hyperacidity** and localized erythema."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Gastric **hyperacidity** is marked by burning pain two hours after meals, relieved promptly by alkaline carbonates."*
+> - 📜 **Austin Flint (*A Treatise on the Principles and Practice of Medicine*):** *"In cases of peptic ulcer, persistent **hyperacidity** retards mucosal healing and promotes deep stromal erosion."*

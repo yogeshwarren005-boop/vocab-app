@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling epithelium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resembling epithelium.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling epithelial cells or tissue in morphology or arrangement (variant spelling of epithelioid).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In histopathology, epitheliod cells denote activated histiocytes/macrophages with abundant pale pink cytoplasm that characterize granulomatous conditions like tuberculosis and sarcoidosis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epitheliod designates resembling epithelium."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A tuberculous tubercle is typically composed of giant cells surrounded by a zone of pale **epitheliod** cells."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Certain chronic granulomatous lesions present large, tightly packed **epitheliod** histiocytes."*
+> - 📜 **Alexis Carrel (*Studies in Tissue Culture*):** *"Under in vitro conditions, wandering fibroblasts may assume a flattened, **epitheliod** appearance."*

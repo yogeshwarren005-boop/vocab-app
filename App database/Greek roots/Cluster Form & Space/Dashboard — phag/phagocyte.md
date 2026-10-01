@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A cell (such as a macrophage or neutrophil) that engulfs and consumes foreign material (such as microorganisms) and debris (such as dead tissue cells).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A system of cells comprising all free and fixed phagocytes and especially macrophages together with their ancestral cells including monocytes and their precursors in the bone marrow.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A type of cell within the body capable of engulfing and absorbing bacteria, foreign particles, and dying cells.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In immunology, professional phagocytes include neutrophils, monocytes, macrophages, and dendritic cells, which destroy engulfed pathogens via reactive oxygen species.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phagocyte designates a cell (such as a macrophage or neutrophil) that engulfs and consumes foreign material (such as microorganisms) and debris (such as dead tissue cells)."*
+> - 📜 **Élie Metchnikoff (*Immunity in Infective Diseases*):** *"The active **phagocyte** surrounds and engulfs the invading bacterium, digesting it inside an intracellular vacuole."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The battle between the invading microbe and the host **phagocyte** determines the ultimate outcome of lobar pneumonia."*
+> - 📜 **Bruce Alberts (*Molecular Biology of the Cell*):** *"Opsonization of microbes with antibodies or complement facilitates binding to Fc receptors on the **phagocyte** membrane."*

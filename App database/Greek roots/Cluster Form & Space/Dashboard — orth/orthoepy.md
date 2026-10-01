@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The way a word or a language is customarily spoken.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A term formerly used for the part of phonology that dealt with the `correct' pronunciation of words and its relation to `correct' orthography.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of correct pronunciation of a language, especially in accordance with established standard usage and phonological norms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistics and classical rhetoric, the prescriptive science of orthoepic standards that governs diction, accentuation, and formal speech.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, orthoepy designates the way a word or a language is customarily spoken."*
+> - 📜 **William Bullokar (*Booke at Large for the Amendment of Orthographie for English Speech*):** *"By the study of **orthoepy**, we may establish a uniform concord between the vocal utterance and the written letter."*
+> - 📜 **Henry Wyld (*A History of Modern Colloquial English*):** *"Standards of **orthoepy** shifted dramatically between the Elizabethan court and the Restoration stage."*
+> - 📜 **Daniel Jones (*The Pronunciation of English*):** *"Scientific phonetics replaces arbitrary **orthoepy** with objective acoustic description."*

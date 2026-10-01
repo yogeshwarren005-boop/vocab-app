@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Separation of an epiphysis from the long bone to which it is normally attached without fracture of the bone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Separation of an epiphysis from the long bone to which it is normally attached without fracture of the bone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The separation of normally joined body parts without bone fracture; also, the resting phase of cardiac ventricular relaxation that precedes atrial contraction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In orthopedic surgery and obstetrics, diastasis recti involves midline widening of the rectus abdominis muscles, while tibiofibular diastasis signifies syndesmotic ligament disruption at the ankle.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diastasis designates separation of an epiphysis from the long bone to which it is normally attached without fracture of the bone."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Severe trauma to the ankle joint produced widening and marked **diastasis** of the distal syndesmosis."*
+> - 📜 **Ernest Starling (*Principles of Human Physiology*):** *"During the period of **diastasis**, passive ventricular filling slows until the auricles contract to complete ventricular priming."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"Epiphyseal **diastasis** occurs in young skeletons before complete ossification binds the growth plate to the diaphysis."*

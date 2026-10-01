@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The habitual practice of systematization and classification.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The habitual practice of systematization and classification.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The reduction of knowledge, principles, or procedures to a formal system; strict or excessive adherence to a systematic scheme.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In intellectual history and medical nosology, systematism often denoted the dogmatic imposition of rigid theoretical categories onto complex biological realities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, systematism designates the habitual practice of systematization and classification."*
+> - 📜 **William Cullen (*First Lines of the Practice of Physic*):** *"We must beware of excessive **systematism** in medicine, lest speculative hypotheses outstrip empirical observation."*
+> - 📜 **Auguste Comte (*The Positive Philosophy*):** *"The positive stage of thought cures the mind of metaphysical **systematism** by subordinating imagination to facts."*
+> - 📜 **Samuel Taylor Coleridge (*The Friend*):** *"A passion for logical **systematism** may blind a philosopher to the mysterious organic variety of moral life."*

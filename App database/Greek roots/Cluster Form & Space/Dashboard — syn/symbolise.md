@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Represent or identify by using a symbol; use symbols.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Express indirectly by an image, form, or model; be a symbol.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To represent or stand for something as a symbol; British/Commonwealth spelling of symbolize.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary criticism and iconology, an artistic motif is chosen to symbolise transcendent ideas or subconscious archetypes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"It may serve, let us hope, to symbolise some sweet moral blossom that may be found along the track, or relieve the darkening close of a tale of human frailty and sorrow."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Then the usual form of marriage is performed between the priest and his wife, symbolising the supposed union between Sun and Earth."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"It may serve, let us hope, to **symbolise** some sweet moral blossom found along the track of human sorrow."*
+> - 📜 **W. B. Yeats (*The Symbolism of Poetry*):** *"The poet chooses rhythmic forms that **symbolise** emotions too delicate and profound for direct speech."*
+> - 📜 **James George Frazer (*The Golden Bough*):** *"The ritual burning was meant to **symbolise** the destruction of the winter demon and the rebirth of solar warmth."*

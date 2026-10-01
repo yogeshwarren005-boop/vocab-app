@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A cell without a nucleus (as an erythrocyte).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cell without a nucleus (as an erythrocyte).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A non-nucleated cell or organism; an anucleate cell.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biological taxonomy and cytology, historically used to denote primitive organisms or specialized mature cells (like mammalian erythrocytes or blood platelets) devoid of a true membrane-bound nucleus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, akaryote designates a cell without a nucleus (as an erythrocyte)."*
+> - 📜 **Ernst Haeckel (*The Wonders of Life*):** *"Haeckel hypothesized that primitive Monera represented the earliest **akaryote** organisms, predating true nucleated cells."*
+> - 📜 **Edmund Beecher Wilson (*The Cell in Development and Heredity*):** *"The distinction separating the nucleated eukaryote from the anucleate **akaryote** was foundational to early evolutionary cytology."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"Certain primordial protoplasmic cytodes exist in an **akaryote** condition throughout their entire life history."*

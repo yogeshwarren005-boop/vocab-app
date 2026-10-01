@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Spray very finely.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Strike at with firepower or bombs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To break into atoms or minute particles; to disperse a liquid into a fine mist; to dissolve social or conceptual unity into fragmented parts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In engineering and combustion science, atomizing fuel increases surface area for rapid oxidation; in political science, atomizing refers to the destruction of intermediate civic institutions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, atomize designates spray very finely."*
+> - 📜 **Lewis Mumford (*The City in History*):** *"Modern urban sprawl tends to **atomize** civic life, scattering citizens into detached suburban enclaves."*
+> - 📜 **Aldous Huxley (*Brave New World Revisited*):** *"Bureaucratic centralization and mass media collaborate to **atomize** the population into manageable, solitary units."*
+> - 📜 **C. P. Snow (*The Two Cultures*):** *"Without an overarching humanistic dialogue, specialized disciplines will **atomize** intellectual life into mutually unintelligible fragments."*

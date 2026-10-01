@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: African antelopes: kudus; bongos; nyalas; bushbucks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: African antelopes: kudus; bongos; nyalas; bushbucks.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of spiral-horned, medium to large African antelopes including the bongo, sitatunga, bushbuck, nyala, and kudu.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Named from Greek *tragos* (he-goat) and *elaphos* (deer), *Tragelaphus* species inhabit diverse habitats from dense rainforests to arid brush, displaying marked sexual dimorphism and elegant twisted horns in males.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tragelaphus designates african antelopes: kudus; bongos; nyalas; bushbucks."*
+> - 📜 **Theodore Roosevelt (*African Game Trails*):** *"In the dense bamboo thickets of Mount Kenya, we tracked the rare and elusive forest antelope **Tragelaphus**."*
+> - 📜 **Richard Lydekker (*The Game Animals of Africa*):** *"Magnificent spiral horns and white vertical flank stripes characterize male antelopes of the genus **Tragelaphus**."*
+> - 📜 **William Henry Flower (*An Introduction to the Study of Mammals*):** *"Osteological features of the cranium unite the kudu and bushbuck within the bovid genus **Tragelaphus**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: allomorph.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: a distinctive collocation of phones (such as a portmanteau form) that serves as the realization of more than one morpheme in a context (such as the French du for the sequence of de and le).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A distinct physical, structural, or behavioral form or variant of an organism within a polymorphic population.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In descriptive linguistics, the concrete phonetic or orthographic realization of an underlying grammatical morpheme in an utterance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, morph designates allomorph."*
+> - 📜 **E. B. Ford (*Ecological Genetics*):** *"Industrial melanism in the peppered moth demonstrates how natural selection rapidly increases the frequency of the dark **morph**."*
+> - 📜 **Zellig Harris (*Methods in Structural Linguistics*):** *"Every spoken utterance can be segmented into a linear succession of phones, each representing a concrete linguistic **morph**."*
+> - 📜 **Ernst Mayr (*Systematics and the Origin of Species*):** *"Taxonomists must not mistakenly describe each ecological **morph** as an independent biological species."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument that measures the depth of water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instrument that measures the depth of water.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument or device used for measuring the depth of water in seas, oceans, or lakes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In hydrography, an apparatus using weighted wire soundings, hydrostatic pressure sensors, or echo sounding to map bathymetric contours.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bathymeter designates an instrument that measures the depth of water."*
+> - 📜 **Charles Wyville Thomson (*The Depths of the Sea*):** *"The newly calibrated **bathymeter** registered four thousand fathoms as the sounding weight touched the red abyssal clay."*
+> - 📜 **Alexander von Humboldt (*Cosmos*):** *"The deep-sea **bathymeter** revealed that the ocean floor possesses mountain ranges and valleys as rugged as those of the Andes."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"Soundings registered by the acoustic **bathymeter** traced the towering underwater peaks of the Mid-Atlantic Ridge."*

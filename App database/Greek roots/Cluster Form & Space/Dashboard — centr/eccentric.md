@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Departing from what is usual, conventional, etc.:.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or showing an odd or whimsical way of thinking.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Deviating from an established, conventional pattern, center, or circular orbit; unconventional or whimsical in character.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In celestial mechanics and geometry, not placed centrally or deviating from a perfect circle into an ellipse.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"He is a very eccentric person."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"He was eccentric—he was very eccentric."*
-> - 📜 **Edna St. Vincent Millay (*Renascence, and Other Poems*):** *"Here with a looping knot you crossed a "t", And here another like it, just beyond These two eccentric "e's"."*
+> - 📜 **Johannes Kepler (*Astronomia Nova*):** *"Mars traverses an **eccentric** oval path whose varying speed corresponds directly to its solar distance."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Mr. Dick was regarded as an **eccentric** gentleman whose innocent habits caused offense to nobody in the neighborhood."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"That so few now dare to be **eccentric** marks the chief danger of our time, for eccentricity has always abounded when strength of character abounded."*

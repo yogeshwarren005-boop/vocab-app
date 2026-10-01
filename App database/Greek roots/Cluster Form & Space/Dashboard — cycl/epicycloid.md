@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A curve traced by a point on a circle that rolls on the outside of a fixed circle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A curve traced by a point on a circle that rolls on the outside of a fixed circle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A plane curve traced by a point on the circumference of a circle as it rolls without slipping around the outside of a fixed circle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geometry and mechanical gear design, a roulette curve utilized in profiling the addendum of epicyclic and spur gear teeth to maintain constant angular velocity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epicycloid designates a curve traced by a point on a circle that rolls on the outside of a fixed circle."*
+> - 📜 **Christiaan Huygens (*Horologium Oscillatorium*):** *"The properties of the **epicycloid** guarantee that gear teeth roll upon one another with pure rolling and minimal friction."*
+> - 📜 **Leonhard Euler (*Mechanica*):** *"The rectification of the **epicycloid** demonstrates its kinship with the common cycloid discovered by Galileo."*
+> - 📜 **D'Arcy Wentworth Thompson (*On Growth and Form*):** *"The spiral coils of ammonite shells can be modeled geometrically by an expanding logarithmic **epicycloid**."*

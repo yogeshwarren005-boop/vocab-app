@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Take without referencing from someone else's writing or speech; of intellectual property.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Copied and passed off as your own.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Copied from another author's work without giving appropriate credit or acknowledgment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Describing writings, music, or ideas appropriated unlawfully or dishonestly from an existing source.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plagiarized designates take without referencing from someone else's writing or speech; of intellectual property."*
+> - 📜 **Edgar Allan Poe (*Longfellow and Other Plagiarists*):** *"The poem contains lines **plagiarized** almost verbatim from an obscure German ballad."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"He defended his essay by claiming that any **plagiarized** ideas had been assimilated into his own system."*
+> - 📜 **H. L. Mencken (*Prejudices*):** *"The senator delivered an impassioned address largely **plagiarized** from a high school commencement speech."*

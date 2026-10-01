@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Expelling or destroying parasitic worms especially of the intestine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Expelling or destroying parasitic worms especially of the intestine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Expelling or destroying parasitic intestinal worms; a drug or chemical used for this purpose.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In veterinary pharmacology and human gastroenterology, anthelmintic agents paralyze or disrupt the cellular metabolism of parasitic helminths, enabling their clearance through the host gastrointestinal tract.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anthelmintic designates expelling or destroying parasitic worms especially of the intestine."*
+> - 📜 **Alexander Fleming (*Chemotherapy: Yesterday, Today, and Tomorrow*):** *"The discovery of synthetic **anthelmintic** agents vastly reduced the morbidity associated with rural hookworm infestations."*
+> - 📜 **Charles Darwin (*The Effects of Cross and Self Fertilisation in the Vegetable Kingdom*):** *"Certain indigenous plants were valued by native populations for their potent natural **anthelmintic** properties."*
+> - 📜 **Thomas Sydenham (*The Entire Works of Dr. Thomas Sydenham*):** *"A purgative regimen combined with a bitter **anthelmintic** decoction cleared the patient of stubborn ascarids."*

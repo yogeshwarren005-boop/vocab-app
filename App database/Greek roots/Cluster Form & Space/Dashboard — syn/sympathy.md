@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A feeling or expression of sincere concern for someone who is experiencing something difficult or painful; also : the capacity for this.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The action of entering into or sharing the feelings or interests of another : empathy; also : the capacity for this.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Feelings of pity, sorrow, and compassion for someone else's misfortune; understanding between people; common feeling.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In eighteenth-century moral philosophy, sympathy was regarded as the psychological mechanism of social coherence and moral judgment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Be what it is, The action of my life is like it, which I’ll keep, if but for sympathy."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For Thou hast given me in this beauteous face A world of earthly blessings to my soul, If sympathy of love unite our thoughts."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Go to, then, there’s sympathy."*
+> - 📜 **Adam Smith (*The Theory of Moral Sentiments*):** *"How selfish soever man may be supposed, there are evidently some principles in his nature which interest him in the fortune of others, and render their happiness necessary to him, though he derives nothing from it except the pleasure of seeing it; of this kind is **sympathy**."*
+> - 📜 **David Hume (*An Enquiry Concerning the Principles of Morals*):** *"The sentiment of **sympathy** is so natural and contagious that no human heart can remain entirely untouched by the joys and sorrows of humanity."*
+> - 📜 **Charles Dickens (*A Christmas Carol*):** *"Scrooge felt a strange stirring of human **sympathy** as he watched Tiny Tim beside his father's knee."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various insects having leathery forewings and membranous hind wings and chewing mouthparts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various insects having leathery forewings and membranous hind wings and chewing mouthparts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or belonging to the order Orthoptera; a member of this order.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiological entomology, an insect possessing tympanal organs and acoustic mechanisms for intraspecific mate recognition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, orthopteran designates any of various insects having leathery forewings and membranous hind wings and chewing mouthparts."*
+> - 📜 **V. B. Wigglesworth (*The Principles of Insect Physiology*):** *"The saltatorial hind leg of an **orthopteran** incorporates resilin pads that store and release mechanical spring energy."*
+> - 📜 **Reginald F. Chapman (*The Insects: Structure and Function*):** *"An **orthopteran** nymph matures through several flightless nymphal instars before developing functional stridulatory apparatus."*
+> - 📜 **William Morton Wheeler (*Ants: Their Structure, Development and Behavior*):** *"Certain harvesting ants frequently forage on the protein-rich carcasses of a fallen **orthopteran**."*

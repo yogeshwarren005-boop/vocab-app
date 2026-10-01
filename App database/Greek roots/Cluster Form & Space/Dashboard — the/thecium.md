@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small containing structure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small containing structure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The spore-bearing fertile layer (hymenium) of certain fungi, especially ascomycetes, containing the asci and sterile paraphyses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In lichenology and cryptogamic botany, the thecium (or hymenium) is the tissue layer in apothecia or perithecia where ascospores are generated and discharged.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thecium designates small containing structure."*
+> - 📜 **Heinrich Anton de Bary (*Comparative Morphology and Biology of the Fungi, Mycetozoa and Bacteria*):** *"In Discomycetes, the **thecium** lies exposed on the upper surface of the apothecial disc."*
+> - 📜 **Miles Joseph Berkeley (*Outlines of British Fungology*):** *"The slender sterile paraphyses packed tightly in the **thecium** prevent the developing asci from drying out."*
+> - 📜 **William Jackson Hooker (*The English Flora*):** *"Cross sections of the lichen shield display a pigmented **thecium** resting upon the medullary stratum."*

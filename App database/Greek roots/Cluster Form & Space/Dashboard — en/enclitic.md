@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A clitic that is associated with a preceding word : a word that is treated in pronunciation as forming a part of a preceding word and that is often unaccented or contracted.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A clitic that is associated with a preceding word : a word that is treated in pronunciation as forming a part of a preceding word and that is often unaccented or contracted.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A word or particle grammatically joined so closely to the preceding word that it loses its independent accent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical Greek grammar and Indo-European metrics, enclitic pronouns and particles lean phonetically upon the host word, modifying its accentuation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Oun: Greek particle Ou^’n, then, now then, etc. 131. the enclitic De: Greek De {Delta epsilon}; in regard to this, the following letter by Browning appeared in the London ‘Daily News’ of Nov. 21, 1874: “To the Editor of ‘The Daily News’."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Sir,-- In a clever article this morning you speak of ‘the doctrine of the enclitic De’--‘which, with all deference to Mr."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Browning: but pray defer to Herr Buttmann, whose fifth list of ‘enclitics’ ends ‘with the inseparable De’--or to Curtius, whose fifth list ends also with ‘De (meaning ‘towards’ and as a demonstrative appendage)’."*
+> - 📜 **Herbert Weir Smyth (*Greek Grammar*):** *"An **enclitic** throws its accent back upon the preceding word under precise euphonic rules governing morae."*
+> - 📜 **Robert Browning (*A Grammarian's Funeral*):** *"He settled Hoti's business—let it be!—properly based Oun—gave us the doctrine of the **enclitic** De!"*
+> - 📜 **Eduard Schwyzer (*Griechische Grammatik*):** *"The loss of tonal autonomy in an **enclitic** mirrors syntactic cohesion within the spoken sentence."*

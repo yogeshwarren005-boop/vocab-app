@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the amphisbaenidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the amphisbaenidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A suborder of squamate reptiles comprising the worm lizards, characterized by elongated, limbless bodies and adaptations for subterranean burrowing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate phylogenetics, a specialized fossorial clade of lepidosaurs possessing heavily ossified skulls and distinctive ring-like annuli around the trunk.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amphisbaenia designates type genus of the amphisbaenidae."*
+> - 📜 **Alfred Romer (*Vertebrate Paleontology*):** *"The skull of **Amphisbaenia** is consolidated into a compact, bullet-shaped digging tool, perfectly adapted for head-first soil penetration."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"In **Amphisbaenia**, the outer skin is divided into regular rectangular segments that resemble the metameres of an earthworm."*
+> - 📜 **Edward O. Wilson (*The Diversity of Life*):** *"Hidden beneath the tropical leaf litter, species of **Amphisbaenia** tunnel through subterranean runways in search of termites."*

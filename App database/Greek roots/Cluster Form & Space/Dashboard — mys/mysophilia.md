@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek mys.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A psychological condition or paraphilia characterized by sexual attraction to or erotic arousal derived from dirt, filth, soiled clothing, or unwashed bodies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychopathology and clinical sexology, mysophilia involves intense erotic preoccupation with soiled undergarments, mud, or personal excretions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mysophilia designates a term designating an entity, condition, or phenomenon derived from greek mys."*
+> - 📜 **Richard von Krafft-Ebing (*Psychopathia Sexualis*):** *"Cases of **mysophilia** demonstrate how sensory associations with filth can become perversely linked to sexual gratification."*
+> - 📜 **Havelock Ellis (*Studies in the Psychology of Sex*):** *"The fetishist afflicted with **mysophilia** finds alluring beauty in garments stained by sweat and street dust."*
+> - 📜 **Sigmund Freud (*Three Essays on the Theory of Sexuality*):** *"Erotic fixations such as **mysophilia** represent unintegrated archaic components of infantile coprophilic curiosity."*

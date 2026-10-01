@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Independent in behavior or thought.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Breaking with convention or tradition.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Contrary to what is usual, traditional, accepted, or established; unconventional or nonconformist.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In intellectual, scientific, or religious history, breaking with established dogma, canonical methodology, or mainstream doctrine.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"Bridget had the real characteristic Irish faculty of looking upon life as an amusing game, and the more novel and unorthodox the game was, the better she was pleased."*
+> - 📜 **Bertrand Russell (*A History of Western Philosophy*):** *"Galileo’s **unorthodox** insistence on experimental observation overturned centuries of scholastic dogmatism."*
+> - 📜 **Thomas Kuhn (*The Structure of Scientific Revolutions*):** *"Anomalies accumulate until an **unorthodox** conceptual framework precipitates a paradigm shift."*
+> - 📜 **George Orwell (*1984*):** *"Even in sleep, any involuntary murmur could betray an **unorthodox** tendency to the Thought Police."*

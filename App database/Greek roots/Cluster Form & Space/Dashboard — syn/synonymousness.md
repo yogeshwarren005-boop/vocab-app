@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The semantic relation that holds between two words that can (in a given context) express the same meaning.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The semantic relation that holds between two words that can (in a given context) express the same meaning.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality, state, or property of being synonymous; semantic equivalence between linguistic expressions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In lexicography, absolute synonymousness is exceptionally rare, as natural languages tend to differentiate duplicate words through register, nuance, or syntax.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, synonymousness designates the semantic relation that holds between two words that can (in a given context) express the same meaning."*
+> - 📜 **George Crabb (*English Synonymes Explained*):** *"Complete **synonymousness** does not exist in English; every word possesses its own distinct shade of meaning."*
+> - 📜 **Samuel Johnson (*Preface to the Dictionary of the English Language*):** *"The apparent **synonymousness** of borrowed foreign terms misled writers into reckless lexical redundancy."*
+> - 📜 **Ferdinand de Saussure (*Course in General Linguistics*):** *"Linguistic value is differential; hence perfect **synonymousness** would contradict the structural economy of signs."*

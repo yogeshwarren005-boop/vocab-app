@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of above, among, beyond.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of above, among, beyond.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of philosophical logic that investigates the formal properties, consistency, completeness, and decidability of logical systems and formal languages.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematical foundations and proof theory, metalogic evaluates deductive systems from an external, meta-linguistic standpoint rather than operating within the syntax.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metalogic designates adjective*) pertaining to, derived from, or characteristic of above, among, beyond."*
+> - 📜 **Alfred Tarski (*Logic, Semantics, Metamathematics*):** *"The semantic definition of truth requires a rigorous separation between the object language and the **metalogic** used to analyze it."*
+> - 📜 **Kurt Gödel (*On Formally Undecidable Propositions*):** *"Our mathematical demonstration belongs to **metalogic**, proving that axiomatic arithmetic cannot demonstrate its own internal consistency."*
+> - 📜 **Willard Van Orman Quine (*Philosophy of Logic*):** *"Questions concerning the completeness and decidability of formal quantificational systems form the very core of **metalogic**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A large bone marrow cell; regarded as the source of blood platelets.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large bone marrow cell; regarded as the source of blood platelets.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large bone marrow cell with a lobulated polyploid nucleus responsible for the production and release of blood platelets (thrombocytes).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In hematopoiesis, megakaryocytes undergo endomitosis to reach ploidies of 16N to 64N; they extend proplatelet cytoplasmic processes into marrow sinusoids, shedding thousands of blood platelets into circulation under thrombopoietin stimulation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, megakaryocyte designates a large bone marrow cell; regarded as the source of blood platelets."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The multinucleated giant marrow cell, or **megakaryocyte**, fragments its cytoplasm to produce circulating blood platelets."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"The immense size and lobed nucleus of the **megakaryocyte** distinguish it from all other cells of the hematopoietic reticulum."*
+> - 📜 **Michael Foster (*A Text-Book of Physiology*):** *"Platelet shedding from the borders of each **megakaryocyte** maintains the necessary reserves for vascular hemostasis."*

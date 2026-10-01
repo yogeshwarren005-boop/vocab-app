@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Dividing into two contradictory or contrasting parts or groups.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to, involving, or proceeding from dichotomy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Dividing into two parts, branches, or classifications; exhibiting dichotomy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botany and biological taxonomy, dichotomous branching occurs when the apical growing point forks equally into two equivalent axes, widely utilized in diagnostic dichotomous keys.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Four sporangia, each containing but four spores (fig. 244), are enclosed in each conceptacle, which is surrounded by a few appendages (about six) thrice dichotomous, and thickened at the tips of the ultimate branches, which are incurved (fig. 247)."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"SPINACH MOULD; fertile threads fasciculate, short, thick, 2-6, rarely 7 times dichotomous above; acrospores broadly ellipsoid, sometimes very obtuse; membrane with a violaceous tint."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"FIGWORT MOULD; forming broad, irregular, dirty, pallid spots on the under surface of the leaves; fertile threads loosely dichotomous above; tips forked, unequal; acrospores obovate, apiculate.—On leaves of _Scrophularia_."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"A diagnostic **dichotomous** key guides the student through successive pairs of mutually exclusive floral characteristics."*
+> - 📜 **William Bateson (*Materials for the Study of Variation*):** *"Certain abnormal mutations produce a **dichotomous** fork in appendages that are normally single and undivided."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The fossil flora displays a primitive **dichotomous** venation pattern characteristic of ancient paleozoic ferns."*

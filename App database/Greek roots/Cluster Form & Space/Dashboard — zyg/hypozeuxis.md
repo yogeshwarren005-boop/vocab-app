@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek zyg.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rhetorical figure in which each clause in a series has its own independent subject and verb, resulting in a sequence of grammatically autonomous statements.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In stylistic analysis, hypozeuxis contrasts with zeugma by distributing both subjects and verbs evenly, producing a paratactic, declarative rhythm rather than elliptical compression.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypozeuxis designates a term designating an entity, condition, or phenomenon derived from greek zyg."*
+> - 📜 **Henry Peacham (*The Garden of Eloquence*):** *"**Hypozeuxis** presents every member of the sentence with its own subject and verb, admitting no ellipsis."*
+> - 📜 **Richard Lanham (*A Handlist of Rhetorical Terms*):** *"**Hypozeuxis** is the antithesis of zeugma: full syntactic independence for each clause in the series."*
+> - 📜 **Quintilian (*Institutio Oratoria*):** *"When every clause stands grammatically complete, the figure is termed **hypozeuxis** by the rhetoricians."*

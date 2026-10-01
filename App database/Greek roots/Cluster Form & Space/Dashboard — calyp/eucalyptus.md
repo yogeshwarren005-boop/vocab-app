@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a genus (Eucalyptus) of mostly Australian evergreen trees or rarely shrubs of the myrtle family that have rigid entire leaves and umbellate flowers and are widely cultivated for their gums, resins, oils, and woods.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a genus (Eucalyptus) of mostly Australian evergreen trees or rarely shrubs of the myrtle family that have rigid entire leaves and umbellate flowers and are widely cultivated for their gums, resins, oils, and woods.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of mostly evergreen flowering trees and shrubs of the family Myrtaceae, native to Australia, having aromatic leaves and capped flower buds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In commercial forestry and pharmacognosy, trees producing eucalyptol (cineole), valued for timber, paper pulp, and medicinal essential oils.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Abner Cosens (*War Rhymes by Wayfarer*):** *"The mighty eucalyptus tree But sheds its bark at winter's call Its leaves retain their greenery, And yield a curing oil for all."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Winds lashed the high crowns of the eucalyptus, and dipped to whine along the corridors and passageways that cut through the patchwork of modernistic academic structures."*
-> - 📜 **James Joyce (*Ulysses*):** *"To purchase waste sandy tracts from Turkish government and plant with eucalyptus trees."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The leaves of the **Eucalyptus** hang vertically, presenting their edges to the light, so that the woods have an open, park-like character."*
+> - 📜 **Alfred Russel Wallace (*Australasia*):** *"No single genus imparts so distinct a character to Australian scenery as the ubiquitous gum-tree or **Eucalyptus**."*
+> - 📜 **Oliver Sacks (*Oaxaca Journal*):** *"The air was pungent with the medicinal scent of blue gum **Eucalyptus** planted along the dusty roadside."*

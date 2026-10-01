@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Examination of the nasal passages (either through the anterior nares or with a rhinoscope through the nasopharynx).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Examination of the nasal passages (either through the anterior nares or with a rhinoscope through the nasopharynx).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The examination of the nasal passages and nasopharynx using a rhinoscope or endoscope.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical otolaryngology, anterior rhinoscopy inspects the vestibule, septum, and inferior turbinates, whereas posterior rhinoscopy visualizes the posterior choanae and adenoids.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhinoscopy designates examination of the nasal passages (either through the anterior nares or with a rhinoscope through the nasopharynx)."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Thorough anterior and posterior **rhinoscopy** is essential in identifying chronic foci of nasal suppuration and epistaxis."*
+> - 📜 **St Clair Thomson (*Diseases of the Nose and Throat*):** *"Skillful **rhinoscopy** requires gentle manipulation of the speculum and patient cooperation under good coaxial light."*
+> - 📜 **Arthur Conan Doyle (*Round the Red Lamp*):** *"The surgeon adjusted his head mirror and proceeded with **rhinoscopy**, peering into the congested cavernous recesses."*

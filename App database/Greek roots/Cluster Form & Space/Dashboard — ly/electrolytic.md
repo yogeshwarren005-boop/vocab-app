@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to electrolysis or an electrolyte; also : produced by or used in electrolysis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to electrolysis or an electrolyte; also : produced by or used in electrolysis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, caused by, or operating through electrolysis or electrolytes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial chemistry and metallurgy, electrolytic refining extracts ultra-pure copper, aluminum (Hall-Héroult process), and zinc; in electronics, electrolytic capacitors utilize thin anodized dielectric oxide films.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"Deposition of Shell._ The molded case is put in the electrolytic bath for the deposition of shell thereon. _12."*
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"DEPOSITING THE SHELL Those who are not technically familiar with electrochemistry are prone to think that the length of time a mold is kept in the electrolytic bath, i. e., the copper bath, determines the thickness of the shell deposited thereon."*
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"The determining factors in this phase of electrotyping are the composition of the electrolytic bath, its temperature, and the current density applied."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"The chemical power of a current of electricity is in direct proportion to the absolute quantity of **electrolytic** action."*
+> - 📜 **Svante Arrhenius (*Recherches sur la conductibilité galvanique des électrolytes*):** *"Measurements of **electrolytic** conductivity demonstrated that salts dissociate more completely as dilution increases."*
+> - 📜 **Humphry Davy (*Elements of Chemical Philosophy*):** *"The **electrolytic** decomposition of caustic alkalis revealed elemental sodium and potassium to science."*

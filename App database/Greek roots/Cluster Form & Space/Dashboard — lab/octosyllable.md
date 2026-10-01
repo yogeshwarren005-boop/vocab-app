@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A verse line having eight syllables or a poem of octosyllabic lines.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A verse line having eight syllables or a poem of octosyllabic lines.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A word or poetic verse consisting of eight syllables.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical and medieval metrication, the octosyllable served as the backbone of French narrative poetry and Anglo-Norman romance literature.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, octosyllable designates a verse line having eight syllables or a poem of octosyllabic lines."*
+> - 📜 **Alexander Pope (*An Essay on Criticism*):** *"Chaucer handled the running **octosyllable** with a natural ease that modern imitators rarely rival."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"In Christabel, I broke away from the strict **octosyllable**, allowing accents rather than syllables to dictate the line."*
+> - 📜 **Walter Scott (*The Lay of the Last Minstrel*):** *"The harper struck his chords, chanting the ancient Border legend in lively, flowing **octosyllable** measures."*

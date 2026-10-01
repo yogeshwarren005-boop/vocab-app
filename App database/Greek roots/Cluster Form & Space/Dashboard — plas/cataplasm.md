@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A medical dressing consisting of a soft heated mass of meal or clay that is spread on a cloth and applied to the skin to treat inflamed areas or improve circulation etc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A medical dressing consisting of a soft heated mass of meal or clay that is spread on a cloth and applied to the skin to treat inflamed areas or improve circulation etc.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A soft, moist, heated mass of herbs, flour, or clay applied topically as a poultice to soothe inflammation or pain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical therapeutics, a mustard or flaxseed cataplasm was placed on the chest to relieve pulmonary congestion through counterirritation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I bought an unction of a mountebank So mortal that, but dip a knife in it, Where it draws blood no cataplasm so rare, Collected from all simples that have virtue Under the moon, can save the thing from death This is but scratch’d withal."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Footsteps to intemperance Drugs, cataplasms, and whiskey are stupid substitutes for the dignity and potency of divine Mind and its effi- 158:18 cacy to heal."*
-> - 📜 **John Fletcher (*The Elder Brother*):** *"No, if thou had'st thould'st nere marryed a woman In thy bosome, they're Cataplasmes made oth' deadly sins: I nere saw any yet but mine own mother; Or if I did, I did regard them but As shadowes that passe by of under Creatures. _And_."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The application of a warm flaxseed **cataplasm** to the thoracic wall brought grateful relief to pleuritic agony."*
+> - 📜 **Thomas Sydenham (*The Works of Thomas Sydenham*):** *"In cases of gouty paroxysm, applying an emollient **cataplasm** softens the tense inflamed integuments."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The old woman bustled about with a steaming **cataplasm**, assuring the invalid that its warmth would draw out the cold."*

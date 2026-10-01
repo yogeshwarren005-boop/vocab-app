@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A very small interval equal to half a comma.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A very small interval equal to half a comma.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In musical acoustics, a tiny interval of about 1.953 cents, representing the difference between the Pythagorean comma and the syntonic comma.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical ecclesiastical Latin, a formal division, rent, or schism within the unity of the Church.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, schisma designates a very small interval equal to half a comma."*
+> - 📜 **Hermann von Helmholtz (*On the Sensations of Tone*):** *"The **schisma** is so minute that even the keenest ear can scarcely distinguish it when listening to melodic intervals in isolation."*
+> - 📜 **Boethius (*De Institutione Musica*):** *"In harmonic arithmetic, the minuscule **schisma** represents the fraction by which twelve perfect fifths exceed seven octaves plus a comma."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"A deplorable ecclesiastical **schisma** divided the patriarchates of Rome and Constantinople, severing theological communion for centuries."*

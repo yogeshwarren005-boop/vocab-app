@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek brachy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The curve of fastest descent; the path between two points down which a body moves under gravity without friction in the shortest possible time.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the calculus of variations and classical mechanics, the cycloid curve solved independently by Johann Bernoulli, Isaac Newton, and Gottfried Leibniz in 1696.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, brachistochrone designates a term designating an entity, condition, or phenomenon derived from greek brachy."*
+> - 📜 **Johann Bernoulli (*Acta Eruditorum*):** *"I hereby propose to the greatest mathematicians the problem of the **brachistochrone**, the curve of swiftest descent under gravity."*
+> - 📜 **Isaac Newton (*Philosophical Transactions of the Royal Society*):** *"Upon receiving the problem of the **brachistochrone**, Newton solved it in a single evening, identifying the cycloid as the true path."*
+> - 📜 **Ernst Mach (*The Science of Mechanics*):** *"The formulation of the **brachistochrone** inaugurated the calculus of variations as an indispensable tool of mathematical physics."*

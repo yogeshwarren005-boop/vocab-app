@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek opisth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of the eukaryotic supergroup Opisthokonta, characterized by cells that propel themselves with a single posterior flagellum, including animals and fungi.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology, the opisthokonts represent a major clade uniting Metazoa, Fungi, and several protist lineages, supported by molecular phylogenetics and shared biochemical traits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, opisthokont designates a term designating an entity, condition, or phenomenon derived from greek opisth."*
+> - 📜 **Thomas Cavalier-Smith (*A Revised Six-Kingdom System of Life*):** *"The **opisthokont** clade is defined by the posterior position of the locomotory flagellum in ancestral cells."*
+> - 📜 **Sandra Baldauf (*The Deep Roots of Eukaryotes*):** *"Animals and fungi, despite their superficial differences, both belong to the **opisthokont** supergroup."*
+> - 📜 **Sina Adl (*The Revised Classification of Eukaryotes*):** *"The **opisthokont** lineage is one of the most robustly supported branches of the eukaryotic tree of life."*

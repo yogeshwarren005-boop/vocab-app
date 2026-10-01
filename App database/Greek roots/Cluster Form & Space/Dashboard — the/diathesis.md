@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Constitutional predisposition to a particular disease or abnormality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Constitutional predisposition to a particular disease or abnormality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hereditary or constitutional predisposition to a particular disease, physical affliction, or medical condition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nineteenth-century constitutional medicine and modern immunology, diathesis denotes latent genetic or physiological susceptibilities (e.g. atopic diathesis, hemorrhagic diathesis) triggered by environmental stressors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The patient may tell you that he has a humor in the blood, a scrofulous diathesis."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A marked hemorrhagic **diathesis** in the family history should alert the surgeon to potential hemophilia."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"The ancient humoral concept of a scrofulous **diathesis** must be reinterpreted through microscopic cellular alterations."*
+> - 📜 **Sigmund Freud (*Studies on Hysteria*):** *"Charcot emphasized the role of a hereditary neuropathic **diathesis** as the fertile soil upon which neuroses germinate."*

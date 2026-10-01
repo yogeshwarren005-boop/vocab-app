@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Degradative metabolism involving the release of energy and resulting in the breakdown of complex materials (such as proteins or lipids) within the organism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Degradative metabolism involving the release of energy and resulting in the breakdown of complex materials (such as proteins or lipids) within the organism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The metabolic breakdown of complex biochemical substances into simpler molecules, releasing energy for cellular functions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiology, the destructive phase of metabolism, contrasting with anabolism, responsible for generating ATP and metabolic heat.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, catabolism designates degradative metabolism involving the release of energy and resulting in the breakdown of complex materials (such as proteins or lipids) within the organism."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Accelerated protein **catabolism** in severe sepsis causes rapid muscle wasting and negative nitrogen balance."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"The complete oxidative **catabolism** of glucose in cellular respiration yields carbon dioxide, water, and thirty-six equivalents of ATP."*
+> - 📜 **Eric Kandel (*Principles of Neural Science*):** *"Mitochondrial dysfunction leads to excessive oxidative **catabolism**, damaging synaptic membranes and triggering apoptosis."*

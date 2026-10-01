@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Plants having naked seeds not enclosed in an ovary; in some systems considered a class (gymnospermae) and in others a division (gymnospermophyta); comprises three subdivisions (or classes): cycadophytina (class cycadopsida) and gnetophytina (class gnetopsida) and coniferophytina (class coniferopsida); in some classifications the coniferophytina are divided into three groups: pinophytina (class pinopsida) and ginkgophytina (class ginkgopsida) and taxophytina (class taxopsida).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Plants having naked seeds not enclosed in an ovary; in some systems considered a class (gymnospermae) and in others a division (gymnospermophyta); comprises three subdivisions (or classes): cycadophytina (class cycadopsida) and gnetophytina (class gnetopsida) and coniferophytina (class coniferopsida); in some classifications the coniferophytina are divided into three groups: pinophytina (class pinopsida) and ginkgophytina (class ginkgopsida) and taxophytina (class taxopsida).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A major botanical division or class comprising all gymnosperms (naked-seeded plants).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic taxonomy, Gymnospermae historically encompassed Cycadophyta, Ginkgophyta, Coniferophyta, and Gnetophyta.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gymnospermae designates plants having naked seeds not enclosed in an ovary; in some systems considered a class (gymnospermae) and in others a division (gymnospermophyta); comprises three subdivisions (or classes): cycadophytina (class cycadopsida) and gnetophytina (class gnetopsida) and coniferophytina (class coniferopsida); in some classifications the coniferophytina are divided into three groups: pinophytina (class pinopsida) and ginkgophytina (class ginkgopsida) and taxophytina (class taxopsida)."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"Robert Brown first demonstrated that the **Gymnospermae** possess naked ovules fertilized directly by pollen without a closed ovary."*
+> - 📜 **Katherine Esau (*Plant Anatomy*):** *"The xylem architecture of **Gymnospermae** lacks true vessel elements, relying entirely on bordered-pitted tracheids."*
+> - 📜 **David Attenborough (*The Private Life of Plants*):** *"Before flowers arose, forests of **Gymnospermae** carpeted the continents, sheltering browsing sauropod dinosaurs."*

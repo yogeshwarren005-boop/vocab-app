@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of center.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of center.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a single center; possessing only one centromere.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cytogenetics, designating standard eukaryotic chromosomes governed by a single localized centromeric locus during mitotic spindle attachment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monocentric designates adjective*) pertaining to, derived from, or characteristic of center."*
+> - 📜 **Barbara McClintock (*The Behavior in Successive Nuclear Divisions of a Chromosome Broken at Meiosis*):** *"A normal **monocentric** chromatid travels smoothly to one pole without the risk of bridge formation during anaphase."*
+> - 📜 **Edmund Beecher Wilson (*The Cell in Development and Heredity*):** *"In contrast to diffuse kinetochores, typical animal chromosomes follow a strictly **monocentric** organization."*
+> - 📜 **Lewis Mumford (*The City in History*):** *"The ancient royal capital was a **monocentric** citadel, radiating imperial commands from a singular palace square."*

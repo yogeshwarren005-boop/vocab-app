@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of being central.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of being central.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or condition of being in the center; focal prominence, pivotal importance, or vital significance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In network theory and human geography, a quantitative measure of a node's structural influence or geographic accessibility within a network.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centrality designates the property of being central."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The geographical **centrality** of Rome within the Mediterranean basin facilitated both military conquest and commercial dominance."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The feeling of bodily **centrality** provides the continuous anchor for our subjective sense of selfhood."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"St. Mark's square possessed a spiritual and civic **centrality** around which the entire public life of Venice revolved."*

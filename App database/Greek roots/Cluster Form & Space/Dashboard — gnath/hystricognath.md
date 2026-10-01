@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek gnath.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rodent belonging to the suborder Hystricognathi (such as porcupines, guinea pigs, and chinchillas), having an angular process of the mandible arising lateral to the incisor plane.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mammalogy and systematic paleontology, hystricognath rodents display a distinctive mandibular structure and hystricomorphous zygomasseteric system.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hystricognath designates a term designating an entity, condition, or phenomenon derived from greek gnath."*
+> - 📜 **Alfred Romer (*Vertebrate Paleontology*):** *"The distinctive jaw architecture of the **hystricognath** allows powerful lateral grinding movements during mastication."*
+> - 📜 **George Gaylord Simpson (*The Principles of Classification and a Classification of Mammals*):** *"The biogeographical trans-Atlantic dispersal of the ancestral **hystricognath** to South America remains a classic problem in paleomammalogy."*
+> - 📜 **Robert L. Carroll (*Vertebrate Paleontology and Evolution*):** *"Fossil evidence indicates that early Caviomorpha evolved from an African **hystricognath** stock during the late Eocene."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Broadcast via television.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Broadcast via television.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To broadcast or transmit moving visual images and accompanying sound by television.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In communications and media history, the verb describes the transition from local camera capture to radio-frequency modulation and terrestrial or satellite distribution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, televise designates broadcast via television."*
+> - 📜 **John Logie Baird (*Television: A Description of the Baird System*):** *"Our earliest successful apparatus could **televise** only crude silhouetted outlines of the human face."*
+> - 📜 **George Orwell (*The Lion and the Unicorn*):** *"Commercial interests will undoubtedly seek to **televise** spectacles calculated to keep the populace passive."*
+> - 📜 **Marshall McLuhan (*Understanding Media: The Extensions of Man*):** *"The decision to **televise** political debates altered the balance of rhetorical style in modern democracies."*

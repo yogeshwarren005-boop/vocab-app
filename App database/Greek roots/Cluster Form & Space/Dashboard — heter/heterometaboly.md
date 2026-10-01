@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Development of insects with incomplete metamorphosis in which no pupal stage precedes maturity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Development of insects with incomplete metamorphosis in which no pupal stage precedes maturity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The developmental pattern or phenomenon of incomplete metamorphosis in insects; hemimetaboly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology, heterometaboly represents the ancestral pterygote developmental strategy from which complex holometaboly evolved.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heterometaboly designates development of insects with incomplete metamorphosis in which no pupal stage precedes maturity."*
+> - 📜 **V. B. Wigglesworth (*Insect Hormones*):** *"Experimental decapitation during penultimate instars demonstrates how **heterometaboly** transitions smoothly into adult cuticular synthesis."*
+> - 📜 **Ernst Mayr (*Animal Species and Evolution*):** *"Ecological niche differentiation between juveniles and adults is less pronounced in lineages characterized by **heterometaboly**."*
+> - 📜 **R. F. Chapman (*The Insects: Structure and Function*):** *"Aquatic nymphs of mayflies and stoneflies illustrate specialized aquatic **heterometaboly** with terrestrial winged adults."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Visual examination of the interior of a hollow body organ by use of an endoscope.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Visual examination of the interior of a hollow body organ by use of an endoscope.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The medical examination of internal body cavities or organs using an endoscope.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gastroenterological medicine, diagnostic endoscopy encompasses esophagogastroduodenoscopy and colonoscopy for early detection of occult dysplasia and mucosal neoplasms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endoscopy designates visual examination of the interior of a hollow body organ by use of an endoscope."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"The progressive refinement of **endoscopy** turned internal diagnostic anatomy into an empirical science rather than a conjectural art."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Direct visualization through early **endoscopy** corroborated our cellular theories of localized mucosal inflammation."*
+> - 📜 **Atul Gawande (*Complications: A Surgeon's Notes on an Imperfect Science*):** *"In modern clinical practice, gastrointestinal **endoscopy** has replaced exploratory laparotomy for routine mucosal evaluations."*

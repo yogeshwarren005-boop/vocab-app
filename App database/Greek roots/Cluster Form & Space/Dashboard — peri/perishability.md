@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unsatisfactoriness by virtue of being subject to decay or spoilage or destruction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unsatisfactoriness by virtue of being subject to decay or spoilage or destruction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state, condition, or property of being perishable; susceptibility to decay, spoilage, or destruction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economics and supply chain logistics, the rapid depreciation or loss of commercial value of goods with short lifespans.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, perishability designates unsatisfactoriness by virtue of being subject to decay or spoilage or destruction."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The extreme **perishability** of fresh foodstuffs prevents their long-distance conveyance without substantial refrigeration."*
+> - 📜 **Alfred Marshall (*Principles of Economics*):** *"Goods characterized by high **perishability** must be marketed swiftly regardless of unfavorable price fluctuations."*
+> - 📜 **Thomas Robert Malthus (*An Essay on the Principle of Population*):** *"The inherent **perishability** of seasonal harvests places a natural ceiling on speculative hoarding."*

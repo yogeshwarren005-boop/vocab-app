@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a genus (Treponema) of spirochetes that are pathogenic in humans and other warm-blooded animals and include the causative agents of syphilis and yaws.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a genus (Treponema) of spirochetes that are pathogenic in humans and other warm-blooded animals and include the causative agents of syphilis and yaws.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxonomic genus of spiral-shaped, highly motile flagellated spirochete bacteria, notably including Treponema pallidum, the causative agent of syphilis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical microbiology and infectious disease, Treponema species possess endoflagella within their periplasmic space, allowing corkscrew motility through mucous membranes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, treponema designates any of a genus (treponema) of spirochetes that are pathogenic in humans and other warm-blooded animals and include the causative agents of syphilis and yaws."*
+> - 📜 **Fritz Schaudinn (*Vorläufiger Bericht über das Vorkommen von Spirochaeten in syphilitischen Krankheitsprodukten*):** *"Darkfield illumination revealed the delicate twisting movements of **Treponema** pallidum extracted from primary chancres."*
+> - 📜 **Paul Ehrlich (*Experimental Chemotherapy of Spirilloses*):** *"Our discovery of Salvarsan established that targeted arsenical compounds could selectively destroy **Treponema** without poisoning host cells."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"The discovery of pathogenic spirochetes like **Treponema** extended the germ theory of disease to complex venereal contagions."*

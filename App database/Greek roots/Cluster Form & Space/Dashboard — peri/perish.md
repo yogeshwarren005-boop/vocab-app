@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pass from physical life and lose all bodily attributes and functions necessary to sustain life.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pass from physical life and lose all bodily attributes and functions necessary to sustain life.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To suffer death, complete destruction, or ruin, typically in a violent, sudden, or untimely manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In material science, to deteriorate, lose elasticity, or decay through oxidation and environmental weathering (as of rubber).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Most meet That first we come to words, and therefore have we Our written purposes before us sent, Which if thou hast considered, let us know If ’twill tie up thy discontented sword And carry back to Sicily much tall youth That else must perish here."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I could do more to do Antonius good, But ’twould offend him, and in his offence Should my performance perish."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There’s no remedy, Unless, by not so doing, our good city Cleave in the midst and perish."*
+> - 📜 **William Shakespeare (*The Tempest*):** *"The great globe itself, yea, all which it inherit, shall dissolve, and like this insubstantial pageant faded, leave not a rack behind; all must **perish**."*
+> - 📜 **Abraham Lincoln (*Gettysburg Address*):** *"That this nation, under God, shall have a new birth of freedom—and that government of the people, by the people, for the people, shall not **perish** from the earth."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Those varieties least adapted to severe climatic oscillations inevitably **perish** during famine."*

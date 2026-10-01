@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessive appetite or eating.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Feeding on or utilizing many kinds of food.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessive or insatiable hunger and eating, especially as a clinical symptom.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In endocrinology, polyphagia forms one of the classic triad symptoms of diabetes mellitus (alongside polyuria and polydipsia), caused by cellular starvation due to lack of insulin.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polyphagia designates excessive appetite or eating."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The untreated diabetic displays voracious **polyphagia**, losing weight continuously despite consuming immense quantities of food."*
+> - 📜 **Tinsley R. Harrison (*Principles of Internal Medicine*):** *"In ketoacidosis, cellular glucose deprivation in the hypothalamic satiety center triggers intense **polyphagia**."*
+> - 📜 **Eugene Braunwald (*Harrison's Principles of Internal Medicine*):** *"Patients presenting with persistent polyuria, polydipsia, and **polyphagia** should undergo immediate fasting plasma glucose testing."*

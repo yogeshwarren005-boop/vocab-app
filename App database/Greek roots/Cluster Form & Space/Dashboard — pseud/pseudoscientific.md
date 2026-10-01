@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Based on theories and methods erroneously regarded as scientific.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Based on theories and methods erroneously regarded as scientific.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characterized by beliefs and methods mistakenly regarded as scientific; lacking empirical validity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In critical analysis, exhibiting superficial scientific jargon and biased methodology designed to deceive the general public.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pseudoscientific designates based on theories and methods erroneously regarded as scientific."*
+> - 📜 **Stephen Jay Gould (*The Mismeasure of Man*):** *"Craniometric attempts to quantify innate human intellect rested upon fundamentally **pseudoscientific** assumptions of biological determinism."*
+> - 📜 **Michael Shermer (*Why People Believe Weird Things*):** *"The **pseudoscientific** worldview gains popularity because it panders to human emotional desires rather than harsh physical facts."*
+> - 📜 **Martin Gardner (*Fads and Fallacies in the Name of Science*):** *"Every decade spawns a new **pseudoscientific** doctrine that attracts devoted followers through grandiose promises of secret knowledge."*

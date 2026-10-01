@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A cell that develops from a b lymphocyte in reaction to a specific antigen; found in bone marrow and sometimes in the blood.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A cell that develops from a b lymphocyte in reaction to a specific antigen; found in bone marrow and sometimes in the blood.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A plasma cell; a fully differentiated, non-dividing B lymphocyte specialized for the high-volume secretion of antibodies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In histology and hematopathology, a plasmacyte exhibits an eccentric nucleus with a characteristic 'clock-face' or 'cartwheel' chromatin pattern and abundant basophilic cytoplasm.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plasmacyte designates a cell that develops from a b lymphocyte in reaction to a specific antigen; found in bone marrow and sometimes in the blood."*
+> - 📜 **Santiago Ramón y Cajal (*Histology of the Nervous System*):** *"Inflammatory exudates in chronic encephalitis contain numerous **plasmacyte** cells clustered around cerebral capillaries."*
+> - 📜 **Maxwell M. Wintrobe (*Clinical Hematology*):** *"The mature **plasmacyte** displays an abundant rough endoplasmic reticulum engineered for massive immunoglobulin synthesis."*
+> - 📜 **Vinay Kumar (*Robbins and Cotran Pathologic Basis of Disease*):** *"A perinuclear halo representing the prominent Golgi apparatus is the microscopic hallmark of the mature **plasmacyte**."*

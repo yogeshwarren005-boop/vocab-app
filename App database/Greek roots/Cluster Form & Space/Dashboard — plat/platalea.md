@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the plataleidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the plataleidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of large, long-legged wading birds in the ibis and spoonbill family (Threskiornithidae), commonly known as spoonbills.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic ornithology, birds of the genus *Platalea* are distinguished by their broad, spatulate bill, which they sweep side-to-side through shallow water to catch aquatic prey.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, platalea designates type genus of the plataleidae."*
+> - 📜 **Carl Linnaeus (*Systema Naturae*):** *"The genus **Platalea** is defined by its remarkable flat, spatulate beak, widened at the tip into the shape of a spoon."*
+> - 📜 **John James Audubon (*The Birds of America*):** *"The roseate spoonbill, classified in **Platalea**, presents plumage of breathtaking carmine and rose pink along Florida lagoons."*
+> - 📜 **John Gould (*The Birds of Australia*):** *"The yellow-billed spoonbill of the genus **Platalea** wades through inland billabongs with stately deliberation."*

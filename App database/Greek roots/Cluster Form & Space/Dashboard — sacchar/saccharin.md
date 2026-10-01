@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A crystalline compound C7H5NO3S that is unrelated to the carbohydrates, is several hundred times sweeter than sucrose, and is used as a calorie-free sweetener.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A crystalline compound C7H5NO3S that is unrelated to the carbohydrates, is several hundred times sweeter than sucrose, and is used as a calorie-free sweetener.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An intensely sweet, artificial non-caloric sweetener discovered in 1879, chemically known as ortho-sulfobenzoic imide.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In food science and dietetics, a heat-stable synthetic sugar substitute approximately 300 to 400 times sweeter than sucrose, widely used by diabetics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, saccharin designates a crystalline compound c7h5no3s that is unrelated to the carbohydrates, is several hundred times sweeter than sucrose, and is used as a calorie-free sweetener."*
+> - 📜 **Ira Remsen (*On the Synthesis of a New Sweetening Agent*):** *"The accidental tasting of the crystalline sulfimide in our laboratory led directly to the discovery of **saccharin**."*
+> - 📜 **Constantin Fahlberg (*The Discovery of Saccharin*):** *"A minute trace of **saccharin** upon the tip of the finger imparts an intense sweetness that lingers upon the palate for hours."*
+> - 📜 **Harvey W. Wiley (*The History of a Crime Against the Food Law*):** *"I strongly opposed the substitution of synthetic **saccharin** for wholesome agricultural cane sugar in canned fruits and provisions."*

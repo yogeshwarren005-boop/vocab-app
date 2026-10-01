@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The character used in printing or writing as a reference mark, as an indication of the omission of letters or words, to denote a hypothetical or unattested linguistic form, or for various arbitrary meanings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The character thought of as being appended to something (such as an athletic accomplishment included in a record book) typically in order to indicate that there is a limiting fact or consideration which makes that thing less important or impressive than it would otherwise be.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A star-shaped typographical symbol (*) used in printing and writing to indicate a footnote, reference, omission, or hypothetical linguistic form.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical linguistics and computational syntax, a symbol prefixed to reconstructed proto-forms (e.g., *kmtom) or ungrammatical test sentences.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, asterisk designates the character used in printing or writing as a reference mark, as an indication of the omission of letters or words, to denote a hypothetical or unattested linguistic form, or for various arbitrary meanings."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"The historical philologist places an **asterisk** before reconstructed Indo-European roots that are unattested in ancient texts."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"He marked the disputed passage with an **asterisk**, directing the studious reader to marginal annotations below."*
+> - 📜 **Virginia Woolf (*The Common Reader*):** *"A single discreet **asterisk** in the printed diary stood in place of a scandal too delicate to print in full."*

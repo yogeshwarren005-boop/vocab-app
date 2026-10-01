@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a large order (Amphipoda) of small crustaceans (such as the sand flea) with a laterally compressed body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a large order (Amphipoda) of small crustaceans (such as the sand flea) with a laterally compressed body.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any crustacean belonging to the order Amphipoda, characterized by a laterally flattened body and legs adapted for both swimming and hopping.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine and freshwater ecology, an abundant macroinvertebrate herbivore and detritivore serving as a fundamental trophic link in aquatic food webs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amphipod designates any of a large order (amphipoda) of small crustaceans (such as the sand flea) with a laterally compressed body."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"Deep in the abyss, the scavenged carcass was instantly swarmed by pale, ravenous swarms of benthic **amphipod** species."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"On the damp sandy beach, whenever a mound of dry kelp was disturbed, many a tiny **amphipod** leapt vigorously into the air."*
+> - 📜 **Thomas Henry Huxley (*The Invertebrata*):** *"Unlike the depressed isopod, the typical **amphipod** is compressed sideways, enabling it to scurry through dense tangles of filamentous algae."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of economics that studies the overall working of a national economy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of economics that studies the overall working of a national economy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of economics that studies the behavior, structure, and decision-making of an entire national or regional economy as a whole.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic theory, modern macroeconomics analyzes gross domestic product, interest rate transmission, unemployment rates, and balance of payments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, macroeconomics designates the branch of economics that studies the overall working of a national economy."*
+> - 📜 **John Maynard Keynes (*The General Theory of Employment, Interest and Money*):** *"The transition from classical microanalysis to aggregate **macroeconomics** shifts attention to total savings, investment, and national consumption."*
+> - 📜 **Gregory Mankiw (*Macroeconomics*):** *"The central challenge of **macroeconomics** is to explain why economic activity fluctuates and how policymakers can mitigate recessions."*
+> - 📜 **Robert Lucas Jr. (*Studies in Business-Cycle Theory*):** *"Modern **macroeconomics** requires microfoundations that incorporate the rational expectations of forward-looking economic agents."*

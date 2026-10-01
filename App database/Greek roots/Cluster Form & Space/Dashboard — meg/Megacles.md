@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek meg.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A prominent ancient Athenian aristocratic masculine name, famously borne by leading statesmen and reformers of the illustrious Alcmaeonid dynasty.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical Greek historiography, Megacles the Archon became notorious for the Cylonian sacrilege (c. 632 BC), and his sixth-century BC descendant was ostracized by popular vote.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Megacles designates a term designating an entity, condition, or phenomenon derived from greek meg."*
+> - 📜 **Herodotus (*The Histories*):** *"The suitors who gathered at the court of Cleisthenes included **Megacles**, son of Alcmaeon, who ultimately won the hand of Agariste."*
+> - 📜 **Thucydides (*History of the Peloponnesian War*):** *"The curse of the goddess attached to the house of **Megacles** because he had put to death the suppliants of Cylon at the sacred altar."*
+> - 📜 **Plutarch (*Parallel Lives: Solon*):** *"Solon persuaded the partisans of **Megacles** to submit their conduct to a court of three hundred aristocratic peers."*

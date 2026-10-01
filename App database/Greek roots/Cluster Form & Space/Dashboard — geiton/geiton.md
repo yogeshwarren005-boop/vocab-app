@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek geiton.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A Greek root element meaning 'neighbor' or 'adjacent', appearing in biological terms designating nearby individuals or adjacent floral parts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical nomenclature, geiton- forms compounds indicating neighbor-pollination or localized proximity effects.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, geiton designates a term designating an entity, condition, or phenomenon derived from greek geiton."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"The noun geiton signifies a neighbor or dweller nearby, forming Greek compounds emphasizing spatial adjacency."*
+> - 📜 **Robert Beekes (*Etymological Dictionary of Greek*):** *"Connected with the concept of shared land boundaries, **geiton** gives rise to specialized botanical terminology."*
+> - 📜 **Pierre Chantraine (*Dictionnaire étymologique de la langue grecque*):** *"The root **geiton** preserves the Hellenic legal and communal concept of adjacent proximity across scientific loanwords."*

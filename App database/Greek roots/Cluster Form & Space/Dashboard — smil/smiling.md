@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A facial expression characterized by turning up the corners of the mouth; usually shows pleasure or amusement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Change one's facial expression by spreading the lips, often to signal pleasure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Displaying, forming, or characterized by a smile; cheerful, pleasant, radiant, or propitious.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In poetry and rhetoric, smiling is applied personifyingly to landscapes, fortune, or circumstances that appear bright, welcoming, and serene.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"On each side her Stood pretty dimpled boys, like smiling Cupids, With divers-coloured fans, whose wind did seem To glow the delicate cheeks which they did cool, And what they undid did."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O infinite virtue, com’st thou smiling from The world’s great snare uncaught?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The Roman gods Lead their successes as we wish our own, That both our powers, with smiling fronts encount’ring, May give you thankful sacrifice!"*
+> - 📜 **William Wordsworth (*The Prelude*):** *"Beneath a **smiling** sky the calm lake mirrored the majestic outlines of the surrounding fells."*
+> - 📜 **John Milton (*Paradise Lost*):** *"To whom the angel, with a **smiling** brow and mild demeanor, unfolded heaven's mysterious decrees."*
+> - 📜 **Charlotte Brontë (*Jane Eyre*):** *"Miss Temple entered the classroom with that gentle, **smiling** countenance which instantly quelled every murmur."*

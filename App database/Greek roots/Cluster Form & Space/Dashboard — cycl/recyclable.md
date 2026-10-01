@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being used again.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being used again.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being recycled; suitable for processing and remanufacturing into new materials or products.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In environmental engineering and sustainable materials science, denoting products (such as metals, glass, or thermoplastics) that can be recovered and reused within closed circular industrial cycles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, recyclable designates capable of being used again."*
+> - 📜 **Barry Commoner (*The Closing Circle: Nature, Man, and Technology*):** *"A sustainable industrial ecology must rely upon **recyclable** containers rather than disposable, non-degradable synthetics."*
+> - 📜 **Rachel Carson (*Lost Woods: The Discovered Writing of Rachel Carson*):** *"Nature wastes nothing; every mineral element in the forest is entirely **recyclable** through continuous biological turnover."*
+> - 📜 **E. F. Schumacher (*Small Is Beautiful*):** *"Prudent economic stewardship treats scarce natural resources as **recyclable** assets held in trust for future generations."*

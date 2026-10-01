@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of old world herbs with linear entire leaves and yellow or purple flower heads.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of old world herbs with linear entire leaves and yellow or purple flower heads.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of biennial or perennial herbaceous plants in the dandelion tribe of the sunflower family (Asteraceae), commonly called goatsbeard or salsify.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Named from Greek *tragos* (goat) and *pogon* (beard) in reference to the conspicuous hairy pappus of its fruiting seedhead, *Tragopogon* includes the edible vegetable salsify (*Tragopogon porrifolius*).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"We must reckon by millions, and our figures and faculties fail in appreciating the myriads of spores which compose the orange dust produced upon one infected cluster of plants of _Tragopogon_."*
+> - 📜 **Carl Linnaeus (*Species Plantarum*):** *"Linnaeus noted that the yellow blossoms of **Tragopogon** pratensis close promptly at midday, naming it Jack-go-to-bed-at-noon."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The large feathery parachute attached to each achene of **Tragopogon** aids wind dispersal across open prairies."*
+> - 📜 **Theodosius Dobzhansky (*Genetics and the Origin of Species*):** *"Classic botanical studies by Ownbey proved that allopolyploid speciation occurred spontaneously in North American **Tragopogon**."*

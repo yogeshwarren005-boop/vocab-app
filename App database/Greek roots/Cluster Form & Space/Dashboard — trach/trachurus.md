@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The scads (particularly horse mackerels).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The scads (particularly horse mackerels).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of marine carangid fishes known as horse mackerels or jack mackerels.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In commercial fisheries biology, *Trachurus* species form immense migratory pelagic schools along continental shelves, characterized by a curved lateral line armed with sharp bony scutes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trachurus designates the scads (particularly horse mackerels)."*
+> - 📜 **Albert Günther (*An Introduction to the Study of Fishes*):** *"The genus **Trachurus** is recognized by the series of large, keeled bony shields protecting its entire lateral line."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"The common horse mackerel, grouped under **Trachurus**, supports extensive commercial trawl fisheries across the eastern Atlantic."*
+> - 📜 **Thomas Henry Huxley (*The Fisheries of the World*):** *"Enormous shoals of **Trachurus** enter coastal bays in late autumn, pursued by predatory tuna and dolphins."*

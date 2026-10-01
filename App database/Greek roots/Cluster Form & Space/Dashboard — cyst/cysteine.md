@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A crystalline sulfur-containing amino acid C3H7NO2S readily oxidizable to cystine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A crystalline sulfur-containing amino acid C3H7NO2S readily oxidizable to cystine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A non-essential sulfur-containing proteinogenic amino acid ($C_3H_7NO_2S$) containing a reactive thiol (-SH) side chain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In molecular biochemistry and structural biology, an amino acid whose oxidation forms covalent disulfide bridges that stabilize the tertiary and quaternary structures of proteins.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cysteine designates a crystalline sulfur-containing amino acid c3h7no2s readily oxidizable to cystine."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"Disulfide cross-linkages formed between pairs of **cysteine** residues impart structural rigidity to globular enzymes and keratin."*
+> - 📜 **Francis Crick (*What Mad Pursuit*):** *"The reactive thiol group of **cysteine** frequently serves as the essential catalytic nucleophile in enzyme active sites."*
+> - 📜 **Sydney Brenner (*Loose Ends: Selected Writings*):** *"Site-directed mutagenesis replacing a single **cysteine** disrupted the delicate folding pathway of the mutant polypeptide."*

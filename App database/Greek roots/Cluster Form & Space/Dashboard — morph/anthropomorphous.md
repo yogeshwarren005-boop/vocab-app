@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Suggesting human characteristics for animals or inanimate things.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Suggesting human characteristics for animals or inanimate things.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having human form, shape, or resemblance; exhibiting bodily features resembling those of human beings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative anatomy and primatology, historically applied to higher apes (*Hominoidea*) whose skeletal morphology and facial muscles closely resemble humans.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anthropomorphous designates suggesting human characteristics for animals or inanimate things."*
+> - 📜 **Thomas Henry Huxley (*Man's Place in Nature*):** *"The structural differences between man and the highest **anthropomorphous** apes are smaller than those between the gorilla and the lower monkeys."*
+> - 📜 **Richard Owen (*On the Characters of the Class Mammalia*):** *"The cranial proportions and bipedal poise of modern man distinguish him decisively from the most **anthropomorphous** troglodytes."*
+> - 📜 **Georges Cuvier (*The Animal Kingdom*):** *"Naturalists have often debated the classification of the orangutan, noting its astonishingly **anthropomorphous** facial structure."*

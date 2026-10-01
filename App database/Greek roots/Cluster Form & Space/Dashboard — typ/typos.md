@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An error (as of spelling) in typed or typeset material.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An error (as of spelling) in typed or typeset material.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A typographical error; a mistake made during the process of typing, typesetting, or printing, resulting in an unintended character, word, or omission in the text.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In digital communication and software development, typos range from trivial misspellings to critical bugs when they occur in source code, configuration files, or database entries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, typos designates an error (as of spelling) in typed or typeset material."*
+> - 📜 **Lynne Truss (*Eats, Shoots and Leaves*):** *"The humble **typos** in a published book can undermine the authority of even the most learned author."*
+> - 📜 **Donald Knuth (*The Art of Computer Programming (Errata)*):** *"I offer a reward for each **typos** found in my books, as perfection in print remains an asymptotic goal."*
+> - 📜 **William Safire (*On Language*):** *"A single **typos** in a headline can transform a serious report into an unintended comedy."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The measurement of water depth at various places in a body of water; also : the information derived from such measurements.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The measurement of water depth at various places in a body of water; also : the information derived from such measurements.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The measurement and mapping of water depth in oceans, seas, lakes, and rivers; the submarine topography of a water body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine geophysics and hydrographic surveying, the underwater analogue of hypsometry or topography, essential for navigation and plate tectonic modeling.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bathymetry designates the measurement of water depth at various places in a body of water; also : the information derived from such measurements."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"Modern **bathymetry** has shown that the ocean floor is not a featureless desert, but a rugged terrain of mountains and rifts."*
+> - 📜 **Charles Wyville Thomson (*The Depths of the Sea*):** *"Accurate **bathymetry** was the first prerequisite for the successful laying of transatlantic telegraph cables."*
+> - 📜 **Alexander von Humboldt (*Cosmos*):** *"The uncharted **bathymetry** of the globe's southern oceans concealed currents that regulate world climate."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek xe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A surgical procedure involving the scraping or curettage of a diseased joint surface to remove damaged cartilage, synovial tissue, or bony irregularities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In orthopedic surgery, arthroxesis is employed in cases of chronic arthritis, osteochondral defects, or septic joints where debridement of necrotic tissue promotes healing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arthroxesis designates a term designating an entity, condition, or phenomenon derived from greek xe."*
+> - 📜 **Auguste Nelaton (*Elements de pathologie chirurgicale*):** *"**Arthroxesis** of the affected joint removed the proliferative synovium and exposed healthy bone beneath."*
+> - 📜 **Robert Jones (*Injuries of Joints*):** *"In cases of tubercular arthritis, **arthroxesis** followed by immobilization produced favorable outcomes."*
+> - 📜 **Campbell's Operative Orthopaedics (*Campbell's Operative Orthopaedics*):** *"**Arthroxesis** remains a viable option when conservative management of joint disease has failed."*

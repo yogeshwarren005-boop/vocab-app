@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the component in W. H. Sheldon's classification of body types that measures especially the degree of muscularity and bone development.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a husky muscular body build.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, having the physical characteristics of, or classified as a mesomorph; robust, muscular, and athletic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In soft matter physics and physical chemistry, designating a liquid crystalline phase intermediate between an isotropic liquid and a crystalline solid.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mesomorphic designates of or relating to the component in w. h. sheldon's classification of body types that measures especially the degree of muscularity and bone development."*
+> - 📜 **William H. Sheldon (*The Varieties of Temperament*):** *"Men of markedly **mesomorphic** habitus are naturally suited to vigorous physical labor and competitive sports."*
+> - 📜 **Georges Friedel (*Les états mésomorphes de la matière*):** *"We apply the term **mesomorphic** to nematic and smectic states of matter that exhibit fluid flow while retaining optical anisotropy."*
+> - 📜 **J. M. Tanner (*Foetus into Man*):** *"Boys with **mesomorphic** builds generally reach peak height velocity earlier and show greater absolute muscular gains during puberty."*

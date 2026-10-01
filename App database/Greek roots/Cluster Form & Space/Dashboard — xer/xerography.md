@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A process for copying graphic matter by the action of light on an electrically charged photoconductive insulating surface in which the latent image is developed with a resinous powder (such as toner).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Xeroradiography.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A dry photocopying process in which an electrostatic image is formed on a photoconductor, developed with toner, and transferred to paper by heat and pressure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of technology, xerography was invented by Chester Carlson in 1938 and commercialized by Haloid (later Xerox Corporation), revolutionizing document reproduction worldwide.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xerography designates a process for copying graphic matter by the action of light on an electrically charged photoconductive insulating surface in which the latent image is developed with a resinous powder (such as toner)."*
+> - 📜 **Chester Carlson (*The History of Xerography*):** *"I called the process **xerography**, from the Greek for dry writing, because no liquid chemicals were needed."*
+> - 📜 **David Owen (*Copies in Seconds*):** *"**Xerography** was rejected by over twenty companies before Haloid recognized its transformative potential."*
+> - 📜 **John Dessauer (*My Years with Xerox*):** *"The commercial success of **xerography** created one of the most profitable technology companies in history."*

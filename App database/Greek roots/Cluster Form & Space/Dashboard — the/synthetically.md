@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: By synthesis; in a synthetic manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: By synthesis; in a synthetic manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a synthetic manner; by means of chemical synthesis or by combining separate elements.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmaceutical manufacturing and materials science, compounds produced synthetically ensure standardized purity and scalable industrial availability.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, synthetically designates by synthesis; in a synthetic manner."*
+> - 📜 **Alexander Fleming (*Penicillin: Its Practical Application*):** *"Once the molecular structure was determined, biochemists sought to prepare penicillin **synthetically** in the laboratory."*
+> - 📜 **Bertrand Russell (*Introduction to Mathematical Philosophy*):** *"Mathematical logic proceeds **synthetically**, deriving rich theorems from a parsimonious set of primitive axioms."*
+> - 📜 **Primo Levi (*The Periodic Table*):** *"In the industrial laboratory, we worked day and night to produce the missing varnish resin **synthetically**."*

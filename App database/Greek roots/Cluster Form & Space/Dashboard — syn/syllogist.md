@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Logician skilled in syllogistic reasoning.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Logician skilled in syllogistic reasoning.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who constructs, analyzes, or argues by means of syllogisms; a formal logician.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of philosophy, a syllogist applies deductive Aristotelian logic to test valid inferences against formal fallacies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, syllogist designates logician skilled in syllogistic reasoning."*
+> - 📜 **Aristotle (*Prior Analytics*):** *"The master **syllogist** deduces from two established propositions a necessary third proposition differing from the premises."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"The formal **syllogist** ensures that no illicit process of the major or minor term invalidates the deduction."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The mind of the keen **syllogist** perceives instant intermediate links connecting disparate categories of thought."*

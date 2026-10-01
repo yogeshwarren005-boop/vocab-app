@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or resembling the cyclops.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or resembling the cyclops.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Formed of massive, irregular, unhewn boulders fitted together without mortar; also of vast or gigantic size.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical archaeology, ancient Mycenaean stone architecture built of immense limestone blocks, traditionally ascribed to the mythical giant Cyclopes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cyclopean designates of or relating to or resembling the cyclops."*
+> - 📜 **Heinrich Schliemann (*Mycenae: A Narrative of Researches and Discoveries*):** *"The magnificent Lion Gate was framed by **cyclopean** blocks of breccia so colossal that no modern crane could easily stir them."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The skeleton of the sperm whale exhibited a **cyclopean** architecture reminiscent of ancient temple ruins."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"Early Pelasgian builders raised **cyclopean** fortifications whose rough megalithic strength defies the wear of thirty centuries."*

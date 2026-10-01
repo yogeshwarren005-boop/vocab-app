@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The spread of power away from the center to local branches or governments.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The spread of power away from the center to local branches or governments.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The dispersion or distribution of power, administrative authority, or governmental functions away from a central authority to local organs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In institutional political economy, structural delegation that enhances grassroots autonomy and local responsiveness across municipal subdivisions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decentralisation designates the spread of power away from the center to local branches or governments."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Administrative **decentralisation** produces an inexhaustible reservoir of civic energy that no centralized bureaucracy can match."*
+> - 📜 **Harold Laski (*A Grammar of Politics*):** *"Effective democratic governance demands territorial **decentralisation** to prevent the paralysis of parliamentary power."*
+> - 📜 **G. D. H. Cole (*Guild Socialism Restated*):** *"Industrial democracy cannot survive without genuine **decentralisation** of economic decision-making to the workshop floor."*

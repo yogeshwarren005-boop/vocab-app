@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to autotomy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to autotomy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, exhibiting, or capable of autotomy; relating to the deliberate shedding of a limb or body part.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In invertebrate zoology and herpetology, autotomic adaptations involve preformed fracture planes and rapid hemostatic sphincters that prevent fatal blood loss during appendage detachment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, autotomic designates of or relating to autotomy."*
+> - 📜 **Thomas Hunt Morgan (*Regeneration*):** *"The **autotomic** reflex in crabs occurs at a specific predetermined articular groove across the second leg segment."*
+> - 📜 **Julian Huxley (*Problems of Relative Growth*):** *"Following the **autotomic** loss of a claw, compensatory growth hormones stimulate regeneration in subsequent molts."*
+> - 📜 **G. H. Parker (*The Elementary Nervous System*):** *"An **autotomic** detachment of the tail in lizards is triggered by sensory shocks transmitted through local spinal reflexes."*

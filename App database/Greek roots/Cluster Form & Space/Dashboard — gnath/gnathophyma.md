@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek gnath.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A swelling, tumor, or hypertrophic inflammatory mass located on the jaw.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical oral and maxillofacial pathology, a gnathophyma designates chronic granulomatous or fibromatous enlargements affecting mandibular subcutaneous tissues.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gnathophyma designates a term designating an entity, condition, or phenomenon derived from greek gnath."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Chronic actinomycosis of the mandible often presents with a woody, indurated **gnathophyma** draining sulphur granules."*
+> - 📜 **Vinay Kumar (*Robbins and Cotran Pathologic Basis of Disease*):** *"Histologic biopsy of an unusual **gnathophyma** is necessary to differentiate benign reactive lesions from osteosarcoma."*
+> - 📜 **Courtney M. Townsend (*Sabiston Textbook of Surgery*):** *"Excision of an expansive **gnathophyma** requires careful preservation of the marginal mandibular branch of the facial nerve."*

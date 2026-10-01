@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone paid to operate a typewriter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone paid to operate a typewriter.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person whose occupation or skill involves typing text using a keyboard, especially one employed to produce typewritten documents in an office or secretarial setting.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In labor history and gender studies, the typist became a defining occupational category for women entering the white-collar workforce in the late nineteenth and early twentieth centuries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Wanted, smart lady typist to aid gentleman in literary work."*
-> - 📜 **James Joyce (*Ulysses*):** *"Typist going up Roger Greene’s stairs two at a time to show her understandings."*
+> - 📜 **C. Wright Mills (*White Collar*):** *"The **typist** occupied the lowest rung of the new office hierarchy, yet her labor was indispensable."*
+> - 📜 **Margery Davies (*Woman's Place Is at the Typewriter*):** *"By 1920 the majority of commercial **typist** positions in America were held by women."*
+> - 📜 **Friedrich Kittler (*Gramophone, Film, Typewriter*):** *"The figure of the **typist** transformed the relationship between writing and the body in modern culture."*

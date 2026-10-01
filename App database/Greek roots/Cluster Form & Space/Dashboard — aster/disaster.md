@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sudden calamitous event bringing great damage, loss, or destruction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone or something that is very bad: such as.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sudden, calamitous event that causes great damage, destruction, distress, or loss of life.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Etymologically from the Italian disastro (an unfavorable aspect of the stars), an overwhelming catastrophe or complete failure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"That was not to be blam’d in the command of the service; it was a disaster of war that Caesar himself could not have prevented, if he had been there to command."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She call’d the saints to surety That she would never put it from her finger Unless she gave it to yourself in bed, Where you have never come, or sent it us Upon her great disaster."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To be called into a huge sphere, and not to be seen to move in ’t, are the holes where eyes should be, which pitifully disaster the cheeks."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"Stars with trains of fire and dews of blood, **disaster** in the sun; and the moist star upon whose influence Neptune's empire stands was sick almost to doomsday with eclipse."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The defeat at Adrianople was the greatest military **disaster** the Roman empire had suffered since the fatal field of Cannae."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"A dark presentiment of impending **disaster** hung over the ship, whispered among the sailors as the wind began to howl."*

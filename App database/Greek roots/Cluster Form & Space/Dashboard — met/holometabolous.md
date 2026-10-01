@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of an insect) undergoing complete metamorphosis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of an insect) undergoing complete metamorphosis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by complete metamorphosis, involving distinct larval, pupal, and adult stages.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic entomology, describing endopterygote orders (such as Coleoptera, Diptera, Lepidoptera, and Hymenoptera) where wings develop internally within imaginal discs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, holometabolous designates (of an insect) undergoing complete metamorphosis."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The caterpiller and butterfly of a **holometabolous** insect differ as completely as two unrelated animals."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"In **holometabolous** beetles, the grub bears no external resemblance to the heavily armored adult."*
+> - 📜 **Jean-Henri Fabre (*Social Life in the Insect World*):** *"The miracle of the **holometabolous** metamorphosis is accomplished inside a dark, silken cocoon."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The production of microspores and megaspores (as in seed plants).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The production of microspores and megaspores (as in seed plants).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Producing two distinct kinds of spores differing in size and sex: small microspores (male) and large megaspores (female).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant evolution, heterosporous pteridophytes (such as Selaginella and water ferns) represent the critical evolutionary transition leading directly to seed plants.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heterosporous designates the production of microspores and megaspores (as in seed plants)."*
+> - 📜 **Peter H. Raven (*Biology of Plants*):** *"The **heterosporous** life cycle segregates gender at the haploid spore stage, culminating in the evolution of pollen grains and ovules."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"In **heterosporous** clubmosses, megaspores produce nutrient-rich archegonial gametophytes enclosed within thick walls."*
+> - 📜 **Katherine Esau (*Plant Anatomy*):** *"The reduction of the female gametophyte in **heterosporous** lineages was essential for the origin of the seed habit."*

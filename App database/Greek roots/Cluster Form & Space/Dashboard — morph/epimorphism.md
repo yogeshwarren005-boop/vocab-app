@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek morph.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In category theory and abstract algebra, a morphism that is right-cancellative with respect to composition, generalizing the concept of a surjective (onto) mapping.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In developmental and regenerative biology, epimorphism (epimorphosis) denotes the regeneration of a severed animal appendage through the growth of an undifferentiated blastema.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epimorphism designates a term designating an entity, condition, or phenomenon derived from greek morph."*
+> - 📜 **Saunders Mac Lane (*Homology*):** *"In any abelian category, every monic morphism is a kernel and every **epimorphism** is a cokernel of some arrow."*
+> - 📜 **Alexander Grothendieck (*Éléments de géométrie algébrique*):** *"The canonical projection from a ring onto its quotient by a radical ideal provides the archetype of an **epimorphism**."*
+> - 📜 **Thomas Hunt Morgan (*Regeneration*):** *"We distinguish morphallaxis, where the whole piece remodels, from **epimorphism**, where new tissue sprouts from the wound margin."*

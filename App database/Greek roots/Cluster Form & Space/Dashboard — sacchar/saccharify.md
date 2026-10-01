@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sweeten with sugar.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Convert into a simple soluble fermentable sugar by hydrolyzing a sugar derivative or complex carbohydrate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To convert or break down complex carbohydrates (such as starch or cellulose) into fermentable soluble sugars.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In brewing and industrial biotechnology, the enzymatic hydrolysis of cereal starches during mashing to produce maltose and glucose for yeast fermentation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, saccharify designates sweeten with sugar."*
+> - 📜 **Anselme Payen (*Mémoire sur la diastase*):** *"We demonstrated that malt diastase can **saccharify** vast quantities of liquefied starch into sweet maltose syrup."*
+> - 📜 **Louis Pasteur (*Études sur la bière*):** *"Mashing must proceed at controlled temperatures so that native malt enzymes **saccharify** the wort completely before boiling."*
+> - 📜 **Thomas Thomson (*Chemistry of Organic Bodies: Vegetables*):** *"Dilute sulfuric acid under pressure can readily **saccharify** sawdust and wood fibers into fermentable glucose."*

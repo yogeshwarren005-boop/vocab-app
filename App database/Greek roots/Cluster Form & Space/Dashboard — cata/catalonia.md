@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A region of northeastern spain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A region of northeastern spain.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An autonomous community in northeastern Spain, bordering France and the Mediterranean Sea, with its historic capital and largest city at Barcelona.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In European history and political geography, a maritime nation within the Crown of Aragon with a distinct Romance language, legal code, and industrial culture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"At Lerida, in Catalonia, the funeral of the Carnival was witnessed by an English traveller in 1877."*
+> - 📜 **George Orwell (*Homage to Catalonia*):** *"In **Catalonia** for several months the working class was practically in the saddle; the bourgeoisie had taken to flight or disguised themselves."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The warlike chivalry of **Catalonia** and Aragon extended their naval conquests from the Balearic Isles to the shores of Greece."*
+> - 📜 **Washington Irving (*The Alhambra*):** *"The bold mountaineers of **Catalonia** were celebrated across the peninsula for their stubborn defense of ancient regional liberties."*

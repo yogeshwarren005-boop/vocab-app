@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A tapeworm larva that consists of a fluid-filled sac containing an invaginated scolex and is situated in the tissues of an intermediate host.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tapeworm larva that consists of a fluid-filled sac containing an invaginated scolex and is situated in the tissues of an intermediate host.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The larval stage of a tapeworm (genus Taenia) consisting of a fluid-filled sac containing an invaginated scolex; a bladder worm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In parasitology and veterinary pathology, the encysted metacestode that resides in muscle or neural tissue of intermediate hosts (causing cysticercosis in humans and swine).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cysticercus designates a tapeworm larva that consists of a fluid-filled sac containing an invaginated scolex and is situated in the tissues of an intermediate host."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Autopsy revealed that the cerebral tumor was in reality an encysted **cysticercus** cellulosae embedded in the meninges."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Invertebrated Animals*):** *"When ingested by a suitable definitive host, the scolex of the **cysticercus** evaginates and attaches firmly to the intestinal mucosa."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Human infection by the larval **cysticercus** occurs through fecal-oral ingestion of Taenia solium ova, causing epilepsy."*

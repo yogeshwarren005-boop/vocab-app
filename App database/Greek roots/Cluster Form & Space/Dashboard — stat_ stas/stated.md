@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Express in words.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Put before.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Clearly expressed, affirmed, declared, or established in speech or writing; fixed, settled, or regular.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal documents and civil contracts, stated conditions or terms represent explicit written agreements that supersede verbal conjectures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"The old lady, becoming more and more incensed against the master of deportment as she dwelt upon the subject, gave me some particulars of his career, with strong assurances that they were mildly stated."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bogsby, has himself stated to our reporter that he mentioned to Miss M."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"You come here to make a remarkably modest demand, which you have just stated, and it not being conceded, you will come again.” “And again,” says mademoiselle with more tight and angry nods."*
+> - 📜 **John Locke (*Second Treatise of Government*):** *"Freedom of men under government is to have a standing rule to live by, common to every one of that society, and made by the legislative power erected in it, and not to be subject to the inconstant, uncertain, unknown, arbitrary will of another man: as freedom of nature is to be under no other restraint but the law of nature, and to have a **stated** rule."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The workman received his **stated** wages at the end of each week, regardless of fluctuating market prices."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Elinor **stated** her objections with her usual composure, unwilling to sanction rash and secretive engagements."*

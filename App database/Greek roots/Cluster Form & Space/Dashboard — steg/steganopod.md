@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek steg.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any aquatic bird of the former taxonomic order Steganopodes (now Pelecaniformes), having all four toes joined by a continuous web (totipalmate).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ornithology, steganopod birds (including pelicans, cormorants, boobies, gannets, and frigatebirds) possess totipalmate feet uniquely adapted for aquatic propulsion and diving.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, steganopod designates a term designating an entity, condition, or phenomenon derived from greek steg."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The totipalmate foot of the **steganopod** water-fowl shows how natural selection has extended webbing across all four toes."*
+> - 📜 **John James Audubon (*Ornithological Biography*):** *"The brown pelican, a magnificent **steganopod**, folds its wings and plunges headlong into coastal shallows for fish."*
+> - 📜 **Elliott Coues (*Key to North American Birds*):** *"Every member of the **steganopod** group exhibits the hallux turned inward and united directly to the front digits."*

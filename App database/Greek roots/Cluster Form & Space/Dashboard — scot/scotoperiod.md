@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek scot.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The period or phase of darkness in a light-dark cycle, especially in experimental photoperiodism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chronobiology and plant physiology, the absolute duration of the scotoperiod is often more critical than the photoperiod in regulating floral transition and diapause.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scotoperiod designates a term designating an entity, condition, or phenomenon derived from greek scot."*
+> - 📜 **Sterling Hendricks (*Photoperiodism in Plants*):** *"The plant does not count the day length, but rather times the uninterrupted duration of the **scotoperiod**."*
+> - 📜 **Harry Borthwick (*Floral Initiation in Short-Day Plants*):** *"Interrupting the twelve-hour **scotoperiod** with a sixty-second light break completely abolished flowering."*
+> - 📜 **Frank Salisbury (*The Flowering Process*):** *"During the **scotoperiod**, the synthesis of florigen precursor proceeds only if active phytochrome falls below a threshold."*

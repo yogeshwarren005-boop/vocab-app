@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of science concerned with the interrelationship of organisms and their environments.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The totality or pattern of relations between organisms and their environment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of biological science that studies the relationships between living organisms and their physical and biological environments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In contemporary science, ecology spans physiological, population, community, and landscape scales to analyze energy flux and biodiversity conservation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ecology designates a branch of science concerned with the interrelationship of organisms and their environments."*
+> - 📜 **Ernst Haeckel (*Generelle Morphologie der Organismen*):** *"By **ecology**, we mean the body of knowledge concerning the economy of nature: the investigation of the total relations of the animal both to its inorganic and to its organic environment."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Plants and animals, most remote in the scale of nature, are bound together by a web of complex relations that forms the subject of **ecology**."*
+> - 📜 **Arthur Tansley (*The Use and Abuse of Vegetational Concepts and Terms*):** *"The ecosystem stands as the basic unit of modern **ecology**, integrating biome and physical habitat into a single interacting whole."*

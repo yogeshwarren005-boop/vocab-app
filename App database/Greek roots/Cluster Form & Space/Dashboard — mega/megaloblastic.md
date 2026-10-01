@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to megaloblasts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to megaloblasts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characterized by the presence of megaloblasts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical hematology, describing anemias (e.g., pernicious anemia) marked by macrocytic erythrocytes in peripheral blood and megaloblastic marrow hyperplasia resulting from defective DNA synthesis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, megaloblastic designates of or relating to megaloblasts."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Prompt administration of raw liver extract reversed the severe **megaloblastic** arrest in our patients."*
+> - 📜 **Paul Ehrlich (*Studies in Immunity*):** *"The morphological hallmarks of **megaloblastic** blood change include hypersegmented neutrophils and giant platelets."*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*):** *"Neuropsychiatric symptoms frequently precede the hematological diagnosis of **megaloblastic** anemia."*

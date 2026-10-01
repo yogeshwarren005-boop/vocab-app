@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek not.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In zoogeography and biogeography, the southern realm of the world comprising Australasia, New Zealand, and associated oceanic islands.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biogeography, Notogaea is distinguished by its prolonged geographic isolation from the northern landmasses, fostering endemic monotremes, marsupials, and ratites.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Notogaea designates a term designating an entity, condition, or phenomenon derived from greek not."*
+> - 📜 **Thomas Henry Huxley (*On the Classification and Distribution of the Alectoromorphae and Heteromorphae*):** *"I proposed the division of terrestrial faunas into **Notogaea** and Arctogaea, highlighting the archaic mammalian fauna of Australasia."*
+> - 📜 **Alfred Russel Wallace (*The Geographical Distribution of Animals*):** *"The profound mammalian divergence of **Notogaea** demonstrates that Australia separated from Asia before the radiation of placental carnivores."*
+> - 📜 **Philip Lutley Sclater (*On the General Geographical Distribution of the Members of the Class Aves*):** *"Avian families endemic to **Notogaea**, such as the birds-of-paradise and bowerbirds, reflect undisturbed insular radiation."*

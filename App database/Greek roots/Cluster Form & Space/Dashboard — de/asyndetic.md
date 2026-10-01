@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking conjunctions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking conjunctions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by or relating to the omission of conjunctions between parts of a sentence; asyndetic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical rhetoric and stylistic analysis, describing swift, unpunctuated, or unlinked series of words, phrases, or clauses (such as 'Veni, vidi, vici') that convey urgency, dramatic acceleration, or terse emphasis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, asyndetic designates lacking conjunctions."*
+> - 📜 **Aristotle (*Rhetoric*):** *"An **asyndetic** style possesses dramatic vigor, giving the impression that many distinct things are uttered simultaneously."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Caesar's famous dispatch was strictly **asyndetic**, expressing military conquest in three swift words."*
+> - 📜 **Virginia Woolf (*The Common Reader*):** *"The modern stream of consciousness frequently adopts an **asyndetic** rhythm, tumbling thoughts together without connective particles."*

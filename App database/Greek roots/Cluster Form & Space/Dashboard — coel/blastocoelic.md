@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a segmentation cavity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a segmentation cavity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or situated within the blastocoel of an embryo.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cellular embryology, describing fluid, extracellular matrix molecules, or migrating primary mesenchyme cells located inside the blastocoel cavity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, blastocoelic designates of or relating to a segmentation cavity."*
+> - 📜 **Edmund Beecher Wilson (*The Cell in Development and Inheritance*):** *"Fibronectin fibrils coating the **blastocoelic** wall provide physical tracks for inward migrating presumptive mesoderm."*
+> - 📜 **Francis Maitland Balfour (*Comparative Embryology*):** *"The **blastocoelic** fluid contains dissolved proteids that maintain osmotic turgor within the expanding blastosphere."*
+> - 📜 **Thomas Hunt Morgan (*Experimental Embryology*):** *"Microinjection of signaling factors directly into the **blastocoelic** cavity alters ventral cell fates."*

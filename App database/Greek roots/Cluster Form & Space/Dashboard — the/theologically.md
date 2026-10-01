@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: As regards theology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a theological manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a theological manner; according to the principles or methods of theology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In doctrinal controversy and philosophy of religion, reasoning theologically involves interpreting sacred scriptures and ecclesiastical tradition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, theologically designates as regards theology."*
+> - 📜 **John Henry Newman (*An Essay on the Development of Christian Doctrine*):** *"Dogmatic ideas unfold **theologically** across centuries as their inner implications are grasped by the Church."*
+> - 📜 **Søren Kierkegaard (*Fear and Trembling*):** *"Abraham cannot be understood ethically, for his terrifying suspension of duty is justified only **theologically**."*
+> - 📜 **Jonathan Edwards (*Freedom of the Will*):** *"Examining the nature of moral agency **theologically**, Edwards argued that divine foreknowledge determines human choices."*

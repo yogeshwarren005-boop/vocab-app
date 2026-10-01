@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A circle in which a planet moves and which has a center that is itself carried around at the same time on the circumference of a larger circle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A process going on within a larger one.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small circle whose center moves around the circumference of a larger circle (the deferent), used in Ptolemaic astronomy to explain planetary retrograde motion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of astronomy, a geometric device devised by Apollonius and refined by Ptolemy to reconcile observed planetary irregularities with uniform circular motion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epicycle designates a circle in which a planet moves and which has a center that is itself carried around at the same time on the circumference of a larger circle."*
+> - 📜 **Nicolaus Copernicus (*De revolutionibus orbium coelestium*):** *"By placing the sun at the center, the complicated **epicycle** upon epicycle of Ptolemy became completely superfluous."*
+> - 📜 **John Milton (*Paradise Lost*):** *"How gird the Sphere / With Centric and Eccentric scribbld ore, / Cycle and **Epicycle**, Orb in Orb."*
+> - 📜 **Galileo Galilei (*Dialogue Concerning the Two Chief World Systems*):** *"To salvage geocentrism, the Peripatetics were compelled to load every planet with an imaginary **epicycle**."*

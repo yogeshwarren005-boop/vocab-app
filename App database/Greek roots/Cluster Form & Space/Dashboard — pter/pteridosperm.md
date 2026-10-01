@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: seed fern.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: seed fern.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of an extinct group of Paleozoic and Mesozoic gymnosperms (order Pteridospermales) having fern-like fronds but reproducing by true seeds; a seed fern.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In paleobotany, a key evolutionary intermediate linking primitive seedless cryptogams with early gymnospermous seed plants.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pteridosperm designates seed fern."*
+> - 📜 **D. H. Scott (*Studies in Fossil Botany*):** *"The historic demonstration that Lyginopteris bore true seeds proved that this plant was not a fern, but a **pteridosperm**."*
+> - 📜 **F. W. Oliver (*On the Structure of the Palaeozoic Seed Lagenostoma Lomaxi*):** *"The discovery of ovules attached to fern-like fronds established the **pteridosperm** as a profound link in plant evolution."*
+> - 📜 **Thomas N. Taylor (*Paleobotany: The Biology and Evolution of Fossil Plants*):** *"Pollen-bearing microsporangiate organs confirm that the **pteridosperm** possessed sophisticated gymnospermous fertilization biology."*

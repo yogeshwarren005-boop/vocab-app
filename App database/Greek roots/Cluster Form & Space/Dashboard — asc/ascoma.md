@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek asc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The fruiting body or ascocarp of an ascomycetous fungus; the macroscopic organ in which asci and ascospores develop.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In fungal taxonomy, the technical designation for the sexual reproductive structure (apothecium, perithecium, or pseudothecium) bearing the fertile hymenial layer.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ascoma designates a term designating an entity, condition, or phenomenon derived from greek asc."*
+> - 📜 **Anton de Bary (*Comparative Morphology and Biology of the Fungi*):** *"Cross-sections through the **ascoma** display tightly packed sterile paraphyses interspersed among the fertile asci."*
+> - 📜 **William Benjamin Carpenter (*The Microscope and Its Revelations*):** *"The brightly colored **ascoma** of the scarlet cup fungus catches the eye on decaying woodland twigs in early spring."*
+> - 📜 **Julian Huxley (*Evolution: The Modern Synthesis*):** *"Morphological diversity of the fungal **ascoma** illustrates adaptive radiation in spore release mechanics."*

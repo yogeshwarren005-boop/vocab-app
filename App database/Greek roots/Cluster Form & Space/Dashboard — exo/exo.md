@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Outside : outer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Turning out.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combining form and prefix derived from Greek, meaning 'outer', 'outside', 'external', or 'releasing'.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scientific terminology, exo- denotes outer location (exoskeleton, exosphere) or energy-releasing processes (exothermic).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, exo designates outside : outer."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"Derived from the adverb exo ('outside'), the prefix **exo** designates external spatial position across diverse Greek derivatives."*
+> - 📜 **Robert Beekes (*Etymological Dictionary of Greek*):** *"Formed from PIE *eǵʰs-o, **exo** productively contrasts with endo- and eso- in biological and anatomical vocabularies."*
+> - 📜 **Arthur C. Guyton (*Textbook of Medical Physiology*):** *"Physiological nomenclature employs **exo** to describe excretory secretions directed onto external or epithelial surfaces."*

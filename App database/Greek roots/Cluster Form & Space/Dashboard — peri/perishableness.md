@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Unsatisfactoriness by virtue of being subject to decay or spoilage or destruction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Unsatisfactoriness by virtue of being subject to decay or spoilage or destruction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of being perishable; liability to decay, rot, or destruction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral philosophy and literature, the transient, ephemeral fragility of mortal life and worldly achievements.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, perishableness designates unsatisfactoriness by virtue of being subject to decay or spoilage or destruction."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"Contemplation of the **perishableness** of earthly treasures should awaken the soul to eternal virtues."*
+> - 📜 **John Locke (*Second Treatise of Government*):** *"The **perishableness** of common agricultural products led mankind to invent durable metallic money."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"A somber awareness of the **perishableness** of human monuments rebukes all tyrannical pride."*

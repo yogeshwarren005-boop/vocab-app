@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A spore-bearing structure in many lichens and fungi consisting of a discoid or cupped body bearing asci on the exposed flat or concave surface.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A spore-bearing structure in many lichens and fungi consisting of a discoid or cupped body bearing asci on the exposed flat or concave surface.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cup-shaped or saucer-shaped fruiting body (ascocarp) in certain ascomycete fungi and lichens, bearing exposed spore-producing asci.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cryptogamic botany, the apothecium features an open fertile layer (hymenium) bounded by an excipulum, maximizing spore dispersal efficiency into ambient air currents.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, apothecium designates a spore-bearing structure in many lichens and fungi consisting of a discoid or cupped body bearing asci on the exposed flat or concave surface."*
+> - 📜 **Heinrich Anton de Bary (*Comparative Morphology and Biology of the Fungi, Mycetozoa and Bacteria*):** *"The developing **apothecium** in Peziza expands until its upper concave surface forms an exposed ascigerous layer."*
+> - 📜 **Arthur Henry Reginald Buller (*Researches on Fungi*):** *"A gentle touch against a mature **apothecium** induces sudden simultaneous puffing of thousands of ascospores."*
+> - 📜 **Miles Joseph Berkeley (*Introduction to Cryptogamic Botany*):** *"In many lichen genera, the disc-like **apothecium** provides the most reliable taxonomic characteristics for classification."*

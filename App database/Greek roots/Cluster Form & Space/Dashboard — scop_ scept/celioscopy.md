@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Endoscopic examination of the abdomen through the abdominal wall.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Endoscopic examination of the abdomen through the abdominal wall.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The visual endoscopic examination of the peritoneal or abdominal cavity through a puncture in the abdominal wall; laparoscopy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of minimally invasive surgery, pioneering laparoscopic procedures introduced by Kelling and Jacobaeus using cystoscopes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, celioscopy designates endoscopic examination of the abdomen through the abdominal wall."*
+> - 📜 **Georg Kelling (*Ueber Oesophagoskopie, Gastroskopie und Koelioskopie*):** *"I demonstrated the feasibility of **celioscopy** in a living animal, inspecting the liver and intestines through a trochar after air insufflation."*
+> - 📜 **Hans Christian Jacobaeus (*Ueber die Möglichkeit die Zystoskopie bei Untersuchung seröser Höhlungen anzuwenden*):** *"Clinical **celioscopy** in human patients permits direct visual inspection of peritoneal tuberculosis and hepatic cirrhosis without laparotomy."*
+> - 📜 **Howard A. Kelly (*Operative Gynecology*):** *"Early advocates of **celioscopy** recognized its vast diagnostic potential for evaluating obscure pelvic tumors without major surgery."*

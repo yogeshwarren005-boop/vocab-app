@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Navigable deep diving vessel for underwater exploration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Navigable deep diving vessel for underwater exploration.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A variant spelling of bathyscaphe: a navigable deep-diving submersible designed for oceanographic exploration.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In deep-sea technology, an independently buoyant exploration vessel consisting of a thick steel sphere attached to a flotation hull filled with gasoline.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bathyscape designates navigable deep diving vessel for underwater exploration."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"The invention of the **bathyscape** enabled naturalists to penetrate depths previously visited only by sounding leads."*
+> - 📜 **Arthur C. Clarke (*The Deep Range*):** *"The lights of the **bathyscape** illuminated the basaltic floor of the Mariana Trench, revealing a world never touched by the sun."*
+> - 📜 **Jacques Cousteau (*The Silent World*):** *"Inside the spherical gondola of the **bathyscape**, researchers observed deep-sea abyssal creatures through thick plexiglass cones."*

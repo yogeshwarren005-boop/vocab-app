@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek oo.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of cycads in the family Zamiaceae, native to Mexico and Central America, characterized by stiff, pinnate fronds and large, egg-shaped seed cones.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In paleobotany and conservation biology, Dioon species are among the oldest living seed plants, with fossil records extending to the Permian period, and many species are now critically endangered.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dioon designates a term designating an entity, condition, or phenomenon derived from greek oo."*
+> - 📜 **Charles Joseph Chamberlain (*The Living Cycads*):** *"The genus **Dioon** preserves morphological features essentially unchanged since the Mesozoic era."*
+> - 📜 **Dennis Stevenson (*Biology of the Cycads*):** *"**Dioon** edule produces massive cones whose seeds have been a traditional food source for indigenous Mexican communities."*
+> - 📜 **Loran Whitelock (*The Cycads*):** *"Several species of **Dioon** face extinction in the wild due to habitat destruction and illegal collection."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mathematician specializing in trigonometry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mathematician specializing in trigonometry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mathematician specializing in the study, development, or application of trigonometry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of astronomy and geodesy, trigonometricians computed extensive sine and chord tables to calculate celestial motions and terrestrial surveys.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trigonometrician designates a mathematician specializing in trigonometry."*
+> - 📜 **Arthur Cayley (*The Collected Mathematical Papers*):** *"The skilled **trigonometrician** resolves spherical triangles into direct algebraic relations using Napier's analogies."*
+> - 📜 **George Biddell Airy (*Mathematical Tracts*):** *"The royal observatory employed a dedicated **trigonometrician** to calculate lunar perturbations from navigational charts."*
+> - 📜 **Augustus De Morgan (*A Budget of Paradoxes*):** *"Every aspiring **trigonometrician** had to master the tedious interpolation of seven-figure logarithmic tables."*

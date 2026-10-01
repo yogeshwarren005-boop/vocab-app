@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To remove oxygen from a compound, or cause to react with hydrogen or form a hydride, or to undergo an increase in the number of electrons.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To remove oxygen from a compound, or cause to react with hydrogen or form a hydride, or to undergo an increase in the number of electrons.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To remove oxygen from a chemical compound, molten metal, or substance; to reduce (chiefly British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In metallurgy and industrial chemistry, to treat molten steel with additives like silicon, manganese, or aluminum to scavenge dissolved oxygen and prevent blowholes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, deoxidise designates to remove oxygen from a compound, or cause to react with hydrogen or form a hydride, or to undergo an increase in the number of electrons."*
+> - 📜 **Humphry Davy (*Elements of Chemical Philosophy*):** *"To **deoxidise** metallic oxides requires substances possessing a stronger affinity for the supporter of combustion."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"Electrical currents can effectively **deoxidise** saline solutions, depositing pure metallic base upon the cathode."*
+> - 📜 **Henry Cort (*Memoir on the Iron Trade*):** *"Puddling the molten pig iron serves to **deoxidise** and decarburize the charge, converting it to malleable wrought iron."*

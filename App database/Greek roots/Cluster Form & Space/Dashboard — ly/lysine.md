@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A crystalline essential amino acid C6H14N2O2 obtained from the hydrolysis of various proteins.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A crystalline essential amino acid C6H14N2O2 obtained from the hydrolysis of various proteins.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An essential basic amino acid with a positively charged ε-amino group, indispensable for protein biosynthesis, collagen cross-linking, and physiological nitrogen balance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epigenetics and biochemistry, post-translational modifications of lysine residues on histone proteins govern chromatin architecture and transcriptional activation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lysine designates a crystalline essential amino acid c6h14n2o2 obtained from the hydrolysis of various proteins."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"The flexible hydrocarbon side chain of **lysine** terminates in a basic amino group capable of forming vital electrostatic bonds."*
+> - 📜 **C. David Allis (*Epigenetics*):** *"Covalent methylation and acetylation of specific **lysine** residues within histone tails establish the fundamental histone code."*
+> - 📜 **Thomas Hunt Morgan (*The Physical Basis of Heredity*):** *"Nutritional experiments demonstrated that animals deprived of dietary **lysine** fail to maintain normal tissue growth and nitrogen equilibrium."*

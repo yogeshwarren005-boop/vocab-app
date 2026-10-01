@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek coel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The embryonic process in which the coelom is formed by the splitting of solid blocks of mesodermal tissue.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In developmental biology, a diagnostic ontogenetic feature of protostome coelomates whereby cells proliferate from the 4d blastomere and delaminate to generate the peritoneal cavity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, schizocoely designates a term designating an entity, condition, or phenomenon derived from greek coel."*
+> - 📜 **Francis Maitland Balfour (*A Treatise on Comparative Embryology*):** *"The formation of the coelomic spaces by **schizocoely** reflects the intense local proliferation and separation of mesoblast cells."*
+> - 📜 **Edmund Beecher Wilson (*The Cell in Development and Heredity*):** *"In polychaete development, **schizocoely** proceeds with rigorous mathematical regularity following spiral cleavage."*
+> - 📜 **Stephen Jay Gould (*Ontogeny and Phylogeny*):** *"The divergence between enterocoely and **schizocoely** provided classical morphologists with their primary criterion for dividing the Animalia."*

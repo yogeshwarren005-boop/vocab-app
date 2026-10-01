@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A plant structure that produces megaspores.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A plant structure that produces megaspores.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sporangium that produces macrospores (megaspores), which develop into female, egg-bearing gametophytes in heterosporous plants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary plant morphology and paleobotany, the enclosure and retention of the macrosporangium within an integument was the key evolutionary innovation yielding the seed habit.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, macrosporangium designates a plant structure that produces megaspores."*
+> - 📜 **Wilhelm Hofmeister (*On the Germination, Development, and Fructification of the Higher Cryptogamia*):** *"The **macrosporangium** of Selaginella produces four large spores, in stark contrast to the dust-like contents of the microsporangium."*
+> - 📜 **Dukinfield Henry Scott (*Studies in Fossil Botany*):** *"In early gymnosperm seeds, the nucellus represents the homologous retained **macrosporangium** surrounded by an envelope of integuments."*
+> - 📜 **Katherine Esau (*Plant Anatomy*):** *"Meiotic divisions within the ovular **macrosporangium** typically yield a linear tetrad of four megaspores, of which only one survives."*

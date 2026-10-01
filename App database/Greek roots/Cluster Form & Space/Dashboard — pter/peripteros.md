@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek pter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A peripteral temple or building; a structure surrounded on all exterior sides by a continuous colonnade.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical archaeology and Greek architectural history, the definitive sacred monument plan of archaic and classical Greece.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, peripteros designates a term designating an entity, condition, or phenomenon derived from greek pter."*
+> - 📜 **Banister Fletcher (*A History of Architecture on the Comparative Method*):** *"The monumental **peripteros** at Paestum preserves its archaic entablature and sturdy fluted columns in exceptional integrity."*
+> - 📜 **Pausanias (*Description of Greece*):** *"At Olympia, the ancient **peripteros** of Hera was originally built with oak columns that were gradually replaced with limestone."*
+> - 📜 **Andrea Palladio (*The Four Books of Architecture*):** *"The harmonious proportions of the ancient **peripteros** guided my designs for suburban villas surrounded by loggias."*

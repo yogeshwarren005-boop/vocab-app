@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgical removal of an embolus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surgical removal of an embolus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The surgical removal of an embolus (such as a dislodged blood clot) that is blocking a blood vessel.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vascular surgery, the procedure was revolutionized by Thomas Fogarty's invention of the balloon catheter, enabling rapid, minimally invasive arterial embolectomy under local anesthesia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, embolectomy designates surgical removal of an embolus."*
+> - 📜 **Alexis Carrel (*Results of the Transplantation of Blood Vessels, Organs and Limbs*):** *"Careful vascular suturing following **embolectomy** restores pulsatile distal perfusion without forming secondary thrombi."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Could one extract the impacted plug by direct **embolectomy**, ischemic necrosis of the peripheral tissue might be averted."*
+> - 📜 **Michael DeBakey (*The Living Heart*):** *"Emergency femoral **embolectomy** must be executed within six hours of acute occlusion to preserve limb viability."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bounder.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bounder.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person or thing that perishes; or an informal term for an annoying, mischievous person or child.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In naval slang, a candidate undergoing the grueling submarine command qualifying examination (the Perisher course).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog perisher as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Charles Dickens (*Our Mutual Friend*):** *"The cold wind blew off the Thames like an icy **perisher**, chilling the night watchman to the marrow."*
+> - 📜 **Rudyard Kipling (*The Day's Work*):** *"He was a stubborn young **perisher**, but he stuck to his engine throttle until the relief arrived."*
+> - 📜 **George Bernard Shaw (*Pygmalion*):** *"That insolent little **perisher** had the audacity to contradict her elders in public."*

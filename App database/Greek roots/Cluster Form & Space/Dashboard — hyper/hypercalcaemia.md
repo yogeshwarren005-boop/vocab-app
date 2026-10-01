@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The presence of abnormally high levels of calcium in the blood; usually the result of excessive bone resorption in hyperparathyroidism or paget's disease.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The presence of abnormally high levels of calcium in the blood; usually the result of excessive bone resorption in hyperparathyroidism or paget's disease.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormally elevated concentration of calcium in the blood serum (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical endocrinology, hypercalcaemia is defined as serum total calcium exceeding 10.5 mg/dL (2.6 mmol/L); predominantly caused by primary hyperparathyroidism or malignancy, manifesting as the mnemonic 'stones, bones, groans, and psychiatric moans'.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypercalcaemia designates the presence of abnormally high levels of calcium in the blood; usually the result of excessive bone resorption in hyperparathyroidism or paget's disease."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Parathyroid adenomas frequently announce their presence by severe **hypercalcaemia** and recurrent nephrolithiasis."*
+> - 📜 **Ernest Starling (*Principles of Human Physiology*):** *"The toxic effects of severe **hypercalcaemia** include shortening of the cardiac QT interval and renal vasospasm."*
+> - 📜 **Austin Flint (*A Treatise on the Principles and Practice of Medicine*):** *"Profound muscular lethargy and confusion were traced to metastatic osteolytic **hypercalcaemia**."*

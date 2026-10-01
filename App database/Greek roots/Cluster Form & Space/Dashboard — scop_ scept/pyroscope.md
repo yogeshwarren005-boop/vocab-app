@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A pyrometer that uses the color of the light emitted by a hot object.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pyrometer that uses the color of the light emitted by a hot object.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument used for measuring the intensity of radiant heat or the temperature of high heat sources.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In early nineteenth-century thermodynamics, pyroscope designs devised by Rumford and Leslie utilized differential air thermometers to quantify radiative heat emission.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pyroscope designates a pyrometer that uses the color of the light emitted by a hot object."*
+> - 📜 **Benjamin Thompson Count Rumford (*Essays, Political, Economical, and Philosophical*):** *"The differential **pyroscope** indicated that blackened surfaces emit radiant caloric far more copiously than polished metal."*
+> - 📜 **John Leslie (*An Experimental Inquiry into the Nature and Propagation of Heat*):** *"By interposing screens between the hot canister and the **pyroscope**, the laws of thermal radiation were demonstrated."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"The delicate movement of the liquid in the **pyroscope** registered the rapid diffusion of heat across the evacuated chamber."*

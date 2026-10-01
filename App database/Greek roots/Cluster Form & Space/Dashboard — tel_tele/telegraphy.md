@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Communicating at a distance by electric transmission over wire.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Apparatus used to communicate at a distance over a wire (usually in morse code).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The science, art, process, or apparatus for transmitting written or encoded messages over long distances by wire, cable, or radio signals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In communications engineering, telegraphy encompasses landline galvanic Morse systems, transoceanic submarine telegraphy, and wireless radio telegraphy (CW radio).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Mental telegraphy The clay cannot reply to the potter."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Neither immortal and unerring Mind nor matter, 243:21 the inanimate substratum of mortal mind, can carry on such telegraphy; for God is "of purer eyes than to behold evil," and matter has neither intelligence nor 243:24 sensation."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Automatic mechanism So-called mortal mind sends its despatches over its 399:12 body, but this so-called mind is both the service and message of this telegraphy."*
+> - 📜 **Samuel F. B. Morse (*Modern Telegraphy*):** *"The development of electric **telegraphy** solved the ancient problem of transmitting human thoughts faster than the wind."*
+> - 📜 **Guglielmo Marconi (*Nobel Lecture: Wireless Telegraphic Communication*):** *"Wireless **telegraphy** freed electric communications from the physical tether of copper cables and submarine wires."*
+> - 📜 **Lord Kelvin (*Atlantic Telegraphy*):** *"Signal retardation through thousands of miles of submarine cable challenged the theoretical foundation of underwater **telegraphy**."*

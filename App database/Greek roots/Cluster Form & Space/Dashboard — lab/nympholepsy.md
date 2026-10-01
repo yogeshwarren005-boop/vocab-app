@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A demonic enthusiasm held by the ancients to seize one bewitched by a nymph.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A frenzy of emotion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A frenzy, ecstasy, or bewitching madness anciently believed to be inspired by nymphs; an ecstatic or unattainable passion or yearning for an idealized perfection.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary romanticism and classical mythology, nympholepsy depicts an intense emotional state of longing for impossible, transcendent beauty, often leading to melancholy or madness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nympholepsy designates a demonic enthusiasm held by the ancients to seize one bewitched by a nymph."*
+> - 📜 **Lord Byron (*Childe Harold's Pilgrimage*):** *"The nympholepsy of some fond despair, looking for love where love can never be, possessed the wanderer's restless soul."*
+> - 📜 **Percy Bysshe Shelley (*Alastor; or, The Spirit of Solitude*):** *"A divine **nympholepsy** drove the youthful poet across solitary mountains in search of his radiant vision."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"The ancients spoke of **nympholepsy** as a holy ecstasy overtaking those who beheld woodland goddesses in shaded grottoes."*

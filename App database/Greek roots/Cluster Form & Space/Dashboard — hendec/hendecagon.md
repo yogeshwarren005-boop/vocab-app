@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek hendec.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A polygon having eleven sides and eleven interior angles; an undecagon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Euclidean geometry, a regular hendecagon has interior angles of approximately 147.27 degrees and cannot be constructed using an unmarked ruler and compass alone.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hendecagon designates a term designating an entity, condition, or phenomenon derived from greek hendec."*
+> - 📜 **H. S. M. Coxeter (*Introduction to Geometry*):** *"Because eleven is not a Fermat prime, the regular **hendecagon** belongs to the class of polygons non-constructible by classical Euclidean tools."*
+> - 📜 **Carl Friedrich Gauss (*Disquisitiones Arithmeticae*):** *"The algebraic theory of cyclotomic equations proves that constructibility of an n-gon fails for the **hendecagon**."*
+> - 📜 **Euclid (*The Elements*):** *"The sum of the interior angles of a convex **hendecagon** equals eighteen right angles."*

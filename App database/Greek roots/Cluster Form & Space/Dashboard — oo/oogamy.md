@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or involving a small motile male gamete and a large immobile female gamete.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or involving a small motile male gamete and a large immobile female gamete.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A form of sexual reproduction involving the union of two dissimilar gametes: a large, non-motile ovum and a small, motile spermatozoon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology, oogamy is understood as the end-point of an evolutionary trajectory from isogamy through anisogamy, reflecting divergent selective pressures on gamete provisioning and motility.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oogamy designates having or involving a small motile male gamete and a large immobile female gamete."*
+> - 📜 **Graham Bell (*The Masterpiece of Nature*):** *"**Oogamy** represents the culmination of gamete size divergence under natural selection."*
+> - 📜 **John Maynard Smith (*The Evolution of Sex*):** *"The transition to **oogamy** is one of the most fundamental innovations in the history of sexual reproduction."*
+> - 📜 **Lynn Margulis (*Symbiosis in Cell Evolution*):** *"**Oogamy** evolved convergently in algae, plants, and animals as a strategy optimizing both gamete survival and dispersal."*

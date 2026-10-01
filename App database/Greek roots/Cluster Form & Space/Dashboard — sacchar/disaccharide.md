@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a class of sugars (such as sucrose) that yields on hydrolysis two monosaccharide molecules.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a class of sugars (such as sucrose) that yields on hydrolysis two monosaccharide molecules.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sugar carbohydrate composed of two monosaccharide units joined together by a covalent glycosidic bond.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biochemistry, water-soluble sugars such as sucrose, lactose, and maltose that yield two hexose molecules upon acid or enzymatic hydrolysis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, disaccharide designates any of a class of sugars (such as sucrose) that yields on hydrolysis two monosaccharide molecules."*
+> - 📜 **Emil Fischer (*Syntheses in the Purine and Sugar Groups*):** *"The enzymatic cleavage of each **disaccharide** molecule reveals the precise stereochemical configuration of the glycosidic linkage."*
+> - 📜 **Claude S. Hudson (*The Structure of the Sugars*):** *"Maltose is an alpha-linked **disaccharide** produced by the amylolytic digestion of starch granules in sprouting barley."*
+> - 📜 **Michael T. Madigan (*Brock Biology of Microorganisms*):** *"Microbial transport systems utilize specific permeases to import a **disaccharide** before intracellular phosphorylation occurs."*

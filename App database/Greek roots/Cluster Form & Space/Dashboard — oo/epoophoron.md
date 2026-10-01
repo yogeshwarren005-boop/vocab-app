@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek oo.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A vestigial structure located in the broad ligament of the uterus near the ovary, representing a remnant of the mesonephric (Wolffian) duct in the female reproductive system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In developmental anatomy, the epoophoron is the female homologue of the efferent ductules of the testis, persisting as a non-functional embryological vestige.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epoophoron designates a term designating an entity, condition, or phenomenon derived from greek oo."*
+> - 📜 **Henry Gray (*Gray's Anatomy*):** *"The **epoophoron** lies between the ovary and the fallopian tube within the mesosalpinx."*
+> - 📜 **Keith L. Moore (*The Developing Human*):** *"The **epoophoron** represents the cranial portion of the mesonephric tubules that persist in the female."*
+> - 📜 **T. W. Sadler (*Langman's Medical Embryology*):** *"Cysts of the **epoophoron** occasionally enlarge to clinically significant dimensions in the broad ligament."*

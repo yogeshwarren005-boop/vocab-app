@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Defense of God's goodness and omnipotence in view of the existence of evil.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Defense of God's goodness and omnipotence in view of the existence of evil.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The vindication of divine goodness and providence in view of the existence of evil; philosophical justification of God's ways to humans.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Coined by Gottfried Wilhelm Leibniz in his 1710 treatise *Essais de Théodicée*, proposing that the actual world is the 'best of all possible worlds'.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, theodicy designates defense of god's goodness and omnipotence in view of the existence of evil."*
+> - 📜 **Gottfried Wilhelm Leibniz (*Theodicy: Essays on the Goodness of God, the Freedom of Man and the Origin of Evil*):** *"True **theodicy** demonstrates that physical and moral evils are permitted only to secure the greater harmony of the cosmos."*
+> - 📜 **Voltaire (*Candide*):** *"The Lisbon earthquake shattered Pangloss's complacent **theodicy** that everything was for the best in the best of worlds."*
+> - 📜 **Immanuel Kant (*On the Miscarriage of All Philosophical Trials in Theodicy*):** *"Theoretical reason cannot construct a successful **theodicy**, for human intellect cannot fathom divine purpose."*

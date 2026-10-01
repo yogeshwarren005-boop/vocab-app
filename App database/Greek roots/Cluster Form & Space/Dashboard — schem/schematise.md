@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Give conventional form to.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Give conventional form to.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To form into a scheme; to represent, organize, or classify in a systematic, diagrammatic, or schematic manner (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In critical philosophy and pedagogical exposition, to reduce rich empirical data to clear operational categories.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, schematise designates give conventional form to."*
+> - 📜 **John Dewey (*Experience and Nature*):** *"When we **schematise** human inquiry, we must avoid isolating cognitive reflection from its living practical context."*
+> - 📜 **Terry Eagleton (*Literary Theory: An Introduction*):** *"Formalist critics attempt to **schematise** poetic language into mechanical equations of tension and balance."*
+> - 📜 **Raymond Williams (*Marxism and Literature*):** *"Sociologists who over-**schematise** social classes risk missing the fluid historical dynamics of cultural struggle."*

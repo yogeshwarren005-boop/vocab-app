@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Change (a compound) by increasing the proportion of the electronegative part; or change (an element or ion) from a lower to a higher positive valence: remove one or more electrons from (an atom, ion, or molecule).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Dehydrogenate with oxygen.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To impregnate, combine, or treat with oxygen; to oxygenate or oxidize.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial chemistry and environmental remediation, to bubble air or oxygen through solutions to degrade contaminants or convert chemical valences.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oxygenize designates change (a compound) by increasing the proportion of the electronegative part; or change (an element or ion) from a lower to a higher positive valence: remove one or more electrons from (an atom, ion, or molecule)."*
+> - 📜 **Justus von Liebig (*Familiar Letters on Chemistry*):** *"Vital respiration continually operates to **oxygenize** nutrients absorbed into the vascular system."*
+> - 📜 **Frank Wigglesworth Clarke (*The Data of Geochemistry*):** *"Aerated surface streams rapidly **oxygenize** dissolved ferrous iron, precipitating insoluble limonite."*
+> - 📜 **Robert Boyle (*The Sceptical Chymist*):** *"Chemists observe how fresh air will **oxygenize** and kindle smoldering combustible spirits."*

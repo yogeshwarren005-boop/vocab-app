@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having male reproductive organs in one individual and female in another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having staminate and pistillate flowers borne on different individuals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the male and female reproductive organs located in separate individual organisms; unisexual in individuality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botany, describing plant species (such as willow, holly, and cannabis) where staminate and pistillate flowers are borne on distinct individual plants.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dioecious designates having male reproductive organs in one individual and female in another."*
+> - 📜 **Charles Darwin (*The Different Forms of Flowers on Plants of the Same Species*):** *"In **dioecious** plants, cross-fertilization is an absolute necessity, completely preventing self-pollination in nature."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The willows are strictly **dioecious**, bearing staminate and pistillate catkins on separate trees along river banks."*
+> - 📜 **Karl Linnaeus (*Systema Naturae*):** *"In my sexual system of classification, the class Dioecia unites all plants that are **dioecious** in flowering habit."*

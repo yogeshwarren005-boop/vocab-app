@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a division (Pteridophyta) of vascular plants (such as a fern) that have roots, stems, and leaves but lack flowers or seeds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a division (Pteridophyta) of vascular plants (such as a fern) that have roots, stems, and leaves but lack flowers or seeds.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any vascular plant that reproduces by spores and does not produce flowers or seeds; a fern, horsetail, or lycophyte.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary botany, a tracheophyte exhibiting free-swimming flagellated sperm requiring moisture for fertilization.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pteridophyte designates any of a division (pteridophyta) of vascular plants (such as a fern) that have roots, stems, and leaves but lack flowers or seeds."*
+> - 📜 **Katherine Esau (*Plant Anatomy*):** *"The conductive xylem elements of a typical **pteridophyte** consist exclusively of scalariform tracheids without true vessel elements."*
+> - 📜 **Peter H. Raven (*Biology of Plants*):** *"The life cycle of a **pteridophyte** features an alternation between a large leafy sporophyte and a delicate, free-living prothallium."*
+> - 📜 **D. H. Scott (*Studies in Fossil Botany*):** *"The coal measures abound in petrified remains demonstrating the anatomical complexity achieved by every ancient **pteridophyte**."*

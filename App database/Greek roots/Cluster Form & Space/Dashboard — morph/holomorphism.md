@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek morph.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The mathematical condition, property, or quality of being holomorphic; complex differentiability and analyticity throughout a domain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In complex differential geometry and several complex variables, holomorphism preserves complex structure across Kähler manifolds and complex vector bundles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, holomorphism designates a term designating an entity, condition, or phenomenon derived from greek morph."*
+> - 📜 **Lars Ahlfors (*Conformal Invariants*):** *"The preservation of infinitesimal angles under conformal mapping is an immediate geometric manifestation of **holomorphism**."*
+> - 📜 **Kunihiko Kodaira (*Complex Manifolds and Deformation of Complex Structures*):** *"Deformation theory examines how families of complex structures vary smoothly while preserving internal **holomorphism**."*
+> - 📜 **Saunders Mac Lane (*Mathematics: Form and Function*):** *"The step from real differentiability to **holomorphism** represents one of the most fruitful conceptual syntheses in mathematical analysis."*

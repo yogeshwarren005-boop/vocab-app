@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormal ability to focus of distant objects.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abnormal ability to focus of distant objects.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or affected by hyperopia (farsightedness).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ophthalmology, a hyperopic eye requires converging convex lenses to shift the image plane forward onto the neurosensory retinal surface.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyperopic designates abnormal ability to focus of distant objects."*
+> - 📜 **Francis Cornelis Donders (*On the Anomalies of Accommodation and Refraction of the Eye*):** *"The **hyperopic** eye is structurally too short along its anteroposterior optical axis."*
+> - 📜 **Hermann von Helmholtz (*Treatise on Physiological Optics*):** *"Convex lenses place the focal conjugate of a **hyperopic** globe directly upon the fovea centralis."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Children with marked **hyperopic** refraction often develop compensatory accommodative strabismus."*

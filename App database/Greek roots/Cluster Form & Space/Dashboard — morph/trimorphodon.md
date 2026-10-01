@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lyre snakes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lyre snakes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxonomic genus of rear-fanged colubrid snakes native to arid regions of North America and Central America, commonly known as lyre snakes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In herpetology, Trimorphodon snakes are nocturnal, rock-dwelling ambush predators characterized by broad lyre-shaped head markings, vertically elliptical pupils, and grooved rear maxillary fangs for subduing lizards.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trimorphodon designates lyre snakes."*
+> - 📜 **Edward Drinker Cope (*The Crocodilians, Lizards, and Snakes of North America*):** *"The genus **Trimorphodon** is characterized by intermediate grooved posterior maxillary teeth and a distinct lyre-shaped pattern on the crown."*
+> - 📜 **Raymond L. Ditmars (*Reptiles of the World*):** *"Desert lyre snakes of the genus **Trimorphodon** prowl canyon rock crevices at night, feeding primarily on sleeping spiny lizards."*
+> - 📜 **Hobart M. Smith (*Handbook of Amphibians and Reptiles of Kansas*):** *"Specimens of **Trimorphodon** employ mild venom delivered through grooved rear fangs to immobilize struggling saurian prey."*

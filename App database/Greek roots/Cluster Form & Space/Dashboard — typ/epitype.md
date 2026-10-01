@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek typ.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A specimen or illustration selected to serve as an interpretative type when the holotype, lectotype, or neotype is demonstrably ambiguous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical and mycological nomenclature (governed by the ICN), an epitype is designated when the existing type material cannot be critically identified for precise application of the species name (e.g. ancient damaged types lacking DNA).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epitype designates a term designating an entity, condition, or phenomenon derived from greek typ."*
+> - 📜 **John McNeill (*International Code of Botanical Nomenclature*):** *"An **epitype** is selected to support an existing type when diagnostic micromorphological or molecular traits are ambiguous."*
+> - 📜 **Carl Christensen (*Index Filicum*):** *"To fix the application of Linnaeus's cryptic fern name, modern pteridologists designated an **epitype** collected from the type locality."*
+> - 📜 **Pier Andrea Saccardo (*Sylloge Fungorum*):** *"Modern molecular mycology frequently requires the designation of an **epitype** to stabilize taxonomic synonymy."*

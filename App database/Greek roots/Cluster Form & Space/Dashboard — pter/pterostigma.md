@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek pter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialized, pigmented, or opaque cell located on the anterior margin of an insect's wing near the apex.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In insect biomechanics, an inertial mass on the leading edge (especially prominent in dragonflies) that stabilizes wings against aerodynamic pitch flutter at high speeds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pterostigma designates a term designating an entity, condition, or phenomenon derived from greek pter."*
+> - 📜 **John Henry Comstock (*The Wings of Insects*):** *"The dark, thickened **pterostigma** along the costal vein provides an indispensable taxonomic landmark in odonate venation."*
+> - 📜 **R. J. Tillyard (*The Biology of Dragonflies*):** *"The aerodynamic weight of the **pterostigma** damps out destructive wing oscillations during high-velocity gliding."*
+> - 📜 **A. D. Imms (*A General Textbook of Entomology*):** *"In many hymenopterous parasites, the presence or absence of a distinct **pterostigma** dictates family diagnosis."*

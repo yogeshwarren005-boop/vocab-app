@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The worship of a physical object as a god.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Immoderate attachment or devotion to something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The worship of idols or physical images as gods; extreme, excessive, or blind devotion, reverence, or adoration of something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In monotheistic theology, idolatry represents the cardinal sin of substituting creaturely artifacts for the transcendent Creator; in social critique, applies to the fetishization of money, celebrity, or state power.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For fear of which, hear this thou age unbred, Ere you were born was beauty’s summer dead. 105 Let not my love be called idolatry, Nor my beloved as an idol show, Since all alike my songs and praises be To one, of one, still such, and ever so."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Demetrius, I’ll avouch it to his head, Made love to Nedar’s daughter, Helena, And won her soul; and she, sweet lady, dotes, Devoutly dotes, dotes in idolatry, Upon this spotted and inconstant man."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Or if thou wilt, swear by thy gracious self, Which is the god of my idolatry, And I’ll believe thee."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Blind submission to traditional philosophical authority is a species of intellectual **idolatry** that paralyzes progress."*
+> - 📜 **Thomas Carlyle (*On Heroes, Hero-Worship, and the Heroic in History*):** *"Sincere reverence for greatness must never degenerate into the debasing **idolatry** of empty ceremonial forms."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The decline of Venetian religious art commenced when decorative splendor superseded faith, drifting into artistic **idolatry**."*

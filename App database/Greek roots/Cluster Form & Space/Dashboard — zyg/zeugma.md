@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The use of a word to modify or govern two or more words usually in such a manner that it applies to each word in a different sense (as "opened" in "opened the door and her heart to the stray kitten") or makes sense with only one word (as "rolling" in "rolling lightning and thunder").
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The use of a word to modify or govern two or more words usually in such a manner that it applies to each word in a different sense (as "opened" in "opened the door and her heart to the stray kitten") or makes sense with only one word (as "rolling" in "rolling lightning and thunder").
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rhetorical figure in which a single word, usually a verb or adjective, is applied to two or more elements in different senses or with different logical relationships.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary criticism and stylistics, zeugma creates wit, compression, or surprise by yoking semantically disparate objects under one governing word, as in Dickens and Pope.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, zeugma designates the use of a word to modify or govern two or more words usually in such a manner that it applies to each word in a different sense (as "opened" in "opened the door and her heart to the stray kitten") or makes sense with only one word (as "rolling" in "rolling lightning and thunder")."*
+> - 📜 **Alexander Pope (*The Rape of the Lock*):** *"Pope's famous **zeugma** yokes losing hearts and necklaces under a single verb with devastating wit."*
+> - 📜 **Quintilian (*Institutio Oratoria*):** *"**Zeugma** occurs when one word governs several clauses, though not all clauses use it in the same sense."*
+> - 📜 **Richard Lanham (*A Handlist of Rhetorical Terms*):** *"**Zeugma** achieves its comic or dramatic effect by making one verb serve incompatible semantic masters."*

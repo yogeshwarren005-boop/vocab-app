@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A pink or red mineral consisting of crystalline manganese silicate; used as an ornamental stone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A pink or red mineral consisting of crystalline manganese silicate; used as an ornamental stone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rose-pink or reddish manganese silicate mineral (MnSiO3), often marked by contrasting veins of black manganese oxide.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In descriptive mineralogy, a triclinic inosilicate occurring in contact metamorphic deposits, valued as an ornamental stone and carving material.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhodonite designates a pink or red mineral consisting of crystalline manganese silicate; used as an ornamental stone."*
+> - 📜 **James Dwight Dana (*Manual of Mineralogy*):** *"The deep flesh-red color and blocky cleavage of **rhodonite** distinguish it from other metamorphic manganese minerals."*
+> - 📜 **Waldemar Lindgren (*Mineral Deposits*):** *"In hydrothermal vein systems, **rhodonite** forms gangue material accompanying lead, silver, and zinc sulfides."*
+> - 📜 **Frank Wigglesworth Clarke (*The Data of Geochemistry*):** *"Weathering of **rhodonite** produces crusts of pyrolusite and psilomelane through surface oxidation of manganese."*

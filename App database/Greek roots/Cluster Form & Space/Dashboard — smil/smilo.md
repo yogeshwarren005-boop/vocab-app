@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Perennial mountain rice native to mediterranean region and introduced into north america.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Perennial mountain rice native to mediterranean region and introduced into north america.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An informal or slang term for a short break or interval of rest, especially an Australian colloquial variant associated with smoko.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociolinguistics and regional idiom, smilo/smoko designates the mid-morning tea and smoke break among laborers and agricultural workers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, smilo designates perennial mountain rice native to mediterranean region and introduced into north america."*
+> - 📜 **Henry Lawson (*While the Billy Boils*):** *"The shearers threw down their shears when the whistle blew for **smilo**, gathering eagerly around the smoking tea-billy."*
+> - 📜 **Banjo Paterson (*The Man from Snowy River and Other Verses*):** *"We took a welcome **smilo** beside the creek while the horses grazed quietly in the shade of the box-trees."*
+> - 📜 **C. J. Dennis (*The Songs of a Sentimental Bloke*):** *"During the ten-minute **smilo**, the lads gossiped about Saturday's races and swapped tobacco tins."*

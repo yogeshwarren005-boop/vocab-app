@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Around the anus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Around the anus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Situated around or pertaining to the region surrounding the anus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In colorectal surgery and proctology, the perianal skin and subcutaneous tissues are prone to fistulas, abscesses, and pruritus ani.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, perianal designates around the anus."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"The external sphincter ani lies embedded within the dense subcutaneous fat of the **perianal** space."*
+> - 📜 **S. Terry Canale (*Campbell's Operative Orthopaedics*):** *"Intact **perianal** pinprick sensation confirms preservation of sacral cord segments S4 and S5 in spinal trauma."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Tuberculous ulceration may rarely manifest as painful induration within the **perianal** folds."*

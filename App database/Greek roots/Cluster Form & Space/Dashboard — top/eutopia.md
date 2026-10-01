@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek top.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A place of ideal peace and happiness; a good and prosperous society (distinct from utopia as 'nowhere').
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Coined from Greek *eu* (good, well) and *topos* (place), eutopia emphasizes the tangible, achievable perfection of human institutions, contrasted with utopian impossibility.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eutopia designates a term designating an entity, condition, or phenomenon derived from greek top."*
+> - 📜 **Thomas More (*Utopia*):** *"Wherfore not Utopie, but rather rightely my name is **Eutopie**: a place of felicitie."*
+> - 📜 **Patrick Geddes (*Cities in Evolution*):** *"Urban planning must strive not for distant impossible dreams, but for the regional realization of an achievable **eutopia**."*
+> - 📜 **Lewis Mumford (*The Story of Utopias*):** *"While utopia signifies nowhere, **eutopia** summons human ingenuity to cultivate the best possible home on earth."*

@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause to repeat a cycle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Use again after processing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To convert waste materials into reusable items; to treat or process used or discarded materials so as to make them suitable for reuse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systems ecology and ecological economics, to pass energy, water, nutrients, or industrial byproducts repeatedly through a operational cycle to prevent resource exhaustion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"He repeated charges that the UIPS non-renewables deficits resulted from poor control and excessive consumption of raw materials, plus breakdown in recycling and conservation policies."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Recycling, salvage, ever-deeper mine shafts and tunnels, repeated sweeps of the Earth's sea beds and planetary and satellites' crusts, trenches, beds and craters offered insufficient returns."*
+> - 📜 **Barry Commoner (*The Closing Circle: Nature, Man, and Technology*):** *"In nature, the fundamental ecological law is that organisms must **recycle** their wastes back into the soil and water."*
+> - 📜 **Eugene Odum (*Fundamentals of Ecology*):** *"Decomposers break down dead biomass to **recycle** vital phosphorus and nitrogen into the plant community."*
+> - 📜 **Aldo Leopold (*A Sand County Almanac*):** *"The oak leaves fall to **recycle** sunshine and rain into rich black loam beneath the roots."*

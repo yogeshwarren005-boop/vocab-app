@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek morph.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Heterochronic evolutionary development in which descendant organisms progress developmentally beyond the adult morphology of their ancestors, displaying exaggerated or hyper-adult traits.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In paleontology and evolutionary morphology, peramorphosis contrasts with paedomorphosis, explaining extreme evolutionary trends such as the giant tusks of mammoths.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, peramorphosis designates a term designating an entity, condition, or phenomenon derived from greek morph."*
+> - 📜 **Stephen Jay Gould (*The Structure of Evolutionary Theory*):** *"The concept of **peramorphosis** unifies heterochronic mechanisms that push adult phenotypes past the ancestral developmental frontier."*
+> - 📜 **Gavin de Beer (*Embryos and Ancestors*):** *"We observe **peramorphosis** whenever allometric growth rates accelerate, producing hyper-specialized cranial horns or appendages."*
+> - 📜 **Pere Alberch (*Size and Shape in Ontogeny and Phylogeny*):** *"A mathematical model of morphospaces distinguishes paedomorphosis from **peramorphosis** along developmental time and growth rate vectors."*

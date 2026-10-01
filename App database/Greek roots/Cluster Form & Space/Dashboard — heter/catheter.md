@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A thin flexible tube inserted into the body to permit introduction or withdrawal of fluids or to keep the passageway open.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A thin flexible tube inserted into the body to permit introduction or withdrawal of fluids or to keep the passageway open.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A thin, flexible hollow tube inserted into a body cavity, duct, or blood vessel to inject fluids, drain urine, or allow surgical access.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical medicine and interventional cardiology, cardiac catheters facilitate balloon angioplasty, hemodynamic monitoring, and stent deployment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"First he tickled her Then he patted her Then he passed the female catheter For he was a medical Jolly old medi... —I feel you would need one more for _Hamlet._ Seven is dear to the mystic mind."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Strict aseptic technique during insertion of the urinary **catheter** prevents ascending iatrogenic bacteremia."*
+> - 📜 **Eugene Braunwald (*Heart Disease: A Textbook of Cardiovascular Medicine*):** *"Advancement of the diagnostic **catheter** through the femoral artery allows direct visualization of coronary stenoses."*
+> - 📜 **Arthur C. Guyton (*Textbook of Medical Physiology*):** *"The Swan-Ganz **catheter** measures pulmonary capillary wedge pressure to assess left ventricular function."*

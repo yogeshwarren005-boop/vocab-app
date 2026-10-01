@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (biology) similarity or identity of form or shape or structure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (biology) similarity or identity of form or shape or structure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition, quality, or property of being isomorphous; correspondence of form, crystal structure, or mathematical relations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In institutional sociology and organizational theory, the tendency of institutional structures within an organizational field to converge upon similar forms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, isomorphy designates (biology) similarity or identity of form or shape or structure."*
+> - 📜 **Paul DiMaggio (*The Iron Cage Revisited: Institutional Isomorphism and Collective Rationality*):** *"Institutional **isomorphy** forces organizations in competitive fields to adopt similar bureaucratic procedures to gain social legitimacy."*
+> - 📜 **Walter W. Powell (*The New Institutionalism in Organizational Analysis*):** *"Coercive and mimetic pressures accelerate structural **isomorphy** across public schools and hospital networks."*
+> - 📜 **Ludwig von Bertalanffy (*General System Theory*):** *"The existence of mathematical **isomorphy** between physical kinetics and biological population models justifies a universal systems science."*

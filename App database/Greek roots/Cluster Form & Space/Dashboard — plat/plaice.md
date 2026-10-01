@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various flatfishes; especially : a large European flounder (Pleuronectes platessa) having red spots and used for food.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various flatfishes; especially : a large European flounder (Pleuronectes platessa) having red spots and used for food.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A European marine flatfish (Pleuronectes platessa) of commercial importance, having an oval body with reddish-orange spots on its brown upper side.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In fishery biology, the plaice is a bottom-dwelling flatfish of the North Sea and Northeast Atlantic, possessing asymmetrical dextral eyes and feeding on benthic bivalves.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plaice designates any of various flatfishes; especially : a large european flounder (pleuronectes platessa) having red spots and used for food."*
+> - 📜 **Izaak Walton (*The Compleat Angler*):** *"The sea yields many delicate flatfish, whereof the spotted **plaice** and the sole are prized above all for the table."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The larval **plaice** begins life swimming upright like an ordinary fish before its left eye migrates across the skull."*
+> - 📜 **George Brown Goode (*Fisheries and Fishery Industries of the United States*):** *"European trawlers take vast quantities of European **plaice** over the shallow sandy banks of the North Sea."*

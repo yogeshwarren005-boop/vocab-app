@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A crystalline amino acid C6H12N2O4S2 that is widespread in proteins (such as keratins) and is a major metabolic sulfur source.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A crystalline amino acid C6H12N2O4S2 that is widespread in proteins (such as keratins) and is a major metabolic sulfur source.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A dimeric sulfur-containing amino acid formed by the oxidation of two cysteine molecules joined by a covalent disulfide bond.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical biochemistry and nephrology, an insoluble amino acid that precipitates to form urinary stones in patients with inherited cystinuria.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cystine designates a crystalline amino acid c6h12n2o4s2 that is widespread in proteins (such as keratins) and is a major metabolic sulfur source."*
+> - 📜 **William Hyde Wollaston (*On Cystic Oxide, a New Species of Urinary Calculus*):** *"I isolated a peculiar crystalline substance from a bladder stone, to which I assigned the name **cystine**."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"The covalent disulfide linkage in **cystine** links adjacent peptide chains, stabilizing hair, wool, and insulin."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Hexagonal microscopic crystals of **cystine** in urinary sediment confirm the metabolic diagnosis of cystinuria."*

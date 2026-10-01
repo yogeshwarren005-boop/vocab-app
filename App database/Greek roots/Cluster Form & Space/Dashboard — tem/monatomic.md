@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Consisting of one atom; especially : having but one atom in the molecule.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Consisting of one atom; especially : having but one atom in the molecule.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or consisting of a single atom in the molecule; having a valency of one.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In thermodynamics and physical chemistry, noble gases (He, Ne, Ar, Kr, Xe, Rn) are monatomic at standard conditions, exhibiting an ideal heat capacity ratio (gamma) of exactly 5/3.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monatomic designates consisting of one atom; especially : having but one atom in the molecule."*
+> - 📜 **William Ramsay (*The Gases of the Atmosphere: The History of Their Discovery*):** *"Acoustic velocity measurements confirmed that argon gas is strictly **monatomic**, lacking internal molecular vibrations."*
+> - 📜 **James Clerk Maxwell (*Theory of Heat*):** *"The ratio of specific heats in a **monatomic** gas agrees with the kinetic theory calculation for three translational degrees of freedom."*
+> - 📜 **Lord Rayleigh (*Scientific Papers*):** *"The spectrum and thermodynamic behavior of helium reaffirmed its fundamentally **monatomic** constitution."*

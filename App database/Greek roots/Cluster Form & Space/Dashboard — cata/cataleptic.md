@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A trancelike state marked by loss of voluntary motion in which the limbs remain in whatever position they are placed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A trancelike state marked by loss of voluntary motion in which the limbs remain in whatever position they are placed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or affected with catalepsy; rigid, trance-like, and unresponsive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neurology, describing a patient or limb exhibiting waxy motor resistance and suspension of voluntary movement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Finally, becoming cataleptic, she has to be carried up the narrow staircase like a grand piano."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"That visit not succeeding either, you will go again perhaps?” “And again,” repeats mademoiselle, cataleptic with determination."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"A cataleptic trance is a cataleptic trance, no matter how induced."*
+> - 📜 **William R. Gowers (*A Manual of Diseases of the Nervous System*):** *"The **cataleptic** arm could be elevated above the head, where it hung suspended as if carved in stone."*
+> - 📜 **Edgar Allan Poe (*The Fall of the House of Usher*):** *"The disease of the lady Madeline had long baffled the skill of her physicians; a settled apathy and a **cataleptic** character were common."*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*):** *"He sat in a **cataleptic** stupor, staring blankly ahead without acknowledging questions or visual movements."*

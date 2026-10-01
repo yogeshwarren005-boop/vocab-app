@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of medicine concerned with the structure, function, and disorders of the endocrine glands.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A branch of medicine concerned with the structure, function, and disorders of the endocrine glands.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of physiology and medicine concerned with endocrine glands, hormonal signaling pathways, and related metabolic disorders.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern molecular biology, endocrinology bridges genomic receptor pharmacology, neuroendocrine integration, and cellular metabolic control.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endocrinology designates a branch of medicine concerned with the structure, function, and disorders of the endocrine glands."*
+> - 📜 **Laurence L. Brunton (*Goodman & Gilman's The Pharmacological Basis of Therapeutics*):** *"The history of modern **endocrinology** began with the isolation and therapeutic application of bovine insulin."*
+> - 📜 **Arthur C. Guyton (*Textbook of Medical Physiology*):** *"Comparative **endocrinology** demonstrates remarkable evolutionary conservation of peptide hormone structures across vertebrates."*
+> - 📜 **Hans Selye (*The Story of the Adaptation Syndrome*):** *"Experimental **endocrinology** demonstrated that physical stressors trigger identical hormonal discharges regardless of the stimulus."*

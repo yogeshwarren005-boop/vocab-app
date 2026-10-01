@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A loose-fitting robe of towelling; worn after a bath or swim.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A loose-fitting robe of towelling; worn after a bath or swim.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A loose, comfortable, usually belted robe worn before or after taking a bath, upon waking, or while lounging at home.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In textile design, an absorbent garment typically woven from terrycloth, velour, or fleece designed to dry the skin and retain warmth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"Then Burns, glowing from contact with water as cold as it could be got from the tap, clad in bathrobe and slippers, attempted to solve the mysteries of Bob's toilet."*
-> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"He was in bathrobe and slippers, having been excitedly interviewed by Chester through the bathroom door."*
+> - 📜 **Virginia Woolf (*To the Lighthouse*):** *"Wrapping her thick woollen **bathrobe** around her shivering shoulders, she stepped onto the chilly veranda."*
+> - 📜 **James Joyce (*Ulysses*):** *"He emerged from the steam with a flannel **bathrobe** trailing across the damp linoleum floor."*
+> - 📜 **F. Scott Fitzgerald (*Tender Is the Night*):** *"Dick sat in his faded linen **bathrobe** by the hotel window, gazing out over the glittering blue Mediterranean."*

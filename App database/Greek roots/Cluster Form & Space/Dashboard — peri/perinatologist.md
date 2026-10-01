@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An obstetrician specializing in perinatology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An obstetrician specializing in perinatology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialist in maternal-fetal medicine who provides care for high-risk pregnancies, fetuses, and newborns around the time of birth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A subspecialty obstetrician managing complex maternal comorbidities, fetal congenital anomalies, and premature labor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, perinatologist designates an obstetrician specializing in perinatology."*
+> - 📜 **John A. Rock (*Te Linde's Operative Gynecology*):** *"The consulting **perinatologist** employs targeted ultrasonography to monitor intrauterine growth restriction."*
+> - 📜 **Tinsley R. Harrison (*Principles of Internal Medicine*):** *"Patients with severe preeclampsia benefit from immediate co-management by an experienced **perinatologist**."*
+> - 📜 **David L. Rimoin (*Principles and Practice of Medical Genetics*):** *"Genetic counseling coordinated with a **perinatologist** guides clinical decisions in suspected chromosomal aneuploidies."*

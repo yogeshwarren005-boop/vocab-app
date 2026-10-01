@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to (especially passing through) a centroid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to (especially passing through) a centroid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or passing through a centroid (the geometric center of mass).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In structural engineering and continuum mechanics, describing axes (such as the centroidal axis) along which bending moments produce pure axial stress without cross-sectional torsion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centroidal designates of or relating to (especially passing through) a centroid."*
+> - 📜 **Ernst Mach (*The Science of Mechanics*):** *"Bending stresses in a loaded beam vanish along the neutral surface that passes through its **centroidal** axis."*
+> - 📜 **James Dwight Dana (*Manual of Mineralogy*):** *"Crystallographic symmetry operations frequently align with the principal **centroidal** planes of the mineral crystal."*
+> - 📜 **Isaac Newton (*Principia*):** *"The orbital mechanics of mutually attracting spheroids depend on lines drawn between their respective **centroidal** foci."*

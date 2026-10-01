@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to macroeconomics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to macroeconomics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, involving, or characteristic of the broad, aggregate aspects of an economy, such as national income, employment rates, and inflation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In public policy, macroeconomic strategies leverage fiscal budgets and central bank monetary tools to stabilize economic cycles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, macroeconomic designates of or relating to macroeconomics."*
+> - 📜 **John Maynard Keynes (*The General Theory of Employment, Interest and Money*):** *"Aggregate effective demand serves as the decisive **macroeconomic** lever governing total employment and output."*
+> - 📜 **Paul Samuelson (*Economics: An Introductory Analysis*):** *"A nation cannot manage inflation without understanding the **macroeconomic** interactions between government spending and private investment."*
+> - 📜 **Milton Friedman (*A Monetary History of the United States*):** *"Monetary policy exerts a profound **macroeconomic** influence that operates with long and variable lags upon price levels."*

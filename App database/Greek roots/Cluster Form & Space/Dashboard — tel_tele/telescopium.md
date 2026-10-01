@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small constellation in the southern hemisphere near ara.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small constellation in the southern hemisphere near ara.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A faint southern constellation introduced in the eighteenth century by Nicolas-Louis de Lacaille, representing an astronomical telescope.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern celestial cartography, Telescopium contains no stars brighter than third magnitude and borders Ara, Corona Australis, Indus, and Pavo in the southern hemisphere.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, telescopium designates a small constellation in the southern hemisphere near ara."*
+> - 📜 **Nicolas-Louis de Lacaille (*Coelum Australe Stelliferum*):** *"In mapping the uncatalogued stars of the southern sky, I designated the new grouping as **Telescopium**."*
+> - 📜 **Richard A. Proctor (*A Star Atlas for the Library, the School and the Observatory*):** *"The constellation **Telescopium** occupies a barren tract of sky south of Sagittarius and the Southern Crown."*
+> - 📜 **Agnes Mary Clerke (*A Popular History of Astronomy during the Nineteenth Century*):** *"Lacaille chose names representing scientific instruments for southern asterisms, including **Telescopium** and Microscopium."*

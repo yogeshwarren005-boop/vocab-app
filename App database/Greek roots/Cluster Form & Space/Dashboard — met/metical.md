@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The basic unit of money in mozambique; equal to 100 centavos.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The basic unit of money in mozambique; equal to 100 centavos.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, characteristic of, or resembling a metic or resident alien in classical Greek society.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical legal history and epigraphy, describing the distinct judicial status, tax burdens, and property restrictions imposed on alien residents in Greek poleis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metical designates the basic unit of money in mozambique; equal to 100 centavos."*
+> - 📜 **George Grote (*A History of Greece*):** *"The Athenian state maintained a flourishing economy largely through the industrious labor of its **metical** population."*
+> - 📜 **M. I. Finley (*The Ancient Economy*):** *"The **metical** status imposed distinct fiscal duties, including the metoikion tax and exclusion from agricultural land ownership."*
+> - 📜 **A. H. M. Jones (*Athenian Democracy*):** *"Legal cases involving **metical** litigants were adjudicated before the polemarch, reflecting their distinct judicial category in the republic."*

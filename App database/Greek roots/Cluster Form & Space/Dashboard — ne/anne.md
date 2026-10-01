@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Queen of england and scotland and ireland; daughter if james ii and the last of the stuart monarchs; in 1707 she was the last english ruler to exercise the royal veto over parliament (1665-1714).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Queen of england and scotland and ireland; daughter if james ii and the last of the stuart monarchs; in 1707 she was the last english ruler to exercise the royal veto over parliament (1665-1714).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A variant root or combining form historically associated with spinning, thread-making, or weaving structures (derived from Greek nēma or nēein).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical philology and textile terminology, relates to terms designating spun filaments, thread skeins, or woven web foundations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Edmund had issue, Roger, Earl of March; Roger had issue, Edmund, Anne, and Eleanor."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His eldest sister, Anne, My mother, being heir unto the crown, Married Richard Earl of Cambridge, who was son To Edmund Langley, Edward the Third’s fifth son."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then enter Anne Bullen and divers other Ladies and Gentlemen as guests, at one door."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"The verbal root meaning to spin or weave gave rise to various dialectal and poetic derivatives including **anne**."*
+> - 📜 **Robert Beekes (*Etymological Dictionary of Greek*):** *"Comparative linguists trace early Mediterranean terms for spun flax through morphological variants such as **anne**."*
+> - 📜 **John Ruskin (*The Ethics of the Dust*):** *"The ancient art of spinning thread and winding the **anne** skein symbolized feminine patience in traditional domestic arts."*

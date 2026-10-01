@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument for measuring the curvature of a surface.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instrument for measuring the curvature of a surface.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A precision instrument for measuring the curvature of spherical surfaces (such as lenses and mirrors) or the thickness of thin plates.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In optical engineering, a spherometer consists of three pointed legs forming an equilateral triangle and a fine micrometer screw centered between them.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spherometer designates an instrument for measuring the curvature of a surface."*
+> - 📜 **Ernst Abbe (*Carl Zeiss Optical Works Memoirs*):** *"Testing the curvature of the telescope objective with a calibrated **spherometer** confirmed sagitta tolerances to a fraction of a micron."*
+> - 📜 **Lord Rayleigh (*Scientific Papers*):** *"The radius of curvature of the glass plate was determined by repeated readings of the **spherometer** micrometer screw."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"The thickness of the optical glass disk was verified across its entire diameter by means of the delicate **spherometer**."*

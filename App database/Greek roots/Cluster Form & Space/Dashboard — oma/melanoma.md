@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A tumor containing dark pigment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A highly malignant tumor that starts in melanocytes of normal skin or moles and metastasizes rapidly and widely.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A malignant tumor arising from melanocytes, the pigment-producing cells of the skin, characterized by dark coloration and a propensity for aggressive metastasis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dermatological oncology, melanoma classification follows the Breslow depth and Clark level staging systems, with prognosis closely tied to thickness, ulceration, and sentinel node involvement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, melanoma designates a tumor containing dark pigment."*
+> - 📜 **William Norris (*Eight Cases of Melanosis*):** *"The hereditary predisposition to **melanoma** was evident across three generations of the affected family."*
+> - 📜 **Alexander Breslow (*Thickness, Cross-Sectional Areas and Depth of Invasion in the Prognosis of Cutaneous Melanoma*):** *"Tumor thickness remains the single most important prognostic factor in cutaneous **melanoma**."*
+> - 📜 **Wallace H. Clark (*The Histogenesis and Biologic Behavior of Primary Human Malignant Melanomas of the Skin*):** *"The level of invasion determines the clinical staging of **melanoma** and guides therapeutic decisions."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling mucus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mucoprotein.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling or having the properties of mucus; of a slimy, viscous, or gelatinous consistency characteristic of mucous secretions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In microbiology and pathology, mucoid describes bacterial colony morphology or tissue degeneration involving excessive production of mucinous polysaccharides.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mucoid designates resembling mucus."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The sputum in advanced cases becomes **mucoid** and tenacious, adhering to the vessel."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"A **mucoid** degeneration of the connective tissue was observed in the affected specimens."*
+> - 📜 **Patrick R. Murray (*Medical Microbiology*):** *"Pseudomonas aeruginosa frequently displays a **mucoid** phenotype in the lungs of cystic fibrosis patients."*

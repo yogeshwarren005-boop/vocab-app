@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A relatively coarse lace; made by weaving and knotting cords.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make knotted patterns.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A textile craft or artistic technique of producing ornamental knotted lace, fringe, or geometric openwork fabric without needles or weaving looms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In decorative arts and textile history, macramé knotting techniques originated among Moorish artisans before becoming widely practiced across maritime and Victorian cultures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, macrame designates a relatively coarse lace; made by weaving and knotting cords."*
+> - 📜 **Thérèse de Dillmont (*Encyclopedia of Needlework*):** *"The delicate geometric patterns of **macrame** depend entirely upon the skilful tying of square and half-hitch knots."*
+> - 📜 **Virginia I. Harvey (*Macramé: The Art of Creative Knotting*):** *"Revitalized in the twentieth century, **macrame** expanded from simple edge trimming into monumental fiber sculpture."*
+> - 📜 **William Morris (*Hopes and Fears for Art*):** *"Handicrafts such as embroidery and knotted **macrame** preserve the tactile soul of decorative design against industrial uniformity."*

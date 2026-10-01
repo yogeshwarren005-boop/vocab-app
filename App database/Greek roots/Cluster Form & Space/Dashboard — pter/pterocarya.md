@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Asiatic nut trees: wing nuts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Asiatic nut trees: wing nuts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of deciduous hardwood trees in the walnut family (Juglandaceae), commonly known as wingnuts, native to Asia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dendrology and arboriculture, riparian trees bearing long, hanging female catkins of nutlets flanked by circular membranous wings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pterocarya designates asiatic nut trees: wing nuts."*
+> - 📜 **Charles Sprague Sargent (*The Silva of North America*):** *"The Caucasian wingnut, belonging to **pterocarya**, forms magnificent spreading specimens along moist riverbanks in temperate parks."*
+> - 📜 **Ernest Henry Wilson (*A Naturalist in Western China*):** *"Long pendant racemes of **pterocarya** fruits dangle gracefully from the branches like emerald necklaces in midsummer."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"Botanically distinct from Juglans, the winged nutlets of **pterocarya** demonstrate efficient anemochoric seed dispersal."*

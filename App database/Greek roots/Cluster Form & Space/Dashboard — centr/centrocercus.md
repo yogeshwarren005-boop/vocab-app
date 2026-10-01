@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sage grouse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sage grouse.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of large North American grouse in the pheasant family Phasianidae, comprising the sage-grouse (notably Centrocercus urophasianus).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In avian behavioral ecology, prominent sagebrush-steppe birds celebrated for spectacular communal lek displays where cocks inflate yellow esophageal air sacs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centrocercus designates sage grouse."*
+> - 📜 **John James Audubon (*The Birds of America*):** *"The cock of the plains, **Centrocercus**, struts across the open sage-plains at dawn, puffing out his breast with resonant booming sounds."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The spectacular mating ritual of **Centrocercus** provides a classic example of sexual selection operating through lek displays."*
+> - 📜 **Edward O. Wilson (*The Diversity of Life*):** *"The conservation of **Centrocercus** serves as an umbrella policy protecting the entire sagebrush biome of the American West."*

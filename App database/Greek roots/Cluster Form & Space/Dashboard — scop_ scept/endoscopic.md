@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to endoscopy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to endoscopy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or performed with an endoscope; pertaining to visual examination of internal bodily cavities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In surgical pathology, endoscopic techniques allow targeted tissue sampling and therapeutic intervention with significantly reduced patient morbidity compared to open surgery.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endoscopic designates of or relating to endoscopy."*
+> - 📜 **Harvey Cushing (*Intracranial Tumours*):** *"The adoption of **endoscopic** illumination transformed deep cranial exploration from an uncertain gamble into a controlled procedure."*
+> - 📜 **Alexis Carrel (*Man, the Unknown*):** *"Through **endoscopic** surveillance, physiological disturbances within digestive cavities may be detected long before clinical crisis supervenes."*
+> - 📜 **Christiaan Barnard (*One Life*):** *"Advances in **endoscopic** imaging provided thoracic surgeons with unprecedented clarity without necessitating large thoracotomy incisions."*

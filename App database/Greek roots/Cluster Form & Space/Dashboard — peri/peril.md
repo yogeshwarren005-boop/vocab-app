@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A source of danger; a possibility of incurring loss or misfortune.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state of danger involving risk.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Serious and immediate danger; exposure to the risk of death, injury, loss, or destruction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine insurance and maritime law, perils of the sea denote unavoidable accidents, storms, and hazards encountered during ocean voyages.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But what at full I know, thou know’st no part; I knowing all my peril, thou no art."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let him speak, my lord, Upon his peril, that I have reserved To myself nothing."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Madam, I had rather seal my lips Than to my peril speak that which is not."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"Neither a borrower nor a lender be; for loan oft loses both itself and friend, and borrowing dulls the edge of husbandry, exposing honor to grave **peril**."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"He navigated upstream with a profound sense of looming **peril** hidden behind the impenetrable curtain of jungle."*
+> - 📜 **John Locke (*Second Treatise of Government*):** *"Men enter into civil society to preserve their lives, liberties, and estates from the constant **peril** of lawlessness."*

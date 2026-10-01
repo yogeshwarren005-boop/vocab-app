@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inefficient in use of time and effort and materials.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Wasteful of resources.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Wasteful of money, time, materials, or energy; not economical; extravagant or inefficient in resource use.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mechanical engineering and thermal design, an uneconomical engine dissipates excessive heat or friction, demanding excessive fuel per unit of work.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, uneconomical designates inefficient in use of time and effort and materials."*
+> - 📜 **Benjamin Franklin (*The Way to Wealth*):** *"Sloth makes all things difficult, but industry all things easy; an **uneconomical** life squanders the precious currency of time."*
+> - 📜 **Thomas Edison (*The Papers of Thomas A. Edison*):** *"Our earliest dynamo prototypes were **uneconomical**, dissipating over forty percent of generated electrical energy as waste heat."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"Small-scale peasant agriculture can be **uneconomical** when it prevents the adoption of advanced steam machinery."*

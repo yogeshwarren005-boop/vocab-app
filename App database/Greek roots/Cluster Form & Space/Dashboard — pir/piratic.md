@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of try.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of try.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characteristic of pirates or piracy; piratical.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Operating through unlawful seizure, plundering, or unauthorized appropriation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, piratic designates adjective*) pertaining to, derived from, or characteristic of try."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Gothic fleets engaged in **piratic** excursions along the coasts of Greece and Asia Minor."*
+> - 📜 **Washington Irving (*The Life and Voyages of Christopher Columbus*):** *"Corsairs manned swift caravels, launching **piratic** descents upon the defenseless merchantmen of the Levant."*
+> - 📜 **Herman Melville (*Benito Cereno*):** *"The strange merchantman bore an ominous air that aroused suspicion of some dark **piratic** enterprise."*

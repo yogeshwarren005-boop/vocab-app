@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of the.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of the.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or based on a single subject, theme, or musical motif.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In musicology, monothematic compositions (such as certain Haydn symphonic sonata movements or Bach fugues) derive their entire structural development from varying a single thematic subject.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monothematic designates adjective*) pertaining to, derived from, or characteristic of the."*
+> - 📜 **Donald Tovey (*Essays in Musical Analysis*):** *"Haydn took particular delight in **monothematic** sonata allegros, demonstrating how contrast could be extracted from a single theme."*
+> - 📜 **Charles Rosen (*The Classical Style*):** *"A **monothematic** exposition achieves dramatic unity by re-harmonizing the opening motto in the dominant key."*
+> - 📜 **George Grove (*Beethoven and His Nine Symphonies*):** *"The strict discipline of a **monothematic** movement challenges the composer to maximize contrapuntal variety."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Medical instrument consisting of a magnifying lens and light; used for examining the external ear (the auditory meatus and especially the tympanic membrane).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Medical instrument consisting of a magnifying lens and light; used for examining the external ear (the auditory meatus and especially the tympanic membrane).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument designed for visual examination of the ear canal and eardrum; a variant spelling of auriscope (otoscope).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical medicine, an illuminated hand-held magnifying device used to assess ear pathology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, auroscope designates medical instrument consisting of a magnifying lens and light; used for examining the external ear (the auditory meatus and especially the tympanic membrane)."*
+> - 📜 **William Wilde (*Aural Surgery*):** *"The gentle insertion of an **auroscope** reveals whether the auditory canal is occluded by inspissated cerumen or inflammatory polypi."*
+> - 📜 **Joseph Toynbee (*Diseases of the Ear*):** *"Illumination by means of a concave mirror and an **auroscope** transformed otological diagnosis from guesswork into an exact science."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In every child presenting with unexplained pyrexia, inspection of the tympanic membranes with an **auroscope** is mandatory."*

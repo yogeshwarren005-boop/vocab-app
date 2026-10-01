@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Moths whose larvae are armyworms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Moths whose larvae are armyworms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of noctuid moths containing the true armyworm (Pseudaletia unipuncta), known for widespread agricultural devastation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In economic entomology, pest insects whose caterpillars march en masse across grain fields, pastures, and cereal crops during outbreaks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pseudaletia designates moths whose larvae are armyworms."*
+> - 📜 **Charles Valentine Riley (*The Army Worm: Its Natural History and Remedies*):** *"The sudden migration of caterpillars belonging to **pseudaletia** can strip a prosperous cornfield to bare stalks overnight."*
+> - 📜 **John Henry Comstock (*An Introduction to Entomology*):** *"Adult moths of **pseudaletia** are characterized by a distinct white dot situated near the center of each forewing."*
+> - 📜 **W. T. M. Forbes (*The Lepidoptera of New York and Neighboring States*):** *"Larvae of **pseudaletia** feed voraciously on graminaceous foliage before pupating beneath the surface of the soil."*

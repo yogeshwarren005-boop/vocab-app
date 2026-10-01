@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Spoonbills.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Spoonbills.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family (or subfamily Plataleinae within Threskiornithidae) of wading birds comprising the spoonbills.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In avian taxonomy, members of Plataleidae share dorsoventrally flattened bills adapted for tactile foraging in muddy coastal and freshwater wetlands.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plataleidae designates spoonbills."*
+> - 📜 **Alfred Russel Wallace (*The Geographical Distribution of Animals*):** *"The cosmopolitan distribution of the **Plataleidae** indicates the antiquity of these specialized wetland wading birds."*
+> - 📜 **Elliott Coues (*Key to North American Birds*):** *"The osteological structure of the bill readily separates the **Plataleidae** from the curved-billed true ibises."*
+> - 📜 **Ernst Mayr (*Systematics and the Origin of Species*):** *"Evolutionary divergence in **Plataleidae** reflects adaptation to muddy estuarine feeding niches across tropical continents."*

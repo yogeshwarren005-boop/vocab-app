@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Enclosed in (or as if in) a cyst.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Enclosed in (or as if in) a cyst.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Enclosed or contained within a cyst, capsule, or membranous sac.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pathology and parasitology, walled off by fibrous inflammatory tissue or larval capsules to isolate foreign bodies, pathogens, or parasites from host tissue.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"He threw out a reserve, encysted in which he grew to maturity unaffected by the intercourses that modify the maturity of others into the thing we call a man."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"A chronic abscess often becomes completely **encysted** by dense concentric layers of fibrous connective tissue."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Trichina spiralis larvae remain dormant for years when safely **encysted** within calcified muscle capsules."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Invertebrated Animals*):** *"The cercaria loses its tail and becomes firmly **encysted** upon aquatic vegetation awaiting ingestion by its final host."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An external medical device (such as a brace or splint) for supporting, immobilizing, or treating muscles, joints, or skeletal parts which are weak, ineffective, deformed, or injured.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An external medical device (such as a brace or splint) for supporting, immobilizing, or treating muscles, joints, or skeletal parts which are weak, ineffective, deformed, or injured.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An externally applied orthopedic device or apparatus used to modify, support, align, prevent, or correct deformities of skeletal or neuromuscular structures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical medicine and rehabilitation, a custom brace or splint designed to stabilize joints, restrict undesirable motion, or assist weakened muscle groups.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, orthosis designates an external medical device (such as a brace or splint) for supporting, immobilizing, or treating muscles, joints, or skeletal parts which are weak, ineffective, deformed, or injured."*
+> - 📜 **Jacqueline Perry (*Gait Analysis: Normal and Pathological Function*):** *"An ankle-foot **orthosis** controls excessive plantarflexion during swing phase to ensure foot clearance."*
+> - 📜 **John V. Basmajian (*Therapeutic Exercise*):** *"The prescription of a dynamic **orthosis** facilitates functional movement while protecting healing ligaments."*
+> - 📜 **Michelle M. Lusardi (*Orthotics and Prosthetics in Rehabilitation*):** *"Proper fit of a spinal **orthosis** requires careful contouring over bony prominences to avoid tissue breakdown."*

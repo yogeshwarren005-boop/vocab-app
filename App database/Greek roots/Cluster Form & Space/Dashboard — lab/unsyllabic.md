@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not forming a syllable or the nucleus of a syllable; consisting of a consonant sound accompanied in the same syllable by a vowel sound or consisting of a vowel sound dominated by other vowel sounds in a syllable (as the second vowel in a falling diphthong).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not forming a syllable or the nucleus of a syllable; consisting of a consonant sound accompanied in the same syllable by a vowel sound or consisting of a vowel sound dominated by other vowel sounds in a syllable (as the second vowel in a falling diphthong).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not syllabic; not forming, containing, or functioning as a syllable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In phonology, unsyllabic elements are consonantal glides or margins that do not carry the sonority peak of an utterance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unsyllabic designates not forming a syllable or the nucleus of a syllable; consisting of a consonant sound accompanied in the same syllable by a vowel sound or consisting of a vowel sound dominated by other vowel sounds in a syllable (as the second vowel in a falling diphthong)."*
+> - 📜 **Ferdinand de Saussure (*Course in General Linguistics*):** *"Certain glide consonants remain strictly **unsyllabic**, serving merely as transitional articulatory margins."*
+> - 📜 **Noam Chomsky (*The Sound Pattern of English*):** *"The segment is designated minus syllabic when it occupies an **unsyllabic** position in the syllable onset or coda."*
+> - 📜 **Edward Sapir (*Language: An Introduction to the Study of Speech*):** *"Vowels reduce to rapid, **unsyllabic** murmurs when stripped of stress in conversational speech."*

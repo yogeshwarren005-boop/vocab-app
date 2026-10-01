@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek scot.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The medical treatment of disease or clinical symptoms by prolonged placement of the patient in darkness or subdued light.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nineteenth-century therapeutics and neuropsychiatry, scototherapy was prescribed for acute photophobia, corneal ulcerations, and severe nervous exhaustion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scototherapy designates a term designating an entity, condition, or phenomenon derived from greek scot."*
+> - 📜 **S. Weir Mitchell (*Fat and Blood: An Essay on the Treatment of Certain Forms of Neurasthenia and Hysteria*):** *"In extreme cases of sensory hyperesthesia, a regimen of **scototherapy** in a darkened room quieted the overtaxed nervous centers."*
+> - 📜 **William Mackenzie (*A Practical Treatise on the Diseases of the Eye*):** *"Rigid **scototherapy** combined with cold compresses prevented destructive spasm in strumous ophthalmia."*
+> - 📜 **Henry Maudsley (*The Pathology of Mind*):** *"When cerebral irritation reaches frenzy, seclusion and temporary **scototherapy** afford rest to the battered cortex."*

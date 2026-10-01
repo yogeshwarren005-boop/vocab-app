@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A south american river; tributary of rio de la plata.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A south american river; tributary of rio de la plata.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A major river of south-central South America flowing through Brazil, Paraguay, and Argentina; also a federal state in southern Brazil.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical geography and geology, the second-longest river system in South America, whose basin includes the colossal Paraná flood basalt province.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parana designates a south american river; tributary of rio de la plata."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"We navigated up the great river **Paraná**, whose muddy waters flow between high red clay cliffs rich in fossil mammalian bones."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels to the Equinoctial Regions*):** *"The hydrographic basin of the **Paraná** drains a continent-wide expanse of fertile plains and sub-tropical gallery forests."*
+> - 📜 **Herman Melville (*The Confidence-Man*):** *"The wanderer dreamed of wild southern waters, of steaming forests bordering the mighty **Paraná** in remote provinces."*

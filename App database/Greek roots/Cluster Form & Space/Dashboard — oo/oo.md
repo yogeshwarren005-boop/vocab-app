@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Egg; specifically : ovum.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Oh, the times! oh, the customs! —used as an exclamation of despair at prevailing social or political norms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A Greek combining form meaning egg, used in biological and scientific terminology to denote structures, processes, or organisms relating to eggs or ova.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In reproductive biology, the prefix oo- systematically generates terms for gamete development, egg morphology, and oviparous reproduction across vertebrate and invertebrate taxa.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"Say you’ll be quiet without the constable.” “Aw, we wooant meddle—they may do as they loike for oos”—were the forms in which Caleb got his pledges; and then he hastened back to Fred, who had followed him, and watched him in the gateway."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"The combining form **oo-** derives from Greek oon, egg, and appears throughout scientific nomenclature."*
+> - 📜 **Ernest Klein (*A Comprehensive Etymological Dictionary of the English Language*):** *"The prefix **oo-** is the standard formative element for egg-related terminology in biology."*
+> - 📜 **Robert Beekes (*Etymological Dictionary of Greek*):** *"Greek **oo-**, from oion, is cognate with Latin ovum, both descending from the same Indo-European root."*

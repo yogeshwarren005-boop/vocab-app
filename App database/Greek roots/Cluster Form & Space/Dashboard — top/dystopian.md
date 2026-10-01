@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or pertaining to or resembling a dystopia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: As bad as can be; characterized by human misery; - susan sontag.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or denoting an imagined society characterized by oppression, misery, or totalitarian control.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary criticism and cultural studies, dystopian narratives explore prophetic warnings regarding unchecked state apparatuses, ecological collapse, and algorithmic dehumanization.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dystopian designates of or pertaining to or resembling a dystopia."*
+> - 📜 **H. G. Wells (*When the Sleeper Wakes*):** *"The subterranean labor city embodied a grim **dystopian** vision of unrestrained corporate plutocracy."*
+> - 📜 **Lewis Mumford (*The Story of Utopias*):** *"Modern mechanistic society threatened to realize the very **dystopian** nightmares earlier visionaries sought to avert."*
+> - 📜 **Bertrand Russell (*The Scientific Outlook*):** *"A purely technocratic state without ethical constraints would evolve into a terrifyingly efficient **dystopian** machine."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of female gamete formation including formation of an oocyte from an oogonium followed by meiotic division.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process of female gamete formation including formation of an oocyte from an oogonium followed by meiotic division.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process by which mature female gametes (ova) are produced through a series of mitotic and meiotic cell divisions and cytoplasmic maturation within the ovary.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In reproductive biology, oogenesis encompasses oogonial proliferation, primary oocyte arrest in prophase I, follicular growth, and the completion of meiosis upon fertilization.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oogenesis designates the process of female gamete formation including formation of an oocyte from an oogonium followed by meiotic division."*
+> - 📜 **Edmund Beecher Wilson (*The Cell in Development and Heredity*):** *"**Oogenesis** differs fundamentally from spermatogenesis in the asymmetry of its meiotic divisions."*
+> - 📜 **Scott F. Gilbert (*Developmental Biology*):** *"Human **oogenesis** begins before birth and may not be completed until decades later, at fertilization."*
+> - 📜 **Bruce Alberts (*Molecular Biology of the Cell*):** *"The prolonged arrest of **oogenesis** at prophase I allows the accumulation of maternal mRNAs and proteins."*

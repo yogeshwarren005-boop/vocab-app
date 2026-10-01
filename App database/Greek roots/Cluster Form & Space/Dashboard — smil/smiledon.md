@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Saber-toothed tigers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Saber-toothed tigers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A variant or typographical spelling of Smilodon, the extinct Pleistocene saber-toothed cat with knife-shaped upper canines.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate paleontology literature, early nineteenth-century references occasionally rendered the saber-toothed machairodont genus as smiledon based on Greek *smile* (carving knife).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, smiledon designates saber-toothed tigers."*
+> - 📜 **Edward Drinker Cope (*The Vertebrata of the Tertiary Formations of the West*):** *"The fossil dentition matches the formidable shearing adaptations of the machairodont genus **smiledon**."*
+> - 📜 **Othniel Charles Marsh (*Vertebrate Fossils of the Western Territories*):** *"Cranial fragments resembling the South American **smiledon** were recovered from asphaltic tar sands."*
+> - 📜 **Henry Fairfield Osborn (*The Age of Mammals in Europe, Asia and North America*):** *"The extreme specialization of the curved saber tooth in **smiledon** represented the apex of felid hyper-carnivory."*

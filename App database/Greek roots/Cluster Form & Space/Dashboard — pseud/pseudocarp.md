@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek carp.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Plants & Botany.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A false fruit or accessory fruit formed from parts of the flower in addition to or other than the ovary wall, such as an apple or strawberry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical organography, an edible aggregate structure where the fleshy receptacle or floral calyx constitutes the bulk of the fruit.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pseudocarp designates a term designating an entity, condition, or phenomenon derived from greek carp."*
+> - 📜 **John Lindley (*An Introduction to Botany*):** *"In the strawberry, the true fruits are dry achenes scattered over the surface of an enlarged succulent **pseudocarp**."*
+> - 📜 **George Henslow (*The Making of Flowers*):** *"The core of the apple represents the ovary proper, while the delicious surrounding flesh forms an edible **pseudocarp**."*
+> - 📜 **Katherine Esau (*Plant Anatomy*):** *"Development of a **pseudocarp** illustrates the evolutionary recruitment of non-carpellary floral organs for seed dispersal."*

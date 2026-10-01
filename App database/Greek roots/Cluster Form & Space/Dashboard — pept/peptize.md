@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Disperse in a medium into a colloidal state.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Disperse in a medium into a colloidal state.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To disperse an aggregated precipitate, gel, or coagulum into a stable colloidal sol; to undergo peptization.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In colloid science and ceramics engineering, to add a deflocculating electrolyte that coats suspended particles with repulsive electrostatic charges.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, peptize designates disperse in a medium into a colloidal state."*
+> - 📜 **Thomas Graham (*Philosophical Transactions of the Royal Society*):** *"A trace of hydrochloric acid suffices to **peptize** large quantities of insoluble hydrated alumina."*
+> - 📜 **Herbert Freundlich (*Colloid and Capillary Chemistry*):** *"Attempts to wash a gelatinous precipitate on filter paper may **peptize** the cake and produce cloudy filtrates."*
+> - 📜 **Ralph K. Iler (*The Chemistry of Silica*):** *"Alkali hydroxide additions **peptize** dense silica gels into transparent, highly stable polysilicate sols."*

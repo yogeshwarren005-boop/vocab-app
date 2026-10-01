@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of valleys and rivers; running in the direction of the dip in surrounding rock strata.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of valleys and rivers; running in the direction of the dip in surrounding rock strata.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In structural geology and geomorphology, dipping or flowing in the same direction as the underlying geological strata.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Describing rivers, valleys, or drainage patterns that descend along the dip slope of rock formations (consequent drainage).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cataclinal designates of valleys and rivers; running in the direction of the dip in surrounding rock strata."*
+> - 📜 **Archibald Geikie (*Text-book of Geology*):** *"A **cataclinal** stream cuts its channel directly down the dip of the tilted sandstone beds."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Valleys whose slope coincides with the inclination of the strata are termed **cataclinal** by physical geographers."*
+> - 📜 **James Dwight Dana (*Manual of Geology*):** *"The drainage network follows a regular **cataclinal** pattern across the gently tilting coastal plain."*

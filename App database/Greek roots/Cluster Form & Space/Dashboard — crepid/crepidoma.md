@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek crepid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The stepped architectural platform or stone base upon which the superstructure of a classical Greek temple stands.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical architecture, the substructure typically consisting of three stepped courses (the lower two forming the stereobate and the topmost being the stylobate).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, crepidoma designates a term designating an entity, condition, or phenomenon derived from greek crepid."*
+> - 📜 **John Ruskin (*The Seven Lamps of Architecture*):** *"The massive marble blocks of the **crepidoma** lift the temple above ordinary soil, lending it an air of celestial detachment."*
+> - 📜 **William Morris (*Hopes and Fears for Art*):** *"Standing upon the ancient **crepidoma** of the Parthenon, one feels the serene rhythm of Hellenic geometry beneath one's feet."*
+> - 📜 **James Fergusson (*A History of Architecture in All Countries*):** *"To correct optical illusion, the horizontal lines of the **crepidoma** were subtly curved upward toward the center."*

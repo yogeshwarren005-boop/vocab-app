@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Enantiomer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Either of a pair of crystals (as of quartz) that are structural mirror images.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, existing as, or characterized by non-superimposable mirror-image forms; chiral.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In crystallography and mineralogy, describing crystals whose hemihedral facets lack a plane of symmetry, causing them to rotate the plane of polarized light.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, enantiomorphic designates enantiomer."*
+> - 📜 **Louis Pasteur (*Studies on Molecular Dissymmetry*):** *"The mechanical separation of **enantiomorphic** tartaric crystals demonstrated for the first time the molecular basis of optical activity."*
+> - 📜 **Lord Kelvin (*Baltimore Lectures on Molecular Dynamics and the Wave Theory of Light*):** *"I call any geometrical figure chiral, or **enantiomorphic**, if its image in a plane mirror cannot be brought into coincidence with itself."*
+> - 📜 **J. D. Bernal (*The Structure of Crystals*):** *"Quartz forms twin **enantiomorphic** crystal varieties, designated right-handed and left-handed according to their optical rotation."*

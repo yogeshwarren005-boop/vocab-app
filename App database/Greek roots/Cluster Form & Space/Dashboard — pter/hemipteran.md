@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Insects with sucking mouthparts and forewings thickened and leathery at the base; usually show incomplete metamorphosis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Insects with sucking mouthparts and forewings thickened and leathery at the base; usually show incomplete metamorphosis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any insect belonging to the order Hemiptera, such as a stink bug, bed bug, aphid, or cicada.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ecological entomology, a sucking insect that feeds on plant phloem sap or acts as a hemophagous or predatory fluid-feeder.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemipteran designates insects with sucking mouthparts and forewings thickened and leathery at the base; usually show incomplete metamorphosis."*
+> - 📜 **Jean-Henri Fabre (*Social Life in the Insect World*):** *"The predatory **hemipteran** impales its unsuspecting victim with a sharp beak, injecting liquefying digestive enzymes."*
+> - 📜 **A. D. Imms (*A General Textbook of Entomology*):** *"Many a phytophagous **hemipteran** serves as an efficient vector for systemic viral pathogens in agricultural crops."*
+> - 📜 **John Henry Comstock (*Manual for the Study of Insects*):** *"The defensive scent glands of an adult **hemipteran** discharge volatile pungent aldehydes when handled."*

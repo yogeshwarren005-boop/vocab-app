@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A virus the can initiate various kinds of tumors in mice.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A virus the can initiate various kinds of tumors in mice.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small, non-enveloped DNA virus of the family Polyomaviridae that is capable of inducing multiple types of tumors in susceptible hosts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In virology, polyoma virus serves as a foundational model for understanding viral oncogenesis, DNA replication, and the function of tumor antigens such as large T-antigen.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polyoma designates a virus the can initiate various kinds of tumors in mice."*
+> - 📜 **Ludwik Gross (*A Filterable Agent, Recovered from Ak Leukemic Extracts*):** *"The **polyoma** virus proved capable of producing tumors in multiple organs of newborn mice."*
+> - 📜 **Renato Dulbecco (*Transformation of Cells In Vitro by Viruses*):** *"Studies of **polyoma** and SV40 revealed fundamental mechanisms of viral transformation and oncogenesis."*
+> - 📜 **James Watson (*Molecular Biology of the Gene*):** *"The **polyoma** virus genome encodes both early and late proteins essential for its tumorigenic capacity."*

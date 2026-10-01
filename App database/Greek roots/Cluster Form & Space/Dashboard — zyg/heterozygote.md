@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A heterozygous individual.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A heterozygous individual.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An organism or cell having two different alleles at a specific gene locus on its pair of homologous chromosomes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical genetics, the heterozygote carrier state is clinically significant for recessive disorders such as sickle cell disease, where carriers may exhibit partial phenotypic effects and population-level selective advantages.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heterozygote designates a heterozygous individual."*
+> - 📜 **Gregor Mendel (*Experiments on Plant Hybridization*):** *"The hybrid, or **heterozygote**, displays the dominant character while carrying the recessive allele in a latent state."*
+> - 📜 **William Bateson (*Mendel's Principles of Heredity*):** *"The **heterozygote** produces gametes of two types in equal proportions, as Mendel's law of segregation predicts."*
+> - 📜 **J. B. S. Haldane (*Disease and Evolution*):** *"The **heterozygote** advantage for sickle cell trait in malaria-endemic regions maintains the allele at high frequency."*

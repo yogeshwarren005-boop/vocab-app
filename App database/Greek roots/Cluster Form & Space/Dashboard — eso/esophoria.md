@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek eso.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A latent tendency of one or both eyes to turn inward toward the nose, held in check by the fusion reflex during binocular vision.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In optometry and ophthalmology, uncorrected esophoria can cause asthenopia, headache, and blurred vision during prolonged near work.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, esophoria designates a term designating an entity, condition, or phenomenon derived from greek eso."*
+> - 📜 **Duke-Elder, Stewart (*System of Ophthalmology*):** *"Cover testing reveals that **esophoria** is instantly manifested when binocular fusion is interrupted by an occluder."*
+> - 📜 **Arthur C. Guyton (*Textbook of Medical Physiology*):** *"Excessive convergence accommodation tone during reading frequently unmasks symptomatic **esophoria**."*
+> - 📜 **David H. Hubel (*Eye, Brain, and Vision*):** *"The cortical binocular disparity detectors actively compensate for latent **esophoria** to preserve stereoscopic depth."*

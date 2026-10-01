@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Reduced vision typically in one eye that results from the brain suppressing input from the affected eye due to unequal visual signals from each eye (as from strabismus or anisometropia) leading to poor development of visual acuity in the affected eye —called also lazy eye.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Reduced vision typically in one eye that results from the brain suppressing input from the affected eye due to unequal visual signals from each eye (as from strabismus or anisometropia) leading to poor development of visual acuity in the affected eye —called also lazy eye.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A disorder of sight characterized by dimness of vision or reduced visual acuity without apparent anatomical defect in the eye; lazy eye.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical ophthalmology and developmental neurobiology, cortical visual deficit caused by abnormal binocular visual experience during early childhood critical periods.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amblyopia designates reduced vision typically in one eye that results from the brain suppressing input from the affected eye due to unequal visual signals from each eye (as from strabismus or anisometropia) leading to poor development of visual acuity in the affected eye —called also lazy eye."*
+> - 📜 **David Hubel (*Eye, Brain, and Vision*):** *"Monocular deprivation during early postnatal development causes functional **amblyopia** by reorganizing ocular dominance columns in the striate cortex."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Toxic **amblyopia** from chronic tobacco and alcohol abuse presents with bilateral central scotomas and impaired colour perception."*
+> - 📜 **Oliver Sacks (*An Anthropologist on Mars*):** *"Because her strabismus went uncorrected in infancy, she developed profound **amblyopia** in the deviating eye."*

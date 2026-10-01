@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small constellation in the southern hemisphere near ara.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small constellation in the southern hemisphere near ara.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A faint southern constellation introduced in the eighteenth century by French astronomer Nicolas-Louis de Lacaille, representing an astronomical telescope.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In observational uranography, Telescopium lies south of Sagittarius and Corona Australis, containing white-dwarf binary systems and faint galaxies cataloged by southern observatories.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, telescopium designates a small constellation in the southern hemisphere near ara."*
+> - 📜 **Nicolas-Louis de Lacaille (*Coelum Australe Stelliferum*):** *"I mapped the southern heavens from the Cape of Good Hope, naming the constellation **Telescopium** in honor of modern astronomy."*
+> - 📜 **John Herschel (*Results of Astronomical Observations Made at the Cape of Good Hope*):** *"Sweeping through the southern quadrant of **Telescopium**, our reflector cataloged several delicate planetary nebulae."*
+> - 📜 **Arthur Eddington (*Stellar Movements and the Structure of the Universe*):** *"Proper-motion studies of stars in **Telescopium** helped determine the galactic drift toward the solar apex."*

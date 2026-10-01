@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of jaw.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of jaw.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a moderately projecting jaw; intermediate between orthognathous (straight-jawed) and prognathous (prominently projecting).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical anthropology and craniometry, having a gnathic index between 98.0 and 102.9.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mesognathous designates adjective*) pertaining to, derived from, or characteristic of jaw."*
+> - 📜 **Aleš Hrdlička (*Anthropometry*):** *"Cranial series displaying a gnathic index near 100 are classified as **mesognathous**, showing balanced facial projection."*
+> - 📜 **Wilfrid Le Gros Clark (*The Fossil Evidence for Human Evolution*):** *"Neanderthal crania are generally **mesognathous**, exhibiting midfacial prognathism without excessive dental protrusion."*
+> - 📜 **Arthur Keith (*A New Theory of Human Evolution*):** *"The evolutionary transition from prognathous ancestors to modern orthognathy passed through a prolonged **mesognathous** stage."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The activities of educating or instructing; activities that impart knowledge or skill.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The activities of educating or instructing; activities that impart knowledge or skill.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The theory, methodology, and practical art of teaching; pedagogical science.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In educational theory, didactics encompasses instructional design, curricular structuring, and assessment strategies across learning environments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, didactics designates the activities of educating or instructing; activities that impart knowledge or skill."*
+> - 📜 **John Amos Comenius (*The Great Didactic*):** *"The ultimate aim of **didactics** is to discover a method of instruction whereby teachers teach less and learners learn more."*
+> - 📜 **Johann Friedrich Herbart (*General Pedagogics*):** *"Systematic **didactics** coordinates the presentation of material with the natural stages of psychological apperception."*
+> - 📜 **Jean Piaget (*The Science of Education and the Psychology of the Child*):** *"Modern **didactics** must adapt its curriculum to match the child's developmental cognitive structures."*

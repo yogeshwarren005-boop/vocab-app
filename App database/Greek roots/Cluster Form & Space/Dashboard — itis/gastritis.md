@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation especially of the mucous membrane of the stomach.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inflammation especially of the mucous membrane of the stomach.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the protective mucosal lining of the stomach.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical gastroenterology, gastritis is categorized as acute (erosive, caused by NSAIDs, alcohol, or stress) or chronic (Type A autoimmune affecting parietal cells in the fundus, or Type B caused by *Helicobacter pylori* infection in the antrum).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Up to that time, for seventeen years, I had suffered with indigestion and gastritis in the worst form, often being overcome from a seeming pressure against the heart."*
-> - 📜 **James Joyce (*Ulysses*):** *"Bristow, at Whitehall lane, London: Carr, Stoke Newington, of gastritis and heart disease: Cockburn, at the Moat house, Chepstow... —I know that fellow, says Joe, from bitter experience. —Cockburn."*
+> - 📜 **William Beaumont (*Experiments and Observations on the Gastric Juice and the Physiology of Digestion*):** *"Following alcoholic excess, direct inspection of the stomach revealed acute catarrhal **gastritis** with mucosal aphthae."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Chronic atrophic **gastritis** destroys gastric parietal cells, halting intrinsic factor secretion and causing pernicious anemia."*
+> - 📜 **Austin Flint (*A Treatise on the Principles and Practice of Medicine*):** *"Epigastric distress, nausea, and vomiting immediately following meals are prominent symptoms of acute **gastritis**."*

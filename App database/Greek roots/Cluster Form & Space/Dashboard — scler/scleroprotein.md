@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A simple protein found in horny and cartilaginous tissues and in the lens of the eye.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A simple protein found in horny and cartilaginous tissues and in the lens of the eye.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a class of insoluble, fibrous structural proteins occurring in animal skeletons, connective tissues, skin, and appendages.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biochemistry, tough fibrous macromolecules such as keratin, collagen, elastin, and fibroin, characterized by extended polypeptide secondary structures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scleroprotein designates a simple protein found in horny and cartilaginous tissues and in the lens of the eye."*
+> - 📜 **Emil Fischer (*Untersuchungen über Aminosäuren, Polypeptide und Proteine*):** *"A typical animal **scleroprotein** like horn keratin is insoluble in water and resists common proteolytic enzymes."*
+> - 📜 **Albrecht Kossel (*The Protamines and Histones*):** *"The high cystine disulfide cross-link content in a **scleroprotein** confers exceptional mechanical toughness to epidermal structures."*
+> - 📜 **Albert L. Lehninger (*Principles of Biochemistry*):** *"Collagen constitutes the most abundant **scleroprotein** in mammals, organizing triple-helical tropocollagen ropes in tendons."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek cycl.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Apparent or simulated cyclosis; the illusion of cytoplasmic streaming produced by passive Brownian motion or external physical forces.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cellular biophysics and microscopy, Brownian thermal agitation of cytoplasmic granules that mimics active, ATP-driven intracellular cyclosis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pseudocyclosis designates a term designating an entity, condition, or phenomenon derived from greek cycl."*
+> - 📜 **Robert Brown (*A Brief Account of Microscopical Observations*):** *"The continuous thermal dance of suspended pollen granules must not be confounded with active vital streaming or **pseudocyclosis**."*
+> - 📜 **Edmund Beecher Wilson (*The Physical Basis of Life*):** *"Under high magnification, passive micro-convection currents can simulate **pseudocyclosis** in moribund plant cells."*
+> - 📜 **Thomas Henry Huxley (*On the Physical Basis of Life*):** *"Careful vital staining separates metabolic cytoplasmic circulation from purely physical **pseudocyclosis**."*

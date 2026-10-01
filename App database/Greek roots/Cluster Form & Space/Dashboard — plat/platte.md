@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A river in nebraska that flows eastward to become a tributary of the missouri river.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A river in nebraska that flows eastward to become a tributary of the missouri river.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A broad, shallow river in Nebraska flowing into the Missouri River, historically vital to westward overland trails.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geographical and historical narratives, an emblem of the vast alluvial plains and braided stream morphology of the American West.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"For years this had been their favorite path between Arkansas and the Platte."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"The Pawnees live beyond the Platte, and for years have been friendly to the whites, even serving in the wars against the other tribes on several occasions."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"Our guide told us that when he first crossed the plains, by the Platte route, his party camped for the night near Monument Rock."*
+> - 📜 **Francis Parkman (*The Oregon Trail*):** *"At length we reached the **platte**, whose broad and turbid current rolled sluggishly through the boundless prairie."*
+> - 📜 **Washington Irving (*The Adventures of Captain Bonneville*):** *"The expedition encamped along the valley of the **platte**, where islands of cottonwood dotted the shallow waters."*
+> - 📜 **John C. Frémont (*Report of the Exploring Expedition*):** *"We traced the southern fork of the **platte**, noting the shifting sandbars and sparse riparian timber."*

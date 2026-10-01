@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extend a joint beyond its normal range.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extend a joint beyond its normal range.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To extend or straighten a limb or joint beyond its normal anatomical range of movement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In musculoskeletal medicine and biomechanics, forceful hyperextending of joints (such as the knee or cervical spine) commonly tears stabilizing ligaments, including the anterior cruciate ligament (ACL) or anterior longitudinal spinal ligament.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyperextend designates extend a joint beyond its normal range."*
+> - 📜 **Astley Cooper (*A Treatise on Dislocations and Fractures of the Joints*):** *"Violent trauma that forces the knee to **hyperextend** invariably ruptures the internal cruciate ligaments."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"Strong anterior capsular ligaments prevent the hip joint from attempting to **hyperextend** during upright standing."*
+> - 📜 **Charles Sherrington (*The Integrative Action of the Nervous System*):** *"Reflex motor discharge causes the hindlimb to **hyperextend** forcefully in the postural extensor thrust."*

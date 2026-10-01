@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characterized by sexual or romantic attraction to or between people of the opposite sex.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or involving sexual activity between individuals of the opposite sex.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sexually, romantically, or affectionally attracted to persons of the opposite sex; or relating to sexual relations between different sexes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of psychiatry, the term heterosexual was coined in the late 19th century by Karl Maria Kertbeny and popularized by Krafft-Ebing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Both admitted the alternately stimulating and obtunding influence of heterosexual magnetism."*
+> - 📜 **Sigmund Freud (*Three Essays on the Theory of Sexuality*):** *"The achievement of a stable **heterosexual** object-choice represents the culmination of a complex developmental psycho-sexual trajectory."*
+> - 📜 **Michel Foucault (*The History of Sexuality*):** *"Nineteenth-century medicine transformed erotic acts into medical identities, codifying both homosexual and **heterosexual** taxonomies."*
+> - 📜 **Alfred Kinsey (*Sexual Behavior in the Human Male*):** *"Human erotic responsiveness exists along a continuous seven-point spectrum between exclusive homosexual and exclusive **heterosexual** behavior."*

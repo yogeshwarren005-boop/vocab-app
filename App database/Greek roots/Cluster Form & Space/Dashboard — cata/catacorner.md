@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Slanted across a polygon on a diagonal line.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Slanted across a polygon on a diagonal line.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Situated diagonally opposite across a street, intersection, or space; cater-cornered or kitty-corner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In colloquial spatial orientation, describing a diagonal geometric alignment across intersecting axes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, catacorner designates slanted across a polygon on a diagonal line."*
+> - 📜 **Mark Twain (*The Adventures of Tom Sawyer*):** *"The old abandoned schoolhouse stood **catacorner** from the haunted graveyard across the overgrown crossroad."*
+> - 📜 **William Faulkner (*The Sound and the Fury*):** *"He walked past the courthouse square, cutting **catacorner** across the grass toward the blacksmith shop."*
+> - 📜 **John Steinbeck (*East of Eden*):** *"The general store was located **catacorner** to the livery stable, catching trade from both main streets."*

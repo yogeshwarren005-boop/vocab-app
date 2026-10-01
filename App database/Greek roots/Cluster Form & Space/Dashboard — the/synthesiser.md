@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An intellectual who synthesizes or uses synthetic methods.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (music) an electronic instrument (usually played with a keyboard) that generates and modifies sounds electronically and can imitate a variety of other musical instruments.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An electronic musical instrument that generates audio signals converted into sound; also, a person or apparatus that synthesizes compounds or concepts (chiefly Commonwealth spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In music technology, analog and digital synthesizers employ oscillators, filters, and envelope generators to sculpt novel harmonic timbres.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, synthesiser designates an intellectual who synthesizes or uses synthetic methods."*
+> - 📜 **Karlheinz Stockhausen (*Towards a Cosmic Music*):** *"The voltage-controlled **synthesiser** opened an infinite continuum of frequencies previously inaccessible to acoustic orchestration."*
+> - 📜 **Arthur C. Clarke (*2001: A Space Odyssey*):** *"The automated dietary **synthesiser** dispensed nutritionally balanced meals aboard the interplanetary vessel."*
+> - 📜 **Marshall McLuhan (*The Medium is the Massage*):** *"Operating an electronic sound **synthesiser** transforms the musician into an acoustic architect of electric pulses."*

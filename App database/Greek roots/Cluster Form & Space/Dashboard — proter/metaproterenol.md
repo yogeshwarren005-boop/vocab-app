@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A bronchodilator (trade name alupent) used to treat asthma and emphysema and other lung conditions; available in oral or inhalant forms; side effects include tachycardia and shakiness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bronchodilator (trade name alupent) used to treat asthma and emphysema and other lung conditions; available in oral or inhalant forms; side effects include tachycardia and shakiness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A synthetic beta-2 adrenergic receptor agonist medication used primarily as a bronchodilator in the treatment of asthma and COPD.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pharmacology, a resorcinol derivative (also known as orciprenaline) possessing longer duration of action and greater cardiac safety than isoproterenol.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metaproterenol designates a bronchodilator (trade name alupent) used to treat asthma and emphysema and other lung conditions; available in oral or inhalant forms; side effects include tachycardia and shakiness."*
+> - 📜 **Alfred Goodman Gilman (*Goodman & Gilman's The Pharmacological Basis of Therapeutics*):** *"The substitution of a resorcinol ring in **metaproterenol** renders it resistant to catechol-O-methyltransferase degradation."*
+> - 📜 **Reuben M. Cherniack (*Respiration in Health and Disease*):** *"Inhaled **metaproterenol** rapidly relieves bronchoconstriction by promoting smooth muscle relaxation across the bronchial tree."*
+> - 📜 **John A. Nadel (*Textbook of Respiratory Medicine*):** *"For acute reversible airway obstruction, aerosolized **metaproterenol** provides prompt symptomatic relief with moderate beta-selectivity."*

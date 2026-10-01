@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek heter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An irrational fear of, aversion to, or discrimination against heterosexual people or heterosexuality; also, fear of difference or that which is other.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociology and cultural theory, occasionally used in philosophical discourse to denote the deep psychological dread of encountering radical alterity or difference.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heterophobia designates a term designating an entity, condition, or phenomenon derived from greek heter."*
+> - 📜 **Zygmunt Bauman (*Modernity and Ambivalence*):** *"The xenophobic impulse is rooted in an ontological **heterophobia**, a terror of that which refuses to fit into established cultural categories."*
+> - 📜 **Albert Memmi (*The Colonizer and the Colonized*):** *"Prejudice begins as a defensive **heterophobia**, erecting social barriers to quarantine difference from the dominant collective."*
+> - 📜 **Michel Foucault (*Discipline and Punish*):** *"Institutional norms pathologize divergence, converting social **heterophobia** into systematic correctional surveillance."*

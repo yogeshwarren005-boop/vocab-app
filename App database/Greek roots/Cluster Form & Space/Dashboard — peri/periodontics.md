@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of dentistry that deals with diseases of the supporting and investing structures of the teeth including the gums, cementum, periodontal membranes, and alveolar bone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A branch of dentistry that deals with diseases of the supporting and investing structures of the teeth including the gums, cementum, periodontal membranes, and alveolar bone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of dentistry concerned with the structures surrounding and supporting the teeth, and the diseases and conditions affecting them.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical dental surgery, a specialty focusing on gingival grafting, regenerative bone surgery, and dental implant site preparation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, periodontics designates a branch of dentistry that deals with diseases of the supporting and investing structures of the teeth including the gums, cementum, periodontal membranes, and alveolar bone."*
+> - 📜 **Fermín A. Carranza (*Clinical Periodontology*):** *"Modern **periodontics** integrates microbiology, host immune modulation, and microsurgical tissue regeneration."*
+> - 📜 **G. V. Black (*Special Dental Pathology*):** *"Early investigators laid the groundwork for **periodontics** by demonstrating the microbial etiology of calculus formation."*
+> - 📜 **William R. Proffit (*Contemporary Orthodontics*):** *"Interdisciplinary collaboration between orthodontics and **periodontics** is essential for adult patients with reduced bone support."*

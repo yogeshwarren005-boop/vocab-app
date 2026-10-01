@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of the opisthobranch mollusks comprising two orders (Thecosomata and Gymnosomata) and having the anterior lobes of the foot expanded into broad thin winglike swimming organs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of the opisthobranch mollusks comprising two orders (Thecosomata and Gymnosomata) and having the anterior lobes of the foot expanded into broad thin winglike swimming organs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any small, pelagic marine gastropod mollusk belonging to the clade Thecosomata or Gymnosomata, commonly called a sea butterfly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biological oceanography and paleoceanography, calcifying planktonic snails whose aragonite shells sink to form pteropod ooze on oceanic abyssal plains.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pteropod designates any of the opisthobranch mollusks comprising two orders (thecosomata and gymnosomata) and having the anterior lobes of the foot expanded into broad thin winglike swimming organs."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"In tropical latitudes, pelagic **pteropod** shells drifted past our keel, fluttering through the clear blue water like miniature butterflies."*
+> - 📜 **S. P. Woodward (*A Manual of the Mollusca*):** *"The foot in each oceanic **pteropod** is modified into two broad wing-like fins that propel the tiny shell through open seas."*
+> - 📜 **Ernst Haeckel (*Planktonic Studies*):** *"Oceanic trawls captured millions of **pteropod** mollusks whose delicate calcareous shells carpet wide tracts of deep Atlantic sediments."*

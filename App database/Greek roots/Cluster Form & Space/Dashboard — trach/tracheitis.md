@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the trachea.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inflammation of the trachea.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the trachea, typically caused by viral or bacterial infection.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pediatric otolaryngology, bacterial tracheitis (often caused by *Staphylococcus aureus*) is a potentially life-threatening airway emergency requiring urgent airway stabilization and intravenous antibiotics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tracheitis designates inflammation of the trachea."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Acute **tracheitis** commonly accompanies severe influenza, provoking painful substernal raw cough and hoarseness."*
+> - 📜 **Thomas Sydenham (*The Works of Thomas Sydenham*):** *"In winter catarrhs, inflammation descends rapidly into the windpipe, causing acute **tracheitis** and burning pain."*
+> - 📜 **Florence Nightingale (*Notes on Nursing*):** *"Maintaining warm, humidified room air eases the labored respiration of patients suffering from acute **tracheitis**."*

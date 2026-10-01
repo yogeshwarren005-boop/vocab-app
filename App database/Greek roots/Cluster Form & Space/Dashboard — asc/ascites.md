@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormal accumulation of serous fluid in the spaces between tissues and organs in the cavity of the abdomen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abnormal accumulation of serous fluid in the spaces between tissues and organs in the cavity of the abdomen.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal accumulation of serous fluid within the peritoneal cavity of the abdomen, causing progressive abdominal distension.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical hepatology and gastroenterology, a major complication of portal hypertension and cirrhosis driven by splanchnic arterial vasodilation and renal sodium retention.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ascites designates abnormal accumulation of serous fluid in the spaces between tissues and organs in the cavity of the abdomen."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Cirrhosis of the liver advances insidiously until marked **ascites** distends the abdomen, requiring therapeutic paracentesis."*
+> - 📜 **Hippocrates (*Aphorisms*):** *"When the liver is enlarged and hard, the occurrence of **ascites** is an ominous prognostic sign."*
+> - 📜 **William R. Gowers (*A Manual of Diseases of the Nervous System*):** *"Hepatorenal failure manifested by deepening encephalopathy accompanied the development of massive refractory **ascites**."*

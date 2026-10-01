@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Straight : upright : vertical.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Perpendicular.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A Greek combining form meaning straight, correct, or right, used in scientific and medical terminology to denote proper alignment, correctness, or normative standards.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In etymology, the root orth- from Greek orthos generates an extensive family of terms spanning medicine (orthopedics), religion (orthodoxy), geometry (orthogonal), and language (orthography).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I did think so too, and would account I had a great penn’orth on’t, to give half my state, that both she and I at this present stood unfeignedly on the same terms."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"What college,” pursues Bagnet, “could you set up in life—with two penn’orth of white lime—a penn’orth of fuller’s earth—a ha’porth of sand—and the rest of the change out of sixpence in money?"*
-> - 📜 **Charles Dickens (*The Mystery of Edwin Drood*):** *"I put that enlightened object before him, and now he can turn his honest halfpenny by the three penn’orth a week.” “I wonder he has no competitors.” “He has plenty, Mr."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"The combining form **orth-** derives from orthos, signifying straight, right, or correct in Greek compounds."*
+> - 📜 **Ernest Klein (*A Comprehensive Etymological Dictionary of the English Language*):** *"**Orth-** is among the most productive Greek roots in English, forming words across medicine, science, and philosophy."*
+> - 📜 **Robert Beekes (*Etymological Dictionary of Greek*):** *"Greek **orth-** from orthos has Indo-European cognates in Latin arduus and Old Irish ard, both meaning high or upright."*

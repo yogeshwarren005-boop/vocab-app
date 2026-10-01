@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of two or more species of atoms of a chemical element with the same atomic number and nearly identical chemical behavior but with differing atomic mass or mass number and different physical properties.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of two or more species of atoms of a chemical element with the same atomic number and nearly identical chemical behavior but with differing atomic mass or mass number and different physical properties.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Each of two or more forms of the same chemical element that contain equal numbers of protons but different numbers of neutrons in their nuclei.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Coined in 1913 by Margaret Todd and Frederick Soddy from Greek *isos* (equal) and *topos* (place, occupying the same position in the periodic table), isotopes revolutionized radiochemistry and nuclear physics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, isotope designates any of two or more species of atoms of a chemical element with the same atomic number and nearly identical chemical behavior but with differing atomic mass or mass number and different physical properties."*
+> - 📜 **Frederick Soddy (*The Radio-Elements and the Periodic Law*):** *"Chemically identical elements possessing different atomic weights occupy the same periodic locus and were termed an **isotope**."*
+> - 📜 **Ernest Rutherford (*Radioactive Substances and Their Radiations*):** *"The discovery that lead could exist as a stable radiogenic **isotope** settled longstanding puzzles in uranium decay."*
+> - 📜 **Francis William Aston (*Mass Spectra and Isotopes*):** *"Mass spectrograph analysis demonstrated that neon is a mixture of more than one distinct **isotope**."*

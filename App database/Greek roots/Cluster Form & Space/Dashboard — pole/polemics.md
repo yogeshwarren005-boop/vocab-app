@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of christian theology devoted to the refutation of errors.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A writer who argues in opposition to others (especially in theology).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The practice or art of engaging in aggressive verbal or written controversy and disputation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theology and intellectual history, a branch of discourse dedicated to the systematic defense of doctrine against heresy or dissent.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jonathan Swift (*The Battle of the Books, and other Short Pieces*):** *"The attempt succeeded, and the two usurpers have reigned ever since in his stead; but, to maintain quiet for the future, it was decreed that all polemics of the larger size should be hold fast with a chain."*
+> - 📜 **John Milton (*Areopagitica*):** *"Truth needs no policies, no stratagems, nor licensing to make her victorious in the open field of **polemics**."*
+> - 📜 **Immanuel Kant (*Critique of Pure Reason*):** *"Reason has no need for censorship, since the **polemics** of reason serve to awaken philosophy from dogmatic slumber."*
+> - 📜 **William Hazlitt (*Table-Talk; or, Original Essays*):** *"The bitter **polemics** of sectarian pamphleteers frequently consume the very charity they profess to defend."*

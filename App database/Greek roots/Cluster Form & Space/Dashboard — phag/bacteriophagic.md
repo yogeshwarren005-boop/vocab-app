@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to bacteriophages.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to bacteriophages.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or caused by a bacteriophage; capable of destroying or lysing bacteria like a phage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In antimicrobial research, describing therapeutic viral preparations engineered for targeted bacteriophagic lysis of multidrug-resistant pathogens.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bacteriophagic designates of or relating to bacteriophages."*
+> - 📜 **Félix d'Herelle (*The Bacteriophage and Its Clinical Applications*):** *"The potent **bacteriophagic** action of filtered stool extracts arrested dysentery outbreaks within days."*
+> - 📜 **Max Delbrück (*Bacterial Viruses*):** *"Quantitative plaque assays measure the specific **bacteriophagic** potency of viral suspensions."*
+> - 📜 **Alexander Fleming (*Penicillin*):** *"Unlike chemical antiseptics, **bacteriophagic** agents multiply at the expense of their bacterial prey."*

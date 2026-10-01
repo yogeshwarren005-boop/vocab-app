@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek orth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The correct, authentic, or lawful name of a person, place, or entity, in contrast to a pseudonym, alias, or misnomer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In onomastics, botanical taxonomy, and literary history, the validly published and accepted scientific or real name according to priority codes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, orthonym designates a term designating an entity, condition, or phenomenon derived from greek orth."*
+> - 📜 **Gérard Genette (*Paratexts: Thresholds of Interpretation*):** *"The author chooses to abandon the mask of the pseudonym and publish under his true **orthonym**."*
+> - 📜 **Alphonse de Candolle (*Laws of Botanical Nomenclature*):** *"Taxonomic stability requires that each distinct taxon bear only one legitimate **orthonym**."*
+> - 📜 **Umberto Eco (*Six Walks in the Fictional Woods*):** *"Literary sleuths delight in identifying the historical **orthonym** concealed behind an author's romantic sobriquet."*

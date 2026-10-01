@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Involving controversy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Involving controversy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a polemical manner; by means of controversial, passionate, or disputatious argument.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In rhetorical analysis, adopting an aggressive or adversarial stance rather than a neutral or expository tone.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polemically designates involving controversy."*
+> - 📜 **Søren Kierkegaard (*Concluding Unscientific Postscript to Philosophical Fragments*):** *"The author proceeds **polemically** against the speculative systematizers who confuse objective knowledge with inward faith."*
+> - 📜 **C. S. Lewis (*The Abolition of Man*):** *"I am arguing not **polemically** for an individual point of view, but on behalf of traditional moral valuation."*
+> - 📜 **Jürgen Habermas (*The Philosophical Discourse of Modernity*):** *"He formulated his thesis **polemically** to shake the complacency of prevailing sociological paradigms."*

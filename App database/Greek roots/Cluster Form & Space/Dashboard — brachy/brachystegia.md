@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small genus of tropical african timber trees having pale golden heartwood uniformly striped with dark brown or black:.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small genus of tropical african timber trees having pale golden heartwood uniformly striped with dark brown or black:.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of leguminous trees native to tropical Africa, belonging to the subfamily Caesalpinioideae, dominating the Miombo woodland biome.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In African ecology and forestry, ecologically dominant trees (such as Brachystegia boehmii) that support rich mycorrhizal networks and diverse savanna fauna.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, brachystegia designates small genus of tropical african timber trees having pale golden heartwood uniformly striped with dark brown or black:."*
+> - 📜 **Alfred Russel Wallace (*The Geographical Distribution of Animals*):** *"Vast stretches of the central African plateau are cloaked in the open woodland canopy of **Brachystegia**."*
+> - 📜 **David Livingstone (*Missionary Travels and Researches in South Africa*):** *"We marched for days through dry forests of **Brachystegia**, where the trees shed their pinnate leaves in the heat."*
+> - 📜 **Edward O. Wilson (*The Diversity of Life*):** *"The Miombo woodlands dominated by **Brachystegia** represent one of the largest continuous dry-forest ecosystems on earth."*

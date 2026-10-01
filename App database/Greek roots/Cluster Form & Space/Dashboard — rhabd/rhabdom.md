@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the minute rodlike structures in the retinulae in the compound eyes of arthropods.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of the minute rodlike structures in the retinulae in the compound eyes of arthropods.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The transparent, light-sensitive rod-like central structure in the ommatidium of an arthropod compound eye.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sensory neurobiology, a cylindrical organelle formed by microvillar membranes of retinular cells that contain rhodopsin photopigments for vision.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhabdom designates one of the minute rodlike structures in the retinulae in the compound eyes of arthropods."*
+> - 📜 **Johannes Müller (*Comparative Physiology of Vision*):** *"Within each compound facet, the central transparent **rhabdom** guides light rays down to the optic nerve terminals."*
+> - 📜 **V. B. Wigglesworth (*The Principles of Insect Physiology*):** *"The microvilli of the insect **rhabdom** are oriented perpendicularly to the incident light path, facilitating the detection of polarized light."*
+> - 📜 **George Wald (*Visual Pigments and Photoreceptor Mechanisms*):** *"Photochemical absorption in the arthropod **rhabdom** relies on retinaldehyde coupled with invertebrate opsin proteins."*

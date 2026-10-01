@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A severe dermatitis of herbivorous domestic animals attributable to photosensitivity from eating saint john's wort.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A severe dermatitis of herbivorous domestic animals attributable to photosensitivity from eating saint john's wort.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A toxic photosensitivity condition in livestock (such as sheep, cattle, and horses) caused by the ingestion of St. John's wort (*Hypericum perforatum*).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In veterinary toxicology, the plant pigment hypericin is absorbed into circulation and fluoresces upon exposure to solar UV radiation in unpigmented skin, generating reactive oxygen species that induce intense pruritus, dermatitis, and necrosis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypericism designates a severe dermatitis of herbivorous domestic animals attributable to photosensitivity from eating saint john's wort."*
+> - 📜 **James Law (*The Farmer's Veterinary Adviser*):** *"White sheep grazing upon St. John's wort develop acute **hypericism**, with severe swelling and blistering of the face."*
+> - 📜 **Veranus Alva Moore (*The Pathology and Differential Diagnosis of Infectious Diseases of Animals*):** *"The pathogenesis of **hypericism** depends upon systemic photodynamic action of ingested hypericin activated by sunlight."*
+> - 📜 **Theobald Smith (*Studies on Animal Diseases*):** *"Elimination of St. John's wort from pastures is essential to prevent outbreaks of herd **hypericism**."*

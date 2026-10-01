@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek deuter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chemical compound in which deuterium (heavy hydrogen) is bonded to another chemical element or group.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In organometallic and nuclear chemistry, deuterides serve as isotopic tracers and moderate fast neutrons in experimental reactors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, deuteride designates a term designating an entity, condition, or phenomenon derived from greek deuter."*
+> - 📜 **Glenn T. Seaborg (*The Chemistry of the Actinide Elements*):** *"Uranium **deuteride** forms as a pyrophoric black powder upon exposure of finely divided metal to deuterium gas."*
+> - 📜 **F. A. Cotton (*Advanced Inorganic Chemistry*):** *"Lithium **deuteride** plays an essential role as a solid thermonuclear fuel in secondary fusion stages."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"The vibrational frequencies of a metal **deuteride** shift predictably in accordance with the increased reduced mass of the deuteron."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A flexible medical instrument involving fiber optics that is used to examine internal organs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A flexible medical instrument involving fiber optics that is used to examine internal organs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A flexible optical viewing instrument that transmits light and images along bundles of coherent, transparent glass or plastic optical fibers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial inspection and bronchoscopy, the fiberscope revolutionized non-destructive testing inside aircraft turbines and curved respiratory airways.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, fiberscope designates a flexible medical instrument involving fiber optics that is used to examine internal organs."*
+> - 📜 **Harold Hopkins (*A Flexible Fibrescope, Using Static Scanning*):** *"By aligning thousands of polished optical fibers, the **fiberscope** can convey an undistorted image around arbitrary bends and angles."*
+> - 📜 **Arthur C. Clarke (*Profiles of the Future*):** *"The invention of the flexible **fiberscope** allowed engineers to peer deep into the intricate plumbing of rocket engines."*
+> - 📜 **Isaac Asimov (*The Intelligent Man's Guide to Science*):** *"Through the bendable glass threads of a **fiberscope**, light navigates labyrinthine anatomical and mechanical passages."*

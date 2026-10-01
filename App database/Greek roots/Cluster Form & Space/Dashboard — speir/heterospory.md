@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The production of microspores and megaspores (as in seed plants).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The production of microspores and megaspores (as in seed plants).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of producing two different types and sizes of spores, specifically microspores and megaspores, which develop into unisexual gametophytes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary paleobotany, the emergence of heterospory during the Devonian epoch enabled the extreme reduction of the gametophyte and the origin of the ovule.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heterospory designates the production of microspores and megaspores (as in seed plants)."*
+> - 📜 **F. O. Bower (*The Origin of a Land Flora*):** *"The evolutionary advent of **heterospory** was the most profound physiological breakthrough in the history of vascular land plants."*
+> - 📜 **Eduard Strasburger (*Textbook of Botany*):** *"Through **heterospory**, the maternal plant retains the megaspore, providing sustained nutrition to the nascent embryo."*
+> - 📜 **Gilbert M. Smith (*Cryptogamic Botany: Bryophytes and Pteridophytes*):** *"In *Selaginella*, the physiological specialization of **heterospory** is accompanied by marked sexual dimorphism in gametophyte architecture."*

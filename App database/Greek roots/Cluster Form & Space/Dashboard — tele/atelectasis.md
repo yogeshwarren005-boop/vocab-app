@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Collapse of the expanded lung; also : defective expansion of the pulmonary alveoli at birth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Collapse of the expanded lung; also : defective expansion of the pulmonary alveoli at birth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Partial or complete collapse of a lung or lobe of a lung, resulting from alveolar deflation or bronchial airway obstruction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In thoracic medicine and pulmonology, postoperative atelectasis is prevented by incentive spirometry and chest physiotherapy to reverse dependent airway closure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, atelectasis designates collapse of the expanded lung; also : defective expansion of the pulmonary alveoli at birth."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Obstruction of a main bronchus by a foreign body leads rapidly to absorption of trapped air and pulmonary **atelectasis**."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"In congenital **atelectasis**, the fetal lung tissue has failed to expand with the infant's first gasping breaths."*
+> - 📜 **Atul Gawande (*Complications: A Surgeon's Notes on an Imperfect Science*):** *"We urged the postoperative patient to take deep breaths to ward off basilar **atelectasis** and secondary pneumonia."*

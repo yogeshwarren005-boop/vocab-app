@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Chevrotains.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Chevrotains.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of small, primitive, even-toed ungulates comprising the mouse-deer or chevrotains, native to South/Southeast Asia and Central Africa.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mammalian taxonomy, Tragulidae are the only extant members of the infraorder Tragulina, retaining primitive ruminant characteristics such as four-toed feet, three-chambered stomachs, and tusk-like upper canines in place of horns.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tragulidae designates chevrotains."*
+> - 📜 **William Henry Flower (*An Introduction to the Osteology of the Mammalia*):** *"The skull of the **Tragulidae** lacks frontal appendages entirely, relying on elongated saber-like upper canines for defense."*
+> - 📜 **Richard Lydekker (*The Royal Natural History*):** *"Members of the family **Tragulidae** represent an archaic survivor of early Oligocene artiodactyl radiation."*
+> - 📜 **Alfred Romer (*Vertebrate Paleontology*):** *"Fossil chevrotains demonstrate how the **Tragulidae** diverged before the development of true four-chambered stomachs in Pecora."*

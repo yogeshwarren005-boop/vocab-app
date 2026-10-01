@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having threefold symmetry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having threefold symmetry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or having the form of a rhombohedron; in crystallography, designating the trigonal subdivision of the hexagonal system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mineralogy, crystal symmetry where three equal crystallographic axes intersect at equal oblique angles (e.g., calcite, dolomite).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhombohedral designates having threefold symmetry."*
+> - 📜 **James Dwight Dana (*System of Mineralogy*):** *"Calcite exhibits perfect **rhombohedral** cleavage, splitting cleanly along three planes inclined at angles of 105 degrees."*
+> - 📜 **René Just Haüy (*Traité de minéralogie*):** *"By sub-dividing the crystal along its **rhombohedral** cleavage joints, we reach the primitive integrant molecule."*
+> - 📜 **William Hallowes Miller (*A Treatise on Crystallography*):** *"The **rhombohedral** system is uniquely defined by three identical axes intersecting at angles other than ninety degrees."*

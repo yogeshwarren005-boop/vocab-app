@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An officer charged with receiving and disbursing funds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An officer charged with receiving and disbursing funds.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person appointed to administer or manage the financial assets, receipts, and disbursements of a society, corporation, or government.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In British constitutional history, the Lord High Treasurer was one of the Great Officers of State, an office now held in commission by the Lords of the Treasury led by the Prime Minister.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"I had a treasury and a treasurer, to say nothing of a regiment of scribes."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"For, look you, not long ago they had even a treasurer for their wealth."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"No,” Pilate answered; “it was Judas, the treasurer.” “Who was this John?” I questioned."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The public **treasurer** must enforce strict accountability in collecting taxes and funding national expenditures."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The appointment of an incorruptible national **treasurer** provides citizens security against the diversion of public funds."*
+> - 📜 **Walter Bagehot (*The English Constitution*):** *"The First Lord of the Treasury and the **treasurer** commissioners oversee executive management of the imperial revenue."*

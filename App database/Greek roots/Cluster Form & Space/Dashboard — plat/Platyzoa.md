@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek plat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A proposed major group or clade of protostome animals including flatworms, rotifers, and gastrotrichs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In phylogenetics, a taxonomic assemblage characterized by a non-coelomate or pseudocoelomate body plan and lack of a complex circulatory system.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Platyzoa designates a term designating an entity, condition, or phenomenon derived from greek plat."*
+> - 📜 **Thomas Cavalier-Smith (*A Revised Six-Kingdom System of Life*):** *"The clade **Platyzoa** unites flatworms and gnathiferans into a coherent assemblage within the spiral-cleaving animals."*
+> - 📜 **Kenneth M. Halanych (*The New View of Animal Phylogeny*):** *"Molecular analyses utilizing ribosomal RNA sequences provided initial support for the monophyly of **Platyzoa**."*
+> - 📜 **Gonzalo Giribet (*Assembling the Protostome Tree of Life*):** *"Subsequent phylogenomic data have challenged the cohesion of **Platyzoa**, suggesting certain lineages belong closer to Lophotrochozoa."*

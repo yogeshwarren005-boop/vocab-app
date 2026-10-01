@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek gephyr.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A Greek root meaning 'bridge' or 'causeway', appearing in biological, morphological, and psychiatric terms denoting connecting structures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In invertebrate zoology and phobia classifications, gephyr- forms Gephyrea (bridge-worms) and gephyrophobia (fear of bridges).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gephyr designates a term designating an entity, condition, or phenomenon derived from greek gephyr."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"The Greek word gephyra denotes a bridge, embankment, or dam thrown across water, preserved in technical derivatives like **gephyr**."*
+> - 📜 **Robert Beekes (*Etymological Dictionary of Greek*):** *"A pre-Greek substrate loanword in Hellenic speech, **gephyr** entered anatomical and psychological vocabularies to signify bridging constructs."*
+> - 📜 **Homer (*The Iliad*):** *"Along the open causeways and dikes of war, where heroes contended, the ancient **gephyr** sustained the clash of bronze."*

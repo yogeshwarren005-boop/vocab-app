@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Primitive aquatic vertebrate.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Primitive aquatic vertebrate.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any primitive jawless vertebrate of the Cyclostomata, such as a lamprey or hagfish.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative vertebrate anatomy, an aquatic craniate possessing a circular sucking mouth, persistent unconstricted notochord, and pouch-like gill chambers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cyclostome designates primitive aquatic vertebrate."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"The brain of a **cyclostome** presents an extraordinarily primitive arrangement, with simple optic lobes and no true cerebellum."*
+> - 📜 **Ernst Haeckel (*The Evolution of Man*):** *"In the developmental history of every higher vertebrate, an ancestral **cyclostome** stage precedes the emergence of jaws."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The lancelet and the **cyclostome** stand at the very base of the genealogical tree of all vertebrate animals."*

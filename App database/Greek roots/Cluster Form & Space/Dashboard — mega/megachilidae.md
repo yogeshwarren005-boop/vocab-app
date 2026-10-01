@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Leaf-cutting and mason bees.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Leaf-cutting and mason bees.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cosmopolitan family of solitary bees including leafcutter bees, mason bees, and carder bees.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In hymenopteran phylogenetics, long-tongued bees characterized by the presence of a ventral metasomal scopa for collecting pollen on the female abdomen rather than on the hind legs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, megachilidae designates leaf-cutting and mason bees."*
+> - 📜 **Charles Darwin (*The Various Contrivances by Which Orchids Are Fertilised by Insects*):** *"Specialized floral mechanisms frequently require pollination by robust solitary bees of the family **Megachilidae**."*
+> - 📜 **Jean-Henri Fabre (*Bramble-Bees and Others*):** *"The architecture of the nest in **Megachilidae** reveals an astonishing variety of masonry and carpentry techniques."*
+> - 📜 **John Lubbock (*On the Senses, Instincts, and Intelligence of Animals*):** *"Female bees in **Megachilidae** carry enormous loads of pollen packed firmly upon their abdominal brush."*

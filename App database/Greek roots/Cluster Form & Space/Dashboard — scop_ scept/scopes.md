@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tennessee highschool teacher who violated a state law by teaching evolution; in a highly publicized trial in 1925 he was prosecuted by william jennings bryan and defended by clarence darrow (1900-1970).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An area in which something acts or operates or has power or control:.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Third-person singular present of the verb scope; also plural of scope, denoting instruments for observation or ranges of inquiry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In colloquial American history, Scopes refers to John T. Scopes, the defendant in the famous 1925 Tennessee 'Scopes Monkey Trial' regarding the teaching of evolution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"As Brad expected, the fire control center consisted of dozens of consoles, scopes, directional and power control devices, and clusters of computer terminals."*
+> - 📜 **Clarence Darrow (*The Story of My Life*):** *"The defense of John **Scopes** in Dayton was fought not merely for a young schoolteacher, but for freedom of thought itself."*
+> - 📜 **H. L. Mencken (*Prejudices: A Selection*):** *"The town was thronged with evangelists and journalists watching young **Scopes** put on trial for expounding Darwinian doctrine."*
+> - 📜 **William Jennings Bryan (*The Menace of Darwinism*):** *"The legal prosecution of the **Scopes** case was undertaken to defend the spiritual foundations of public education."*

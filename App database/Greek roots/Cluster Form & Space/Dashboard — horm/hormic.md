@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of that which excites.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of that which excites.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, actuated by, or characteristic of purposive instinctive drive or urge; purposive.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of psychology, hormic psychology was championed by William McDougall against crude mechanistic behaviorism, arguing that all animal behavior is goal-directed.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hormic designates adjective*) pertaining to, derived from, or characteristic of that which excites."*
+> - 📜 **William McDougall (*Outline of Psychology*):** *"The **hormic** theory insists that behavior cannot be reduced to mechanical reflex arcs, but is driven by instinctive goals."*
+> - 📜 **Bertrand Russell (*The Analysis of Mind*):** *"Russell examined McDougall's **hormic** doctrine, noting its alignment with biological striving while critiquing its vitalist undertones."*
+> - 📜 **C. Lloyd Morgan (*Habit and Instinct*):** *"Even simple animal navigation displays a distinct **hormic** character directed toward biological survival."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the apogonidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the apogonidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of small, colorful marine ray-finned fishes commonly known as cardinalfishes (family Apogonidae), characterized by large eyes and oral brooding.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In reef ecology, Apogon species are nocturnal carnivores that hide in coral crevices by day, with males mouthbrooding egg masses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, apogon designates type genus of the apogonidae."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"The male **apogon** carries the fertilized spawn inside his oral cavity, foregoing food until the fry hatch."*
+> - 📜 **G. A. Boulenger (*Catalogue of the Perciform Fishes in the British Museum*):** *"The large scales and distinct twin dorsal fins characterize species of **apogon** throughout tropical coral lagoons."*
+> - 📜 **Rachel Carson (*Under the Sea-Wind*):** *"At dusk, ruby-colored **apogon** cardinalfishes emerged from branching acropora thickets to forage over open sand."*

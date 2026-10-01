@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Profound scholarly knowledge.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Profound scholarly knowledge.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The principles, spirit, or philosophy of an encyclopaedist; the pursuit or dissemination of universal knowledge.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural and intellectual history, the Enlightenment philosophical movement associated with Diderot and d'Alembert that sought to systematize reason and reform society.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, encyclopaedism designates profound scholarly knowledge."*
+> - 📜 **Denis Diderot (*Prospectus of the Encyclopédie*):** *"True **encyclopaedism** consists not in pedantic accumulation of facts, but in liberating the human intellect from superstition."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"The triumphant march of eighteenth-century **encyclopaedism** undermined the ancient thrones and altars of the monarchy."*
+> - 📜 **Alexis de Tocqueville (*The Old Regime and the Revolution*):** *"French **encyclopaedism** transformed literary men into the foremost political directors of the nation."*

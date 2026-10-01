@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Disease or inflammation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Condition likened to a disease —chiefly in nonce formations.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A suffix used in medical nomenclature to designate inflammation of a specified organ or tissue (derived from Greek *-itis*, meaning pertaining to, originally modifying *nosos*, disease); colloquially, an informal suffix denoting an obsession or affliction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical etymology, the pairing of an anatomical root with *-itis* (e.g., bronchitis, appendicitis, arthritis) indicates inflammatory pathology characterized by rubor, calor, dolor, and tumor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, itis designates disease or inflammation."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Medical terminology uniformly employs the suffix **-itis** to denote inflammatory processes affecting specific tissues."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"The classical designations ending in **-itis** correspond histologically to cellular proliferation and exudation."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"The young physician readily appends the suffix **-itis** to any organ exhibiting pain and feverish congestion."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of sharp, pointed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of sharp, pointed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Producing or secreting acid; specifically designating the parietal cells of the gastric mucosa that secrete hydrochloric acid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gastroenterology and histophysiology, the oxyntic gland mucosa located in the fundus and corpus of the stomach contains parietal and chief cells.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oxyntic designates adjective*) pertaining to, derived from, or characteristic of sharp, pointed."*
+> - 📜 **William Beaumont (*Experiments and Observations on the Gastric Juice and the Physiology of Digestion*):** *"The internal rugae of the gastric coat possess specialized **oxyntic** papillae that distill pure acid juice upon irritation."*
+> - 📜 **Arthur Guyton (*Textbook of Medical Physiology*):** *"The **oxyntic** cells of the gastric glands utilize an H+/K+ ATPase pump to generate a luminal pH near 0.8."*
+> - 📜 **Ivan Pavlov (*Lectures on the Work of the Digestive Glands*):** *"Vagal nerve stimulation evokes copious secretion from the **oxyntic** glands of the gastric pouch."*

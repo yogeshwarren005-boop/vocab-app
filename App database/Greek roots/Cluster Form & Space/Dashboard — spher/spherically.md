@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a spherical manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a spherical manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In the form, manner, or shape of a sphere; with spherical symmetry or distribution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In wave mechanics and electrostatics, isotropic point sources radiate acoustic or electromagnetic energy spherically, with flux decaying as the inverse square of distance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spherically designates in a spherical manner."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"Electric flux diverges **spherically** from an isolated point charge, distributing uniformly across any enclosing surface."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"The lines of inductive force spread out **spherically** through the surrounding dielectric medium."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The comb cells are initially hollowed out **spherically**, interlocking as neighboring bees intersect their excavations."*

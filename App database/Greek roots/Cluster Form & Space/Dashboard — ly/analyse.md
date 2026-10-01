@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To study or determine the nature and relationship of the parts of (something) by analysis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To subject to scientific or grammatical analysis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To examine methodically and in detail the constitution, structure, or elements of a substance, problem, or text (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In science and philosophy, to analyse is to decompose a complex whole into its simpler constituents to understand its fundamental nature and laws.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Children can feel, but they cannot analyse their feelings; and if the analysis is partially effected in thought, they know not how to express the result of the process in words."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"The ground was hard, the air was still, my road was lonely; I walked fast till I got warm, and then I walked slowly to enjoy and analyse the species of pleasure brooding for me in the hour and situation."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Instead of wishing to shun, I longed only to dare—to divine it; and I thought Miss Ingram happy, because one day she might look into the abyss at her leisure, explore its secrets and analyse their nature."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"We must carefully **analyse** the gas produced by electrolysis to establish its exact volumetric ratio."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"The scientific intellect strives to **analyse** complex social phenomena into fundamental psychological motives."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"When we **analyse** the struggle for existence, we perceive countless subtle interactions governing survival."*

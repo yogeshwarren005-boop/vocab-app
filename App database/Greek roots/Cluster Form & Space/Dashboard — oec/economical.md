@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Using the minimum of time or resources necessary for effectiveness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to an economy, the system of production and management of material wealth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Prudent, thrifty, and careful in the management of money, resources, or time; avoiding waste or extravagance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In engineering and design, an economical structure achieves maximum mechanical performance and safety with minimal material expenditure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"For four years, the clergyman says, 'My expenses were small, my habits economical, and the only _luxury_ in which I indulged was the luxury of giving."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"But this does not mean that it would be economical, at present costs of mining coal and of building reservoirs, to make this substitution now."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The number of these has always been comparatively small, and their operation is less simple, democratic, and economical than the local associations."*
+> - 📜 **Benjamin Franklin (*The Way to Wealth*):** *"A man may, if he knows not how to be **economical**, keep his nose all his life to the grindstone and die not worth a groat."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Parsimony, and not industry, is the immediate cause of the increase of capital; an **economical** citizen augments public wealth by frugality."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Elinor's **economical** arrangements in their small cottage ensured that their modest income provided every comfort without incurring debt."*

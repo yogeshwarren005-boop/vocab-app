@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek cen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The evolutionary emergence or introduction of novel developmental adaptations in an embryo or larva that were not present in ancestral adult forms; caenogeny.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary embryology, Ernst Haeckel's term for developmental modifications (such as embryonic membranes or larval adaptations) that distort the ancestral phylogenetic sequence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, caenogenesis designates a term designating an entity, condition, or phenomenon derived from greek cen."*
+> - 📜 **Ernst Haeckel (*The Evolution of Man*):** *"I have designated as **caenogenesis** those recent embryonic adaptations which falsify and obscure the ancestral palingenetic record."*
+> - 📜 **Julian Huxley (*Evolution: The Modern Synthesis*):** *"The aquatic adaptations of insect larvae afford classic examples of **caenogenesis**, evolving independently of the terrestrial adult form."*
+> - 📜 **Thomas Henry Huxley (*Science and Culture*):** *"Embryological recapitulation is never a verbatim transcript, for **caenogenesis** continuously interpolates new survival features."*

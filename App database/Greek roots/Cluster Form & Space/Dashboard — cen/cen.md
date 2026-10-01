@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek cen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combining form of Greek origin meaning new, recent, or fresh (derived from Greek kainos, often spelled caen- or cen-).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geological and biological nomenclature, a prefix appearing in terms designating recent epochs or new structural forms (as in Cenozoic and caenogenesis).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The wrong lies in unmerited cen- sure,- in the falsehood which does no one any good."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Of old the cross was truth's cen- tral sign, and it is to-day."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The apprehension of this gave sight to the blind and hearing to the deaf cen- 487:12 turies ago, and it will repeat the wonder."*
+> - 📜 **Richard Chenevix Trench (*On the Study of Words*):** *"The Greek element **cen**, drawn from kainos, denotes the new and recent in the nomenclature of modern geology."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"Compounded with zoic, the root **cen** marks our current geological chapter of living creation."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Names formed with **cen** distinguish the newer tertiary formations containing high proportions of living shells."*

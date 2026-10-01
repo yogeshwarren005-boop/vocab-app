@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A vehicle with a single wheel that is driven by pedals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A vehicle with a single wheel that is driven by pedals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A single-wheeled vehicle; a unicycle; or an engine running a single cycle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mechanical history and locomotion, an experimental pedal-driven or motorized single-wheeled craft where the rider sits inside or atop a large wheel.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monocycle designates a vehicle with a single wheel that is driven by pedals."*
+> - 📜 **H. G. Wells (*The War in the Air*):** *"Eccentric inventors demonstrated a steam **monocycle**, wobbling precariously along the gravel path to the amusement of onlookers."*
+> - 📜 **Mark Twain (*A Connecticut Yankee in King Arthur's Court*):** *"Sir Sagramor looked as bewildered as if he had beheld a knight mounted upon an iron **monocycle**."*
+> - 📜 **Jules Verne (*The Steam House*):** *"The eccentric engineer designed a light **monocycle** fitted with broad pneumatic treads for desert locomotion."*

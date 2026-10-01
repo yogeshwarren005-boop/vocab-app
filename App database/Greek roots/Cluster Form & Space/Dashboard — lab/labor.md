@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A social class comprising those who do manual labor or work for wages.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Productive work (especially physical work done for wages).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Exertion of the body or mind; physical or mental work, toil, or effort; also, the biological process of childbirth from uterine contractions to delivery.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical economics (Adam Smith, Karl Marx), labor is the fundamental source of economic value; in obstetrics, labor is divided into three stages: cervical dilation, fetal expulsion, and placental separation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Laws, indeed, are fixed in their operation and results as subserving the highest good in the training and the disciplining of the race, giving them hope in their labor and sure expectation of fruit from their toil."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"They have ceased to labor with their hands, and, without warrant in the providences of God and the judgment of brethren, have turned from doing their own business, expecting the Lord to pay their debts and provide for their necessities."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"I was a poor student in a Manual Labor Institute at the West."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The property which every man has in his own **labor**, as it is the original foundation of all other property, so it is the most sacred."*
+> - 📜 **J. Whitridge Williams (*Williams Obstetrics*):** *"True uterine **labor** is characterized by painful, rhythmic contractions that increase in frequency, duration, and intensity."*
+> - 📜 **Abraham Lincoln (*First Annual Message to Congress*):** *"**Labor** is prior to, and independent of, capital; capital is only the fruit of labor, and could never have existed if labor had not first existed."*

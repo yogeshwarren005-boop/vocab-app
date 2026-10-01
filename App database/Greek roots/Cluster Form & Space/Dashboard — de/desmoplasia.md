@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek de.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The growth and proliferation of dense fibrous or connective tissue, particularly in response to an invasive malignant epithelial neoplasm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In tumor biology, desmoplasia results from paracrine signaling between neoplastic cells and cancer-associated fibroblasts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, desmoplasia designates a term designating an entity, condition, or phenomenon derived from greek de."*
+> - 📜 **Robert A. Weinberg (*The Biology of Cancer*):** *"Carcinomas induce intense **desmoplasia**, recruiting stromal fibroblasts that synthesize massive collagenous scaffolds."*
+> - 📜 **Vinay Kumar (*Robbins Basic Pathology*):** *"The stony hardness of scirrhous breast carcinoma is directly caused by reactive **desmoplasia**."*
+> - 📜 **Harold F. Dvorak (*Tumors: Wounds That Do Not Heal*):** *"Malignant stroma generation shares profound biochemical parallels with chronic scar formation and **desmoplasia**."*

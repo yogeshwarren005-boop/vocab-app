@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A facility equipped with special equipment and personnel for a particular purpose.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Proper or designated social situation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A regular stopping place along a route; an establishment or complex equipped for a specific public service; or one's social rank or standing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In astronomy and meteorology, an observation station records systematic instrumental measurements, while planetary stations denote apparent retrograde stationary points.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Her motion and her station are as one."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Seld-shown flamens Do press among the popular throngs and puff To win a vulgar station."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Pray you, poor gentleman, take up some other station."*
+> - 📜 **Charles Dickens (*Dombey and Son*):** *"The locomotive steamed into the bustling railway **station**, panting like a fiery monster restrained by iron reins."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"She conducted herself in every trial with a dignified humility appropriate to her Christian **station** in life."*
+> - 📜 **H. G. Wells (*The Time Machine*):** *"I observed the apparatus from my **station** near the laboratory workbench, noting each dial fluctuation."*

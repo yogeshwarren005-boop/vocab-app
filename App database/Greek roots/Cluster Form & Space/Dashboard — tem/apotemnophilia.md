@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek tem.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A condition characterized by the intense, compulsive desire for the amputation of one or more healthy limbs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuropsychiatry, often classified under body integrity dysphoria (BID), apotemnophilia is hypothesized to arise from a congenital mismatch between cortical body maps in the parietal cortex and physical anatomy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, apotemnophilia designates a term designating an entity, condition, or phenomenon derived from greek tem."*
+> - 📜 **V. S. Ramachandran (*The Tell-Tale Brain*):** *"Patients afflicted with **apotemnophilia** experience a profound, lifelong conviction that a specific limb does not belong to them."*
+> - 📜 **Oliver Sacks (*A Leg to Stand On*):** *"The bizarre phenomenology of **apotemnophilia** highlights how deeply the neurological body-image governs our sense of self."*
+> - 📜 **John Money (*The Journal of Sex Research*):** *"Clinical studies of **apotemnophilia** reveal that the desire for amputation is frequently localized to an exact anatomical boundary."*

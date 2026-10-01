@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek peg.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The phenomenon whereby a fluid increases in viscosity or solidifies under the influence of prolonged mechanical agitation or shear.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In material science and chemical physics, rheopexy represents the opposite behavior of thixotropy, with viscosity rising under continuous laminar shearing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rheopexy designates a term designating an entity, condition, or phenomenon derived from greek peg."*
+> - 📜 **Herbert Freundlich (*Colloid and Capillary Chemistry*):** *"Gentle shearing accelerates the orientation of anisometric particles, inducing rapid **rheopexy** in bentonite suspensions."*
+> - 📜 **Ronald G. Larson (*The Structure and Rheology of Complex Fluids*):** *"True **rheopexy** is observed in sol-gel transitions where mechanical energy facilitates particle aggregation."*
+> - 📜 **Marcus Reiner (*Lectures on Theoretical Rheology*):** *"Measuring **rheopexy** demands rotational viscometers capable of recording torque over extended shear intervals."*

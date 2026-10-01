@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A system of biological taxonomy that defines taxa uniquely by shared characteristics not found in ancestral groups and uses inferred evolutionary relationships to arrange taxa in a branching hierarchy such that all members of a given taxon have the same ancestors.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A system of biological taxonomy that defines taxa uniquely by shared characteristics not found in ancestral groups and uses inferred evolutionary relationships to arrange taxa in a branching hierarchy such that all members of a given taxon have the same ancestors.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A method of biological classification that groups organisms based on shared derived characteristics inherited from their most recent common ancestor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic evolutionary biology, phylogenetic analysis that rigorously rejects paraphyletic taxa in favor of strictly monophyletic clades.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cladistics designates a system of biological taxonomy that defines taxa uniquely by shared characteristics not found in ancestral groups and uses inferred evolutionary relationships to arrange taxa in a branching hierarchy such that all members of a given taxon have the same ancestors."*
+> - 📜 **Willi Hennig (*Phylogenetic Systematics*):** *"The fundamental principle of **cladistics** insists that phylogenetic relationship means sharing a more recent common ancestor."*
+> - 📜 **Ernst Mayr (*Toward a New Philosophy of Biology*):** *"While evolutionary taxonomy balances branching with adaptive divergence, **cladistics** relies solely upon branching order."*
+> - 📜 **Stephen Jay Gould (*Wonderful Life*):** *"The rigorous discipline of **cladistics** forced paleontologists to justify evolutionary trees by explicit shared novelties."*

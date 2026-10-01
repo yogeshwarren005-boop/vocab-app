@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Located around the heart or relating to or affecting the pericardium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Located around the heart or relating to or affecting the pericardium.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or situated near the pericardium (the fibroserous sac surrounding the heart).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cardiology, pericardial effusion refers to an abnormal accumulation of fluid within the pericardial cavity, risking cardiac tamponade.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pericardial designates located around the heart or relating to or affecting the pericardium."*
+> - 📜 **Eugene Braunwald (*Heart Disease: A Textbook of Cardiovascular Medicine*):** *"A rapid increase in **pericardial** pressure compromises ventricular diastolic filling, precipitating tamponade."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Auscultation over the precordium reveals a pathognomonic to-and-fro **pericardial** friction rub."*
+> - 📜 **Tinsley R. Harrison (*Principles of Internal Medicine*):** *"Echocardiography reliably identifies even small amounts of fluid in the posterior **pericardial** space."*

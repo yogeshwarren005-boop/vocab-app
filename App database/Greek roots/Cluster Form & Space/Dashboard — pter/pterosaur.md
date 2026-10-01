@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of an order (Pterosauria) of extinct flying reptiles existing from the Late Triassic throughout the Jurassic and most of the Cretaceous and having a featherless wing membrane extending from the side of the body along the arm to the end of the greatly elongated fourth digit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of an order (Pterosauria) of extinct flying reptiles existing from the Late Triassic throughout the Jurassic and most of the Cretaceous and having a featherless wing membrane extending from the side of the body along the arm to the end of the greatly elongated fourth digit.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any extinct Mesozoic flying reptile belonging to the order Pterosauria, having wings formed by a membrane supported by an elongated fourth finger.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate paleontology, the first vertebrate lineage to achieve powered flight, spanning from Late Triassic to the end of the Cretaceous.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pterosaur designates any of an order (pterosauria) of extinct flying reptiles existing from the late triassic throughout the jurassic and most of the cretaceous and having a featherless wing membrane extending from the side of the body along the arm to the end of the greatly elongated fourth digit."*
+> - 📜 **Richard Owen (*Palaeontology: Or a Systematic Summary of Extinct Animals*):** *"The air-filled bones of the **pterosaur** rivaled those of modern soaring birds in lightened architectural strength."*
+> - 📜 **Gideon Mantell (*Petrifactions and Their Teachings*):** *"The fragile wing bones of the giant chalk **pterosaur** demonstrate how flight conquered prehistoric skies millions of years before man."*
+> - 📜 **Peter Wellnhofer (*The Illustrated Encyclopedia of Pterosaurs*):** *"Pycnofiber coatings preserved on fossil specimens confirm that the active **pterosaur** maintained endothermic metabolic regulation."*

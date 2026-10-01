@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Canada jays.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Canada jays.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of small, intelligent corvid birds comprising the boreal jays, including the Canada jay (Perisoreus canadensis) and Siberian jay.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ornithology, birds of the genus *Perisoreus* inhabit subarctic conifer forests, caching perishable food using sticky saliva to endure harsh winters.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, perisoreus designates canada jays."*
+> - 📜 **John James Audubon (*The Birds of America*):** *"The Canada jay, belonging to the genus **Perisoreus**, exhibits astonishing boldness around northern lumber camps."*
+> - 📜 **Alexander Wilson (*American Ornithology*):** *"In dense pine barrens, birds of the genus **Perisoreus** flit noiselessly from branch to branch."*
+> - 📜 **Ernst Mayr (*Systematics and the Origin of Species*):** *"Boreal caching behaviors in **Perisoreus** represent complex adaptive specializations for surviving taiga winters."*

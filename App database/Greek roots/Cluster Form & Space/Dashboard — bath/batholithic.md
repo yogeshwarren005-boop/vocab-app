@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a batholith.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a batholith.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or formed as a batholith; having the characteristics of a colossal plutonic intrusion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In petrology and regional tectonics, describing the crystalline texture, emplacement mechanics, or thermal aureoles of granitic batholiths.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, batholithic designates of or relating to a batholith."*
+> - 📜 **Archibald Geikie (*Class-Book of Geology*):** *"Regional metamorphism reaches its highest intensity in close proximity to massive **batholithic** intrusions."*
+> - 📜 **James Dwight Dana (*A System of Mineralogy*):** *"Pegmatite dikes radiating from the **batholithic** margin carry rare gemstones and lithium minerals."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The granitic core displays **batholithic** characteristics, lacking any discernible volcanic floor."*

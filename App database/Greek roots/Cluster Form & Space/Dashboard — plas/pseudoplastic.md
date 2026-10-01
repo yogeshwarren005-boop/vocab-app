@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of mould.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of mould.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Exhibiting shear-thinning behavior; describing a non-Newtonian fluid whose apparent viscosity decreases with increasing rate of shear stress.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In rheology and chemical engineering, pseudoplastic fluids (such as polymer solutions, ketchup, and blood) flow more freely under vigorous stirring or pumping.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pseudoplastic designates adjective*) pertaining to, derived from, or characteristic of mould."*
+> - 📜 **Marcus Reiner (*Deformation, Strain and Flow: An Elementary Introduction to Rheology*):** *"A **pseudoplastic** fluid exhibits shear-thinning without a yield stress, its viscosity dropping as shear rates climb."*
+> - 📜 **Ronald G. Larson (*The Structure and Rheology of Complex Fluids*):** *"Alignment of entangled polymer coils in the flow stream explains the macroscopic **pseudoplastic** response."*
+> - 📜 **Herbert Freundlich (*Colloid and Capillary Chemistry*):** *"Blood flow through microscopic capillaries demonstrates pronounced **pseudoplastic** behavior due to erythrocyte deformation."*

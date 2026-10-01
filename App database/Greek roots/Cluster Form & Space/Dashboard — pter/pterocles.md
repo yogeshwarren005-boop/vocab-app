@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the pteroclididae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the pteroclididae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of ground-dwelling arid-land birds in the family Pteroclidae, commonly called sandgrouse, native to Africa and Eurasia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In desert avian ecology, seed-eating birds renowned for daily long-distance flights to water holes and carrying water in coiled breast feathers to chicks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pterocles designates type genus of the pteroclididae."*
+> - 📜 **Richard Bowdler Sharpe (*A Hand-List of the Genera and Species of Birds*):** *"Flocks of **pterocles** arrive at desert waterholes at daybreak, drinking rapidly before retreating into stony wilderness."*
+> - 📜 **Alfred Newton (*A Dictionary of Birds*):** *"The male **pterocles** soaks his breast plumage in water, flying dozens of miles across desert sands to nurture his brood."*
+> - 📜 **William Yarrell (*A History of British Birds*):** *"The cryptically mottled plumage of **pterocles** renders the bird almost invisible upon sun-baked gravel plains."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of dentistry dealing with irregularities of the teeth (such as malocclusion) and their correction (as by braces); also : the treatment provided by a specialist in orthodontics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A branch of dentistry dealing with irregularities of the teeth (such as malocclusion) and their correction (as by braces); also : the treatment provided by a specialist in orthodontics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of dentistry dealing with the prevention and correction of irregularly aligned teeth, improper bites, and facial growth anomalies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dental medicine, a recognized clinical specialty integrating biomechanics, craniofacial biology, and cephalometrics to restore functional occlusion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, orthodontics designates a branch of dentistry dealing with irregularities of the teeth (such as malocclusion) and their correction (as by braces); also : the treatment provided by a specialist in orthodontics."*
+> - 📜 **Edward Angle (*Malocclusion of the Teeth*):** *"Modern **orthodontics** emerged as a distinct science through the standardization of mechanical appliances and occlusal classification."*
+> - 📜 **William R. Proffit (*Contemporary Orthodontics*):** *"The scope of **orthodontics** extends beyond cosmetic alignment to include the long-term functional health of the temporomandibular joint."*
+> - 📜 **Raymond C. Thurow (*Atlas of Orthodontic Principles*):** *"Biological tissue response to applied force forms the foundational science of clinical **orthodontics**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of protoctist.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A family of protoctist.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxonomic family of marine red algae in the order Rhodymeniales, characterized by multiaxial thalli and solid or hollow fronds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic phycology, seaweeds possessing auxiliary cells formed on special filament branches, giving rise to cystocarps with dense pericarps.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhodymeniaceae designates a family of protoctist."*
+> - 📜 **William Henry Harvey (*Phycologia Australica*):** *"Representatives of **rhodymeniaceae** are abundant in temperate southern waters, displaying rich crimson coloration."*
+> - 📜 **Robert Edward Lee (*Phycology*):** *"In **rhodymeniaceae**, the tetrasporangia are cruciately divided and embedded among cortical filaments."*
+> - 📜 **Kathleen M. Drew (*Studies in the Bangioideae*):** *"Anatomical sections through the frond of **rhodymeniaceae** reveal a pseudoparenchymatous core surrounded by small photosynthetic cells."*

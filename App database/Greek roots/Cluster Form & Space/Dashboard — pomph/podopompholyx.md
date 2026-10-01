@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek pomph.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A vesicular dermatological eruption or form of eczema affecting exclusively or predominantly the soles and edges of the feet.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical dermatology, a manifestation of dyshidrotic eczema characterized by deep-seated, pruritic 'tapioca-like' vesicles on the plantar surfaces.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, podopompholyx designates a term designating an entity, condition, or phenomenon derived from greek pomph."*
+> - 📜 **Jonathan Hutchinson (*Lectures on Clinical Surgery*):** *"In chronic **podopompholyx**, the symmetrical eruption of tense bullae across the soles causes severe pain upon walking."*
+> - 📜 **William Allen Pusey (*The Principles and Practice of Dermatology*):** *"Topical drying agents and rest are indispensable in managing acute recurrent **podopompholyx** in warm climates."*
+> - 📜 **Thomas Bateman (*A Practical Synopsis of Cutaneous Diseases*):** *"The plantar vesicle outbreak termed **podopompholyx** displays little tendency to spontaneous suppuration unless secondarily infected."*

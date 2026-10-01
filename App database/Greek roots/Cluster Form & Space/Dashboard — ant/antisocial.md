@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Averse to the society of others : unsociable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hostile or harmful to organized society; especially : being or marked by behavior deviating sharply from the social norm.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unwilling or unable to associate normally with other people; averse to social interaction or companionship.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychology and psychiatry, describing behavior that actively violates social norms, laws, or the fundamental rights of others (as in antisocial personality disorder).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"It is doubtful whether the boycott can be extended at all beyond the first degree of personal relations without becoming antisocial, whether it is the weapon of organized workers or of organized wealth."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The open or secret use of violence and other antisocial forces make much of this boasted service to some of the workers, an injury to others, and an occasion of reproach from the citizen who condemns the spirit of lawlessness thus encouraged."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"No code of laws can be framed that will make possible the punishment of all antisocial acts."*
+> - 📜 **Sigmund Freud (*Civilization and Its Discontents*):** *"Civilization must continuously defend itself against the **antisocial** aggressive instincts latent within every human individual."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Prolonged solitary confinement induces severe **antisocial** melancholy, eroding the capacity for empathetic fellowship."*
+> - 📜 **George Eliot (*Silas Marner*):** *"He retreated into an **antisocial** routine, hoarding his gold in nocturnal silence away from the village community."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A didactic person.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A didactic person.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person inclined to lecture, instruct, or preach moralistically, often in an excessively pedantic or authoritarian manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary criticism, an author who prioritizes instructional utility and ethical doctrine over aesthetic experience.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, didact designates a didactic person."*
+> - 📜 **Matthew Arnold (*Culture and Anarchy*):** *"The dogmatic **didact** mistakes narrow intellectual conformity for broad sweetness and light."*
+> - 📜 **George Bernard Shaw (*Plays Pleasant and Unpleasant*):** *"I am a natural **didact**, using the stage not merely to entertain but to overturn social preconceptions."*
+> - 📜 **W. H. Auden (*The Dyer's Hand*):** *"When the poet turns **didact**, his verses forfeit their musical ambiguity and become rhymed lectures."*

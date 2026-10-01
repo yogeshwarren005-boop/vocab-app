@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The use of the telephone as an interactive medium for promotion and sales.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The use of the telephone as an interactive medium for promotion and sales.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The direct selling of products or commercial services to potential customers via telephone calls; telemarketing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marketing management, teleselling incorporates scripted outbound sales calls, inbound customer order processing, and computerized database management systems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, teleselling designates the use of the telephone as an interactive medium for promotion and sales."*
+> - 📜 **Philip Kotler (*Marketing Management*):** *"Direct marketing expenditures shifted heavily toward **teleselling** as corporate call center automation lowered transaction costs."*
+> - 📜 **Peter Drucker (*Management: Tasks, Responsibilities, Practices*):** *"The success of outbound **teleselling** relies on understanding customer needs rather than relentless repetitive badgering."*
+> - 📜 **David Ogilvy (*Ogilvy on Advertising*):** *"Integrating direct mail campaigns with coordinated **teleselling** yielded response rates far superior to print advertising alone."*

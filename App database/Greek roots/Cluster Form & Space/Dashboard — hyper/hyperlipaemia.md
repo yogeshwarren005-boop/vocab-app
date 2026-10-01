@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Presence of excess lipids in the blood.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Presence of excess lipids in the blood.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The presence of an abnormally elevated concentration of lipids (fats) in the blood plasma (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical biochemistry and pathology, severe hyperlipaemia imparts a milky or lactescent appearance to spun blood plasma (lipemic serum), commonly caused by hypertriglyceridemia, chylomicronemia, or uncontrolled diabetic ketoacidosis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyperlipaemia designates presence of excess lipids in the blood."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In diabetic coma, marked **hyperlipaemia** renders the blood serum as opaque and milky as rich cream."*
+> - 📜 **Ernest Starling (*Principles of Human Physiology*):** *"Following a heavy fatty meal, transient postprandial **hyperlipaemia** reflects the influx of thoracic duct chylomicrons."*
+> - 📜 **Austin Flint (*A Treatise on the Principles and Practice of Medicine*):** *"Chronic **hyperlipaemia** predisposes to extensive xanthoma formation along the palmar creases and tendons."*

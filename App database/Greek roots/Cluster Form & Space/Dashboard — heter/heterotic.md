@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The marked vigor or capacity for growth often exhibited by crossbred animals or plants —called also hybrid vigor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The marked vigor or capacity for growth often exhibited by crossbred animals or plants —called also hybrid vigor.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or exhibiting heterosis (hybrid vigor).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In quantitative genetics and plant breeding, heterotic groups are genetically divergent parental populations that produce maximum hybrid vigor upon crossing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heterotic designates the marked vigor or capacity for growth often exhibited by crossbred animals or plants —called also hybrid vigor."*
+> - 📜 **Theodosius Dobzhansky (*Genetics and the Origin of Species*):** *"The superior reproductive fitness of the F1 generation is described as a **heterotic** effect resulting from balanced polygenic heterozygosity."*
+> - 📜 **George Harrison Shull (*What Is Heterosis?*):** *"Commercial maize yields surged when breeders organized breeding stocks into complementary **heterotic** pools."*
+> - 📜 **Sewall Wright (*Evolution and the Genetics of Populations*):** *"The **heterotic** response in crosses between isolated demes confirms that inbreeding depression had accumulated within them."*

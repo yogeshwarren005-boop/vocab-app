@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek lekan.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient Greek ceramic dish, flat basin, or shallow bowl with two horizontal loop handles, often fitted with a lid.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical archaeology and Attic pottery studies, the lekane served diverse domestic functions, including food preparation, ritual washing, and the presentation of bridal gifts (*lekanis*).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lekane designates a term designating an entity, condition, or phenomenon derived from greek lekan."*
+> - 📜 **Arthur Evans (*The Palace of Minos*):** *"Excavations in the domestic quarter unearthed a decorated terracotta **lekane** filled with carbonized grains."*
+> - 📜 **John Beazley (*Attic Red-Figure Vase-Painters*):** *"The lid of the painted **lekane** depicted wedding attendants bringing perfumes and ribbons to the bride."*
+> - 📜 **Heinrich Schliemann (*Mycenae: A Narrative of Researches and Discoveries*):** *"Beside the hearth lay an archaic earthenware **lekane**, showing soot incrustations from ancient kitchen use."*

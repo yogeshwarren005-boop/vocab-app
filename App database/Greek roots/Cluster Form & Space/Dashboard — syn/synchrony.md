@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The relation that exists when things occur at the same time.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The relation that exists when things occur at the same time.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Simultaneous occurrence, development, or operation; the state of being synchronized.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistics, Saussurean synchrony examines a language system at a single point in time, contrasting with diachrony (historical linguistic evolution).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, synchrony designates the relation that exists when things occur at the same time."*
+> - 📜 **Ferdinand de Saussure (*Course in General Linguistics*):** *"A linguistic state must be analyzed in its internal **synchrony**, as a self-contained system of interdependent signs."*
+> - 📜 **Steven Strogatz (*Sync: The Emerging Science of Spontaneous Order*):** *"Along riverbanks in Thailand, thousands of fireflies flash in complete, spontaneous **synchrony** across miles of mangrove trees."*
+> - 📜 **Colin Pittendrigh (*Circadian Rhythms and the Organism*):** *"The central suprachiasmatic nucleus maintains metabolic **synchrony** across peripheral organs."*

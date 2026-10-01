@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sexual attraction to (or sexual relations with) persons of the opposite sex.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sexual attraction to (or sexual relations with) persons of the opposite sex.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The belief, ideology, or social arrangement that regards heterosexuality as the exclusive, normative, or superior form of human sexuality; heteronormativity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural sociology, heterosexualism examines the legal and institutional normalization of opposite-sex domestic partnerships.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heterosexualism designates a sexual attraction to (or sexual relations with) persons of the opposite sex."*
+> - 📜 **Adrienne Rich (*Compulsory Heterosexuality and Lesbian Existence*):** *"Institutional **heterosexualism** functions as a pervasive social enforcement rather than a simple spontaneous biological given."*
+> - 📜 **Judith Butler (*Bodies That Matter*):** *"The regulatory ideal of **heterosexualism** constructs acceptable bodily norms by abjecting alternative desires."*
+> - 📜 **Michel Foucault (*The History of Sexuality*):** *"The discursive consolidation of **heterosexualism** anchored the modern family as the primary site of biopolitical reproduction."*

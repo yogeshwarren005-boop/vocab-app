@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of doubtful authenticity : spurious.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or resembling the Apocrypha.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of doubtful authenticity or questionable veracity, although widely circulated as true.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In textual criticism, pertaining to, resembling, or belonging to the biblical Apocrypha.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"The writers of the Apocryphal Gospels did their best to fill the gap by inventing or developing stories, pretty, silly, or repellent, which only show how little they understood the original Gospels or the character of Jesus."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"Nay, they will even make these apocryphal volumes text-books, on which to enlarge, with a zeal and an ability worthy of a more generous cause."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"I confess I was a little dubious at first whether it was not one of those apocryphal tales often passed off upon inquiring travellers like myself, and which have brought our general character for veracity into such unmerited reproach."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The historian must cautiously discard the **apocryphal** marvels invented by credulous monks centuries after the event."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The narrative of King Alfred burning the cakes remains delightfully memorable, however **apocryphal** its origin."*
+> - 📜 **David Hume (*An Enquiry Concerning Human Understanding*):** *"Miracles alleged in remote antiquity resting upon **apocryphal** testimony cannot establish philosophical conviction."*

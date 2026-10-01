@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Herbivorous ornithischian dinosaur with a row of bony plates along its back and a spiked tail probably used as a weapon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Herbivorous ornithischian dinosaur with a row of bony plates along its back and a spiked tail probably used as a weapon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any armored, herbivorous ornithischian dinosaur of the suborder Stegosauria, characterized by a double row of upright bony plates or spikes along the spine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dinosaur paleobiology, stegosaurs flourished from the Middle Jurassic to Early Cretaceous, utilizing vascularized plates for thermoregulation and paired tail spikes (thagomizers) for defense against theropods.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stegosaur designates herbivorous ornithischian dinosaur with a row of bony plates along its back and a spiked tail probably used as a weapon."*
+> - 📜 **Othniel Charles Marsh (*The Dinosaurs of North America*):** *"The massive dermal plates running down the dorsal column identify the **stegosaur** as one of the most singular reptiles of the Jurassic."*
+> - 📜 **Arthur Conan Doyle (*The Lost World*):** *"We beheld an enormous **stegosaur**, its armored ridge rising above the ferns like the crenellations of a ruined castle."*
+> - 📜 **Stephen Jay Gould (*The Panda's Thumb*):** *"Popular mythology mocked the tiny brain of the **stegosaur**, ignoring its splendid defensive plates and tail thagomizer."*

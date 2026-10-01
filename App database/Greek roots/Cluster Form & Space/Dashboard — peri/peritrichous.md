@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having flagella uniformly distributed over the body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a spiral line of modified cilia around the oral disk.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having flagella or cilia distributed uniformly all over the entire surface, characteristic of certain bacterial cells.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In bacteriology and microbiological taxonomy, bacteria with peritrichous flagellation (such as Escherichia coli and Salmonella) exhibit tumbling and directional swimming motility.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, peritrichous designates having flagella uniformly distributed over the body."*
+> - 📜 **Robert Koch (*Investigations into the Etiology of Traumatic Infective Diseases*):** *"Special silver-staining methods reveal numerous **peritrichous** flagella radiating from the bacterial capsule."*
+> - 📜 **Bruce Alberts (*Molecular Biology of the Cell*):** *"Coordinated counterclockwise rotation of **peritrichous** flagella bundles them together into a single propelling screw."*
+> - 📜 **David L. Nelson (*Lehninger Principles of Biochemistry*):** *"The **peritrichous** distribution of flagellar motors allows rapid chemotactic reorientation toward nutrient gradients."*

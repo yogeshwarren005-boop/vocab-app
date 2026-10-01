@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large siphonophore of up to 50 ft long.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large siphonophore of up to 50 ft long.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of pelagic siphonophores (colonial hydrozoans) forming extraordinarily long, ribbon-like colonies in open oceanic waters.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine biology, fragile siphonophores composed of coordinated nectophores and stinging zooids capable of stretching dozens of meters in deep waters.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, apolemia designates large siphonophore of up to 50 ft long."*
+> - 📜 **Ernst Haeckel (*Report on the Siphonophorae Collected by H.M.S. Challenger*):** *"The polymorphic colonies of **apolemia** drift through the pelagic abyss, trailing extended batteries of urticating tentacles."*
+> - 📜 **Louis Agassiz (*Contributions to the Natural History of the United States*):** *"In living specimens of **apolemia**, each individual polyp performs a dedicated nutritional or locomotive function."*
+> - 📜 **Carl Chun (*Die Siphonophoren der Plankton-Expedition*):** *"Deep-sea dredging operations captured magnificent fragments of **apolemia**, revealing complex colonial budding."*

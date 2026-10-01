@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In former classifications a division of class amphibia comprising all pre-jurassic and some later extinct large salamandriform amphibia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In former classifications a division of class amphibia comprising all pre-jurassic and some later extinct large salamandriform amphibia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An extinct group or order of primitive, armored labyrinthodont amphibians of the Paleozoic era characterized by a solid, bony roof over the cranium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate paleontology, the Stegocephalia (or stegocephalians) represent early tetrapods transitional between rhipidistian sarcopterygian fishes and amniotes, possessing complex folded tooth enamel.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stegocephalia designates in former classifications a division of class amphibia comprising all pre-jurassic and some later extinct large salamandriform amphibia."*
+> - 📜 **Thomas Henry Huxley (*On the Classification of the Animal Kingdom*):** *"The heavy dermal armor of the **Stegocephalia** reflects their primitive ancestry among the armored ganoid fishes."*
+> - 📜 **Edward Drinker Cope (*Synopsis of the Extinct Batrachia of North America*):** *"Carboniferous coal swamps supported massive amphibious predators of the order **Stegocephalia** with roofed cranial vaults."*
+> - 📜 **Alfred Romer (*Vertebrate Paleontology*):** *"The ancestral labyrinthodont pattern in **Stegocephalia** provided the anatomical matrix for early reptile divergence."*

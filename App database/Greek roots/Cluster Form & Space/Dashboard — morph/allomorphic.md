@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to allomorphs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to allomorphs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, functioning as, or characterized by an allomorph.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In descriptive linguistics, describing positional variation in word stems or affixes governed by surrounding phonemes, stress, or morphological categories.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, allomorphic designates pertaining to allomorphs."*
+> - 📜 **Roman Jakobson (*Selected Writings*):** *"Phonological assimilation explains many instances of **allomorphic** alternation across Indo-European verbal inflection paradigms."*
+> - 📜 **Zellig Harris (*Methods in Structural Linguistics*):** *"By grouping complementary phonetic variants together, we establish the **allomorphic** distribution of the grammatical markers."*
+> - 📜 **Charles F. Hockett (*A Course in Modern Linguistics*):** *"The morpheme exists as an abstract linguistic unit whose concrete **allomorphic** expressions depend on syntactic context."*

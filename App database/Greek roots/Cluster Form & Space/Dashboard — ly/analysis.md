@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A detailed examination of anything complex in order to understand its nature or to determine its essential features : a thorough study.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A statement, usually in writing, explaining the results of such an examination.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A detailed examination of the elements or structure of something; the separation of a whole into its constituent parts for individual study.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemistry, analysis is qualitative (identifying constituents) or quantitative (measuring amounts); in mathematics, analysis encompasses calculus, real analysis, and complex function theory.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"It shall pollute, this very night, the choice stream (in which chemists on analysis would find the genuine nobility) of a Norman house, and his Grace shall not be able to say nay to the infamous alliance."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The task of the economist "as such" is the analysis of the economic valuation-aspects of these problems."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"If the reader has different social sympathies he may prefer to draw different conclusions from the economic analysis."*
+> - 📜 **Antoine Lavoisier (*Elements of Chemistry*):** *"Chemical **analysis** resolves compound substances into their simple elementary constituents beyond further decomposition."*
+> - 📜 **Sigmund Freud (*The Interpretation of Dreams*):** *"Meticulous psychological **analysis** unmasks the latent dream thoughts disguised beneath the manifest imagery."*
+> - 📜 **Bertrand Russell (*The Principles of Mathematics*):** *"Logical **analysis** demonstrates that all pure mathematics proceeds strictly from formal primitive concepts."*

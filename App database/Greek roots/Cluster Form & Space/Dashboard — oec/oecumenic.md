@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of house.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of house.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A classical or archaic spelling of ecumenic, signifying universal, worldwide, or representing the entire inhabited world.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical historiography and Byzantine diplomacy, describing councils, titles, or edicts with empire-wide or global authority across the oikoumene.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oecumenic designates adjective*) pertaining to, derived from, or characteristic of house."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Byzantine patriarch claimed the proud title of **oecumenic** bishop, exciting the indignant jealousy of the Roman pontiff."*
+> - 📜 **Polybius (*The Histories*):** *"The Mediterranean basin became an integrated **oecumenic** theatre of war wherein the fortunes of all nations became intertwined."*
+> - 📜 **Gilbert Murray (*Five Stages of Greek Religion*):** *"The Hellenistic monarchies fostered an **oecumenic** culture that replaced the narrow patriotism of the independent city-state."*

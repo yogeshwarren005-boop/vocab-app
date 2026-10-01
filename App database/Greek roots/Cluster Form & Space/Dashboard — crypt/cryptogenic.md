@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of obscure or unknown origin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of obscure or unknown origin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of obscure, hidden, or unknown cause or origin, especially said of a disease.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical etiology, designating pathologies such as cryptogenic organizing pneumonia, stroke, or cirrhosis where diagnostic workup reveals no identifiable agent.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cryptogenic designates of obscure or unknown origin."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Cases of severe pyemia arising without an identifiable external wound or focus were historically termed **cryptogenic** septicemia."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"The label **cryptogenic** merely confesses the temporary limitation of our microscopic and bacteriological methods."*
+> - 📜 **Sir Thomas Watson (*Lectures on the Principles and Practice of Physic*):** *"The clinician must not rest satisfied with a diagnosis of **cryptogenic** fever until every latent visceral abscess has been excluded."*

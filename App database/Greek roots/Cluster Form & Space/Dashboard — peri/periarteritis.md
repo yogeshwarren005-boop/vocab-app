@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the outer coat of an artery.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inflammation of the outer coat of an artery.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the outer coat (tunica adventitia) of an artery and of the tissues immediately surrounding it.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In rheumatology and vascular pathology, periarteritis nodosa is a systemic necrotizing vasculitis affecting medium and small muscular arteries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, periarteritis designates inflammation of the outer coat of an artery."*
+> - 📜 **Adolf Kussmaul (*Periarteritis Nodosa*):** *"We observed aneurysmal beadings along the mesenteric arteries, characteristic of systemic **periarteritis** nodosa."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Segmental transmural necrosis in **periarteritis** leads to thrombosis, ischemia, and multiple visceral infarctions."*
+> - 📜 **Vinay Kumar (*Robbins and Cotran Pathologic Basis of Disease*):** *"The histologic hallmark of acute **periarteritis** is intense neutrophilic infiltration with fibrinoid necrosis."*

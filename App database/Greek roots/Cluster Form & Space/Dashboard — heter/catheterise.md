@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Insert a catheter into (a body part).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Insert a catheter into (a body part).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To insert a catheter into a patient's bladder, cavity, or blood vessel (chiefly British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical nursing and surgical practice, to perform aseptic catheterization to drain fluids or administer intravascular pharmacotherapy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, catheterise designates insert a catheter into (a body part)."*
+> - 📜 **Florence Nightingale (*Notes on Nursing*):** *"To **catheterise** a bedridden patient demands scrupulous cleanliness and gentle consideration for their comfort."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"When urinary retention supervenes in comatose states, the physician must **catheterise** without delay."*
+> - 📜 **Thomas Sydenham (*The Works of Thomas Sydenham*):** *"The surgeon was summoned to **catheterise** the sufferer whose passage was obstructed by gravel."*

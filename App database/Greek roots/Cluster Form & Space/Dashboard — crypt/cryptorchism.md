@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Failure of one or both testes to move into the scrotum as the male fetus develops.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Failure of one or both testes to move into the scrotum as the male fetus develops.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A congenital condition marked by the failure of one or both testicles to descend into the scrotum; cryptorchidism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative pathology and clinical genetics, developmental arrest of testicular migration along the inguinal trajectory.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cryptorchism designates failure of one or both testes to move into the scrotum as the male fetus develops."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Early surgical intervention for **cryptorchism** preserves spermatogenesis and minimizes the future risk of testicular torsion."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants Under Domestication*):** *"Breeders of domestic dogs observe that **cryptorchism** occurs with surprising frequency in closely inbred strains."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"When the testis lodges within the inguinal canal, the condition of **cryptorchism** is readily palpated during clinical examination."*

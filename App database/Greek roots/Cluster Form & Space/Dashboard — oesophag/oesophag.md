@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek oesophag.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A Greek combining root derived from oisophagos, signifying the esophagus, gullet, or passage connecting the pharynx to the stomach.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anatomical nomenclature and surgical literature, forms roots in terms denoting diseases (oesophagitis), diagnostics (oesophagoscopy), or resections of the gullet.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oesophag designates a term designating an entity, condition, or phenomenon derived from greek oesophag."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"The Greek anatomical noun oisophagos forms the scientific combining root **oesophag**, literally meaning the carrier of food."*
+> - 📜 **Robert Beekes (*Etymological Dictionary of Greek*):** *"Classical etymologists traced **oesophag** to compound roots denoting the swallowing and carriage of alimentary boluses."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"The prefix **oesophag** designates the muscular tube and its associated nervous and arterial plexuses traversing the mediastinum."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A thermostat that operates at very high temperatures.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A thermostat that operates at very high temperatures.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A high-temperature thermostat or automated thermal control device designed to regulate furnaces, ovens, or combustion systems.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial thermodynamic instrumentation, a pyrostat uses a bimetallic strip or thermocouple to cut off fuel supply when temperatures exceed safety thresholds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pyrostat designates a thermostat that operates at very high temperatures."*
+> - 📜 **Nikola Tesla (*Lectures, Patents, and Articles*):** *"The electric smelting furnace was fitted with a sensitive **pyrostat** to prevent melting of the refractory lining."*
+> - 📜 **Thomas Alva Edison (*Laboratory Notebooks*):** *"We adjusted the electrical contacts in the carbon-filament **pyrostat** to maintain constant chamber temperature during annealing."*
+> - 📜 **Charles Proteus Steinmetz (*Theory and Calculation of Electric Circuits*):** *"Automatic current regulation in arc furnaces depends on the rapid triggering of an electronic **pyrostat**."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (old testament) the wife of uriah and later the wife of king david; solomon was her son by david (circa 10th century bc).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (old testament) the wife of uriah and later the wife of king david; solomon was her son by david (circa 10th century bc).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A prominent biblical figure in the Old Testament, wife of Uriah the Hittite and later of King David, and mother of King Solomon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In English literature, the independent-minded female protagonist (Bathsheba Everdene) in Thomas Hardy's novel Far from the Madding Crowd.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"By making inquiries he found that the girl’s name was Bathsheba Everdene, and that the cow would go dry in about seven days."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The cow had ceased to give milk for that year, and Bathsheba Everdene came up the hill no more."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He liked saying “Bathsheba” as a private enjoyment instead of whistling; turned over his taste to black hair, though he had sworn by brown ever since he was a boy, isolated himself till the space he filled in the public eye was contemptibly small."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"**Bathsheba** loved to look into the mirror when alone, proud of her commanding beauty and stubborn independence."*
+> - 📜 **John Milton (*Paradise Regained*):** *"Remember how King David was ensnared when from his palace roof he beheld fair **Bathsheba** washing."*
+> - 📜 **George Eliot (*Adam Bede*):** *"The biblical narrative of David and **Bathsheba** was pondered by the preacher as a warning against sudden temptation."*

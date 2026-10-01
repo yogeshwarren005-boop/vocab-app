@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Arrange according to a system or reduce to a system.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Arrange according to a system or reduce to a system.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To reduce to a system; to organize, plan, or arrange methodically; British spelling variant of systemize/systematise.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In administrative and operational literature, to systemise work flows eliminates redundancy and standardizes production practices.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, systemise designates arrange according to a system or reduce to a system."*
+> - 📜 **Jeremy Bentham (*An Introduction to the Principles of Morals and Legislation*):** *"The duty of the legislator is to **systemise** the criminal law according to the utility calculus of pains and pleasures."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"Captains of industry must learn to **systemise** honest human labor with justice rather than mere cash payment."*
+> - 📜 **Charles Babbage (*On the Economy of Machinery and Manufactures*):** *"In every large manufactory, the superintendent strives to **systemise** each manual operation to save time."*

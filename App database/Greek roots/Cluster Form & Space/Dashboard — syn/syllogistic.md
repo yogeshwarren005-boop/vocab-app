@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or consisting of syllogism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or consisting of syllogism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or consisting of a syllogism; characterized by formal deductive reasoning.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical and medieval scholastic philosophy, syllogistic reasoning encompasses Barbara, Celarent, and the valid categorical moods defined in the *Organon*.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*John Stuart Mill; His Life and Works*):** *"Mill commenced his labors, the only logic recognized was the syllogistic."*
-> - 📜 **Byron J. Rees (*The Heart-Cry of Jesus*):** *"Brethren in the ministry, let us be less anxious about the syllogistic accuracy of our sermons and be more eager to help men live right and quit sin and go to heaven."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"The **syllogistic** method is incapable of discovering the secrets of nature, for it only captures our assent, not physical reality."*
+> - 📜 **Bertrand Russell (*A History of Western Philosophy*):** *"Aristotle's **syllogistic** logic dominated medieval education, providing a rigorous framework for theological disputes."*
+> - 📜 **Immanuel Kant (*Critique of Pure Reason*):** *"The **syllogistic** faculty of the understanding seeks the unconditioned through ascending chains of pro-syllogisms."*

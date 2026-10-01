@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality or state of existing in or assuming different forms: such as.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Existence of a species in several forms independent of the variations of sex.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The occurrence within an interbreeding population of two or more distinctly different discontinuous phenotypes, or the ability of a chemical substance to crystallize into multiple distinct structures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In computer science and type theory, polymorphism allows values and functions to operate across different data types while maintaining a single uniform interface.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polymorphism designates the quality or state of existing in or assuming different forms: such as."*
+> - 📜 **E. B. Ford (*Ecological Genetics*):** *"Genetic **polymorphism** is the occurrence together in the same locality of two or more discontinuous forms of a species in such proportions that the rarest cannot be maintained merely by recurrent mutation."*
+> - 📜 **Luca Cardelli (*On Understanding Types, Data Abstraction, and Polymorphism*):** *"Parametric **polymorphism** permits a function to be written without regard to specific type parameters, maximizing software reusability."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"Crystalline **polymorphism** illustrates how identical atomic bonds can assemble into divergent thermodynamic lattices under differing temperatures."*

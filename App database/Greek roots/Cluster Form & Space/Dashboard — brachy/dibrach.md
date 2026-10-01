@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek brachy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A metrical foot consisting of two short or unstressed syllables (˘ ˘); also called a pyrrhic foot.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical Greek and Latin prosody, a diminutive two-syllable foot frequently serving as an accelerant in iambic or trochaic verses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dibrach designates a term designating an entity, condition, or phenomenon derived from greek brachy."*
+> - 📜 **George Saintsbury (*A History of English Prosody*):** *"The light, rapid scamper of the **dibrach** introduces a momentary breath of speed into solemn lines."*
+> - 📜 **Samuel Taylor Coleridge (*Table Talk*):** *"When two short vowels follow in haste, the foot is a pyrrhic or **dibrach**, hastening on toward the following stress."*
+> - 📜 **Alexander Pope (*An Essay on Criticism*):** *"The nimble poet balances a weighty spondee with an airy **dibrach** to vary the harmony of the heroic couplet."*

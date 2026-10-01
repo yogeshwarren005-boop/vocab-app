@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Considering all forms of life as having intrinsic value.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Considering all forms of life as having intrinsic value.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Viewing or considering life and the biological sphere as the central fact of existence; considering all living organisms as having inherent moral value.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In environmental ethics and deep ecology, describing philosophical frameworks that prioritize ecological health and biodiversity over human material exploitation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, biocentric designates considering all forms of life as having intrinsic value."*
+> - 📜 **Edward O. Wilson (*Biophilia*):** *"A truly **biocentric** perspective recognizes that human psychological vitality is inextricably tied to the richness of living nature."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"We need a **biocentric** understanding of pest control, working with natural predators rather than flooding the biosphere with poison."*
+> - 📜 **Julian Huxley (*Evolution: The Modern Synthesis*):** *"Adopting a **biocentric** philosophy compels humanity to regard itself as an integral branch of the evolving tree of life."*

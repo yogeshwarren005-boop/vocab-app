@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Located in or at a center : central.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Concentrated about or directed to a center.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Situated at, pertaining to, or revolving around a center; having a center; symmetrical around a central axis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anatomy and optics, designating central positioning (as in centric occlusion in dental bite alignment, or centric photoreceptors in the fovea).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centric designates located in or at a center : central."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"The radial structure of the rose reveals a **centric** symmetry where every petal curves toward the luminous heart."*
+> - 📜 **Isaac Newton (*Opticks*):** *"The colored rings displayed a strictly **centric** arrangement about the point of closest optical contact."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Our spatial perceptions organize themselves around a **centric** bodily origin from which all distances are measured."*

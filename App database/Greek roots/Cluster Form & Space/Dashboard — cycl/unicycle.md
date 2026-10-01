@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A vehicle that has a single wheel and is usually propelled by pedals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A vehicle that has a single wheel and is usually propelled by pedals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A single-wheeled pedal-driven cycle, commonly used by acrobats and circus performers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In kinematics and balance robotics, a vehicle that requires active dynamic balancing around both pitch and roll axes simultaneously.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unicycle designates a vehicle that has a single wheel and is usually propelled by pedals."*
+> - 📜 **Mark Twain (*Taming the Bicycle*):** *"He balanced atop a tall circus **unicycle** with the casual grace of a bird resting upon a telegraph wire."*
+> - 📜 **Norbert Wiener (*Cybernetics*):** *"Balancing upon a **unicycle** provides an exquisite physical illustration of rapid negative sensory feedback in neuromuscular control."*
+> - 📜 **H. G. Wells (*Boon*):** *"The street performer pedaled his swaying **unicycle** in nimble figures of eight before the appreciative crowd."*

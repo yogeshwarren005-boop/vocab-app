@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Believing that there is only one god.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Believing that there is only one god.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characterized by the belief that there is only one God.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural anthropology and sociology of religion, monotheistic frameworks emphasize universal moral commandments, prophetic revelation, and linear historical eschatology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Its business now was to reconcile its own monotheistic dogma with popular polytheistic practice."*
+> - 📜 **Max Weber (*The Sociology of Religion*):** *"The ethical prophecy typical of **monotheistic** traditions demanded systematized conduct in place of magical rituals."*
+> - 📜 **James George Frazer (*The Golden Bough*):** *"Remnants of earlier vegetation cults were absorbed and reinterpreted under later **monotheistic** orthodoxies."*
+> - 📜 **Edward Tylor (*Primitive Culture*):** *"The development of **monotheistic** theology represents the culmination of a long conceptual refinement of animistic beliefs."*

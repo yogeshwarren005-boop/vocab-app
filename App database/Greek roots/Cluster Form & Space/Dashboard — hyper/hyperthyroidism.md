@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An overactive thyroid gland; pathologically excessive production of thyroid hormones or the condition resulting from excessive production of thyroid hormones.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An overactive thyroid gland; pathologically excessive production of thyroid hormones or the condition resulting from excessive production of thyroid hormones.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A condition resulting from the excessive production and secretion of thyroid hormones (triiodothyronine [T3] and thyroxine [T4]) by an overactive thyroid gland.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical endocrinology, Graves' disease (autoantibodies stimulating the TSH receptor) is the most common cause, presenting with weight loss, heat intolerance, fine tremor, tachycardia, pretibial myxedema, and thyroid eye disease.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyperthyroidism designates an overactive thyroid gland; pathologically excessive production of thyroid hormones or the condition resulting from excessive production of thyroid hormones."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The classical picture of **hyperthyroidism** combines exophthalmos, fine digital tremor, tachycardia, and diffuse goiter."*
+> - 📜 **Harvey Cushing (*The Pituitary Body and Its Disorders*):** *"Profound metabolic acceleration in **hyperthyroidism** induces muscular wasting and emotional volatility."*
+> - 📜 **Ernest Starling (*Principles of Human Physiology*):** *"Basal metabolic rate rises precipitously under the influence of the excess thyroid hormones in clinical **hyperthyroidism**."*

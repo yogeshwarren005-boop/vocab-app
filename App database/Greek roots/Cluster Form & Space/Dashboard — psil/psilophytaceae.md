@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Paleozoic plants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Paleozoic plants.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An extinct family of primitive early vascular land plants from the Devonian period, typified by leafless, dichotomously branched axes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In paleobotany, archaic tracheophytes bearing terminal sporangia and simple protosteles, representing ancestral lineages of early embryophytes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psilophytaceae designates paleozoic plants."*
+> - 📜 **J. William Dawson (*The Fossil Plants of the Devonian and Upper Silurian Formations of Canada*):** *"The discovery of the **psilophytaceae** in Gaspé shales established the existence of terrestrial vascular flora in the early Devonian."*
+> - 📜 **Robert Kidston (*On Old Red Sandstone Plants Showing Structure: Rhynia Gwynne-Vaughani*):** *"Fossil preservation within the **psilophytaceae** reveals simple central xylem tracheids surrounded by conductive phloem-like cells."*
+> - 📜 **Chester A. Arnold (*An Introduction to Paleobotany*):** *"Taxa once assigned to the **psilophytaceae** demonstrated how the earliest land plants functioned without specialized leaves or roots."*

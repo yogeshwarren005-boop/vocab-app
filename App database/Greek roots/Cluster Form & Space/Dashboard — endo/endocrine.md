@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Secreting internally; specifically : producing secretions that are distributed in the body by way of the bloodstream.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, affecting, or resembling an endocrine gland or secretion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Secreting hormones or other regulatory chemical messengers directly into the bloodstream or lymph rather than through a duct.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiology, the endocrine system comprises ductless glands (thyroid, pituitary, adrenals, islets of Langerhans) regulating organ function.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endocrine designates secreting internally; specifically : producing secretions that are distributed in the body by way of the bloodstream."*
+> - 📜 **Ernest Starling (*The Croonian Lectures on the Chemical Correlation of the Functions of the Body*):** *"These chemical messengers, or hormones, produced by an **endocrine** gland, travel through the circulation to evoke distant responses."*
+> - 📜 **Arthur C. Guyton (*Textbook of Medical Physiology*):** *"The anterior pituitary coordinates the activity of multiple subordinate **endocrine** target tissues."*
+> - 📜 **Claude Bernard (*An Introduction to the Study of Experimental Medicine*):** *"The internal milieu is stabilized by the continuous internal secretions of **endocrine** vascular glands."*

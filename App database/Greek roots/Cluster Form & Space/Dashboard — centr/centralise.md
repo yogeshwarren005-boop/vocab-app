@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make central.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make central.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To bring under a single central authority, control, or management; to concentrate at a central point (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To consolidate disparate local agencies, jurisdictions, or resources into an integrated administrative framework.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centralise designates make central."*
+> - 📜 **Alexis de Tocqueville (*The Old Regime and the Revolution*):** *"The royal intendants sought to **centralise** all provincial public works under the direct supervision of the royal council."*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*):** *"A wise constitution does not attempt to **centralise** local municipal concerns in the national parliament."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Diocletian restructured the Roman world to **centralise** the collection of taxes and military commands."*

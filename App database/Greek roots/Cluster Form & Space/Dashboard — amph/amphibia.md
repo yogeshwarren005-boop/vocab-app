@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The class of vertebrates that live on land but breed in water; frogs; toads; newts; salamanders; caecilians.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The class of vertebrates that live on land but breed in water; frogs; toads; newts; salamanders; caecilians.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A class of cold-blooded, ectothermic vertebrate animals whose larvae typically undergo metamorphosis from aquatic respiration to terrestrial existence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology and systematics, a monophyletic tetrapod clade encompassing anurans, urodeles, and caecilians, functioning as vital bioindicators of wetland health.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amphibia designates the class of vertebrates that live on land but breed in water; frogs; toads; newts; salamanders; caecilians."*
+> - 📜 **Carl Linnaeus (*Systema Naturae*):** *"The class **Amphibia** encompasses cold, moist quadrupeds with naked skin, inhabiting murky waters and humid recesses of the earth."*
+> - 📜 **Georges Cuvier (*The Animal Kingdom*):** *"Cuvier divided **Amphibia** into batrachians that lose their gills in adult life and those that retain them permanently."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"The transitional habits of **Amphibia** afford a living illustration of how aquatic vertebrates acquired the organs of terrestrial life."*

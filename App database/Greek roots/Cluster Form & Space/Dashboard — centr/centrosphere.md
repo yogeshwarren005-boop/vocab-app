@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek centr.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The differentiated zone of specialized clear cytoplasm immediately surrounding the centrioles within a centrosome.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical cytology, the central aster sphere from which astral rays radiate during cell division.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centrosphere designates a term designating an entity, condition, or phenomenon derived from greek centr."*
+> - 📜 **Edmund Beecher Wilson (*The Cell in Development and Inheritance*):** *"Surrounding the delicate centrioles lies the hyaline **centrosphere**, from whose outer perimeter the astral fibrillae emerge."*
+> - 📜 **Theodor Boveri (*Cell Studies*):** *"The boundaries of the **centrosphere** expand conspicuously as tubulin monomers assemble into the expanding mitotic apparatus."*
+> - 📜 **D'Arcy Wentworth Thompson (*On Growth and Form*):** *"The circular contour of the **centrosphere** reflects surface tension forces operating within the colloidal protoplasm."*

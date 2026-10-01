@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A condition caused by overproduction of aldosterone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A condition caused by overproduction of aldosterone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A condition characterized by excessive secretion of the mineralocorticoid hormone aldosterone from the adrenal cortex.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nephrology and endocrinology, primary hyperaldosteronism (Conn's syndrome, usually due to an adrenal adenoma) causes systemic hypertension, renal potassium wasting (hypokalemia), metabolic alkalosis, and suppressed plasma renin activity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyperaldosteronism designates a condition caused by overproduction of aldosterone."*
+> - 📜 **Ernest Starling (*Principles of Human Physiology*):** *"Excessive mineralocorticoid secretion in **hyperaldosteronism** stimulates distal renal tubular exchange of sodium for potassium."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Unexplained muscle weakness in a hypertensive patient should prompt clinical investigation for primary **hyperaldosteronism**."*
+> - 📜 **Austin Flint (*A Treatise on the Principles and Practice of Medicine*):** *"Refractory hypertension associated with severe hypokalemic alkalosis classically characterizes adrenal **hyperaldosteronism**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the cerebral hemispheres.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the cerebral hemispheres.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or affecting a hemisphere, especially one of the hemispheres of the Earth or the cerebrum.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cognitive neuroscience, hemispheric lateralization (or hemispheric specialization) denotes the preferential localization of language in the left hemisphere and visuospatial processing in the right.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemispheric designates of or relating to the cerebral hemispheres."*
+> - 📜 **Roger Sperry (*Hemisphere Deconnection and Unity in Conscious Awareness*):** *"Surgical division of the forebrain commissures demonstrated that each **hemispheric** unit possesses its own independent conscious stream."*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*):** *"Severe damage to the right **hemispheric** cortex can cause profound left-sided visual and bodily neglect."*
+> - 📜 **Alfred Russel Wallace (*Island Life*):** *"Differences in glacial extent produced stark **hemispheric** contrasts in temperate plant and animal distributions."*

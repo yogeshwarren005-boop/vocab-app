@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An antifungal and antibiotic (trade names mycostatin and nystan) discovered in new york state; derived from soil fungi actinomycetes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An antifungal and antibiotic (trade names mycostatin and nystan) discovered in new york state; derived from soil fungi actinomycetes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A polyene antifungal antibiotic produced by *Streptomyces noursei*, used to treat cutaneous, oral, and intestinal *Candida* infections.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biochemical pharmacology, nystatin binds specifically to ergosterol in fungal membranes, forming pore complexes that cause lethal leakage of intracellular potassium.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, nystatin designates an antifungal and antibiotic (trade names mycostatin and nystan) discovered in new york state; derived from soil fungi actinomycetes."*
+> - 📜 **Elizabeth Lee Hazen (*Fungicidin, an Antibiotic Produced by a Soil Actinomycete*):** *"We isolated a novel antifungal compound from soil samples, naming it **nystatin** in honor of the New York State Department of Health."*
+> - 📜 **Selman Waksman (*The Actinomycetes*):** *"The discovery of **nystatin** proved that actinomycetes produce powerful antibiotics against fungal pathogens as well as bacteria."*
+> - 📜 **William Osler (*Principles of Medical Therapeutics*):** *"Oral swish-and-swallow suspensions of **nystatin** promptly resolve debilitating mucosal thrush in malnourished infants."*

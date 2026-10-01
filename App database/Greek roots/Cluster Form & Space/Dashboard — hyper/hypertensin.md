@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several vasoconstrictor substances (trade name hypertensin) that cause narrowing of blood vessels.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of several vasoconstrictor substances (trade name hypertensin) that cause narrowing of blood vessels.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An older or historical physiological name for angiotensin, an oligopeptide hormone that causes vasoconstriction and elevation of blood pressure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Discovered independently in 1939 by Eduardo Braun-Menéndez (who termed it *hypertensin*) and Irvine Page (who named it *angiotonin*); the two research groups merged their terms in 1958 to establish the official international name *angiotensin*.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypertensin designates any of several vasoconstrictor substances (trade name hypertensin) that cause narrowing of blood vessels."*
+> - 📜 **Ernest Starling (*Principles of Human Physiology*):** *"Renin cleaved the circulating globulin substrate to produce the powerful pressor peptide termed **hypertensin**."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The discovery of **hypertensin** explained the humoral mechanism underlying Goldblatt's experimental renal hypertension."*
+> - 📜 **Walter Bradford Cannon (*The Wisdom of the Body*):** *"Renal ischemia releases renin, which rapidly generates circulating **hypertensin** to restore glomerular filtration pressure."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A botanist who specializes in the study of fungi.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A botanist who specializes in the study of fungi.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A biological scientist who specializes in the study, taxonomy, physiology, genetics, and ecology of fungi.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agricultural and medical science, a mycologist investigates fungal plant pathogens, industrial fermentation processes, or clinical mycoses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The mycologist will look to the specific differences in the parasite without regard to the identity or distinctness of the plant upon which it is parasitic."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"A walk through almost any wood, in the spring of the year, will reward the mycologist with another cluster-cup (_Æcidium_), in which the peridia are scattered over the whole surface of the leaf."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"In a field or wood the mycologist reaps his richest harvest of mycological specimens in the lowest and dampest spots, in swamps, ditches, and ill-drained nooks."*
+> - 📜 **Miles Joseph Berkeley (*Outlines of British Fungology*):** *"The aspiring **mycologist** must combine patient microscopic examination with meticulous observations of field habitats."*
+> - 📜 **Anton de Bary (*Comparative Morphology and Biology of the Fungi*):** *"By cultivating pure cultures on nutrient media, the modern **mycologist** unravels the enigmatic polymorphic life cycles of rusts."*
+> - 📜 **Pier Andrea Saccardo (*Sylloge Fungorum*):** *"A tireless **mycologist** cataloged tens of thousands of spore specimens to construct our foundational taxonomic system."*

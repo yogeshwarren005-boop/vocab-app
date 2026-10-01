@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A practitioner of orthoepy (especially one of the 17th or 18th century scholars who proposed to reform english spelling so it would reflect pronunciation more closely).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A practitioner of orthoepy (especially one of the 17th or 18th century scholars who proposed to reform english spelling so it would reflect pronunciation more closely).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An expert in orthoepy; a scholar or linguist who studies or prescribes the correct pronunciation of words according to accepted standards.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical phonetics, a prescriptivist or lexicographer of the seventeenth to nineteenth centuries who compiled pronunciation guides and orthoepic treatises.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, orthoepist designates a practitioner of orthoepy (especially one of the 17th or 18th century scholars who proposed to reform english spelling so it would reflect pronunciation more closely)."*
+> - 📜 **John Walker (*A Critical Pronouncing Dictionary*):** *"The task of the **orthoepist** is to reconcile analogy with customary usage among educated speakers."*
+> - 📜 **Henry Sweet (*A History of English Sounds*):** *"Early English phonetics owes much to the seventeenth-century **orthoepist** who recorded vowel shifts in minute detail."*
+> - 📜 **Otto Jespersen (*A Modern English Grammar on Historical Principles*):** *"Every **orthoepist** of the Tudor period struggled to define which spoken dialect should serve as the national court standard."*

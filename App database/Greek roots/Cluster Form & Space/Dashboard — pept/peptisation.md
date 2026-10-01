@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of converting to a sol; bringing to a colloidal solution.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process of converting to a sol; bringing to a colloidal solution.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The dispersion of a coagulated or precipitated colloid into a stable colloidal sol, typically by adding an electrolyte or peptizing agent (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In colloid chemistry, washing away coagulating electrolytes or adding ions that impart electrostatic surface charge accomplishes chemical peptisation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, peptisation designates the process of converting to a sol; bringing to a colloidal solution."*
+> - 📜 **Thomas Graham (*Liquid Diffusion Applied to Analysis*):** *"The re-dissolution of hydrated gelatinous alumina by traces of acid represents genuine colloidal **peptisation**."*
+> - 📜 **Herbert Freundlich (*Colloid and Capillary Chemistry*):** *"Electrolyte-induced **peptisation** occurs when adsorbed ions restore the mutual electrostatic repulsion of dispersed particles."*
+> - 📜 **Wolfgang Ostwald (*Theoretical and Applied Colloid Chemistry*):** *"Reversible sol-gel transformation relies fundamentally upon cyclic coagulation and **peptisation**."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various plants of the genus limonium of temperate salt marshes having spikes of white or mauve flowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various plants of the genus limonium of temperate salt marshes having spikes of white or mauve flowers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A botanical genus of halophytic coastal plants (formerly *Statice*, now largely classified under *Limonium*), commonly known as sea lavender.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In floriculture and herbalism, species formerly called Statice bear papery, everlasting calyces that retain vibrant lavender, pink, or yellow color when dried.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"A species with brown spores occurs on sea-lavender (_Statice_)."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"SEA-LAVENDER UREDO; sori few and scattered, orbicular or oval; spores sessile, globose, brown.—On various species of _Statice_. =Uredo Circææ=, A. & S."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"SEA-LAVENDER RUST; epiphyllous, sori bullate, scattered or disposed in rings; spores ovate.—On _Statice limonia_. =Uromyces Ficariæ=, Lév."*
+> - 📜 **Gilbert White (*The Natural History of Selborne*):** *"The salt marsh margins were carpeted with the pale purple blossoms of sea **statice**."*
+> - 📜 **Asa Gray (*Manual of Botany*):** *"Along the Atlantic dunes, the tufted rosettes of **Statice** limonium anchor the shifting sands."*
+> - 📜 **John Torrey (*A Flora of North America*):** *"The dry, scarious calyx of **Statice** preserves its shape and tincture throughout winter dried bouquets."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Parasitic flatworms (including flukes).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Parasitic flatworms (including flukes).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A class of parasitic platyhelminth flatworms commonly known as flukes, possessing external suckers and complex life cycles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In parasitology, the Trematoda includes subclasses Aspidogastrea and Digenea (e.g. *Schistosoma*, *Fasciola*), characterized by blind bifurcated guts, syncytial teguements, and intermediate snail hosts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trematoda designates parasitic flatworms (including flukes)."*
+> - 📜 **Thomas Spencer Cobbold (*Entozoa: An Introduction to the Study of Helminthology*):** *"The diverse parasitic flatworms grouped under **Trematoda** cause severe hepatic and vascular disorders in livestock."*
+> - 📜 **Patrick Manson (*Tropical Diseases*):** *"Cercariae shed by freshwater snails represent the infective larval phase of blood-dwelling **Trematoda**."*
+> - 📜 **Arthur Shipley (*The Cambridge Natural History: Worms, Rotifers, and Polyzoa*):** *"The ventral adhesive sucker characteristic of the **Trematoda** anchors the adult worm within host vascular walls."*

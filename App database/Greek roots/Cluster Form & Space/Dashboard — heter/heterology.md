@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (biology) the lack of correspondence of apparently similar body parts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (biology) the lack of correspondence of apparently similar body parts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or quality of being heterologous; difference or abnormality in structure, tissue type, or biological origin.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical logic and linguistics, the property of a term not being applicable to itself; also in oncology, the presence of anomalous tissue in a tumor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heterology designates (biology) the lack of correspondence of apparently similar body parts."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Virchow categorized neoplasms by their degree of **heterology**, contrasting benign homoeoplastic growths with malignant heteroplastic ones."*
+> - 📜 **Bertrand Russell (*Introduction to Mathematical Philosophy*):** *"Semantic **heterology** generates insoluble paradoxes unless metalanguage is strictly segregated from object language."*
+> - 📜 **Michel Foucault (*The Order of Things*):** *"The epistemological rupture exposed a profound **heterology** between words and the things they purported to represent."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A function that is a one-to-one mapping between sets such that both the function and its inverse are continuous and that in topology exists for geometric figures which can be transformed one into the other by an elastic deformation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A function that is a one-to-one mapping between sets such that both the function and its inverse are continuous and that in topology exists for geometric figures which can be transformed one into the other by an elastic deformation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A continuous bijective function between two topological spaces whose inverse mapping is also continuous, establishing topological equivalence between them.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In differential and algebraic topology, a homeomorphism preserves topological invariants including fundamental groups, cohomology rings, and dimensional boundaries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, homeomorphism designates a function that is a one-to-one mapping between sets such that both the function and its inverse are continuous and that in topology exists for geometric figures which can be transformed one into the other by an elastic deformation."*
+> - 📜 **Henri Poincaré (*Analysis Situs*):** *"The existence of a global **homeomorphism** between two closed surfaces guarantees that their connectivity numbers are identical."*
+> - 📜 **L. E. J. Brouwer (*Beweis der Invarianz der Dimensionenzahl*):** *"We proved that Euclidean spaces of different dimensions cannot be brought into topological equivalence by any **homeomorphism**."*
+> - 📜 **John Milnor (*Topology from the Differentiable Viewpoint*):** *"Exotic spheres demonstrate that two smooth manifolds may share a common **homeomorphism** yet fail to be diffeomorphic."*

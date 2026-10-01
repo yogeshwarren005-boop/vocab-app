@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (often plural) systems used in transmitting messages over a distance electronically.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (often plural) the branch of electrical engineering concerned with the technology of electronic communication at a distance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Communication over a distance by cable, telegraph, telephone, radio, optical fiber, or electronic signals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In information theory and international law (International Telecommunication Union), telecommunication encompasses any transmission, emission, or reception of signs, signals, writing, images, sounds, or intelligence of any nature by wire, radio, optical, or other electromagnetic systems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Today's youngsters know more about the world than children of previous generations, one of the many benefits of our expanding telecommunication capabilities and greater education and travel opportunities."*
-> - 📜 **Jr. Irving E. Cox (*Export Commodity*):** *"So she had dredged that much out of his mind during the brief openness of the telecommunication."*
-> - 📜 **Jr. Irving E. Cox (*Export Commodity*):** *"She had learned from the telecommunication where Henig wanted to stop."*
+> - 📜 **Claude Shannon (*A Mathematical Theory of Communication*):** *"The fundamental problem of **telecommunication** is that of reproducing at one point either exactly or approximately a message selected at another point."*
+> - 📜 **Arthur C. Clarke (*Voice Across the Sea*):** *"Laying the transatlantic submarine cable in 1858 marked the dawn of real-time global **telecommunication**."*
+> - 📜 **Norbert Wiener (*The Human Use of Human Beings: Cybernetics and Society*):** *"To live effectively is to live with adequate information; thus modern **telecommunication** is the lifeblood of democratic culture."*

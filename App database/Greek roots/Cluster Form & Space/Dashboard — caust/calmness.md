@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Steadiness of mind under stress.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An absence of strong winds or rain.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or quality of being calm, tranquil, serene, and undisturbed; freedom from agitation, wind, or emotional storm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Stoic philosophy, the virtue of ataraxia or equanimity, maintaining inner harmony regardless of external misfortune.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have been i’ th’ marketplace; and, sir, ’tis fit You make strong party or defend yourself By calmness or by absence."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"It inspired me with new fortitude and new calmness to find that it was I who was under the necessity of reassuring him."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Bagnet to look upon with the calmness proper to her position."*
+> - 📜 **William Osler (*Aequanimitas*):** *"Imperturbability means coolness and presence of mind under all circumstances, **calmness** amid storm, and clearness of judgment in moments of grave peril."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"A broad sheet of water gives a wonderful sensation of **calmness** and repose to the surrounding landscape."*
+> - 📜 **Jane Austen (*Sense and Sensibility*):** *"Elinor sustained the bitter disappointment with an outward **calmness** that masked her profound inner anguish."*

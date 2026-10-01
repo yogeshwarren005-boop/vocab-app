@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (pregnancy) the mucous membrane that lines the uterus; thickens under hormonal control and (if pregnancy does not occur) is shed in menstruation; if pregnancy occurs it is shed along with the placenta at parturition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (pregnancy) the mucous membrane that lines the uterus; thickens under hormonal control and (if pregnancy does not occur) is shed in menstruation; if pregnancy occurs it is shed along with the placenta at parturition.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The mucous membrane lining the inner cavity of the mammalian uterus, which thickens and sheds cyclically in menstruating primates.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In reproductive histology, the endometrium is divided into a superficial functional layer (stratum functionale) and a permanent regenerative basal layer (stratum basale).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endometrium designates (pregnancy) the mucous membrane that lines the uterus; thickens under hormonal control and (if pregnancy does not occur) is shed in menstruation; if pregnancy occurs it is shed along with the placenta at parturition."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"The **endometrium** is lined by simple columnar ciliated epithelium and studded with tubular uterine glands."*
+> - 📜 **Arthur C. Guyton (*Textbook of Medical Physiology*):** *"During the luteal phase, the **endometrium** doubles in thickness, storing glycogen and lipids to nourish the early embryo."*
+> - 📜 **Leon Speroff (*Clinical Gynecologic Endocrinology and Infertility*):** *"Synchronized crosstalk between blastocyst trophoblast and maternal **endometrium** is essential for successful implantation."*

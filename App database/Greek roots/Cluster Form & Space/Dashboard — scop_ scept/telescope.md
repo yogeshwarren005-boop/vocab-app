@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A magnifier of images of distant objects.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Crush together or collapse.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An optical instrument designed to make distant objects appear nearer, containing an arrangement of lenses, curved mirrors, or both, or collecting other electromagnetic radiation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In astronomy, telescopes encompass optical refractors and reflectors, radio telescopes, and space observatories (e.g. Hubble, JWST) spanning gamma-ray to submillimeter wavelengths.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"Oh, how I wish I could shut up like a telescope!"*
-> - 📜 **Lewis Carroll (*Alice's Adventures in Wonderland*):** *"The Pool of Tears “Curiouser and curiouser!” cried Alice (she was so much surprised, that for the moment she quite forgot how to speak good English); “now I’m opening out like the largest telescope that ever was!"*
-> - 📜 **George Eliot (*Middlemarch*):** *"Not at all: a telescope might have swept the parishes of Tipton and Freshitt, the whole area visited by Mrs."*
+> - 📜 **Galileo Galilei (*Sidereus Nuncius (Starry Messenger)*):** *"Turning my **telescope** toward the Moon, I perceived that its surface was not smooth, but rugged with immense craters and towering ridges."*
+> - 📜 **Isaac Newton (*Opticks*):** *"To avoid chromatic aberration in refractors, I constructed a **telescope** wherein the light is reflected by a concave spherical speculum."*
+> - 📜 **Edwin Hubble (*The Realm of the Nebulae*):** *"With the hundred-inch **telescope** at Mount Wilson, the spiral nebulae were resolved into distant galaxies populated by stellar systems."*

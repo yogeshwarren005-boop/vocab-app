@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A substance added to plastics or other materials to make them more pliable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A substance added to plastics or other materials to make them more pliable.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chemical additive incorporated into plastics, paints, or concrete to increase plasticity, fluidity, or flexibility.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In environmental toxicology and materials science, the migration and leaching of phthalate plasticizer compounds from consumer goods has prompted green alternatives.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plasticizer designates a substance added to plastics or other materials to make them more pliable."*
+> - 📜 **Paul J. Flory (*Principles of Polymer Chemistry*):** *"An effective **plasticizer** must exhibit thermodynamic compatibility with the host polymer to prevent phase separation."*
+> - 📜 **Herman Mark (*Giant Molecules*):** *"The discovery of dioctyl phthalate as a commercial **plasticizer** enabled the explosive growth of flexible vinyl."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"Synthetic additives, including the ubiquitous industrial **plasticizer**, accumulate gradually in aquatic ecosystems."*

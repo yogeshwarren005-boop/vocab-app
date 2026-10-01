@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek pyg.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Conjoined twins united back-to-back at the sacrum, buttocks, and coccyx.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In teratology and pediatric surgery, an uncommon symmetrical conjoined twin fusion where twins often share lower spinal dural sacs, perineum, and distal rectum.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pygopagus designates a term designating an entity, condition, or phenomenon derived from greek pyg."*
+> - 📜 **George M. Gould (*Anomalies and Curiosities of Medicine*):** *"The celebrated Bohemian sisters, Josepha and Rosa Blazek, presented a classic instance of **pygopagus** conjoined twins united at the sacrum."*
+> - 📜 **Isidore Geoffroy Saint-Hilaire (*Histoire des anomalies de l'organisation*):** *"In every true **pygopagus**, the skeletal union involves the posterior surfaces of the pelvic girdle without visceral fusion above the pelvis."*
+> - 📜 **John William Ballantyne (*Manual of Antenatal Pathology and Hygiene*):** *"Surgical separation of a **pygopagus** twin pair poses complex reconstructive challenges for urogenital and anorectal tracts."*

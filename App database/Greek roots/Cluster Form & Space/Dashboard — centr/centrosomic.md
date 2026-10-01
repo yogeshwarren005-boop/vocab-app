@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a centrosome.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a centrosome.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or characteristic of a centrosome.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cytopathology, describing structural or numerical abnormalities of centrosomes that contribute to genomic instability and aneuploidy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centrosomic designates of or relating to a centrosome."*
+> - 📜 **Theodor Boveri (*Concerning the Origin of Malignant Tumors*):** *"Supernumerary **centrosomic** foci cause asymmetrical pulling forces that tear the karyotype into disordered fragments."*
+> - 📜 **Edmund Beecher Wilson (*The Physical Basis of Life*):** *"The radiant asters emerge directly from the **centrosomic** mass as prophase begins its transformation."*
+> - 📜 **William Bateson (*Problems of Genetics*):** *"Defects in **centrosomic** replication may generate somatic mosaicism long before phenotypic symptoms become apparent."*

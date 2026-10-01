@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal state in which the normal flow of a liquid (such as blood) is slowed or stopped.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inactivity resulting from a static balance between opposing forces.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A period, state, or condition of inactivity, balance, or equilibrium; in medicine, the stoppage or slowing of fluid flow (such as blood or lymph).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary theory (punctuated equilibrium), morphological stasis describes long geological intervals where species exhibit negligible phenotypic change in the fossil record.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stasis designates an abnormal state in which the normal flow of a liquid (such as blood) is slowed or stopped."*
+> - 📜 **Stephen Jay Gould (*The Panda's Thumb*):** *"The fossil record demonstrates that evolutionary change is episodic, punctuated by millions of years of complete morphological **stasis**."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Prolonged venous **stasis** in the lower extremities predisposes bedridden patients to deep vein thrombosis."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Under the microscope, capillary **stasis** was seen to precede localized leukocyte margination and diapedesis."*

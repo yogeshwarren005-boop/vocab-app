@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A malignant tumor of the epithelial tissue.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A malignant tumor of the epithelial tissue.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A benign or malignant tumor consisting of epithelial cells; a carcinoma of the skin or mucous membranes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nineteenth- and twentieth-century clinical oncology, epithelioma commonly referred to cutaneous basal cell or squamous cell carcinomas arising from epidermal or glandular structures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epithelioma designates a malignant tumor of the epithelial tissue."*
+> - 📜 **William Halsted (*Surgical Papers*):** *"Early and wide surgical excision remains the sovereign cure for cutaneous **epithelioma**."*
+> - 📜 **Jonathan Hutchinson (*Illustrations of Clinical Surgery*):** *"Chimney sweeps suffered from scrotal **epithelioma** caused by chronic exposure to coal tar and soot."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Solar keratosis in elderly outdoorsmen frequently transitions into a superficial **epithelioma** of the face."*

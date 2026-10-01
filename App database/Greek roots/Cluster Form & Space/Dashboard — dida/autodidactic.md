@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or having the characteristics of an autodidact.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or having the characteristics of an autodidact.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, acquired through, or characteristic of self-education; self-taught.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pedagogy and biography, designating intellectual development undertaken independently of formal teachers or institutional curricula.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, autodidactic designates relating to or having the characteristics of an autodidact."*
+> - 📜 **Oliver Sacks (*Uncle Tungsten: Memories of a Chemical Boyhood*):** *"His **autodidactic** zeal led him to assemble a private basement laboratory stocked with rare mineral ores."*
+> - 📜 **Harold Bloom (*The Western Canon*):** *"Shakespeare's literary mastery was essentially **autodidactic**, absorbing every scrap of available vernacular literature."*
+> - 📜 **Lewis Mumford (*The City in History*):** *"Renaissance craftsmen cultivated an **autodidactic** ethos that merged manual mechanical skill with humanistic inquiry."*

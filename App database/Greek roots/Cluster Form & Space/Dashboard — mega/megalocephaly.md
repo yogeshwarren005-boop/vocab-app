@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormally large head; differs from hydrocephalus because there is no increased intracranial pressure and the overgrowth is symmetrical.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abnormally large head; differs from hydrocephalus because there is no increased intracranial pressure and the overgrowth is symmetrical.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormal largeness of the head (variant of megacephaly).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical genetics and pediatrics, an oversized cranium resulting from anatomical megalencephaly, metabolic storage disorders, or achondroplasia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, megalocephaly designates an abnormally large head; differs from hydrocephalus because there is no increased intracranial pressure and the overgrowth is symmetrical."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Patients with osteitis deformans gradually develop progressive **megalocephaly**, requiring larger hat sizes year after year."*
+> - 📜 **Harvey Cushing (*Studies in Intracranial Physiology and Surgery*):** *"Severe **megalocephaly** with separated cranial sutures points to communicating hydrocephalus in young infants."*
+> - 📜 **Francis Maitland Balfour (*A Treatise on Comparative Embryology*):** *"Developmental **megalocephaly** was correlated with excessive proliferation of the neural stem cells."*

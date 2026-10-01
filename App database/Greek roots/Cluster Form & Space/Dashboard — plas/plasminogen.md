@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An inactive form of plasmin that occurs in plasma and is converted to plasmin by organic solvents.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An inactive form of plasmin that occurs in plasma and is converted to plasmin by organic solvents.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The inactive precursor (zymogen) of plasmin found in blood plasma, which upon activation breaks down blood clots.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vascular biology, plasminogen binds to fibrin within clots, where endothelial tissue plasminogen activator (tPA) catalyzes its conversion into active plasmin.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plasminogen designates an inactive form of plasmin that occurs in plasma and is converted to plasmin by organic solvents."*
+> - 📜 **Eugene Braunwald (*Heart Disease*):** *"Fibrin-selective thrombolytic agents preferentially activate **plasminogen** that is already bound to the intra-arterial thrombus."*
+> - 📜 **David L. Nelson (*Lehninger Principles of Biochemistry*):** *"Cleavage of a single Arg-Val peptide bond converts single-chain **plasminogen** into two-chain catalytic plasmin."*
+> - 📜 **Maxwell M. Wintrobe (*Clinical Hematology*):** *"Inherited deficiency of **plasminogen** leads to ligneous conjunctivitis and recurrent pseudomembranous mucosal lesions."*

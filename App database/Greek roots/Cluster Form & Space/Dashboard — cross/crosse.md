@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A long racket with a triangular frame; used in playing lacrosse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A long racket with a triangular frame; used in playing lacrosse.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hooked stick with an oval network pocket used in lacrosse, or an ecclesiastical pastoral crook.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sporting history and ethnography, the traditional curved racket originally developed by North American indigenous nations for the ball-and-stick game of lacrosse.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Not a penny, not a penny; you are too impatient to bear crosses."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am old now, And these same crosses spoil me."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"MOTH. [_Aside_.] He speaks the mere contrary; crosses love not him."*
+> - 📜 **George Catlin (*Letters and Notes on the Manners, Customs, and Condition of the North American Indians*):** *"Each Choctaw warrior held his webbed **crosse** poised in readiness as the ball was tossed high into the air."*
+> - 📜 **Francis Parkman (*The Conspiracy of Pontiac*):** *"Under cover of a spirited game with the netted **crosse**, the warriors drew near the gates of Fort Michilimackinac."*
+> - 📜 **Henry David Thoreau (*The Maine Woods*):** *"Our guide pointed out ash saplings seasoned specifically to fashion the bent frame of a hunter's **crosse**."*

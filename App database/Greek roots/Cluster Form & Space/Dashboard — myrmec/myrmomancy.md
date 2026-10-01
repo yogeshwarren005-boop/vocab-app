@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek myrmec.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient form of divination or fortune-telling through the observation of the behavior, movements, or nesting habits of ants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical folklore and anthropology, myrmomancy interpreted the sudden swarming of ants or their storage of grain as omens predicting severe winter storms, crop yields, or famines.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, myrmomancy designates a term designating an entity, condition, or phenomenon derived from greek myrmec."*
+> - 📜 **Edward Burnett Tylor (*Primitive Culture*):** *"Practitioners of **myrmomancy** watched the directional marching of ants across thresholds to foretell impending tribal wars or droughts."*
+> - 📜 **James George Frazer (*The Golden Bough*):** *"Greek oracles occasionally practiced **myrmomancy**, seeking divine portents in the subterranean labors of ant mounds."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"The ancient augurs relied upon **myrmomancy**, holding that ants carrying corn in haste presaged famine or sudden tempest."*

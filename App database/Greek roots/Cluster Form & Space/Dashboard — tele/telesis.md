@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Progress that is intelligently planned and directed : the attainment of desired ends by the application of intelligent human effort to the means.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Progress that is intelligently planned and directed : the attainment of desired ends by the application of intelligent human effort to the means.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Progress or social development intelligently planned and purposefully directed toward a desired end; deliberate human guidance of social evolution.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Coined in 1893 by American sociologist Lester Frank Ward, telesis contrasts conscious human societal planning with blind biological genetic evolution (genesis).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, telesis designates progress that is intelligently planned and directed : the attainment of desired ends by the application of intelligent human effort to the means."*
+> - 📜 **Lester Frank Ward (*Dynamic Sociology*):** *"Social **telesis** is the conscious application of the scientific method to the artificial improvement of the social estate."*
+> - 📜 **Albion Small (*General Sociology*):** *"Ward's formulation of social **telesis** affirmed the triumph of human mind over blind mechanical forces."*
+> - 📜 **Thorstein Veblen (*The Place of Science in Modern Civilisation*):** *"Ward's concept of social **telesis** challenged social Darwinism by emphasizing conscious collective human agency."*

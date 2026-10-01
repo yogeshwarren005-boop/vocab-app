@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek scot.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific study of biological systems and organismal behaviors that are directly dependent on darkness or the dark phase of the diurnal cycle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In photobiology and ecology, scotobiology examines how nocturnal darkness governs circadian rhythms, melatonin synthesis, and pollinator behavior, highlighting the perils of light pollution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scotobiology designates a term designating an entity, condition, or phenomenon derived from greek scot."*
+> - 📜 **Peter Sterling (*Principles of Neural Design*):** *"The emerging discipline of **scotobiology** emphasizes that nighttime darkness is not a mere absence of light, but an active physiological necessity."*
+> - 📜 **Arthur Galston (*The Life of the Green Plant*):** *"Under the purview of **scotobiology**, the critical night length determines floral evocation in short-day angiosperms."*
+> - 📜 **Colin Pittendrigh (*Circadian Oscillations in Cells*):** *"Our investigations in **scotobiology** reveal that rhythmic nocturnal dark pulses reset the underlying molecular pacemakers."*

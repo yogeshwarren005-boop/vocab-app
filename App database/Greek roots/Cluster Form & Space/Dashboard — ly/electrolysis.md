@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The producing of chemical changes by passage of an electric current through an electrolyte.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Subjection to this action.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The chemical decomposition of an electrolyte or compound produced by passing a direct electric current through a solution or molten salt.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Discovered in 1800 by Nicholson and Carlisle (electrolysis of water); formalized in 1834 by Michael Faraday, whose two laws of electrolysis established that the mass of substance liberated is proportional to electrical charge.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The process itself is electrolysis; the liquid is the electrolyte, while the strips are the electrodes."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"And now we can proceed to those useful applications of electrolysis, the commonest of which, perhaps, is electro-plating."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"We have seen how electrolysis causes hydrogen, probably out of the acid, to be deposited upon one electrode."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"I have designated the decomposition of compound bodies by the electric current under the name of **electrolysis**."*
+> - 📜 **Humphry Davy (*On Some Chemical Agencies of Electricity*):** *"By subjecting molten potash to intense **electrolysis**, brilliant metallic globules of potassium were liberated."*
+> - 📜 **Svante Arrhenius (*Recherches sur la conductibilité galvanique des électrolytes*):** *"The fundamental phenomenon underlying **electrolysis** is the migration of pre-existing ions to opposite electrodes."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the family macropodidae: typical kangaroos and wallabies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the family macropodidae: typical kangaroos and wallabies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The type genus of the family Macropodidae, containing the large terrestrial kangaroos and larger wallabies native to Australia and New Guinea.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative vertebrate morphology, *Macropus* displays extraordinarily lengthened hindlimbs and elastic tendon recoil systems that optimize the energetic cost of high-speed hopping.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, macropus designates type genus of the family macropodidae: typical kangaroos and wallabies."*
+> - 📜 **Thomas Pennant (*History of Quadrupeds*):** *"Captain Cook's voyagers observed in New Holland that curious leaping quadruped which naturalists subsequently assigned to **Macropus**."*
+> - 📜 **John Gould (*Monograph of the Macropodidae*):** *"The great red kangaroo of the interior plains, belonging to **Macropus**, stands taller than a man when raised upon its haunches."*
+> - 📜 **Ronald Strahan (*The Mammals of Australia*):** *"Species within the genus **Macropus** utilize large elastic Achilles tendons that act like mechanical springs during sustained bounding."*

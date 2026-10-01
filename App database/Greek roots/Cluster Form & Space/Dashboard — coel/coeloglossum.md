@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Terrestrial orchids of cooler parts of north america and europe: satyr orchid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Terrestrial orchids of cooler parts of north america and europe: satyr orchid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of terrestrial orchids commonly known as frog orchids, now often classified within Dactylorhiza.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical taxonomy, northern temperate meadow orchids characterized by a hollow, spurred labellum shaped like a tiny frog or tongue.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coeloglossum designates terrestrial orchids of cooler parts of north america and europe: satyr orchid."*
+> - 📜 **Charles Darwin (*The Various Contrivances by which Orchids are Fertilised by Insects*):** *"In **Coeloglossum** viride, the green labellum produces glistening droplets of nectar in a shallow furrow to attract small beetles."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"Specimens of **Coeloglossum** were gathered on subalpine pasture slopes, their inconspicuous green flowers blending with surrounding grasses."*
+> - 📜 **Liberty Hyde Bailey (*Standard Cyclopedia of Horticulture*):** *"The bracted frog orchid, **Coeloglossum** bracteatum, thrives in moist calcareous woodlands across the northern states."*

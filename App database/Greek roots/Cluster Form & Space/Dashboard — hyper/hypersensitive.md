@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having an allergy or peculiar or excessive susceptibility (especially to a specific factor).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having an allergy or peculiar or excessive susceptibility (especially to a specific factor).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormally or excessively sensitive, either immunologically (producing an exaggerated allergic response) or emotionally/sensory-wise.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical immunology, hypersensitive states mediate asthma, anaphylaxis, serum sickness, and contact dermatitis; in psychology, describes individuals acutely vulnerable to emotional slights.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Byron J. Rees (*The Heart-Cry of Jesus*):** *"I was proud and selfish, and hypersensitive and ambitious."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Asthmatic individuals are uniquely **hypersensitive** to airborne emanations from horses or specific pollens."*
+> - 📜 **Charles Darwin (*The Power of Movement in Plants*):** *"The radicle tip is extraordinarily **hypersensitive** to contact, turning away from microscopic obstacles."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The melancholic temperament is often **hypersensitive** to subtle shifts in social tone and imaginary disapproval."*

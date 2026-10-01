@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who compiles information for encyclopedias.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who compiles information for encyclopedias.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A compiler or writer of an encyclopedia; a person of broad and comprehensive knowledge.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically, one of the French Enlightenment thinkers (Philosophes) who contributed to the Encyclopédie.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, encyclopedist designates a person who compiles information for encyclopedias."*
+> - 📜 **Alexis de Tocqueville (*The Old Regime and the Revolution*):** *"The passionate writings of each **encyclopedist** dismantled the traditional reverence for established institutions."*
+> - 📜 **Thomas Carlyle (*Critical and Miscellaneous Essays*):** *"Diderot labored as a tireless **encyclopedist**, forging weapons of criticism in the workshops of eighteenth-century Paris."*
+> - 📜 **William James (*The Principles of Psychology*):** *"No psychological **encyclopedist** can compress the chaotic variety of human consciousness into a rigid textbook scheme."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small genus of old world weedy prostrate annuals: knawel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small genus of old world weedy prostrate annuals: knawel.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of low-growing annual and perennial herbs in the carnation family (Caryophyllaceae), commonly called knawels.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In floristics, tough weeds of sandy and stony soils characterized by inconspicuous greenish flowers with a hard, persistent calyx tube enclosing the fruit.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scleranthus designates small genus of old world weedy prostrate annuals: knawel."*
+> - 📜 **Carl Linnaeus (*Species Plantarum*):** *"Under **scleranthus**, the rigid, hardened calyx encloses the seed like a miniature woody capsule after the petals have withered."*
+> - 📜 **George Bentham (*Flora Australiensis*):** *"Alpine cushion formations in southeastern Australia frequently include compact mats of **scleranthus** hugging wind-scoured gravels."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The rigid foliage and apetalous blossoms of **scleranthus** adapt it to survive intense grazing upon impoverished pastures."*

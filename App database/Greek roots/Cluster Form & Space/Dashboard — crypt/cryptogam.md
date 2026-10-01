@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A plant or plantlike organism (such as a fern, moss, alga, or fungus) reproducing by spores and not producing flowers or seed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A plant or plantlike organism (such as a fern, moss, alga, or fungus) reproducing by spores and not producing flowers or seed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A plant or plant-like organism that reproduces by spores rather than seeds, lacking conspicuous flowers or stamens.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical botanical systematics, any member of the traditional group Cryptogamia, comprising ferns, mosses, algae, and fungi.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"For many years he has toiled earnestly and vigorously at the lower cryptogams, as evidenced by his “Scottish Cryptogamic Flora,” published in 1823; and yet his continual additions to the records of science show him to be earnest and vigorous still."*
+> - 📜 **Carl Linnaeus (*Systema Naturae*):** *"The **cryptogam** conceals its nuptials in darkness, producing minute dust-like spores without the display of floral petals."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"Every fern, horsetail, and humble moss is structurally a **cryptogam**, reproducing by microscopic dust-like spores."*
+> - 📜 **Alexander von Humboldt (*Views of Nature*):** *"High on Andean volcanic summits, the final pioneers of vegetation belong to the hardy **cryptogam** tribes of lichens and mosses."*

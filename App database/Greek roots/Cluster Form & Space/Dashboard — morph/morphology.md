@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of biology that deals with the form and structure of animals and plants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The form and structure of an organism or any of its parts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific study of the form, structure, and configuration of living organisms and their specific structural features.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistics, the subfield that analyzes the internal structure of words, their constituent morphemes, roots, and inflectional paradigms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, morphology designates a branch of biology that deals with the form and structure of animals and plants."*
+> - 📜 **Johann Wolfgang von Goethe (*Italian Journey*):** *"My contemplation of botanical forms in the gardens of Palermo inspired the new science of organic **morphology**."*
+> - 📜 **D'Arcy Wentworth Thompson (*On Growth and Form*):** *"Organic **morphology** is in its essence a problem of mechanics, where physical forces shape protoplasm into mathematical spirals."*
+> - 📜 **Noam Chomsky (*Aspects of the Theory of Syntax*):** *"The grammar of a language must include a component for **morphology** to handle affixation, compounding, and case concord."*

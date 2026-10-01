@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: rhombus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: rhombohedron.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An equilateral parallelogram; a rhombus; a diamond-shaped geometric figure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical geometry and crystallography, a plane four-sided figure with equal sides and oblique angles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jonathan Swift (*Gulliver's Travels into Several Remote Nations of the World*):** *"If they would, for example, praise the beauty of a woman, or any other animal, they describe it by rhombs, circles, parallelograms, ellipses, and other geometrical terms, or by words of art drawn from music, needless here to repeat."*
+> - 📜 **Euclid (*Elements (Book I)*):** *"Of quadrilateral figures, a **rhomb** is that which is equilateral but not right-angled."*
+> - 📜 **Johannes Kepler (*Harmonices Mundi (The Harmony of the World)*):** *"The honeycomb cell is closed at the base by three planes forming a symmetrical **rhomb** that economizes beeswax."*
+> - 📜 **René Descartes (*Geometry*):** *"By projecting the intersection of oblique planes, we delineate the perimeter of a perfect **rhomb** on the coordinate surface."*

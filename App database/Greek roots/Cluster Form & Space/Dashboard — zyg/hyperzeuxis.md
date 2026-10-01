@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek zyg.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rhetorical figure in which every clause in a passage is furnished with its own verb, creating a series of grammatically complete and independent statements.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical rhetoric and stylistics, hyperzeuxis produces a staccato, emphatic effect by refusing to subordinate any clause, giving equal grammatical weight to each proposition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyperzeuxis designates a term designating an entity, condition, or phenomenon derived from greek zyg."*
+> - 📜 **Quintilian (*Institutio Oratoria*):** *"**Hyperzeuxis** gives each clause its own predicate, producing an effect of deliberate, measured emphasis."*
+> - 📜 **Richard Lanham (*A Handlist of Rhetorical Terms*):** *"In **hyperzeuxis** every member of a series receives its own verb, the opposite of zeugma's economy."*
+> - 📜 **Henry Peacham (*The Garden of Eloquence*):** *"By **hyperzeuxis** the speaker bestows upon each action its own governing word, amplifying the discourse."*

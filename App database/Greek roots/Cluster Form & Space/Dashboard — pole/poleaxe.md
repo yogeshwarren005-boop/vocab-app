@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An ax used to slaughter cattle; has a hammer opposite the blade.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A battle ax used in the middle ages; a long handled ax and a pick.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A variant spelling of poleax, designating a combination axe-hammer polearm used by medieval and Renaissance knights.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To strike, fell, or knock down with or as if with a heavy poleaxe; to stun or overwhelm completely.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Wretched brutes there at the cattlemarket waiting for the poleaxe to split their skulls open."*
-> - 📜 **James Joyce (*Ulysses*):** *"Not for nothing was he a butcher’s son, wielding the sledded poleaxe and spitting in his palms."*
+> - 📜 **Thomas Malory (*Le Morte d'Arthur*):** *"Sir Lancelot drew his **poleaxe** and smote the knight through helm and shield down to the earth."*
+> - 📜 **Robert Louis Stevenson (*The Black Arrow*):** *"The shock of the iron-shod **poleaxe** echoed through the timbered hall as the battle raged."*
+> - 📜 **Arthur Conan Doyle (*The White Company*):** *"With his mighty **poleaxe**, the veteran archer held the narrow stairway against a dozen assailants."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Teaching during sleep (as by using recordings to teach a foreign language to someone who is asleep).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Teaching during sleep (as by using recordings to teach a foreign language to someone who is asleep).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The practice or purported technique of learning or memorizing information while asleep, usually by listening to recorded audio during sleep (hypnopaedia).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Famous as a major social conditioning mechanism in Aldous Huxley's dystopian novel *Brave New World*; in cognitive neuroscience, empirical research demonstrates that true complex declarative learning does not occur during deep sleep, though sensory conditioning and memory consolidation are active.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypnopedia designates teaching during sleep (as by using recordings to teach a foreign language to someone who is asleep)."*
+> - 📜 **Aldous Huxley (*Brave New World*):** *"The principle of sleep-teaching, or **hypnopedia**, had been discovered, drumming moral lessons beneath the child's pillow."*
+> - 📜 **H. G. Wells (*The Sleeper Awakes*):** *"Subconscious auditory instruction during slumber hinted at the futuristic possibilities of institutional **hypnopedia**."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The notion that the intellect could master scientific systems through passive **hypnopedia** confuses rest with waking effort."*

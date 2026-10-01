@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek scot.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The directional movement or orientation of an organism toward darkness or a dark visual target.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuroethology, scototaxis is distinguished from negative phototaxis because animals actively fixate on and steer toward dark contrasting landmarks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scototaxis designates a term designating an entity, condition, or phenomenon derived from greek scot."*
+> - 📜 **Karl von Frisch (*The Dance Language and Orientation of Bees*):** *"Visual navigation in many arthropods relies upon **scototaxis**, guiding individuals to protective forest edges."*
+> - 📜 **Vincent Dethier (*The Physiology of Insect Senses*):** *"Larvae placed upon an open white platform display vigorous **scototaxis**, crawling unerringly toward a black screen."*
+> - 📜 **E. B. Poulton (*The Colours of Animals*):** *"The instinct of **scototaxis** leads caterpillars to retreat into shadowed bark fissures at dawn."*

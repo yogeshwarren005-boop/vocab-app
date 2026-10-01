@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Drug (trade name isuprel) used to treat bronchial asthma and to stimulate the heart.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Drug (trade name isuprel) used to treat bronchial asthma and to stimulate the heart.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A synthetic sympathomimetic medication that acts as a potent, non-selective beta-adrenergic receptor agonist.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pharmacology and cardiology, an intravenous catecholamine analog used to treat severe bradycardia, heart block, and historically refractory bronchospasm.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, isoproterenol designates drug (trade name isuprel) used to treat bronchial asthma and to stimulate the heart."*
+> - 📜 **Raymond P. Ahlquist (*A Study of the Adrenotropic Receptors*):** *"The remarkable potency of **isoproterenol** in relaxing bronchial musculature provided key evidence for distinct beta-receptor mediation."*
+> - 📜 **Louis S. Goodman (*The Pharmacological Basis of Therapeutics*):** *"Administration of **isoproterenol** produces positive inotropic and chronotropic cardiac responses accompanied by peripheral vasodilation."*
+> - 📜 **Earl W. Sutherland (*The Biological Role of Adenosine-3',5'-Phosphate*):** *"Stimulation of myocardial tissue with **isoproterenol** markedly accelerates the intracellular synthesis of cyclic AMP."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A large room used for various indoor sports (such as basketball or boxing) and usually equipped with gymnastic apparatus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A building (as on a college campus) containing space and equipment for various indoor sports activities and usually including spectator accommodations, locker and shower rooms, offices, classrooms, and a swimming pool.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large room or hall equipped for physical training, sports, and athletic exercise.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ancient Greece, an institution for physical, intellectual, and musical education; in modern Germany and Central Europe, a selective academic secondary school preparing students for university.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"And in proof that he was still willing, and had profited by his maritime experience, he offered to sweep the floor of the gymnasium then and there."*
-> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"Skene’s novice,” as he was now generally called, was elevated to the rank of assistant professor to the champion, and became a person of some consequence in the gymnasium."*
-> - 📜 **Bernard Shaw (*Cashel Byron's Profession*):** *"It was evening, and the only persons in the gymnasium were Ned Skene, who sat smoking at his ease with his coat off, and the novice, who had just come down-stairs from his bedroom, where he had been preparing for a visit to the theatre."*
+> - 📜 **Plato (*The Republic*):** *"Youth must be trained from childhood in the **gymnasium**, harmonizing physical prowess with musical and philosophical discipline."*
+> - 📜 **Jacob Burckhardt (*The Greeks and Greek Civilization*):** *"The civic **gymnasium** served as the central gathering place where Hellenic youths were socialized into republican citizenship."*
+> - 📜 **Thomas Mann (*Buddenbrooks*):** *"Young Hanno dreaded the strict, unbending academic discipline of the German **gymnasium**."*

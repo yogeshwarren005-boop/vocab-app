@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In or with syllables.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In or with syllables.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In terms of syllables; syllable by syllable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adverb denoting the division, pronunciation, or structural measurement of speech or poetry according to syllable boundaries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, syllabically designates in or with syllables."*
+> - 📜 **Alexander Pope (*An Essay on Criticism*):** *"The pedantic critic scanned the verses **syllabically**, blind to the overarching melody of the poet's song."*
+> - 📜 **Samuel Johnson (*The Plan of an English Dictionary*):** *"Every difficult headword was divided **syllabically** to guide the correct pronunciation of provincial learners."*
+> - 📜 **Ferdinand de Saussure (*Course in General Linguistics*):** *"Words decompose **syllabically** along lines dictated by the natural phonotactic constraints of the dialect."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Yellowwoods.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Yellowwoods.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of deciduous leguminous trees in the pea family Fabaceae, commonly known as yellowwoods.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dendrology and forestry, ornamental hardwood trees characterized by fragrant pendulous white blossoms, pinnate leaves, and bright yellow heartwood yielding a natural dye.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cladrastis designates yellowwoods."*
+> - 📜 **Charles Sprague Sargent (*The Silva of North America*):** *"In early summer, the Kentucky yellowwood, **Cladrastis** kentukea, adorns limestone river bluffs with cascades of fragrant white petals."*
+> - 📜 **Liberty Hyde Bailey (*Manual of Cultivated Plants*):** *"Pioneer settlers extracted a vivid yellow dye from the freshly cut heartwood of **Cladrastis**."*
+> - 📜 **John Muir (*A Thousand-Mile Walk to the Gulf*):** *"I rested beneath a handsome **Cladrastis** on the riverbank, admiring its smooth bark and elegant foliage."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek plas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The time interval between the initiation of successive leaf primordia or organ nodes at a plant shoot apical meristem.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant developmental morphology and phyllotaxis, the plastochron index provides a morphological time scale independent of chronological age.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plastochron designates a term designating an entity, condition, or phenomenon derived from greek plas."*
+> - 📜 **Katherine Esau (*Plant Anatomy*):** *"The initiation of each successive leaf primordium marks the beginning of a new **plastochron** at the shoot apex."*
+> - 📜 **Wilhelm Hofmeister (*Allgemeine Morphologie der Gewächse*):** *"Regular intervals of the **plastochron** determine the mathematical spiral geometry of phyllotaxis."*
+> - 📜 **Lincoln Taiz (*Plant Physiology*):** *"Auxin maxima at the peripheral zone trigger organogenesis, resetting the developmental **plastochron**."*

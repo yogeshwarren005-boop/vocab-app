@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Horned lizards.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Horned lizards.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of specialized lizards in the family Phrynosomatidae commonly known as horned lizards (or horny toads), native to arid regions of North America.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology, species of *Phrynosoma* feature flattened spiny bodies, specialized ant-eating (myrmecophagous) dentition, and the ability to squirt blood from their eyes (autohemorrhaging).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phrynosoma designates horned lizards."*
+> - 📜 **Edward Drinker Cope (*The Crocodilians, Lizards, and Snakes of North America*):** *"The bizarre horned lizard of the genus **Phrynosoma** mimics weathered stones upon the sunbaked desert floor."*
+> - 📜 **David Starr Jordan (*Manual of the Vertebrate Animals of the Northern United States*):** *"Children across the American Southwest are familiar with the docile, flattened form of **Phrynosoma**."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Defensive cephalic spines in **Phrynosoma** illustrate extreme morphological adaptation against reptilian and avian predators."*

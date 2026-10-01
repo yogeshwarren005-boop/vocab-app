@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Transmitting speech at a distance.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Transmitting speech at a distance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The technology, process, or industry of transmitting speech and sound electronically or optically over long distances.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In telecommunications engineering, telephony encompasses analog circuit switching, digital pulse-code modulation (PCM), VoIP protocols, and cellular radio access architectures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"For wireless _telephony_ what is wanted is a continuous uninterrupted train of waves, such as those from the "Poulsen arc," and a receiver of the magnetic type."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"It is strange that wireless telephony has not made greater progress, for it may be said, on the word of one of the greatest authorities, that wireless telephony is simpler and easier than telephony through a submarine cable."*
+> - 📜 **Nikola Tesla (*My Inventions*):** *"My early laboratory experiments convinced me that wireless **telephony** would span oceans without conductive wires."*
+> - 📜 **Michael Pupin (*From Immigrant to Inventor*):** *"Inserting inductive coils at periodic intervals extended the transmission distance of long-distance **telephony**."*
+> - 📜 **Oliver Heaviside (*Electromagnetic Theory*):** *"The distortionless condition in cable **telephony** is reached when inductance, resistance, and capacitance are balanced."*

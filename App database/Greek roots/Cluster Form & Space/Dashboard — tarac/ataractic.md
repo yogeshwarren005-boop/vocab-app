@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of stir.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of stir.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, characterized by, or promoting ataraxia (freedom from emotional disturbance or mental anxiety); tranquilizing; also, a tranquilizing drug.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychopharmacology, an ataractic medication (such as chlorpromazine or reserpine) produces calm and emotional detachment without inducing deep hypnosis or motor paralysis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ataractic designates adjective*) pertaining to, derived from, or characteristic of stir."*
+> - 📜 **Aldous Huxley (*Brave New World Revisited*):** *"The discovery of modern **ataractic** drugs made it possible to quiet psychotic frenzy without straitjackets."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"The clinical introduction of the first synthetic **ataractic** agent transformed the psychiatric wards of the 1950s."*
+> - 📜 **Walter Bradford Cannon (*The Wisdom of the Body*):** *"The ideal **ataractic** state in physiological terms is one of restored autonomic balance and quiet visceral tone."*

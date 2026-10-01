@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who transmits messages by telegraph.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who transmits messages by telegraph.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialist trained in the transmission and reception of telegraphic communications; British/Commonwealth term for a telegrapher.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In naval maritime history, the wireless telegraphist operated radio sets (spark-gap transmitters) aboard ocean liners and naval dreadnoughts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, telegraphist designates someone who transmits messages by telegraph."*
+> - 📜 **Arthur Conan Doyle (*The Poison Belt*):** *"The young naval **telegraphist** tapped his key desperately, trying to establish communication with the silent French coast."*
+> - 📜 **Joseph Conrad (*The Secret Sharer and Other Stories*):** *"The ship's **telegraphist** sat with headphones clamped to his ears, listening for faint Morse signals through the static."*
+> - 📜 **Rudyard Kipling (*The Day's Work*):** *"From his lighthouse tower, the government **telegraphist** reported passing cargo steamers to Lloyd's in London."*

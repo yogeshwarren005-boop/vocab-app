@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek gnath.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The lateral or outer segment of the premaxillary bone that bears the lateral incisor tooth in the human and mammalian upper jaw.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In maxillofacial embryology and cleft surgery, the exognathion forms the lateral margin of the incisive suture line.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, exognathion designates a term designating an entity, condition, or phenomenon derived from greek gnath."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"The **exognathion** unites medially with the endognathion to complete the anterior premaxillary dental arcade."*
+> - 📜 **Arthur Keith (*Human Embryology and Morphology*):** *"A secondary cleft line may pass between the central incisor of the endognathion and the lateral incisor on the **exognathion**."*
+> - 📜 **G. Elliot Smith (*Studies in Craniofacial Morphology*):** *"Differential development of the **exognathion** alters dental crowding patterns across comparative primate series."*

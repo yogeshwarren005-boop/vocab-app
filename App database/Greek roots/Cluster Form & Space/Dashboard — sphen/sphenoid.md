@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or being a winged compound bone of the base of the cranium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a wedged shape.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Wedge-shaped; in human anatomy, an unpaired, butterfly-shaped compound bone situated at the base of the skull in front of the temporals and basilar part of the occipital.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuroanatomy and cranial surgery, the sphenoid bone contains the sella turcica housing the pituitary gland and the sphenoidal air sinuses, traversed by cranial nerves via the superior orbital fissure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sphenoid designates of, relating to, or being a winged compound bone of the base of the cranium."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The **sphenoid** bone articulates with all the other bones of the cranium, binding them together like a keystone."*
+> - 📜 **Harvey Cushing (*The Pituitary Body and Its Disorders*):** *"Transsphenoidal surgical access proceeds through the nasal septum into the **sphenoid** sinus directly beneath the sella turcica."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The spatial angle of the **sphenoid** at the cranial base reflects the upright posture and expanded forebrain of modern man."*

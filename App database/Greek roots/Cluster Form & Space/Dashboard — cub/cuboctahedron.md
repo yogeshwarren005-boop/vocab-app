@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek cub.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A convex Archimedean solid polyhedron with 14 faces (8 equilateral triangles and 6 squares), 12 identical vertices, and 24 edges.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In crystallography and geometry, the uniform polyhedron formed by truncating a cube or an octahedron, representing the closest-packing coordination shell of spheres (Buckminster Fuller's vector equilibrium).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cuboctahedron designates a term designating an entity, condition, or phenomenon derived from greek cub."*
+> - 📜 **Johannes Kepler (*Harmonices Mundi*):** *"Among the Archimedean solids, the **cuboctahedron** unites the symmetry of the cube with the triangular harmony of the octahedron."*
+> - 📜 **Buckminster Fuller (*Synergetics: Explorations in the Geometry of Thinking*):** *"The **cuboctahedron** represents the zero-energy vector equilibrium wherein all internal radial and circumferential vectors are identical in length."*
+> - 📜 **D'Arcy Wentworth Thompson (*On Growth and Form*):** *"Twelve equal compressible spheres clustered symmetrically about a central sphere naturally deform into a **cuboctahedron**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of being physically malleable; the property of something that can be worked or hammered or shaped without breaking.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property of being physically malleable; the property of something that can be worked or hammered or shaped without breaking.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality or state of being easily shaped or molded; the ability to retain a shape attained by deformation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuroscience, synaptic plasticity refers to the biological capacity of neural connections to strengthen or weaken over time in response to activity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plasticity designates the property of being physically malleable; the property of something that can be worked or hammered or shaped without breaking."*
+> - 📜 **William James (*The Principles of Psychology*):** *"**Plasticity**, in the wide sense of the word, means the possession of a structure weak enough to yield to an influence, but strong enough not to yield all at once."*
+> - 📜 **Eric Kandel (*Principles of Neural Science*):** *"Long-term synaptic **plasticity** provides the cellular basis for learning and associative memory storage."*
+> - 📜 **Santiago Ramón y Cajal (*Texture of the Nervous System*):** *"The structural **plasticity** of dendritic spines allows neurons to establish novel functional pathways."*

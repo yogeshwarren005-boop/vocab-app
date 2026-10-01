@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Breakdown in living organisms of more complex substances into simpler ones together with release of energy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Breakdown in living organisms of more complex substances into simpler ones together with release of energy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The breakdown of complex organic molecules in living organisms to release energy; variant spelling of catabolism (with k).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiological energetics, the degradative component of metabolism that converts nutrients into biochemical waste and ATP.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, katabolism designates breakdown in living organisms of more complex substances into simpler ones together with release of energy."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Excessive tissue **katabolism** generates large amounts of urea and uric acid, straining impaired renal clearance."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"Through cellular **katabolism**, chemical potential energy stored in carbohydrates is converted into biological work."*
+> - 📜 **Julian Huxley (*Evolution: The Modern Synthesis*):** *"Dormancy in hibernating mammals suppresses oxidative **katabolism** to a fraction of normal resting rates."*

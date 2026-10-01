@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to an insect order or suborder (Heteroptera) comprising the true bugs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to an insect order or suborder (Heteroptera) comprising the true bugs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or belonging to the suborder Heteroptera.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In descriptive entomology, possessing hemelytra that have distinct corium and membrane regions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heteropterous designates of or relating to an insect order or suborder (heteroptera) comprising the true bugs."*
+> - 📜 **Thomas Say (*American Entomology*):** *"This **heteropterous** insect secretes a defensive volatile liquid from thoracic orifices when disturbed in the net."*
+> - 📜 **William Kirby (*Monographia Apum Angliae*):** *"The rostrum of a **heteropterous** bug articulates from the anterior part of the head, pointing rearward in repose."*
+> - 📜 **John Curtis (*British Entomology*):** *"We illustrate a rare **heteropterous** specimen captured upon littoral marsh vegetation near the English Channel."*

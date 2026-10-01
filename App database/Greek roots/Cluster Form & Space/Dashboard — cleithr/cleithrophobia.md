@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek cleithr.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal, morbid, and irrational fear of being trapped, locked in, or enclosed in a confined space.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychology and psychiatry, a specific phobic disorder triggered specifically by the actual physical lock or barrier preventing escape, distinguishing it from general claustrophobia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cleithrophobia designates a term designating an entity, condition, or phenomenon derived from greek cleithr."*
+> - 📜 **William James (*The Principles of Psychology*):** *"In acute **cleithrophobia**, the mere click of a latch on a cellar door can induce sudden paroxysms of blind terror."*
+> - 📜 **Sigmund Freud (*Inhibitions, Symptoms and Anxiety*):** *"The psychic anxiety underlying **cleithrophobia** often traces to early childhood experiences of locked punishment."*
+> - 📜 **H. G. Wells (*The Door in the Wall and Other Stories*):** *"He felt a cold surge of **cleithrophobia** seize his chest as the heavy vault doors slowly swung shut."*

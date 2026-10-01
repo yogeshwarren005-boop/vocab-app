@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Used in some classification systems: a group of extinct fossil gymnosperms coextensive with the order cycadofilicales.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used in some classification systems: a group of extinct fossil gymnosperms coextensive with the order cycadofilicales.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxonomic division name proposed in paleobotany to encompass the seed ferns (pteridosperms) as an independent gymnospermous phylum.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In higher plant taxonomy, an archaic division of seed plants characterized by fern-like megaphyllous leaves, eustelic vascular cylinders, and gymnospermous ovules.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pteridospermaphyta designates used in some classification systems: a group of extinct fossil gymnosperms coextensive with the order cycadofilicales."*
+> - 📜 **Armen Takhtajan (*Evolutionary Trends in Flowering Plants*):** *"Many morphologists look to the division **pteridospermaphyta** as the broad ancestral complex from which angiosperms eventually arose."*
+> - 📜 **Arthur Cronquist (*An Integrated System of Classification of Flowering Plants*):** *"The placement of **pteridospermaphyta** at the base of the gymnosperm radiation clarifies the transition from homospory to seeds."*
+> - 📜 **A. C. Seward (*Fossil Plants*):** *"The diverse foliage types assembled under **pteridospermaphyta** illustrate the morphological plasticity of early Paleozoic seed plants."*

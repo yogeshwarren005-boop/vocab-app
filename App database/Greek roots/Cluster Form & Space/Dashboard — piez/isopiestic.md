@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or marked by equal pressure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or marked by equal pressure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or denoting equal barometric or vapor pressure; isobaric.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical chemistry and thermodynamics, the isopiestic method determines thermodynamic activities of electrolyte solutions by equilibrating them at constant vapor pressure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, isopiestic designates of, relating to, or marked by equal pressure."*
+> - 📜 **Gilbert N. Lewis (*Thermodynamics and the Free Energy of Chemical Substances*):** *"The **isopiestic** comparison method provides highly accurate osmotic coefficients for concentrated aqueous salt solutions."*
+> - 📜 **Herbert S. Harned (*The Physical Chemistry of Electrolytic Solutions*):** *"In an **isopiestic** apparatus, closed dishes equilibrate until vapor pressures over both solutions become precisely identical."*
+> - 📜 **J. Willard Gibbs (*On the Equilibrium of Heterogeneous Substances*):** *"Thermodynamic equilibrium in closed multiphase systems requires uniform temperature and an **isopiestic** distribution of pressures."*

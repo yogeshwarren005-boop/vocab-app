@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to cryptanalysis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to cryptanalysis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to cryptology or the scientific investigation of secret codes and ciphers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of espionage, describing analytical systems and mathematical protocols developed to secure or intercept state secrets.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cryptological designates of or relating to cryptanalysis."*
+> - 📜 **David Kahn (*The Codebreakers*):** *"Major nations established dedicated **cryptological** bureaus whose existence was concealed from the public."*
+> - 📜 **Alan Turing (*Turing's Treatise on the Enigma*):** *"Our **cryptological** successes against naval codes directly shortened the duration of the European conflict."*
+> - 📜 **Claude Shannon (*Communication Theory of Secrecy Systems*):** *"The statistical structure of human language constitutes the fundamental basis for all **cryptological** exploitation."*

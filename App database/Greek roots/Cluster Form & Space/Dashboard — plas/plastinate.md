@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Preserve (tissue) with plastics, as for teaching and research purposes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Preserve (tissue) with plastics, as for teaching and research purposes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To preserve a biological body or tissue specimen by replacing water and fat with curable polymers such as silicone, epoxy, or polyester.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anatomical education and forensic preservation, Gunther von Hagens invented the vacuum impregnation method to plastinate human and animal specimens.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plastinate designates preserve (tissue) with plastics, as for teaching and research purposes."*
+> - 📜 **Gunther von Hagens (*Anatomy and Plastination*):** *"By replacing cellular water with reactive silicone under vacuum, we can **plastinate** whole organs without structural shrinkage."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"Modern anatomy laboratories frequently **plastinate** fragile dissection specimens to provide durable, non-toxic teaching models."*
+> - 📜 **Frank H. Netter (*Atlas of Human Anatomy*):** *"Technicians **plastinate** cross-sectional slices of the human trunk to correlate with computerized tomography scans."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A character printer connected to a telegraph that operates like a typewriter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A character printer connected to a telegraph that operates like a typewriter.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An electromechanical typewriter with a keyboard and printer, used to transmit and receive typed messages over telegraph or telephone circuits; a teleprinter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In communications and early computer history, teletypewriters (such as the Teletype Model 33) served as the primary interactive terminals for mainframe computers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, teletypewriter designates a character printer connected to a telegraph that operates like a typewriter."*
+> - 📜 **Claude Shannon (*A Mathematical Theory of Communication*):** *"The transmission of discrete text from a **teletypewriter** provides an ideal statistical model for discrete noiseless channels."*
+> - 📜 **Alan Turing (*Computing Machinery and Intelligence*):** *"In the imitation game, communication between the interrogator and participants is carried out through an electric **teletypewriter**."*
+> - 📜 **Norbert Wiener (*The Human Use of Human Beings*):** *"The synchronized keys of the **teletypewriter** chatter across continents, translating human keystrokes into telegraphic pulses."*

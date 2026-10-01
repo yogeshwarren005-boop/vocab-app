@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Strip.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Take the covers off.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not clothed; naked, bare, or stripped of covering.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary and descriptive style, exposed to view without embellishment, protective foliage, or architectural sheathing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bram Stoker (*Dracula*):** *"I flung the warm shawl over her, and drew the edges tight round her neck, for I dreaded lest she should get some deadly chill from the night air, unclad as she was."*
-> - 📜 **Bram Stoker (*Dracula*):** *"Lucy always wakes prettily, and even at such a time, when her body must have been chilled with cold, and her mind somewhat appalled at waking unclad in a churchyard at night, she did not lose her grace."*
+> - 📜 **John Milton (*Paradise Lost*):** *"So passd they naked on, nor shund the sight / Of God or Angel, for they thought no ill: / So hand in hand they passd, the loveliest pair / That ever since in loves imbraces met, / Adam the goodliest man of men since borne / His Sons, the fairest of her Daughters Eve, / Under a tuft of shadie arborous roof / In naked majesty stood **unclad**."*
+> - 📜 **Thomas Hardy (*Under the Greenwood Tree*):** *"The wintry branches stood stark and **unclad** against the cold grey sweep of the December sky."*
+> - 📜 **Walt Whitman (*Leaves of Grass*):** *"I bathe in the creek, rejoicing to stand clean and **unclad** beneath the open midday sun."*

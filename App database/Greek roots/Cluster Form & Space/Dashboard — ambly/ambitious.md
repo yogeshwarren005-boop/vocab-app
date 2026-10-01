@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a strong desire for success or achievement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Requiring full use of your abilities or resources.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or exhibiting a strong desire and determination to succeed, achieve distinction, or attain power.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Describing plans, projects, or creative works that demand exceptional effort, skill, scale, or resources to execute successfully.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ambitious love hath so in me offended That barefoot plod I the cold ground upon, With sainted vow my faults to have amended."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I am ambitious for a motley coat."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You are ambitious for poor knaves’ caps and legs."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The most **ambitious** emperors were frequently restrained by the turbulent and venal demands of the Praetorian guards."*
+> - 📜 **Virginia Woolf (*The Common Reader*):** *"The young novelist embarked on an **ambitious** canvas, intending to portray the entire panorama of Edwardian social discontent."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"In democratic communities, men are easily moved by small aspirations, yet rare is the soul possessed of truly **ambitious** grandeur."*

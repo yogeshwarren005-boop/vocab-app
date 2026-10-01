@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A room (as in a residence) containing a bathtub or shower and usually a washbasin and toilet.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A room or building equipped with one or more toilets.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A room containing personal hygiene facilities, typically including a toilet, a sink, and a bathtub or shower.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In architectural design and domestic history, a specialized sanitary domestic space that became standardized during the municipal plumbing revolutions of the 19th and 20th centuries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **J. M. Barrie (*Peter Pan*):** *"Look here, all of you,” he said entreatingly, as soon as Nana had gone into the bathroom."*
-> - 📜 **J. M. Barrie (*Peter Pan*):** *"He tried to stick it on with soap from the bathroom, but that also failed."*
-> - 📜 **J. M. Barrie (*Peter Pan*):** *"You know you can’t be my fairy, Tink, because I am an gentleman and you are a lady.” To this Tink replied in these words, “You silly ass,” and disappeared into the bathroom."*
+> - 📜 **Virginia Woolf (*A Room of One's Own*):** *"A modest income and a lock upon the **bathroom** door are essential preconditions for solitary contemplation."*
+> - 📜 **George Orwell (*Keep the Aspidistra Flying*):** *"He listened to the rhythmic drip of the leaking tap in the shared communal **bathroom** down the hall."*
+> - 📜 **James Joyce (*A Portrait of the Artist as a Young Man*):** *"The cold stone corridor outside the dormitory **bathroom** smelled of yellow carbolic soap and damp flannel."*

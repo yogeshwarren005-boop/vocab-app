@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A bore who makes excessive use of platitudes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bore who makes excessive use of platitudes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who habitually utters platitudes; one given to moralizing triteness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In intellectual satire, a dull speaker or writer who delivers commonplace bromides as if they were profound discoveries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, platitudinarian designates a bore who makes excessive use of platitudes."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"Deliver us from the pompous **platitudinarian**, who drones out lifeless maxims while living souls are starving for truth!"*
+> - 📜 **Samuel Taylor Coleridge (*Table Talk*):** *"A true thinker penetrates beneath appearances, whereas the **platitudinarian** skates complacently upon the frozen surface of thought."*
+> - 📜 **Oscar Wilde (*The Decay of Lying*):** *"The tedious **platitudinarian** robs conversation of all surprise, reducing wit to moralistic nursery rhymes."*

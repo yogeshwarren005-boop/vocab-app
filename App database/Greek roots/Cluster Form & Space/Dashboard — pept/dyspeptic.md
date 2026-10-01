@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Indigestion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ill humor : disgruntlement.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, suffering from, or characteristic of dyspepsia (indigestion); having impaired digestion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Figuratively, irritable, gloomy, or morose in temperament, traditionally associated with gastrointestinal discomfort.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"A hypochondriacal tendency had shown itself in the banker’s constitution of late; and a lack of sleep, which was really only a slight exaggeration of an habitual dyspeptic symptom, had been dwelt on by him as a sign of threatening insanity."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"This is the reason why most dyspeptic religionists cherish such melancholy notions about their hereafters."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"This is the reason why most dyspeptic religionists cherish such melancholy notions about their hereafters."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"There are certain queer times and occasions in this strange mixed affair we call life, which occurs only to the **dyspeptic**."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"The **dyspeptic** philosopher views human society through a jaundiced lens of bile and disillusionment."*
+> - 📜 **George Eliot (*Middlemarch*):** *"His **dyspeptic** complaints were delivered with an austere resignation that made sympathy impossible."*

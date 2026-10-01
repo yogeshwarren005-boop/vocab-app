@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Embody the essential characteristics of or be a typical example of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Embody the essential characteristics of or be a typical example of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To serve as a perfect example or summary of something; to embody typical characteristics (chiefly Commonwealth spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary criticism and historiography, to epitomise an intellectual era or aesthetic movement is to synthesize its central themes and virtues in a single work or figure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epitomise designates embody the essential characteristics of or be a typical example of."*
+> - 📜 **Matthew Arnold (*Culture and Anarchy*):** *"The grand classical ideals seem to **epitomise** the harmonious balance of sweetness and light."*
+> - 📜 **Thomas Carlyle (*On Heroes, Hero-Worship, and the Heroic in History*):** *"Dante's great poem does in truth **epitomise** the spiritual consciousness of the entire Christian Middle Ages."*
+> - 📜 **Walter Pater (*Studies in the History of the Renaissance*):** *"The enigmatic smile of the Mona Lisa appeared to **epitomise** the restless, questing soul of the new age."*

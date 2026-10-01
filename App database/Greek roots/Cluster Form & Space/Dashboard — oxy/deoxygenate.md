@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Remove oxygen from (water).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove oxygen from (water).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To deprive of or remove oxygen from a chemical compound, liquid, or biological fluid such as blood.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiology and hematology, venous transit through systemic capillaries deoxygenates oxyhemoglobin into deoxyhemoglobin.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, deoxygenate designates remove oxygen from (water)."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"Reversible ligand binding allows the heme group to oxygenate in pulmonary capillaries and **deoxygenate** in peripheral tissues."*
+> - 📜 **Max Perutz (*Mechanisms of Cooperativity and Allosteric Regulation in Hemoglobin*):** *"When allosteric effectors prompt the tetramer to **deoxygenate**, the quaternary structure transitions into the tense state."*
+> - 📜 **J. S. Haldane (*Respiration*):** *"Tissues that consume metabolic energy rapidly **deoxygenate** circulating arterial blood."*

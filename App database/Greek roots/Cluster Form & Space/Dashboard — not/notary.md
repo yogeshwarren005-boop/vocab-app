@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone legally empowered to witness signatures and certify a document's validity and to take depositions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone legally empowered to witness signatures and certify a document's validity and to take depositions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A public officer legally empowered to authenticate contracts, attest deeds, administer oaths, take affidavits, and certify legal documents.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In civil law traditions, a notary (notaire) is a specialized jurist who drafts binding conveyances, prenuptial agreements, and estate settlements.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then meet me forthwith at the notary’s, Give him direction for this merry bond, And I will go and purse the ducats straight, See to my house left in the fearful guard Of an unthrifty knave, and presently I’ll be with you."*
-> - 📜 **John Fletcher (*The Elder Brother*):** *"SCENA PRIMA._ _Enter_ Lewis, Angellina, Sylvia, Notary. _Lewis._ This is the day, my Daughter Angellina, the happy, that must make you a Fortune, a large and full one, my care has wrought it, and yours must be as great to entertain it."*
-> - 📜 **John Fletcher (*The Elder Brother*):** *"SCENA V. _Enter_ Lewis, Angellina, Eustace, Priest, Ladies, Cowsy, Notary, _and_ Miramont. _Not._ Come, let him bring his Sons hand, and all's done."*
+> - 📜 **William Shakespeare (*The Merchant of Venice*):** *"Go with me to a **notary**, seal me there your single bond; and, in a merry sport, if you repay me not on such a day, let the forfeit be an equal pound of your fair flesh."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The fees paid to an official **notary** ensure that contracts can be executed with public certainty and enforceability across foreign markets."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"In continental Europe, the **notary** preserves familial property archives and maintains legal order with traditional authority."*

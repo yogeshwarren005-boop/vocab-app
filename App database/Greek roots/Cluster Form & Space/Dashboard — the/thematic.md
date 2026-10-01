@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or constituting a theme.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the stem of a word.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or relating to a particular theme, topic, or melodic subject; in linguistics, of a vowel or morpheme forming part of the stem.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Indo-European comparative grammar, thematic verbs insert a vowel (*-e-*, *-o-*) between the root and inflectional endings, regularizing verbal conjugations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thematic designates of, relating to, or constituting a theme."*
+> - 📜 **Ferdinand de Saussure (*Course in General Linguistics*):** *"The insertion of a **thematic** vowel in Greek and Latin verbs transformed archaic root inflection into predictable paradigms."*
+> - 📜 **Charles Rosen (*The Classical Style*):** *"Beethoven's development sections subject the principal **thematic** material to radical harmonic fragmentation."*
+> - 📜 **Northrop Frye (*Anatomy of Criticism*):** *"A coherent **thematic** structure organizes the archetypal imagery of romance literature."*

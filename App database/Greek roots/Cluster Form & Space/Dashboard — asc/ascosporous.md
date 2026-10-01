@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to ascospores.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to ascospores.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bearing, producing, or characterized by ascospores.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mycological taxonomy, describing fungi, fructifications, or asci that develop and liberate sexually generated ascospores.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ascosporous designates of or relating to ascospores."*
+> - 📜 **Anton de Bary (*Comparative Morphology and Biology of the Fungi*):** *"The **ascosporous** apparatus reached its fullest architectural expression in the complex apothecia of the Pezizales."*
+> - 📜 **William Benjamin Carpenter (*Principles of General and Comparative Physiology*):** *"Examination under high power confirmed the **ascosporous** nature of the internal cavities."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"In these lichens, the **ascosporous** discs remain permanently open upon the hardened crustaceous surface."*

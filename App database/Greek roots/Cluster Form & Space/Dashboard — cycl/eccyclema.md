@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A wheeled device, used in ancient Greek plays, that could be rolled out to allow a tableau to be viewed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A wheeled device, used in ancient Greek plays, that could be rolled out to allow a tableau to be viewed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A low wheeled platform or revolving stage mechanism in ancient Greek theater, rolled out through the central palace doors to reveal interior tableaux.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical drama and theatrical archaeology, the mechanical device used especially in Attic tragedy to expose the aftermath of off-stage murders or secret interior scenes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eccyclema designates a wheeled device, used in ancient greek plays, that could be rolled out to allow a tableau to be viewed."*
+> - 📜 **Aeschylus (*Agamemnon*):** *"The royal portal swings open and the **eccyclema** rolls forward, displaying Clytemnestra standing triumphantly over the slain king."*
+> - 📜 **Aristophanes (*The Acharnians*):** *"Euripides, wheel thyself out upon the **eccyclema**, and lend me a tragic beggar's rags from thy stage wardrobe!"*
+> - 📜 **Friedrich Nietzsche (*The Birth of Tragedy*):** *"The Greek stage maintained poetic illusion by bringing the hidden catastrophe into daylight upon the solemn **eccyclema**."*

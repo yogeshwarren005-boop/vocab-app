@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek top.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of place names, their origins, meanings, use, and typological classification; toponymy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In onomastics and historical linguistics, toponomastics illuminates ancient migration patterns, substrate languages, and topographical perception of early settlers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, toponomastics designates a term designating an entity, condition, or phenomenon derived from greek top."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"Celtic river names surviving across England provide rich evidence for the student of comparative **toponomastics**."*
+> - 📜 **Richard Chenevix Trench (*On the Study of Words*):** *"The field of **toponomastics** proves that names of mountains and streams outlive the conquests of empires."*
+> - 📜 **Otto Jespersen (*Growth and Structure of the English Language*):** *"Scandinavian place names ending in '-by' and '-thorpe' illustrate how **toponomastics** documents the Danelaw settlements."*

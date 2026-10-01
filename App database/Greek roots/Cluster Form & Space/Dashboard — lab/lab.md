@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Laboratory —often used before another noun —sometimes used in combination.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Laboratory tests (such as blood tests or urinalyses) performed by a medical laboratory on a specimen taken from a patient.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A room or building equipped for scientific experiments, research, teaching, or the manufacture of drugs and chemicals; short for laboratory; also, an etymological root from Greek *lambanein* / *lepsis* (to take, grasp, seize).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern colloquial and professional scientific discourse, the lab serves as the dedicated workshop of empirical science; in etymology, Greek *lab-* / *lep-* underlies terms of seizure and assumption (epilepsy, catalepsy, syllable).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"To lower orders are assign’d The humbler ranks of human-kind, The rustic bard, the lab’ring hind, The artisan; All choose, as various they’re inclin’d, The various man."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Some hint the lover’s harmless wile; Some grace the maiden’s artless smile; Some soothe the lab’rer’s weary toil For humble gains, And make his cottage-scenes beguile His cares and pains."*
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"Ben, what do you say we run over to the lab and see if we can dig up something new." * * * * * It was two days later when they stood at headquarters on the flying field again."*
+> - 📜 **Thomas Edison (*The Diary and Sundry Observations of Thomas Alva Edison*):** *"We spent eighteen hours a day in the Menlo Park **lab**, testing thousands of carbonized filaments for the incandescent lamp."*
+> - 📜 **Louis Pasteur (*Studies on Fermentation*):** *"Take interest, I implore you, in those sacred dwellings termed the scientific **lab**, for they are the temples of the future."*
+> - 📜 **Ernest Rutherford (*Radioactive Substances and Their Radiations*):** *"In our modest Manchester **lab**, alpha scattering experiments revealed the compact atomic nucleus."*

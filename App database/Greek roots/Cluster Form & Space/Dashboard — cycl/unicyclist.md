@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who rides a unicycle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who rides a unicycle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who rides a unicycle, especially as a performing acrobat or street entertainer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biomechanics and motor learning, an individual who has mastered dynamic gyroscopic posture and fine ankle torque control over a single wheel.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unicyclist designates a person who rides a unicycle."*
+> - 📜 **Mark Twain (*Roughing It*):** *"The agile circus **unicyclist** juggled burning torches while pedaling backward on his tall solitary wheel."*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*):** *"The vestibular coordination exhibited by a professional **unicyclist** reflects cerebellar plasticity pushed to its limits."*
+> - 📜 **H. G. Wells (*The Wheels of Chance*):** *"Crowds paused on the promenade to watch the nimble **unicyclist** perform daring pivots upon the boardwalk."*

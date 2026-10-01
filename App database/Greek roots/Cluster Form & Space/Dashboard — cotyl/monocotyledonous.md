@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a class or subclass (Liliopsida or Monocotyledoneae) of chiefly herbaceous angiospermous plants having an embryo with a single cotyledon, usually parallel-veined leaves, and floral organs arranged in cycles of three —called also monocot.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a class or subclass (Liliopsida or Monocotyledoneae) of chiefly herbaceous angiospermous plants having an embryo with a single cotyledon, usually parallel-veined leaves, and floral organs arranged in cycles of three —called also monocot.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, having, or resembling a single cotyledon in the seed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant anatomy, characterizing plants that display parallel leaf veins, scattered vascular bundles, and adventitious fibrous roots.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monocotyledonous designates any of a class or subclass (liliopsida or monocotyledoneae) of chiefly herbaceous angiospermous plants having an embryo with a single cotyledon, usually parallel-veined leaves, and floral organs arranged in cycles of three —called also monocot."*
+> - 📜 **Charles Darwin (*The Different Forms of Flowers on Plants of the Same Species*):** *"Many **monocotyledonous** species, notably within the orchid family, have evolved the most intricate mechanisms for insect pollination."*
+> - 📜 **Henry David Thoreau (*The Maine Woods*):** *"Tall **monocotyledonous** rushes bordered the lake margin, shivering in the chilly north wind."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"A transverse cut through a **monocotyledonous** stalk shows vascular bundles distributed irregularly throughout the ground parenchyma."*

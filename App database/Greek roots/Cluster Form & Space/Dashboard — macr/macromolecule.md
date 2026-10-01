@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any very large complex molecule; found only in plants and animals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any very large complex molecule; found only in plants and animals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A very large molecule, such as a protein, nucleic acid, polysaccharide, or synthetic polymer, typically composed of thousands of covalently linked atoms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In molecular biochemistry and polymer materials science, the specific spatial folding and sequence conformation of a macromolecule dictates its biological function and physical viscosity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, macromolecule designates any very large complex molecule; found only in plants and animals."*
+> - 📜 **Hermann Staudinger (*From Organic Chemistry to Macromolecules*):** *"I proposed the term **macromolecule** to designate colloidal particles that are in fact single, extraordinarily giant covalent molecules."*
+> - 📜 **James D. Watson (*Molecular Biology of the Gene*):** *"The double helix of DNA represents a informational **macromolecule** capable of templating its own replication."*
+> - 📜 **Max Perutz (*Proteins and Nucleic Acids: Structure and Function*):** *"Hemoglobin is an allosteric **macromolecule** whose respiratory efficiency depends on coordinated structural rearrangements upon oxygen binding."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek gryp.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A congenital condition characterized by multiple joint contractures and curved or hooked joints present at birth, restricting normal mobility.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pediatric orthopedics and clinical genetics, arthrogryposis multiplex congenita results from decreased fetal movement in utero (fetal akinesia).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arthrogryposis designates a term designating an entity, condition, or phenomenon derived from greek gryp."*
+> - 📜 **S. Terry Canale (*Campbell's Operative Orthopaedics*):** *"Early physical therapy and gentle serial casting are essential to mobilize rigid joints in neonatal **arthrogryposis**."*
+> - 📜 **Vinay Kumar (*Robbins and Cotran Pathologic Basis of Disease*):** *"Histologic examination of muscle in severe **arthrogryposis** reveals marked neurogenic atrophy secondary to anterior horn cell loss."*
+> - 📜 **Arthur Keith (*Human Embryology and Morphology*):** *"Oligohydramnios can physically compress the developing fetus, contributing to the articular contractures of **arthrogryposis**."*

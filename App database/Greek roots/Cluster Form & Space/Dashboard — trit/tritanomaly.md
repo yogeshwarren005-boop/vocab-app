@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek trit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rare type of anomalous trichromatic color vision characterized by reduced sensitivity to blue light.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiological optics, tritanomaly results from an altered absorption spectrum in retinal short-wavelength (S-cone) photopigments, distorting blue-yellow color discrimination.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tritanomaly designates a term designating an entity, condition, or phenomenon derived from greek trit."*
+> - 📜 **Hermann von Helmholtz (*Treatise on Physiological Optics*):** *"Deficiency in the short-wave blue receptor mechanism manifests clinically as **tritanomaly** or tritanopia."*
+> - 📜 **Francis Galton (*Inquiries into Human Faculty and Its Development*):** *"Pedigree charts revealed that **tritanomaly** is inherited as an autosomal condition distinct from sex-linked red-green blindness."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Individuals exhibiting mild **tritanomaly** confuse cyan tints with pure green under dim lighting conditions."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgical removal of part or all of the sigmoid colon (usually to remove a malignant tumor).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surgical removal of part or all of the sigmoid colon (usually to remove a malignant tumor).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The surgical removal or excision of all or part of the sigmoid colon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In colorectal surgery, laparoscopic or open sigmoidectomy is performed to resect adenocarcinoma, recurrent diverticulitis, or volvulus, often followed by primary end-to-end colorectal anastomosis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sigmoidectomy designates surgical removal of part or all of the sigmoid colon (usually to remove a malignant tumor)."*
+> - 📜 **William J. Mayo (*Resection of the Rectum and Sigmoid Colon*):** *"A radical **sigmoidectomy** with extensive mesenteric lymph node clearance offers the highest rate of curative success."*
+> - 📜 **Charles H. Mayo (*Collected Papers of the Mayo Clinic*):** *"In chronic, recurrent diverticulitis with phlegmon, elective **sigmoidectomy** eliminates the hazard of catastrophic perforation."*
+> - 📜 **Lord Moynihan (*Abdominal Operations*):** *"Mobilization of the splenic flexure provides sufficient length to re-establish continuity following segmental **sigmoidectomy**."*

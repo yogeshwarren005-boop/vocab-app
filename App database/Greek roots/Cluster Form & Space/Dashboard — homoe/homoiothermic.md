@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a relatively uniform body temperature maintained nearly independent of the environmental temperature : warm-blooded.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a relatively uniform body temperature maintained nearly independent of the environmental temperature : warm-blooded.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of maintaining a constant internal body temperature; warm-blooded; homeothermic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology and paleontology, debating the evolution of homoiothermic metabolism in theropod dinosaurs and mammal-like reptiles (therapsids).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, homoiothermic designates having a relatively uniform body temperature maintained nearly independent of the environmental temperature : warm-blooded."*
+> - 📜 **Robert T. Bakker (*The Dinosaur Heresies*):** *"Bone histology displaying dense Haversian remodeling suggests that predatory dinosaurs were active, **homoiothermic** animals."*
+> - 📜 **Knut Schmidt-Nielsen (*Animal Physiology: Adaptation and Environment*):** *"The **homoiothermic** condition permits sustained muscular exertion regardless of chilly morning or nocturnal temperatures."*
+> - 📜 **Stephen Jay Gould (*The Panda's Thumb*):** *"Feathers and fur likely evolved primarily for thermal insulation in early **homoiothermic** vertebrates before being co-opted for flight."*

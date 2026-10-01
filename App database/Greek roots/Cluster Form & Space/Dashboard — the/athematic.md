@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of the.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of the.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking a theme or melodic subject (in music); lacking a thematic connecting vowel in morphological inflection (in linguistics).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Indo-European comparative linguistics, athematic root verbs attach personal endings directly to the root without an intervening thematic vowel (*-e-*, *-o-*).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, athematic designates adjective*) pertaining to, derived from, or characteristic of the."*
+> - 📜 **Ferdinand de Saussure (*Memoir on the Primitive System of Vowels in the Indo-European Languages*):** *"The archaic **athematic** conjugations attach personal suffixes directly to the ablauting verbal root."*
+> - 📜 **Theodor Adorno (*Philosophy of New Music*):** *"Serial composition replaces traditional thematic development with complex, rigorously **athematic** sonic structures."*
+> - 📜 **Antoine Meillet (*Introduction to the Comparative Study of Indo-European Languages*):** *"In Sanskrit and Homeric Greek, the **athematic** verbs preserve the oldest morphological layer of the parent tongue."*

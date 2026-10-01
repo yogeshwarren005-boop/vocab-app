@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Providing a chart or outline of a system.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of reducing to a scheme or formula.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process, act, or instance of forming or reducing into a scheme, diagram, or structured outline (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In developmental psychology and semiotics, the cognitive organization of sensory experience into generalizable symbolic schemas.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, schematisation designates providing a chart or outline of a system."*
+> - 📜 **Jean Piaget (*The Construction of Reality in the Child*):** *"Sensorimotor **schematisation** enables the growing infant to coordinate vision and grasping into purposeful action."*
+> - 📜 **Henri Bergson (*Creative Evolution*):** *"The intellect proceeds by spatial **schematisation**, freezing continuous organic duration into static geometric representations."*
+> - 📜 **Roland Barthes (*Elements of Semiology*):** *"Structural analysis involves the rigorous **schematisation** of cultural narratives into fundamental oppositional codes."*

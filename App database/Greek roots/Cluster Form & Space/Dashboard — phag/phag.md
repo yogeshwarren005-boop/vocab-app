@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek phag.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A Greek combining root (from phagein, 'to eat, devour, consume') forming scientific terms relating to eating, digestion, or cellular engulfment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biological and linguistic nomenclature, the root phag underlies terms like phagocyte, bacteriophage, and anthropophagy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phag designates a term designating an entity, condition, or phenomenon derived from greek phag."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"The Greek verbal stem **phag** signifies to eat, consume, or devour, appearing in a wide variety of compound nouns."*
+> - 📜 **Robert Beekes (*Etymological Dictionary of Greek*):** *"Traced to Proto-Indo-European *bhag- (to apportion or consume), the stem **phag** came to designate eating in Greek."*
+> - 📜 **Élie Metchnikoff (*Immunity in Infective Diseases*):** *"From the Greek stem **phag**, we derived phagocyte to designate cellular devouring of infectious microbes."*

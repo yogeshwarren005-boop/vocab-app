@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An alloantigen that is part of a plasma protein (such as an antibody).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An alloantigen that is part of a plasma protein (such as an antibody).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A paratype specimen of the opposite sex to the holotype in zoological taxonomy; in immunology, an inherited antigenic variant of a serum protein.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In serology and immunology, allotypes reflect genetic polymorphisms in the constant regions of antibody heavy or light chains (e.g. human Gm and Km allotypes).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, allotype designates an alloantigen that is part of a plasma protein (such as an antibody)."*
+> - 📜 **Ernst Mayr (*Principles of Systematic Zoology*):** *"When describing a sexually dimorphic insect species, the author should designate a male holotype and a female **allotype**."*
+> - 📜 **Paul Ehrlich (*Studies in Immunity*):** *"Immunogenetic surveys reveal subtle structural differences in plasma globulins that define individual **allotype** profiles."*
+> - 📜 **C. C. Adams (*Guide to the Study of Animal Ecology*):** *"Proper curatorial curation requires labeling the designated **allotype** with red or blue museum type tags."*

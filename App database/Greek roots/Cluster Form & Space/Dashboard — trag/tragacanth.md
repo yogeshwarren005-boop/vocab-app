@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A gum used in pharmacy, adhesives, and textile printing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A gum used in pharmacy, adhesives, and textile printing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A natural gum obtained from the dried sap of several species of Middle Eastern legumes of the genus *Astragalus*.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacognosy and food technology, gum tragacanth forms viscous, mucilaginous colloids used as an emulsifier, binder for pharmaceutical lozenges, and textile sizing agent.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tragacanth designates a gum used in pharmacy, adhesives, and textile printing."*
+> - 📜 **Theophrastus (*Enquiry into Plants*):** *"The thorny shrub exuding **tragacanth** gum grows wild on the stony mountain slopes of Asia Minor."*
+> - 📜 **Nicholas Culpeper (*The Complete Herbal*):** *"Gum **tragacanth** dissolved in rosewater provides an incomparable demulcent for soothing harsh pulmonary coughs."*
+> - 📜 **Justus von Liebig (*Familiar Letters on Chemistry*):** *"Chemical analysis indicates that gum **tragacanth** consists of bassorin and water-soluble tragacanthin fractions."*

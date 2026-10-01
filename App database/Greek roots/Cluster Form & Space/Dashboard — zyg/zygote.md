@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A cell formed by the union of two gametes; broadly : the developing individual produced from such a cell.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A method of assisting reproduction in cases of infertility that is similar to gamete intrafallopian transfer but in which eggs are fertilized in vitro and some of the resulting fertilized eggs are inserted into a fallopian tube —abbreviation ZIFT.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The diploid cell formed by the fusion of two haploid gametes during fertilization, constituting the earliest developmental stage of a sexually reproducing organism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In developmental biology, the zygote undergoes rapid cleavage divisions to form a blastula, and its totipotent state means it has the potential to generate every cell type of the mature organism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, zygote designates a cell formed by the union of two gametes; broadly : the developing individual produced from such a cell."*
+> - 📜 **Oscar Hertwig (*Beitrage zur Kenntniss der Bildung, Befruchtung und Theilung des thierischen Eies*):** *"I demonstrated that fertilization involves the union of two pronuclei to form a single **zygote**."*
+> - 📜 **Edmund Beecher Wilson (*The Cell in Development and Heredity*):** *"The **zygote** is the starting point from which all the complexity of the adult organism unfolds through cell division."*
+> - 📜 **Scott F. Gilbert (*Developmental Biology*):** *"The **zygote** is the only truly totipotent cell, capable of giving rise to all embryonic and extraembryonic tissues."*

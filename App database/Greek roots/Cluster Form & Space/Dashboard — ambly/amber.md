@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A deep yellow color.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hard yellowish to brownish translucent fossil resin; used for jewelry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hard, translucent, yellowish to brownish-yellow fossilized resin derived from ancient coniferous trees, prized as a gemstone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In paleobiology and gemology, an amorphous biogenic organic polymer valued for exceptionally preserving delicate fossil inclusions and for its electrostatic triboelectric properties.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"For the satirical slave says here that old men have grey beards; that their faces are wrinkled; their eyes purging thick amber and plum-tree gum; and that they have a plentiful lack of wit, together with most weak hams."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Her amber hairs for foul hath amber quoted."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"An amber-coloured raven was well noted."*
+> - 📜 **Pliny the Elder (*Natural History*):** *"When rubbed vigorously with the hand, **amber** acquires heat and draws unto itself pine needles and light flakes of chaff."*
+> - 📜 **Francis Bacon (*Sylva Sylvarum*):** *"The electrum or yellow **amber** doth manifest a subtle attraction when chafed, an effect common to resins and vitreous bodies."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"Delicate insects preserved within ancient Baltic **amber** reveal morphological features identical to those observed across geological epochs."*

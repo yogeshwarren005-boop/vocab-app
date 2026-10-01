@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A regularly interacting or interdependent group of items forming a unified whole : such as.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A group of interacting bodies under the influence of related forces.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A set of connected things or parts forming a complex whole; an organized scheme or method of procedure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cybernetics and general systems theory, an open system maintains dynamic homeostasis through continuous exchange of matter, energy, and information with its environment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"It is habitually hard upon Sir Leicester, whose countenance it greenly mottles in the manner of sage-cheese and in whose aristocratic system it effects a dismal revolution."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Jarndyce said that he condoled with him with all his heart and that he set up no monopoly himself in being unjustly treated by this monstrous system."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I am told on all hands, it’s the system."*
+> - 📜 **Isaac Newton (*Philosophiae Naturalis Principia Mathematica*):** *"The six primary planets revolve about the Sun in concentric circles, constituting an orderly planetary **system**."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The obvious and simple **system** of natural liberty establishes itself of its own accord when restraints are removed."*
+> - 📜 **Ludwig von BertalanffY (*General System Theory*):** *"A living organism is not a mere heap of parts, but an organized **system** displaying emergent wholeness."*

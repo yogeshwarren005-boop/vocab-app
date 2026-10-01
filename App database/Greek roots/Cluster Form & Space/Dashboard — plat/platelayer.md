@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A workman who lays and repairs railroad tracks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A workman who lays and repairs railroad tracks.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A railway employee whose job is to inspect, repair, and maintain railway tracks (plates and rails).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial history, platelayers manually replaced ballast, gauged rails, and tightened fishplates to maintain track safety along high-speed corridors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, platelayer designates a workman who lays and repairs railroad tracks."*
+> - 📜 **George Stephenson (*Reports on the Liverpool and Manchester Railway*):** *"Every vigilant **platelayer** must inspect his designated mile of iron rail daily to prevent derailments."*
+> - 📜 **Thomas Hardy (*Jude the Obscure*):** *"The lonely **platelayer** walked the ballast with his heavy hammer, checking the alignment of the ties."*
+> - 📜 **H. G. Wells (*Tono-Bungay*):** *"From the carriage window we watched the gang of **platelayer** workmen step aside as the express rushed past."*

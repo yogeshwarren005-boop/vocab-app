@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An antiviral drug used to combat hiv infection.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An antiviral drug used to combat hiv infection.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A synthetic dideoxynucleoside analog (ddI) that acts as a reverse transcriptase inhibitor, formerly used to treat HIV-1 infection.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pharmacology, didanosine halts viral DNA chain elongation upon phosphorylation into dideoxyadenosine triphosphate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, didanosine designates an antiviral drug used to combat hiv infection."*
+> - 📜 **Anthony S. Fauci (*Harrison's Principles of Internal Medicine*):** *"Early combination antiretroviral protocols utilized **didanosine** to suppress plasma HIV RNA levels when zidovudine monotherapy failed."*
+> - 📜 **Laurence L. Brunton (*Goodman & Gilman's The Pharmacological Basis of Therapeutics*):** *"The clinical utility of **didanosine** was restricted by serious adverse toxicities, notably peripheral neuropathy and pancreatitis."*
+> - 📜 **Bertram G. Katzung (*Basic & Clinical Pharmacology*):** *"As an adenosine nucleoside analogue, **didanosine** requires buffered formulations to prevent gastric acid degradation."*

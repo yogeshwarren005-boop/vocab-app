@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sea stars.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sea stars.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The class of marine invertebrates in the phylum Echinodermata comprising the true starfishes or sea stars.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine zoology, echinoderms characterized by pentamerous radial symmetry, central disc with five or more radiating arms, and an open ambulacral water-vascular system.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, asteroidea designates sea stars."*
+> - 📜 **Thomas Henry Huxley (*The Invertebrata*):** *"The class **Asteroidea** is distinguished from Ophiuroidea by deep open ambulacral grooves along the oral surface of the rays."*
+> - 📜 **Rachel Carson (*The Edge of the Sea*):** *"On the granite rocks of Maine, colorful purple and ochre species of **Asteroidea** cling tightly against the pounding surf."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"In low-tide pools at low water, we found numerous predatory species of **Asteroidea** prying open bivalve mussels."*

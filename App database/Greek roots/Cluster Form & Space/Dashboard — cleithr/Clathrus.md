@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek cleithr.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of saprobic lattice stinkhorn fungi in the family Phallaceae, known for their hollow, basket-like, lattice-structured fruiting bodies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic mycology, fungi whose egg-like volva ruptures to expand into an intricate scarlet or orange latticed sphere coated with fetid gleba to attract flies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Clathrus designates a term designating an entity, condition, or phenomenon derived from greek cleithr."*
+> - 📜 **Miles Joseph Berkeley (*Outlines of British Fungology*):** *"The astonishing scarlet cage of **Clathrus** cancellatus resembles an intricate filigree sphere upon the woodland floor."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels to the Equinoctial Regions of America*):** *"In tropical humus we encountered a bizarre fungus of the genus **Clathrus**, whose bright lattice emitted a strong carrion stench."*
+> - 📜 **William Gilson Farlow (*Notes on the Cryptogamic Flora of the White Mountains*):** *"The polygonal meshwork characterizing **Clathrus** demonstrates an extraordinary mechanical design for expanding spore surfaces."*

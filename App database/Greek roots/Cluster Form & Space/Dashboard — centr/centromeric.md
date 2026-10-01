@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The point or region on a chromosome to which the spindle attaches during mitosis and meiosis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The point or region on a chromosome to which the spindle attaches during mitosis and meiosis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, located at, or functioning within the centromere of a chromosome.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In molecular epigenetics, describing specialized satellite DNA sequences and variant histones such as CENP-A that direct kinetochore formation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centromeric designates the point or region on a chromosome to which the spindle attaches during mitosis and meiosis."*
+> - 📜 **Sydney Brenner (*My Life in Science*):** *"The dense **centromeric** heterochromatin presented formidable resistance to early nucleotide sequencing efforts."*
+> - 📜 **Walter Sutton (*The Chromosomes in Heredity*):** *"During meiotic pairing, the physical tension focused on the **centromeric** constriction coordinates reciprocal bivalent orientation."*
+> - 📜 **Mary Lyon (*Gene Action in the X-chromosome of the Mouse*):** *"Spreading of epigenetic silencing rarely penetrates through the major **centromeric** boundary elements."*

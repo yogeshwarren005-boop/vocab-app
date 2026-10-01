@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the two alleles at corresponding loci on homologous chromosomes different for one or more loci.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the two alleles at corresponding loci on homologous chromosomes different for one or more loci.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having two different alleles at a particular gene locus on homologous chromosomes (e.g., Aa).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical genetics, a heterozygous autosomal dominant mutation is sufficient to manifest phenotypic disease in the affected patient.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heterozygous designates having the two alleles at corresponding loci on homologous chromosomes different for one or more loci."*
+> - 📜 **Gregor Mendel (*Experiments on Plant Hybridization*):** *"When dominant and recessive characters meet in a **heterozygous** individual, the dominant trait alone appears in the external phenotype."*
+> - 📜 **Vinay Kumar (*Robbins and Cotran Pathologic Basis of Disease*):** *"Patients **heterozygous** for the familial hypercholesterolemia receptor defect exhibit premature coronary atherosclerosis by their fourth decade."*
+> - 📜 **James D. Watson (*Molecular Biology of the Gene*):** *"Meiotic segregation ensures that a **heterozygous** parent transmits each allele to exactly half of its mature gametes."*

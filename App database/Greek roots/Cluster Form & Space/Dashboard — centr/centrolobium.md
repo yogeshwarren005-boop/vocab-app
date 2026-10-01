@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of centrolobium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of centrolobium.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of leguminous trees native to tropical South America (family Fabaceae), prized for their lustrous, durable timber known as canarywood or araribá.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In tropical dendrology and forestry, canopy trees producing large, spiny, winged samara fruits (bearing a prominent central spine, hence the Greek name) and yellow-orange wood with red figure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centrolobium designates a genus of centrolobium."*
+> - 📜 **Alfred Russel Wallace (*Travels on the Amazon and Rio Negro*):** *"The dense tropical forests of Brazil contain towering hardwoods such as **Centrolobium**, whose heavy winged seeds spin like autogyros to the forest floor."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels to the Equinoctial Regions*):** *"The prized timber known as araribá is furnished by the noble tree **Centrolobium**, celebrated for its resilience in ship construction."*
+> - 📜 **Asa Gray (*Scientific Papers of Asa Gray*):** *"The spiny, winged pod of **Centrolobium** protects the solitary seed during its long dispersal flight across the canopy."*

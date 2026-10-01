@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a metaphysical manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a metaphysical manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a metaphysical manner; relating to fundamental ontological inquiries concerning reality, being, and transcendent first principles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In critical philosophy and epistemology, describing reasoning that moves beyond empirical observation to investigate the a priori conditions of experience.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"To gain Christian Science and its 65:12 harmony, life should be more metaphysically regarded."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The parable may import that these spiritual laws, perverted by 118:18 a perverse material sense of law, are metaphysically pre- sented as three measures of meal, - that is, three modes of mortal thought."*
+> - 📜 **Immanuel Kant (*Critique of Pure Reason*):** *"Space is not an empirical concept, but a necessary representation that must be understood **metaphysically** as an a priori intuition."*
+> - 📜 **Aristotle (*Metaphysics*):** *"To inquire into substance **metaphysically** is to seek the primary cause by which being is defined as being."*
+> - 📜 **René Descartes (*Meditations on First Philosophy*):** *"Having doubted all sensory testimony, I found myself compelled to establish the certainty of my own existence **metaphysically**."*

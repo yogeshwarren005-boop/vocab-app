@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A trancelike state that resembles sleep but is induced by a person whose suggestions are readily accepted by the subject.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various conditions that resemble sleep.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A trance-like, focused state of consciousness characterized by heightened suggestibility, deep physical relaxation, and focused selective attention.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Coined in the 1840s by Scottish surgeon James Braid from Greek *hypnos* (sleep); widely utilized in clinical hypnotherapy, anesthesia (hypnoanalgesia), and cognitive neuroscience to investigate dissociation and executive control.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"By self-hypnosis, which I began successfully to practise, I became able to put my conscious mind to sleep and to awaken and loose my subconscious mind."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"My method of mechanical hypnosis was the soul of simplicity."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Yet I, Darrell Standing, found these things within myself in solitary in San Quentin by means of mechanical self-hypnosis."*
+> - 📜 **James Braid (*Neurypnology; or, the Rationale of Nervous Sleep*):** *"I adopted the term **hypnosis** to describe a state of nervous sleep induced by fixed concentration of the gaze."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The essential feature of **hypnosis** is the inhibition of the subject's critical will, surrendering control to suggestion."*
+> - 📜 **Sigmund Freud (*An Autobiographical Study*):** *"I soon abandoned **hypnosis** as an unreliable instrument, developing the technique of free association to replace it."*

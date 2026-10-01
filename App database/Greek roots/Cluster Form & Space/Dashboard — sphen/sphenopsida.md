@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Horsetails and related forms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Horsetails and related forms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxonomic class of primitive, seedless vascular plants (the horsetails and scouring rushes) characterized by jointed stems, whorled microphylls, and terminal strobili.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In paleobotany, Sphenopsida (or Equisetopsida) flourished during the Carboniferous as giant arborescent calamites (*Calamites*) forming major coal deposits, surviving today only in the genus *Equisetum*.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sphenopsida designates horsetails and related forms."*
+> - 📜 **F. O. Bower (*The Origin of a Land Flora*):** *"The articulate stem and whorled appendages of **Sphenopsida** represent a distinct and ancient architectural design in vascular plants."*
+> - 📜 **Katherine Esau (*Plant Anatomy*):** *"Stems of modern **Sphenopsida** are impregnated with silica, giving them an abrasive texture utilized as scouring rushes."*
+> - 📜 **Eduard Strasburger (*Textbook of Botany*):** *"Giant tree-like representatives of **Sphenopsida** formed the dense canopy of Carboniferous coal-swamp forests."*

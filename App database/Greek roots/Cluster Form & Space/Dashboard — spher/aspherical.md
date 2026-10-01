@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Varying slightly from a perfectly spherical shape.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Varying slightly from a perfectly spherical shape.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Departing from a true spherical form; having non-spherical curvature, especially of an optical lens or mirror.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In astronomical telescope design and camera manufacturing, aspherical surfaces focus all incoming parallel rays to a single point, avoiding optical blur.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aspherical designates varying slightly from a perfectly spherical shape."*
+> - 📜 **Isaac Newton (*Opticks*):** *"If glass-grinders could accurately shape **aspherical** figures like parabolas, refraction errors would be greatly diminished."*
+> - 📜 **George Ellery Hale (*Ten Years' Work of a Mountain Observatory*):** *"Polishing the massive **aspherical** mirror for the reflector telescope required months of optical testing."*
+> - 📜 **John Herschel (*The Telescope*):** *"The slight hyperbolic deviation from spherical geometry gives the **aspherical** mirror its unsurpassed sharpness."*

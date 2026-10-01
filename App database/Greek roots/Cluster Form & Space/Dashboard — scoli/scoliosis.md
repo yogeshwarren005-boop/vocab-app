@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A lateral curvature of the spine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A lateral curvature of the spine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal lateral curvature and rotational deformity of the vertebral column.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pediatric orthopedics, a common spinal disorder categorized as idiopathic, congenital, or neuromuscular, quantified on radiographs by Cobb's angle.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scoliosis designates a lateral curvature of the spine."*
+> - 📜 **Hippocrates (*On the Articulations*):** *"Curvatures of the spine which occur laterally, termed **scoliosis**, are frequently caused by unequal muscular contractions or habits of posture."*
+> - 📜 **Lewis Sayre (*Lectures on Orthopedic Surgery and Diseases of the Joints*):** *"The rotary element in adolescent **scoliosis** produces prominence of the ribs on the convex side, forming a characteristic rib hump."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"Lateral **scoliosis** shifts the thoracic viscera, compressing the lung on the concave side of the primary curvature."*

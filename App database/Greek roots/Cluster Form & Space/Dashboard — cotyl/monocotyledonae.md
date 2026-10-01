@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Comprising seed plants that produce an embryo with a single cotyledon and parallel-veined leaves: includes grasses and lilies and palms and orchids; divided into four subclasses or superorders: alismatidae; arecidae; commelinidae; and liliidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Comprising seed plants that produce an embryo with a single cotyledon and parallel-veined leaves: includes grasses and lilies and palms and orchids; divided into four subclasses or superorders: alismatidae; arecidae; commelinidae; and liliidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A major botanical taxon (class) comprising all monocotyledonous flowering plants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical plant taxonomy, the group of angiosperms possessing a single seed lobe, scattered stele bundles, fibrous root systems, and trimerous flowers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monocotyledonae designates comprising seed plants that produce an embryo with a single cotyledon and parallel-veined leaves: includes grasses and lilies and palms and orchids; divided into four subclasses or superorders: alismatidae; arecidae; commelinidae; and liliidae."*
+> - 📜 **Adolf Engler (*Syllabus der Pflanzenfamilien*):** *"Within the division Angiospermae, the class **Monocotyledonae** constitutes an extraordinarily uniform and natural evolutionary branch."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The **Monocotyledonae** include not only our humble pasture grasses but also the most magnificent and bizarre tropical orchids."*
+> - 📜 **Asa Gray (*Manual of Botany*):** *"The embryo in **Monocotyledonae** remains undivided, sending up a single cylindrical green shoot upon germination."*

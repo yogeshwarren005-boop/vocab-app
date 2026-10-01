@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a typical manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a typical manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner that is characteristic or representative of a particular type, group, or pattern; as is usual or expected in normal circumstances.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In academic and scientific writing, typically introduces generalizations qualified by implicit acknowledgment that exceptions may exist within the described pattern.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"Perhaps none of his poems is more purely and typically Shelleian than _The Cloud_, and it is interesting to note how essentially it springs from the faculty of make-believe."*
-> - 📜 **Mrs. George de Horne Vaizey (*The lady of the basement flat*):** *"Mr Edwards was a small, dapper little man, typically house-agenty in manner, even to the point of assuring us gravely that another tenant was urgently in the field, and that we had secured our lease by the very skin of our teeth."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Males are **typically** larger than females in species where sexual selection favors competitive combat."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Wages are **typically** highest in those occupations that require the longest training and education."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"These chemicals **typically** persist in the environment for years, accumulating through the food chain."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek itis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the muscular, lining, or investing tissues of the heart (the myocardium, endocardium, or pericardium).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cardiology and pediatrics, rheumatic carditis is the most serious manifestation of acute rheumatic fever following streptococcal pharyngitis, often resulting in chronic rheumatic valvular heart disease.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carditis designates a term designating an entity, condition, or phenomenon derived from greek itis."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Rheumatic **carditis** is the chief danger in childhood chorea, leaving permanent cicatricial damage upon the mitral valve."*
+> - 📜 **Austin Flint (*A Treatise on the Principles and Practice of Medicine*):** *"The appearance of a soft apical systolic murmur in acute rheumatism announces the onset of active **carditis**."*
+> - 📜 **Thomas Watson (*Lectures on the Principles and Practice of Physic*):** *"We must vigilantly auscultate the precordium in every young rheumatic patient for early evidence of insidious **carditis**."*

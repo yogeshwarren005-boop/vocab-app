@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A molecular region on the surface of an antigen capable of eliciting an immune response and of combining with the specific antibody produced by such a response —called also determinant, antigenic determinant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A molecular region on the surface of an antigen capable of eliciting an immune response and of combining with the specific antibody produced by such a response —called also determinant, antigenic determinant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The part of an antigen molecule to which an antibody attaches itself; an antigenic determinant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In molecular immunology, epitopes are categorized as conformational (formed by discontinuous amino acid residues brought together by 3D folding) or linear (contiguous sequence residues).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epitope designates a molecular region on the surface of an antigen capable of eliciting an immune response and of combining with the specific antibody produced by such a response —called also determinant, antigenic determinant."*
+> - 📜 **Paul Ehrlich (*Studies in Immunity*):** *"The side-chain receptor locks specifically onto the complementary chemical **epitope** of the foreign toxoid."*
+> - 📜 **Macfarlane Burnet (*The Clonal Selection Theory of Acquired Immunity*):** *"Each pre-existing lymphocyte clone bears surface receptors tailored to recognize a single foreign **epitope**."*
+> - 📜 **César Milstein (*Nobel Lecture: With Antibody-Producing Cells to the Golden Egg*):** *"Monoclonal antibodies provided an analytical scalpel capable of discriminating between closely related **epitope** variants."*

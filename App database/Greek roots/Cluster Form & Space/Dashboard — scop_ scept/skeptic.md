@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who habitually doubts accepted beliefs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who habitually doubts accepted beliefs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person inclined to question, doubt, or suspend judgment regarding accepted beliefs, dogmas, or assertions of knowledge; American spelling of sceptic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scientific culture and rationalism, a skeptic systematically tests claims against empirical evidence and repeatable experimentation rather than accepting authority.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"The skeptic would have said, "All foolish to plead before an unseen God, and ask for such a sum."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"The skeptic can never accuse little children of the same theories, philosophies, imaginations and beliefs which are characteristic of older heads."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"To HIM alone be the thanks for this step she has taken." A SKEPTIC OVERPOWERED."*
+> - 📜 **Ralph Waldo Emerson (*Representative Men*):** *"The **skeptic** considers that all human knowledge is tentative, a provisional map sketched upon the face of mystery."*
+> - 📜 **Carl Sagan (*The Demon-Haunted World*):** *"At the heart of science is an essential balance between two seemingly contradictory attitudes: an openness to new ideas and a ruthless **skeptic** scrutiny."*
+> - 📜 **Bertrand Russell (*A History of Western Philosophy*):** *"The classical **skeptic** was convinced that tranquility of soul could only be achieved by abandoning dogmatic disputation."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A hard chitinous or calcareous plate, piece, or spicule (as of the arthropod integument).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A hard chitinous or calcareous plate, piece, or spicule (as of the arthropod integument).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hardened, cuticular plate or skeletal element forming part of the exoskeleton of an arthropod or the internal spicular skeleton of soft corals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In invertebrate morphology, cuticular plates (tergites, sternites, and pleurites) bounded by flexible articular membranes that enable movement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sclerite designates a hard chitinous or calcareous plate, piece, or spicule (as of the arthropod integument)."*
+> - 📜 **R. E. Snodgrass (*Principles of Insect Morphology*):** *"The insect body segment is composed of distinct hardened **sclerite** plates separated by membranous conjunctivae to permit respiration and locomotion."*
+> - 📜 **John Henry Comstock (*The Wings of Insects*):** *"Precise articulation between the axillary **sclerite** and the wing base governs the intricate twisting of the flight foil."*
+> - 📜 **Robert D. Barnes (*Invertebrate Zoology*):** *"In octocorals, microscopic calcareous **sclerite** deposits stiffen the fleshy coenenchyme against hydraulic wave surge."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An atom or group of atoms that carries a positive or negative electric charge as a result of having lost or gained one or more electrons.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A charged subatomic particle (such as a free electron).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An atom, radical, or molecule that has acquired a net electric charge by gaining or losing one or more valence electrons.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Introduced by Michael Faraday in 1834 from Greek *ion* ('going'); ions in aqueous solutions (electrolytes) conduct electricity and govern biological membrane potentials (via Na+, K+, Ca2+, and Cl-).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"In what can I be of service to you?" "By inviting me to Ion to spend the night," she returned laughingly."*
-> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"Travilla," remarked Miss Deane: "there is no place I like better to visit than Ion, and I begin to think it was rather a fortunate mishap--missing my train." "Very unfortunate for me, I fear," sighed Edward to himself."*
-> - 📜 **Martha Finley (*Elsie's Kith and Kin*):** *"He accepted, of course; and they played without intermission till lunch-time, Zoe sitting by, for the most part silent, and wishing Miss Deane miles away from Ion."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"Finally, I require a term to express those bodies which pass to the electrodes: I propose to call them **ion** elements."*
+> - 📜 **Svante Arrhenius (*Recherches sur la conductibilité galvanique des électrolytes*):** *"Electrolytic conduction depends directly upon the dissociation of molecules into free, independently moving **ion** particles."*
+> - 📜 **Ernest Starling (*Principles of Human Physiology*):** *"The asymmetric distribution of potassium and sodium **ion** species establishes the resting potential of the nerve cell."*

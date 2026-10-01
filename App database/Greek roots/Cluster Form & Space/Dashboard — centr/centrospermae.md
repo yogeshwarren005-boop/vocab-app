@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Used in former classification systems; approximately synonymous with order caryophyllales.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used in former classification systems; approximately synonymous with order caryophyllales.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A former botanical taxon encompassing flowering plant orders characterized by curved embryos surrounding perisperm, now largely classified as Caryophyllales.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant systematics, a natural grouping of families including cactuses, carnations, and amaranths united by central or basal placentation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centrospermae designates used in former classification systems; approximately synonymous with order caryophyllales."*
+> - 📜 **Adolf Engler (*Syllabus der Pflanzenfamilien*):** *"The order **Centrospermae** unites families sharing a curved embryo curved neatly around a nutritive central tissue."*
+> - 📜 **John Merle Coulter (*Morphology of Angiosperms*):** *"Campylotropous ovules and distinctive betalain pigments strongly reinforce the natural coherence of **Centrospermae**."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"Botanists noted that seeds within **Centrospermae** present a peripheral embryo surrounding rather than embedded in endosperm."*

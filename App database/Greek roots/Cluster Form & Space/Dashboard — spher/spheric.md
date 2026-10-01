@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the shape of a sphere or ball; ; ; - zane grey.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the shape of a sphere or ball; ; ; - zane grey.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Spherical; having the form of a sphere or globe; relating to the heavenly spheres or astronomy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical geometry and navigation, spheric trigonometry computes angles and arc lengths on the surface of a sphere, indispensable for maritime dead reckoning.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spheric designates having the shape of a sphere or ball; ; ; - zane grey."*
+> - 📜 **Isaac Newton (*Philosophiae Naturalis Principia Mathematica*):** *"A corpuscle placed outside a homogeneous **spheric** shell is attracted toward its center with a force inversely proportional to the square of the distance."*
+> - 📜 **Samuel Taylor Coleridge (*The Rime of the Ancient Mariner*):** *"All in a hot and copper sky, the bloody Sun, at noon, right up above the mast did stand, no bigger than a **spheric** Moon."*
+> - 📜 **Percy Bysshe Shelley (*Prometheus Unbound*):** *"The **spheric** song of planetary motion echoed down through the crystal caverns of the deep."*

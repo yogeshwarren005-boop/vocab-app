@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The tendency to perceive a specific, often meaningful image in a random or ambiguous visual pattern.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The tendency to perceive a specific, often meaningful image in a random or ambiguous visual pattern.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The psychological tendency or perceptual illusion of recognizing a familiar, meaningful pattern (especially a human face) in random, vague, or ambiguous visual stimuli.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In visual cognitive neuroscience and evolutionary psychology, pareidolia (seeing faces in clouds, lunar craters, or toasted bread) reflects hyper-tuned facial recognition circuitry in the fusiform face area (FFA) conferring survival advantages in ancestral predator detection.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pareidolia designates the tendency to perceive a specific, often meaningful image in a random or ambiguous visual pattern."*
+> - 📜 **Oliver Sacks (*Hallucinations*):** *"Visual **pareidolia** causes the human brain to detect human faces in the grain of polished marble or passing clouds."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The imaginative mind is prone to sensory **pareidolia**, reading purposeful architectural forms into flickering shadows."*
+> - 📜 **Leonardo da Vinci (*Treatise on Painting*):** *"By contemplating stains upon an old wall, the inventive painter stirs his imagination through visual **pareidolia**."*

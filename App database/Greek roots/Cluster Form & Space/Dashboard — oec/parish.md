@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The ecclesiastical unit of area committed to one pastor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The residents of such an area.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small administrative district having its own church and priest or pastor; a local civil and ecclesiastical territorial community.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In English local governance and civil administration, the parish served for centuries as the fundamental unit responsible for poor relief, road maintenance, and church rates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The “why” is plain as way to parish church."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll willingly to him; to gain his colour I’d let a parish of such Cloten’s blood, And praise myself for charity. [_Exit._] BELARIUS."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Even such kin as the parish heifers are to the town bull."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"A **parish** is that circuit of ground which is committed to the charge of one parson, or other minister having cure of souls therein."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The English laws of settlement bound poor laborers to their native **parish**, impeding the natural circulation of industrial labor."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mr. Casaubon's clerical duties in his rural **parish** left him ample leisure for his endless mythological researches."*

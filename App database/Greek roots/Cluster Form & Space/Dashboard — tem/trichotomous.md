@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Divided or dividing into three parts or into threes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Divided or dividing into three parts or into threes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Divided into three parts, elements, or branches; exhibiting trichotomy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical morphology and formal logic, describing floral axes or systems of categorization that diverge into three equivalent coordinate divisions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trichotomous designates divided or dividing into three parts or into threes."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"In certain cymose inflorescences, the main floral peduncle exhibits a regular **trichotomous** ramification."*
+> - 📜 **Charles Sanders Peirce (*Collected Papers*):** *"My fundamental semiotic taxonomy is strictly **trichotomous**, partitioning all signs into sign, object, and interpretant."*
+> - 📜 **George Bentham (*Handbook of the British Flora*):** *"The branching pattern of the terminal cyme appears distinctly **trichotomous** at the primary node."*

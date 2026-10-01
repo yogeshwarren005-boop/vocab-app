@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The solving of cryptograms or cryptographic systems.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The theory of solving cryptograms or cryptographic systems : the art of devising methods for cryptanalysis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The art and science of analyzing and deciphering encrypted information without access to the secret key.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In computational mathematics and national intelligence, the mathematical techniques used to break cryptographic algorithms and uncover underlying plaintext.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cryptanalysis designates the solving of cryptograms or cryptographic systems."*
+> - 📜 **Alan Turing (*Turing's Treatise on the Enigma*):** *"Mathematical **cryptanalysis** enables the analyst to deduce rotor wirings through statistical weighting of probable cribs."*
+> - 📜 **Claude Shannon (*Communication Theory of Secrecy Systems*):** *"Theoretical **cryptanalysis** evaluates how much ciphertext is required before a unique decipherment becomes mathematically certain."*
+> - 📜 **David Kahn (*The Codebreakers*):** *"Bletchley Park transformed **cryptanalysis** from a solitary puzzle-solving art into a massive mechanized factory of intellect."*

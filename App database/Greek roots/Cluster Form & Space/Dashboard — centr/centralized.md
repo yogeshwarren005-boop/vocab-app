@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make central.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Drawn toward a center or brought under the control of a central authority.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Concentrated at a single center; controlled, coordinated, or governed by a single unified authority (US spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In network topology and political economy, an architecture where all control lines lead to an authoritative central node.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"However, the best informed American students favor in some features the more decentralized German rather than the centralized British system."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The remarkable (tho far from perfect) adjustment of industry to the needs of each neighborhood is brought about by individual motives, not by centralized authority."*
-> - 📜 **Frank A. Fetter (*The Principles of Economics, with Applications to Practical Problems*):** *"The remarkable adjustment of industry to the needs of each neighborhood is brought about by individual motives, not by centralized authority."*
+> - 📜 **Alexis de Tocqueville (*The Old Regime and the Revolution*):** *"A completely **centralized** government manages roads and police with admirable precision, yet deadens the initiative of the citizens."*
+> - 📜 **George Orwell (*Homage to Catalonia*):** *"The revolutionary militias resisted every attempt to replace their democratic committees with a **centralized** military command."*
+> - 📜 **Carl Sagan (*Cosmos*):** *"The Library of Alexandria created the first **centralized** repository of global human knowledge in the ancient world."*

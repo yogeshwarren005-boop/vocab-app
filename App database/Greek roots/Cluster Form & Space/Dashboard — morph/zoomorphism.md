@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek zo.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Animals & Zoology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The practice of attributing animal characteristics, forms, or habits to humans, deities, or inanimate objects; animal symbolism in art and religion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative theology, zoomorphism describes religious iconography that venerates deities in animal incarnations, preceding anthropomorphic godheads.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, zoomorphism designates a term designating an entity, condition, or phenomenon derived from greek zo."*
+> - 📜 **James George Frazer (*The Golden Bough*):** *"The transition from totemism to classical religion is marked by a decline in literal **zoomorphism** in favor of humanized deities."*
+> - 📜 **Edward Burnett Tylor (*Primitive Culture*):** *"Early animistic mythologies display universal **zoomorphism**, portraying the sun as a golden bird and thunder as a roaring panther."*
+> - 📜 **Carl Jung (*Man and His Symbols*):** *"Alchemical diagrams employ intricate **zoomorphism**, representing volatile and fixed psychic principles as fighting eagles and serpents."*

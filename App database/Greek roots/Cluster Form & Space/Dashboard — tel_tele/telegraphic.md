@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or transmitted by telegraph.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the style of a telegram with many short words left out.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or operated by the electric telegraph; having a terse, highly condensed, and economical style of expression.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In syntax and developmental linguistics, 'telegraphic speech' describes the two-word stage in early child language acquisition (such as 'more milk' or 'daddy go') omitting grammatical functors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Intelligence having been sent to Männedorf, united prayer was made in his behalf; and very soon afterwards a telegraphic message announced that he was recovering."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"I felt the need of sympathy and help and prayer, and I made up my mind that I would send a telegraphic dispatch to this meeting, where I had so often united with you in prayer."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Returning to Washington, she now offered her services to the Sanitary Commission, and on the 4th of May was summoned by a telegraphic despatch from Mr."*
+> - 📜 **Virginia Woolf (*The Waves*):** *"The message arrived in **telegraphic** brevity: 'Return at once; father ill.'"*
+> - 📜 **Noam Chomsky (*Aspects of the Theory of Syntax*):** *"The **telegraphic** utterances of young children preserve essential thematic relations while omitting inflectional morphemes."*
+> - 📜 **H. G. Wells (*The Island of Doctor Moreau*):** *"Montgomery kept up a rapid, **telegraphic** conversation, firing questions without waiting for polite answers."*

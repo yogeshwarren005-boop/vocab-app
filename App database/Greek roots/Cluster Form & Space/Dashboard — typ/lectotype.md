@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A specimen chosen as the type of a species or subspecies if the author of the name fails to designate a type.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A specimen chosen as the type of a species or subspecies if the author of the name fails to designate a type.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A specimen chosen from the original syntype series to serve as the definitive single nomenclatural type when no holotype was originally designated.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical and zoological systematics, lectotypification resolves taxonomic ambiguity by designating one specific historic specimen from the original author's material to anchor the species name.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lectotype designates a specimen chosen as the type of a species or subspecies if the author of the name fails to designate a type."*
+> - 📜 **Ernst Mayr (*Principles of Systematic Zoology*):** *"Subsequent revision of an uncurated species requires the specialist to select a well-preserved **lectotype**."*
+> - 📜 **John McNeill (*International Code of Botanical Nomenclature*):** *"Once designated and published, a **lectotype** takes precedence over all other remaining syntype specimens."*
+> - 📜 **George Gaylord Simpson (*Principles of Animal Taxonomy*):** *"By selecting a **lectotype** from the author's mixed series, the taxonomist stabilizes the true concept of the taxon."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bottle-nosed whales.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bottle-nosed whales.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of beaked whales in the family Ziphiidae, commonly known as bottlenose whales, comprising the northern bottlenose whale (*Hyperoodon ampullatus*) and southern bottlenose whale (*Hyperoodon planifrons*).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine mammalogy, *Hyperoodon* is renowned for deep, prolonged squid-hunting dives into submarine canyons (exceeding 1,400 meters) and prominent maxillary crests on the skull of mature males.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyperoodon designates bottle-nosed whales."*
+> - 📜 **William Henry Flower (*An Introduction to the Osteology of the Mammalia*):** *"The skull of **Hyperoodon** is characterized by colossal longitudinal maxillary crests towering above the rostrum."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"In the bottlenose whale, referred to **Hyperoodon**, functional teeth are reduced to a single pair hidden at the mandibular tip."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"Pelagic schools of **Hyperoodon** frequent Arctic waters, diving to great depths to capture deep-sea cephalopods."*

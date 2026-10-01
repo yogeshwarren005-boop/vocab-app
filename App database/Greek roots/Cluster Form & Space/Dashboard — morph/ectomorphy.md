@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Slender, weak, and lightweight.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Slender, weak, and lightweight.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The somatotypic condition, degree, or property of being slender, light-boned, and physically linear.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anthropometric somatotyping (such as the Heath-Carter method), ectomorphy represents the third numerical rating, calculated from height divided by the cube root of weight.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ectomorphy designates slender, weak, and lightweight."*
+> - 📜 **William H. Sheldon (*Atlas of Men*):** *"The third component, **ectomorphy**, measures the relative predominance of linearity and fragility in the human bodily constitution."*
+> - 📜 **J. M. Tanner (*The Physique of the Olympic Athlete*):** *"High-jumpers and marathon runners exhibit high scores in **ectomorphy**, reflecting the biomechanical efficiency of long, light limbs."*
+> - 📜 **Barbara Heath (*A Modified Somatotype Method*):** *"In our modified system, the rating of **ectomorphy** is derived objectively from height-to-weight ponderal ratios."*

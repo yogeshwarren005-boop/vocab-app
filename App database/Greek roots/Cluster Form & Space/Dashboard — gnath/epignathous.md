@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of jaw.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of jaw.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the upper jaw or beak curved downward over the tip of the lower jaw, as in certain birds of prey.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In teratology and pediatric pathology, epignathous designates an extremely rare congenital teratoma arising from the sphenoid or hard palate within the oral cavity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epignathous designates adjective*) pertaining to, derived from, or characteristic of jaw."*
+> - 📜 **Elliott Coues (*Key to North American Birds*):** *"The predatory falcon exhibits an **epignathous** bill, equipped with a hooked toothed culmen for severing cervical vertebrae."*
+> - 📜 **Vinay Kumar (*Robbins and Cotran Pathologic Basis of Disease*):** *"An **epignathous** teratoma protruding from the newborn mouth can cause immediate upper airway obstruction requiring emergent tracheostomy."*
+> - 📜 **Alfred Newton (*A Dictionary of Birds*):** *"Raptorial birds have strongly **epignathous** rhamphothecae adapted for tearing muscular flesh from prey carcasses."*

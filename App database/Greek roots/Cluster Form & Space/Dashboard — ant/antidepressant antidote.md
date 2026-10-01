@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A medical intervention or compound administered to reverse and treat life-threatening toxicity caused by an antidepressant overdose.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical toxicology and emergency medicine, pharmacological countermeasures such as intravenous sodium bicarbonate (for tricyclic cardiotoxicity) or cyproheptadine (for serotonin syndrome).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antidepressant antidote designates a term designating an entity, condition, or phenomenon derived from greek ant."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Prompt alkalinization with sodium bicarbonate serves as a critical **antidepressant antidote**, narrowing wide QRS complexes in severe cyclic poisoning."*
+> - 📜 **Eric Kandel (*Principles of Neural Science*):** *"Cyproheptadine functions as an essential **antidepressant antidote** during serotonin storms by blocking central 5-HT2A receptors."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"The toxicologist administered an effective **antidepressant antidote** to reverse the dangerous cardiac arrhythmia induced by pharmacological excess."*

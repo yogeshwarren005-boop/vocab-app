@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of darkness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of darkness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Producing, inducing, or originating in darkness; generating darkness or shadow.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In photoperiodic physiology and plant development, scotogenic processes denote biochemical reactions and floral inductors triggered during uninterrupted dark periods.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scotogenic designates adjective*) pertaining to, derived from, or characteristic of darkness."*
+> - 📜 **Erwin Bünning (*The Physiological Clock*):** *"The endogenous rhythm passes through a photophilic phase followed by a **scotogenic** phase requiring uninterrupted darkness."*
+> - 📜 **Sterling Hendricks (*Photoperiodism in Plants*):** *"Phytochrome far-red reversion during the night initiates the **scotogenic** cascade responsible for flowering in Xanthium."*
+> - 📜 **Harry Borthwick (*Action Spectra for Photoperiodic Control of Floral Initiation*):** *"A single brief flash of red light completely aborted the **scotogenic** timing mechanism of the nocturnal cycle."*

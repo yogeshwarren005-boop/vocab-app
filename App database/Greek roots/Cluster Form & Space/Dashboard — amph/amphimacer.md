@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek amph.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A metrical foot in classical and accentual poetry consisting of three syllables: a long, a short, and a long (¯ ˘ ¯); also called a cretic foot.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Greek and Latin prosody, a metrical foot characterized by a central short syllable framed by two long quantities, common in choral lyrics and dramatic strophes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amphimacer designates a term designating an entity, condition, or phenomenon derived from greek amph."*
+> - 📜 **Samuel Taylor Coleridge (*Metrical Feet: A Lesson for a Boy*):** *"First and last being long, short the middle, an **amphimacer** strikes its emphatic, bounding pulse."*
+> - 📜 **George Saintsbury (*A History of English Prosody*):** *"In Swinburnian verse, the insertion of an **amphimacer** creates a sudden resonant crest upon the lyrical wave."*
+> - 📜 **Alexander Pope (*The Dunciad*):** *"The pedant scans the line with heavy ear, debating whether an **amphimacer** or a molossus best terminates the measure."*

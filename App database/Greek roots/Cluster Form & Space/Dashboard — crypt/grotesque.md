@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or having the characteristics of the grotesque: such as.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fanciful, bizarre.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Comically or repulsively ugly, distorted, or incongruous; bizarre and unnatural in appearance or character.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In art history, decorative painting or sculpture featuring fantastical interweavings of human, animal, and foliate forms discovered originally in excavated Roman subterranean chambers (grottoes).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"There is something grotesque in it."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"None of these sports or exercises being pursued in George’s Shooting Gallery to-night, which is so devoid of company that a little grotesque man with a large head has it all to himself and lies asleep upon the floor."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Between the tower and the church was a close screen, the door of which was kept shut during services, hiding this grotesque clockwork from sight."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The noble **grotesque** in Gothic architecture springs from an earnest, fearless play of the imaginative mind."*
+> - 📜 **Edgar Allan Poe (*Tales of the Grotesque and Arabesque*):** *"The figures were masked in characters so **grotesque** that they seemed born of phantasm and nightmare."*
+> - 📜 **Victor Hugo (*Preface to Cromwell*):** *"Modern art is born from the fertile union of the **grotesque** with the sublime."*

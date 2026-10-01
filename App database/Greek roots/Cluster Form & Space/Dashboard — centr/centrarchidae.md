@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sunfish family.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sunfish family.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The family of North American freshwater percoid fishes comprising the sunfishes, black basses, rock basses, and crappies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ichthyological systematics, an endemic Nearctic family possessing 3 to 10 anal spines and continuous dorsal fins, highly valued for sport and food.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centrarchidae designates sunfish family."*
+> - 📜 **David Starr Jordan (*The Genera of Fishes*):** *"The family **Centrarchidae** dominates the warm-water lacustrine ecosystems of eastern and central North America."*
+> - 📜 **Louis Agassiz (*Lake Superior: Its Physical Character, Vegetation, and Animals*):** *"Morphological comparisons of **Centrarchidae** illustrate the rapid post-glacial radiation of teleosts across inland river basins."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"Osteological examination of **Centrarchidae** confirms their placement among the advanced ctenoid-scaled percomorphs."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The mature fruiting body of an ascomycetous fungus; broadly : such a body with its enclosed asci, spores, and paraphyses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The mature fruiting body of an ascomycetous fungus; broadly : such a body with its enclosed asci, spores, and paraphyses.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The mature, multicellular fruiting body of an ascomycete fungus that bears spore-producing asci; an ascoma.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mycology, a complex morphological sporophore occurring as an apothecium (cup-shaped), perithecium (flask-shaped), or cleistothecium (enclosed sphere).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ascocarp designates the mature fruiting body of an ascomycetous fungus; broadly : such a body with its enclosed asci, spores, and paraphyses."*
+> - 📜 **William Benjamin Carpenter (*The Microscope and Its Revelations*):** *"In cup-fungi, the disc-shaped **ascocarp** exposes millions of upright asci lined together along the fertile hymenium."*
+> - 📜 **Julian Huxley (*Evolution: The Modern Synthesis*):** *"The edible morel represents a complex folded **ascocarp** engineered by natural selection to maximize ascospore dispersal."*
+> - 📜 **Anton de Bary (*Comparative Morphology and Biology of the Fungi*):** *"Development of the **ascocarp** begins with intimate contact between the antheridium and ascogonium on mycelial hyphae."*

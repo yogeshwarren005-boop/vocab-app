@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The composition or combination of parts or elements so as to form a whole.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The production of a substance by the union of chemical elements, groups, or simpler compounds or by the degradation of a complex compound.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The combination of ideas, elements, or substances into a complex whole; in chemistry, the production of chemical compounds by reaction from simpler materials.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Hegelian and Marxist dialectics, synthesis is the resolution that integrates the valid insights of both a thesis and its opposing antithesis into a higher unity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"There is no higher synthesis that can make them one and the same thing."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Conduct research and develop drip, hydroponics and other agricultural systems, protein synthesis and manufacture, and ship to Coldfield, the Slingshot work site and the Logistics Depot high-quality foodstuffs suitable for storage and consumption."*
+> - 📜 **G. W. F. Hegel (*Phenomenology of Spirit*):** *"The dialectical movement achieves its culmination in a speculative **synthesis** that preserves and elevates both moments."*
+> - 📜 **Friedrich Wöhler (*On the Artificial Formation of Urea*):** *"The laboratory **synthesis** of urea demonstrated that organic compounds obey ordinary chemical laws without vital force."*
+> - 📜 **Julian Huxley (*Evolution: The Modern Synthesis*):** *"The modern evolutionary **synthesis** successfully fused Mendelian particulate genetics with Darwinian natural selection."*

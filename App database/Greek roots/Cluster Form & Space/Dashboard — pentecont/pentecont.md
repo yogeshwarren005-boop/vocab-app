@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek pentecont.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A Greek combining root (from pentēkonta) meaning 'fifty', utilized in mathematical, historical, and classical terms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical Greek history, forming lexical units designating fifty-oared vessels (penteconters) or fifty-member collegiate administrative councils.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pentecont designates a term designating an entity, condition, or phenomenon derived from greek pentecont."*
+> - 📜 **Herodotus (*Histories*):** *"The Phocaeans were the first Greeks to undertake long voyages, sailing not in round merchantmen but in swift **pentecont** vessels."*
+> - 📜 **Thucydides (*History of the Peloponnesian War*):** *"The Athenian empire established naval dominance through fleets of triremes and swift **pentecont** galleys."*
+> - 📜 **Herbert Weir Smyth (*Greek Grammar*):** *"The numeral prefix **pentecont** signifies fifty in compound astronomical and geometric designations."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a large brain case.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a large brain case.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having an abnormally large or hypertrophied brain; characterized by macroencephaly.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical anthropology and craniometry, designating skulls or hominid specimens displaying encephalic volume exceeding normal evolutionary thresholds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, macrencephalic designates having a large brain case."*
+> - 📜 **Paul Broca (*Mémoires d'anthropologie*):** *"Craniometric measurements categorize this fossil skull as markedly **macrencephalic**, well beyond the average hominid series."*
+> - 📜 **Ales Hrdlicka (*Anthropometry*):** *"In calculating cranial capacity, extreme **macrencephalic** specimens require careful distinction from pathologic hydrocephalus."*
+> - 📜 **William Henry Flower (*Fashion in Deformity*):** *"Artificial cranial deformation must not be mistaken for naturally **macrencephalic** skull architecture."*

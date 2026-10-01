@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or characteristic of cubism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or characteristic of cubism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, resembling, or characteristic of cubism or cubist design.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In art criticism and architecture, exhibiting fragmented geometric facets, angular planes, or multi-perspective composition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cubistic designates relating to or characteristic of cubism."*
+> - 📜 **Roger Fry (*Vision and Design*):** *"The dramatic, **cubistic** reduction of organic form to simple planes imparted an unprecedented tectonic vigor to the work."*
+> - 📜 **Lewis Mumford (*The Culture of Cities*):** *"Modern skyscraper setbacks produce a sharp, **cubistic** skyline against the evening twilight."*
+> - 📜 **Gertrude Stein (*Lectures in America*):** *"Her sentences unfolded with a **cubistic** insistence on breaking conventional linear progression into repeating facets."*

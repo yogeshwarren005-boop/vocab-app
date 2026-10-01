@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of nipple.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of nipple.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or pertaining to a nipple (papilla mammae) or to an epithelial cellular layer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anatomical lexicography, derived from Greek *thele* (nipple), forming the morphological root of terms such as thelium, epithelium, and endothelium.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thelial designates adjective*) pertaining to, derived from, or characteristic of nipple."*
+> - 📜 **Frederik Ruysch (*Opera Omnia Anatomico-Medico-Chirurgica*):** *"The delicate papillary tissue of the **thelial** surface displays rich cutaneous nerve endings."*
+> - 📜 **Henry Gray (*Gray's Anatomy*):** *"Sensory receptors beneath the **thelial** epidermis mediate the suckling reflex in nursing mothers."*
+> - 📜 **Arthur Keith (*Human Embryology and Morphology*):** *"Embryonic involution of the mammary ridge leaves only the specialized **thelial** projection."*

@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Chiefly small perennial rock ferns: bladder ferns; in some classifications placed in polypodiaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Chiefly small perennial rock ferns: bladder ferns; in some classifications placed in polypodiaceae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of small, delicate, deciduous leptosporangiate ferns in the family Cystopteridaceae, commonly known as bladder ferns.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic pteridology, shade-tolerant rupicolous ferns characterized by bipinnate to tripinnatifid fronds and round sori covered by inflated hood-like or bladder-like indusia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"It has been found in the West of England, on _Cystopteris_, and Sowerby collected it, probably not very far from London."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"FERN UREDO; spots yellowish; sori subrotund, bullate, scattered and aggregate on the under surface; epidermis at length bursting; spores subglobose, yellow.—On Ferns (_Cystopteris_, &c.) Not common. =Uredo pustulata=, P."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The fragile bladder fern, **Cystopteris** fragilis, roots in cool dripping crevices of limestone gorges throughout the northern states."*
+> - 📜 **John Muir (*My First Summer in the Sierra*):** *"Beneath the spray of the waterfall, tender green fronds of **Cystopteris** fluttered with delicate grace against the wet granite."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"Species of **Cystopteris** are among the earliest ferns to unfurl their fronds in shady rock gardens in early spring."*

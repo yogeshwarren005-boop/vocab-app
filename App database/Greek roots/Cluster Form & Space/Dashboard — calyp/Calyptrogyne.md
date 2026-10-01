@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek calyp.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of small, understory palms native to Central and northern South America, belonging to the Arecaceae family.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In tropical botany and palm systematics, dwarf rainforest palms whose flower petals form a deciduous cap or calyptra, commonly known as coligallo.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Calyptrogyne designates a term designating an entity, condition, or phenomenon derived from greek calyp."*
+> - 📜 **Alfred Russel Wallace (*Palm Trees of the Amazon and Their Uses*):** *"In the deep shade of the virgin rainforest, the slender fronds of **Calyptrogyne** form dense thickets beneath the forest canopy."*
+> - 📜 **Asa Gray (*Scientific Papers of Asa Gray*):** *"The distinctive hood-like floral calyptra of **Calyptrogyne** protects the reproductive organs from torrential tropical rains."*
+> - 📜 **Alexander von Humboldt (*Aspects of Nature*):** *"Dwarf understory palms such as **Calyptrogyne** add graceful miniature architecture to the equatorial jungle floor."*

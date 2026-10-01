@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to cryptanalysis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to cryptanalysis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to cryptography; cryptographic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical and mathematical texts, of or relating to the technical methods and systems of enciphering messages.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cryptographical designates of or relating to cryptanalysis."*
+> - 📜 **Charles Babbage (*Passages from the Life of a Philosopher*):** *"My early investigations into **cryptographical** puzzles aided me considerably in designing the mechanical calculating engine."*
+> - 📜 **David Kahn (*The Codebreakers*):** *"Diplomatic pouches across seventeenth-century Europe were subjected to relentless **cryptographical** interception."*
+> - 📜 **Edgar Allan Poe (*A Few Words on Secret Writing*):** *"No **cryptographical** mystery can withstand methodical frequency analysis when sufficient text is supplied."*

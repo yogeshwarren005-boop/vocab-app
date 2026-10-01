@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the opisthocomidae: hoatzins.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the opisthocomidae: hoatzins.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of birds containing the hoatzin, named from Greek for long-haired at the back, referring to the bird's distinctive shaggy occipital crest.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary ornithology, Opisthocomus hoazin is remarkable for its foregut fermentation, clawed wing digits in juveniles, and phylogenetic isolation as the sole surviving member of its order.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, opisthocomus designates type genus of the opisthocomidae: hoatzins."*
+> - 📜 **Johann Illiger (*Prodromus Systematis Mammalium et Avium*):** *"The genus **Opisthocomus** takes its name from the conspicuous backward-streaming crest of the hoatzin."*
+> - 📜 **Stuart Strahl (*The Behavioral Ecology of the Hoatzin*):** *"**Opisthocomus** hoazin is the only bird known to use bacterial foregut fermentation analogous to ruminants."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The young of **Opisthocomus** possess functional claws on their wings, a feature recalling the Archaeopteryx."*

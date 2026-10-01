@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the cyclopteridae: lumpfishes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the cyclopteridae: lumpfishes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The type genus of lumpfishes in the family Cyclopteridae, represented by the common lumpfish (Cyclopterus lumpus).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine biology and commercial fisheries, a heavy, humpbacked North Atlantic fish whose adhesive pelvic disc holds it securely to rocks and whose roe is harvested as caviar substitute.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cyclopterus designates type genus of the cyclopteridae: lumpfishes."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"In **Cyclopterus**, the modified pelvic fins form a circular adhesive sucker of extraordinary holding power upon wet rock."*
+> - 📜 **Spencer Fullerton Baird (*Report on the Condition of the Sea Fisheries*):** *"Fishermen frequently pull up specimens of **Cyclopterus** firmly attached to the bottom of offshore lobster pots."*
+> - 📜 **Louis Agassiz (*Methods of Study in Natural History*):** *"The male **Cyclopterus** guards the cluster of eggs with fierce maternal fidelity, fan-sweeping clean water over the brood."*

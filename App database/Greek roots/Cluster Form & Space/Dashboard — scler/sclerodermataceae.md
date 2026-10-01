@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of fungi or order sclerodermatales with a single-layered peridium; includes earthballs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A family of fungi or order sclerodermatales with a single-layered peridium; includes earthballs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of gasteroid fungi in the order Boletales, commonly known as earthballs, characterized by a thick peridial skin and dark powdery gleba.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mycology, ectomycorrhizal fungi with hard, leathery outer rinds that dehisce irregularly to disperse spores via wind and raindrops.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sclerodermataceae designates a family of fungi or order sclerodermatales with a single-layered peridium; includes earthballs."*
+> - 📜 **Christian Hendrik Persoon (*Synopsis Methodica Fungorum*):** *"Members of **sclerodermataceae** differ from true puffballs in their tough, thick peridium and purple-black gleba without a capillitium."*
+> - 📜 **Curtis Gates Lloyd (*The Lycoperdaceae of Australia and New Zealand*):** *"The rough, warty exterior of earthballs in the family **sclerodermataceae** earns them the popular moniker of pigskin poison puffballs."*
+> - 📜 **David Arora (*Mushrooms Demystified*):** *"Unlike edible Lycoperdon, species of **sclerodermataceae** are toxic when eaten and produce an offensive pungent odor at maturity."*

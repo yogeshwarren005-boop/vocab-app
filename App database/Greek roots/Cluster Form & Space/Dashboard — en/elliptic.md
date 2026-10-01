@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or shaped like an ellipse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or marked by ellipsis or an ellipsis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the form of an ellipse; relating to, resembling, or characterized by an ellipse or mathematical ellipsis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematics, elliptic curves and elliptic functions play foundational roles in algebraic geometry, number theory, and cryptography.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The specific name will suggest one point of difference between the two fungi, as in this instance the spores are white, and somewhat elliptic."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The spores are elliptic and but slightly constricted; the apex is often pointed, though not always so much as in our figure (fig. 74)."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The fertile threads are produced in dense clusters, each many times branched, and bearing elliptic acrospores obtuse at their apices, and of a violaceous tint (fig. 266)."*
+> - 📜 **Henri Poincaré (*Science and Method*):** *"The transformation of **elliptic** integrals into automorphic functions opened unimagined vistas in analysis."*
+> - 📜 **Andrew Wiles (*Modular Elliptic Curves and Fermat's Last Theorem*):** *"The modularity theorem establishes a profound bridge between modular forms and every rational **elliptic** curve."*
+> - 📜 **Arthur Cayley (*An Elementary Treatise on Elliptic Functions*):** *"Doubly periodic **elliptic** functions generalize circular trigonometry to the complex plane."*

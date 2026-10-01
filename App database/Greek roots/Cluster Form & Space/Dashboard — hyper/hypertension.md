@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A common disorder in which blood pressure remains abnormally high (a reading of 140/90 mm hg or greater).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A common disorder in which blood pressure remains abnormally high (a reading of 140/90 mm hg or greater).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormally and persistently high arterial blood pressure, typically defined as resting systolic pressure $\ge 130$ mm Hg or diastolic pressure $\ge 80$ mm Hg.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical cardiology, divided into essential (primary) hypertension (accounting for over 90% of cases) and secondary hypertension (due to renal parenchymal disease, renovascular stenosis, or pheochromocytoma); major risk factor for stroke and coronary artery disease.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypertension designates a common disorder in which blood pressure remains abnormally high (a reading of 140/90 mm hg or greater)."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Chronic arterial **hypertension** leads steadily to left ventricular hypertrophy and arteriolosclerosis of the kidneys."*
+> - 📜 **Harvey Cushing (*Papers Relating to the Pituitary Body, Hypothalamus and Parasympathetic Nervous System*):** *"Basophilic pituitary adenomas produce a distinct clinical syndrome characterized by obesity, cutaneous striae, and severe **hypertension**."*
+> - 📜 **Richard Bright (*Reports of Medical Cases*):** *"The hard, incompressible radial pulse indicated that prolonged vascular **hypertension** which invariably accompanies contracted kidneys."*

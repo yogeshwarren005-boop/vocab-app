@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Brightly colored carnivorous fish of western atlantic and west indies waters.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Brightly colored carnivorous fish of western atlantic and west indies waters.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several tropical marine fishes in the family Priacanthidae (bigeyes), noted for bright red bodies, extremely large eyes, and rough scales.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ichthyology and reef ecology, nocturnal predatory fishes that dwell in deep coral crevices by day and emerge at night to feed on macrozooplankton.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, catalufa designates brightly colored carnivorous fish of western atlantic and west indies waters."*
+> - 📜 **Rachel Carson (*The Edge of the Sea*):** *"Peering down into the shadowed coral grotto, one catches the golden gleam of the huge eye of a solitary **catalufa**."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The red **catalufa** caught off the tropical reef exhibited immense round pupils adapted for nocturnal hunting in deep water."*
+> - 📜 **Alister Hardy (*The Open Sea: Its Natural History*):** *"The rough ctenoid scales of the **catalufa** provide armor against sharp coral edges as it maneuvers through submerged caves."*

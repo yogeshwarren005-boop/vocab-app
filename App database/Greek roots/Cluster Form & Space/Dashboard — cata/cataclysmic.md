@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Severely destructive.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Severely destructive.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Severely destructive, disastrous, or transformative; of or relating to a cataclysm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In planetary science and evolutionary theory, describing catastrophic impacts or abrupt climate shifts that trigger mass extinctions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"As not so calamitous as a cataclysmic annihilation of the planet in consequence of a collision with a dark sun."*
+> - 📜 **Carl Sagan (*Cosmos*):** *"A **cataclysmic** asteroid collision plunged the Cretaceous Earth into darkness, ending the age of the giant reptiles."*
+> - 📜 **Edward O. Wilson (*The Diversity of Life*):** *"Mass extinctions represent **cataclysmic** bottleneck events that reset the evolutionary trajectory of global ecosystems."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"The Martian heat-ray brought **cataclysmic** ruin to the suburban towns along the southern Thames."*

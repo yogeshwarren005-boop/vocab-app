@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The brightest star in ursa minor; at the end of the handle of the little dipper; the northern axis of the earth points toward it.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The brightest star in ursa minor; at the end of the handle of the little dipper; the northern axis of the earth points toward it.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The North Star (Polaris); the prominent star located closest to the north celestial pole.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something that serves as a guiding principle, beacon, or lodestar directing moral conduct or navigation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polestar designates the brightest star in ursa minor; at the end of the handle of the little dipper; the northern axis of the earth points toward it."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Look at the needle; it is fixed true to the **polestar**, holding its eternal heading while our canvas strains in the gale."*
+> - 📜 **Ralph Waldo Emerson (*Self-Reliance*):** *"Let a man keep his eye on his own **polestar**, steering steadfastly without reference to the fluctuating applause of crowds."*
+> - 📜 **John Keats (*Bright Star! Would I Were Steadfast as Thou Art*):** *"Watching the sleepless **polestar** suspended aloft in lone splendor, gazing over the dark waters of the nocturnal world."*

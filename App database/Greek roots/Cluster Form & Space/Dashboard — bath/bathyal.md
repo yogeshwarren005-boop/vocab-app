@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to ocean depths between 200 and 2000 meters (corresponds to the continental slope).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to ocean depths between 200 and 2000 meters (corresponds to the continental slope).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the deep ocean waters or seafloor between approximately 1,000 and 4,000 meters below the surface, on the continental slope.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In oceanography and marine ecology, the aphotic zone situated between the neritic/epipelagic zone above and the abyssal depths below, characterized by darkness, cold, and high hydrostatic pressure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bathyal designates relating to ocean depths between 200 and 2000 meters (corresponds to the continental slope)."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"In the cold, dim **bathyal** depths along the continental slope, strange organisms with luminous organs drift through perpetual gloom."*
+> - 📜 **Charles Wyville Thomson (*The Voyage of the Challenger*):** *"Dredging operations across the **bathyal** zone retrieved ancient crinoids thought to have vanished since the Mesozoic."*
+> - 📜 **Alister Hardy (*The Open Sea: Its Natural History*):** *"The fauna of the **bathyal** seafloor depends entirely upon organic marine snow falling from the sunlit waters above."*

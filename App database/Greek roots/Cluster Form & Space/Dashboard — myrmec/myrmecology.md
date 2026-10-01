@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific study of ants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The scientific study of ants.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific discipline that studies ants, encompassing their taxonomy, physiology, ecology, behavior, and social organization.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology, myrmecology has provided pioneering insights into kin selection, chemical communication via pheromones, and superorganism theory.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, myrmecology designates the scientific study of ants."*
+> - 📜 **William Morton Wheeler (*Ants: Their Structure, Development and Behavior*):** *"The founding texts of modern **myrmecology** revealed that the ant colony functions as an integrated organic unit."*
+> - 📜 **E. O. Wilson (*The Insect Societies*):** *"Through field **myrmecology**, we discovered how glandular pheromone trails orchestrate complex division of labor among millions of nestmates."*
+> - 📜 **Auguste Forel (*The Social World of the Ants*):** *"Half a century of dedicated **myrmecology** convinced me that instinctive altruism reaches its supreme expression in the anthill."*

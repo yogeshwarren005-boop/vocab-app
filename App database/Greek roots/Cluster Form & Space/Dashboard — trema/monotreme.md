@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of an order (Monotremata) of egg-laying mammals comprising the platypuses and echidnas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of an order (Monotremata) of egg-laying mammals comprising the platypuses and echidnas.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An egg-laying mammal of the order Monotremata, such as the platypus or echidna.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mammalian zoology, every extant monotreme possesses a cloaca, lay leathery eggs, and nurses hatchlings with milk secreted from specialized mammary gland patches without nipples.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monotreme designates any of an order (monotremata) of egg-laying mammals comprising the platypuses and echidnas."*
+> - 📜 **William Henry Flower (*An Introduction to the Osteology of the Mammalia*):** *"The skull of the adult **monotreme** presents complete cranial suture fusion, resembling the condition seen in birds."*
+> - 📜 **Alfred Romer (*Vertebrate Paleontology*):** *"Living fossils such as the Australian **monotreme** illuminate anatomical stages preceding the placental radiation."*
+> - 📜 **Julian Huxley (*Evolution: The Modern Synthesis*):** *"Neither placental nor marsupial, the **monotreme** preserves an ancestral lineage diverging more than two hundred million years ago."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the hyoid bone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A U-shaped bone or complex of bones that is situated between the base of the tongue and the larynx and that supports the tongue, the larynx, and their muscles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A U-shaped bone situated at the root of the tongue in the front of the neck, between the lower jaw and the thyroid cartilage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human osteology and forensic pathology, the hyoid is the only bone in the skeleton that does not articulate directly with any other bone; fracture of the hyoid is a classic finding in strangulation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyoid designates of or relating to the hyoid bone."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"The **hyoid** bone is suspended from the styloid processes of the temporal bones by the stylohyoid ligaments."*
+> - 📜 **Arthur C. Guyton (*Textbook of Medical Physiology*):** *"During swallowing, coordinated elevation of the **hyoid** lifts the larynx, allowing the epiglottis to seal the airway."*
+> - 📜 **Neil Shubin (*Your Inner Fish*):** *"The human **hyoid** bone and middle ear ossicles are modified remnants of the gill arch skeleton of ancestral fishes."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being recognized.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of being recognized.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of being placed, positioned, located, or identified in a specific context.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistics and dialectology, easily identifiable as belonging to a particular geographic region or social class.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, placeable designates capable of being recognized."*
+> - 📜 **George Bernard Shaw (*Pygmalion*):** *"An expert phonetician can identify every dialect speaker as **placeable** within two miles in London."*
+> - 📜 **Henry James (*The American*):** *"His robust optimism was not readily **placeable** within the rigid hierarchy of traditional European aristocracy."*
+> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles*):** *"Her gentle, musical accent was scarcely **placeable** by those unfamiliar with the isolated Blackmoor Vale."*

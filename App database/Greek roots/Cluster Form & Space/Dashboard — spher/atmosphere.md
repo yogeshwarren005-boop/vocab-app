@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The gaseous envelope of a celestial body (such as a planet).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The whole mass of air surrounding the earth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The envelope of gases surrounding the Earth or another celestial body; also, the pervading tone, mood, or psychological climate of a place or situation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In planetary geophysics, atmospheric pressure, temperature lapse rates, and greenhouse gas compositions dictate planetary habitability and weather systems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The atmosphere is created by an old Swiss castle and by the romantic associations of the noble family who lived there."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"As soon as Mäzli noticed that the usual cheerfulness had departed from the house, she tried to get into a different atmosphere at once."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Mäzli actually begged to go to bed before the evening song had been sung, because the depressing atmosphere in the house was so little to her taste that she even preferred to go to bed."*
+> - 📜 **Antoine Lavoisier (*Elements of Chemistry*):** *"The respirable portion of the **atmosphere** which we call oxygen sustains combustion and animal respiration alike."*
+> - 📜 **Edgar Allan Poe (*The Fall of the House of Usher*):** *"There hung about the tarn a peculiar **atmosphere** which had no affinity with the heaven, reeking up from the decaying trees."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"The Martians breathed our terrestrial **atmosphere** with difficulty, weighed down by dense air and heavy gravity."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Triplicity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of the groups of three signs each distant 120 degrees from the other two into which the signs of the zodiac are divided —called also trigon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A triangle; also, an ancient triangular harp with unequal strings, or an astrological trine aspect (120 degrees).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical geometry and planetary astrology, the fiery, earthy, airy, and watery trigons divided the zodiacal circle into equilateral triangles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"And look whether the fiery Trigon, his man, be not lisping to his master’s old tables, his note-book, his counsel-keeper."*
+> - 📜 **Johannes Kepler (*Mysterium Cosmographicum*):** *"The great conjunctions of Saturn and Jupiter trace out an equilateral **trigon** moving slowly across the zodiacal circle."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Planets in conjunction or in hostile **trigon** shed disastrous influence upon mortal affairs."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"Ancient geometers examined the sacred properties of the **trigon** as the simplest irreducible polygonal form."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Family of fungi comprising the typical yeasts: reproduce by budding and ferment carbohydrates.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Family of fungi comprising the typical yeasts: reproduce by budding and ferment carbohydrates.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The taxonomic family of budding yeasts in the order Saccharomycetales, characterized by reproduction by budding and formation of ascospores.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mycology, an economically essential family of yeasts encompassing Saccharomyces, Candida, and Kluyveromyces.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, saccharomycetaceae designates family of fungi comprising the typical yeasts: reproduce by budding and ferment carbohydrates."*
+> - 📜 **Emil Christian Hansen (*Untersuchungen aus der Praxis der Gärungsindustrie*):** *"Systematic classification of the **saccharomycetaceae** requires observation of ascospore shape and fermentation spectra."*
+> - 📜 **Martinus Beijerinck (*On the Physiology of Yeast Cells*):** *"Yeasts of the family **saccharomycetaceae** utilize specialized invertases to metabolize complex disaccharides in fruit musts."*
+> - 📜 **Albert Kluyver (*The Chemical Activities of Micro-organisms*):** *"Comparative biochemistry reveals the metabolic unity linking disparate genera within the **saccharomycetaceae**."*

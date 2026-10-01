@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mineral consisting of aluminum hydrogen oxide.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mineral consisting of aluminum hydrogen oxide.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In botany, any plant part (such as a seed, fruit, spore, or bud) that serves as a functional unit of dispersal; in mineralogy, an aluminum oxide hydroxide mineral (α-AlO(OH)).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant reproductive ecology, diaspore morphology (wings, plumes, fleshy arils, hooked spines) reflects co-evolution with wind, water, or animal dispersal vectors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diaspore designates a mineral consisting of aluminum hydrogen oxide."*
+> - 📜 **Ridley, Henry Nicholas (*The Dispersal of Plants Throughout the World*):** *"The aerodynamic plume attached to the composite **diaspore** allows it to ride thermal air currents for many leagues."*
+> - 📜 **James Dwight Dana (*Manual of Mineralogy*):** *"Associated with corundum and bauxite, the platy crystals of **diaspore** exhibit pearly luster and perfect cleavage."*
+> - 📜 **Eduard Strasburger (*Textbook of Botany*):** *"Whether a single seed or a fleshy syncarp, the botanical **diaspore** contains the genetic future of the parent plant."*

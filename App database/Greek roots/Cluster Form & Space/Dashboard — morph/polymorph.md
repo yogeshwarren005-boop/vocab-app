@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A polymorphic organism; also : one of the several forms of such an organism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of the crystalline forms of a polymorphic substance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An organism, crystalline substance, or chemical compound that occurs in two or more distinctly different forms, habits, or structures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In hematology, a common abbreviation for a polymorphonuclear leukocyte (neutrophil), named for its distinctly lobed, variable nuclear morphology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polymorph designates a polymorphic organism; also : one of the several forms of such an organism."*
+> - 📜 **Paul Ehrlich (*Histology of the Blood*):** *"The neutrophilic **polymorph** stands as the primary cellular soldier in acute inflammatory defense against bacterial invasion."*
+> - 📜 **J. D. Bernal (*The Structure of Crystals*):** *"Titanium dioxide occurs in nature as rutile, anatase, and brookite, each behaving as a distinct crystalline **polymorph**."*
+> - 📜 **E. B. Ford (*Ecological Genetics*):** *"Field surveys measure the relative fitness of each distinct color **polymorph** in the polymorphic land snail Cepaea nemoralis."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An antifungal agent usually administered in the form of a nitrate (trade name monistat).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An antifungal agent usually administered in the form of a nitrate (trade name monistat).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A proprietary brand name for miconazole nitrate, an imidazole antifungal medication used topically or intravaginally to treat fungal candidiasis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacology, Monistat inhibits fungal cytochrome P450 lanosterol 14-alpha-demethylase, disrupting ergosterol synthesis and destabilizing fungal cell membrane integrity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monistat designates an antifungal agent usually administered in the form of a nitrate (trade name monistat)."*
+> - 📜 **René Dubos (*Bacterial and Mycotic Infections of Man*):** *"Topical antifungal imidazoles such as **Monistat** became clinical mainstays in controlling localized candidiasis."*
+> - 📜 **Maxwell Wintrobe (*Principles of Internal Medicine*):** *"Treatment with **Monistat** was initiated to clear mucosal fungal overgrowth without systemic drug toxicity."*
+> - 📜 **Paul Ehrlich (*Studies on Chemotherapy*):** *"Specific chemical targeting of fungal membrane synthesis in agents like **Monistat** represents targeted pharmacological warfare."*

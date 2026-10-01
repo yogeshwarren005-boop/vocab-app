@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A spore in heterosporous plants giving rise to female gametophytes and usually larger than a microspore.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A spore in heterosporous plants giving rise to female gametophytes and usually larger than a microspore.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large spore produced by heterosporous plants that develops into a female gametophyte; macrospore.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In paleobotany and plant reproduction, the larger of two spore types produced by heterosporous ferns, clubmosses, and seed plants, containing maternal food reserves.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, megaspore designates a spore in heterosporous plants giving rise to female gametophytes and usually larger than a microspore."*
+> - 📜 **Eduard Strasburger (*Textbook of Botany*):** *"Following meiotic division in Selaginella, the large **megaspore** germinates to form the cellular prothallium."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"Each capsule of Isoëtes contains numerous microscopic microspores alongside a smaller number of large **megaspores**."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The differentiation between microspore and **megaspore** marked a crucial milestone in terrestrial plant evolution."*

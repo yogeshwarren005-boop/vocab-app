@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument that performs analyses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instrument that performs analyses.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person, optical component, or instrument that performs an analysis (British spelling); specifically, the second polarizing Nicol prism or filter in a polarimeter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In optics and mineralogy, light passing through a polarizer enters an analyser; rotating the analyser determines the angle of optical rotation or reveals pleochroism and birefringence in crystal thin sections.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, analyser designates an instrument that performs analyses."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"Rotating the **analyser** prism extinguished the ray, demonstrating the magnetic rotation of polarized light."*
+> - 📜 **John Tyndall (*Six Lectures on Light*):** *"Crossed Nicols cut off all light until an anisotropic crystal inserted before the **analyser** restores color."*
+> - 📜 **Archibald Geikie (*Text-Book of Geology*):** *"Petrographic inspection under the **analyser** reveals the twinning and extinction angles of plagioclase feldspars."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A traditional or conventional literary or rhetorical theme or topic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A traditional or conventional literary or rhetorical theme or topic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A traditional theme or motif in literature; a rhetorical commonplace; in mathematics, a generalized category sharing properties with the category of sheaves.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary scholarship, Ernst Robert Curtius popularized topos (plural *topoi*) as recurring rhetorical conventions (e.g. the locus amoenus); in algebraic geometry, Alexander Grothendieck defined a topos as a generalized geometric space.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, topos designates a traditional or conventional literary or rhetorical theme or topic."*
+> - 📜 **Ernst Robert Curtius (*European Literature and the Latin Middle Ages*):** *"The medieval ideal landscape or locus amoenus is a rhetorical **topos** inherited directly from Roman antiquity."*
+> - 📜 **Alexander Grothendieck (*Récoltes et Semailles*):** *"The mathematical notion of a **topos** provides a vast synthesis uniting topology, geometry, and arithmetic."*
+> - 📜 **Northrop Frye (*Anatomy of Criticism*):** *"Archetypal criticism traces how a poetic **topos** migrates through genres while retaining its symbolic vitality."*

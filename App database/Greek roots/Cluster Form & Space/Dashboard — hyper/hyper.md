@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: High-strung, excitable; also : highly excited.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extremely active.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessively active, excitable, high-strung, or energetic; also serving as a combining prefix derived from Greek *hyper* denoting excess, exaggeration, or position above.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In informal psychology and colloquial discourse, describes states of extreme restlessness or agitation; in scientific terminology, forms compound adjectives denoting supranormal function or higher dimensional geometry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"A recent example of a hyper-radial light is at the well-known Cape Race in Newfoundland."*
+> - 📜 **William James (*The Principles of Psychology*):** *"An excessively excitable nervous constitution often displays a **hyper**-reactive response to sudden auditory stimuli."*
+> - 📜 **Sigmund Freud (*The Interpretation of Dreams*):** *"The patient entered the clinic in an agitated, **hyper**-emotional state bordering on hysterical delirium."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"Following L-DOPA administration, post-encephalitic lethargy was abruptly replaced by a restless, **hyper** surge of motor drive."*

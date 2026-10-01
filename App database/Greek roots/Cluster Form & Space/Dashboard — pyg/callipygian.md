@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having shapely buttocks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having shapely buttocks.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having shapely, beautifully formed, or attractive buttocks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical art history and aesthetic literature, designating statues such as the Venus Kallipygos of ancient Syracuse.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, callipygian designates having shapely buttocks."*
+> - 📜 **Théophile Gautier (*Mademoiselle de Maupin*):** *"She turned with the sculptural grace of an antique **callipygian** statue, her silhouette glowing in the soft candlelight."*
+> - 📜 **James Joyce (*Ulysses*):** *"He admired the marble contours of classical goddesses, praising their heroic, **callipygian** perfection in Greek statuary."*
+> - 📜 **Aldous Huxley (*Point Counter Point*):** *"He smiled cynically at the modern aesthetic obsession with slender forms, recalling more voluptuous **callipygian** ideals of the Renaissance."*

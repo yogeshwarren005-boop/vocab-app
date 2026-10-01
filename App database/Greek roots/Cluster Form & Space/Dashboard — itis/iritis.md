@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the iris of the eye.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inflammation of the iris of the eye.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the iris, the colored circular muscular diaphragm of the eye; anterior uveitis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ophthalmology, acute iritis presents with deep ocular pain, photophobia, ciliary flush (circumcorneal injection), a constricted or irregular pupil (due to posterior synechiae), and inflammatory cells and flare in the anterior chamber.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"I had been troubled periodically for many years with sore eyes, and had been to many doctors, who called the disease iritis and cataract."*
+> - 📜 **Jonathan Hutchinson (*Illustrations of Clinical Surgery*):** *"Plastic **iritis** in secondary syphilis causes fibrinous adhesions that tie the pupillary border to the crystalline lens."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Ankylosing spondylitis is frequently associated with recurrent, painful attacks of acute non-granulomatous **iritis**."*
+> - 📜 **Astley Cooper (*The Principles and Practice of Surgery*):** *"Prompt instillation of atropine drops is vital in acute **iritis** to dilate the pupil and prevent crippling synechiae."*

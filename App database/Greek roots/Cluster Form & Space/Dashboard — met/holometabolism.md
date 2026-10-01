@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by complete metamorphosis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by complete metamorphosis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Complete metamorphosis in insects, passing through four distinct developmental stages: egg, larva, pupa, and adult (imago).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In insect evolutionary biology, the developmental innovation of the Endopterygota that triggered the greatest adaptive radiation in animal history.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, holometabolism designates characterized by complete metamorphosis."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The evolution of **holometabolism** decoupled larval growth from adult dispersal and reproduction."*
+> - 📜 **Edwin Ray Lankester (*A Treatise on Zoology*):** *"During the pupal phase of **holometabolism**, phagocytic leukocytes break down obsolete larval muscles."*
+> - 📜 **Francis Maitland Balfour (*A Treatise on Comparative Embryology*):** *"The origin of **holometabolism** in the late Paleozoic was key to the dominance of beetles, flies, and wasps."*

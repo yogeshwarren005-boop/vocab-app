@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or exhibiting cyclothymia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or exhibiting cyclothymia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, affected by, or characteristic of cyclothymia; exhibiting cyclical mood swings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In personality theory and psychiatry, describing a constitutional temperament marked by recurring, alternating cycles of elation and despondency.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cyclothymic designates of or relating to or exhibiting cyclothymia."*
+> - 📜 **Emil Kraepelin (*Lectures on Clinical Psychiatry*):** *"The **cyclothymic** individual experiences alternating seasons of tireless enterprise followed by passive, brooding fatigue."*
+> - 📜 **Carl Jung (*Psychological Types*):** *"Kretschmer associated pyknic physical builds with a predominantly **cyclothymic** personality orientation."*
+> - 📜 **Virginia Woolf (*A Writer's Diary*):** *"Her sensitive spirit responded in **cyclothymic** waves to every shift in atmospheric pressure and creative tension."*

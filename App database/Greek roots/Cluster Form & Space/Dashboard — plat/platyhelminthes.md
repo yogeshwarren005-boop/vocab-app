@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Flatworms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Flatworms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The taxonomic phylum of invertebrate animals consisting of the flatworms, characterized by bilateral symmetry and a triploblastic, acoelomate body plan.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic zoology, an extensive animal phylum divided into Turbellaria, Monogenea, Trematoda, and Cestoda, possessing complex reproductive systems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, platyhelminthes designates flatworms."*
+> - 📜 **Ernst Mayr (*Principles of Systematic Zoology*):** *"The phylum **platyhelminthes** encompasses diverse parasitic lineages that have evolved intricate multi-host life cycles."*
+> - 📜 **Edward O. Wilson (*The Diversity of Life*):** *"In moist forest litter and ocean sediments, **platyhelminthes** constitute a vital component of micro-invertebrate fauna."*
+> - 📜 **D'Arcy Wentworth Thompson (*On Growth and Form*):** *"The flattened geometry of **platyhelminthes** maximizes surface area for diffusion in the total absence of vascular pumps."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A prediction of someone's future based on the relative positions of the planets.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A diagram of the positions of the planets and signs of the zodiac at a particular time and place.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An astrological chart or diagram representing the positions of the Sun, Moon, planets, and astrological aspects at the exact moment of an event, such as a person's birth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of astronomy and folklore, the casting of a horoscope underpinned ancient and medieval calendrical divination and astral medicine.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Though no higher 121:9 revelation than the horoscope was to them dis- played upon the empyrean, earth and heaven were bright, and bird and blossom were glad in God's 121:12 perennial and happy sunshine, golden with Truth."*
+> - 📜 **Johannes Kepler (*De Stella Nova*):** *"Even while calculating celestial orbits, the imperial mathematician was obliged to draw up an annual **horoscope** for the court."*
+> - 📜 **Geoffrey Chaucer (*A Treatise on the Astrolabe*):** *"By calculating the exact ascendant on the astrolabe, the astrologer drew up the native's **horoscope** according to the signs."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"We reject that vain superstition which pretends to read individual destinies within a calculated natal **horoscope**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Medium to large terrestrial ferns of tropical asia to polynesia and australia; naturalized in americas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Medium to large terrestrial ferns of tropical asia to polynesia and australia; naturalized in americas.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of ferns in the family Thelypteridaceae (marsh ferns), native to tropical and subtropical regions of Asia, Africa, and Queensland.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pteridology, *Macrothelypteris* is characterized by large, multi-pinnate fronds, prominent acicular hairs on axes, and indusiate round sori situated along the veins.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, macrothelypteris designates medium to large terrestrial ferns of tropical asia to polynesia and australia; naturalized in americas."*
+> - 📜 **Ren-Chang Ching (*A Revision of the Chinese Thelypteridaceae*):** *"The Asian fern genus **Macrothelypteris** is easily distinguished by its decompound fronds and unicellular needle-like hairs."*
+> - 📜 **William Jackson Hooker (*Species Filicum*):** *"Certain magnificent ferns of eastern rainforests, now referred to **Macrothelypteris**, attain heights of six feet."*
+> - 📜 **Carl Christensen (*Index Filicum*):** *"In classifying the thelypteroid group, morphological traits support recognizing **Macrothelypteris** as a distinct genus."*

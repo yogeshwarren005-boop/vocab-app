@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of darkness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of darkness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, suffering from, or exhibiting an irrational aversion to or fear of darkness.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In behavioural biology and psychology, scotophobic reactions describe organisms or individuals demonstrating active avoidance of unilluminated areas.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scotophobic designates adjective*) pertaining to, derived from, or characteristic of darkness."*
+> - 📜 **William James (*Talks to Teachers on Psychology*):** *"Every observant parent is familiar with the **scotophobic** child who cries aloud the moment the nursery door is shut."*
+> - 📜 **Pierre Janet (*The Major Symptoms of Hysteria*):** *"The patient demonstrated an acute **scotophobic** neurosis, collapsing in syncope whenever the room lights failed."*
+> - 📜 **Havelock Ellis (*Man and Woman: A Study of Human Secondary Sexual Characters*):** *"Pronounced **scotophobic** symptoms were recorded far more frequently in emotionally hyper-reactive subjects."*

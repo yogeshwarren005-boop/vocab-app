@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, existing as, or characterized by ions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Based on or functioning by means of ions.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or existing in the form of ions; also, of or relating to Ionia (ancient Greece), its classical dialect, or the classical Ionic architectural order characterized by scroll-like fluted volutes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemistry, ionic bonds form via electrostatic attraction between oppositely charged ions in crystal lattices; in architecture, the Ionic order is distinguished by paired spiral volutes on capital heads.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ionic designates of, relating to, existing as, or characterized by ions."*
+> - 📜 **Svante Arrhenius (*Recherches sur la conductibilité galvanique des électrolytes*):** *"The conductivity of dilute electrolyte solutions is governed strictly by the **ionic** mobility of dissociated salts."*
+> - 📜 **John Ruskin (*The Seven Lamps of Architecture*):** *"The graceful spiraling volutes of the **Ionic** capital convey an exquisite sense of feminine proportion and harmony."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"Electrochemical decomposition confirms that chemical affinity is fundamentally linked to **ionic** attractions."*

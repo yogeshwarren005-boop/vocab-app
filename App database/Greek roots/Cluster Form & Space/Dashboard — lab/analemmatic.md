@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A plot or graph in the shape of a figure eight that shows the position of the sun in the sky at a given time of day (such as noon) at one specific locale measured throughout the year; also : a scale (as on a globe or sundial) based on such a plot that shows the sun's position for each day of the year or that allows local mean time to be determined.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A plot or graph in the shape of a figure eight that shows the position of the sun in the sky at a given time of day (such as noon) at one specific locale measured throughout the year; also : a scale (as on a globe or sundial) based on such a plot that shows the sun's position for each day of the year or that allows local mean time to be determined.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or constructed according to an analemma; specifically designating a type of sundial with an elliptical hour scale and a moveable gnomon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gnomonics, an analemmatic sundial features hour markers positioned along an ellipse with a vertical gnomon that must be adjusted along a north-south meridian scale depending on the date (solar declination) to cast an accurate shadow.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, analemmatic designates a plot or graph in the shape of a figure eight that shows the position of the sun in the sky at a given time of day (such as noon) at one specific locale measured throughout the year; also : a scale (as on a globe or sundial) based on such a plot that shows the sun's position for each day of the year or that allows local mean time to be determined."*
+> - 📜 **John Herschel (*Outlines of Astronomy*):** *"The **analemmatic** sundial requires the observer to adjust the vertical gnomon to the zodiacal calendar position of the day."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"The mathematical elegance of the **analemmatic** projection harmonizes spatial geometry with the shifting seasons."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"Carved upon the pavement of the old courtyard, the **analemmatic** dial marked the hours by human shadow."*

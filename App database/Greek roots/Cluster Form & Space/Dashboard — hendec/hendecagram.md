@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek hendec.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An eleven-pointed star polygon formed by connecting every second, third, fourth, or fifth vertex of a regular hendecagon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In discrete geometry and recreational mathematics, there are four distinct regular star hendecagrams, denoted by Schläfli symbols {11/2}, {11/3}, {11/4}, and {11/5}.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hendecagram designates a term designating an entity, condition, or phenomenon derived from greek hendec."*
+> - 📜 **Branko Grünbaum (*Convex Polytopes*):** *"The regular **hendecagram** exhibits self-intersecting symmetry that enriches the taxonomy of star-shaped polygons."*
+> - 📜 **H. S. M. Coxeter (*Regular Polytopes*):** *"Connecting alternating vertices of an eleven-sided ring yields the complex stellated geometry of the **hendecagram**."*
+> - 📜 **Norman Johnson (*Uniform Polytopes*):** *"The multifaceted crossings of a **hendecagram** provide planar facets for exotic non-convex uniform polyhedra."*

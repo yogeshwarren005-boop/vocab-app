@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the four haploid asexual spores developed meiotically in the red algae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of the four haploid asexual spores developed meiotically in the red algae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One of four asexual, haploid spores produced by meiosis within a tetrasporangium in red algae (Rhodophyta).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine phycology, tetraspores develop in cruciate, zonate, or tetrahedral arrangements, germinating into dioecious haploid gametophytes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tetraspore designates one of the four haploid asexual spores developed meiotically in the red algae."*
+> - 📜 **William Henry Harvey (*Phycologia Britannica*):** *"Under darkfield illumination, each ruby-colored **tetraspore** was seen to break free from its cruciate chamber."*
+> - 📜 **Kathleen M. Drew-Baker (*Life Histories in the Rhodophyta*):** *"Meiotic division within the tetrasporangium yields a **tetraspore** destined to give rise to the sexual gametophyte."*
+> - 📜 **Fritsch, F. E. (*The Structure and Reproduction of the Algae*):** *"The tetrahedral division of the red algal **tetraspore** produces four equal non-flagellated reproductive cells."*

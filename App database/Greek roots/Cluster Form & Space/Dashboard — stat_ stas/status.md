@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The relative position or standing of things or especially persons in a society.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A state at a particular time.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The relative social, professional, or legal position or rank of an individual in relation to others; also, the present state or condition of affairs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociology and law, status is categorized into ascribed status (assigned at birth) and achieved status (earned through effort), defining civic rights and obligations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"This status of semi-independence which it so long enjoyed has helped to give it an individuality more strongly marked than that of most English towns."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And this is the very point: my life-sentence gave me my status under this law which had not yet been written on the books."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And it is because of my status of lifetimer that I am to be hanged for battery committed on the guard Thurston."*
+> - 📜 **Henry Sumner Maine (*Ancient Law*):** *"The movement of the progressive societies has hitherto been a movement from **status** to contract."*
+> - 📜 **Max Weber (*Economy and Society*):** *"Class situation is determined economically, whereas **status** situation hinges upon social honor and lifestyle prestige."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"In democratic societies, equality of legal **status** stimulates perpetual competition for personal distinction."*

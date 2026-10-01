@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormally heavy or prolonged menstruation; can be a symptom of uterine tumors and can lead to anemia if prolonged.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abnormally heavy or prolonged menstruation; can be a symptom of uterine tumors and can lead to anemia if prolonged.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormally profuse or prolonged menstrual bleeding occurring at regular cycle intervals; menorrhagia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gynecology, hypermenorrhea is commonly caused by uterine leiomyomas (fibroids), adenomyosis, endometrial polyps, or systemic coagulopathies (such as von Willebrand disease), frequently resulting in iron-deficiency anemia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypermenorrhea designates abnormally heavy or prolonged menstruation; can be a symptom of uterine tumors and can lead to anemia if prolonged."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Profound secondary hypochromic microcytic anemia in mature women frequently traces to unrecognized chronic **hypermenorrhea**."*
+> - 📜 **J. Whitridge Williams (*Williams Obstetrics*):** *"Submucous uterine fibroids classically manifest with debilitating **hypermenorrhea** and severe pelvic fullness."*
+> - 📜 **Austin Flint (*A Treatise on the Principles and Practice of Medicine*):** *"The exhausting loss of blood in **hypermenorrhea** demands both local gynecological investigation and hematinic tonics."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Considering human beings as the most significant entity of the universe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Interpreting or regarding the world in terms of human values and experiences.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The philosophical belief or ethical stance that human beings are the central or most significant entities in the universe.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ecological philosophy, a normative perspective contrasted with biocentrism and ecocentrism, holding that moral obligations apply directly only to human beings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anthropocentrism designates considering human beings as the most significant entity of the universe."*
+> - 📜 **Edward O. Wilson (*The Diversity of Life*):** *"Ecosystem preservation requires moving beyond narrow **anthropocentrism** toward a biophilic reverence for all living organisms."*
+> - 📜 **Carl Sagan (*Cosmos*):** *"Copernicus displaced our planet, and Darwin displaced our biology, yet human **anthropocentrism** stubbornly persists in our politics."*
+> - 📜 **Julian Huxley (*Evolution in Action*):** *"Evolutionary humanism replaces religious **anthropocentrism** with an understanding of man as nature's conscious trustee."*

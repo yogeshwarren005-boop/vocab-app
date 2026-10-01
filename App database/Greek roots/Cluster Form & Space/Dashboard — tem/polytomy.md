@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek tem.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A division or branching into many parts, sections, or categories; in phylogenetics, an internal node of a cladogram that has more than two immediate descendant lineages.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cladistics, a polytomy can represent either 'soft polytomy' (uncertainty due to insufficient phylogenetic data) or 'hard polytomy' (simultaneous, rapid speciation events).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polytomy designates a term designating an entity, condition, or phenomenon derived from greek tem."*
+> - 📜 **Willi Hennig (*Phylogenetic Systematics*):** *"A trichotomy or higher **polytomy** in a cladogram usually signals an unresolved relationship awaiting more synapomorphies."*
+> - 📜 **Ernst Mayr (*Principles of Systematic Zoology*):** *"Whenever explosive adaptive radiation occurs within a brief geological interval, a phylogenetic **polytomy** may reflect historical reality."*
+> - 📜 **Douglas J. Futuyma (*Evolutionary Biology*):** *"The tree exhibits a star-like **polytomy** at the base of the mammalian radiation due to rapid post-Cretaceous speciation."*

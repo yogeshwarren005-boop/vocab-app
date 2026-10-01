@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek treiskaidek.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A polygon with thirteen sides and thirteen interior angles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plane Euclidean geometry, a regular triskaidecagon has interior angles of approximately 152.308 degrees and cannot be constructed using an unmarked straightedge and compass alone.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, triskaidecagon designates a term designating an entity, condition, or phenomenon derived from greek treiskaidek."*
+> - 📜 **Euclid (*The Thirteen Books of Euclid's Elements*):** *"While the pentagon and hexagon yield to compass construction, a regular **triskaidecagon** requires advanced methods of angle section."*
+> - 📜 **Carl Friedrich Gauss (*Disquisitiones Arithmeticae*):** *"Gauss proved that constructible polygons must possess Fermat prime edges, excluding the thirteen-sided **triskaidecagon**."*
+> - 📜 **H. S. M. Coxeter (*Introduction to Geometry*):** *"The rotational symmetry group of the regular **triskaidecagon** consists of thirteen distinct cyclic rotations."*

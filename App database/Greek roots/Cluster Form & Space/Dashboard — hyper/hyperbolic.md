@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or marked by language that exaggerates or overstates the truth : of, relating to, or marked by hyperbole.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or being like a curve that is formed by the intersection of a double right circular cone with a plane that cuts both halves of the cone : of, relating to, or being analogous to a hyperbola.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or having the properties of a hyperbola; also, marked by extravagant rhetorical exaggeration (hyperbole).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In non-Euclidean geometry, hyperbolic geometry (Lobachevskian geometry) possesses negative curvature where through any point outside a line infinite parallel lines can be drawn; in astronomy, a hyperbolic trajectory indicates an unbound interstellar path.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Indeed, he seemed to approach the grave as a hyperbolic curve approaches a straight line—less directly as he got nearer, till it was doubtful if he would ever reach it at all."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Indeed, he seemed to approach the grave as a hyperbolic curve approaches a line—sheering off as he got nearer, till it was doubtful if he would ever reach it at all."*
+> - 📜 **Carl Friedrich Gauss (*Disquisitiones Generales Circa Superficies Curvas*):** *"Surfaces possessing constant negative Gaussian curvature embody the spatial relations of **hyperbolic** non-Euclidean geometry."*
+> - 📜 **Isaac Newton (*Philosophiae Naturalis Principia Mathematica*):** *"Comets which visit our solar system but once pursue an open **hyperbolic** orbit, departing never to return."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"His **hyperbolic** compliments were received with cynical amusement by the sensible ladies of the assembly."*

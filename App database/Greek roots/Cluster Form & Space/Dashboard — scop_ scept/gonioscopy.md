@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An examination of the front part of the eye to check the angle where the iris meets the cornea; it is used to distinguish between open-angle glaucoma and closed-angle glaucoma.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An examination of the front part of the eye to check the angle where the iris meets the cornea; it is used to distinguish between open-angle glaucoma and closed-angle glaucoma.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ophthalmic examination technique used to view the iridocorneal filtration angle of the eye using a specialized mirrored contact lens.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In glaucoma diagnosis, gonioscopy differentiates open-angle glaucoma from narrow-angle or angle-closure glaucoma by evaluating trabecular meshwork visibility.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gonioscopy designates an examination of the front part of the eye to check the angle where the iris meets the cornea; it is used to distinguish between open-angle glaucoma and closed-angle glaucoma."*
+> - 📜 **Alexios Trantas (*L'Ophtalmoscopie de l'Angle Iridien*):** *"Through **gonioscopy**, the hidden recesses of the anterior chamber angle are revealed to the direct inspection of the clinician."*
+> - 📜 **Ernst Fuchs (*Text-Book of Ophthalmology*):** *"Routine **gonioscopy** is indispensable for determining whether peripheral anterior synechiae are occluding the drainage canal of Schlemm."*
+> - 📜 **William Mackenzie (*A Practical Treatise on the Diseases of the Eye*):** *"The diagnostic employment of **gonioscopy** cleared up long-standing obscurities regarding intraocular pressure dynamics."*

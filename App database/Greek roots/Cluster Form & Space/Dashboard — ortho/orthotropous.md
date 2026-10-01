@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of a plant ovule) completely straight with the micropyle at the apex.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of a plant ovule) completely straight with the micropyle at the apex.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Straight and upright (of a plant ovule), having the chalaza, embryo sac, and micropyle aligned along a single straight axis without curvature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant morphology and embryology, having the micropyle positioned directly opposite the hilum (also called atropous), characteristic of Polygonaceae and Gymnosperms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, orthotropous designates (of a plant ovule) completely straight with the micropyle at the apex."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"An **orthotropous** ovule remains perfectly straight on its funiculus, with the micropyle situated at the apex directly opposite the base."*
+> - 📜 **Katherine Esau (*Plant Anatomy*):** *"In primitive angiosperms and gymnosperms, the **orthotropous** ovule exhibits linear symmetry without any lateral bending."*
+> - 📜 **John Merle Coulter (*Morphology of Gymnosperms*):** *"The straightforward longitudinal axis of an **orthotropous** seed facilitates direct penetration of the pollen tube to the nucellus."*

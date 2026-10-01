@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: centriole.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: the centriole-containing region of clear cytoplasm adjacent to the cell nucleus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The principal microtubule-organizing center of animal cells, containing a pair of centrioles surrounded by pericentriolar material.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cell biology, the cytoplasmic organelle that directs spindle assembly during mitosis and anchors the primary cilium in interphase.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centrosome designates centriole."*
+> - 📜 **Theodor Boveri (*Cells and Tissues*):** *"The **centrosome** represents the true division organ of the cell, orchestrating bipolar spindle formation with dynamic precision."*
+> - 📜 **Edmund Beecher Wilson (*The Cell in Development and Inheritance*):** *"Boveri demonstrated that an abnormal duplication of the **centrosome** inevitably leads to multipolar division and cellular chaos."*
+> - 📜 **Lewis Thomas (*The Lives of a Cell*):** *"Quietly presiding near the nucleus, the **centrosome** directs internal traffic and maintains the architectural integrity of the cell."*

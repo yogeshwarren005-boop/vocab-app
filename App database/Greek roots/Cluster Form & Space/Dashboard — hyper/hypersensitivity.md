@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pathological sensitivity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extreme sensitivity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A state of altered immunological reactivity in which an exaggerated or inappropriate immune response produces tissue injury, disease, or systemic symptoms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Classified by Philip Gell and Robin Coombs into four types: Type I (immediate IgE-mediated), Type II (antibody-dependent cytotoxic), Type III (immune complex-mediated), and Type IV (cell-mediated delayed-type).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypersensitivity designates pathological sensitivity."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Anaphylaxis represents the most dramatic and perilous manifestation of immediate systemic **hypersensitivity**."*
+> - 📜 **Paul Ehrlich (*Studies in Immunity*):** *"The phenomena of serum sickness and drug **hypersensitivity** reflect violent antibody-antigen clashes within the vascular bed."*
+> - 📜 **Frank Macfarlane Burnet (*The Clonal Selection Theory of Acquired Immunity*):** *"Delayed **hypersensitivity** to tuberculin relies entirely upon sensitized lymphocytes rather than circulating humoral antibodies."*

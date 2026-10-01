@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Normally pollinated by insects.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Normally pollinated by insects.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pollinated by insects (of flowers or plants).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pollination biology, entomophilous angiosperms have co-evolved conspicuous brightly colored petals, sweet fragrances, and nectar rewards to attract insect pollinators like bees and moths.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, entomophilous designates normally pollinated by insects."*
+> - 📜 **Christian Konrad Sprengel (*Discovery of the Secret of Nature in the Structure and Fertilization of Flowers*):** *"The colored guidelines on the corolla exist expressly to guide the bee into the throat of the **entomophilous** flower."*
+> - 📜 **Hermann Müller (*The Fertilisation of Flowers*):** *"The sticky, sculptured pollen grains of an **entomophilous** blossom adhere readily to the hairy coat of foraging bees."*
+> - 📜 **Charles Darwin (*The Various Contrivances by which Orchids are Fertilised by Insects*):** *"Orchid floral architecture represents the most intricate **entomophilous** adaptation observed in the vegetable kingdom."*

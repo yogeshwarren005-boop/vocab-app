@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bushy-tailed wildcat of europe that resembles the domestic cat and is regarded as the ancestor of the domestic cat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bushy-tailed wildcat of europe that resembles the domestic cat and is regarded as the ancestor of the domestic cat.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A wild cat, especially a cougar (mountain lion), puma, or lynx; also a fierce, savage, or unruly person.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In American frontier literature and folkloric natural history, a ferocious feral feline inhabiting rugged mountains and backwoods.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, catamountain designates bushy-tailed wildcat of europe that resembles the domestic cat and is regarded as the ancestor of the domestic cat."*
+> - 📜 **Washington Irving (*A History of New York*):** *"The solitary hunter ventured into the wilderness, where neither screaming panthers nor fierce **catamountain** beasts could turn him back."*
+> - 📜 **Walter Scott (*The Fair Maid of Perth*):** *"The Highland reiver fought with the sudden ferocity of a trapped **catamountain**, striking out in every direction."*
+> - 📜 **Henry David Thoreau (*The Maine Woods*):** *"The woodsmen spoke around the camp-fire of tracking a screaming **catamountain** across the frozen crust of deep snow."*

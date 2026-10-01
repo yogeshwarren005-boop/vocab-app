@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marine iguanas.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marine iguanas.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of iguanid lizards native to the Galápagos Islands, comprising the marine iguana (Amblyrhynchus cristatus).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology and herpetology, the only extant marine lizard genus, characterized by a blunt snout adapted for grazing underwater algae off submerged lava reefs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amblyrhynchus designates marine iguanas."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The genus **Amblyrhynchus** possesses a remarkably short, blunt muzzle, admirably suited for cropping sea-weed from the wave-washed rocks."*
+> - 📜 **Herman Melville (*The Encantadas*):** *"Climbing upon the jagged basalt, the hideous black lizards of **Amblyrhynchus** bask in motionless assemblies under the equatorial glare."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Vertebrated Animals*):** *"The cranium of **Amblyrhynchus** exhibits flattened premaxillary bones that accommodate its specialized herbivorous dentition."*

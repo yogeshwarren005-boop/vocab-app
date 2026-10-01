@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a piratical manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a piratical manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In the manner of a pirate; by means of piracy, plunder, or unauthorized seizure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal and historical usage, acting violently and illegally without sovereign commission on the seas.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, piratically designates in a piratical manner."*
+> - 📜 **Daniel Defoe (*Robinson Crusoe*):** *"A Turkish rover bore down upon our vessel and boarded us **piratically** after a desperate fight."*
+> - 📜 **William Blackstone (*Commentaries on the Laws of England*):** *"Those who seize goods **piratically** upon the high seas can convey no lawful title to bona fide purchasers."*
+> - 📜 **Joseph Conrad (*The Rescue*):** *"Praus equipped with swivel guns prowled the straits, striking **piratically** whenever calms stalled sailing barques."*

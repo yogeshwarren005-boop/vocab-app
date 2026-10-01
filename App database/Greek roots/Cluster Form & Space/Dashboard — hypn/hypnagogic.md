@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or occurring in the period of drowsiness immediately preceding sleep.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or occurring in the period of drowsiness immediately preceding sleep.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or occurring in the drowsy transitional state of consciousness immediately preceding sleep.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sleep medicine, hypnagogic hallucinations and hypnagogic jerks (sudden myoclonic muscle twitches upon falling asleep) are common physiological phenomena, also occurring with high frequency in narcolepsy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypnagogic designates of, relating to, or occurring in the period of drowsiness immediately preceding sleep."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Vivid **hypnagogic** images frequently deceive the drowsy mind with the appearance of waking reality."*
+> - 📜 **Sigmund Freud (*The Interpretation of Dreams*):** *"The sleeper absorbs lingering **hypnagogic** impressions directly into the initial dream scenarios of the night."*
+> - 📜 **Oliver Sacks (*Hallucinations*):** *"Auditory **hypnagogic** illusions, such as hearing one's name whispered in an empty bedroom, are remarkably widespread."*

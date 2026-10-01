@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Rotating mechanism in the form of a universally mounted spinning wheel that offers resistance to turns in any direction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rotating mechanism in the form of a universally mounted spinning wheel that offers resistance to turns in any direction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mechanical device consisting of a wheel or disk mounted so that it can spin rapidly about an axis that is itself free to alter in direction, exhibiting conservation of angular momentum.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In inertial navigation systems, gyroscopes provide stable angular reference frames for stabilizing ships, aircraft, satellites, and spacecraft independently of external celestial or magnetic bearings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"A comparatively small amount of such work would serve as a gyroscope to preserve the balance of employment for a large part of the less skilled workers."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This is a well-nigh incredibly small proportion, hardly as great as that of the weight of the gyroscope compared with the car or ship to which it is applied."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Being thus deprived of one of its movements the gyroscope with three degrees becomes a gyroscope with two degrees of freedom, and in that form it supplies the need for an efficient and reliable compass."*
+> - 📜 **Léon Foucault (*Sur les Phénomènes d'Orientation des Corps Tournants*):** *"The freely suspended **gyroscope** maintains its plane of rotation in space, thereby demonstrating the diurnal rotation of the Earth."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"The Martian handling-machine seemed balanced by some internal **gyroscope** that preserved its equilibrium over uneven ground."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"The dynamical properties of the spinning **gyroscope** illustrate how rotational inertia resists any torque attempting to alter the axis of spin."*

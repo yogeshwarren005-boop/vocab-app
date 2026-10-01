@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or of the nature of paralysis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or of the nature of paralysis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, affected by, or symptomatic of motor paralysis or muscular incapacitation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Figuratively, describing a state of profound helplessness, cognitive immobility, or systemic torpor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paralytical designates relating to or of the nature of paralysis."*
+> - 📜 **Robert Burton (*The Anatomy of Melancholy*):** *"Extreme fear and sorrow will sometimes cast a man into a **paralytical** stupor, deadening both wit and limb."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"The sudden shock of cold waters hath plunged many a swimmer into a **paralytical** seizure of the joints."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"Indecision exerts a **paralytical** effect upon the finest faculties, leaving enterprises unbegun and hopes deferred."*

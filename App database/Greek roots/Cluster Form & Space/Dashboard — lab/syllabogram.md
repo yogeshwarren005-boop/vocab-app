@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek lab.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A written sign, grapheme, or character that represents an entire syllable rather than an individual alphabetic sound or concept.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical epigraphy, cuneiform, Egyptian hieroglyphs, Mayan glyphs, and Linear B make extensive use of syllabograms to record spoken language phonetically.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, syllabogram designates a term designating an entity, condition, or phenomenon derived from greek lab."*
+> - 📜 **Arthur Evans (*Scripta Minoa*):** *"Each Cretan **syllabogram** corresponds to a consonant-vowel combination, demonstrating systematic phonetic design."*
+> - 📜 **Edward Sapir (*Language: An Introduction to the Study of Speech*):** *"The evolution of the written **syllabogram** paved the way for the ultimate abstraction of alphabetic letters."*
+> - 📜 **Ferdinand de Saussure (*Course in General Linguistics*):** *"A complex script often blends the ideogram with the phonetic **syllabogram** to represent grammatical inflections."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek the.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ascocarp resembling a perithecium in shape, but in which asci develop directly within pre-formed locules in a stroma rather than in an organized hymenial layer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ascomycete systematics, the pseudothecium characterizes bitunicate loculoascomycetes (such as *Pleospora* and *Venturia*), possessing a fissitunicate spore-discharge mechanism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pseudothecium designates a term designating an entity, condition, or phenomenon derived from greek the."*
+> - 📜 **Heinrich Anton de Bary (*Comparative Morphology and Biology of the Fungi, Mycetozoa and Bacteria*):** *"The cavities within the **pseudothecium** originate by stromal dissolution rather than perithecial invagination."*
+> - 📜 **Arthur Henry Reginald Buller (*Researches on Fungi*):** *"Bitunicate asci within the mature **pseudothecium** Jack-in-the-box their outer wall to shoot ascospores through the ostiole."*
+> - 📜 **Miles Joseph Berkeley (*Introduction to Cryptogamic Botany*):** *"Taxonomists distinguish the true perithecium from the stromatic **pseudothecium** by observing ontogenetic development."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek oesophag.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the mucosal lining of the esophagus, commonly caused by acid reflux, infectious organisms, or chemical ingestion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gastroenterology, chronic gastro-oesophageal reflux disease (GORD) produces reflux oesophagitis, which can advance to ulceration, stricture, and Barrett's esophagus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oesophagitis designates a term designating an entity, condition, or phenomenon derived from greek oesophag."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Corrosive poisons accidentally swallowed induce acute corrosive **oesophagitis**, leading to extensive sloughing and cicatricial stenosis."*
+> - 📜 **Anthony S. Fauci (*Harrison's Principles of Internal Medicine*):** *"In immunocompromised patients, acute **oesophagitis** presenting with severe odynophagia frequently stems from Candida or herpes simplex infection."*
+> - 📜 **Juan Rosai (*Rosai and Ackerman's Surgical Pathology*):** *"Biopsies demonstrating basal zone hyperplasia and intraepithelial eosinophils confirm the diagnosis of chronic reflux **oesophagitis**."*

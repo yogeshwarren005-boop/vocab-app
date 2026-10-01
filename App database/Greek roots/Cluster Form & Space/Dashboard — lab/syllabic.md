@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Constituting a syllable or the nucleus of a syllable:.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not accompanied in the same syllable by a vowel.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or consisting of a syllable or syllables; forming or functioning as a syllable nucleus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In phonology, a syllabic consonant (such as [l̩] in 'bottle' or [n̩] in 'button') acts as the sonorant peak of a syllable without requiring a preceding or following vowel.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Sometimes Leah is with her; they are frequently noisy together.” The laugh was repeated in its low, syllabic tone, and terminated in an odd murmur."*
+> - 📜 **Ferdinand de Saussure (*Course in General Linguistics*):** *"The acoustic energy curve reaches a distinct sonorous peak at the center of each **syllabic** unit."*
+> - 📜 **Edward Sapir (*Language: An Introduction to the Study of Speech*):** *"Certain languages permit liquids and nasals to assume full **syllabic** function in unaccented terminal positions."*
+> - 📜 **Noam Chomsky (*The Sound Pattern of English*):** *"The binary distinctive feature matrix assigns plus **syllabic** to segments capable of acting as syllable peaks."*

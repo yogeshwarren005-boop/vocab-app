@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek bath.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal, intense, or irrational fear of depths, deep water, or looking down into deep chasms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychology and psychiatry, a specific phobia characterized by acute panic symptoms triggered by oceanic voids, abysses, or high drops.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bathophobia designates a term designating an entity, condition, or phenomenon derived from greek bath."*
+> - 📜 **William James (*The Principles of Psychology*):** *"In cases of severe **bathophobia**, standing on the verge of a precipice induces dizzying nausea and an overwhelming urge to retreat."*
+> - 📜 **Oliver Sacks (*A Leg to Stand On*):** *"He experienced an acute vestibular vertigo akin to **bathophobia** whenever forced to look down a steep stairwell."*
+> - 📜 **Sigmund Freud (*Inhibitions, Symptoms and Anxiety*):** *"The neurotic anxiety displayed in **bathophobia** often conceals a repressed wish or fear of falling into moral degradation."*

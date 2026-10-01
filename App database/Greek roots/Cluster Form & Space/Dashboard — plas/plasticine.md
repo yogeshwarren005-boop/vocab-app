@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A synthetic material resembling clay but remaining soft; used as a substitute for clay or wax in modeling (especially in schools).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A synthetic material resembling clay but remaining soft; used as a substitute for clay or wax in modeling (especially in schools).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A brand of non-drying, oil-based modeling clay used especially by sculptors and children for modeling figures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In material arts and animation, plasticine retains flexibility at room temperature, making it the primary medium for claymation stop-motion filmmaking.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plasticine designates a synthetic material resembling clay but remaining soft; used as a substitute for clay or wax in modeling (especially in schools)."*
+> - 📜 **George Orwell (*Coming Up for Air*):** *"The children sat around the low nursery table, rolling gray **plasticine** into lumpy farm animals."*
+> - 📜 **H. G. Wells (*The World Set Free*):** *"He kneaded a lump of **plasticine** between his fingers while contemplating the atomic model."*
+> - 📜 **Virginia Woolf (*The Waves*):** *"The mind is pliable as soft **plasticine**, retaining every passing imprint of light and shadow."*

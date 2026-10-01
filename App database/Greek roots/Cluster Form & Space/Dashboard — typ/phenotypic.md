@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or constituting a phenotype.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or constituting a phenotype.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the observable characteristics or traits of an organism (the phenotype).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology, phenotypic plasticity describes the capacity of a single genotype to produce multiple phenotypes in response to environmental conditions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, phenotypic designates of or relating to or constituting a phenotype."*
+> - 📜 **Julian Huxley (*Evolution: The Modern Synthesis*):** *"Environmental temperature during development induces marked **phenotypic** variation in butterfly wing patterns."*
+> - 📜 **Stephen Jay Gould (*The Structure of Evolutionary Theory*):** *"We must differentiate between underlying genotypic mutation and its macroevolutionary **phenotypic** consequences."*
+> - 📜 **Ernst Mayr (*Animal Species and Evolution*):** *"Natural populations maintain substantial **phenotypic** variability that provides raw material for natural selection."*

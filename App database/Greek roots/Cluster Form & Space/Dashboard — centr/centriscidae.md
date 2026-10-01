@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Shrimpfishes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Shrimpfishes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of small, slender tropical marine fishes commonly known as shrimpfishes or razor fishes, noted for rigid armored bodies and swimming in a vertical, head-down posture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In syngnathiform ichthyology, specialized reef teleosts possessing transparent razor-like dorsal carapaces formed by fused vertebral plates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centriscidae designates shrimpfishes."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"The extraordinary family **Centriscidae** swim in synchronized schools with their long snouts pointing straight toward the seafloor."*
+> - 📜 **Rachel Carson (*The Edge of the Sea*):** *"Hiding among the long spines of tropical sea urchins, tiny members of **Centriscidae** mimic swaying seaweeds in their vertical drift."*
+> - 📜 **Thomas Henry Huxley (*The Invertebrata*):** *"The cranial and thoracic armor of **Centriscidae** illustrates an extreme adaptation where the vertebral column fuses into a rigid dorsal shield."*

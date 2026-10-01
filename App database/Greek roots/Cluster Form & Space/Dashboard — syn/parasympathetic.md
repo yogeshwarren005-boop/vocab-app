@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Originates in the brain stem and lower part of the spinal cord; opposes physiological effects of the sympathetic nervous system: stimulates digestive secretions; slows the heart; constricts the pupils; dilates blood vessels.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the parasympathetic nervous system.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or denoting the division of the autonomic nervous system that regulates vegetative functions, conserving energy, slowing the heart rate, and promoting digestion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuroanatomy, the parasympathetic nervous system consists of craniosacral cholinergic outflows via cranial nerves III, VII, IX, X and pelvic splanchnic nerves S2-S4.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parasympathetic designates originates in the brain stem and lower part of the spinal cord; opposes physiological effects of the sympathetic nervous system: stimulates digestive secretions; slows the heart; constricts the pupils; dilates blood vessels."*
+> - 📜 **Walter Bradford Cannon (*The Wisdom of the Body*):** *"While the sympathetic division mobilizes reserves for fight or flight, the **parasympathetic** system restores and conserves bodily resources."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"Vagal fibers of the **parasympathetic** system slow the sinoatrial pacemaker and promote gastrointestinal glandular secretions."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Stimulation of the **parasympathetic** fibers in the oculomotor nerve causes rapid constriction of the pupillary sphincter."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who is afflicted with schizophrenia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Suffering from some form of schizophrenia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or diagnosed with schizophrenia; a person who has schizophrenia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychopathology, characterized by disintegrated thought processes, auditory hallucinations, and loss of contact with external reality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, schizophrenic designates someone who is afflicted with schizophrenia."*
+> - 📜 **R. D. Laing (*The Divided Self: An Existential Study in Sanity and Madness*):** *"The **schizophrenic** condition represents an ontological strategy adopted by a divided self to survive an unlivable interpersonal environment."*
+> - 📜 **Eugen Bleuler (*Dementia Praecox*):** *"Associative loosening in the **schizophrenic** patient leads to bizarre conceptual leaps that defy ordinary semantic logic."*
+> - 📜 **Gregory Bateson (*Steps to an Ecology of Mind*):** *"The double-bind hypothesis posits that contradictory familial communications contribute to **schizophrenic** thought patterns."*

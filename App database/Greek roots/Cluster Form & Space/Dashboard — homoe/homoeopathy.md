@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek homoe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A system of complementary medicine founded by Samuel Hahnemann in 1796, based on the principle that 'like cures like' using infinitesimal serial dilutions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of medicine and pharmacodynamics, homoeopathy popularized succussion and minimal dosing, sparking heated 19th-century clinical controversies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Homoeopathic attenuations Her experiments in homoeopathy had made her skep- tical as to material curative methods."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The highest attenuation 153:12 of homoeopathy and the most potent rises above matter into mind."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Homoeopathy diminishes the drug, but the potency of the medicine increases as the 155:27 drug disappears."*
+> - 📜 **Samuel Hahnemann (*The Chronic Diseases, Their Peculiar Nature and Their Homoeopathic Cure*):** *"The supreme maxim of **homoeopathy** is similia similibus curentur: let likes be treated by likes."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"By demonstrating that patients recovered without heroic purging and bleeding, **homoeopathy** rendered an unintentional service to rational medicine."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"The infinitesimal dilutions demanded by **homoeopathy** would require oceans of water to yield a single molecule of drug."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A small sphere.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A small sphere.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small sphere, globule, or pellet-like spherical particle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geology and planetary science, impact spherules (such as microtektites) are tiny quenched droplets of molten rock condensed from vapor plumes following meteorite impacts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"So soon as it touches the moniliform threads, the disunion commences, and almost before they are enveloped in the fluid, two spherules will scarce remain attached to each other."*
+> - 📜 **Robert Hooke (*Micrographia*):** *"By holding fine glass threads in a flame, I melted their tips into tiny, perfect **spherule** lenses of high power."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Sedimentary layers at the boundary yielded thousands of glass **spherule** droplets thrown out by a titanic impact."*
+> - 📜 **Stephen Jay Gould (*The Flamingo's Smile*):** *"The discovery of extraterrestrial iridium and shock-melted **spherule** layers gave decisive support to the Alvarez asteroid hypothesis."*

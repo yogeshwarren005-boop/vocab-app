@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Facing or on the side toward the apex.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Facing or on the side toward the apex.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In botany and plant developmental morphology, facing, directed toward, or pointing toward the apex or growing tip of an organ or axis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pteridology and descriptive anatomy, designating sori, leaflets, or indusial flaps oriented toward the frond apex (contrasting with basiscopic).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acroscopic designates facing or on the side toward the apex."*
+> - 📜 **Katherine Esau (*Plant Anatomy*):** *"The **acroscopic** pinnules along the fern frond branch develop earlier and achieve larger size than the opposing basiscopic segments."*
+> - 📜 **Arthur J. Eames (*An Introduction to Plant Anatomy*):** *"In vascular cryptogams, the **acroscopic** face of the sporangial cluster opens toward the growing shoot meristem."*
+> - 📜 **F. O. Bower (*The Ferns: Filicales*):** *"Asymmetric frond expansion frequently produces an enlarged **acroscopic** basal auricle on each secondary pinna."*

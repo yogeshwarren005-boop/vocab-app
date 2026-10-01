@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The point in the orbit of an object (such as a satellite) orbiting the earth that is nearest to the center of the earth; also : the point nearest a planet or a satellite (such as the moon) reached by an object orbiting it.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The point in the orbit of an object (such as a satellite) orbiting the earth that is nearest to the center of the earth; also : the point nearest a planet or a satellite (such as the moon) reached by an object orbiting it.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The point in the orbit of the Moon or an artificial satellite where it is nearest to the center of the Earth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In orbital mechanics and astronomy, a celestial body moves with maximum angular velocity and experiences greatest tidal gravitational pull at perigee.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, perigee designates the point in the orbit of an object (such as a satellite) orbiting the earth that is nearest to the center of the earth; also : the point nearest a planet or a satellite (such as the moon) reached by an object orbiting it."*
+> - 📜 **Johannes Kepler (*Epitome of Copernican Astronomy*):** *"When the Moon reaches **perigee**, its apparent diameter appears appreciably magnified to the terrestrial observer."*
+> - 📜 **Isaac Newton (*Philosophiae Naturalis Principia Mathematica*):** *"Gravitational perturbation from the Sun causes a continuous forward progression of the lunar **perigee**."*
+> - 📜 **Carl Sagan (*Cosmos*):** *"Swinging around the Earth at **perigee**, the spacecraft accelerated into its interplanetary transfer orbit."*

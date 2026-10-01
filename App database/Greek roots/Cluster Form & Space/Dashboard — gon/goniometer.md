@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument for measuring angles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Direction finder.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument for measuring angles, especially angles between reflecting crystal faces or range of motion in human joints.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In crystallography (Wollaston's reflecting goniometer) and physical therapy, goniometers provide objective quantification of angular alignment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, goniometer designates an instrument for measuring angles."*
+> - 📜 **René Just Haüy (*Treatise on Mineralogy*):** *"Measurement with the reflecting **goniometer** confirms that interfacial angles remain constant for every specimen of a crystal species."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"The orthopedic surgeon utilized a clear plastic **goniometer** to record passive flexion and extension of the knee joint."*
+> - 📜 **William Hallowes Miller (*A Treatise on Crystallography*):** *"High-precision **goniometer** readings provide the fundamental angular coordinates required to calculate Miller indices."*

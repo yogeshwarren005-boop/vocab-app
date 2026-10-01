@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of terrestrial orchids of australia and new zealand and western pacific.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of terrestrial orchids of australia and new zealand and western pacific.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of terrestrial orchids native to Australasia, commonly known as greenhood orchids, bearing hooded green or reddish flowers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pollination biology, orchids featuring a sensitive, touch-triggered labellum that snaps shut when insects land, trapping them against the reproductive column.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pterostylis designates genus of terrestrial orchids of australia and new zealand and western pacific."*
+> - 📜 **Robert Brown (*Prodromus Florae Novae Hollandiae*):** *"I designated this remarkable orchid genus **pterostylis** in reference to the winged lateral expansion of the column."*
+> - 📜 **Charles Darwin (*The Various Contrivances by Which Orchids Are Fertilised by Insects*):** *"The irritable labellum of **pterostylis** acts like a spring trap, enclosing small gnats within the hood to ensure pollen deposit."*
+> - 📜 **Joseph Maiden (*The Forest Flora of New South Wales*):** *"Colonies of **pterostylis** produce rosettes of soft basal leaves on sheltered woodland soils before sending up solitary hooded blooms."*

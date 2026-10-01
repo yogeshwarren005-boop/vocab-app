@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Near the nose.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Near the nose.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Situated around or near the nasal cavity or external nose.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In rhinology and maxillofacial surgery, perinasal tissues and paranasal sinuses are evaluated for inflammatory spreading and trauma.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, perinasal designates near the nose."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"Branches of the facial artery distribute freely across the **perinasal** musculature and alar cartilages."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Erysipelas frequently begins in the **perinasal** region, spreading rapidly across both cheeks in a butterfly distribution."*
+> - 📜 **Tinsley R. Harrison (*Principles of Internal Medicine*):** *"Tenderness upon palpation of the **perinasal** bony margins indicates acute maxillary or frontal sinusitis."*

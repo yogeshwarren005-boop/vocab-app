@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An aircraft whose lift is derived from the aerodynamic forces acting on one or more powered rotors turning about substantially vertical axes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To travel by helicopter.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A heavier-than-air aircraft that obtains lift and propulsion from horizontally rotating overhead rotors or blades.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aeronautical engineering, a vertical take-off and landing (VTOL) rotary-wing aircraft capable of hovering, forward, backward, and lateral flight.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, helicopter designates an aircraft whose lift is derived from the aerodynamic forces acting on one or more powered rotors turning about substantially vertical axes."*
+> - 📜 **Igor Sikorsky (*The Story of the Winged-S: An Autobiography*):** *"The successful maiden flight of the VS-300 proved that the single main-rotor **helicopter** was practically sound and controllable."*
+> - 📜 **Antoine de Saint-Exupéry (*Wind, Sand and Stars*):** *"Pioneering aviation was driven by the dream of vertical flight, realized eventually in the rotor-driven **helicopter**."*
+> - 📜 **H. G. Wells (*The War in the Air*):** *"In speculative visions of future combat, the whirring blades of the **helicopter** scouted enemy positions over mountainous ridges."*

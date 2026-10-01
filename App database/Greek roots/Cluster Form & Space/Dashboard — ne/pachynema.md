@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ne.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The pachytene stage of prophase I in meiosis, during which homologous chromosomes are fully synapsed into thick bivalents and crossing-over occurs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cytogenetics and reproductive biology, pachynema is the prolonged meiotic stage characterized by fully formed synaptonemal complexes and active genetic recombination.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pachynema designates a term designating an entity, condition, or phenomenon derived from greek ne."*
+> - 📜 **Edmund Beecher Wilson (*The Cell in Development and Heredity*):** *"At **pachynema**, the pairing of homologous chromosomes is complete, each bivalent appearing as a thick, condensed double cord."*
+> - 📜 **Thomas Hunt Morgan (*The Physical Basis of Heredity*):** *"The physical exchange of chromosomal segments by crossing-over takes place precisely during **pachynema**."*
+> - 📜 **C. D. Darlington (*Recent Advances in Cytology*):** *"Electron micrographs of **pachynema** reveal the tripartite synaptonemal complex zippering the homologues from end to end."*

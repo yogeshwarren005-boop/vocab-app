@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A thick-walled spore of some algae and fungi that is formed by union of two similar sexual cells, usually serves as a resting spore, and produces the sporophytic phase.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A thick-walled spore of some algae and fungi that is formed by union of two similar sexual cells, usually serves as a resting spore, and produces the sporophytic phase.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A thick-walled, diploid resting spore formed by the sexual conjugation and fusion of two similar gametes or gametangia in zygomycete fungi and certain green algae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mycology and protistology, the zygospore (found in *Rhizopus* and *Spirogyra*) possesses a heavily warted, pigmented wall enabling survival across seasonal extremes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, zygospore designates a thick-walled spore of some algae and fungi that is formed by union of two similar sexual cells, usually serves as a resting spore, and produces the sporophytic phase."*
+> - 📜 **Heinrich Anton de Bary (*Comparative Morphology and Biology of the Fungi*):** *"When opposing mating strains meet on agar, their suspensors fuse to create a dark, tuberculate **zygospore**."*
+> - 📜 **Eduard Strasburger (*Handbook of Practical Botany*):** *"In *Spirogyra*, the entire protoplast of one cell glides through the conjugation tube to form a durable **zygospore**."*
+> - 📜 **Albert Francis Blakeslee (*Sexual Reproduction in the Mucorineae*):** *"My discovery of heterothallism proved that a **zygospore** forms only when plus and minus strains physically contact."*

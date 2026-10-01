@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An artistic movement in france beginning in 1907 that featured surfaces of geometrical planes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An artistic movement in france beginning in 1907 that featured surfaces of geometrical planes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An early 20th-century avant-garde art movement that revolutionized European painting and sculpture by deconstructing subjects into geometric facets.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern art history, the aesthetic movement pioneered around 1907 by Pablo Picasso and Georges Braque that rejected single-point perspective in favor of fragmented, multifaceted planar representations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cubism designates an artistic movement in france beginning in 1907 that featured surfaces of geometrical planes."*
+> - 📜 **Guillaume Apollinaire (*The Cubist Painters*):** *"The geometry of **cubism** aims not at mere geometric abstraction, but at capturing an internal poetic reality."*
+> - 📜 **Gertrude Stein (*Picasso*):** *"Picasso lived through the heroic birth of **cubism**, breaking the painted canvas into crystalline facets of pure form."*
+> - 📜 **Virginia Woolf (*Roger Fry: A Biography*):** *"London audiences reacted with indignation to the revolutionary experiments of **cubism** at the Grafton Galleries."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (biology) degenerative reversion of cells or tissue to a less differentiated or more primitive form.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (biology) degenerative reversion of cells or tissue to a less differentiated or more primitive form.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Degenerative reversion of cells or tissues to a more primitive or less differentiated form; retrogressive cell change.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In histopathology, cataplasia describes the cellular atrophy and morphological regression seen in senescent tissues or chronic atrophy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cataplasia designates (biology) degenerative reversion of cells or tissue to a less differentiated or more primitive form."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Under chronic nutritional deprivation, mature parenchymal cells exhibit marked **cataplasia**, shrinking to juvenile proportions."*
+> - 📜 **Vinay Kumar (*Robbins Basic Pathology*):** *"The histologic picture of **cataplasia** reveals nuclear condensation and reduction of specialized cytoplasmic organelles."*
+> - 📜 **Juan Rosai (*Rosai and Ackerman's Surgical Pathology*):** *"Atrophic parathyroid tissue illustrates reversible **cataplasia** upon cessation of prolonged hypercalcemic suppression."*

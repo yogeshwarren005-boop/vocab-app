@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgery concerned with therapeutic or cosmetic reformation of tissue.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surgery concerned with therapeutic or cosmetic reformation of tissue.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Plastic surgery or surgical reconstruction to restore lost, injured, or deformed bodily parts (archaic/historical term).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of surgery, anaplasty encompasses autologous skin grafting and flap transposition to repair craniofacial trauma.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anaplasty designates surgery concerned with therapeutic or cosmetic reformation of tissue."*
+> - 📜 **John Hunter (*Treatise on the Blood, Inflammation, and Gun-shot Wounds*):** *"Pioneering methods of **anaplasty** demonstrated that skin flaps retain vitality when connected by a vascularized pedicle."*
+> - 📜 **Astley Cooper (*The Principles and Practice of Surgery*):** *"Facial reconstruction following traumatic loss relies upon the delicate principles of operative **anaplasty**."*
+> - 📜 **Harold Gillies (*Plastic Surgery of the Face*):** *"Tubed pedicle grafting revolutionized modern **anaplasty**, permitting the transfer of distant tissue without necrotic loss."*

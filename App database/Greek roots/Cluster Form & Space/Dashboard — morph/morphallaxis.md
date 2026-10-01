@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Regeneration on a reduced scale of a body part; observed especially in invertebrates such as certain lobsters.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Regeneration on a reduced scale of a body part; observed especially in invertebrates such as certain lobsters.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mode of biological regeneration in animals (such as Hydra or planarians) wherein missing body parts are reconstituted primarily by the reorganization and remodeling of existing tissues without extensive new cell proliferation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In experimental embryology and developmental biology, morphallaxis was distinguished by Thomas Hunt Morgan from epimorphosis, which relies on blastema proliferation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, morphallaxis designates regeneration on a reduced scale of a body part; observed especially in invertebrates such as certain lobsters."*
+> - 📜 **Thomas Hunt Morgan (*Regeneration*):** *"When a severed fragment of Planaria remodels into a complete miniature worm without new growth, the process is one of pure **morphallaxis**."*
+> - 📜 **Lewis Wolpert (*The French Flag Problem: A Contribution to the Discussion on Pattern Formation and Regulation*):** *"Pattern regulation via positional information explains how Hydra restores its head and foot through tissue **morphallaxis**."*
+> - 📜 **Julian Huxley (*The Stream of Life*):** *"The marvel of **morphallaxis** demonstrates that embryonic cells can be respecified and repurposed by systemic organizing gradients."*

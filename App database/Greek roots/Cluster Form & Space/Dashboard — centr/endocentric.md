@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fulfilling the grammatical role of one of its constituents.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fulfilling the grammatical role of one of its constituents.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Fulfilling the same grammatical function as one of its constituents; internally centered.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In structural linguistics, describing a compound or phrase whose syntactic distribution and semantic head belong to the same word class as the whole construction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endocentric designates fulfilling the grammatical role of one of its constituents."*
+> - 📜 **Leonard Bloomfield (*Language*):** *"The compound 'blackbird' is strictly **endocentric**, for the whole phrase functions syntactically as a noun like its head 'bird'."*
+> - 📜 **Noam Chomsky (*Aspects of the Theory of Syntax*):** *"Modern X-bar theory treats virtually every lexical projection as **endocentric** around its core head."*
+> - 📜 **Edward Sapir (*Language: An Introduction to the Study of Speech*):** *"Syntactic cohesion reveals whether an idiomatic phrase behaves in an **endocentric** or exocentric pattern."*

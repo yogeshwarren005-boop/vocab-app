@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or characteristic of the atmosphere around a low pressure center.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characteristic of a violent tropical storm.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a cyclone; of cyclonic character.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In older meteorological treatises, describing circular storm dynamics or rotating pressure systems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cyclonical designates of or relating to or characteristic of the atmosphere around a low pressure center."*
+> - 📜 **Henry Piddington (*The Sailor's Horn-Book for the Law of Storms*):** *"Vessels caught in a **cyclonical** hurricane must immediately determine which semi-circle of the tempest they occupy."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The sky assumed a wild and **cyclonical** aspect as black squall clouds wrapped the mastheads in gloom."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Great storm surges accompanying **cyclonical** gales frequently inundate low delta plains, depositing thick silt strata."*

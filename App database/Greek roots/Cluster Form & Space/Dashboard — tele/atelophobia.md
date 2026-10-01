@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek tele.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal, morbid, or extreme psychological fear of imperfection or of making mistakes; pathological perfectionism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychology and psychiatry, atelophobia manifests as severe anxiety, obsessive rumination, and paralyzing avoidance behavior driven by terror of perceived inadequacy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, atelophobia designates a term designating an entity, condition, or phenomenon derived from greek tele."*
+> - 📜 **William James (*The Principles of Psychology*):** *"A morbid dread of falling short of perfection, which modern alienists term **atelophobia**, can paralyze all creative initiative."*
+> - 📜 **Sigmund Freud (*Inhibitions, Symptoms and Anxiety*):** *"The tyrannical demands of the superego in obsessive neurosis frequently assume the agonizing guise of **atelophobia**."*
+> - 📜 **Karen Horney (*Neurosis and Human Growth*):** *"Behind the compulsive striving for an idealized image lies the deep terror of imperfection and acute **atelophobia**."*

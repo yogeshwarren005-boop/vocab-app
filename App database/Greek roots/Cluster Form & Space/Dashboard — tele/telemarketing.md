@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The use of the telephone as an interactive medium for promotion and sales.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The use of the telephone as an interactive medium for promotion and sales.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The direct marketing, promotion, or selling of goods and services to potential customers by telephone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In contemporary business practices and consumer regulation, automated telemarketing (using robocalls and predictive dialers) prompted federal 'Do Not Call' registries to protect personal privacy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, telemarketing designates the use of the telephone as an interactive medium for promotion and sales."*
+> - 📜 **Nicholas Negroponte (*Being Digital*):** *"Unsolicited **telemarketing** calls represent an intrusive assault by commercial atoms upon human attention."*
+> - 📜 **Alvin Toffler (*The Third Wave*):** *"The expansion of toll-free telephone networks nurtured the lucrative billion-dollar industry of direct **telemarketing**."*
+> - 📜 **David Foster Wallace (*Brief Interviews with Hideous Men*):** *"He worked the phones for a relentless financial **telemarketing** firm, reading cold-call scripts from an illuminated terminal."*

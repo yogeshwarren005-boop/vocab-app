@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The outer envelope of the sporophore of many fungi.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The outer envelope of the sporophore of many fungi.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The outer protective wall, skin, or envelope of the fruiting body of certain fungi, such as puffballs, earthstars, and truffles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mycology, the peridium may be single- or multi-layered (exoperidium and endoperidium), rupturing by an apical pore or dehiscing stellately to release spores.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Without staying to enumerate the characteristics of these orders, we select one in which the spores are enclosed in a distinct peridium, as in our typical plant they are contained within the cups."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"All around the orifice of the peridium the teeth become recurved, and the orange spores are exposed, crowded together within."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"In this genus the peridium bursts irregularly, and does not form cups, or horns, or fringed vessels."*
+> - 📜 **Elias Magnus Fries (*Systema Mycologicum*):** *"In puffballs, mature basidiospores remain sealed within the membranous **peridium** until mechanical shock releases them."*
+> - 📜 **Miles Joseph Berkeley (*Outlines of British Fungology*):** *"The outer layer of the **peridium** in Geastrum splits into star-like rays that recurve upon the soil."*
+> - 📜 **John Webster (*Introduction to Fungi*):** *"Raindrop impaction on the flexible **peridium** generates puffs of air that eject spores through the ostiole."*

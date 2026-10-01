@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or being a hemisphere.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or being a hemisphere.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Shaped like a hemisphere or half of a sphere; domed, semi-spherical.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In architecture, mechanical design, and microscopy, hemispherical structures offer optimal structural load distribution and minimal chromatic surface distortion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The pit was a hemispherical concave, naturally formed, with a top diameter of about thirty feet, and shallow enough to allow the sunshine to reach their heads."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Common. (Plate XI. fig. 216.) PHYLLACTINIA, _Lév._ Perithecia hemispherical, at length depressed, seated on a persistent or evanescent membranaceo-granular receptacle; appendages straight, rigid, acicular, at length bent back.—_Berk."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The soaring Byzantine cupola displays a majestic **hemispherical** vault bathed in shimmering golden mosaics."*
+> - 📜 **Ernst Abbe (*On the Mode of Vision with Apochromatic Objectives*):** *"The front immersion lens consists of a miniature **hemispherical** glass element polished with hyper-accurate curvature."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"The electric charge distributed itself entirely upon the convex exterior of the hollow **hemispherical** brass vessel."*

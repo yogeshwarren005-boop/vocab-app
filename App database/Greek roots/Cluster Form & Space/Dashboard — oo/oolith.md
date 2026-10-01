@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek oo.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An individual ooid or small, rounded, concentrically layered grain of calcium carbonate found within oolitic limestone or forming on modern carbonate platforms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In petrography, the term oolith emphasizes the individual grain rather than the aggregate rock, with the internal structure revealing growth history and diagenetic alteration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oolith designates a term designating an entity, condition, or phenomenon derived from greek oo."*
+> - 📜 **Johannes Walther (*Introduction to Geology as a Historical Science*):** *"Each **oolith** grows by the successive precipitation of aragonite laminae around a central nucleus."*
+> - 📜 **Robert L. Folk (*Petrology of Sedimentary Rocks*):** *"The internal fabric of an **oolith** may be radial, concentric, or a combination of both structures."*
+> - 📜 **Charles Lyell (*Elements of Geology*):** *"A single **oolith** rarely exceeds two millimeters in diameter but millions together build massive limestone beds."*

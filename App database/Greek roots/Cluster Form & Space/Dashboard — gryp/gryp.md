@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek gryp.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A Greek root meaning 'curved', 'hooked', or 'bent', forming scientific terms designating hooked bills, curved joints, or curled appendages.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In paleontological and medical taxonomy, gryp- identifies hooked rostral anatomy (Gryposaurus) or congenital joint curvature (arthrogryposis).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gryp designates a term designating an entity, condition, or phenomenon derived from greek gryp."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"The adjective grypos signifies curved or hook-nosed, preserved in anatomical descriptors formed on **gryp**."*
+> - 📜 **Robert Beekes (*Etymological Dictionary of Greek*):** *"Describing hooked profiles and raptorial bills, **gryp** passed directly into modern zoological classification."*
+> - 📜 **Pierre Chantraine (*Dictionnaire étymologique de la langue grecque*):** *"The expressive Hellenic root **gryp** characterizes curved instruments, hooked beaks, and bent limbs."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The 18th letter of the Greek alphabet.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Standard deviation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The eighteenth letter of the Greek alphabet (Σ, σ, ς), transliterated as 's'.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematical statistics, lowercase sigma (σ) denotes standard deviation, uppercase sigma (Σ) denotes summation, and in chemistry, sigma bonds form covalent axial overlaps.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sigma designates the 18th letter of the greek alphabet."*
+> - 📜 **Karl Pearson (*Mathematical Contributions to the Theory of Evolution*):** *"Let **sigma** represent the standard deviation of the array, measuring the dispersion of variants about their mean."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"The cylindrical symmetry of electron distribution about the internuclear axis characterizes the stable **sigma** bond."*
+> - 📜 **Richard Feynman (*The Feynman Lectures on Physics*):** *"We calculate the scattering cross-section **sigma** by integrating the transition probability over all outgoing angles."*

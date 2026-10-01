@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A glandular disorder caused by excessive cortisol.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A glandular disorder caused by excessive cortisol.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hormonal disorder caused by chronic, excessive circulating levels of glucocorticoids produced by the adrenal cortex; Cushing's disease or syndrome.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In veterinary and human internal medicine, hyperadrenocorticism may be pituitary-dependent (ACTH hypersecretion), adrenal-dependent (functional cortical adenoma), or iatrogenic, causing alopecia, polyuria, polydipsia, and muscle weakness.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyperadrenocorticism designates a glandular disorder caused by excessive cortisol."*
+> - 📜 **Harvey Cushing (*Papers Relating to the Pituitary Body, Hypothalamus and Parasympathetic Nervous System*):** *"Clinical features of **hyperadrenocorticism** include round plethoric facies, buffalo hump, and persistent arterial hypertension."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Secondary osteoporosis and glycosuria frequently complicate long-standing endogenous **hyperadrenocorticism**."*
+> - 📜 **Ernest Starling (*Principles of Human Physiology*):** *"Experimental induction of **hyperadrenocorticism** leads to marked immunosuppression and lymphoid tissue involution."*

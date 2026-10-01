@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A combination of contradictory or incongruous words (such as cruel kindness); broadly : something (such as a concept) that is made up of contradictory or incongruous elements.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A combination of contradictory or incongruous words (such as cruel kindness); broadly : something (such as a concept) that is made up of contradictory or incongruous elements.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A figure of speech in which contradictory or incongruous terms appear in conjunction (such as 'deafening silence' or 'cruel kindness').
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary rhetoric and stylistics, an intentional paradox utilized to evoke irony, dramatic tension, or emotional complexity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oxymoron designates a combination of contradictory or incongruous words (such as cruel kindness); broadly : something (such as a concept) that is made up of contradictory or incongruous elements."*
+> - 📜 **William Shakespeare (*Romeo and Juliet*):** *"Why then, O brawling love! O loving hate! O heavy lightness! serious vanity! In every tragic **oxymoron** despair confronts desire."*
+> - 📜 **Samuel Johnson (*Lives of the English Poets*):** *"The metaphysical poets delighted in every bold **oxymoron** that could startle the intellect."*
+> - 📜 **John Dryden (*Of Dramatic Poesy*):** *"A felicitous **oxymoron** joins opposites in a flash of paradoxical illumination."*

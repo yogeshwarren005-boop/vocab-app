@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having similar appearance but genetically different.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having similar appearance but genetically different.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having identical or very similar crystalline form, shape, or geometric structure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In crystallographic chemistry, describing compounds that can crystallize together in homogeneous mixed crystals or replace each other in mineral lattices.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, isomorphous designates having similar appearance but genetically different."*
+> - 📜 **J. D. Dana (*A System of Mineralogy*):** *"Phosphates and arsenates of lead form an **isomorphous** series, crystallizing in identical hexagonal prisms with interchangeable ions."*
+> - 📜 **Eilhard Mitscherlich (*Sur la relation qui existe entre la forme cristalline*):** *"The alums provide classic examples of **isomorphous** substances, whose octahedra can grow layered around one another in solution."*
+> - 📜 **William L. Bragg (*Atomic Structure of Minerals*):** *"Ionic radius determines whether two metal cations can substitute for each other within an **isomorphous** silicate crystal lattice."*

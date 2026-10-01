@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A cherished desire.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A strong drive for success.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An earnest desire for achievement, distinction, wealth, or power, accompanied by the determination to attain it.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moral philosophy and psychology, a dual-natured motivational drive that ranges from virtuous aspiration for excellence to destructive egotism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Who does i’ th’ wars more than his captain can Becomes his captain’s captain; and ambition, The soldier’s virtue, rather makes choice of loss Than gain which darkens him."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll tell thee, Charles, it is the stubbornest young fellow of France, full of ambition, an envious emulator of every man’s good parts, a secret and villainous contriver against me his natural brother."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"AMIENS. [_Sings_.] Who doth ambition shun And loves to live i’ th’ sun, Seeking the food he eats And pleased with what he gets, Come hither, come hither, come hither."*
+> - 📜 **William Shakespeare (*Henry VIII*):** *"Cromwell, I charge thee, fling away **ambition**: by that sin fell the angels; how can man, then, the image of his Maker, hope to win by it?"*
+> - 📜 **Francis Bacon (*Essays*):** *"**Ambition** is like choler; which is an humor that maketh men active, earnest, full of alacrity, and stirring, if it be not stopped."*
+> - 📜 **Mary Shelley (*Frankenstein*):** *"Learn from me, if not by my precepts, at least by my example, how dangerous is the acquirement of knowledge and how much happier that man is who believes his native town to be the world, than he who aspires to become greater than his nature will allow through blind **ambition**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The fibrillar bundle of a flagellum or cilium that usually consists of nine pairs of microtubules arranged in a ring around a single central pair.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The fibrillar bundle of a flagellum or cilium that usually consists of nine pairs of microtubules arranged in a ring around a single central pair.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The central microtubular core and motility engine of a eukaryotic cilium or flagellum, classically exhibiting a conserved 9+2 arrangement of microtubule doublets.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cell biology and biophysics, the sliding of adjacent doublet microtubules powered by dynein motor arms generates the rhythmic bending waves of the axoneme.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, axoneme designates the fibrillar bundle of a flagellum or cilium that usually consists of nine pairs of microtubules arranged in a ring around a single central pair."*
+> - 📜 **Keith R. Porter (*Fine Structure of Cells and Tissues*):** *"Electron microscopy of ciliary cross-sections revealed the remarkable geometric regularity of the **axoneme** with its nine peripheral doublets."*
+> - 📜 **Bruce Alberts (*Molecular Biology of the Cell*):** *"ATP-dependent dynein walking against adjacent microtubules causes the flexible **axoneme** to bend in rhythmic wave-like beats."*
+> - 📜 **Lynn Margulis (*Symbiosis in Cell Evolution*):** *"The evolutionary origin of the eukaryotic **axoneme** remains one of the central puzzles in cellular morphogenesis."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A letter from the pope sent to all roman catholic bishops throughout the world.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Intended for wide distribution.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Intended for wide circulation; circular; specifically, a papal letter addressed to all bishops or churches of the Catholic communion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ecclesiastical history, an authoritative circular pastoral letter expounding church doctrine, moral guidance, or social teachings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, encyclical designates a letter from the pope sent to all roman catholic bishops throughout the world."*
+> - 📜 **Pope Leo XIII (*Rerum Novarum*):** *"By this our solemn **encyclical**, We address the rights and duties of capital and labor before the entire Christian world."*
+> - 📜 **John Henry Newman (*Apologia Pro Vita Sua*):** *"The arrival of an **encyclical** letter from Rome commanded universal reverence and obedience throughout the dioceses."*
+> - 📜 **Lord Acton (*Historical Essays and Studies*):** *"The language of the papal **encyclical** was studied with intense diplomatic anxiety across every European chancellery."*

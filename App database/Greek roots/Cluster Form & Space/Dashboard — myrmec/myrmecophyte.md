@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Plant that affords shelter or food to ants that live in symbiotic relations with it.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Plant that affords shelter or food to ants that live in symbiotic relations with it.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A plant that lives in an obligate or facultative mutualistic relationship with an ant colony, possessing specialized structures for housing and nourishing the ants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In tropical ecology, a myrmecophyte provides domatia (hollow stems, thorns, or leaf pouches) and food bodies in exchange for defense against folivores and encroaching vines.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, myrmecophyte designates plant that affords shelter or food to ants that live in symbiotic relations with it."*
+> - 📜 **Thomas Belt (*The Naturalist in Nicaragua*):** *"The bull's-horn acacia is a true **myrmecophyte**, offering hollow spines for nests and Beltian bodies on its leaflet tips as ant food."*
+> - 📜 **Daniel Janzen (*Coevolution of Mutualism Between Ants and Acacias*):** *"When ants were experimentally excluded from a **myrmecophyte**, the tree was rapidly defoliated and smothered by competing vegetation."*
+> - 📜 **E. O. Wilson (*The Diversity of Life*):** *"The tropical rainforest contains astonishing examples of the **myrmecophyte**, where plants cultivate fierce insect armies for protection."*

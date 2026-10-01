@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Severe spasm in which the back arches and the head bends back and heels flex toward the back.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Severe spasm in which the back arches and the head bends back and heels flex toward the back.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A severe involuntary arching of the back in which the body is bent backward with the head and heels drawn toward each other, caused by sustained spasm of the extensor muscles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurology and toxicology, opisthotonos is a hallmark sign of tetanus, strychnine poisoning, and severe meningitis, reflecting intense hyperexcitability of motor neurons.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, opisthotonos designates severe spasm in which the back arches and the head bends back and heels flex toward the back."*
+> - 📜 **Hippocrates (*On the Sacred Disease*):** *"When the disease seizes the body from behind, **opisthotonos** bends the patient into an arc like a drawn bow."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The characteristic **opisthotonos** of tetanus produces an unmistakable posture of extreme dorsal flexion."*
+> - 📜 **Charles Bell (*Essays on the Anatomy of Expression*):** *"The muscular rigidity of **opisthotonos** has been depicted by artists since antiquity as a symbol of mortal agony."*

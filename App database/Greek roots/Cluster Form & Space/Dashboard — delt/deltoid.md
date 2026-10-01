@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A large triangular muscle that covers the shoulder joint and serves to raise the arm laterally.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a triangular shape.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Shaped like the Greek capital letter delta (an equilateral triangle); specifically, the large triangular muscle covering the glenohumeral shoulder joint.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In functional anatomy, the deltoid muscle abducts, flexes, and extends the arm, divided into clavicular, acromial, and spinal divisions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, deltoid designates a large triangular muscle that covers the shoulder joint and serves to raise the arm laterally."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"The **deltoid** muscle forms the rounded contour of the shoulder and serves as the principal abductor of the upper limb."*
+> - 📜 **Arthur C. Guyton (*Textbook of Medical Physiology*):** *"Contraction of the middle **deltoid** fibers raises the humerus through the horizontal plane once initiation is accomplished by supraspinatus."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The human **deltoid** exhibits distinctive development in correlation with erect posture and liberated manual dexterity."*

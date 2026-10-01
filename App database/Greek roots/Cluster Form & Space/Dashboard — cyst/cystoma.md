@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek cyst.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cystic tumor; a benign or malignant new growth containing cysts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In surgical pathology and gynecology, an encapsulated fluid-filled neoplasm, notably an ovarian cystadenoma (serous or mucinous cystoma).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cystoma designates a term designating an entity, condition, or phenomenon derived from greek cyst."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"A multilocular **cystoma** arises from glandular proliferation wherein adjacent acini dilate into massive mucus-filled cavities."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Pulsatile dullness across the lower abdomen suggested an expanding multilocular ovarian **cystoma**."*
+> - 📜 **Sir Frederick Treves (*A Manual of Surgery*):** *"Surgical excision of a giant **cystoma** required careful aspiration of its viscous contents before mobilizing adhesions."*

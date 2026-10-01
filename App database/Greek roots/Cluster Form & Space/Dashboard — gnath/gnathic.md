@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the jaw.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the jaw.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or involving the jaw.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical anthropology and craniometry, gnathic indices quantify the relative projection of the dental arches beyond the facial plane.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gnathic designates of or relating to the jaw."*
+> - 📜 **Wilfrid Le Gros Clark (*The Fossil Evidence for Human Evolution*):** *"The **gnathic** index, calculated from basion-prosthion and basion-nasion lengths, decreases dramatically from apes to humans."*
+> - 📜 **Arthur Keith (*A New Theory of Human Evolution*):** *"Refinement of dietary preparation caused significant evolutionary regression in the human **gnathic** skeleton."*
+> - 📜 **Aleš Hrdlička (*Anthropometry*):** *"Accurate calipers are required to record the **gnathic** dimensions of the facial skeleton without distorting delicate zygomatic arches."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of stamp, model.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of stamp, model.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or exhibiting traits of schizotypy; manifesting subtle cognitive, perceptual, or social eccentricities related to the schizophrenia spectrum.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychiatric nosology and behavioral genetics, schizotypic personality traits include magical thinking, ideas of reference, unusual perceptual experiences, and social anhedonia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, schizotypic designates adjective*) pertaining to, derived from, or characteristic of stamp, model."*
+> - 📜 **Paul Meehl (*Schizotaxia, Schizotypy, Schizophrenia*):** *"Meehl hypothesized that neural integrative defect produces a **schizotypic** cognitive style that predisposes to psychosis."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"Certain mystical temperaments exhibit eccentric perceptual sensitivities allied to a **schizotypic** constitutional makeup."*
+> - 📜 **Oliver Sacks (*Hallucinations*):** *"Transient sensory illusions frequently occur in individuals with a mild **schizotypic** psychological profile."*

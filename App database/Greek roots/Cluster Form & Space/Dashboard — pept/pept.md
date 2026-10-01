@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek pept.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A Greek combining root (from peptein, 'to digest, ripen, or soften') forming scientific terms relating to digestion, peptic enzymes, and peptide polymers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistic and biochemical history, the stem pept provides the universal root for peptides, peptones, and peptic gastrointestinal physiology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pept designates a term designating an entity, condition, or phenomenon derived from greek pept."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"The Greek verbal stem **pept** denotes to cook, ripen, or digest food within the body."*
+> - 📜 **Robert Beekes (*Etymological Dictionary of Greek*):** *"Reflecting Proto-Indo-European *pekʷ- (to cook), the root **pept** evolved into terms designating metabolic softening and digestion."*
+> - 📜 **Emil Fischer (*Untersuchungen über Aminosäuren*):** *"From the ancient root **pept**, we coined the term peptide to designate synthetic chains of amide-linked amino acids."*

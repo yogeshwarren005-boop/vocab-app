@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek i.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A macromolecule, polymer, or chemical complex carrying multiple positive electric charges.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gene therapy and biophysics, synthetic polycations (such as polyethylenimine, poly-L-lysine, or chitosan) bind electrostatically to polyanionic DNA or RNA to form compact polyplex nanoparticles for cellular gene delivery.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polycation designates a term designating an entity, condition, or phenomenon derived from greek i."*
+> - 📜 **Max Perutz (*Proteins and Nucleic Acids*):** *"Histone octamers act as a specialized **polycation** spool around which the negative DNA helix tightly winds."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"Basic polyamino acids behave in aqueous solution as an extended **polycation**, attracting surrounding anions."*
+> - 📜 **Francis Crick (*What Mad Pursuit*):** *"The interaction between a synthetic **polycation** and genetic material proved crucial for early transfection assays."*

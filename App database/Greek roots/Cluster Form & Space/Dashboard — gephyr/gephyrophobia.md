@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek gephyr.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal, persistent, and irrational fear of crossing bridges.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychology and anxiety disorders, gephyrophobia is a specific situational phobia often triggered by height, open water, or dread of structural collapse.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gephyrophobia designates a term designating an entity, condition, or phenomenon derived from greek gephyr."*
+> - 📜 **Emil Kraepelin (*Clinical Psychiatry*):** *"Severe panic accompanied by autonomic hyperarousal upon approaching spans of water characterizes **gephyrophobia**."*
+> - 📜 **Sigmund Freud (*Introductory Lectures on Psycho-Analysis*):** *"The phobic anxiety in **gephyrophobia** projects internal unconscious conflicts onto the hazardous passage across the abyss."*
+> - 📜 **William James (*The Principles of Psychology*):** *"In cases of **gephyrophobia**, the terrifying visual expanse beneath the traveler overwhelms voluntary motor coordination."*

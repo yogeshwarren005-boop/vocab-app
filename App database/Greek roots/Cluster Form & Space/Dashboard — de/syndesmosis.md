@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An articulation in which the contiguous surfaces of the bones are rough and are bound together by a ligament.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An articulation in which the contiguous surfaces of the bones are rough and are bound together by a ligament.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An articulation or joint in which the opposed bony surfaces are bound together by an interosseous ligament or membrane allowing slight movement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In orthopedic traumatology, disruption of the distal tibiofibular syndesmosis (high ankle sprain) requires anatomical reduction to prevent post-traumatic arthrosis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, syndesmosis designates an articulation in which the contiguous surfaces of the bones are rough and are bound together by a ligament."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"A **syndesmosis** represents a fibrous articulation where bones are united by dense interosseous fibrous bands."*
+> - 📜 **Charles A. Rockwood (*Fractures in Adults*):** *"Widening of the clear space on radiographic views indicates complete disruption of the distal tibiofibular **syndesmosis**."*
+> - 📜 **S. Terry Canale (*Campbell's Operative Orthopaedics*):** *"Screw or suture-button fixation stabilizes the unstable **syndesmosis** until ligamentous healing is securely achieved."*

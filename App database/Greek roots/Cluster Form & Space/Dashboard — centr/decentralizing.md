@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make less central.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending away from a central point.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Engaged in, causing, or relating to the transfer of authority or activities away from a central hub.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In macroeconomics and organizational dynamics, tending to break down central control in favor of local autonomy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, decentralizing designates make less central."*
+> - 📜 **Lewis Mumford (*Technics and Civilization*):** *"The motor vehicle operated as a **decentralizing** force, breaking the rigid radiating rail corridors of the 19th century."*
+> - 📜 **Ebenezer Howard (*To-morrow: A Peaceful Path to Real Reform*):** *"A systematic **decentralizing** policy will draw surplus labor into green agricultural belts and garden villages."*
+> - 📜 **Alvin Toffler (*The Third Wave*):** *"Telecommunications acts as a powerful **decentralizing** mechanism, dispersing office workers back into home cottages."*

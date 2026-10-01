@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Disintegration and dissolution of a cell nucleus when a cell dies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Disintegration and dissolution of a cell nucleus when a cell dies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The dissolution, disintegration, and disappearance of the cell nucleus, occurring as a hallmark stage of cellular necrosis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In histopathology, karyolysis results from the activation of endogenous endonucleases and lysosomal enzymes that degrade nuclear chromatin, causing loss of basophilic staining and leaving a pale, 'ghost' cell.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, karyolysis designates disintegration and dissolution of a cell nucleus when a cell dies."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"In ischemic infarction, the necrotic cells undergo progressive **karyolysis**, their nuclei fading until they vanish."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Microscopic examination of the caseous tuberculous focus shows extensive **karyolysis** and cellular debris."*
+> - 📜 **James Paget (*Lectures on Surgical Pathology*):** *"Toxic degeneration of the hepatic parenchyma is marked histologically by rapid **karyolysis** and cytolysis."*

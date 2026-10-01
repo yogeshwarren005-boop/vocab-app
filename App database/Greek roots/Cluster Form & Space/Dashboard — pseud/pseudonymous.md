@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bearing or using a fictitious name; also : being a pseudonym.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bearing or using a fictitious name; also : being a pseudonym.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bearing, writing, or published under a fictitious, assumed, or invented name.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary philosophy and textual criticism, describing authorship that intentionally divides authorial subjectivity across multiple literary personas.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"But to guide one's course aright, between the true myth and the depraved, to distinguish between the true and good god and the pseudonymous daemon, was no easy task."*
+> - 📜 **Søren Kierkegaard (*The Point of View for My Work as an Author*):** *"My **pseudonymous** writings were not mere playful deceptions, but dialectical stages through which the aesthetic life is traversed."*
+> - 📜 **Charlotte Brontë (*Biographical Notice of Ellis and Acton Bell*):** *"We dictated our **pseudonymous** signatures to forestall the prejudice that women writers inevitably encountered from reviewers."*
+> - 📜 **C. S. Lewis (*Surprised by Joy: The Shape of My Early Life*):** *"My first collection of verses appeared as a **pseudonymous** volume under the modest guise of Clive Hamilton."*

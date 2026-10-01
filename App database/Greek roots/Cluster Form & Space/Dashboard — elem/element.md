@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An abstract part of something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An artifact that is one of the individual parts of which a composite entity is made up; especially a part that can be separated from or attached to a system.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A fundamental, essential, or irreducible constituent of a composite entity or system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemistry, a pure chemical substance consisting of atoms all having the same number of protons in their atomic nuclei.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"His delights Were dolphin-like; they showed his back above The element they lived in."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Her clothes spread wide, And mermaid-like, awhile they bore her up, Which time she chaunted snatches of old tunes, As one incapable of her own distress, Or like a creature native and indued Unto that element."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The violet smells to him as it doth to me; the element shows to him as it doth to me; all his senses have but human conditions."*
+> - 📜 **Antoine Lavoisier (*Elements of Chemistry*):** *"Every substance that has resisted all attempts at chemical decomposition must be regarded as an **element**."*
+> - 📜 **Dmitri Mendeleev (*The Principles of Chemistry*):** *"The periodic law demonstrates that the properties of an **element** are periodic functions of its atomic mass."*
+> - 📜 **Aristotle (*Metaphysics*):** *"An **element** is that into which a thing is divided, being itself undivided in form into other kinds."*

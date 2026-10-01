@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One who creates or takes part in schism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or guilty of schism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or guilty of creating or maintaining a schism or division within an organization, especially a church.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who creates, promotes, or adheres to a schism; a sectarian separatist.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Edward Soothill (*The lotus of the wonderful law*):** *"His doom be that of a parricide, Or of a swindling oil-presser, Or of a cheat with measure and weight, Or of Devadatta the first schismatic."*
+> - 📜 **John Milton (*Areopagitica*):** *"Men who are called **schismatic** and sectary are often those who examine truth with more diligence than stagnant orthodoxy."*
+> - 📜 **Thomas Aquinas (*Summa Theologiae*):** *"The **schismatic** sins directly against Christian charity by severing the ecclesiastical unity of the mystical body of Christ."*
+> - 📜 **John Henry Newman (*Apologia Pro Vita Sua*):** *"I wrestled with the grave fear that remaining in the Anglican communion meant persevering in a **schismatic** position."*

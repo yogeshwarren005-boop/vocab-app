@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A bony fish of the subclass teleostei.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bony fish of the subclass teleostei.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characteristic of the teleosts (the advanced bony fishes of the infraclass Teleostei).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine biology and ichthyology, teleostan adaptations include swim bladders with specialized gas glands for buoyancy and opercular respiratory pumps.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, teleostan designates a bony fish of the subclass teleostei."*
+> - 📜 **Albert Günther (*An Introduction to the Study of Fishes*):** *"The **teleostan** fishes outnumber all other living aquatic vertebrates in morphological variety and global abundance."*
+> - 📜 **David Starr Jordan (*Fishes*):** *"In every marine ecosystem, from coral reefs to abyssal trenches, the **teleostan** radiation has conquered every ecological niche."*
+> - 📜 **E. Ray Lankester (*A Treatise on Zoology*):** *"The light skeleton and specialized branchial apparatus of the **teleostan** line reflect intense evolutionary refinement."*

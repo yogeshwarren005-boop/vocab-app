@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek speir.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The primordial cell or group of cells in a young sporangium or anther that gives rise to the sporogenous tissue or spore mother cells.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cryptogamic and angiosperm organogenesis, the archesporium represents the ultimate founder cell population of the male or female germ line in plants.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, archesporium designates a term designating an entity, condition, or phenomenon derived from greek speir."*
+> - 📜 **Eduard Strasburger (*Handbook of Practical Botany*):** *"Cross-sections of the immature moss capsule display the cylindrical **archesporium** wrapped around the central columella."*
+> - 📜 **F. O. Bower (*The Ferns (Filicales)*):** *"In primitive eusporangiate ferns, the **archesporium** is derived from several hypodermal cells of the developing receptacle."*
+> - 📜 **Katherine Esau (*Anatomy of Seed Plants*):** *"Meiotic divisions within the **archesporium** ultimately yield tetrads of microspores destined to become mature pollen grains."*

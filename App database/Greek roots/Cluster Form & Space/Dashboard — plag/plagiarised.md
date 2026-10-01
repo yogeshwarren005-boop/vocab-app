@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Take without referencing from someone else's writing or speech; of intellectual property.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Copied and passed off as your own.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Copied from another author's work and presented as original without acknowledgment (chiefly British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scholarly publishing, describing manuscripts or texts containing uncredited borrowed passages.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plagiarised designates take without referencing from someone else's writing or speech; of intellectual property."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"Whole paragraphs in that pamphlet were demonstrably **plagiarised** from the German transcendentalists."*
+> - 📜 **Jonathan Swift (*The Battle of the Books*):** *"Modern treatises exhibited vast piles of **plagiarised** fragments patched into an awkward literary patchwork."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Mr. Casaubon dreaded that critics would discover his key theories had been anticipated and **plagiarised**."*

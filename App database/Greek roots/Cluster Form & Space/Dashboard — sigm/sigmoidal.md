@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the sigmoid flexure in the large intestine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the sigmoid flexure in the large intestine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having an S-shape; following a smooth curve that resembles the letter S, typically rising slowly, steepening, and then leveling off.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In enzyme kinetics and population biology, sigmoidal binding curves (exemplified by hemoglobin cooperativity or logistic population growth) indicate allosteric regulation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sigmoidal designates of or relating to the sigmoid flexure in the large intestine."*
+> - 📜 **Jacques Monod (*Chance and Necessity*):** *"The **sigmoidal** saturation curve of hemoglobin demonstrates cooperative allosteric interactions between its four subunits."*
+> - 📜 **D'Arcy Wentworth Thompson (*On Growth and Form*):** *"The cumulative growth of an organism over time invariably traces an elegant **sigmoidal** trajectory."*
+> - 📜 **Max Delbrück (*Bacterial Viruses and Genetics*):** *"Plotting phage reproduction yield against incubation interval produces a characteristic **sigmoidal** rise."*

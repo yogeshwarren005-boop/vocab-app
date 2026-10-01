@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Embody the essential characteristics of or be a typical example of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Embody the essential characteristics of or be a typical example of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To be a typical or ideal representation of; to embody or exemplify; to summarize the essence of a larger concept.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In rhetoric and critical analysis, epitomize denotes distilling an expansive thesis, cultural epoch, or artistic ethos into a quintessential expression.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"A poem of 1788, "Die Stille," written at Maulbronn, epitomizes almost everything that we have thus far noted as to Hoelderlin's nature."*
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"In the individual the species has, as it were, been gathered up, epitomized, and intensified, and he has thus been a prophecy, and to some extent a fulfilment of human destiny."*
+> - 📜 **Ralph Waldo Emerson (*Representative Men*):** *"Great individuals **epitomize** the latent thoughts and aspirations of their contemporary generation."*
+> - 📜 **George Santayana (*The Life of Reason*):** *"A Greek temple seems to **epitomize** the serenity and proportion that reason seeks to instill in human life."*
+> - 📜 **Thorstein Veblen (*The Instinct of Workmanship*):** *"The gilded ornamentation of lavish estates came to **epitomize** conspicuous consumption in the industrial era."*

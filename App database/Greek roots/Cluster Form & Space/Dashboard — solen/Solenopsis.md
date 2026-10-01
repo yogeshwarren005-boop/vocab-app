@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fire ants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fire ants.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of stinging ants in the family Formicidae, commonly known as fire ants; also a genus of herbaceous flowering plants in the family Campanulaceae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In myrmecology and invasive species biology, *Solenopsis invicta* (the red imported fire ant) is infamous for aggressive cooperative foraging, rafts on floodwaters, and piperidine venom.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Solenopsis designates fire ants."*
+> - 📜 **Edward O. Wilson (*The Insect Societies*):** *"Workers of the genus **Solenopsis** utilize a recruitment trail pheromone released from the Dufour's gland to mobilize nestmates."*
+> - 📜 **William Morton Wheeler (*Ants: Their Structure, Development and Behavior*):** *"The sting of the fire ant **Solenopsis** produces immediate stinging pain followed by a sterile pustule at the puncture site."*
+> - 📜 **Bert Hölldobler (*Journey to the Ants*):** *"Colonies of **Solenopsis** construct enormous subterranean mounds that alter soil chemistry and displace indigenous fauna."*

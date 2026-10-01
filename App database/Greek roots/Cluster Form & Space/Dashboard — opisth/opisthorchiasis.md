@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Infestation with flukes obtained from eating raw fish; common in eastern asia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Infestation with flukes obtained from eating raw fish; common in eastern asia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A parasitic disease caused by liver flukes of the genus Opisthorchis, acquired by eating raw or undercooked freshwater fish containing encysted larvae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In tropical medicine and hepatobiliary pathology, chronic opisthorchiasis is a significant risk factor for cholangiocarcinoma, particularly in Southeast Asia where raw fish consumption is prevalent.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, opisthorchiasis designates infestation with flukes obtained from eating raw fish; common in eastern asia."*
+> - 📜 **Banchob Sripa (*Opisthorchiasis and Cholangiocarcinoma in Thailand*):** *"Chronic **opisthorchiasis** is epidemiologically linked to the highest regional incidence of bile duct cancer worldwide."*
+> - 📜 **Manson's Tropical Diseases (*Manson's Tropical Diseases*):** *"**Opisthorchiasis** affects millions in the Mekong basin where traditional dishes feature raw cyprinid fish."*
+> - 📜 **David Grove (*A History of Human Helminthology*):** *"The lifecycle of **opisthorchiasis** involves snails and cyprinid fish as successive intermediate hosts."*

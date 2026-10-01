@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek gnath.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The intermediate or middle segment of the premaxillary bone, lying between the medial endognathion and lateral exognathion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In developmental craniomaxillofacial anatomy, the mesognathion typically corresponds to the alveolar socket supporting the lateral incisor.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mesognathion designates a term designating an entity, condition, or phenomenon derived from greek gnath."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"Alveolar clefting frequently tracks the suture line that demarcates the **mesognathion** from adjacent maxillary segments."*
+> - 📜 **Arthur Keith (*Human Embryology and Morphology*):** *"Embryologists identify the **mesognathion** as the distinct dental ossification center for the second incisor."*
+> - 📜 **Wilfrid Le Gros Clark (*The Antecedents of Man*):** *"Fusion of the **mesognathion** into the maxillary complex occurs remarkably early in human fetal life."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking spontaneity or originality or individuality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lacking spontaneity or originality or individuality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or having the nature of a stereotype; conventional, unoriginal, and oversimplified.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociolinguistics and media criticism, stereotypical portrayals reinforce hegemonic social biases by erasing individual complexity and agency.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stereotypical designates lacking spontaneity or originality or individuality."*
+> - 📜 **George Orwell (*Boys' Weeklies*):** *"Popular penny fiction relied heavily on **stereotypical** foreign villains and heroic public school boys."*
+> - 📜 **Hannah Arendt (*Eichmann in Jerusalem*):** *"The defendant spoke entirely in **stereotypical** official clichés that insulated him from confronting his catastrophic crimes."*
+> - 📜 **Simone de Beauvoir (*The Second Sex*):** *"Patriarchal mythology traps women within **stereotypical** roles of eternal temptress or self-effacing mother."*

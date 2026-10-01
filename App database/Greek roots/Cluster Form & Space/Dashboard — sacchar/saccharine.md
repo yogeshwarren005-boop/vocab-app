@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Overly sweet.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Overly sweet.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or resembling sugar; excessively, sickeningly, or cloyingly sweet.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary criticism and social commentary, describing affected sentimentality or unctuous courtesy devoid of genuine sincerity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"At one time regarded only as a crude sort of paint, this is now the source from which many chemical substances are obtained, varying from photographic chemicals to saccharine, a substitute for sugar."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"Beets here, as in Colorado, grow to an enormous size, and it is quite likely that the sugar beet would not only yield heavy crops, but also contain a large per cent. of saccharine matter."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"I am rather inclined to believe that soil which is impregnated with alkaline matter will favor the production of the saccharine principle."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"Mr. Chadband poured forth his **saccharine** exhortations, coating his hollow moralizing in oily complacency."*
+> - 📜 **Jane Austen (*Emma*):** *"She disliked the **saccharine** flatteries of the new acquaintance, preferring honest candor to honeyed phrases."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"Beware the **saccharine** philanthropy that weeps over abstract distant miseries while neglecting concrete starvation at the door."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of sow.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of sow.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Producing spores of a single, uniform type and size; homosporous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical morphology, isosporous plants (such as most ferns and horsetails) produce identical spores that develop into monoecious gametophytes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, isosporous designates adjective*) pertaining to, derived from, or characteristic of sow."*
+> - 📜 **F. O. Bower (*The Ferns (Filicales)*):** *"The vast majority of modern leptosporangiate ferns remain strictly **isosporous** in their sporangial output."*
+> - 📜 **Eduard Strasburger (*Handbook of Practical Botany*):** *"In **isosporous** pteridophytes, sexual differentiation occurs downstream during prothallial maturation."*
+> - 📜 **Gilbert M. Smith (*Cryptogamic Botany*):** *"The primitive lycopods maintain an **isosporous** cycle, releasing uniform wind-borne reproductive cells."*

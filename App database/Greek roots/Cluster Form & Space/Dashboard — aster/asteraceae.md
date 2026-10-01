@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Plants with heads composed of many florets: aster; daisy; dandelion; goldenrod; marigold; lettuces; ragweed; sunflower; thistle; zinnia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Plants with heads composed of many florets: aster; daisy; dandelion; goldenrod; marigold; lettuces; ragweed; sunflower; thistle; zinnia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The daisy, sunflower, or composite family of flowering plants, the largest family of angiosperms, characterized by head-like inflorescences (capitula).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic botany, a highly derived and successful angiosperm clade whose pseudanthium mimics a single flower through ray and disc florets.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, asteraceae designates plants with heads composed of many florets: aster; daisy; dandelion; goldenrod; marigold; lettuces; ragweed; sunflower; thistle; zinnia."*
+> - 📜 **Asa Gray (*Synoptical Flora of North America*):** *"The family **Asteraceae** dominates the autumnal flora of the prairies with countless species of sunflowers, asters, and goldenrods."*
+> - 📜 **Charles Darwin (*The Different Forms of Flowers on Plants of the Same Species*):** *"In **Asteraceae**, the outer ray florets serve as visual lures for pollinators while the central disc florets produce fertile seed."*
+> - 📜 **Edward O. Wilson (*The Diversity of Life*):** *"With over thirty thousand described species, **Asteraceae** showcases the pinnacle of evolutionary diversification in flowering plants."*

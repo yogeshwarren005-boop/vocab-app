@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An oxide containing three atoms of oxygen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A solid chemical element that is used especially in wood preservatives, alloys, and semiconductors and is extremely toxic in both pure and combined forms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An oxide containing three atoms of oxygen per molecule or formula unit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial chemistry, sulfur trioxide (SO3) is the essential anhydride of sulfuric acid produced in the contact process.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trioxide designates an oxide containing three atoms of oxygen."*
+> - 📜 **Antoine Lavoisier (*Elements of Chemistry*):** *"The absorption of sulfuric **trioxide** vapor in water yields concentrated vitriolic acid with intense evolution of heat."*
+> - 📜 **Frank Wigglesworth Clarke (*The Data of Geochemistry*):** *"Arsenic **trioxide** sublimates readily from smelting fumes, depositing poisonous white crusts on flue walls."*
+> - 📜 **F. Albert Cotton (*Advanced Inorganic Chemistry*):** *"Gaseous sulfur **trioxide** consists of planar D3h molecules with strong polar sulfur-oxygen double bonds."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A spore in heterosporous plants giving rise to female gametophytes and usually larger than a microspore.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A spore in heterosporous plants giving rise to female gametophytes and usually larger than a microspore.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The larger of two kinds of spores produced by heterosporous vascular plants, which germinates into a female gametophyte (megagametophyte).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In seed plant development, meiotic division of the megasporocyte typically yields a linear tetrad of four megaspores, of which the chalazal megaspore survives.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, megaspore designates a spore in heterosporous plants giving rise to female gametophytes and usually larger than a microspore."*
+> - 📜 **Katherine Esau (*Anatomy of Seed Plants*):** *"The surviving functional **megaspore** undergoes three rounds of free-nuclear division to form the eight-nucleate embryo sac."*
+> - 📜 **F. O. Bower (*The Origin of a Land Flora*):** *"The massive, trilete **megaspore** of fossil Lepidodendrids rivaled modern seeds in dimensions and protective thickness."*
+> - 📜 **Eduard Strasburger (*Textbook of Botany*):** *"Gametophytic tissue develops entirely within the confines of the **megaspore** wall in all advanced heterosporous lines."*

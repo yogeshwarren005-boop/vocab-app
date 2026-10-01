@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Have the idea for.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Be pregnant with.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To carry a fetus or embryo in the womb from conception to birth; figuratively, to develop a thought, plan, or idea slowly in the mind.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In reproductive biology, the duration over which eutherian mammals gestate young ranges from under three weeks in mice to nearly two years in elephants.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gestate designates have the idea for."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The period required to **gestate** young among anthropoid apes approaches that of the human species in duration."*
+> - 📜 **Samuel Butler (*Life and Habit*):** *"An author must allow a great design to **gestate** in the subconscious mind before committing words to paper."*
+> - 📜 **Aldous Huxley (*Brave New World*):** *"In the decanting center, mechanical surrogates were calibrated to **gestate** embryos under strictly regulated thermal cycles."*

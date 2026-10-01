@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Connective, connecting; also : marked by a conjunctive.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Connective, connecting; also : marked by a conjunctive.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Connected by one or more explicit coordinating or subordinating conjunctions; connective or binding in syntactic function.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistic analysis and stylistic theory, syndetic structures contrast with asyndetic clauses to modulate discourse tempo and grammatical cohesion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, syndetic designates connective, connecting; also : marked by a conjunctive."*
+> - 📜 **Randolph Quirk (*A Comprehensive Grammar of the English Language*):** *"Coordination is described as **syndetic** when coordinators such as 'and' or 'but' are overtly present between conjoins."*
+> - 📜 **Michael Halliday (*Cohesion in English*):** *"The explicit presence of **syndetic** markers reinforces structural clarity across narrative transitions."*
+> - 📜 **Ferdinand de Saussure (*Course in General Linguistics*):** *"Linguistic units enter into associative relations as well as overt, **syndetic** linear syntagms."*

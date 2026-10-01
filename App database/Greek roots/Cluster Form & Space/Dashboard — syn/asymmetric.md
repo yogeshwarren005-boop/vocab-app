@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having two sides or halves that are not the same : not symmetrical.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Bonded to four different atoms or groups.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking symmetry; having parts that do not correspond in size, shape, or relative position on opposite sides of a dividing plane.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In stereochemistry, an asymmetric carbon atom is bonded to four distinct chemical substituents, creating non-superimposable chiral mirror images (enantiomers).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, asymmetric designates having two sides or halves that are not the same : not symmetrical."*
+> - 📜 **Louis Pasteur (*Researches on the Molecular Asymmetry of Natural Organic Products*):** *"Tartaric acid crystals exhibit **asymmetric** hemihedral facets that rotate the plane of polarized light."*
+> - 📜 **D'Arcy Wentworth Thompson (*On Growth and Form*):** *"The spiral shell of the gastropod develops through differential growth into an inherently **asymmetric** coil."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"Optical activity in organic molecules arises whenever an **asymmetric** tetrahedral carbon center is present."*

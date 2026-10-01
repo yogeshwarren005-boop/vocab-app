@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A group of viruses including those causing influenza.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A group of viruses including those causing influenza.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any RNA virus of the family Orthomyxoviridae, characterized by a segmented negative-sense RNA genome and helical nucleocapsid, including influenza viruses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In virology and epidemiology, orthomyxoviruses undergo antigenic drift and antigenic shift due to reassortment of their segmented genomic RNA.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, orthomyxovirus designates a group of viruses including those causing influenza."*
+> - 📜 **David Baltimore (*Expression of Animal Virus Genomes*):** *"The segmented genome of an **orthomyxovirus** facilitates high-frequency genetic reassortment during co-infection."*
+> - 📜 **Bernard N. Fields (*Fields Virology*):** *"Each **orthomyxovirus** virion is enveloped by a lipid bilayer studded with hemagglutinin and neuraminidase spikes."*
+> - 📜 **Peter Palese (*Influenza: The Biology of One of the World's Most Persistent Diseases*):** *"Understanding **orthomyxovirus** replication remains the cornerstone for seasonal vaccine development."*

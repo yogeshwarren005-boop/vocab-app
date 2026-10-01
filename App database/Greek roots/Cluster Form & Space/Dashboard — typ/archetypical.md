@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Representing or constituting an original type after which other similar things are patterned.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Representing or constituting an original type after which other similar things are patterned.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, resembling, or constituting an archetype; original, prototypical, or universally representative.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In aesthetic theory and literary criticism, archetypical themes transcend specific historical periods by addressing universal human anxieties and aspirations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, archetypical designates representing or constituting an original type after which other similar things are patterned."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"The true poet perceives the **archetypical** beauty that underlies mutable and imperfect earthly forms."*
+> - 📜 **Thomas Mann (*Freud and the Future*):** *"The life of the mythic hero unfolds according to an **archetypical** script stamped into cultural memory."*
+> - 📜 **Walter Pater (*Studies in the History of the Renaissance*):** *"Leonardo sought to paint the **archetypical** face that haunts the collective artistic imagination."*

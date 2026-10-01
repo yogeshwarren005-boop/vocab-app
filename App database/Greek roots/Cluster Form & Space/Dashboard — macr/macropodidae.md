@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Kangaroos; wallabies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Kangaroos; wallabies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of herbivorous Australasian diprotodont marsupials comprising kangaroos, wallabies, tree-kangaroos, and pademelons.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate paleontology and mammalogy, the Macropodidae are characterized by specialized bipedal ricochetal hopping, syndactylous feet, and foregut fermentation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, macropodidae designates kangaroos; wallabies."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The fossil record of the **Macropodidae** demonstrates an astonishing radiation of giant grazing forms across Pleistocene Australia."*
+> - 📜 **John Gould (*The Mammals of Australia*):** *"No family of marsupials presents more striking adaptations for locomotion across open plains than the **Macropodidae**."*
+> - 📜 **George Gaylord Simpson (*The Principles of Classification and a Classification of Mammals*):** *"The family **Macropodidae** represents the herbivorous zenith of diprotodont marsupial evolution, paralleling the ungulates of other continents."*

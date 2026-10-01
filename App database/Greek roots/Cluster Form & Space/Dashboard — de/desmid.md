@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of numerous unicellular or colonial green algae (order Zygnematales, especially family Desmidiaceae).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of numerous unicellular or colonial green algae (order Zygnematales, especially family Desmidiaceae).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any single-celled microscopic freshwater green alga of the family Desmidiaceae, characteristically divided into two symmetrical halves joined by an isthmus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In phycology and limnology, desmids serve as sensitive bioindicators of oligotrophic, acidic water quality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, desmid designates any of numerous unicellular or colonial green algae (order zygnematales, especially family desmidiaceae)."*
+> - 📜 **G. M. Smith (*The Freshwater Algae of the United States*):** *"Each **desmid** cell exhibits striking bilateral symmetry, typically constricted at the center into two semicells."*
+> - 📜 **F. E. Fritsch (*The Structure and Reproduction of the Algae*):** *"The distinctive cell division of a **desmid** involves the budding of two new semicells at the central junction."*
+> - 📜 **Robert Edward Lee (*Phycology*):** *"Ecological surveys frequently evaluate **desmid** diversity to detect subtle shifts in freshwater nutrient loading."*

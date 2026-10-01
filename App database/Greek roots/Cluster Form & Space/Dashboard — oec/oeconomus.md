@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek oec.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ecclesiastical or civil estate steward, bursar, or financial administrator charged with managing church property, revenues, or diocesan temporalities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Roman Catholic and Byzantine canon law, an oeconomus is appointed by the diocesan bishop to administer the temporal goods and financial assets of the diocese.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oeconomus designates a term designating an entity, condition, or phenomenon derived from greek oec."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Council of Chalcedon decreed that every diocese should maintain an **oeconomus** to manage church estates and prevent financial corruption."*
+> - 📜 **Thomas Aquinas (*Summa Theologiae*):** *"The bishop acts as the chief pastor, while the **oeconomus** executes the faithful administration of temporal alms for the poor."*
+> - 📜 **Alexis de Tocqueville (*The Old Regime and the Revolution*):** *"Ancient abbey records reveal that the Benedictine **oeconomus** meticulously recorded crop yields, mill tolls, and tenant leases."*

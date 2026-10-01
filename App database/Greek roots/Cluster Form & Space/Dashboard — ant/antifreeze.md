@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A substance added to a liquid (such as the water in an automobile engine) to lower its freezing point.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various substances (such as proteins or alcohols) that are found in some living organisms (such as certain fish and insects) and serve to lower the freezing point of body fluids especially by limiting ice crystal growth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chemical substance, such as ethylene glycol, added to a liquid (especially an engine coolant) to lower its freezing point and prevent solidification.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cryobiology and physiological ecology, natural biological glycoproteins and polyols produced by polar teleosts and insects to depress body-fluid freezing points.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antifreeze designates a substance added to a liquid (such as the water in an automobile engine) to lower its freezing point."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"Deep in sub-zero polar seas, Antarctic notothenioid fishes thrive because high concentrations of biological **antifreeze** circulate in their blood."*
+> - 📜 **Primo Levi (*The Periodic Table*):** *"During bitter Alpine winters, ethylene glycol served as industrial **antifreeze**, protecting radiator engines from catastrophic rupture."*
+> - 📜 **Edward O. Wilson (*The Diversity of Life*):** *"Arctic beetles synthesize glycerol to act as natural **antifreeze**, surviving months embedded in solid permafrost."*

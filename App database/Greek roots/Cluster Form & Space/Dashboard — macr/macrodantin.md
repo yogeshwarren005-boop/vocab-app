@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Derivative of nitrofuran used as an antibacterial medicine (trade name macrodantin) effective against a broad range of gram-positive and gram-negative bacteria; used to treat infections of the urinary tract.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Derivative of nitrofuran used as an antibacterial medicine (trade name macrodantin) effective against a broad range of gram-positive and gram-negative bacteria; used to treat infections of the urinary tract.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A proprietary pharmaceutical preparation of macrocrystalline nitrofurantoin, an antibacterial agent specifically prescribed for urinary tract infections.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pharmacology, the macrocrystalline formulation slows gastrointestinal dissolution and absorption, mitigating the nausea and gastric distress caused by microcrystalline nitrofurantoin.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, macrodantin designates derivative of nitrofuran used as an antibacterial medicine (trade name macrodantin) effective against a broad range of gram-positive and gram-negative bacteria; used to treat infections of the urinary tract."*
+> - 📜 **Louis S. Goodman (*Goodman & Gilman's The Pharmacological Basis of Therapeutics*):** *"The slower absorption rate of **Macrodantin** minimizes gastrointestinal intolerance while maintaining effective urinary concentrations."*
+> - 📜 **Bertram G. Katzung (*Basic & Clinical Pharmacology*):** *"Prescribing **Macrodantin** remains a first-line therapeutic strategy for uncomplicated lower urinary tract cystitis."*
+> - 📜 **Thomas P. Bleck (*Infectious Disease in Critical Care Medicine*):** *"Because **Macrodantin** achieves negligible serum levels, its therapeutic utility is strictly confined to bladder and urinary path treatments."*

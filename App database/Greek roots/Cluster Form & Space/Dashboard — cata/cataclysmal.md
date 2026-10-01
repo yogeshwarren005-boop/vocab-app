@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Severely destructive.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Severely destructive.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or caused by a cataclysm; violently destructive, sudden, and revolutionary in impact.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In earth sciences, characterizing sudden geological events such as megatsunamis, meteorite impacts, or supervolcanoes rather than slow gradualism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cataclysmal designates severely destructive."*
+> - 📜 **Charles Darwin (*On the Origin of Species*):** *"He who rejects slow gradual modification must invoke **cataclysmal** destructions to account for the succession of organic forms."*
+> - 📜 **Archibald Geikie (*The Founders of Geology*):** *"Hutton swept away the **cataclysmal** theories of earth history in favor of uniform subterranean heat and weathering."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The barbarian surge across the Rhine produced a **cataclysmal** shock from which the western provinces never recovered."*

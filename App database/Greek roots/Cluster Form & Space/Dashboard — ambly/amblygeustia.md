@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ambly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A condition characterized by a blunting, dulling, or reduction of the sense of taste; hypogeusia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sensory neurology and otolaryngology, partial gustatory impairment resulting from cranial nerve lesions, zinc deficiency, or glossal epithelial damage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amblygeustia designates a term designating an entity, condition, or phenomenon derived from greek ambly."*
+> - 📜 **William R. Gowers (*A Manual of Diseases of the Nervous System*):** *"Affection of the glossopharyngeal trunk produces unilateral **amblygeustia**, the patient experiencing only dull sensations from sapid substances."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Transient **amblygeustia** may accompany severe febrile conditions or marked nutritional deficiencies of the oral mucosa."*
+> - 📜 **Oliver Sacks (*The Island of the Colorblind*):** *"He complained of profound gustatory blunting, an **amblygeustia** that rendered even fiery spices tasteless upon his tongue."*

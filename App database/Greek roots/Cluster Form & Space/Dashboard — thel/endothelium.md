@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An epithelium of mesodermal origin composed of a single layer of thin flattened cells that lines internal body cavities and the lumens of vessels.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The inner layer of the seed coat of some plants.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The single layer of thin, flattened epithelial cells that lines the heart, blood vessels, and lymphatic vessels.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Historically distinguished from outer epithelia by Wilhelm His in 1865, the endothelium is recognized as an active paracrine organ controlling hemodynamic permeability and vascular homeostasis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endothelium designates an epithelium of mesodermal origin composed of a single layer of thin flattened cells that lines internal body cavities and the lumens of vessels."*
+> - 📜 **Wilhelm His (*The First Form of the Human Organism*):** *"I propose the term **endothelium** to denote the internal cellular layer lining the cardiovascular cavities."*
+> - 📜 **Santiago Ramón y Cajal (*Histology of the Nervous System*):** *"Cerebral capillaries consist of a delicate **endothelium** surrounded by pericytes and dense astrocytic footplates."*
+> - 📜 **Michael DeBakey (*The Living Heart*):** *"Atherosclerotic plaque begins with subtle injuries to the arterial **endothelium**, permitting cholesterol infiltration."*

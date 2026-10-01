@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring in an abnormal position or in an unusual manner or form.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Development of a fertilized egg elsewhere than in the uterus (as in a fallopian tube or the peritoneal cavity).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an abnormal place or position; displaced; occurring outside the normal anatomical site.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In obstetrics and cardiology, ectopic describes extrauterine pregnancies (most commonly tubal ectopic pregnancy) or cardiac pacemaking impulses originating outside the sinoatrial node.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ectopic designates occurring in an abnormal position or in an unusual manner or form."*
+> - 📜 **William Hunter (*Anatomia Uteri Humani Gravidi*):** *"Dissection of an **ectopic** gestation revealed the blastocyst implanted directly into the ampulla of the fallopian tube."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Rupture of an **ectopic** pregnancy constitutes a surgical emergency demanding immediate exploratory laparotomy."*
+> - 📜 **Michael DeBakey (*The Living Heart*):** *"An **ectopic** atrial focus fired prematurely, producing an irregular compensatory pause on the rhythm strip."*

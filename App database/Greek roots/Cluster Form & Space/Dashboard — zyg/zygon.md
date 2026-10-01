@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek zyg.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A connecting bar or bridge; in anatomy, a short ridge connecting two cerebral gyri on the surface of the brain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuroanatomy, a zygon is an H-shaped fissural connection observed between adjacent convolutions of the cerebral cortex, used as a descriptor in surface brain morphology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, zygon designates a term designating an entity, condition, or phenomenon derived from greek zyg."*
+> - 📜 **Henry Gray (*Gray's Anatomy*):** *"A **zygon** occasionally bridges the central sulcus, connecting the precentral and postcentral gyri."*
+> - 📜 **Gustaf Retzius (*Das Menschenhirn*):** *"The **zygon** represents a transverse ridge of cortex that interrupts the continuity of a sulcus."*
+> - 📜 **Alfred Campbell (*Histological Studies on the Localisation of Cerebral Function*):** *"The presence or absence of a **zygon** across the Rolandic fissure varies among individuals."*

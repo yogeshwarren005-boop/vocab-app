@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The insertion or development of a sound or letter in the body of a word (such as \ə\ in \ˈa-thə-ˌlēt\ athlete).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The insertion or development of a sound or letter in the body of a word (such as \ə\ in \ˈa-thə-ˌlēt\ athlete).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inserted into the middle of a word; of or relating to epenthesis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In generative phonology and historical linguistics, describing intrusive vowels or consonants inserted to satisfy syllable phonotactics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epenthetic designates the insertion or development of a sound or letter in the body of a word (such as \ə\ in \ˈa-thə-ˌlēt\ athlete)."*
+> - 📜 **Edward Sapir (*Language: An Introduction to the Study of Speech*):** *"The emergence of an **epenthetic** consonant reflects the unconscious physiological mechanics of transitioning between vocal tracts."*
+> - 📜 **Leonard Bloomfield (*Language*):** *"An **epenthetic** glide regularly appears between adjacent sonorants to smooth articulatory transition."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"In the evolution from Latin to French, an **epenthetic** 'b' arose naturally in words like 'chambre' from 'camera'."*

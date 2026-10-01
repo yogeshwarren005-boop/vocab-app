@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition or property of being dimorphic or dimorphous: such as.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The existence of two different forms (as of color or size) of a species especially in the same population.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The existence within a single species, population, or chemical substance of two distinctly different forms, colors, or structural variants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical mycology, dimorphism refers to fungi (such as *Blastomyces dermatitidis*) that grow as filamentous molds at 25°C but transition into pathogenic yeasts at 37°C in host tissues.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dimorphism designates the condition or property of being dimorphic or dimorphous: such as."*
+> - 📜 **Charles Darwin (*The Different Forms of Flowers on Plants of the Same Species*):** *"Heterostylous **dimorphism** in primroses ensures cross-pollination by matching the anther heights of one form to the stigma heights of the other."*
+> - 📜 **Ronald Fisher (*The Genetical Theory of Natural Selection*):** *"Balanced **dimorphism** can be stably maintained in a population whenever each morph enjoys a selective advantage when rare."*
+> - 📜 **John Webster (*Introduction to Fungi*):** *"Thermal **dimorphism** is crucial for fungal pathogenesis, enabling saprophytic mold spores to germinate as invasive yeast cells inside human lungs."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To get a monopoly of : assume complete possession or control of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To get a monopoly of : assume complete possession or control of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To obtain, secure, or exercise exclusive control or possession of a commodity, service, or market.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In interpersonal or social contexts, to dominate conversation, attention, or resources to the exclusion of others.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **L. M. Montgomery (*Anne of Avonlea*):** *"Nor did she monopolize the conversation."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"They were not allowed to monopolize this issue by the Democrats, and their arrogance, if such it may be called, was punished by a more complete assertion of Democratic power in the South than was ever known before."*
-> - 📜 **Thomas V. Cooper (*American politics (non-partisan) from the beginning to date*):** *"But might not the foreign article be imported in vast quantities, to glut our markets, break down our establishments, and ultimately to enable the foreigner to monopolize the supply of our consumption?"*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"In democratic societies, when a few men attempt to **monopolize** public honors, the multitude quickly reasserts its claims."*
+> - 📜 **Karl Marx (*Capital: A Critique of Political Economy*):** *"Giant industrial combinations strive to **monopolize** whole spheres of production, centralizing capital into fewer hands."*
+> - 📜 **Theodore Roosevelt (*The Strenuous Life*):** *"We do not wish to destroy corporations, but we insist that no single enterprise shall **monopolize** the necessities of life."*

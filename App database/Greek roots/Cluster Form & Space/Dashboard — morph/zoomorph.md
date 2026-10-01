@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the form of an animal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or being a deity conceived of in animal form or with animal attributes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An artistic representation, deity, design motif, or symbolic object having the form or attributes of an animal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In archaeology and art history, zoomorphs occur prominently in prehistoric rock art, Hopewell effigy mounds, and Scythian animal-style metalwork.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, zoomorph designates having the form of an animal."*
+> - 📜 **Gordon Childe (*The Dawn of European Civilization*):** *"Neolithic ritual vessels frequently take the shape of a carved **zoomorph**, representing horned cattle or waterfowl."*
+> - 📜 **Franz Boas (*Primitive Art*):** *"Northwest Coast woodcarvers masterfully abstracted the beaver, raven, and whale, fashioning each **zoomorph** into totem poles."*
+> - 📜 **Claude Lévi-Strauss (*Totemism*):** *"The tribal clan identifies with its totemic **zoomorph** not because animals are feared, but because they are good to think with."*

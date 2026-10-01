@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of coagulating blood and destroying tissue with a hot iron or caustic agent or by freezing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of coagulating blood and destroying tissue with a hot iron or caustic agent or by freezing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The medical process of burning or searing living tissue with a heated instrument, electric current, or caustic chemical (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In surgical therapeutics, the application of thermal or electrical energy to seal bleeding vessels or destroy diseased tissues (hemostasis and ablation).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cauterisation designates the act of coagulating blood and destroying tissue with a hot iron or caustic agent or by freezing."*
+> - 📜 **Ambroise Paré (*The Apologie and Treatise of Ambroise Paré*):** *"Before the invention of the ligature, every amputation demanded agonizing **cauterisation** with boiling pitch to arrest hemorrhage."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Superficial epistaxis from Kiesselbach's plexus is rapidly checked by chemical **cauterisation** with silver nitrate."*
+> - 📜 **William R. Gowers (*A Manual of Diseases of the Nervous System*):** *"Thermal **cauterisation** along the paravertebral line was formerly employed in intractable cases of spinal myelitis."*

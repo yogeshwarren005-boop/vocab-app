@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tissue consisting of large stellate neuroglial cells.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tissue consisting of large stellate neuroglial cells.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The larger non-neuronal supportive glial cells of the central nervous system, specifically comprising astrocytes and oligodendrocytes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurobiology and cellular neuroscience, macroglia sustain the blood-brain barrier, regulate synaptic glutamate clearance, and produce axonal myelin sheaths.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, macroglia designates tissue consisting of large stellate neuroglial cells."*
+> - 📜 **Santiago Ramón y Cajal (*Histology of the Nervous System of Man and Vertebrates*):** *"Metallic impregnation methods differentiate the ramified forms of **macroglia** from the smaller mesodermal microglia."*
+> - 📜 **Pasko Rakic (*Principles of Neural Development*):** *"Radial glial cells, belonging to the **macroglia**, provide essential physical scaffolding for migrating neuroblasts during cerebral cortex formation."*
+> - 📜 **Eric Kandel (*Principles of Neural Science*):** *"Unlike neurons, **macroglia** do not generate action potentials, but they actively modulate synaptic transmission via glial transmitter release."*

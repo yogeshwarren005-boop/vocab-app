@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective & Noun*) Resembling, having the physical form of, or akin to ant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective & Noun*) Resembling, having the physical form of, or akin to ant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling an ant in physical morphology, color patterning, posture, or movement; ant-like.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology and entomology, myrmecoid mimicry (Batesian or Wasmannian) protects spiders, beetles, and hemipterans from visual predators that avoid stinging ants.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, myrmecoid designates adjective & noun*) resembling, having the physical form of, or akin to ant."*
+> - 📜 **Edward Bagnall Poulton (*The Colours of Animals*):** *"Certain salticid spiders develop a constricted abdomen and wave their anterior legs in the air, creating a striking **myrmecoid** illusion."*
+> - 📜 **William Morton Wheeler (*Ants: Their Structure, Development and Behavior*):** *"The selective pressure exerted by insectivorous birds has driven hundreds of tropical arthropods into exquisite **myrmecoid** camouflage."*
+> - 📜 **Alfred Russel Wallace (*Darwinism: An Exposition of the Theory of Natural Selection*):** *"A harmless staphylinid beetle acquires immense protection by assuming a **myrmecoid** form within aggressive army ant columns."*

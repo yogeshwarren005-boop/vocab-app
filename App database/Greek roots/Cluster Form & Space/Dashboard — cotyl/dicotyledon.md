@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a class or subclass (Magnoliopsida or Dicotyledoneae) of angiospermous plants that produce an embryo with two cotyledons and usually have floral organs arranged in cycles of four or five and leaves with reticulate venation —called also dicot.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a class or subclass (Magnoliopsida or Dicotyledoneae) of angiospermous plants that produce an embryo with two cotyledons and usually have floral organs arranged in cycles of four or five and leaves with reticulate venation —called also dicot.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A flowering plant whose embryo typically bears two seed leaves or cotyledons.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic botany, a traditional class of angiosperms (now understood to encompass basal angiosperms and eudicots) characterized by reticulate leaf venation, concentric vascular bundles, and floral parts in multiples of four or five.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dicotyledon designates any of a class or subclass (magnoliopsida or dicotyledoneae) of angiospermous plants that produce an embryo with two cotyledons and usually have floral organs arranged in cycles of four or five and leaves with reticulate venation —called also dicot."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The broad reticulated leaves of a **dicotyledon** contrast strikingly with the parallel-veined foliage of grasses."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"Upon emerging from the seed coat, a **dicotyledon** displays two fleshy lobes that nourish the initial shoot."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The vast majority of deciduous forest trees across the globe belong structurally to the **dicotyledon** group."*

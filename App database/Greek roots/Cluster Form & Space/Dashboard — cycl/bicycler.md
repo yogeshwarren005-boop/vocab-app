@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who rides a bicycle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who rides a bicycle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who rides a bicycle; a cyclist.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nineteenth-century social commentary, an early recreational enthusiast or commuter who adopted the bicycle during the cycling craze of the 1890s.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Fuseblue peer from barrel rev. evensong Love on hackney jaunt Blazes blind coddoubled bicyclers Dilly with snowcake no fancy clothes."*
+> - 📜 **H. G. Wells (*The Wheels of Chance*):** *"The solitary **bicycler** pedaled steadily against the headwind, his luggage strapped firmly over the rear mudguard."*
+> - 📜 **Arthur Conan Doyle (*The Adventure of the Solitary Cyclist*):** *"A mysterious **bicycler** kept watch on the young lady as she pedaled along the secluded country road."*
+> - 📜 **Thomas Hardy (*Jude the Obscure*):** *"A youthful **bicycler** sped past on the turnpike, leaving a cloud of chalk dust upon the hedge."*

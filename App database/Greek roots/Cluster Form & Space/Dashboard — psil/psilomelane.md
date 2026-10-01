@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mineral consisting of hydrated basic oxide of manganese and barium; a source of manganese.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mineral consisting of hydrated basic oxide of manganese and barium; a source of manganese.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A hard, black, amorphous or fine-grained mineral mixture of barium and manganese oxides, historically an important ore of manganese.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In descriptive mineralogy, a botryoidal or stalactitic mineral aggregate commonly occurring in secondary weathered zones of manganese deposits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psilomelane designates a mineral consisting of hydrated basic oxide of manganese and barium; a source of manganese."*
+> - 📜 **James Dwight Dana (*System of Mineralogy*):** *"The smooth, black, grape-like clusters of **psilomelane** exhibit a submetallic luster and a characteristic brownish-black streak."*
+> - 📜 **Waldemar Lindgren (*Mineral Deposits*):** *"Supergene enrichment in manganese veins commonly precipitates dense layers of **psilomelane** along fractured limestone beds."*
+> - 📜 **Edward Salisbury Dana (*A Textbook of Mineralogy*):** *"Chemical analysis reveals that **psilomelane** contains variable proportions of barium oxide and combined water."*

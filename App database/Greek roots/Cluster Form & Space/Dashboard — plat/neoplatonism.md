@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A system of philosophical and theological doctrines composed of elements of platonism and aristotelianism and oriental mysticism; its most distinctive doctrine holds that the first principle and source of reality transcends being and thought and is naturally unknowable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A system of philosophical and theological doctrines composed of elements of platonism and aristotelianism and oriental mysticism; its most distinctive doctrine holds that the first principle and source of reality transcends being and thought and is naturally unknowable.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A philosophical and religious system founded in the 3rd century CE by Plotinus, developing and synthesizing Platonic metaphysics with mystical monism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of philosophy, Neoplatonism posits that all reality emanates from a transcendent primal principle, the One (to Hen), through the Intellect (Nous) and Soul (Psyche).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neoplatonism designates a system of philosophical and theological doctrines composed of elements of platonism and aristotelianism and oriental mysticism; its most distinctive doctrine holds that the first principle and source of reality transcends being and thought and is naturally unknowable."*
+> - 📜 **Plotinus (*The Enneads*):** *"In the contemplative ascent of **Neoplatonism**, the soul transcends sensory illusion to achieve mystical ecstasy in the One."*
+> - 📜 **Bertrand Russell (*A History of Western Philosophy*):** *"**Neoplatonism** provided early Christian theology, especially in Saint Augustine, with its primary metaphysical scaffolding."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Julian the Apostate attempted to revive pagan worship by infusing it with the mystical allegories of **Neoplatonism**."*

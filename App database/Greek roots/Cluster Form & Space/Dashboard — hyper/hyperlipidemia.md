@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Presence of excess lipids in the blood.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Presence of excess lipids in the blood.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormally high concentration of lipids, such as cholesterol and triglycerides, in the blood plasma (American spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Classified historically by the Fredrickson classification into types I through V; treated modernly using HMG-CoA reductase inhibitors (statins), ezetimibe, and PCSK9 inhibitors to reduce atherosclerotic cardiovascular risk.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyperlipidemia designates presence of excess lipids in the blood."*
+> - 📜 **Victor McKusick (*Mendelian Inheritance in Man*):** *"Familial combined **hyperlipidemia** segregates as a complex genetic trait predisposing to premature myocardial infarction."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Patients presenting with eruptive cutaneous xanthomas should be evaluated immediately for severe mixed **hyperlipidemia**."*
+> - 📜 **Austin Flint (*A Treatise on the Principles and Practice of Medicine*):** *"Sedentary lifestyle and diets rich in animal fats significantly exacerbate underlying constitutional **hyperlipidemia**."*

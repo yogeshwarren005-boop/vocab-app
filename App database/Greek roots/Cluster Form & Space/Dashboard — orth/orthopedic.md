@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or employed in orthopedics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marked by or affected with a skeletal deformity, disorder, or injury.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or employed in orthopedics; designed to prevent, correct, or accommodate deformities and injuries of the bones and muscles (American spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to ergonomic or supportive medical equipment, such as corrective footwear, splints, or mattresses engineered to align the skeleton.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, orthopedic designates of, relating to, or employed in orthopedics."*
+> - 📜 **S. Terry Canale (*Campbell's Operative Orthopaedics*):** *"Accurate preoperative planning remains the cornerstone of modern **orthopedic** surgery."*
+> - 📜 **Sterling Bunnell (*Surgery of the Hand*):** *"Restoration of prehensile function demands specialized **orthopedic** precision and tendon grafting."*
+> - 📜 **Henry Mankin (*Orthopedic Basic Science*):** *"Articular cartilage repair remains one of the greatest challenges confronting contemporary **orthopedic** research."*

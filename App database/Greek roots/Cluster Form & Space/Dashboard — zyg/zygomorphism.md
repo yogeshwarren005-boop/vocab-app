@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek zyg.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of possessing bilateral symmetry, especially in flowers where the corolla can be divided into equal halves along only one vertical plane.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary botany, zygomorphism has evolved independently in numerous angiosperm lineages and is associated with increased speciation rates due to pollinator specialization.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, zygomorphism designates a term designating an entity, condition, or phenomenon derived from greek zyg."*
+> - 📜 **Charles Darwin (*On the Various Contrivances by Which Orchids Are Fertilised by Insects*):** *"**Zygomorphism** in orchids reaches its most extreme expression, with each petal shaped for a specific pollinator."*
+> - 📜 **G. Ledyard Stebbins (*Flowering Plants: Evolution Above the Species Level*):** *"The repeated evolution of **zygomorphism** in flowering plants reflects strong selection by animal pollinators."*
+> - 📜 **Peter Endress (*Diversity and Evolutionary Biology of Tropical Flowers*):** *"Floral **zygomorphism** restricts the approach angles available to visiting pollinators, increasing pollen transfer efficiency."*

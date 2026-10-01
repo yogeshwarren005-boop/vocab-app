@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of house.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of house.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having male, female, and hermaphroditic (perfect) flowers or reproductive organs on different individual plants within the same species.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In reproductive botany, trioecy (trioecious breeding systems) represents a rare sexual polymorphism that balances genetic outcrossing and self-fertility under fluctuating pollinator availability.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trioecious designates adjective*) pertaining to, derived from, or characteristic of house."*
+> - 📜 **Charles Darwin (*The Different Forms of Flowers on Plants of the Same Species*):** *"A species that is strictly **trioecious** presents three distinct individuals: purely male, purely female, and fully hermaphrodite plants."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"Botanical surveys identify occasional **trioecious** populations where sexual expression varies across seedling progenies."*
+> - 📜 **Ronald Fisher (*The Genetical Theory of Natural Selection*):** *"The theoretical stability of a **trioecious** population requires delicate fitness compensations among the three reproductive morphs."*

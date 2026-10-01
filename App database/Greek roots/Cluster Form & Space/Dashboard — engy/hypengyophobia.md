@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek engy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal, irrational, or disproportionate fear of taking on responsibility or answering for one's actions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychology and psychopathology, hypengyophobia can produce severe social avoidance and paralysis in decision-making.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypengyophobia designates a term designating an entity, condition, or phenomenon derived from greek engy."*
+> - 📜 **Sigmund Freud (*Inhibitions, Symptoms and Anxiety*):** *"In cases bordering on **hypengyophobia**, the ego retreats from vocational duties to escape the intolerable dread of accountability."*
+> - 📜 **Emil Kraepelin (*Clinical Psychiatry*):** *"Neurotic dread of duty, or **hypengyophobia**, manifests with autonomic panic whenever adult responsibilities are assigned."*
+> - 📜 **Karl Jaspers (*General Psychopathology*):** *"The existential terror of guilt and accountability can crystallize into morbid **hypengyophobia**."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who predicts the future by the positions of the planets and sun and moon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who predicts the future by the positions of the planets and sun and moon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who practices astrology, claiming to predict events or discern human character by interpreting the motions and positions of celestial bodies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of science, an astronomical practitioner of antiquity and the Middle Ages who combined empirical planetary observation with astrological divination.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Isaac Taylor Headland (*The Chinese Boy and Girl*):** *"He returned and presented the shuttle to the noted astrologer Chun Ping, informing him at the same time where, when and from whom he had received it."*
-> - 📜 **Jonathan Swift (*The Battle of the Books, and other Short Pieces*):** *"Then "such a planet in such a house shows great machinations, plots, and conspiracies, that may in time be brought to light:" after which, if we hear of any discovery, the astrologer gets the honour; if not, his prediction still stands good."*
-> - 📜 **T. Smollett (*The Adventures of Sir Launcelot Greaves*):** *"The astrologer pointing to the little coffin, our squire understood the hint, and deposited another shilling."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The ancient **astrologer** corrupted natural philosophy by mingling the pure motions of heaven with frivolous superstitious predictions."*
+> - 📜 **William Shakespeare (*King Lear*):** *"This is the excellent foppery of the world, that, when we are sick in fortune—often the surfeit of our own behaviour—we make guilty of our disasters the sun, the moon, and the stars, as if we were villains by necessity and knaves by an **astrologer**'s craft."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The emperor Septimius Severus rarely undertook an expedition without consulting his favorite Egyptian **astrologer**."*

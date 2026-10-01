@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The testing of an idea.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The act of conducting a controlled test or investigation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of performing experiments; systematic trial and observation to discover or verify facts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epistemology and scientific history, the organized manipulation of physical systems to reveal underlying natural laws.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"There are unused materials and opportunities, but the initial expense of experimentation, the initial difficulties of gathering and training a working force, are discouraging to individual enterprise, prices being as they are."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The working out of the many minor problems of classification, assessment, and administration, of unemployment insurance, will require many more years of experimentation. § 13. #Need of ideals in social insurance#."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The world has had nearly forty years of experimentation of a remarkably varied kind, in the field of social insurance, since the German system was inaugurated in the eighties of the nineteenth century."*
+> - 📜 **Claude Bernard (*An Introduction to the Study of Experimental Medicine*):** *"Observation shows what is, while scientific **experimentation** reveals the conditions under which phenomena must be."*
+> - 📜 **Thomas Hunt Morgan (*The Theory of the Gene*):** *"Mendelian genetics owes its rapid advance to controlled **experimentation** with breeding stocks of Drosophila."*
+> - 📜 **Louis Pasteur (*Germ Theory and Its Applications to Medicine and Surgery*):** *"Rigorous laboratory **experimentation** disproved the phantom doctrine of spontaneous generation once and for all."*

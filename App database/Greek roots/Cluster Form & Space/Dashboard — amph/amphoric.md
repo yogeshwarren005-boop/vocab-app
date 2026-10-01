@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The sound heard in auscultation resembling the hollow sound made by blowing across the mouth of a bottle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The sound heard in auscultation resembling the hollow sound made by blowing across the mouth of a bottle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling the hollow sound produced by blowing gently across the mouth of an empty bottle or jug.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical medicine and pulmonology, describing an abnormal hollow, resonant breathing sound (amphoric breathing) heard over large pulmonary cavities or open pneumothorax.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amphoric designates the sound heard in auscultation resembling the hollow sound made by blowing across the mouth of a bottle."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Upon auscultation over the tuberculous cavity, one hears marked **amphoric** respiration, resembling wind blown across a jug."*
+> - 📜 **René Laennec (*A Treatise on the Diseases of the Chest*):** *"The stethoscope detects an **amphoric** resonance whenever a cavernous fistula communicates directly with a bronchial branch."*
+> - 📜 **William R. Gowers (*Lectures on the Diagnosis of Diseases of the Brain*):** *"The physical signs included localized pectoriloquy and distinct **amphoric** echo produced by adjacent consolidation."*

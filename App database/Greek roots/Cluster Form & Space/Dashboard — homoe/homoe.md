@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Like : similar.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Like : similar.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combining prefix derived from Greek (*homoios*), meaning 'like', 'similar', or 'resembling'.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scientific terminology, homoe- (or homeo-) denotes resemblance and physiological stability (homeostasis, homeopathy), contrasting with homo- ('identical').
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, homoe designates like : similar."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"The adjective homoios signifies 'similar' or 'like', generating the medical and biological prefix **homoe**."*
+> - 📜 **Robert Beekes (*Etymological Dictionary of Greek*):** *"Deriving from PIE *som-o-, **homoe** marks qualitative likeness as opposed to numerical or structural identity."*
+> - 📜 **Pierre Chantraine (*Dictionnaire étymologique de la langue grecque*):** *"The distinction between identical sameness and qualitative resemblance is preserved by Hellenic compounds formed on **homoe**."*

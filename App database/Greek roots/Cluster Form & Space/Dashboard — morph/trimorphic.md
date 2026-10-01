@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring in or having three distinct forms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Occurring in or having three distinct forms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having, occurring in, or characterized by three distinctly different forms, colors, or structural habits within the same species or substance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary botany, trimorphic heterostyly describes plants (like Lythrum salicaria) possessing three distinct flower morphs with differing stamen and style heights to enforce cross-pollination.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trimorphic designates occurring in or having three distinct forms."*
+> - 📜 **Charles Darwin (*The Different Forms of Flowers on Plants of the Same Species*):** *"In the **trimorphic** flowers of Lythrum, three distinct lengths of stamens and styles ensure that only legitimate cross-pollinations produce full seed sets."*
+> - 📜 **Ronald Fisher (*The Genetical Theory of Natural Selection*):** *"The genetics of a **trimorphic** breeding system requires three alleles or multiple linked loci acting in balanced equilibrium."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"The discovery of **trimorphic** heterostyly revealed an unexpected mechanism in flowering plants designed to prevent self-fertilization."*

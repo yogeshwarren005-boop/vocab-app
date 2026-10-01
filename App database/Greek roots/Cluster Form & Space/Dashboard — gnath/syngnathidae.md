@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pipefishes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pipefishes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of ray-finned fishes characterized by fused jaws forming a tubular snout, encompassing seahorses, pipefishes, and sea dragons.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology and behavioral ecology, Syngnathidae are celebrated for specialized male pregnancy, where males brood eggs in a specialized ventral pouch.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, syngnathidae designates pipefishes."*
+> - 📜 **David Attenborough (*The Life of Fishes*):** *"Members of **syngnathidae** display an astonishing reversal of sex roles, wherein the male incubates fertilized eggs in a vascular brood pouch."*
+> - 📜 **Ernst Mayr (*Animal Species and Evolution*):** *"Adaptive camouflage reaches its zenith among **syngnathidae**, notably the leafy sea dragons drifting among kelp fronds."*
+> - 📜 **G. A. Boulenger (*A Revision of the Fishes of the Family Syngnathidae*):** *"The diagnostic tubular snout of **syngnathidae** acts as a high-velocity pipette, suctioning tiny planktonic copepods."*

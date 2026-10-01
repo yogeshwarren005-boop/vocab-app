@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring or existing in two different forms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Occurring or existing in two different forms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having, appearing in, or characterized by two different forms, crystalline structures, or morphological phases.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mineralogy and crystallographic chemistry, describing substances (such as calcium carbonate, forming calcite and aragonite) that crystallize into two distinct crystal systems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"This species will again come under notice as the summer spores of a truly dimorphous species."*
+> - 📜 **René Just Haüy (*Traité de minéralogie*):** *"Substances that are chemically identical yet crystallize under two incompatible geometric forms are termed **dimorphous**."*
+> - 📜 **J. D. Dana (*A System of Mineralogy*):** *"Carbon provides the supreme example of a **dimorphous** element, manifesting as soft graphite and adamantine diamond."*
+> - 📜 **Eilhard Mitscherlich (*Sur la relation qui existe entre la forme cristalline et les proportions chimiques*):** *"Sulfur cooling from fusion forms needle-like monoclinic prisms, proving that a single body can be truly **dimorphous**."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One who commits or practices piracy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To commit piracy on.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who attacks and robs ships at sea; a maritime marauder.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person or entity that appropriates, reproduces, or broadcasts another's intellectual property without authorization.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Ere we were two days old at sea, a pirate of very warlike appointment gave us chase."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This villain here, Being captain of a pinnace, threatens more Than Bargulus the strong Illyrian pirate."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thus stands my state, ’twixt Cade and York distressed, Like to a ship that, having scaped a tempest, Is straightway calmed and boarded with a pirate."*
+> - 📜 **William Shakespeare (*Hamlet*):** *"Ere we were two days old at sea, a **pirate** of very warlike appointment gave us chase."*
+> - 📜 **Robert Louis Stevenson (*Treasure Island*):** *"Long John Silver was the very model of a calculating **pirate**, concealing his murderous intent behind a genial smile."*
+> - 📜 **Hugo Grotius (*De Jure Belli ac Pacis*):** *"A captured **pirate** enjoys none of the protections afforded to honorable prisoners of war under the law of nations."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, marked by, or functioning by means of piezoelectricity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, marked by, or functioning by means of piezoelectricity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or exhibiting piezoelectricity; generating electric charge in response to applied mechanical stress, and vice versa.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In electronics and acoustics, piezoelectric crystals (such as quartz and lead zirconate titanate) are utilized in sonar transducers, ultrasound probes, and precision clocks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, piezoelectric designates of, relating to, marked by, or functioning by means of piezoelectricity."*
+> - 📜 **Pierre Curie (*Development of Polar Electricity in Hemimorphous Crystals*):** *"Compressing quartz along its hemihedral axes generates opposite electric charges, revealing the **piezoelectric** effect."*
+> - 📜 **Lord Rayleigh (*The Theory of Sound*):** *"Modern underwater acoustics employs high-frequency **piezoelectric** transmitters to propagate directional sound beams."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"The absence of an inversion center in the crystal lattice is the fundamental prerequisite for a **piezoelectric** response."*

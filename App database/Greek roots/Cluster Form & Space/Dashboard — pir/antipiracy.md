@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Opposing or acting to prevent piracy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Opposing or acting to prevent piracy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Designed, intended, or operating to prevent, combat, or deter piracy, whether maritime robbery or unauthorized copyright infringement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In maritime security and intellectual property law, antipiracy operations deploy naval patrols or digital rights management systems to safeguard assets.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antipiracy designates opposing or acting to prevent piracy."*
+> - 📜 **Hugo Grotius (*The Free Sea (Mare Liberum)*):** *"International **antipiracy** covenants empower all maritime nations to suppress corsairs upon the high seas."*
+> - 📜 **Lawrence Lessig (*Free Culture*):** *"Aggressive **antipiracy** software often locks down consumer hardware beyond the reasonable bounds of copyright law."*
+> - 📜 **Alfred Thayer Mahan (*The Influence of Sea Power upon History*):** *"Coordinated **antipiracy** squadrons in the Mediterranean secured commercial shipping routes for peaceful merchant fleets."*

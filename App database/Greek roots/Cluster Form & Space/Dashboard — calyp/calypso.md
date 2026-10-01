@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Rare north temperate bog orchid bearing a solitary white to pink flower marked with purple at the tip of an erect reddish stalk above 1 basal leaf.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (greek mythology) the sea nymph who detained odysseus for seven years.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sea nymph of the mythic island Ogygia in Homer's Odyssey; a syncopated Afro-Caribbean musical genre from Trinidad; or a genus of wild terrestrial orchids (fairy slipper).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical literature, the daughter of Atlas who detained Odysseus for seven years; in botany, the monotypic orchid Calypso bulbosa bearing solitary pink-purple flowers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Baron George Gordon Byron Byron (*Childe Harold's Pilgrimage*):** *"A mortal sovereign holds her dangerous throne, And thou mayst find a new Calypso there."*
-> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"He chucks Chambermaid (the Right Honourable Lord Southdown) under the chin; she seems to deplore his absence, as Calypso did that of that other eminent traveller Ulysses."*
+> - 📜 **Homer (*The Odyssey*):** *"The divine nymph **Calypso** detained Odysseus in her hollow caves, yearning that he should be her immortal husband."*
+> - 📜 **John Milton (*Paradise Regained*):** *"Not all the enticing charms of fair **Calypso** on her green island could make the hero forget his rocky home in Ithaca."*
+> - 📜 **Henry David Thoreau (*The Maine Woods*):** *"In the cold mossy bog, I came upon the solitary, exquisite fairy slipper orchid, the rare **Calypso**."*

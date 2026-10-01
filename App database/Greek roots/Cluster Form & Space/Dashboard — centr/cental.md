@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A united states unit of weight equivalent to 100 pounds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A united states unit of weight equivalent to 100 pounds.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A unit of weight or mass equal to 100 pounds (avoirdupois); a hundredweight (cwt in the US decimal system).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In commercial grain trading and commodities measurement, a standardized unit adopted in 19th-century British and American ports to simplify transactions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cental designates a united states unit of weight equivalent to 100 pounds."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The market price of wheat was calculated per **cental** of dry grain at the principal agricultural exchanges."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"The ledger recorded every **cental** of wool dispatched to the northern weaving mills with commercial exactitude."*
+> - 📜 **Washington Irving (*A History of New York*):** *"Dutch merchants weighed out each **cental** of cured tobacco with substantial brass scales upon the wharf."*

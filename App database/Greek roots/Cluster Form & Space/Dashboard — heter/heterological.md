@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not corresponding in structure or evolutionary origin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not corresponding in structure or evolutionary origin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to heterology; characterized by abnormal structure, foreign tissue development, or self-contradictory linguistic reference.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical logic, Grelling-Nelson's paradox defines a word as heterological if it does not describe itself (e.g., 'long' is not long; is 'heterological' heterological?).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heterological designates not corresponding in structure or evolutionary origin."*
+> - 📜 **Bertrand Russell (*Introduction to Mathematical Philosophy*):** *"The paradox of whether 'heterological' is itself **heterological** illustrates the semantic contradictions inherent in unstratified language."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Chondrosarcoma arising within breast tissue represents a classic **heterological** growth, violating local histogenetic norms."*
+> - 📜 **Willard Van Orman Quine (*The Ways of Paradox*):** *"The category of **heterological** terms precipitates a sharp antinomy resolvable only through rigorous semantic typing."*

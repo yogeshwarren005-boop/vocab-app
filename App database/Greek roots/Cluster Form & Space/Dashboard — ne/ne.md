@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: neon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Nebraska.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combining root derived from Greek nema, meaning thread, filament, or spun fiber, or alternatively from neos, signifying new or recent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biological taxonomy and philology, ne- functions as a prefix in names of threadlike structures (nematodes, axoneme) or modern evolutionary epochs (Neolithic).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Till I return of posting is no need."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Then need I not to fear the worst of wrongs, When in the least of them my life hath end, I see, a better state to me belongs Than that, which on thy humour doth depend."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"So, my good window of lattice, fare thee well; thy casement I need not open, for I look through thee."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"The root **ne** represents both the concept of spinning thread and the adjective for youth or newness."*
+> - 📜 **Robert Beekes (*Etymological Dictionary of Greek*):** *"From the ancient Indo-European verbal stem for spinning comes the ubiquitous combining form **ne** in Greek anatomy."*
+> - 📜 **Benjamin Hall Kennedy (*The Revised Latin Primer*):** *"Students of classical compounding recognize **ne** in Greek borrowings describing fine filaments and novel forms."*

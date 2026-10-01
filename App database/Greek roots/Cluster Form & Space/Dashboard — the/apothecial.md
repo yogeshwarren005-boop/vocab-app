@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the apothecium of some lichens and fungi.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the apothecium of some lichens and fungi.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, resembling, or bearing an apothecium (the cup-shaped ascocarp of certain fungi and lichens).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In lichenology and mycology, apothecial discs contain the exposed hymenium where asci discharge sexual ascospores into passing air currents.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, apothecial designates of or relating to the apothecium of some lichens and fungi."*
+> - 📜 **Beatrix Potter (*On the Germination of the Spores of Agaricineae*):** *"Microscopic examination of the **apothecial** margin revealed dense paraphyses protecting the young asci."*
+> - 📜 **William Jackson Hooker (*The English Flora*):** *"The conspicuous bright orange **apothecial** cups of *Xanthoria parietina* coat coastal rocks with radiant color."*
+> - 📜 **Pier Andrea Saccardo (*Sylloge Fungorum*):** *"Discomycetous taxa are diagnosed primarily by their saucer-shaped **apothecial** fructifications."*

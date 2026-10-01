@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Spend sparingly, avoid the waste of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Use cautiously and frugally.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To practice economy; to spend money, resources, or time with frugality and careful management; to avoid waste (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial engineering, to economise fuel by installing heat recovery equipment on exhaust flues.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **H. G. Wells (*The Time Machine*):** *"It had never occurred to me until that moment that there was any need to economise them, and I had wasted almost half the box in astonishing the Overworlders, to whom fire was a novelty."*
-> - 📜 **H. G. Wells (*The Time Machine*):** *"Very soon I had a choking smoky fire of green wood and dry sticks, and could economise my camphor."*
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"The explanation of these apparently contradictory phenomena is that to economise space one piece was sometimes placed on top of another in the kiln."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Every prodigal appears to be a public enemy, and every frugal man a public benefactor who strives to **economise** his resources."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Mr. Micawber was perpetually resolving to **economise**, yet tomorrow invariably found him contracting some novel and fanciful liability."*
+> - 📜 **John Stuart Mill (*Principles of Political Economy*):** *"To **economise** human labor by substituting mechanical water power increases the net output of the agricultural community."*

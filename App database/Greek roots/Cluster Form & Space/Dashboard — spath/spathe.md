@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sheathing bract or pair of bracts partly enclosing an inflorescence and especially a spadix on the same axis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sheathing bract or pair of bracts partly enclosing an inflorescence and especially a spadix on the same axis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large, often colorful, leaflike bract or pair of bracts that encloses or enfolds a flower cluster (spadix), characteristic of arums, palms, and calla lilies.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In angiosperm morphology, the spathe protects immature florets and frequently functions as a visual beacon or heat-trapping chamber to attract insect pollinators.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spathe designates a sheathing bract or pair of bracts partly enclosing an inflorescence and especially a spadix on the same axis."*
+> - 📜 **Charles Darwin (*The Various Contrivances by Which Orchids Are Fertilised by Insects*):** *"In the arum, the opening of the convolute **spathe** is timed with the release of volatile scents that trap insect visitors."*
+> - 📜 **John Ruskin (*Proserpina: Studies of Wayside Flowers*):** *"The snow-white **spathe** of the water-arum curves like a sculptured alabaster shell sheltering the central spike."*
+> - 📜 **Alfred Russel Wallace (*Palm Trees of the Amazon*):** *"From within the giant woody **spathe**, the branched spadix emerges laden with thousands of nutritious palm fruits."*

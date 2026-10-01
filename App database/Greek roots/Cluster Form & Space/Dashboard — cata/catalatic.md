@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the enzyme catalase.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the enzyme catalase.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or produced by the catalytic decomposition of hydrogen peroxide by catalase.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiological chemistry, describing the rate or kinetic activity of catalase enzymes in neutralizing reactive oxygen species.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, catalatic designates of or relating to the enzyme catalase."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"The **catalatic** power of liver extracts resides within the iron-porphyrin prosthetic groups of the tetrameric enzyme."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Absence of normal **catalatic** degradation in acatalasemia renders the oral tissues vulnerable to gangrenous ulceration."*
+> - 📜 **Svante Arrhenius (*Immunochemistry*):** *"The temperature coefficient of the **catalatic** reaction displays rapid inactivation above critical thermal thresholds."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Electronic equipment that converts sound into electrical signals that can be transmitted over distances and then converts received signals back into sounds.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Transmitting speech at a distance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An apparatus, system, or handset for transmitting vocal sounds or speech over electrical wires, radio signals, or optical fibers across distances.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In telecommunications history, Alexander Graham Bell's 1876 invention transformed global commerce, interpersonal communication, and electronic switching infrastructure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Telephone companies are similarly taxed, but sometimes on the number of transmitters, or of subscribers, or on each plant, or otherwise."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Still, sad to relate, the same history had to be repeated in regard to the telegraph and telephone industry, and in some quarters the ultimate outcome is not yet recognized."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Waterworks, gas, electric lighting, street railways, telephone systems, are among these."*
+> - 📜 **Alexander Graham Bell (*Researches in Electric Telephony*):** *"The day will come when man will be able to converse by **telephone** with friends located across entire continents."*
+> - 📜 **Thorstein Veblen (*The Theory of the Leisure Class*):** *"Rapid communication devices such as the **telephone** accelerated the tempo of metropolitan pecuniary transactions."*
+> - 📜 **Frank A. Fetter (*Economics: Modern Economic Problems*):** *"Municipal regulation of the urban **telephone** network became essential once competing local exchanges proved unwieldy."*

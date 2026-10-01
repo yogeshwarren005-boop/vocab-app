@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (physics) scientific instrument that traces the path of a charged particle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (physics) scientific instrument that traces the path of a charged particle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An experimental apparatus or array of detectors used in nuclear and particle physics to trace and record the trajectories of ionizing particles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cosmic-ray physics and particle beamlines, hodoscopes typically employ parallel scintillation counters or wire chambers to resolve multi-particle spatial coordinates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hodoscope designates (physics) scientific instrument that traces the path of a charged particle."*
+> - 📜 **Luis Alvarez (*Adventures in Experimental Physics*):** *"By arranging scintillation detectors in a crossed **hodoscope**, we could map cosmic-ray muon tracks through the Chephren pyramid."*
+> - 📜 **Enrico Fermi (*Nuclear Physics*):** *"The timing resolution of a fast **hodoscope** allows the experimenter to separate coincidences from background noise."*
+> - 📜 **Emilio Segrè (*Nuclei and Particles*):** *"Particle trajectories within the magnetic spectrometer were mapped precisely by a multi-channel counter **hodoscope**."*

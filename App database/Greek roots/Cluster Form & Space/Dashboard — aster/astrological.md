@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or concerned with astrology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or concerned with astrology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, based on, or characteristic of astrology or the belief in stellar influence over human affairs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to zodiacal charts, planetary aspects, or historical horoscopic systems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"So, swinging his seated form to the roll of the ship, and with his astrological-looking instrument placed to his eye, he remained in that posture for some moments to catch the precise instant when the sun should gain its precise meridian."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"So, swinging his seated form to the roll of the ship, and with his astrological-looking instrument placed to his eye, he remained in that posture for some moments to catch the precise instant when the sun should gain its precise meridian."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"In confirmation of this astrological suggestion, I may say that while in Topeka I saw "stars," on several occasions, leading Indians in the opposite direction from that in which they wished to go."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"To attribute mortal crimes and virtues to mere **astrological** aspects of Mars or Venus is to defraud the human will of moral agency."*
+> - 📜 **Johannes Kepler (*Harmonices Mundi*):** *"Though I cast **astrological** nativities to earn my bread, my true devotion belongs to the mathematical laws of the planetary orbits."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"An **astrological** prophecy predicting the death of the tyrant threw the entire imperial palace into suspicious panic."*

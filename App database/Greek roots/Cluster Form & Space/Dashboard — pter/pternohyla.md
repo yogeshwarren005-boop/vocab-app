@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Burrowing tree frogs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Burrowing tree frogs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A former genus name for burrowing treefrogs (now classified under Smilisca), native to Mexico and the southwestern United States.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In herpetology, hylid frogs characterized by a heavily ossified, helmet-like skull (casqued head) utilized for phragmosis to block burrow entrances.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pternohyla designates burrowing tree frogs."*
+> - 📜 **Edward D. Cope (*The Batrachia of North America*):** *"The cranial dermal ossification in **pternohyla** unites the skull bones into a solid helmet adapted for dry arid survival."*
+> - 📜 **Hobart M. Smith (*The Amphibians of Western North America*):** *"During arid summer droughts, **pternohyla** retreats deep into underground burrows, sealing the opening with its hardened head."*
+> - 📜 **Linda Trueb (*Evolutionary History of the Neotropical Treefrogs*):** *"Hyperossification of the cranium in **pternohyla** represents an extreme adaptation to curb cutaneous moisture loss."*

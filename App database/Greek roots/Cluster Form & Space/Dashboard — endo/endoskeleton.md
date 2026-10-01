@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An internal skeleton or supporting framework in an animal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An internal skeleton or supporting framework in an animal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An internal supporting skeleton or structural framework within an animal's body, characteristic of vertebrates and echinoderms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary morphology, an endoskeleton grows continuously with the organism, avoiding the developmental molting constraints imposed by an exoskeleton.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endoskeleton designates an internal skeleton or supporting framework in an animal."*
+> - 📜 **Alfred Romer (*The Vertebrate Body*):** *"The living bony **endoskeleton** of vertebrates possesses the supreme advantage of continuous vascular growth without ecdysis."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The homologous architecture of the vertebrate **endoskeleton** points unmistakably to common descent from an ancestral prototype."*
+> - 📜 **Stephen Jay Gould (*Ontogeny and Phylogeny*):** *"The transition from external armor to a dynamic internal **endoskeleton** unlocked unprecedented opportunities for vertebrate gigantism."*

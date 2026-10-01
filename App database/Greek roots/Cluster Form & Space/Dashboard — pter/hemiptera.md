@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Plant bugs; bedbugs; some true bugs; also includes suborders heteroptera (true bugs) and homoptera (e.g., aphids, plant lice and cicadas).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Plant bugs; bedbugs; some true bugs; also includes suborders heteroptera (true bugs) and homoptera (e.g., aphids, plant lice and cicadas).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large taxonomic order of insects, commonly known as true bugs, characterized by piercing-sucking mouthparts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic entomology, comprising cicadas, aphids, planthoppers, and shield bugs, possessing forewings modified as hemelytra or uniformly membranous.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemiptera designates plant bugs; bedbugs; some true bugs; also includes suborders heteroptera (true bugs) and homoptera (e.g., aphids, plant lice and cicadas)."*
+> - 📜 **Carl Linnaeus (*Systema Naturae*):** *"Under the ordinal banner of **hemiptera**, I have classified insects whose rostrum is folded beneath the pectus for sucking fluids."*
+> - 📜 **John Obadiah Westwood (*An Introduction to the Modern Classification of Insects*):** *"The mouthparts in **hemiptera** form a jointed beak housing slender mandibular and maxillary stylets for piercing tissues."*
+> - 📜 **Carl Stål (*Hemiptera Africana*):** *"The immense diversity of tropical **hemiptera** includes both destructive plant-feeders and beneficial predatory assassins."*

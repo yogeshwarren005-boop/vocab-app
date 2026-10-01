@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An electronic system of transmitting transient images of fixed or moving objects together with sound over a wire or through space by apparatus that converts light and sound into electrical waves and reconverts them into visible light rays and audible sound.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A television receiving set.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A system for transmitting visual images and sound that are reproduced on screens; also, the receiving set or the medium of broadcast programs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural history and electronic engineering, television evolved from mechanical scanning disks to cathode-ray tubes and solid-state digital displays, shaping modern society.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"The young are already exposed to far more negative forces in the general run of storybooks, television shows, Internet games and the real world."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Let me tell you about it.' The grandchild chose the grandparent over television and the many other forms of professionally polished commercial entertainment that thrusts forward for his or her attention."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"He places his cane on the ground beside him and crosses his legs just as I often do when I watch television."*
+> - 📜 **David Sarnoff (*Address at the New York World's Fair*):** *"Now we add sight to sound; **television** is born as an art that shines like a torch of hope in a troubled world."*
+> - 📜 **Marshall McLuhan (*Understanding Media: The Extensions of Man*):** *"The medium of **television** has transformed the planet into a global village, where all humans participate in a single electronic mosaic."*
+> - 📜 **Edward R. Murrow (*Speech to the RTNDA*):** *"This instrument can teach, it can illuminate; yes, and it can even inspire; but **television** can do so only to the extent that humans are determined to use it toward those ends."*

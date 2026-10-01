@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek rhabd.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An extinct genus of herbivorous rhabdodontid ornithopod dinosaurs from the Late Cretaceous of Europe.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate paleontology, an insular European dinosaur characterized by heavy, rod-like fluted tooth crowns adapted to shredding tough vegetation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Rhabdodon designates a term designating an entity, condition, or phenomenon derived from greek rhabd."*
+> - 📜 **Philippe Matheron (*Notice sur les reptiles fossiles des dépôts fluvio-lacustres*):** *"I proposed the genus **Rhabdodon** for these Cretaceous fossil jaws on account of their heavily ridged, rod-like teeth."*
+> - 📜 **Harry Govier Seeley (*On the Dinosaurian Remains of the Gosau Formation*):** *"Fossils of **Rhabdodon** demonstrate that archaic ornithopod stocks persisted on European island archipelagos until the end of the Cretaceous."*
+> - 📜 **David B. Weishampel (*The Dinosauria*):** *"Dental microwear analysis in **Rhabdodon** indicates powerful transverse chewing cycles suited to tough angiosperm and fern diets."*

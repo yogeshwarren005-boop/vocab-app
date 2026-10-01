@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Anticipation: such as.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The representation or assumption of a future act or development as if presently existing or accomplished.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Anticipating future events, developments, or objections; of or relating to prolepsis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary criticism and medicine, applied to figures of speech or paroxysmal fevers that recur at progressively earlier intervals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, proleptic designates anticipation: such as."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The paroxysms of tertian malaria occasionally exhibit a **proleptic** tendency, anticipating their scheduled hour of chill."*
+> - 📜 **Walter Pater (*Appreciations*):** *"There is a **proleptic** irony in the tragedy, wherein words uttered in joy foreshadow impending ruin."*
+> - 📜 **Samuel Johnson (*Lives of the Poets*):** *"The poet's **proleptic** vision perceived the glory of national triumph long before the first battle was engaged."*

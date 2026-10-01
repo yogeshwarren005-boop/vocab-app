@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One who practices economy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A specialist in economics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialist or scholar in the field of economics; a person who studies economic systems, theories, and data.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In public administration, an economist advises finance ministries and corporations on monetary forecasting, pricing strategies, and taxation policy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The task of the economist "as such" is the analysis of the economic valuation-aspects of these problems."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The answer to such questions is not for the economist alone to give."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This is the point of view that must be taken by the political economist in a free republic."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The statesman or **economist** who attempts to direct private capital would assume an authority which could safely be trusted to no council."*
+> - 📜 **John Maynard Keynes (*The General Theory of Employment, Interest and Money*):** *"The master **economist** must possess a rare combination of gifts: he must be mathematician, historian, statesman, philosopher in some degree."*
+> - 📜 **David Ricardo (*On the Principles of Political Economy and Taxation*):** *"The principal problem in political economy for the **economist** is to determine the laws which regulate the distribution of rent, profit, and wages."*

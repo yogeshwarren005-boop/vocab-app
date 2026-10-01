@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Prophetic of devastation or ultimate doom.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Prophetic of devastation or ultimate doom.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or resembling an apocalypse; apocalyptic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by gloomy prophecies, terrifying visions, or revelation of ultimate catastrophic mysteries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, apocalyptical designates prophetic of devastation or ultimate doom."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"The fiery beasts and trumpets of the **apocalyptical** vision have furnished commentators with endless speculative controversies."*
+> - 📜 **John Milton (*Areopagitica*):** *"He warned the assembly not to confuse political faction with the cosmic terrors of the **apocalyptical** dragon."*
+> - 📜 **Samuel Johnson (*The Lives of the English Poets*):** *"His epic was filled with dark, **apocalyptical** imagery that bewildered rather than illuminated his readers."*

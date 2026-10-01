@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A slight surface cut (especially a notch that is made to keep a tally).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Whiskey distilled in scotland; especially whiskey made from malted barley in a pot still.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Scottish; of, relating to, or characteristic of Scotland, its people, or their dialect; also, whisky distilled in Scotland from malted barley.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: As a verb, scotch means to decisively crush, thwart, put an end to, or disable (e.g. 'to scotch a rumor'), famously used by Shakespeare in Macbeth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Krook addresses a crazy little woman who is his female lodger, who appears and vanishes in a breath, who soon returns accompanied by a testy medical man brought from his dinner, with a broad, snuffy upper lip and a broad Scotch tongue."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"She had a great command of vigorous Scotch, and a large stock of homely proverbs, of which she made frequent and apposite use."*
-> - 📜 **John Cairns (*Principal Cairns*):** *"Breakfast consisted of porridge and milk; dinner, in the middle of the day, of Scotch kail and pork, occasionally varied by herrings, fresh or salt according to the season, and with the usual accompaniments of potatoes and pease bannocks."*
+> - 📜 **William Shakespeare (*Macbeth*):** *"We have **scotch**'d the snake, not kill'd it: She'll close and be herself, whilst our poor malice remains in danger of her former tooth."*
+> - 📜 **Robert Burns (*Scotch Drink*):** *"Let other poets raise a fracas, but give me the pure amber warmth of honest **scotch** to fire my rustic verse."*
+> - 📜 **Samuel Johnson (*A Journey to the Western Islands of Scotland*):** *"Much may be made of a **scotch**man, if he be caught young, before provincial manners harden into stubborn habits."*

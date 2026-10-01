@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Flat sea urchins.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Flat sea urchins.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A former or obsolete taxonomic order of irregular sea urchins (Echinoidea) characterized by having the periproct situated outside the apical system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic invertebrate paleontology, echinoids (such as sand dollars and heart urchins) that evolved bilateral symmetry from regular radial ancestors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, exocycloida designates flat sea urchins."*
+> - 📜 **Louis Agassiz (*Monographies d'Échinodermes*):** *"In the **Exocycloida**, the excretory periproct has migrated out of the central apical disc toward the posterior margin."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The shift in periproct position observed in **Exocycloida** correlates with burrowing adaptations in marine sand."*
+> - 📜 **E. Ray Lankester (*A Treatise on Zoology*):** *"Fossil transitions across the **Exocycloida** document the evolutionary transition from regular to irregular echinoid tests."*

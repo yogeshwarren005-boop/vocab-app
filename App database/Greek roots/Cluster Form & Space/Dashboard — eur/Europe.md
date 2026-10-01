@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Continent of the eastern and northern hemispheres that has the Atlantic Ocean to its west, the Arctic Ocean to its north, Asia to its east, and Africa and the Mediterranean and Black seas to its south area 3,997,929 square miles (10,354,636 square kilometers).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The European continent exclusive of the British Isles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A continent of the eastern hemisphere, separated from Asia by the Ural Mountains, Caspian Sea, and Black Sea.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical mythology, named after Europa, a Phoenician princess abducted by Zeus in the guise of a white bull; in geopolitics, the birthplace of modern nation-states.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It was thy master’s; shrew me, If I would lose it for a revenue Of any king’s in Europe!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thou hast saved me a thousand marks in links and torches, walking with thee in the night betwixt tavern and tavern: but the sack that thou hast drunk me would have bought me lights as good cheap at the dearest chandler’s in Europe."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Thine by yea and no, which is as much as to say, as thou usest him—Jack Falstaff with my familiars, John with my brothers and sisters, and Sir John with all Europe.” POINS."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The division of **Europe** into a number of independent states is productive of the most beneficial consequences for human freedom."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"In **Europe**, the democratic revolution has taken place in the constitution of society without changes in our laws and manners."*
+> - 📜 **Winston Churchill (*Speech at the University of Zurich*):** *"We must build a kind of United States of **Europe**, so that the material strength of hundreds of millions may be directed toward peace."*

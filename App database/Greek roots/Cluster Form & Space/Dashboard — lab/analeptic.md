@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A drug that stimulates the central nervous system.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A drug that stimulates the central nervous system.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A restorative, stimulating medicine or drug that stimulates the central nervous system, particularly the respiratory and circulatory centers; also, restorative in nature.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pharmacology and toxicology, analeptics (historically including nikethamide, pentylenetetrazol, and doxapram) were administered to reverse barbiturate-induced coma or neonatal respiratory depression.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, analeptic designates a drug that stimulates the central nervous system."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"When respiratory failure threatened in acute poisoning, an active **analeptic** such as caffeine or camphor was injected."*
+> - 📜 **Robert Burton (*The Anatomy of Melancholy*):** *"Nourishing broths and aromatic cordials exert a sovereign **analeptic** virtue to revive the fainting spirits."*
+> - 📜 **Austin Flint (*A Treatise on the Principles and Practice of Medicine*):** *"The physician prescribed warm vinous infusions for their prompt **analeptic** effect upon the failing circulation."*

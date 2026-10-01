@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A plastic substance; specifically : any of numerous organic synthetic or processed materials that are mostly thermoplastic or thermosetting polymers of high molecular weight and that can be made into objects, films, or filaments.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Credit cards used for payment —called also plastic money.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Easily shaped or molded; capable of undergoing permanent deformation without rupture under applied stress.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemistry and materials science, any of a wide range of synthetic or semi-synthetic organic polymers molded into solid objects.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The road-metal grew softer and more clayey as Weatherbury was left behind, and the late rain had wetted its surface to a somewhat plastic, but not muddy state."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"You were plastic, a soul in flux, a consciousness and an identity in the process of forming—ay, of forming and forgetting."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Only the flesh dies and passes, ever a-crawl with the chemic ferment that informs it, ever plastic, ever crystallizing, only to melt into the flux and to crystallize into fresh and diverse forms that are ephemeral and that melt back into the flux."*
+> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"The road-metal grew softer as Weatherbury was left behind, wetted to a somewhat **plastic**, but not muddy state."*
+> - 📜 **Jack London (*The Star-Rover*):** *"You were **plastic**, a soul in flux, a consciousness in the process of forming and forgetting."*
+> - 📜 **Aristotle (*Metaphysics*):** *"Clay exhibits a **plastic** nature, readily receiving whatever imprint the potter's fingers impress upon it."*

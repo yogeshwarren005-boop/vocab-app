@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Go or live through.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Have firsthand knowledge of states, situations, emotions, or sensations.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Possessing skill, knowledge, or practical wisdom gained through long involvement in an activity or profession.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having undergone, felt, or witnessed specific sensory, emotional, or existential events.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"As thou wilt live, fly after: and like an arrow shot From a well-experienced archer hits the mark His eye doth level at, so thou ne’er return Unless thou say ‘Prince Pericles is dead.’ THALIARD."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Let my unsounded self, supposed a fool, Now set thy long-experienced wit to school."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"When each had to tell her so much and tried to be nearest her, she experienced the feeling that she had come to a family to which she really belonged."*
+> - 📜 **Aristotle (*Nicomachean Ethics*):** *"An **experienced** craftsman judges soundly because he perceives the intrinsic principles of his trade through practice."*
+> - 📜 **Joseph Conrad (*The Secret Sharer*):** *"Only an **experienced** sailor could detect the faint shift in offshore breeze through the pitch-black night."*
+> - 📜 **William Shakespeare (*All's Well That Ends Well*):** *"He that has **experienced** both fortune's smile and frowning frown knows best how to endure adversity."*

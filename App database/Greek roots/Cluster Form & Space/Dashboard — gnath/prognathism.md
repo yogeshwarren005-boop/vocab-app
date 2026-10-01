@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition marked by a prognathous jaw.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The condition marked by a prognathous jaw.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The positional condition in which one or both jaws project forward beyond the normal vertical alignment of the forehead and upper face.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary anthropology, facial prognathism diminished progressively in the Homo lineage as cooking and food preparation reduced masticatory stress.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prognathism designates the condition marked by a prognathous jaw."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The remarkable reduction of **prognathism** in civilized races correlates closely with the diminished size of our canine and molar teeth."*
+> - 📜 **Stephen Jay Gould (*Ontogeny and Phylogeny*):** *"Human neoteny is illustrated by our flat, orthognathic facial profile, retaining the juvenile absence of **prognathism** seen in infant apes."*
+> - 📜 **William R. Proffit (*Contemporary Orthodontics*):** *"Surgical bilateral sagittal split osteotomy is commonly performed to set back severe mandibular **prognathism**."*

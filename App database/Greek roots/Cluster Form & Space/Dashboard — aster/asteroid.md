@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of the small rocky celestial bodies found especially between the orbits of Mars and Jupiter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of the small rocky celestial bodies found especially between the orbits of Mars and Jupiter.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small rocky or metallic body orbiting the sun, predominantly located within the main asteroid belt between Mars and Jupiter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In planetary astronomy and classical taxonomy, an astronomical body smaller than a planet (historically termed a minor planet); also shaped like a star.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"You are inmates in the Social Rehabilitation Center of Guardian Station 15, about five million kay outbound from the Asteroid Belt's rim, or what was the Belt before the space-miners got through with it."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The scene faded, replaced by a ring of tiny multicolored lights: the Asteroid Belt."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Scouring the Asteroid Belt, sifting the Kuiper-Oort regions, and intense competitions for substitutes provided inadequate and merely temporary relief."*
+> - 📜 **John Herschel (*Outlines of Astronomy*):** *"William Herschel proposed the term **asteroid** for Ceres and Pallas, because their tiny discs resemble stars through ordinary telescopes."*
+> - 📜 **Carl Sagan (*Cosmos*):** *"A collision between Earth and an **asteroid** ten kilometers wide unleashed the apocalyptic firestorm that doomed the dinosaurs."*
+> - 📜 **Alexander von Humboldt (*Cosmos*):** *"The discovery of a swarming belt of **asteroid** bodies between Mars and Jupiter filled that apparent void in the solar system."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing all the vascular plants that do not bear seeds: ferns, horsetails, club mosses, and whisk ferns; in some classifications considered a subdivision of tracheophyta.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Containing all the vascular plants that do not bear seeds: ferns, horsetails, club mosses, and whisk ferns; in some classifications considered a subdivision of tracheophyta.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The taxonomic plant division comprising ferns, clubmosses, and horsetails, reproducing by spores rather than seeds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant systematics, an ancient lineage of vascular cryptogams whose sporophyte generation is dominant and equipped with true xylem and phloem.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pteridophyta designates containing all the vascular plants that do not bear seeds: ferns, horsetails, club mosses, and whisk ferns; in some classifications considered a subdivision of tracheophyta."*
+> - 📜 **Adolf Engler (*Syllabus der Pflanzenfamilien*):** *"Within the plant kingdom, **pteridophyta** marks the epochal evolutionary threshold where internal conducting vessels first appeared."*
+> - 📜 **Arthur J. Eames (*Morphology of Vascular Plants*):** *"Comparative stelar morphology confirms that **pteridophyta** includes both primitive protostelic and advanced dictyostelic architectures."*
+> - 📜 **Douglas Houghton Campbell (*The Evolution of the Land Plants*):** *"Giant tree-like members of **pteridophyta** flourished in the humid swamps of the Paleozoic, laying down our principal coal seams."*

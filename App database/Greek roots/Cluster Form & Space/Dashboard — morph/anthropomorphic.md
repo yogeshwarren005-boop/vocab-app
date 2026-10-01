@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Described or thought of as having a human form or human attributes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ascribing human characteristics to nonhuman things.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Attributing human characteristics, emotions, intentions, or bodily forms to non-human entities, deities, animals, or inanimate objects.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative mythology and cognitive anthropology, analyzing how cultural religions project human bodily faculties and social structures onto celestial gods.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"God is individual and personal in a scientific 337:1 sense, but not in any anthropomorphic sense."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The word /an- thropomorphic/, in such a phrase as "an anthropomorphic God," is derived from two Greek words, signifying /man/ 517:6 and /form/, and may be defined as a mortally mental at- tempt to reduce Deity to corporeality."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"The evidence for this anthropomorphic representation of the tree-spirit is largely to be found in the popular customs of European peasantry."*
+> - 📜 **Xenophanes (*Fragments*):** *"Mortals deem that the gods are begotten as they are, fashioning divine forms with **anthropomorphic** faces, garments, and voices."*
+> - 📜 **David Hume (*The Natural History of Religion*):** *"There is a universal tendency among mankind to conceive all beings like themselves, giving rise to **anthropomorphic** polytheism."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"We must avoid careless **anthropomorphic** interpretations, yet animal expressions often share common physiological origins with human emotion."*

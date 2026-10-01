@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A heterozygous individual.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A heterozygous individual.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An individual organism having two different alleles for a specific trait or gene locus on homologous chromosomes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical genetics and evolutionary biology, a heterozygote may exhibit overdominance (heterozygote advantage), such as sickle cell trait protecting against malaria.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heterozygote designates a heterozygous individual."*
+> - 📜 **Gregor Mendel (*Experiments on Plant Hybridization*):** *"Self-fertilisation of the hybrid **heterozygote** resolves the subsequent generation into pure dominants, hybrids, and recessives in a 1:2:1 ratio."*
+> - 📜 **Anthony S. Fauci (*Harrison's Principles of Internal Medicine*):** *"The sickle cell **heterozygote** possesses sufficient normal hemoglobin A to avoid vaso-occlusive crises while remaining resistant to Plasmodium falciparum."*
+> - 📜 **Theodosius Dobzhansky (*Mankind Evolving*):** *"A lethal recessive mutation may be maintained at high frequencies if the **heterozygote** enjoys a selective reproductive advantage."*

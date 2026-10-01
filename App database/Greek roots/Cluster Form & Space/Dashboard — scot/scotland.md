@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the four countries that make up the united kingdom of great britain and northern ireland; located on the northern part of the island of great britain; famous for bagpipes and plaids and kilts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of the four countries that make up the united kingdom of great britain and northern ireland; located on the northern part of the island of great britain; famous for bagpipes and plaids and kilts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A country comprising the northern third of the island of Great Britain, forming part of the United Kingdom.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In British political and constitutional history, Scotland retained its distinctive legal system (Scots law), Presbyterian Church, and educational institutions following the 1707 Act of Union.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why, it cannot choose but be a noble plot; And then the power of Scotland and of York To join with Mortimer, ha?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Where is he living, clipp’d in with the sea That chides the banks of England, Scotland, Wales, Which calls me pupil or hath read to me?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Lord Mortimer of Scotland hath sent word That Douglas and the English rebels met The eleventh of this month at Shrewsbury."*
+> - 📜 **Walter Scott (*The Lay of the Last Minstrel*):** *"O Caledonia! stern and wild, meet nurse for a poetic child! Land of brown heath and shaggy wood, land of the mountain and the flood, **scotland**!"*
+> - 📜 **Robert Burns (*Scots Wha Hae*):** *"Wha for **scotland**'s king and law freedom's sword will strongly draw, freeman stand or freeman fa', let him on wi' me!"*
+> - 📜 **Daniel Defoe (*The History of the Union of Great Britain*):** *"The formal incorporation of **scotland** into the united kingdom was attended by vehement debate and economic apprehensions."*

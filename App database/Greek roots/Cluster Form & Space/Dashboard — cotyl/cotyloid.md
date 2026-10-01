@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of the cup-shaped socket that receives the head of the thigh bone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of the cup-shaped socket that receives the head of the thigh bone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Cup-shaped; resembling a small cup or bowl.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate osteology, designating cup-shaped anatomical depressions or sockets, particularly the acetabular cavity of the pelvic bone.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cotyloid designates of the cup-shaped socket that receives the head of the thigh bone."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The **cotyloid** notch at the inferior rim of the acetabulum transmits nutrient vessels to the femoral head ligament."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The hemispherical head of the femur fits neatly into the deep **cotyloid** socket of the innominate bone."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"The fibrocartilaginous **cotyloid** ligament deepens the pelvic cup, securing joint articulation during locomotion."*

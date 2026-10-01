@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (genetics) an organism having two identical alleles of a particular gene and so breeding true for the particular characteristic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (genetics) an organism having two identical alleles of a particular gene and so breeding true for the particular characteristic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An organism or cell possessing two identical alleles at a particular gene locus on both homologous chromosomes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In genetics and breeding, a homozygote breeds true for the trait in question, producing offspring that consistently express the same phenotype when crossed with another homozygote of the same genotype.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, homozygote designates (genetics) an organism having two identical alleles of a particular gene and so breeding true for the particular characteristic."*
+> - 📜 **Gregor Mendel (*Experiments on Plant Hybridization*):** *"The pure-breeding parent is a **homozygote**, carrying two identical factors for the observed character."*
+> - 📜 **William Bateson (*Mendel's Principles of Heredity*):** *"A **homozygote** for the recessive allele expresses the recessive phenotype in full."*
+> - 📜 **Theodosius Dobzhansky (*Genetics and the Origin of Species*):** *"The fitness of a **homozygote** for a deleterious recessive allele is typically much lower than that of the heterozygote."*

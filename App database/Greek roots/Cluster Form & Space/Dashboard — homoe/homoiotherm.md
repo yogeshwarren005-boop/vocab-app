@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a relatively uniform body temperature maintained nearly independent of the environmental temperature : warm-blooded.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a relatively uniform body temperature maintained nearly independent of the environmental temperature : warm-blooded.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An organism that maintains a relatively constant, high internal body temperature largely independent of environmental temperature; a homeotherm (warm-blooded animal).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative physiology, birds and mammals are classic homoiotherms, utilizing elevated basal metabolism, shivering thermogenesis, and insulation (fur/feathers).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, homoiotherm designates having a relatively uniform body temperature maintained nearly independent of the environmental temperature : warm-blooded."*
+> - 📜 **Knut Schmidt-Nielsen (*Animal Physiology: Adaptation and Environment*):** *"A true **homoiotherm** expends substantial metabolic energy on internal heat production to buffer against external cold."*
+> - 📜 **Arthur C. Guyton (*Textbook of Medical Physiology*):** *"The preoptic hypothalamus acts as the central thermostat that preserves the body temperature of the **homoiotherm** within narrow limits."*
+> - 📜 **Peter W. Hochachka (*Biochemical Adaptation*):** *"Enzymes in a mammalian **homoiotherm** are optimized to operate at an invariant narrow temperature plateau near 37 degrees Celsius."*

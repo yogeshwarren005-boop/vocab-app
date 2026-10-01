@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek eso.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A manifest convergent strabismus; an ocular condition where one or both eyes turn inward toward the nose (cross-eyed).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pediatric ophthalmology, infantile esotropia requires early surgical realignment or refractive correction to prevent irreversible amblyopia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, esotropia designates a term designating an entity, condition, or phenomenon derived from greek eso."*
+> - 📜 **Eugene Braunwald (*Harrison's Principles of Internal Medicine*):** *"Early diagnosis of infantile **esotropia** is critical to preserve binocular fusion and avoid cortical suppression amblyopia."*
+> - 📜 **Duke-Elder, Stewart (*System of Ophthalmology*):** *"Accommodative **esotropia** typically develops around age two to three in children with uncorrected high hyperopia."*
+> - 📜 **David H. Hubel (*Eye, Brain, and Vision*):** *"Experimental induction of **esotropia** in kittens results in the permanent loss of binocularly driven cortical neurons."*

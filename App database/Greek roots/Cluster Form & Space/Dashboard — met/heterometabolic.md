@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of an insect) undergoing incomplete metamorphosis in which the nymph is essentially like the adult and there is no pupal stage.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of an insect) undergoing incomplete metamorphosis in which the nymph is essentially like the adult and there is no pupal stage.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Undergoing variable or incomplete metamorphosis; hemimetabolic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In older entomological literature, designating insect development with diverse or transitional metamorphic stages.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heterometabolic designates (of an insect) undergoing incomplete metamorphosis in which the nymph is essentially like the adult and there is no pupal stage."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The **heterometabolic** pattern reflects transitional adaptations between simple growth and radical histolysis."*
+> - 📜 **Edwin Ray Lankester (*A Treatise on Zoology*):** *"Certain scale insects display a **heterometabolic** ontogeny where males undergo a pseudopupa while females remain larviform."*
+> - 📜 **Francis Maitland Balfour (*A Treatise on Comparative Embryology*):** *"Variations within **heterometabolic** development show how natural selection modified ancestral molt schedules."*

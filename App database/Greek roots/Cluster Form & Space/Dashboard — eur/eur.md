@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Europe; European.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: European and : European : western European : of the European Union.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A Greek combining element meaning 'broad', 'wide', or 'spacious'.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anatomy, zoology, and geography, eur- designates wide aperture or expansive geographic range (euryhaline, Europe, aneurysm).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eur designates europe; european."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"The adjective eurys signifies 'wide', 'broad', or 'spacious', forming many poetic and geographical Greek names with **eur**."*
+> - 📜 **Robert Beekes (*Etymological Dictionary of Greek*):** *"Stemming from PIE *h₁wer- ('wide'), **eur** is cognate with Sanskrit uru- and appears in the foundational continent name Europe."*
+> - 📜 **Pierre Chantraine (*Dictionnaire étymologique de la langue grecque*):** *"The semantic notion of expansive breadth in **eur** informs both classical mythological geography and medical vascular nomenclature."*

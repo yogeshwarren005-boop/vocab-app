@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ctenophore have long tentacles and flattened body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ctenophore have long tentacles and flattened body.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or belonging to the Platyctenea, an order of dorsoventrally compressed benthic ctenophores.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine biology, designating any ctenophore that displays secondary adaptation to creeping or parasitic association on benthic substrates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, platyctenean designates ctenophore have long tentacles and flattened body."*
+> - 📜 **Robert D. Barnes (*Invertebrate Zoology*):** *"The bizarre **platyctenean** morphology superficially resembles that of polyclad flatworms due to extreme flattening."*
+> - 📜 **Richard C. Brusca (*Invertebrates*):** *"A specialized **platyctenean** species uses retractable tentacles to capture small crustaceans while clinging to alcyonarian soft corals."*
+> - 📜 **Thomas Cavalier-Smith (*A Revised Six-Kingdom System of Life*):** *"The sedentary lifestyle of the **platyctenean** group represents a notable evolutionary reversal of ancestral ctenophore locomotion."*

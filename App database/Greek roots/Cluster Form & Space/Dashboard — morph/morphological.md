@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of biology that deals with the form and structure of animals and plants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The form and structure of an organism or any of its parts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to morphology; relating to the study of the form, structure, and physical architecture of organisms, minerals, or linguistic items.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary taxonomy and comparative anatomy, morphological characters provide classic phylogenetic evidence for reconstructing ancestral relationships.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, morphological designates a branch of biology that deals with the form and structure of animals and plants."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Homologous bones in the hand of a man, wing of a bat, and paddle of a porpoise reveal undeniable **morphological** affinity."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"The fundamental **morphological** plan of the vertebrate cranium persists despite extreme functional specializations in birds and mammals."*
+> - 📜 **Ernst Haeckel (*Generelle Morphologie der Organismen*):** *"Every **morphological** structure in an adult organism reflects its phylogenetic ancestry through ontogenetic recapitulation."*

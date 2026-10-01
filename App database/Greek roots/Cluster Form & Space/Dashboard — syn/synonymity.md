@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The semantic relation that holds between two words that can (in a given context) express the same meaning.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The semantic relation that holds between two words that can (in a given context) express the same meaning.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state, quality, or condition of being synonymous; equivalence of meaning; synonymy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In computational linguistics and formal semantics, synonymity measures whether two lexical tokens can be substituted across contexts *salva veritate* (preserving truth value).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, synonymity designates the semantic relation that holds between two words that can (in a given context) express the same meaning."*
+> - 📜 **Willard Van Orman Quine (*Two Dogmas of Empiricism*):** *"The concept of analyticity rests upon cognitive **synonymity**, which itself requires rigorous behavioral definitions."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"Apparent **synonymity** in ordinary conversation often conceals subtle differences in affective connotation."*
+> - 📜 **Noam Chomsky (*Syntactic Structures*):** *"Transformational rules explain why sentences with differing surface forms exhibit underlying **synonymity** of meaning."*

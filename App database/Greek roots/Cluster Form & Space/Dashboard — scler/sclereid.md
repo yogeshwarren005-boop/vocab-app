@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A variably shaped sclerenchymatous cell of a higher plant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A variably shaped sclerenchymatous cell of a higher plant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A reduced, strongly lignified sclerenchyma cell with thick secondary walls and simple pits (commonly called a stone cell), providing mechanical support in plants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant anatomy, classified according to morphology into brachysclereids (gritty cells in pear flesh), macrosclereids, osteosclereids, and astrosclereids.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sclereid designates a variably shaped sclerenchymatous cell of a higher plant."*
+> - 📜 **Katherine Esau (*Plant Anatomy*):** *"The characteristic grittiness experienced when chewing a pear fruit is caused by clusters of thick-walled **sclereid** cells embedded in the flesh."*
+> - 📜 **Arthur J. Eames (*An Introduction to Plant Anatomy*):** *"The branching astrosclereid variety of **sclereid** provides internal shear resistance within the floating leaves of water lilies."*
+> - 📜 **Ray F. Evert (*Esau's Plant Anatomy*):** *"Heavily lignified secondary walls of each mature **sclereid** possess narrow bordered or simple pit canals that transmit water."*

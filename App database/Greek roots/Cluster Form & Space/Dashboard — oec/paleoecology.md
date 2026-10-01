@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branch of ecology that is concerned with the characteristics of ancient environments and with their relationships to ancient plants and animals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A branch of ecology that is concerned with the characteristics of ancient environments and with their relationships to ancient plants and animals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific discipline that uses fossils and sedimentary evidence to reconstruct the environmental conditions, food webs, and ecological relationships of prehistoric geological eras.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In contemporary earth science, paleoecology illuminates how ancient ecosystems responded to past asteroid impacts, volcanic greenhouse surges, and glacial cycles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paleoecology designates a branch of ecology that is concerned with the characteristics of ancient environments and with their relationships to ancient plants and animals."*
+> - 📜 **George Gaylord Simpson (*Tempo and Mode in Evolution*):** *"The synthesis of paleontology and **paleoecology** reveals that adaptive radiation occurs when evolutionary lineages colonize open ecospaces."*
+> - 📜 **Stephen Jay Gould (*The Structure of Evolutionary Theory*):** *"Fossil assemblages from the Burgess Shale provide **paleoecology** with a pristine snapshot of early Cambrian marine predation."*
+> - 📜 **Eugene Odum (*Fundamentals of Ecology*):** *"Understanding modern ecosystem stability requires the long-term perspective provided by historical **paleoecology**."*

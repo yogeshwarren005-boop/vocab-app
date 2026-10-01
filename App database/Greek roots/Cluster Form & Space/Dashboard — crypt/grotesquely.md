@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a grotesque manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a grotesque manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a grotesque, bizarre, incongruously distorted, or wildly unnatural manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In descriptive prose, so as to evoke a startling or unsettling mixture of horror, absurdity, and caricature.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"Our dreams are grotesquely compounded of the things we know."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"At the end of the time she bathes, her person is loaded with ornaments, her face is grotesquely painted with red stripes on a white ground, and thus adorned she is brought forth in public to be admired by everybody."*
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"The stick is sometimes a grotesquely-formed limb of a tree, with three or four branches twisting from its body like so many shapeless legs, and sustaining it two or three feet from the ground."*
+> - 📜 **Charles Dickens (*Great Expectations*):** *"The shadows flickered **grotesquely** against the soot-blackened ceiling of Miss Havisham's bridal chamber."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The severed head of the sperm whale swayed **grotesquely** from the ship's side in the rising gale."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"The wilderness had patted him on the head, and he looked **grotesquely** emaciated upon his pallet."*

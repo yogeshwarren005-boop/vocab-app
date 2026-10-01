@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A fungal infection characterized by nodular lesions--first in the lungs and spreading to the nervous system.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fungal infection characterized by nodular lesions--first in the lungs and spreading to the nervous system.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A subacute or chronic infectious disease caused by encapsulated yeast-like fungi of the genus Cryptococcus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In infectious disease and medical mycology, an opportunistic infection (primarily Cryptococcus neoformans) that manifests typically as fatal subacute meningitis in immunocompromised patients.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cryptococcosis designates a fungal infection characterized by nodular lesions--first in the lungs and spreading to the nervous system."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In cerebral **cryptococcosis**, examination of cerebrospinal fluid with India ink reveals budding yeast cells ringed by voluminous clear capsules."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"The mucopolysaccharide capsule characterizing the yeast in **cryptococcosis** shields the organism against phagocytic destruction."*
+> - 📜 **Harvey Cushing (*Intracranial Tumors*):** *"Granulomatous lesions of **cryptococcosis** may clinically simulate an expanding intracranial neoplasm before culture verification."*

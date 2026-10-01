@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being that is typical.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being that is typical.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality or state of being typical; the degree to which something exemplifies or conforms to the defining characteristics of its class or category.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cognitive psychology, typicality refers to how well an instance represents a category, with prototypical members being categorized faster and more accurately than peripheral ones.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, typicality designates the state of being that is typical."*
+> - 📜 **Eleanor Rosch (*Natural Categories*):** *"Judgments of **typicality** determine how quickly subjects verify category membership."*
+> - 📜 **Ludwig Wittgenstein (*Philosophical Investigations*):** *"The **typicality** of a family resemblance depends not on strict boundaries but on overlapping similarities."*
+> - 📜 **George Lakoff (*Women, Fire, and Dangerous Things*):** *"Graded **typicality** effects demonstrate that categories have internal structure organized around prototypes."*

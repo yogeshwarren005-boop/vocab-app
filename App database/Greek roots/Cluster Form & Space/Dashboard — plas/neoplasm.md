@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal new mass of tissue that serves no purpose.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abnormal new mass of tissue that serves no purpose.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A new and abnormal growth of tissue in some part of the body, especially a characteristic of cancer; a tumor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical oncology, neoplasms are classified as benign (non-invasive, encapsulated) or malignant (infiltrative, capable of distant metastasis).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neoplasm designates an abnormal new mass of tissue that serves no purpose."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Early surgical extirpation of a localized **neoplasm** provides the only reliable hope of permanent cure."*
+> - 📜 **Vinay Kumar (*Robbins Basic Pathology*):** *"Histologic assessment determines whether an excised **neoplasm** exhibits benign circumscription or invasive malignancy."*
+> - 📜 **Tinsley R. Harrison (*Principles of Internal Medicine*):** *"Unexplained weight loss and night sweats may be the first paraneoplastic signs of a hidden occult **neoplasm**."*

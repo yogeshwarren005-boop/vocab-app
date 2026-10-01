@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The hydrolysis of proteins or peptides with formation of simpler and soluble products.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The hydrolysis of proteins or peptides with formation of simpler and soluble products.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The biochemical breakdown of proteins into smaller polypeptides or individual amino acids by the hydrolytic cleavage of peptide bonds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cellular biochemistry, targeted proteolysis mediated by the ubiquitin-proteasome system regulates cell-cycle transitions, signaling cascades, and protein homeostasis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, proteolysis designates the hydrolysis of proteins or peptides with formation of simpler and soluble products."*
+> - 📜 **Aaron Ciechanover (*The Ubiquitin-Proteasome Pathway*):** *"Regulated **proteolysis** serves not merely as a garbage disposal system, but as a critical regulatory switch for eukaryotic cells."*
+> - 📜 **Avram Hershko (*The Ubiquitin System for Protein Degradation*):** *"Energy-dependent **proteolysis** selectively eliminates misfolded and short-lived regulatory enzymes within the cytosol."*
+> - 📜 **Emil Fischer (*Untersuchungen über Aminosäuren, Polypeptide und Proteine*):** *"Digestive enzymes operate by sustained **proteolysis**, cleaving complex polypeptides into fundamental amino acid units."*

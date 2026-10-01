@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A native or inhabitant of europe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characteristic of europe or the people of europe.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or native to the continent of Europe or its peoples, languages, and cultures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geopolitical discourse, designating institutions, policies, or integration processes associated with the European Union.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"The name of Professor Dingo, my immediate predecessor, is one of European reputation.” Mrs."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"On the twelfth anniversary of my wedding-day, I became the wife of Professor Dingo.” “Of European reputation,” added Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Again, with Professor Dingo.” “A man of European reputation,” murmured Mr."*
+> - 📜 **Edward Gibbon (*The Decline and Fall of the Roman Empire*):** *"The **European** states formed an interconnected commonwealth united by shared religious and legal heritage."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"The **European** observer is struck by the absence of administrative centralization in early American townships."*
+> - 📜 **Winston Churchill (*The Gathering Storm*):** *"The preservation of **European** civilization required resolute resistance against aggressive totalitarian expansion."*

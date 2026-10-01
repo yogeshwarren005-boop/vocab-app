@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek scler.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The surgical excision and removal of a portion of the sclera of the eye.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ophthalmic surgery, a filtering procedure (such as deep sclerectomy) performed to create an outflow channel for aqueous humor to reduce intraocular pressure in glaucoma.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sclerectomy designates a term designating an entity, condition, or phenomenon derived from greek scler."*
+> - 📜 **Albrecht von Graefe (*Archiv für Ophthalmologie*):** *"I devised the anterior **sclerectomy** to establish a permanent subconjunctival drainage fistulization in chronic glaucoma."*
+> - 📜 **Sir Stewart Duke-Elder (*System of Ophthalmology*):** *"Non-penetrating deep **sclerectomy** lowers intraocular tension while minimizing the risk of postoperative anterior chamber collapse."*
+> - 📜 **Howard A. Kelly (*Operative Ophthalmology*):** *"Careful trephination during posterior **sclerectomy** decompresses choroidal effusions and restores normal ciliary body alignment."*

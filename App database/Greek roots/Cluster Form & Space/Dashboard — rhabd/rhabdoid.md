@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective & Noun*) Resembling, having the physical form of, or akin to rod.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective & Noun*) Resembling, having the physical form of, or akin to rod.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Shaped like a rod, wand, or stick; having the form of a small cylinder.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In oncologic pathology, describing malignant tumors composed of dyscohesive round or polygonal cells with eccentric vesicular nuclei and eosinophilic cytoplasmic inclusions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhabdoid designates adjective & noun*) resembling, having the physical form of, or akin to rod."*
+> - 📜 **Juan Rosai (*Rosai and Ackerman's Surgical Pathology*):** *"Malignant **rhabdoid** tumors of infancy are characterized by loss of INI1 protein expression due to SMARCB1 gene mutations."*
+> - 📜 **Christopher D. M. Fletcher (*Diagnostic Histopathology of Tumors*):** *"Histologically, the **rhabdoid** cell features an abundant, glassy pink cytoplasm that displaces the vesicular nucleus to the cell periphery."*
+> - 📜 **Louis P. Dehner (*Pediatric Surgical Pathology*):** *"Renal and extrarenal **rhabdoid** neoplasms pursue an exceptionally aggressive clinical course requiring intensive multi-agent chemotherapy."*

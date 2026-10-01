@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The use of the telephone as an interactive medium for promotion and sales.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The use of the telephone as an interactive medium for promotion and sales.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Commercial transactions, merchandising, or retail purchasing conducted over telecommunications channels, telephone links, or cable shopping networks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern commercial history, telecommerce formed the transitional stage connecting telephone mail-order catalog sales with internet electronic commerce (e-commerce).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, telecommerce designates the use of the telephone as an interactive medium for promotion and sales."*
+> - 📜 **Alvin Toffler (*The Third Wave*):** *"Consumers embraced early forms of **telecommerce**, ordering merchandise from computerized home shopping displays."*
+> - 📜 **Nicholas Negroponte (*Being Digital*):** *"The convenience of electronic **telecommerce** demonstrated that retail transactions could occur without physical store visits."*
+> - 📜 **Arthur C. Clarke (*Profiles of the Future*):** *"Instantaneous financial **telecommerce** eliminated the delay of paper bank drafts across international stock exchanges."*

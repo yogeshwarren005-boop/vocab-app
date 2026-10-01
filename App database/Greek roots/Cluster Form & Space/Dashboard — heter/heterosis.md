@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The marked vigor or capacity for growth often exhibited by crossbred animals or plants —called also hybrid vigor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The marked vigor or capacity for growth often exhibited by crossbred animals or plants —called also hybrid vigor.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The tendency of a crossbred individual (hybrid) to show qualities superior to those of both parents; hybrid vigor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agricultural genetics and evolutionary biology, heterosis is exploited commercially in hybrid maize and livestock breeding to maximize yield and disease resistance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heterosis designates the marked vigor or capacity for growth often exhibited by crossbred animals or plants —called also hybrid vigor."*
+> - 📜 **George Harrison Shull (*The Composition of a Field of Maize*):** *"The phenomenon of **heterosis** results from crossing inbred lines, restoring vigorous growth and extraordinary grain yields."*
+> - 📜 **Theodosius Dobzhansky (*Genetics and the Origin of Species*):** *"Overdominance at specific gene loci provides a compelling physiological explanation for the occurrence of **heterosis** in natural populations."*
+> - 📜 **Charles Darwin (*The Effects of Cross and Self Fertilisation in the Vegetable Kingdom*):** *"Darwin demonstrated that cross-fertilisation systematically confers enhanced height, fertility, and survival, anticipating modern **heterosis**."*

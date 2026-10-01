@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lionfishes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lionfishes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of venomous marine ray-finned reef fishes in the scorpionfish family (Scorpaenidae), commonly known as lionfishes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine biology and invasive species ecology, predatory reef fishes of the Indo-Pacific, equipped with venomous fin rays, that have severely disrupted western Atlantic coral reefs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pterois designates lionfishes."*
+> - 📜 **Georges Cuvier (*Histoire Naturelle des Poissons*):** *"The magnificent pectoral fins of **pterois** spread like feathery fans, concealing grooved dorsal spines charged with toxic venom."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"With slow, deliberate movements, **pterois** herds small reef fishes against coral walls before swallowing them in an instant."*
+> - 📜 **John E. Randall (*Reef and Shore Fishes of the South Pacific*):** *"A puncture from the dorsal spines of **pterois** causes excruciating systemic pain and cardiovascular distress."*

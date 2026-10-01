@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek centr.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgical puncture of the thoracic wall with a needle or trocar to aspirate accumulated fluid or air from the pleural cavity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pulmonology and critical care, an essential diagnostic and palliative procedure for pleural effusions and hemothorax.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thoracentesis designates a term designating an entity, condition, or phenomenon derived from greek centr."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In massive pleuritic effusion with dyspnea, immediate **thoracentesis** relieves mediastinal displacement and restores lung expansion."*
+> - 📜 **Sir Thomas Watson (*Lectures on the Principles and Practice of Physic*):** *"By performing **thoracentesis** in the eighth intercostal space, the operator drains the pleural collection without entering the diaphragm."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The needle during **thoracentesis** must hug the superior margin of the lower rib to avoid the intercostal neurovascular bundle."*

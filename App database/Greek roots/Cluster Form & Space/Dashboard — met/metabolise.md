@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Produce by metabolism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Produce by metabolism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To process, transform, or break down substances by metabolism (British English spelling of metabolize).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacology and biochemistry, to alter chemical compounds (such as nutrients or xenobiotics) through enzymatic oxidation, reduction, hydrolysis, or conjugation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metabolise designates produce by metabolism."*
+> - 📜 **Claude Bernard (*An Introduction to the Study of Experimental Medicine*):** *"Hepatic cells actively **metabolise** portal glucose, storing it in the form of insoluble glycogen."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Inborn errors of metabolism leave the body unable to **metabolise** specific dietary amino acids."*
+> - 📜 **Paul Ehrlich (*Studies in Immunity*):** *"The reticuloendothelial system operates continuously to **metabolise** foreign toxins and cellular debris."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to cataplasia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to cataplasia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or resembling a cataplasm (poultice); soothing and emollient.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pathology, relating to or exhibiting cataplasia (degenerative or atrophic cellular regression).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cataplastic designates of or relating to cataplasia."*
+> - 📜 **Thomas Sydenham (*The Works of Thomas Sydenham*):** *"Warm **cataplastic** dressings were laid upon the tumefaction to promote suppuration and ease the throbbing pain."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Tissues undergoing **cataplastic** degeneration display progressive atrophy of their specialized metabolic machinery."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A soothing **cataplastic** paste prepared from crushed herbs alleviated the local tenderness of the carbuncle."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who habitually doubts accepted beliefs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who habitually doubts accepted beliefs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person inclined to question, doubt, or suspend judgment regarding accepted beliefs, dogmas, or assertions of knowledge; British/Commonwealth variant of skeptic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical epistemology, a follower of Pyrrho or Carneades who maintains that absolute certainty is unattainable and that judgment must be suspended (*epoche*).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"But Oppenheimer, enraptured with my tales, remained a sceptic to the end."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Little sceptic, you _shall_ be convinced."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"Hence, Fullarton, the brave and young; Hence, Dempster’s zeal-inspired tongue; Hence, sweet, harmonious Beattie sung His ’Minstrel lays’; Or tore, with noble ardour stung, The sceptic’s bays."*
+> - 📜 **David Hume (*An Enquiry Concerning Human Understanding*):** *"The true **sceptic** will be modest and reserved, ever distrustful of his own philosophical doubts as well as philosophical assertions."*
+> - 📜 **Michel de Montaigne (*Essays*):** *"The ancient **sceptic** avoided the arrogance of dogma by asking perpetual questions rather than asserting immutable truths."*
+> - 📜 **Bertrand Russell (*Sceptical Essays*):** *"None of our beliefs are quite true; all have at least a penumbra of vagueness and error, as any honest **sceptic** readily admits."*

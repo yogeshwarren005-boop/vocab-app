@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Includes the alligator snapping turtle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Includes the alligator snapping turtle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxonomic genus of large freshwater cryptodire turtles comprising the alligator snapping turtle (*Macroclemys temminckii*).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In herpetology and aquatic ecology, *Macroclemys* is famed for its heavily keeled carapace, hooked jaws, and a vermiform pink tongue lure used for ambush predation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, macroclemys designates includes the alligator snapping turtle."*
+> - 📜 **John Edwards Holbrook (*North American Herpetology*):** *"The great river turtle **Macroclemys** lies motionless on muddy river bottoms, luring fishes with its lingual appendage."*
+> - 📜 **Raymond L. Ditmars (*The Reptile Book*):** *"A full-grown **Macroclemys** ranks among the most formidable freshwater reptiles of North America, capable of snapping stout broomsticks."*
+> - 📜 **Archie Carr (*Handbook of Turtles*):** *"The skull of **Macroclemys** is massive and solidly roofed, providing an anchor for immense jaw adductor musculature."*

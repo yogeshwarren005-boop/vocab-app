@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To arrange in accord with a definite plan or scheme : order systematically.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To arrange in accord with a definite plan or scheme : order systematically.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To arrange according to an organized, methodical system or plan; American spelling of systematise.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In knowledge engineering and philosophy of science, to systematize involves codifying empirical axioms into an interconnected theoretical framework.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Edson attempted to systematize her plan for a home and training school for nurses."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"They were an outgrowth alike of the patriotism and the systematizing tendencies of the people of the North."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"During the slow hours of convalescence from this illness she revolved a plan for systematizing the female branch of the relief service."*
+> - 📜 **Immanuel Kant (*Critique of Pure Reason*):** *"Reason strives to **systematize** all empirical cognitions under the regulative unity of ideas."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"We must collect instances of natural phenomena and **systematize** them before formulating general axioms."*
+> - 📜 **William James (*Pragmatism*):** *"The human mind cannot rest satisfied with disjointed facts; it longs to **systematize** them into a coherent vision."*

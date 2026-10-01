@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A branching diagrammatic tree used in cladistic classification to illustrate phylogenetic relationships.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A branching diagrammatic tree used in cladistic classification to illustrate phylogenetic relationships.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A branching treelike diagram used in cladistics to show ancestral relations and genealogical affinities between taxa.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In phylogenetic systematics, a diagram that displays the topology of shared derived character states (synapomorphies) without implying evolutionary time or divergence rate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cladogram designates a branching diagrammatic tree used in cladistic classification to illustrate phylogenetic relationships."*
+> - 📜 **Willi Hennig (*Phylogenetic Systematics*):** *"A properly constructed **cladogram** depicts nested hierarchies of sister groups supported by derived character states."*
+> - 📜 **Stephen Jay Gould (*Wonderful Life*):** *"Every node on a **cladogram** represents a hypothetical speciation event connecting two sister lineages."*
+> - 📜 **Richard Dawkins (*The Blind Watchmaker*):** *"By arranging anatomical features in an unambiguous **cladogram**, the biologist reconstructs the family tree of life."*

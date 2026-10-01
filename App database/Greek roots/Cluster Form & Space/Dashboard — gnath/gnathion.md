@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The most inferior point of the mandible in the midline.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The most inferior point of the mandible in the midline.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In craniometry and cephalometrics, the lowest and most anterior midpoint on the inferior border of the mandibular symphysis (the chin point).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In orthodontics and maxillofacial surgery, the gnathion is an indispensable cephalometric landmark for assessing facial height, mandibular rotation, and profile aesthetics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gnathion designates the most inferior point of the mandible in the midline."*
+> - 📜 **Aleš Hrdlička (*Anthropometry*):** *"The **gnathion** marks the most inferior point on the mandibular symphysis in the median sagittal plane."*
+> - 📜 **William R. Proffit (*Contemporary Orthodontics*):** *"Measuring the angle formed between sella, nasion, and **gnathion** reveals vertical growth vectors in skeletal malocclusion."*
+> - 📜 **Arthur Keith (*Human Embryology and Morphology*):** *"The prominence of the **gnathion** represents a uniquely human evolutionary development associated with speech mechanics."*

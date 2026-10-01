@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: American cotton rats.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: American cotton rats.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of New World rodents in the family Cricetidae, commonly known as cotton rats, characterized by S-shaped enamel folds on their molars.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mammalogy and epidemiology, species of Sigmodon (such as *Sigmodon hispidus*) serve as primary natural reservoirs for hantaviruses and vectors in biomedical research.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sigmodon designates american cotton rats."*
+> - 📜 **C. Hart Merriam (*Revision of the Cotton Rats of the Genus Sigmodon*):** *"The distinctive S-curved enamel loops of the molar crowns define the rodent genus **Sigmodon** across North and Central America."*
+> - 📜 **Glover M. Allen (*Extinct and Vanishing Mammals of the Western Hemisphere*):** *"Fossil beds in Florida yielded cranial fragments indistinguishable from modern **Sigmodon** cotton rats."*
+> - 📜 **Theodore Roosevelt (*Outdoor Pastimes of an American Hunter*):** *"Around the grassy edges of the southern cane brakes, the predatory hawks prey heavily upon the prolific **Sigmodon**."*

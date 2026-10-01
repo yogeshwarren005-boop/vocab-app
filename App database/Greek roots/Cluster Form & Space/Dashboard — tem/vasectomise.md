@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Remove the vas deferens.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove the vas deferens.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To perform a vasectomy on; to render sterile by surgical excision of part of the vas deferens (chiefly Commonwealth spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In urological surgery, the procedure severs and occludes the bilateral ductus deferentes to prevent spermatozoa from entering the ejaculatory stream.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, vasectomise designates remove the vas deferens."*
+> - 📜 **Havelock Ellis (*Studies in the Psychology of Sex*):** *"Early advocates proposed to **vasectomise** individuals for therapeutic purposes rather than purely for contraception."*
+> - 📜 **Julian Huxley (*Essays of a Biologist*):** *"Surgeons who **vasectomise** experimental mammals observe that endocrine interstitial cell activity remains unaffected."*
+> - 📜 **Marie Stopes (*Contraception: Its Theory, History and Practice*):** *"To **vasectomise** the male partner provides a permanent, simple alternative to complex female sterilization procedures."*

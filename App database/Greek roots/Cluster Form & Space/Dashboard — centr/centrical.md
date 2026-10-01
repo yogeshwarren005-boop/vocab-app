@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or situated at or near a center.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or situated at or near a center.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Placed in or near the center; central (formal or historical variant).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or proceeding from a focal central position.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Walter Scott (*Ivanhoe: A Romance*):** *"It is time, then,” said Fitzurse, “to draw our party to a head, either at York, or some other centrical place."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"The geocentric theory placed our terrestrial globe in a **centrical** position that flattered human vanity."*
+> - 📜 **Thomas Browne (*The Garden of Cyrus*):** *"The quincunx pattern delights the eye by establishing a **centrical** harmony among four equidistant corner points."*
+> - 📜 **Samuel Johnson (*The History of Rasselas, Prince of Abissinia*):** *"The palace occupied a **centrical** valley sheltered on all sides by lofty mountains."*

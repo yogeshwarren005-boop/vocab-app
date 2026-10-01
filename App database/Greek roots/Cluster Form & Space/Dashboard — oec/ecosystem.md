@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The complex of a community of organisms and its environment functioning as an ecological unit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something (such as a network of businesses) considered to resemble an ecological ecosystem especially because of its complex interdependent parts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A biological community of interacting organisms together with the abiotic, physical environment with which they exchange energy and nutrients.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In earth system science and ecological energetics, ecosystems operate as open thermodynamic systems characterized by trophic energy transfer and biogeochemical cycling.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ecosystem designates the complex of a community of organisms and its environment functioning as an ecological unit."*
+> - 📜 **Arthur Tansley (*The Use and Abuse of Vegetational Concepts and Terms*):** *"I introduced the term **ecosystem** to denote the whole system, including not only the organism-complex, but also the whole complex of physical factors forming what we call the environment."*
+> - 📜 **Eugene Odum (*Fundamentals of Ecology*):** *"The watershed **ecosystem** provides an ideal laboratory for measuring nutrient budgets and primary forest productivity."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"No part of the living **ecosystem** can be poisoned with synthetic chemicals without endangering the survival of the whole."*

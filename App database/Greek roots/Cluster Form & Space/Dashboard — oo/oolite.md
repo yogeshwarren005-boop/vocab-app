@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A rock consisting of small round grains usually of calcium carbonate cemented together.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rock consisting of small round grains usually of calcium carbonate cemented together.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sedimentary rock composed predominantly of ooids, small spherical grains with concentric layers of calcium carbonate cemented together.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In stratigraphy and building-stone geology, oolite formations such as the Portland Stone and Bath Stone have been quarried since Roman times for architectural use.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oolite designates a rock consisting of small round grains usually of calcium carbonate cemented together."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The great **oolite** formation extends across much of southern England, yielding excellent building stone."*
+> - 📜 **William Smith (*Strata Identified by Organized Fossils*):** *"The **oolite** strata are readily distinguishable by their characteristic granular texture and fossil content."*
+> - 📜 **Robert L. Folk (*Petrology of Sedimentary Rocks*):** *"True **oolite** requires that more than half the grains be concentrically laminated ooids of sand size."*

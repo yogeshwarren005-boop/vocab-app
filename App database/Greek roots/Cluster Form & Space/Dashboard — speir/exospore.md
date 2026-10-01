@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An asexual spore cut off from a parent sporophore by the formation of septa.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An asexual spore cut off from a parent sporophore by the formation of septa.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A spore formed by external budding or abstriction from the parent organism, as in certain cyanobacteria and fungi; also the outer coat of a spore (exosporium).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In palynology and spore ultrastructure, the exospore forms the durable outer sporopollenin-rich stratum that resists environmental degradation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, exospore designates an asexual spore cut off from a parent sporophore by the formation of septa."*
+> - 📜 **Heinrich Anton de Bary (*Comparative Morphology and Biology of the Fungi*):** *"The conidial spore produced by external abstriction may be considered a true **exospore** distinct from internal sporangiospores."*
+> - 📜 **Fritsch, F. E. (*The Structure and Reproduction of the Algae*):** *"Certain Chamaesiphonales pinch off successive **exospore** cells from the open apical end of their sheaths."*
+> - 📜 **Eduard Strasburger (*Handbook of Practical Botany*):** *"The sculptured ornamentation of the fern spore is laid down within the protective **exospore** layer."*

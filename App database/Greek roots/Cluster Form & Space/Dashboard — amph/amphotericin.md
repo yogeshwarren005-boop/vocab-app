@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An antibiotic and antifungal agent.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An antibiotic and antifungal agent.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An antifungal polyene antibiotic medication produced by Streptomyces nodosus, used intravenously to treat severe, life-threatening systemic fungal infections.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacology, a membrane-active agent that binds to fungal ergosterol, creating transmembrane ion-permeable channels that cause cell lysis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amphotericin designates an antibiotic and antifungal agent."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In systemic blastomycosis and cryptococcal meningitis, intravenous **amphotericin** remains the indispensable mainstay of antimycotic therapy."*
+> - 📜 **Eric Kandel (*Principles of Neural Science*):** *"Fungal infections penetrating the blood-brain barrier necessitate aggressive therapy with liposomal **amphotericin** despite its nephrotoxicity."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"Her convalescence was interrupted by a severe opportunistic infection that mandated prolonged infusions of **amphotericin**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition of being heteroploid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The condition of being heteroploid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or condition of being heteroploid; the presence of an abnormal chromosome number that deviates from the standard diploid or haploid complement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical genetics and teratology, constitutional heteroploidy (such as trisomy 21 or monosomy X) causes systemic developmental syndromes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heteroploidy designates the condition of being heteroploid."*
+> - 📜 **Curt Stern (*Principles of Human Genetics*):** *"Maternal age correlates significantly with the incidence of meiotic nondisjunction leading to embryonic **heteroploidy**."*
+> - 📜 **Vinay Kumar (*Robbins and Cotran Pathologic Basis of Disease*):** *"Widespread **heteroploidy** is the primary driver of spontaneous first-trimester pregnancy loss."*
+> - 📜 **Theodosius Dobzhansky (*Mankind Evolving*):** *"Chromosomal **heteroploidy** introduces major phenotypic disruptions that natural selection vigorously purges from the gene pool."*

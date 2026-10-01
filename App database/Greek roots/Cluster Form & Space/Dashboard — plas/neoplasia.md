@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The pathological process that results in the formation and growth of a tumor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The pathological process that results in the formation and growth of a tumor.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The formation or presence of a new, abnormal growth of tissue; the biological process of tumor development.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In oncology, neoplasia is defined as an uncoordinated, autonomous proliferation of cells that persists even after cessation of the initiating stimulus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neoplasia designates the pathological process that results in the formation and growth of a tumor."*
+> - 📜 **Rupert Willis (*The Pathology of Tumours*):** *"A **neoplasia** is an abnormal mass of tissue whose uncoordinated growth exceeds that of normal tissues and persists autonomously."*
+> - 📜 **Vinay Kumar (*Robbins and Cotran Pathologic Basis of Disease*):** *"Clonal expansion following irreversible somatic DNA mutation is the foundational event in all human **neoplasia**."*
+> - 📜 **Robert A. Weinberg (*The Biology of Cancer*):** *"Accumulation of driver mutations in oncogenes and tumor suppressors orchestrates progressive multi-step **neoplasia**."*

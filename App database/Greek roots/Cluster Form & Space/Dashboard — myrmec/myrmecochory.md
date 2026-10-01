@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek myrmec.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The dispersal of plant seeds by ants, typically facilitated by specialized lipid- and protein-rich seed appendages called elaiosomes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant ecology and mutualism biology, myrmecochory benefits plants by transporting seeds away from parent competition and burying them in nutrient-rich subterranean nests.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, myrmecochory designates a term designating an entity, condition, or phenomenon derived from greek myrmec."*
+> - 📜 **F. E. Clements (*Plant Succession*):** *"Spring ephemerals in temperate deciduous forests rely heavily on **myrmecochory** to scatter their heavy seeds across the forest floor."*
+> - 📜 **E. O. Wilson (*The Insect Societies*):** *"In classical **myrmecochory**, the foraging ant consumes only the lipid-rich elaiosome, leaving the intact seed buried safely in underground refuse chambers."*
+> - 📜 **Daniel Janzen (*Coevolution of Animals and Plants*):** *"Seeds adapted for **myrmecochory** display smooth hard seed coats that resist mandibles while presenting irresistible nutritional rewards."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The developmental formation of cavities or ducts in plant tissues through the enzymatic breakdown and complete dissolution of cells.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant anatomy and secretory histology, lysigenous spaces (such as the citrus rind oil glands) contrast with schizogenous cavities produced by intercellular separation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lysigeny designates a term designating an entity, condition, or phenomenon derived from greek ly."*
+> - 📜 **Katherine Esau (*Plant Anatomy*):** *"The essential oil cavities in the peel of citrus fruit develop by true **lysigeny**, as entire groups of secretory cells break down."*
+> - 📜 **Arthur J. Eames (*An Introduction to Plant Anatomy*):** *"In contrast to schizogeny, **lysigeny** involves the total disintegration of protoplasts and cell walls to form open internal reservoirs."*
+> - 📜 **Ray F. Evert (*Esau's Plant Anatomy*):** *"Ultrastructural studies confirm that **lysigeny** requires localized autolytic enzymes that digest surrounding parenchyma."*

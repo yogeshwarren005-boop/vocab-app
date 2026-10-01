@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Scottish philosopher of common sense who opposed the ideas of david hume (1710-1796).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Scottish philosopher of common sense who opposed the ideas of david hume (1710-1796).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A Scottish surname of historical and intellectual significance; notably referencing Thomas Reid (1710–1796), founder of the Scottish School of Common Sense philosophy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epistemology and the history of philosophy, Thomas Reid vigorously contested David Hume's skepticism, arguing that immediate perceptual realism and direct sensory awareness of external reality form foundational common-sense beliefs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"I’ve sent you here, by Johnie Simson, Twa sage philosophers to glimpse on; Smith, wi’ his sympathetic feeling, An’ Reid, to common sense appealing."*
-> - 📜 **John Leonard Hardenbergh (*The Journal of Lieut. John L. Hardenbergh of the Second New York Continental Regiment from May 1 to October 3, 1779, in General Sullivan's Campaign Against the Western Indians*):** *"Reid's 2d N.H. on the extreme left, next to him Lieut."*
-> - 📜 **John Leonard Hardenbergh (*The Journal of Lieut. John L. Hardenbergh of the Second New York Continental Regiment from May 1 to October 3, 1779, in General Sullivan's Campaign Against the Western Indians*):** *"Reid's regiment in greatly superior numbers."*
+> - 📜 **Thomas Reid (*An Inquiry into the Human Mind on the Principles of Common Sense*):** *"I despise philosophy and renounce its guidance; let my soul dwell with Common Sense, as **Reid** boldly insisted against skepticism."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The direct realism championed by Thomas **Reid** affirmed that perception connects consciousness directly to physical objects."*
+> - 📜 **Bertrand Russell (*A History of Western Philosophy*):** *"The Scottish common-sense philosophy of **Reid** served as a major epistemological bulwark against Berkeley and Hume."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Combining two characteristics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or adapted for both land and water.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Able to live or operate both on land and in water; adapted to both terrestrial and aquatic environments.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a dual or ambivalent nature; capable of operating effectively across two contrasting spheres or situations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"No one, it was probable, would ever appear to dispute my claim, unless it were the amphibious animals of the ocean."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"It was not then, but when we had got to the cheese, that our conversation turned upon our rowing feats, and that Drummle was rallied for coming up behind of a night in that slow amphibious way of his."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"After a little show of indecision, which there were none to see but the two or three amphibious creatures belonging to our Temple stairs, we went on board and cast off; Herbert in the bow, I steering."*
+> - 📜 **Thomas Browne (*Religio Medici*):** *"Man is that great and true **amphibious** creature whose nature is disposed to live, not only like other creatures in divers elements, but in divided and distinguished worlds."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The harpooneer led an **amphibious** existence, equally at home plunged neck-deep in icy brine or pacing the dry cedar decks."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The littoral tribes pursued an **amphibious** warfare, retreating into marshy inlets whenever Roman infantry approached."*

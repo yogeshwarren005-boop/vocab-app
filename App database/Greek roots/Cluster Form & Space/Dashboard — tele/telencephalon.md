@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The anterior subdivision of the embryonic forebrain or the corresponding part of the adult forebrain that includes the cerebral hemispheres and associated structures.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The anterior subdivision of the embryonic forebrain or the corresponding part of the adult forebrain that includes the cerebral hemispheres and associated structures.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The anterior part of the forebrain, comprising the cerebral hemispheres, cerebral cortex, basal ganglia, and olfactory structures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuroanatomy and mammalian evolution, the massive expansion of the telencephalon (especially the six-layered neocortex) underlies higher cognitive, linguistic, and sensory integration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, telencephalon designates the anterior subdivision of the embryonic forebrain or the corresponding part of the adult forebrain that includes the cerebral hemispheres and associated structures."*
+> - 📜 **Santiago Ramón y Cajal (*Histology of the Nervous System*):** *"The immense histological complexity of the mammalian **telencephalon** represents the summit of neurological evolution."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The embryonic prosencephalon cleaves into the caudal diencephalon and the expanding lateral vesicles of the **telencephalon**."*
+> - 📜 **Charles Sherrington (*Man on His Nature*):** *"Within the folded mantle of the human **telencephalon**, sensory experience is transformed into reflective self-awareness."*

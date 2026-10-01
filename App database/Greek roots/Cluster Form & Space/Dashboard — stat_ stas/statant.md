@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Standing on four feet.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Standing on four feet.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In heraldry, describing a beast (such as a lion or stag) depicted standing in profile with all four feet placed firmly on the ground.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In armorial iconography, a lion statant differs from a lion rampant (rearing) or passant (walking with one paw raised), conveying calm majesty and steadfast territorial defense.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, statant designates standing on four feet."*
+> - 📜 **Walter Scott (*Ivanhoe*):** *"Upon his shield was blazoned a golden lion **statant** upon a field of azure, signifying steadfast resolve."*
+> - 📜 **Arthur Conan Doyle (*The White Company*):** *"The squire bore the ancient cognisance of his house, a stag **statant** beneath an oak tree."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"Ancient heraldic emblems, from eagles displayed to lions **statant**, were torn down in the republican fury."*

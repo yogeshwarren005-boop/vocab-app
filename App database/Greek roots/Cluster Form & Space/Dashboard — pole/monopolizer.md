@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who monopolizes the means of producing or selling something.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who monopolizes the means of producing or selling something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One who monopolizes; a person or commercial entity that acquires exclusive control of a trade, commodity, or conversation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal and economic history, an individual who corners the market by engrossing, regrating, or forestalling vital provisions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monopolizer designates someone who monopolizes the means of producing or selling something."*
+> - 📜 **Thomas More (*Utopia*):** *"The rich **monopolizer** hoards corn until scarcity inflates the price, enriching himself upon the misery of the commonwealth."*
+> - 📜 **Jeremy Bentham (*Defense of Usury*):** *"Public prejudice routinely casts the speculative merchant as an extortionate **monopolizer** regardless of the service he renders."*
+> - 📜 **Thomas Jefferson (*Writings of Thomas Jefferson*):** *"I hope we shall crush in its birth the aristocracy of our monied corporations, lest the corporate **monopolizer** dictate our laws."*

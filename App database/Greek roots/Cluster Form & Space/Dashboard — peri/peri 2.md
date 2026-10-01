@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek peri.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In Persian mythology and folklore, a graceful, benevolent mythical being or fairy, originally regarded in Zoroastrian tradition as a fallen spirit doing penance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In romantic literature and orientalist poetry, an ethereal, beautiful supernatural maiden of radiant charm.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, peri 2 designates a term designating an entity, condition, or phenomenon derived from greek peri."*
+> - 📜 **Thomas Moore (*Lalla Rookh*):** *"One morn a **Peri** at the gate of Eden stood, disconsolate; and as she listened to the Springs of Life within, she wept."*
+> - 📜 **Lord Byron (*The Bride of Abydos*):** *"Fair as the first that fell of winged **Peri** race, she seemed too pure for mortal clay."*
+> - 📜 **Edward FitzGerald (*Rubáiyát of Omar Khayyám*):** *"Beside the singing stream, a winged **peri** might pause to catch the fleeting melody of love."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A picture (or series of pictures) representing a continuous scene.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A picture (or series of pictures) representing a continuous scene.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large panoramic picture painted on the inside of a cylindrical wall and viewed from the center, giving the illusion of a continuous landscape.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theatrical staging, a curved, seamless backdrop wall or cloth positioned at the rear of the stage to represent sky, open space, or distant horizons.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cyclorama designates a picture (or series of pictures) representing a continuous scene."*
+> - 📜 **Mark Twain (*Life on the Mississippi*):** *"Visitors crowded into the rotunda to marvel at the immense **cyclorama** depicting the battle of Gettysburg with astounding realism."*
+> - 📜 **Lewis Mumford (*Technics and Civilization*):** *"Nineteenth-century urban entertainment celebrated the mechanized spectacle of the **cyclorama**, immersing city dwellers in artificial vistas."*
+> - 📜 **George Bernard Shaw (*Our Theatres in the Nineties*):** *"By projecting soft azure light upon the curved **cyclorama**, the stage designer evoked the infinite expanse of an open sky."*

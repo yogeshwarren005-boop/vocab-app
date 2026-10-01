@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mapping of a mathematical set (such as a group, ring, or vector space) into or onto another set or itself in such a way that the result obtained by applying the operations to elements of the first set is mapped onto the result obtained by applying the corresponding operations to their respective images in the second set.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mapping of a mathematical set (such as a group, ring, or vector space) into or onto another set or itself in such a way that the result obtained by applying the operations to elements of the first set is mapped onto the result obtained by applying the corresponding operations to their respective images in the second set.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A structure-preserving mapping between two algebraic structures of the same type (such as groups, rings, or vector spaces) that commutes with operations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In universal algebra and category theory, the kernel of a group homomorphism determines a normal subgroup, yielding fundamental isomorphism theorems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, homomorphism designates a mapping of a mathematical set (such as a group, ring, or vector space) into or onto another set or itself in such a way that the result obtained by applying the operations to elements of the first set is mapped onto the result obtained by applying the corresponding operations to their respective images in the second set."*
+> - 📜 **Emmy Noether (*Abstrakter Aufbau der Idealtheorie*):** *"Every ideal in a ring defines a canonical **homomorphism** whose kernel coincides precisely with that ideal."*
+> - 📜 **Saunders Mac Lane (*Categories for the Working Mathematician*):** *"A functor between categories generalises the concept of a **homomorphism** between groups, preserving composition and identities."*
+> - 📜 **Nathan Jacobson (*Basic Algebra*):** *"The first isomorphism theorem states that the image of a group **homomorphism** is isomorphic to the quotient by its kernel."*

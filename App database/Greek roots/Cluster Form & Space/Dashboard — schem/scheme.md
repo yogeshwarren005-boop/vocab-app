@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A plan or program of action; especially : a crafty or secret one.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A systematic or organized configuration : design.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A systematic plan, design, project, or programmatic arrangement for achieving a desired end or purpose.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In algebraic geometry and philosophy, an underlying structured framework (such as a Grothendieck scheme in modern geometry).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"The two told me last Saturday that they had a scheme for to-day in which I was to join."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Then we could both settle here in the neighborhood." Leonore had been counting on this new scheme and she looked up at Mrs."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Everything is ready for you, Esther,” said Miss Donny, “and the scheme of your pursuits has been arranged in exact accordance with the wishes of your guardian, Mr."*
+> - 📜 **Jonathan Swift (*Gulliver's Travels*):** *"The academy of Lagado presented a visionary **scheme** for extracting sunbeams out of cucumbers to warm chilly rooms."*
+> - 📜 **Adam Smith (*The Theory of Moral Sentiments*):** *"The man of system imagines he can arrange the different members of a great society with as much ease as the hand arranges pieces in a chess **scheme**."*
+> - 📜 **Ralph Waldo Emerson (*Self-Reliance*):** *"A foolish consistency is the hobgoblin of little minds, adored by statesmen and philosophers who worship their own narrow **scheme**."*

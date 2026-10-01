@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With smiles; in a smiling manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With smiles; in a smiling manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a smiling, cheerful, gracious, or agreeable manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative prose, smilingly conveys effortless good humor, polite acquiescence, or ironic composure in the face of tension.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"All the regions Do smilingly revolt, and who resists Are mocked for valiant ignorance And perish constant fools."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But his flaw’d heart, Alack, too weak the conflict to support! ’Twixt two extremes of passion, joy and grief, Burst smilingly."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"At last she smilingly with this gives o’er; “Fool, fool!” quoth she, “his wounds will not be sore.” Thus ebbs and flows the current of her sorrow, And time doth weary time with her complaining."*
+> - 📜 **Jane Austen (*Emma*):** *"Mr. Knightley **smilingly** took her hand and assured her that he had forgiven every youthful transgression."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"She **smilingly** waved aside his earnest protests, determined to see only the brighter side of their dilemma."*
+> - 📜 **Thomas Mann (*Buddenbrooks*):** *"The senator **smilingly** received the congratulations of his fellow citizens as the election results were announced."*

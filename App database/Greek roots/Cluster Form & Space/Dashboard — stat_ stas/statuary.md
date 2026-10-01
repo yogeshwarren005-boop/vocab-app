@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Statues collectively.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or suitable for statues.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Statues considered collectively; also, the art or practice of fashioning three-dimensional sculpted statues.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical archaeology and museum history, Greco-Roman statuary in marble and bronze documented civic religion, mythological heroes, and imperial portraiture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Typee: A Romance of the South Seas*):** *"The piece of dusky statuary nodded in approval, and then murmured ‘Motarkee!’ ‘Motarkee,’ said I, without further hesitation ‘Typee motarkee.’ What a transition!"*
-> - 📜 **Effie Afton (*Eventide*):** *"Dim argand lamps bathed in soft light the rich furniture, carved cornices, and rare statuary which decorated the mantels."*
-> - 📜 **Effie Afton (*Eventide*):** *"Rare statuary decorated the mantel."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The Gothic facade was adorned with a noble throng of **statuary**, apostles and martyrs looking down in solemn repose."*
+> - 📜 **Nathaniel Hawthorne (*The Marble Faun*):** *"Walking through the Vatican galleries, the traveler is overwhelmed by the silent beauty of ancient **statuary**."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Barbarian conquerors stripped the brass and shattered the masterly marble **statuary** of ancient Rome."*

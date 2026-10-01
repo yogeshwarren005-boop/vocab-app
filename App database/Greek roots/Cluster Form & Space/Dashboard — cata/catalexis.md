@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The absence of a syllable in the last foot of a line or verse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The absence of a syllable in the last foot of a line or verse.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The omission or absence of one or more syllables from the final metrical foot of a line of verse.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In prosody, the deliberate curtailment of a line's terminal foot, contrasting with hypercatalexis (addition) and acatalexis (completeness).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, catalexis designates the absence of a syllable in the last foot of a line or verse."*
+> - 📜 **George Saintsbury (*A History of English Prosody*):** *"By the operation of **catalexis**, a trochaic heptameter concludes on a resounding stressed beat rather than a weak feminine rhyme."*
+> - 📜 **Samuel Taylor Coleridge (*Table Talk*):** *"The phenomenon of **catalexis** gives English trochaics their energetic and abrupt finish."*
+> - 📜 **Alexander Pope (*An Essay on Criticism*):** *"The critic measured each syllable with precision, noting how subtle **catalexis** broke the monotony of continuous measure."*

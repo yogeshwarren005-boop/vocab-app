@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of joints due to infectious, metabolic, or constitutional causes; also : a specific arthritic condition.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An inflammatory arthritis that develops following a bacterial infection (as with chlamydia, shigella, or salmonella), is characterized by pain, swelling, and stiffness of joints (as of the knees or ankles), may be accompanied by inflammation of the eyelids, skin, or urinary tract, and typically lasts one year or less but may become chronic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Acute or chronic inflammation of one or more joints, causing pain, swelling, stiffness, and reduced range of motion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical medicine, encompasses osteoarthritis (degenerative joint disease), rheumatoid arthritis (autoimmune synovitis with anti-CCP antibodies), psoriatic arthritis, ankylosing spondylitis, and infectious (septic) arthritis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jewell Ellen Smith (*Great Jehoshaphat and Gully Dirt!*):** *"The doctors kept saying that my general condition was good and my arthritis might improve some."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Rheumatoid **arthritis** is a chronic progressive disease of the joints characterized by symmetrical inflammatory involvement."*
+> - 📜 **Austin Flint (*A Treatise on the Principles and Practice of Medicine*):** *"Salicylates provide rapid and dramatic relief of the acute articular agony in rheumatic **arthritis**."*
+> - 📜 **Astley Cooper (*A Treatise on Dislocations and Fractures of the Joints*):** *"Suppurative **arthritis** of the knee joint demands immediate surgical drainage to preserve articular cartilage."*

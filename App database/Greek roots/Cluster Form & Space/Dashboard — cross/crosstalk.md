@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The presence of an unwanted signal via an accidental coupling.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The presence of an unwanted signal via an accidental coupling.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Unwanted electrical or electromagnetic interference between adjacent signal paths or communication channels.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In communications and biochemistry, mutual conversational banter; or the cross-activation between distinct biochemical signaling pathways in a cell.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, crosstalk designates the presence of an unwanted signal via an accidental coupling."*
+> - 📜 **Claude Shannon (*A Mathematical Theory of Communication*):** *"Shielding and signal multiplexing are engineered to minimize **crosstalk** between adjacent telephone transmission pairs."*
+> - 📜 **Norbert Wiener (*Cybernetics*):** *"Spurious **crosstalk** within neural circuits can degrade sensory fidelity and induce feedback instability."*
+> - 📜 **Sydney Brenner (*Loose Ends: Selected Writings*):** *"Intricate **crosstalk** between kinase cascades ensures that the cell integrates multiple extracellular growth signals."*

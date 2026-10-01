@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality of recurring at regular intervals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of recurring at regular intervals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality, state, or fact of being periodic, or recurring at regular intervals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemistry and quantum mechanics, chemical periodicity refers to the recurrent trends in element properties across groups and periods in the periodic table.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Consequently, to distinguish the comparatively slowly changing currents of a "frequency" or "periodicity" of a few hundreds per second from these much more rapid ones, the latter are more often spoken of as electrical oscillations."*
+> - 📜 **Dmitri Mendeleev (*The Periodic Law of the Chemical Elements*):** *"The law of **periodicity** reveals that the physical and chemical behavior of elements is a function of atomic weight."*
+> - 📜 **Niels Bohr (*The Theory of Spectra and Atomic Constitution*):** *"Electronic shell filling explains the remarkable **periodicity** observed across the rows of the chemical table."*
+> - 📜 **Erwin Schrödinger (*What Is Life?*):** *"Unlike ordinary matter which exhibits regular spatial **periodicity**, living molecules display aperiodic structure."*

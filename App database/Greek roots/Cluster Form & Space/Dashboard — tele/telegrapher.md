@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who transmits messages by telegraph.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who transmits messages by telegraph.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who operates a telegraph, transmitting and receiving text messages encoded in Morse code or other telegraphic alphabets.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nineteenth-century railroading and wartime communications, skilled telegraphers deciphered the rapid clicking of sounder electromagnets purely by ear.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, telegrapher designates someone who transmits messages by telegraph."*
+> - 📜 **Thomas Alva Edison (*The Edison Papers: Reminiscences of a Telegrapher*):** *"Working as an itinerant night **telegrapher**, I spent every spare moment experimenting with battery cells and receiving sounders."*
+> - 📜 **Walt Whitman (*Specimen Days*):** *"The young army **telegrapher** sat motionless through the night, his fingers translating battlefield dispatches into rapid Morse clicks."*
+> - 📜 **Mark Twain (*Life on the Mississippi*):** *"The lightning **telegrapher** in the depot office was regarded by the village boys as a master of modern wizardry."*

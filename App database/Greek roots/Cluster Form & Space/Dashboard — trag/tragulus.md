@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the tragulidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the tragulidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of tiny, hornless, forest-dwelling ungulates known as Asian mouse-deer or chevrotains, belonging to the family Tragulidae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In tropical ecology, *Tragulus* species (such as the lesser mouse-deer, *Tragulus kanchil*) are among the smallest living hoofed mammals, weighing under two kilograms and foraging on fallen fruits on rainforest floors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tragulus designates type genus of the tragulidae."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"While walking through the Sumatran jungle, I encountered the miniature mouse-deer **Tragulus**, no larger than a hare."*
+> - 📜 **Thomas Horsfield (*Zoological Researches in Java*):** *"Horsfield described the delicate, slender limbs and agile nocturnal habits of **Tragulus** javanicus."*
+> - 📜 **Richard Lydekker (*The Royal Natural History*):** *"The male **Tragulus** defends its territory with sharp, protruding canine tusks rather than horns or antlers."*

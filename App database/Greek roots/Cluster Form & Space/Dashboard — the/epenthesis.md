@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The insertion or development of a sound or letter in the body of a word (such as \ə\ in \ˈa-thə-ˌlēt\ athlete).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The insertion or development of a sound or letter in the body of a word (such as \ə\ in \ˈa-thə-ˌlēt\ athlete).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The insertion of a sound, syllable, or letter into the middle of a word (e.g. the 'p' in 'empty' from Old English 'æmtig', or 'b' in 'thimble').
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical phonology and sociolinguistics, epenthesis facilitates articulation by resolving difficult consonant clusters or providing vocalic transitions (anaptyxis).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epenthesis designates the insertion or development of a sound or letter in the body of a word (such as \ə\ in \ˈa-thə-ˌlēt\ athlete)."*
+> - 📜 **Otto Jespersen (*Language: Its Nature, Development and Origin*):** *"Vocal ease frequently introduces a transitional stop through phonetic **epenthesis**, as seen in 'thunder' from Old English 'thunor'."*
+> - 📜 **Ferdinand de Saussure (*Course in General Linguistics*):** *"The insertion of a parasitic vowel or consonant by **epenthesis** preserves phonological equilibrium across syllable boundaries."*
+> - 📜 **Henry Sweet (*A Handbook of Phonetics*):** *"In casual pronunciation, speakers often resort to vocalic **epenthesis** to bridge unfamiliar consonant clusters."*

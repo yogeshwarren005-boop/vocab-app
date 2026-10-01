@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A desire for heterosexual intimacy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A desire for heterosexual intimacy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Sexual desire, arousal, excitement, or passionate venereal indulgence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical history and sexology, the sphere of erotic pleasures and acts governed by the cult and iconography of Aphrodite.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aphrodisia designates a desire for heterosexual intimacy."*
+> - 📜 **Michel Foucault (*The Use of Pleasure (The History of Sexuality)*):** *"In classical Greek ethics, **aphrodisia** encompassed the entire spectrum of desires, pleasures, and sexual acts requiring prudent self-mastery."*
+> - 📜 **Robert Burton (*The Anatomy of Melancholy*):** *"Excess of rich wine and luxurious feasting kindle sudden **aphrodisia** in minds prone to romantic frenzy."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The decadent rites of Syrian temples celebrated unbounded **aphrodisia** under the guise of religious worship."*

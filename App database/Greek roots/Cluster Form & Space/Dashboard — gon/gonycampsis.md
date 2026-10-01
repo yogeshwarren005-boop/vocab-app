@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek gon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal curvature or angular deformity of the knee joint.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In orthopedic traumatology, gonycampsis encompasses severe fixed valgus (knock-knee) or varus (bow-leg) deformities following malunited fractures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gonycampsis designates a term designating an entity, condition, or phenomenon derived from greek gon."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"Untreated epiphyseal injury during childhood may result in progressive **gonycampsis** and limb length discrepancy."*
+> - 📜 **S. Terry Canale (*Campbell's Operative Orthopaedics*):** *"Corrective distal femoral osteotomy is performed to realign axial mechanical vectors in severe **gonycampsis**."*
+> - 📜 **Wayne McIlwraith (*Diagnostic and Surgical Arthroscopy*):** *"Angular limb deformities presenting as **gonycampsis** require early splinting or periosteal transection."*

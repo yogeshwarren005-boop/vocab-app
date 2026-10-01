@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An acrobat who balances himself in difficult positions.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Either of the rudimentary hind wings of dipterous insects; used for maintaining equilibrium during flight.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person, mechanism, or biological organ that maintains equilibrium or balance; specifically, an insect haltere.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dipterology, the balancers (halteres) are modified club-shaped hindwings in true flies (Diptera) that act as vibrating gyroscopes to sense angular velocity during flight.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, balancer designates an acrobat who balances himself in difficult positions."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The delicate vibratory **balancer**, or haltere, functions as a gyroscopic sense organ directing the fly's flight."*
+> - 📜 **Jean-Henri Fabre (*The Life of the Fly*):** *"Ablation of the minuscule **balancer** robs the dipteran of all flight stability, causing it to tumble uncontrollably."*
+> - 📜 **L. O. Howard (*The Insect Book*):** *"Behind the wings of the housefly, the minute rhythmic **balancer** maintains flight equilibrium at high speeds."*

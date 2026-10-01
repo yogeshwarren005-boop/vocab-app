@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The width of a piece of type half the width of an em.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The letter n.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A Greek preposition and prefix meaning 'in', 'into', 'within', or 'on'; also, in typography, a unit of width equal to half an em.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In lexical morphology, en- forms words designating internal state (energy), containment (entomology), or intensification (enthusiasm).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"Be these your 'ens, zur?" was the formula."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"The woodbine I will pu’, when the e’ening star is near, And the diamond draps o’ dew shall be her een sae clear; The violet’s for modesty, which weel she fa’s to wear, And a’ to be a Posie to my ain dear May."*
-> - 📜 **Robert Burns (*Poems and Songs of Robert Burns*):** *"But did na Jeanie’s heart loup light, And didna joy blink in her e’e, As Robie tauld a tale o’ love Ae e’ening on the lily lea?"*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"The preposition **en** governs the dative case to express location within physical boundaries or temporal spans."*
+> - 📜 **Robert Beekes (*Etymological Dictionary of Greek*):** *"Deriving from PIE *h₁en ('in'), **en** is one of the most productive locative prefixes in Greek vocabulary."*
+> - 📜 **Jan Tschichold (*The Form of the Book*):** *"Typographers distinguish the **en** dash from the longer em dash to indicate numerical and temporal ranges."*

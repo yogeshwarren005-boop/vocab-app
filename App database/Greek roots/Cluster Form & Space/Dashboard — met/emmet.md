@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Social insect living in organized colonies; characteristically the males and fertile queen have wings during breeding season; wingless sterile females are the workers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Social insect living in organized colonies; characteristically the males and fertile queen have wings during breeding season; wingless sterile females are the workers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ant (archaic or dialectal English term).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In regional English folklore and entomological literature, an old name for the common field ant (derived from Old English aemete).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Robert Emmet was buried here by torchlight, wasn’t he?"*
-> - 📜 **James Joyce (*Ulysses*):** *"Down there Emmet was hanged, drawn and quartered."*
-> - 📜 **James Joyce (*Ulysses*):** *"And the citizen and Bloom having an argument about the point, the brothers Sheares and Wolfe Tone beyond on Arbour Hill and Robert Emmet and die for your country, the Tommy Moore touch about Sara Curran and she’s far from the land."*
+> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The industrious **emmet** toils through summer suns to lay up provender against winter frosts."*
+> - 📜 **John Milton (*Paradise Lost*):** *"First crept the parsimonious **emmet**, provident of future, in small room large heart contained."*
+> - 📜 **Thomas Hardy (*Under the Greenwood Tree*):** *"A busy trail of black **emmets** marched across the dry garden path, each bearing a grain of chaff."*

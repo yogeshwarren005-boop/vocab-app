@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek orth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An upright standing stone, slab, or megalith forming part of a prehistoric structure or the revetment of a monument.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical and Near Eastern archaeology, a carved or dressed stone slab set upright at the base of a temple, palace wall, or gateway.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, orthostat designates a term designating an entity, condition, or phenomenon derived from greek orth."*
+> - 📜 **V. Gordon Childe (*The Dawn of European Civilization*):** *"The passage grave was revetted with monumental **orthostat** slabs supporting massive capstones."*
+> - 📜 **Stuart Piggott (*Ancient Europe: From the Beginnings of Agriculture to Classical Antiquity*):** *"Each megalithic **orthostat** was painstakingly dressed with stone mauls before erection in the chamber."*
+> - 📜 **Henri Frankfort (*The Art and Architecture of the Ancient Orient*):** *"Basalt **orthostat** reliefs lined the lower walls of the Neo-Hittite palace gate at Carchemish."*

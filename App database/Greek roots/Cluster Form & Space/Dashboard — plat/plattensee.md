@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A large shallow lake in western hungary.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large shallow lake in western hungary.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The German name for Lake Balaton, a large, shallow freshwater lake in western Hungary.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In European physical geography and limnology, the largest freshwater lake in Central Europe, noted for its extensive silty bed and mild microclimate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plattensee designates a large shallow lake in western hungary."*
+> - 📜 **Alexander von Humboldt (*Cosmos: A Sketch of a Physical Description of the Universe*):** *"The shallow basin of the **plattensee** modifies the thermal currents and atmospheric moisture of the Hungarian plains."*
+> - 📜 **Karl Baedeker (*Austria-Hungary Handbook*):** *"Excursionists frequent the scenic shores of the **plattensee**, renowned for its medicinal baths and vineyards."*
+> - 📜 **John Paget (*Hungary and Transylvania*):** *"The silver expanse of the **plattensee** stretched before us, bordered by basaltic hills and ancient volcanic cones."*

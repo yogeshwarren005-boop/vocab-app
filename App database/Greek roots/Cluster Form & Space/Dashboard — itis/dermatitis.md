@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the skin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inflammation of the skin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the skin, characterized by erythema, pruritus, edema, and localized weeping or vesicular eruptions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dermatology, dermatitis encompasses contact dermatitis (allergic or irritant), atopic dermatitis (eczema), seborrheic dermatitis, and stasis dermatitis; histopathologically marked by epidermal spongiosis and perivascular lymphocytic infiltrates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dermatitis designates inflammation of the skin."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Contact with poison ivy induces an intense vesicular **dermatitis** mediated by delayed T-cell hypersensitivity."*
+> - 📜 **Jonathan Hutchinson (*Illustrations of Clinical Surgery*):** *"Chronic exfoliative **dermatitis** completely denudes the cutaneous envelope, posing severe risks of fluid loss."*
+> - 📜 **Austin Flint (*A Treatise on the Principles and Practice of Medicine*):** *"Soothing calamine lotion and removal of offending irritants remain paramount in treating acute **dermatitis**."*

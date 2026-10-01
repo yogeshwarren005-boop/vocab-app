@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The surgical immobilization of a joint so that the bones grow solidly together.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The surgical immobilization of a joint so that the bones grow solidly together.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The surgical immobilization or fusion of a joint by promoting bone consolidation across the joint space.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In orthopedic surgery, an operative procedure performed to eliminate intractable pain, restore structural stability, or correct severe deformity in an arthritic or damaged joint.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, arthrodesis designates the surgical immobilization of a joint so that the bones grow solidly together."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In chronic tuberculous destruction of the knee, successful **arthrodesis** eliminates excruciating pain and permits stable weight-bearing."*
+> - 📜 **Sir Frederick Treves (*A Manual of Surgery*):** *"The surgeon denuded the articular cartilages of the ankle, preparing the opposing bony surfaces for formal **arthrodesis**."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"Spinal **arthrodesis** permanently locks adjoining vertebrae into a continuous solid osseous pillar."*

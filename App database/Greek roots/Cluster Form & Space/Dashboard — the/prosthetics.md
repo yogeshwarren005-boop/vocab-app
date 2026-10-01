@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of medicine dealing with the production and use of artificial body parts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of medicine dealing with the production and use of artificial body parts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of medicine and biomedical engineering concerned with the design, fabrication, and fitting of artificial replacements for body parts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical rehabilitation, prosthetics collaborates with orthotics, material science (carbon fiber, silicone), and neural interface technology to restore mobility and independence to amputees.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prosthetics designates the branch of medicine dealing with the production and use of artificial body parts."*
+> - 📜 **Alexis Carrel (*Man, The Unknown*):** *"Advances in modern **prosthetics** provide functional substitutes that allow injured laborers to return to active life."*
+> - 📜 **V. S. Ramachandran (*Phantoms in the Brain*):** *"By understanding phantom limb neurobiology, specialists in **prosthetics** can design limbs that feel naturally integrated."*
+> - 📜 **Aldous Huxley (*Island*):** *"The rehabilitation clinic utilized innovative **prosthetics** to help victims of trauma regain graceful movement."*

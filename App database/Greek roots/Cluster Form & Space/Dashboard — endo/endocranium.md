@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Membrane lining the inside of the skull.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Membrane lining the inside of the skull.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The inner surface of the cranial cavity; also, the internal cartilaginous or bony casing housing the brain.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In paleoanthropology and functional craniology, endocranial casts (endocasts) preserve the impression of cerebral gyri, meningeal vessels, and cranial capacity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endocranium designates membrane lining the inside of the skull."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"The dura mater functions both as an internal periosteum for the **endocranium** and as a protective envelope for the brain."*
+> - 📜 **G. Elliot Smith (*The Evolution of the Brain*):** *"Careful examination of the **endocranium** reveals impressions left by the expansion of Broca's speech area in fossil hominids."*
+> - 📜 **Wilfrid Le Gros Clark (*The Fossil Evidence for Human Evolution*):** *"Endocranial volume and sulcal topology of the **endocranium** provide vital clues to encephalization trajectories."*

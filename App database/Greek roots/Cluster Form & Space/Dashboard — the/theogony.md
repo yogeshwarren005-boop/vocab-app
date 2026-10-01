@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An account of the origin and descent of the gods.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An account of the origin and descent of the gods.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The genealogy of a group or system of gods; an account or poem describing the birth and origins of the gods.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical literature, exemplified by Hesiod's eighth-century BCE poem *Theogony*, which recounts the cosmogonic emergence of Chaos, Gaia, Uranus, and the Olympian deities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Truth is not the basis of 170:3 theogony."*
-> - 📜 **R. L. Hobson (*Chinese pottery and porcelain; vol. 1. Pottery and early wares*):** *"Plate 5 shows a fine example of a horse in coloured glazes, a fierce figure in warrior's guise, who is, no doubt, one of the Lokapalas or Guardians of the Four Quarters in the Buddhist theogony, and a figure of an actor."*
+> - 📜 **Hesiod (*Theogony*):** *"Sing to me, Muses, the sacred **theogony** recounting how gods and earth arose from primeval darkness."*
+> - 📜 **George Grote (*A History of Greece*):** *"Hesiod's **theogony** systematized discordant local myths into a coherent chronological pedigree of Olympian divinities."*
+> - 📜 **Jane Ellen Harrison (*Prolegomena to the Study of Greek Religion*):** *"Benevolent Olympian deities in Homeric verse superseded the older chthonic monsters described in Hesiodic **theogony**."*

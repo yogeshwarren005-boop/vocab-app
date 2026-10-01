@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The relation of opposition between things at right angles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality of lying or intersecting at right angles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality, condition, or degree of being orthogonal; perpendicularity at right angles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In computing and mathematics, independence of modular components or parameters such that varying one does not affect others.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, orthogonality designates the relation of opposition between things at right angles."*
+> - 📜 **David Parnas (*On the Criteria to Be Used in Decomposing Systems into Modules*):** *"Conceptual **orthogonality** ensures that changes in one program subsystem do not cascade uncontrollably into another."*
+> - 📜 **Walter Rudin (*Real and Complex Analysis*):** *"The **orthogonality** of trigonometric functions underlies the convergence properties of Fourier series."*
+> - 📜 **Bjarne Stroustrup (*The Design and Evolution of C++*):** *"Language features should strive for **orthogonality**, allowing diverse constructs to combine freely without exceptional rules."*

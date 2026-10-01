@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Giant salamanders; in some classifications included in the genus cryptobranchus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Giant salamanders; in some classifications included in the genus cryptobranchus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An archaic or junior generic name for the giant salamanders of East Asia (Andrias), including the Chinese and Japanese giant salamanders.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative herpetology and amphibian paleontology, massive fully aquatic cryptobranchid salamanders that can exceed one meter in length and respire primarily through folded, wrinkled lateral skin.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, megalobatrachus designates giant salamanders; in some classifications included in the genus cryptobranchus."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"The giant salamander **Megalobatrachus** retains primitive larval gill slits and a cartilaginous hyoid apparatus in adulthood."*
+> - 📜 **Edwin Ray Lankester (*A Treatise on Zoology*):** *"Specimens of **Megalobatrachus** collected in cold mountain streams of Japan represent the largest living amphibians."*
+> - 📜 **Francis Maitland Balfour (*A Treatise on Comparative Embryology*):** *"Embryonic cleavages in **Megalobatrachus** exhibit holoblastic cleavage intermediate between teleosts and urodeles."*

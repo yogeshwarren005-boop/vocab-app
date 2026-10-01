@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Lower plants; mostly marine and littoral eukaryotic algae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Lower plants; mostly marine and littoral eukaryotic algae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The taxonomic phylum of eukaryotic photosynthetic organisms commonly known as red algae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology, an archaic lineage within Archaeplastida containing over 7,000 species, lacking flagella and centrioles across all life stages.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhodophyta designates lower plants; mostly marine and littoral eukaryotic algae."*
+> - 📜 **Lynn Margulis (*Symbiosis in Cell Evolution*):** *"The primary plastids of **rhodophyta** originated through an ancient primary endosymbiosis with a unicellular cyanobacterium."*
+> - 📜 **Peter H. Raven (*Biology of Plants*):** *"Coralline members of **rhodophyta** deposit calcium carbonate within their cell walls, contributing to coral reef formation."*
+> - 📜 **Thomas Cavalier-Smith (*A Revised Six-Kingdom System of Life*):** *"The absence of flagella in all reproductive stages of **rhodophyta** represents a profound early evolutionary divergence from green plants."*

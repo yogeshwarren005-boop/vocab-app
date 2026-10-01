@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Usually coiled.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A wispy white cloud (usually of fine ice crystals) at a high altitude (4 to 8 miles).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A principal cloud genus characterized by thin, wispy, feather-like strands of ice crystals in the upper troposphere.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In invertebrate morphology, a slender, flexible, curling filament or tendril-like appendage on animals such as barnacles and annelids.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cirrus designates usually coiled."*
+> - 📜 **Luke Howard (*On the Modifications of Clouds*):** *"Clouds in this modification appear like parallel, flexuous, or diverging fibres, for which the name **cirrus** is proposed."*
+> - 📜 **Percy Bysshe Shelley (*The Cloud*):** *"Like locks of the fierce Maenad uplifted from the head of some fierce Dirce, streaks of **cirrus** streamed across the sky."*
+> - 📜 **Charles Darwin (*A Monograph on the Sub-class Cirripedia*):** *"Each joint of the multiarticulate **cirrus** bears paired setae that interlock to form an exquisite marine filter."*

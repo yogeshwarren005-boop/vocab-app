@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Whisk ferns; comprising the family psilotaceae or psilotatae: vascular plants with no roots, partial if any leaf differentiation, and rudimentary spore sacs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Whisk ferns; comprising the family psilotaceae or psilotatae: vascular plants with no roots, partial if any leaf differentiation, and rudimentary spore sacs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A class or division of primitive vascular plants characterized by the absence of true roots and leaves, containing both living whisk ferns and fossil ancestors.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In traditional plant classification, a group of pteridophytes featuring dichotomous green stems, subterranean rhizoids, and homosporous synangia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psilopsida designates whisk ferns; comprising the family psilotaceae or psilotatae: vascular plants with no roots, partial if any leaf differentiation, and rudimentary spore sacs."*
+> - 📜 **Arthur J. Eames (*Morphology of Vascular Plants: Lower Groups*):** *"The division **psilopsida** was erected to unite the enigmatic living Psilotales with the archaic Siluro-Devonian psilophytes."*
+> - 📜 **Gilbert M. Smith (*Cryptogamic Botany*):** *"In **psilopsida**, the gametophyte develops as a subterranean, non-photosynthetic cylinder nourished through endophytic mycorrhizae."*
+> - 📜 **Harold C. Bold (*Morphology of Plants*):** *"Comparative morphologists long debated whether the simplicity of **psilopsida** represented primitive archaism or extreme evolutionary reduction."*

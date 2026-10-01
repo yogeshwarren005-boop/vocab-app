@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of fix.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of fix.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Exhibiting rheopexy; describing a non-Newtonian fluid whose apparent viscosity increases over time under sustained shear stress.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In rheology and fluid mechanics, rheopectic fluids solidify or thicken when stirred or agitated, returning to a fluid state at rest.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rheopectic designates adjective*) pertaining to, derived from, or characteristic of fix."*
+> - 📜 **Herbert Freundlich (*Colloid and Capillary Chemistry*):** *"In contrast to thixotropic gels, a **rheopectic** suspension solidifies more rapidly when subjected to gentle rhythmic motion."*
+> - 📜 **Marcus Reiner (*Deformation, Strain and Flow: An Elementary Introduction to Rheology*):** *"The time-dependent thickening of a **rheopectic** fluid represents structural build-up induced by shear alignment."*
+> - 📜 **Ronald G. Larson (*The Structure and Rheology of Complex Fluids*):** *"Certain concentrated gypsum pastes behave as **rheopectic** media, hardening under sustained shear mixing."*

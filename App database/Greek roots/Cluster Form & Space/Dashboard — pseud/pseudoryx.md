@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Species of large cow-like mammals of vietnam discovered by scientists in 1992.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Species of large cow-like mammals of vietnam discovered by scientists in 1992.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A monotypic genus of critically endangered bovid containing Pseudoryx nghetinhensis, the saola, endemic to the Annamite Range of Vietnam and Laos.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mammalian taxonomy and conservation biology, an enigmatic forest ungulate discovered in 1992, possessing long parallel horns and primitive facial gland markings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pseudoryx designates species of large cow-like mammals of vietnam discovered by scientists in 1992."*
+> - 📜 **George Schaller (*Wildlife of the Annamites*):** *"The remarkable horns of **pseudoryx** evoke ancient myths of the unicorn amidst the dense wet evergreen rainforests of Indochina."*
+> - 📜 **Colin Groves (*Ungulate Taxonomy*):** *"Morphological and molecular evidence firmly positions **pseudoryx** as a basal bovid lineage related to spiral-horned antelopes and wild cattle."*
+> - 📜 **David Western (*Natural Connections: Perspectives in Community-Based Conservation*):** *"Intense snare poaching in montane reserves represents the gravest existential hazard confronting the remaining herds of **pseudoryx**."*

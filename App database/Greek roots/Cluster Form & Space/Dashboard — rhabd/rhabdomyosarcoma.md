@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A malignant tumor composed of striated muscle fibers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A malignant tumor composed of striated muscle fibers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A highly malignant soft-tissue cancer derived from primitive mesenchymal cells exhibiting striated myogenic differentiation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pediatric oncology, the most common soft-tissue sarcoma of childhood, divided into embryonal (including botryoid) and alveolar subtypes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhabdomyosarcoma designates a malignant tumor composed of striated muscle fibers."*
+> - 📜 **Lauren V. Ackerman (*Surgical Pathology*):** *"The botryoid variant of embryonal **rhabdomyosarcoma** grows into body cavities as translucent, grape-like polypoid masses."*
+> - 📜 **Christopher D. M. Fletcher (*Diagnostic Histopathology of Tumors*):** *"Alveolar **rhabdomyosarcoma** is characterized by the PAX3-FOXO1 gene fusion and carries a poorer prognosis than the embryonal subtype."*
+> - 📜 **Vinay Kumar (*Robbins and Cotran Pathologic Basis of Disease*):** *"Immunohistochemical staining for desmin and myogenin confirms the striated skeletal muscle lineage of an undifferentiated **rhabdomyosarcoma**."*

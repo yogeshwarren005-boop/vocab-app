@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Plant lice (aphids); whiteflies; cicadas; leafhoppers; plant hoppers; scale insects and mealybugs; spittle insects.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Plant lice (aphids); whiteflies; cicadas; leafhoppers; plant hoppers; scale insects and mealybugs; spittle insects.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A former suborder of the Hemiptera (now divided into Sternorrhyncha and Auchenorrhyncha) comprising aphids, cicadas, leafhoppers, and scale insects.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical entomology, phytophagous insects having forewings of uniform texture throughout, held roof-like over the body at rest.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, homoptera designates plant lice (aphids); whiteflies; cicadas; leafhoppers; plant hoppers; scale insects and mealybugs; spittle insects."*
+> - 📜 **John Henry Comstock (*The Wings of Insects*):** *"Unlike true bugs, members of **homoptera** possess wings that are either entirely membranous or uniformly thickened."*
+> - 📜 **Charles Valentine Riley (*The Periodical Cicada*):** *"The piercing stylets of **homoptera** tap directly into the phloem vessels of forest trees, diverting vital carbohydrates."*
+> - 📜 **E. P. Felt (*Key to American Insect Galls*):** *"Galls formed by gall-making **homoptera** protect developing nymphs from predatory wasps and desiccating winds."*

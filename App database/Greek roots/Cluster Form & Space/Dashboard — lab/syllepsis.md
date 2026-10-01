@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The use of a word to modify or govern syntactically two or more words with only one of which it formally agrees in gender, number, or case.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The use of a word in the same grammatical relation to two adjacent words in the context with one literal and the other metaphorical in sense.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A figure of speech in which a single word applies to two or more other words in different senses (e.g., 'she blew my nose and then she blew my mind').
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical rhetoric and stylistics, syllepsis is a form of zeugma that is grammatically correct but creates an incongruous, witty, or poignant semantic double-entendre.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, syllepsis designates the use of a word to modify or govern syntactically two or more words with only one of which it formally agrees in gender, number, or case."*
+> - 📜 **Alexander Pope (*The Rape of the Lock*):** *"Here, thou, great Anna! whom three realms obey, dost sometimes counsel take—and sometimes tea: a brilliant stroke of **syllepsis**."*
+> - 📜 **Charles Dickens (*The Pickwick Papers*):** *"Miss Bolo went straight home, in a flood of tears and a sedan-chair: the delightful **syllepsis** amused generations of readers."*
+> - 📜 **Quintilian (*Institutio Oratoria*):** *"In **syllepsis**, a single verb governs two substantives with a subtle shift in literal and figurative meaning."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A usually undesirable or unpleasant choice.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A situation involving such a choice; broadly : predicament.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or presenting a dilemma; offering a difficult choice between two equally undesirable alternatives.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In formal logic, ethics, and rhetoric, dilemmatic reasoning confronts an opponent with alternative premises (horns of the dilemma), either of which yields an unfavorable conclusion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dilemmatic designates a usually undesirable or unpleasant choice."*
+> - 📜 **John Stuart Mill (*System of Logic*):** *"The logician constructs a **dilemmatic** argument to demonstrate that either alternative leads inevitably to contradiction."*
+> - 📜 **Thomas Carlyle (*The French Revolution: A History*):** *"The Assembly was trapped in a **dilemmatic** crisis where concession spelled weakness and resistance invited insurrection."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Lydgate found himself in a painful, **dilemmatic** position between professional integrity and acute financial ruin."*

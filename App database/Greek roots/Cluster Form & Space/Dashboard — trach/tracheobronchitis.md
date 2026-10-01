@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Common respiratory infection characterized by inflammation of the trachea and the bronchi.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Common respiratory infection characterized by inflammation of the trachea and the bronchi.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation involving both the trachea and the bronchial airways.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In respiratory medicine, acute infectious tracheobronchitis is marked by retrosternal burning discomfort, productive purulent cough, and rhonchi, frequently triggered by respiratory syncytial virus, adenovirus, or *Bordetella*.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tracheobronchitis designates common respiratory infection characterized by inflammation of the trachea and the bronchi."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In elderly and debilitated patients, acute **tracheobronchitis** may rapidly progress to fatal bronchopneumonia."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Autopsies of acute **tracheobronchitis** reveal hyperemic mucosal swelling accompanied by dense neutrophilic exudation."*
+> - 📜 **Michael DeBakey (*The Living Body*):** *"Post-operative pulmonary toilet is essential to prevent atelectasis secondary to mucous plugging in **tracheobronchitis**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek oesophag.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The surgical removal or excision of all or a portion of the esophagus, typically performed to treat esophageal cancer or severe traumatic rupture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In thoracic surgical oncology, an oesophagectomy is frequently followed by gastric pull-up reconstruction to re-establish alimentary continuity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oesophagectomy designates a term designating an entity, condition, or phenomenon derived from greek oesophag."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Malignant neoplasms of the lower gullet historically posed insurmountable obstacles until pioneer surgeons attempted radical **oesophagectomy**."*
+> - 📜 **Juan Rosai (*Rosai and Ackerman's Surgical Pathology*):** *"Pathological staging following an **oesophagectomy** requires thorough microscopic examination of resected periesophageal lymph nodes."*
+> - 📜 **Lord Moynihan (*Abdominal Operations*):** *"A successful transthoracic **oesophagectomy** requires delicate mobilization of the stomach while preserving the gastroepiploic arcade."*

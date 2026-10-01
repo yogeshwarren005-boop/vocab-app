@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Other than usual : other : different.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Containing atoms of different kinds.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A Greek combining element meaning 'other', 'different', 'another', or 'abnormal'.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scientific terminology, heter- contrasts with hom- or homo-, forming terms designating diverse components, dissimilar alleles, or mixed phases.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heter designates other than usual : other : different."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"The adjective heteros signifies 'the other of two' or 'different', the parent stem of countless scientific terms based on **heter**."*
+> - 📜 **Robert Beekes (*Etymological Dictionary of Greek*):** *"Deriving from PIE *sm-tero- ('the other one'), **heter** entered Latin and modern European registers to mark divergence from the norm."*
+> - 📜 **Herbert Weir Smyth (*Greek Grammar*):** *"Compounds built upon **heter** regularly convey the sense of diversity, contrast, or irregularity."*

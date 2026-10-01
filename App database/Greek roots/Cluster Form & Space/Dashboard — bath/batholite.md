@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large mass of intrusive igneous rock believed to have solidified deep within the earth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large mass of intrusive igneous rock believed to have solidified deep within the earth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A variant spelling of batholith: a colossal mass of intrusive igneous rock solidified deep within the earth's crust.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical geology and petrology, an extensive discordant plutonic body, typically granitic, exposed across vast eroded terrains.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, batholite designates large mass of intrusive igneous rock believed to have solidified deep within the earth."*
+> - 📜 **Archibald Geikie (*Text-book of Geology*):** *"The core of the mountain chain is composed of a granitic **batholite** that crystallized at enormous crustal depths."*
+> - 📜 **James Dwight Dana (*Manual of Geology*):** *"Erosion of the overlying sedimentary strata revealed the immense dimensions of the underlying crystalline **batholite**."*
+> - 📜 **Charles Lyell (*Elements of Geology*):** *"Surrounding strata are baked and recrystallized by thermal contact with the rising molten **batholite**."*

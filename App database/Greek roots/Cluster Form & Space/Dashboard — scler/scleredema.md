@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek scler.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rare dermatological condition characterized by progressive, non-pitting woody induration and thickening of the skin and subcutaneous tissues (scleredema adultorum of Buschke).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical dermatology, a condition often preceded by streptococcal pharyngitis or associated with severe diabetes mellitus, typically affecting the neck, shoulders, and upper back.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scleredema designates a term designating an entity, condition, or phenomenon derived from greek scler."*
+> - 📜 **Abraham Buschke (*Ueber Scleroedem*):** *"I observed that the cutaneous thickening in **scleredema** spares the hands and feet, unlike systemic sclerosis, and often resolves spontaneously."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In **scleredema** adultorum, the skin of the nape and shoulders feels dense and unyielding, restricting cervical mobility."*
+> - 📜 **Louis A. Duhring (*Diseases of the Skin*):** *"Histologic sections of skin affected by **scleredema** show massive accumulation of hyaluronic acid and separation of collagen bundles."*

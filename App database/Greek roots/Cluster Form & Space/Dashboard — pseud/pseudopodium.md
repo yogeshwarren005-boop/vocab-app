@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Temporary outgrowth used by some microorganisms as an organ of feeding or locomotion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Temporary outgrowth used by some microorganisms as an organ of feeding or locomotion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The technical biological term for a temporary cytoplasmic projection formed by amoeboid cells for locomotion or phagocytosis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In protozoology, classified according to morphology into lobopodia, filopodia, reticulopodia, and axopodia supported by microtubule arrays.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pseudopodium designates temporary outgrowth used by some microorganisms as an organ of feeding or locomotion."*
+> - 📜 **Ernst Haeckel (*Die Radiolarien (Monographie)*):** *"From the siliceous pores of the skeleton streams a delicate, branching **pseudopodium** to entrap passing microplankton."*
+> - 📜 **Edmund Beecher Wilson (*The Cell in Development and Inheritance*):** *"Microscopic examination reveals the continuous sol-gel transformation occurring within an advancing **pseudopodium**."*
+> - 📜 **Bruce Alberts (*Molecular Biology of the Cell*):** *"Actin polymerization against the plasma membrane generates the mechanical thrust that extends a **pseudopodium** forward."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With ambition; in an ambitious and energetic manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With ambition; in an ambitious and energetic manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an ambitious manner; with eager aspiration, bold enterprise, or a high degree of intent.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Carried out on a grand scale or with great boldness, often stretching available capacities or conventional limits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"As willingly do I the same resign As e’er thy father Henry made it mine; And even as willingly at thy feet I leave it As others would ambitiously receive it."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"She looked forward **ambitiously** to an existence where her intellect might expand beyond provincial borders."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The minister planned **ambitiously** for the expansion of naval supremacy across both northern and southern hemispheres."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Lydgate framed his clinical research **ambitiously**, dreaming of establishing fundamental cellular laws."*

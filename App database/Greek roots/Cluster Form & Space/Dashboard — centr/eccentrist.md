@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek centr.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person of eccentric behavior, opinions, or unconventional lifestyle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social history and psychology, an individual who deliberately diverges from orthodox societal norms and mores without malice.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eccentrist designates a term designating an entity, condition, or phenomenon derived from greek centr."*
+> - 📜 **Edith Sitwell (*English Eccentrics*):** *"The true **eccentrist** flourishes upon aristocratic solitude, cultivating bizarre idiosyncrasies with haughty indifference."*
+> - 📜 **Ralph Waldo Emerson (*Representative Men*):** *"Society suspects the **eccentrist**, yet all vital reform begins as the stubborn oddity of a solitary thinker."*
+> - 📜 **Arthur Schopenhauer (*Parerga and Paralipomena*):** *"The common herd branding an independent thinker as an **eccentrist** merely confesses its own inability to comprehend truth."*

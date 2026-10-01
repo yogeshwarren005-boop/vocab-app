@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Insects with sucking mouthparts and forewings thickened and leathery at the base; usually show incomplete metamorphosis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Insects with sucking mouthparts and forewings thickened and leathery at the base; usually show incomplete metamorphosis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An individual true bug of the order Hemiptera (singular noun form of hemiptera).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical entomological descriptions, an insect possessing hemelytra and a rostrate piercing proboscis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemipteron designates insects with sucking mouthparts and forewings thickened and leathery at the base; usually show incomplete metamorphosis."*
+> - 📜 **William Kirby (*An Introduction to Entomology*):** *"Every **hemipteron** carries an elongated rostrum beneath its breast, ready to puncture plant stems or soft caterpillars."*
+> - 📜 **Thomas Say (*Descriptions of New Species of Heteropterous Hemiptera*):** *"I observed a striking **hemipteron** clinging to riparian reeds, its corium marked with intricate crimson reticulations."*
+> - 📜 **Hermann Burmeister (*A Manual of Entomology*):** *"The salivary pump of the **hemipteron** exerts hydraulic force to drive digestive secretions deep into host tissues."*

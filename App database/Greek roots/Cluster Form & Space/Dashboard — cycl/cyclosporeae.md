@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In more recent classifications superseded by the order fucales.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In more recent classifications superseded by the order fucales.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A former taxonomic group or order of brown algae (Phaeophyceae) characterized by producing gametes in conceptacles without a free-living gametophyte generation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic phycology, an order including rockweeds (Fucales) possessing cyclic reproductive life histories where the diploid plant produces eggs and antherozoids directly.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cyclosporeae designates in more recent classifications superseded by the order fucales."*
+> - 📜 **William Gilson Farlow (*The Marine Algae of New England*):** *"The division **Cyclosporeae** unites rockweeds whose reproductive cells develop within specialized pit-like conceptacles."*
+> - 📜 **Adolf Engler (*Syllabus der Pflanzenfamilien*):** *"In **Cyclosporeae**, the alternation of generations is completely suppressed, the diploid plant giving rise directly to gametes."*
+> - 📜 **John Merle Coulter (*Morphology of Gymnosperms and Cryptogams*):** *"Fertilization in the **Cyclosporeae** occurs freely in open sea water when the gametes are expelled from the conceptacle."*

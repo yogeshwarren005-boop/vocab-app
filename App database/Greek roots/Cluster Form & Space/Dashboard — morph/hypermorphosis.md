@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek morph.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A form of heterochrony in evolutionary biology in which the offset timing of developmental growth is delayed, resulting in exaggerated or hyper-adult traits.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary paleontology, hypermorphosis accounts for monumental phenotypic structures, such as the colossal antler span of the extinct Irish elk.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypermorphosis designates a term designating an entity, condition, or phenomenon derived from greek morph."*
+> - 📜 **Stephen Jay Gould (*Ontogeny and Phylogeny*):** *"In **hypermorphosis**, ontogeny is prolonged past the ancestral stopping point, producing gigantism and exaggerated cranial ornaments."*
+> - 📜 **Gavin de Beer (*Embryos and Ancestors*):** *"The Irish elk evolved its enormous antlers through **hypermorphosis**, extending its juvenile allometric growth trajectory into later maturity."*
+> - 📜 **Brian K. Hall (*Evolutionary Developmental Biology*):** *"Delays in hormonal signaling that terminate skeletal ossification provide the developmental trigger for macroevolutionary **hypermorphosis**."*

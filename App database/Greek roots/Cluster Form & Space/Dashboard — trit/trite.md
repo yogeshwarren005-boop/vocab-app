@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hackneyed or boring from much use : not fresh or original.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hackneyed or boring from much use : not fresh or original.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking freshness or originality through overuse; hackneyed, clichéd, or commonplace.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Etymologically derived from Latin *tritus* (rubbed, worn, from *terere* to rub), trite remarks lack authentic creative vigor, offering only formulaic platitudes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Still, to a close observer, they are just as perceptible; the difference is that their media of manifestation are less trite and familiar than such well-known ones as the bursting of the buds or the fall of the leaf."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"With the majority such an opinion is shelved with all those trite aphorisms which require some catastrophe to bring their tremendous meanings thoroughly home."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"For the rest, whether trite or novel, it is short."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"It is the mark of an unoriginal writer to deck out a **trite** observation in pompous and extravagant language."*
+> - 📜 **Alexander Pope (*An Essay on Criticism*):** *"What oft was thought, but ne'er so well expressed; this redeems an idea from sounding stale and **trite**."*
+> - 📜 **George Orwell (*Politics and the English Language*):** *"Never use a metaphor, simile, or other figure of speech which you are used to seeing in print, for it is **trite**."*

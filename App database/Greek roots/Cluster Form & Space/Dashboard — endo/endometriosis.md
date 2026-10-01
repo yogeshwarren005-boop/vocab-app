@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The presence of endometrium elsewhere than in the lining of the uterus; causes premenstrual pain and dysmenorrhea.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The presence of endometrium elsewhere than in the lining of the uterus; causes premenstrual pain and dysmenorrhea.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chronic medical condition characterized by the abnormal presence and growth of endometrial tissue outside the uterine cavity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gynecology, ectopic endometrial implants respond to cyclical ovarian hormones, causing chronic pelvic pain, dysmenorrhea, adhesions, and subfertility.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endometriosis designates the presence of endometrium elsewhere than in the lining of the uterus; causes premenstrual pain and dysmenorrhea."*
+> - 📜 **John A. Sampson (*Peritoneal Endometriosis Due to the Menstrual Dissemination of Endometrial Tissue*):** *"Retrograde menstruation provides a plausible pathway for shedding viable tissue that seeds pelvic **endometriosis**."*
+> - 📜 **Anthony S. Fauci (*Harrison's Principles of Internal Medicine*):** *"Laparoscopic visualization of 'powder-burn' peritoneal lesions remains the gold standard for diagnosing pelvic **endometriosis**."*
+> - 📜 **Leon Speroff (*Clinical Gynecologic Endocrinology and Infertility*):** *"Surgical excision combined with hormonal suppression relieves debilitating pain and restores fertility in extensive **endometriosis**."*

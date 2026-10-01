@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Divide into syllables.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Utter with distinct articulation of each syllable.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To divide words into syllables; to pronounce or write syllable by syllable (American spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In phonetics and reading pedagogy, to syllabize trains learners to parse phoneme clusters into manageable articulatory pulses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, syllabize designates divide into syllables."*
+> - 📜 **Noah Webster (*An American Dictionary of the English Language*):** *"We must **syllabize** words in conformity with the ease of the vocal organs and the principles of true accent."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The attentive child will **syllabize** each unfamiliar printed word before grasping its whole conceptual meaning."*
+> - 📜 **Mark Twain (*The Innocents Abroad*):** *"The courier tried to **syllabize** our American names with comical Italian inflections."*

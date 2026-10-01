@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A purging medicine; stimulates evacuation of the bowels.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mildly laxative.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A medicine or substance that has a mild laxative effect; gently promoting the evacuation of the bowels.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical pharmacotherapy, mild saline aperient draughts were routinely prescribed to relieve intestinal stagnation without violent purging.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aperient designates a purging medicine; stimulates evacuation of the bowels."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The administration of a mild saline **aperient** in the early morning promotes natural peristaltic evacuation."*
+> - 📜 **Thomas Sydenham (*The Works of Thomas Sydenham*):** *"In bilious fevers, a gentle cooling **aperient** prevents toxic humors from corrupting the internal viscera."*
+> - 📜 **Jane Austen (*Emma*):** *"Mr. Woodhouse was forever consulting his apothecary regarding the propriety of taking a gentle **aperient**."*

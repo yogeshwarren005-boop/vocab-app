@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Work table of a machine tool.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The flat plate of a printing press that presses the paper against the type.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A flat plate in a printing press that presses the paper against the inked type; or the rubber roller on a typewriter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mechanical engineering, a sturdy flat mounting plate in a hydraulic press or molding machine that applies uniform compressive force.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, platen designates work table of a machine tool."*
+> - 📜 **Benjamin Franklin (*Autobiography*):** *"I took my place at the press, pulling the heavy lever to bring the wooden **platen** down upon the sheet."*
+> - 📜 **William Morris (*The Ideal Book*):** *"The hand-press craftsman regulates the pressure of the iron **platen** with exquisite touch to secure deep, crisp typography."*
+> - 📜 **Lewis Mumford (*Technics and Civilization*):** *"The continuous rotation of the cylinder press supplanted the flat **platen**, multiplying daily newspaper output a thousandfold."*

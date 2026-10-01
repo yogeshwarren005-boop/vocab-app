@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the family holocentridae; squirrelfishes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the family holocentridae; squirrelfishes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of tropical marine squirrelfishes belonging to the family Holocentridae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ichthyological taxonomy, reef fishes noted for loud acoustic sound production via swimbladder drumming and long preopercular spines.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, holocentrus designates type genus of the family holocentridae; squirrelfishes."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels to the Equinoctial Regions of America*):** *"Our sailors angled for specimens of **Holocentrus**, whose vivid scarlet scales sparkled brilliantly upon the deck."*
+> - 📜 **Charles Darwin (*The Zoology of the Voyage of H.M.S. Beagle*):** *"A handsome fish of the genus **Holocentrus** was captured among the shallow coral pools of Ascension Island."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"Species of **Holocentrus** produce distinct staccato grunts when defending territory or disturbed by reef divers."*

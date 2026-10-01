@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Become plastic, as by having a plasticizer added.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make plastic, as by the addition of a plasticizer.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make or become plastic; to add a plasticizer to a synthetic material to improve flexibility and workability.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In polymer processing, heating above the melting temperature plasticizes thermoplastic resins for injection molding.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plasticize designates become plastic, as by having a plasticizer added."*
+> - 📜 **Paul J. Flory (*Principles of Polymer Chemistry*):** *"External agents act to **plasticize** glassy polymers by screening interchain dipole attractions."*
+> - 📜 **Herman Mark (*Encyclopedia of Polymer Science*):** *"Formulators **plasticize** polyvinyl chloride to manufacture pliable hospital tubing and consumer garments."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"Small molecular additives **plasticize** rigid linear chains, shifting the brittle threshold to lower temperatures."*

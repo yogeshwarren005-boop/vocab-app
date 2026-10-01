@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek cephal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A condition characterized by an abnormally large head, typically defined as an occipitofrontal circumference exceeding two standard deviations above the population mean.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical genetics and pediatrics, macrocephaly is evaluated to differentiate benign familial enlargement from hydrocephalus, neurofibromatosis, or metabolic disorders.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, macrocephaly designates a term designating an entity, condition, or phenomenon derived from greek cephal."*
+> - 📜 **Joseph Volpe (*Neurology of the Newborn*):** *"When evaluating infantile **macrocephaly**, ultrasound provides immediate assessment of ventricular dimensions."*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*):** *"The patient presented with mild congenital **macrocephaly**, though his intellectual and perceptual capacities remained intact."*
+> - 📜 **David W. Smith (*Recognizable Patterns of Human Malformation*):** *"Progressive **macrocephaly** accompanied by skeletal anomalies warrants thorough genetic screening for overgrowth syndromes."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A reference work (often in several volumes) containing articles on various topics (often arranged in alphabetical order) dealing with the entire range of human knowledge or with some particular specialty.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A reference work (often in several volumes) containing articles on various topics (often arranged in alphabetical order) dealing with the entire range of human knowledge or with some particular specialty.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A comprehensive reference work containing articles on all branches of knowledge or covering comprehensively a particular discipline; an encyclopedia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of scholarship, a systematic work designed to encompass the complete circle of human education and enlightenment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"Black to prepare the Index to the ninth edition of the _Encyclopaedia Britannica_, then in course of publication."*
-> - 📜 **James George Frazer (*Balder the Beautiful, Volume I.*):** *"James Hastings's _Encyclopaedia of Religion and Ethics_ iii. (Edinburgh, 1910) _s.v._ "Calendar (Muslim)," pp. 126 _sq._ However, L."*
-> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"But there is no literary public in England for anything except newspapers, primers, and encyclopaedias."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"A well-ordered **encyclopaedia** should trace the living branches of knowledge back to their common trunk in natural philosophy."*
+> - 📜 **Denis Diderot (*Encyclopédie*):** *"The ultimate aim of an **encyclopaedia** is to gather the knowledge scattered over the surface of the earth, so that our descendants may become more virtuous and happy."*
+> - 📜 **Samuel Johnson (*The Adventurer*):** *"The compiler of an **encyclopaedia** undertakes the laborious duty of making wisdom accessible to common understanding."*

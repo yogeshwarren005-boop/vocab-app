@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Like a comb.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Like a comb.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling a comb; having narrow, close-set, parallel projections like the teeth of a comb.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human cardiac anatomy, the pectinate muscles (musculi pectinati) form parallel muscular ridges on the inner walls of the atria and auricles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pectinate designates like a comb."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"The internal surface of the right auricle presents prominent muscular ridges termed **pectinate** muscles, resembling the teeth of a comb."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Certain insect antennae exhibit a beautifully **pectinate** design that increases olfactory surface area for sensing pheromones."*
+> - 📜 **Arthur Keith (*Human Embryology and Morphology*):** *"The primitive cardiac atrium displays prominent **pectinate** trabeculations derived from embryonic spongiform myocardium."*

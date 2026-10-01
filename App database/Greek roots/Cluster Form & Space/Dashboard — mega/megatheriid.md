@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A large extinct ground sloth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large extinct ground sloth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any extinct ground sloth belonging to the family Megatheriidae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mammalian phylogenetics, giant Pleistocene xenarthrans featuring hypsodont bilophodont cheek teeth, specialized plantigrade or pedolateral foot postures, and browsing diets.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, megatheriid designates a large extinct ground sloth."*
+> - 📜 **Edward Drinker Cope (*The Vertebrata of the Tertiary Formations of the West*):** *"Every true **megatheriid** possessed prismatic, ever-growing molariform teeth with transverse crests of hard dentin."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The skeletal density of this **megatheriid** fossil explains its remarkable preservation in river gravels."*
+> - 📜 **William Henry Flower (*An Introduction to the Osteology of the Mammalia*):** *"The caudal vertebrae of the **megatheriid** bore massive chevron bones, forming a sturdy tripod with the hind feet."*

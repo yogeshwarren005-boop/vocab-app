@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek gnath.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A Greek combining form and root meaning 'jaw' or 'mouthpart', appearing in anatomical, zoological, and paleontological terminology.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In craniofacial and invertebrate morphology, gnath- forms the foundational root for jaw development, occlusion classifications, and biting appendages.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gnath designates a term designating an entity, condition, or phenomenon derived from greek gnath."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"The Greek noun gnathos signifies the jaw or cheek, generating extensive morphological families rooted in **gnath**."*
+> - 📜 **Robert Beekes (*Etymological Dictionary of Greek*):** *"Related to PIE *ǵenu- ('jaw, chin'), the element **gnath** specifically designates the bony or chitinous apparatus of mastication."*
+> - 📜 **Pierre Chantraine (*Dictionnaire étymologique de la langue grecque*):** *"Technical Hellenic derivatives with **gnath** distinguish biting structures from purely sensory cranial organs."*

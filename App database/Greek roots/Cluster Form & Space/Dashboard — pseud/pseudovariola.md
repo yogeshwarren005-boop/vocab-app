@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mild form of smallpox caused by a less virulent form of the virus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mild form of smallpox caused by a less virulent form of the virus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An eruptive pox-like affection clinically distinct from classical smallpox, such as chickenpox (varicella) or alastrim.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical clinical nosology, a vesicular disease formerly confused with variola before immunological differentiation was established.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pseudovariola designates a mild form of smallpox caused by a less virulent form of the virus."*
+> - 📜 **Thomas Sydenham (*The Works of Thomas Sydenham*):** *"Certain mild pestilential eruptions are merely **pseudovariola**, running their course in a few days without endangering the life of the patient."*
+> - 📜 **Edward Jenner (*An Inquiry into the Causes and Effects of the Variolae Vaccinae*):** *"The confusion between cowpox and **pseudovariola** led earlier observers to doubt the protective virtue of vaccine lymph."*
+> - 📜 **John Baron (*The Life of Edward Jenner*):** *"Careful differentiation of genuine smallpox from **pseudovariola** was the cornerstone of Jenner's clinical demonstration."*

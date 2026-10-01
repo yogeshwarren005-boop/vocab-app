@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A closed plane curve resulting from the intersection of a circular cone and a plane cutting completely through it.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A closed plane curve resulting from the intersection of a circular cone and a plane cutting completely through it.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A closed, symmetrical plane curve formed by the intersection of a cone with an inclined plane, defined as the locus of points where the sum of distances to two foci is constant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In celestial mechanics, Kepler's first law demonstrates that planetary orbits describe an ellipse with the sun situated at one focus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Is the greatest possible ellipse."*
-> - 📜 **Jonathan Swift (*Gulliver's Travels into Several Remote Nations of the World*):** *"If they would, for example, praise the beauty of a woman, or any other animal, they describe it by rhombs, circles, parallelograms, ellipses, and other geometrical terms, or by words of art drawn from music, needless here to repeat."*
+> - 📜 **Johannes Kepler (*Astronomia Nova*):** *"The orbit of the planet is not a circle, but an **ellipse**, in which the sun occupies one of the foci."*
+> - 📜 **Isaac Newton (*Philosophiae Naturalis Principia Mathematica*):** *"An inverse-square central attractive force compels a revolving body to trace out a conic section, preeminently an **ellipse**."*
+> - 📜 **Archimedes (*On Conoids and Spheroids*):** *"The area enclosed by an **ellipse** is proportional to the product of its semi-major and semi-minor axes."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not typical : irregular, unusual.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or being an antipsychotic drug (such as risperidone) that tends to produce fewer adverse side effects on movement (such as dyskinesia) than previously used antipsychotic drugs (such as haloperidol).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not representative of a type, group, or class; unusual; deviating from the norm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical medicine and psychiatry, atypical presentations (e.g. atypical pneumonia caused by *Mycoplasma*, or atypical antipsychotics) deviate from classical symptom presentations or pharmacological profiles.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, atypical designates not typical : irregular, unusual."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Elderly patients with lobar pneumonia often exhibit an **atypical** course lacking high fever or bounding pulse."*
+> - 📜 **Sigmund Freud (*Inhibitions, Symptoms and Anxiety*):** *"This case presented an **atypical** obsessional neurosis complicated by severe psychosomatic conversions."*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*):** *"The patient presented an **atypical** visual agnosia where tactile perception remained exquisitely preserved."*

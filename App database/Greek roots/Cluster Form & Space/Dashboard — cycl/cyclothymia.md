@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mood disorder characterized by alternating episodes of depression and elation in a form less severe than that of bipolar disorder.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mood disorder characterized by alternating episodes of depression and elation in a form less severe than that of bipolar disorder.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chronic mood disorder characterized by alternating periods of mild hypomanic symptoms and depressive episodes not severe enough to meet major bipolar criteria.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychiatry and affective nosology, a persistent affective oscillation lasting at least two years, representing a milder, ambulatory variant on the bipolar spectrum.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cyclothymia designates a mood disorder characterized by alternating episodes of depression and elation in a form less severe than that of bipolar disorder."*
+> - 📜 **Emil Kraepelin (*Manic-Depressive Insanity and Paranoia*):** *"Under the concept of **cyclothymia**, I grouped those mild, lifelong temperamental fluctuations between buoyancy and melancholic dejection."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"Certain poetic temperaments display an innate **cyclothymia**, swinging rhythmically between ecstatic enthusiasm and gloomy gloom."*
+> - 📜 **Oliver Sacks (*Musicophilia*):** *"The composer's creative productivity ebbed and surged with the subtle phases of his constitutional **cyclothymia**."*

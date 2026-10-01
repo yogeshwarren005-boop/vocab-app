@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the mucous lining of the uterine cervix.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inflammation of the mucous lining of the uterine cervix.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the mucous membrane and glandular lining of the endocervical canal of the uterine cervix.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gynecologic pathology, endocervicitis is frequently caused by Chlamydia trachomatis or Neisseria gonorrhoeae, presenting with mucopurulent exudate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endocervicitis designates inflammation of the mucous lining of the uterine cervix."*
+> - 📜 **Vinay Kumar (*Robbins and Cotran Pathologic Basis of Disease*):** *"Chronic **endocervicitis** is characterized by dense lymphocytic and plasma cell infiltrates in the subepithelial cervical stroma."*
+> - 📜 **Leon Speroff (*Clinical Gynecologic Endocrinology and Infertility*):** *"Hostile cervical mucus resulting from untreated **endocervicitis** can prevent sperm transit and cause mechanical infertility."*
+> - 📜 **Anthony S. Fauci (*Harrison's Principles of Internal Medicine*):** *"Targeted antibiotic regimens clear chlamydial **endocervicitis** and halt ascending infection toward the fallopian tubes."*

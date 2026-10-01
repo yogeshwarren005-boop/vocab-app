@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or resembling an asteroid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or resembling an asteroid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or resembling an asteroid; having the characteristics or form of a small rocky body orbiting the sun.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In planetary science and astrophysics, asteroidal pertains to compositions, orbital mechanics, and spectral classifications of minor planets in the inner solar system.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, asteroidal designates of or relating to or resembling an asteroid."*
+> - 📜 **Carl Sagan (*Cosmos*):** *"The **asteroidal** belt between Mars and Jupiter contains remnants of a world that never formed."*
+> - 📜 **Patrick Moore (*The Guinness Book of Astronomy*):** *"Many meteorites have an **asteroidal** origin, having been ejected from parent bodies by catastrophic collisions."*
+> - 📜 **William K. Hartmann (*Moons and Planets*):** *"The **asteroidal** population reveals much about the early accretion processes of our solar system."*

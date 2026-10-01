@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek zyg.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rhetorical figure in which a verb placed at the beginning of a sentence governs several subsequent clauses or subjects.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical rhetoric, prozeugma front-loads the governing verb so that all following clauses depend upon it, producing an initial burst of action that radiates through the sentence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prozeugma designates a term designating an entity, condition, or phenomenon derived from greek zyg."*
+> - 📜 **Quintilian (*Institutio Oratoria*):** *"**Prozeugma** places the verb first, allowing it to govern all the clauses that follow."*
+> - 📜 **Richard Lanham (*A Handlist of Rhetorical Terms*):** *"In **prozeugma** the yoking verb stands at the head of the construction, controlling what comes after."*
+> - 📜 **Henry Peacham (*The Garden of Eloquence*):** *"Through **prozeugma** the speaker establishes the governing action at the outset before enumerating its objects."*

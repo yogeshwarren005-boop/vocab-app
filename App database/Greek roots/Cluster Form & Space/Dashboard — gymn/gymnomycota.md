@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Slime molds; organisms having a noncellular and multinucleate creeping vegetative phase and a propagative spore-producing stage: comprises myxomycetes and acrasiomycetes; in some classifications placed in the kingdom protoctista.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Slime molds; organisms having a noncellular and multinucleate creeping vegetative phase and a propagative spore-producing stage: comprises myxomycetes and acrasiomycetes; in some classifications placed in the kingdom protoctista.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A former taxonomic division encompassing the slime molds (myxomycetes), characterized by a naked, amoeboid, or plasmodial vegetative phase lacking cell walls.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In protistology, molecular phylogenetics has reassigned Gymnomycota into the Amoebozoa, distinguishing them from true walled fungi.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gymnomycota designates slime molds; organisms having a noncellular and multinucleate creeping vegetative phase and a propagative spore-producing stage: comprises myxomycetes and acrasiomycetes; in some classifications placed in the kingdom protoctista."*
+> - 📜 **C. J. Alexopoulos (*Introductory Mycology*):** *"The phylum **gymnomycota** was created to house organisms whose assimilative phase consists of a creeping, naked mass of protoplasm."*
+> - 📜 **David L. Hawksworth (*Ainsworth & Bisby's Dictionary of the Fungi*):** *"Because they engulf particulate food like amoebae, the **gymnomycota** were historically claimed by both zoologists and mycologists."*
+> - 📜 **Bryce Kendrick (*The Fifth Kingdom*):** *"The macroscopic plasmodium of **gymnomycota** streams through rotting logs, phagocytosing bacteria and fungal spores."*

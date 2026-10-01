@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek morph.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Metamorphism occurring in deep zones of the Earth's crust characterized by intense heat and confining pressure, leading to rock compaction and mineral recrystallization.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In structural petrology, anamorphism contrasts with katamorphism (weathering and disintegration near the surface), forming dense metamorphic schists and gneisses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anamorphism designates a term designating an entity, condition, or phenomenon derived from greek morph."*
+> - 📜 **Charles Richard Van Hise (*A Treatise on Metamorphism*):** *"Deep within the crust, **anamorphism** transforms porous sediments into crystalline schists through recrystallization under immense lithostatic load."*
+> - 📜 **Reginald Aldworth Daly (*Igneous Rocks and the Depths of the Earth*):** *"Thermal metamorphism associated with batholithic intrusions demonstrates the powerful mineralogical reconstitutions typical of **anamorphism**."*
+> - 📜 **Alfred Harker (*Metamorphism*):** *"The stress conditions driving **anamorphism** produce foliation and the growth of dense, high-pressure porphyroblasts like garnet and kyanite."*

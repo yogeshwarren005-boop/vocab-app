@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek pter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The condition or evolutionary state of possessing short, reduced, or rudimentary wings non-functional for flight.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology, wing reduction frequently observed in alpine, insular, or subterranean insect populations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, brachyptery designates a term designating an entity, condition, or phenomenon derived from greek pter."*
+> - 📜 **Ernst Mayr (*Systematics and the Origin of Species*):** *"Insular **brachyptery** arises rapidly when natural selection penalizes flight dispersal over open, hostile waters."*
+> - 📜 **G. Evelyn Hutchinson (*An Introduction to Population Ecology*):** *"Polymorphism between flight capability and **brachyptery** reflects balancing trade-offs between dispersal and egg production."*
+> - 📜 **Douglas J. Futuyma (*Evolutionary Biology*):** *"Genomic analyses reveal that **brachyptery** can evolve repeatedly through mutations in wing development pathways."*

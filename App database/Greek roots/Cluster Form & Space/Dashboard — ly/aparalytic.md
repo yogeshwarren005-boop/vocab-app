@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of dissolving.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of dissolving.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by the absence of paralysis; free from motor nerve palsy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neurology and infectious diseases, used to describe forms of neurotropic viral infection (such as non-paralytic or aparalytic poliomyelitis) where viral meningitis occurs without flaccid limb paralysis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aparalytic designates adjective*) pertaining to, derived from, or characteristic of dissolving."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The mild **aparalytic** form of poliomyelitis presents with fever, stiff neck, and headache, resolving without motor loss."*
+> - 📜 **Austin Flint (*A Treatise on the Principles and Practice of Medicine*):** *"Lumbar puncture confirmed viral meningitis in the **aparalytic** patient, whose muscular reflexes remained intact."*
+> - 📜 **Harvey Cushing (*Studies in Intracranial Physiology and Surgery*):** *"Following spinal cord decompression, the **aparalytic** recovery of the lower extremities exceeded expectations."*

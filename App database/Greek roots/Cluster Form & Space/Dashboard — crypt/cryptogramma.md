@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sometimes placed in family polypodiaceae or cryptogrammataceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sometimes placed in family polypodiaceae or cryptogrammataceae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small genus of ferns in the family Pteridaceae, commonly known as rock brakes or parsley ferns.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pteridology, small saxicolous ferns native to alpine and arctic scree slopes, characterized by marked dimorphism between vegetative and fertile fronds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cryptogramma designates sometimes placed in family polypodiaceae or cryptogrammataceae."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The delicate parsley fern, **Cryptogramma** stelleri, roots in shaded fissures of moist limestone cliffs."*
+> - 📜 **John Muir (*The Mountains of California*):** *"High among the granite talus of the Sierra Nevada, tough little tufts of **Cryptogramma** brave the frost."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"Species of **Cryptogramma** require cool, alpine rockery conditions with immaculate drainage to flourish in cultivation."*

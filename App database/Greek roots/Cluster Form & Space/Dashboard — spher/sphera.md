@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek spher.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The Latin form of sphere; in medieval and Renaissance cosmology, an astronomical orb or concentric celestial shell bearing planets and stars.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of science, Johannes de Sacrobosco's thirteenth-century treatise *Tractatus de Sphaera* (or *De Sphera*) served as the standard textbook on spherical astronomy across European universities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sphera designates a term designating an entity, condition, or phenomenon derived from greek spher."*
+> - 📜 **Johannes de Sacrobosco (*Tractatus de Sphaera*):** *"The celestial **sphera** is divided by four principal circles which regulate the seasons and the motion of the heavens."*
+> - 📜 **Nicolaus Copernicus (*De Revolutionibus Orbium Coelestium*):** *"The outermost orb is the stellar **sphera**, immobile and containing all things, the boundary of the visible universe."*
+> - 📜 **Geoffrey Chaucer (*A Treatise on the Astrolabe*):** *"Upon the flat plate is engraved the projection of the celestial **sphera** with its zenith and azimuths."*

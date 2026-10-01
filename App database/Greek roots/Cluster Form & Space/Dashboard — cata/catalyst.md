@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person or thing that provokes or speeds significant change or action.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A substance that enables a chemical reaction to proceed at a usually faster rate or under different conditions (as at a lower temperature) than otherwise possible.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A substance that accelerates the rate of a chemical reaction without undergoing permanent chemical change itself.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Metaphorically, any person, event, or condition that precipitates a rapid, significant change or action.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, catalyst designates a person or thing that provokes or speeds significant change or action."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"The platinum wire acts as a **catalyst**, lowering the activation barrier so that combustion proceeds at room temperature."*
+> - 📜 **Alexis de Tocqueville (*The Old Regime and the Revolution*):** *"Financial bankruptcy served as the immediate **catalyst** that precipitated the collapse of the French royal administration."*
+> - 📜 **Edward O. Wilson (*Consilience: The Unity of Knowledge*):** *"Technological innovation has become the primary **catalyst** accelerating cultural evolution across the modern world."*

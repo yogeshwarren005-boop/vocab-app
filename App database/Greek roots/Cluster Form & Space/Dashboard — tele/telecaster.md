@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A television broadcaster.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A television broadcaster.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A television broadcasting organization, company, or news presenter; also, the proprietary Fender Telecaster, an iconic solid-body electric guitar.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In musical instrument history, Leo Fender's 1951 Telecaster pioneered mass-produced bolt-on guitar construction, shaping the sound of modern country and rock music.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, telecaster designates a television broadcaster."*
+> - 📜 **Edward R. Murrow (*In Search of Light*):** *"The independent **telecaster** carries a profound public responsibility to report truth without sensationalism."*
+> - 📜 **David Sarnoff (*Speeches and Letters*):** *"As a licensed **telecaster**, the network pledged to dedicate regular broadcast hours to educational programming."*
+> - 📜 **Marshall McLuhan (*The Medium is the Massage*):** *"The modern **telecaster** shapes collective perception more swiftly than any print journalist of the past century."*

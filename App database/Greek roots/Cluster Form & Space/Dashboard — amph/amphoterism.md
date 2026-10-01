@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek amph.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The chemical property or state of being amphoteric; the ability to react either as an acid or as a base.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical and analytical chemistry, the dual electrochemical behavior exhibited by ampholytes and zwitterions at their isoelectric point.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amphoterism designates a term designating an entity, condition, or phenomenon derived from greek amph."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"The phenomenon of **amphoterism** in zinc compounds illustrates how coordinate covalent bonding adapts to hydroxide ion concentration."*
+> - 📜 **Svante Arrhenius (*Textbook of Electrochemistry*):** *"The electrophoretic migration of amino acids halts when their internal **amphoterism** reaches electrochemical equilibrium."*
+> - 📜 **Gilbert N. Lewis (*Valence and the Structure of Atoms and Molecules*):** *"The **amphoterism** of water underlies the entire thermodynamic framework of aqueous acid-base equilibria."*

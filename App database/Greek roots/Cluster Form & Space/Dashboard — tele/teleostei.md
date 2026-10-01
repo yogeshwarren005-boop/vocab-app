@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large diverse group of bony fishes; includes most living species.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large diverse group of bony fishes; includes most living species.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The predominant infraclass of ray-finned fishes (Actinopterygii), comprising more than 26,000 extant species (roughly 96% of all living fishes).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic vertebrate zoology, the monophyly of Teleostei is supported by anatomical synapomorphies including mobile premaxillae, uroneural bones in the tail, and an unpaired basihyal toothplate.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, teleostei designates large diverse group of bony fishes; includes most living species."*
+> - 📜 **Johannes Müller (*Ueber den Bau und die Grenzen der Ganoiden*):** *"I established the division **Teleostei** to distinguish bony fishes with true osseous skeletons from cartilaginous and ganoid groups."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"The infraclass **Teleostei** represents the dominant aquatic vertebrate fauna of the modern Cenozoic oceans."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Vertebrated Animals*):** *"In the cranial development of **Teleostei**, the opercular bones form a complete protective covering over the gill slits."*

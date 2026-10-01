@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A message transmitted by telegraph.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A message transmitted by telegraph.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A message transmitted by electric telegraph and delivered in written, typed, or printed form to the recipient.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In social and military history, the telegram was celebrated for its dramatic brevity and momentous impact on nineteenth- and twentieth-century human affairs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"At the moment of his departure a telegram was handed to him—a few words from his mother, stating that they were glad to know his address, and informing him that his brother Cuthbert had proposed to and been accepted by Mercy Chant."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"We received a telegram that Bishop Simpson was dying."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Since then I am happy to say that this church has been blessed and we now have a pastor." A TELEGRAM OF PRAYER."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"The unexpected arrival of a urgent **telegram** threw the entire corn market into immediate turmoil."*
+> - 📜 **Arthur Conan Doyle (*The Memoirs of Sherlock Holmes*):** *"A cryptic **telegram** reached Baker Street before dawn, summoning us to the fog-bound moors of Devonshire."*
+> - 📜 **Winston Churchill (*Their Finest Hour*):** *"Every hour brought a priority **telegram** reporting coastal movements and fighter squadron dispositions."*

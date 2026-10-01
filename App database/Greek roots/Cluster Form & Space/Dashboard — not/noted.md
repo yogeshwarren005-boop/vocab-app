@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make mention of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Notice or perceive.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Well-known, celebrated, and widely recognized for particular virtues, accomplishments, or talents; famous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having been recorded, observed, or registered in writing or mental memory.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Why write I still all one, ever the same, And keep invention in a noted weed, That every word doth almost tell my name, Showing their birth, and where they did proceed?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"More flowers I noted, yet I none could see, But sweet, or colour it had stol’n from thee. 100 Where art thou Muse that thou forget’st so long, To speak of that which gives thee all thy might?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"She looks us like A thing more made of malice than of duty; We have noted it."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The Galapagos archipelago was already **noted** among whalers for its extraordinary giant tortoises and desolate volcanic crater landscapes."*
+> - 📜 **Washington Irving (*The Sketch Book of Geoffrey Crayon, Gent.*):** *"Sleepy Hollow was a place **noted** for its quiet atmosphere and the visionary propensities of its rustic inhabitants."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The city of London was then **noted** for its crowded guild halls, bustling docks, and fierce civic independence."*

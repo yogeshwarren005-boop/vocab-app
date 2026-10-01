@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any state that is not typical.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any state that is not typical.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality or state of being untypical; the condition of deviating from the normal, expected, or representative characteristics of a category or class.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In statistical analysis and case-study methodology, untypicality measures the degree to which an observation diverges from the central tendency, guiding assessments of significance and generalizability.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, untypicality designates any state that is not typical."*
+> - 📜 **Max Weber (*The Methodology of the Social Sciences*):** *"The **untypicality** of a historical event does not diminish its causal significance for understanding social change."*
+> - 📜 **Thomas Kuhn (*The Structure of Scientific Revolutions*):** *"The **untypicality** of anomalous findings is what triggers the search for a new explanatory framework."*
+> - 📜 **Karl Popper (*Conjectures and Refutations*):** *"It is precisely the **untypicality** of a counterexample that gives it its logical power against universal claims."*

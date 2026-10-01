@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Eucalyptus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Eucalyptus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any tree or shrub belonging to the genus Eucalyptus or allied genera in the myrtle family (Myrtaceae), native predominantly to Australasia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In forestry and arboriculture, fast-growing hardwood trees noted for aromatic essential oils, drought resilience, and extensive global silviculture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eucalypt designates eucalyptus."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"Crossing Wallace's line, the Asian vegetation gives way to forests of pale, peeling bark where the Australian **eucalypt** reigns supreme."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The thin vertical leaves of the **eucalypt** cast scarcely any shadow upon the dry, sun-scorched earth of New South Wales."*
+> - 📜 **Edward O. Wilson (*The Diversity of Life*):** *"The magnificent canopy of an ancient giant **eucalypt** supports a canopy biome of marsupials, birds, and canopy insects."*

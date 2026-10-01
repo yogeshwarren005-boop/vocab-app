@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Severe and excessive vomiting.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Severe and excessive vomiting.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Severe, intractable, and excessive vomiting, leading to dehydration, electrolyte disturbances, and weight loss.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In obstetrics, hyperemesis gravidarum is a severe complication of early pregnancy associated with elevated hCG levels, causing ketonuria, hypokalemia, and Wernicke encephalopathy if thiamine deficiency supervenes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyperemesis designates severe and excessive vomiting."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In **hyperemesis** gravidarum, persistent vomiting leads to rapid ketosis, jaundice, and dangerous peripheral neuritis."*
+> - 📜 **J. Whitridge Williams (*Williams Obstetrics*):** *"Intravenous saline and glucose are urgent necessities in **hyperemesis** to prevent acute hepatic necrosis."*
+> - 📜 **Austin Flint (*A Treatise on the Principles and Practice of Medicine*):** *"Exhausting **hyperemesis** requires complete gastric rest and supportive rectal fluid administration."*

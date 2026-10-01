@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek om.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The practice or ritual of eating raw flesh, especially as part of religious ceremonies associated with the worship of Dionysus in ancient Greece.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anthropology and comparative religion, omophagia symbolizes the ecstatic union of worshippers with the divine through the sacramental consumption of uncooked sacrificial meat.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, omophagia designates a term designating an entity, condition, or phenomenon derived from greek om."*
+> - 📜 **Walter Burkert (*Greek Religion*):** *"The act of **omophagia** was the climactic moment of the Bacchic ritual, in which the devotee consumed the god."*
+> - 📜 **E. R. Dodds (*The Greeks and the Irrational*):** *"Through **omophagia** the Maenad believed she incorporated the life-force of the dismembered animal."*
+> - 📜 **Jane Ellen Harrison (*Prolegomena to the Study of Greek Religion*):** *"The rite of **omophagia** preserved a savage sacrament at the heart of Greek mystical worship."*

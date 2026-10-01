@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek haem.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Body & Physiology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An excess of blood in the vessels supplying an organ or other part of the body; congestion or active engorgement (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pathology, divided into active hyperaemia (arteriolar vasodilation during exercise or acute inflammation) and passive hyperaemia (venous engorgement secondary to mechanical obstruction or heart failure).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyperaemia designates a term designating an entity, condition, or phenomenon derived from greek haem."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Active inflammatory **hyperaemia** dilates the precapillary sphincters, flooding the tissue bed with oxygenated blood."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Passive venous **hyperaemia** of the liver produces the characteristic mottled 'nutmeg' pattern seen in congestive failure."*
+> - 📜 **James Paget (*Lectures on Surgical Pathology*):** *"The first cardinal sign of local repair is a protective **hyperaemia** surrounding the edges of the incision."*

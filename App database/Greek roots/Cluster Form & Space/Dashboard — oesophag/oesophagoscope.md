@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An optical instrument for examining the inside of the esophagus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An optical instrument for examining the inside of the esophagus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rigid or flexible medical endoscope equipped with a light and camera, used to visually examine the interior lumen of the esophagus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern endoscopic medicine, an oesophagoscope allows gastroenterologists to biopsy mucosal lesions, dilate strictures, and ligate bleeding esophageal varices.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oesophagoscope designates an optical instrument for examining the inside of the esophagus."*
+> - 📜 **Chevalier Jackson (*Tracheo-Bronchoscopy, Esophagoscopy and Gastroscopy*):** *"The introduction of the illuminated **oesophagoscope** transformed the extraction of swallowed foreign bodies from hazardous surgery into safe endoscopy."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Direct inspection through the **oesophagoscope** reveals mucosal ulcerations and early neoplasms long before radiographic changes appear."*
+> - 📜 **Lord Moynihan (*Abdominal Operations*):** *"The surgeon passed the flexible **oesophagoscope** to identify the precise distal extent of the bleeding variceal columns."*

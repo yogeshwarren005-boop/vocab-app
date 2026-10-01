@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek xer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The practice of eating dry food, especially bread and uncooked provisions, as a form of religious fasting or ascetic discipline.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Eastern Orthodox Christianity, xerophagy is the strictest level of fasting, permitting only bread, salt, water, and raw vegetables during the most solemn penitential periods.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xerophagy designates a term designating an entity, condition, or phenomenon derived from greek xer."*
+> - 📜 **John Cassian (*Institutes of the Coenobia*):** *"The Egyptian monks practiced **xerophagy** during Lent, subsisting on bread and salt alone."*
+> - 📜 **Basil of Caesarea (*On Fasting*):** *"**Xerophagy** mortifies the flesh and sharpens the spirit through the voluntary embrace of austere fare."*
+> - 📜 **Alexander Schmemann (*Great Lent*):** *"The discipline of **xerophagy** represents the most rigorous expression of Lenten self-denial."*

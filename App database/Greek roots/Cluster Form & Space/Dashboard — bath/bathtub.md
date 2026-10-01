@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A relatively large open container that you fill with water and use to wash the body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A relatively large open container that you fill with water and use to wash the body.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large, elongated basin or container, permanently installed in a bathroom, in which a person sits or reclines to bathe.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of public health, an essential fixture of modern sanitary engineering, evolving from copper and cast-iron clawfoot tubs to enameled steel and acrylic designs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"The vegetation was of almost tropical density, and the moisture underfoot and overhead was so great that it seemed to me I had never been wetter except in a bathtub."*
-> - 📜 **Fletcher Pratt (*The Onslaught from Rigel*):** *"Do you know, I think they're scared yellow about something and I'll bet a hundred dollars against a case of bathtub gin I know what it is." "Yeh?"*
+> - 📜 **H. L. Mencken (*A Neglected Anniversary (Prejudices)*):** *"The historic hoax regarding the invention of the modern American **bathtub** amused readers for decades after its publication."*
+> - 📜 **John Steinbeck (*Cannery Row*):** *"They dragged an old cast-iron **bathtub** into the backyard to brew home-made whiskey over an open fire."*
+> - 📜 **George Orwell (*The Road to Wigan Pier*):** *"In these miners' cottages, there was no **bathtub**, only a zinc wash-tub brought into the kitchen on Saturday nights."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek oo.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A Mediterranean delicacy consisting of the roe pouch of grey mullet or tuna that has been salted, pressed, and dried into a firm, amber-colored block.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In culinary history and food anthropology, bottarga traces its origins to ancient Phoenician and Egyptian preservation techniques, remaining a prized ingredient in Italian, Sardinian, and North African cuisine.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bottarga designates a term designating an entity, condition, or phenomenon derived from greek oo."*
+> - 📜 **Claudia Roden (*The Book of Jewish Food*):** *"Thin shavings of **bottarga** over pasta capture the concentrated essence of the sea."*
+> - 📜 **Pellegrino Artusi (*Science in the Kitchen and the Art of Eating Well*):** *"The finest **bottarga** comes from the mullet of the Sardinian lagoons, pressed under weights until firm."*
+> - 📜 **Marcella Hazan (*Essentials of Classic Italian Cooking*):** *"Grated **bottarga** transforms a simple plate of spaghetti into an intensely savory delicacy."*

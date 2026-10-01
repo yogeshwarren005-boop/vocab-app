@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialized structure of the cell membrane especially of an epithelial cell that serves as a zone of adhesion to anchor contiguous cells together.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A specialized structure of the cell membrane especially of an epithelial cell that serves as a zone of adhesion to anchor contiguous cells together.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A specialized cell junction consisting of dense protein plaques and cadherins that mechanically anchors intermediate filaments between adjacent animal cells.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cell biology and dermatopathology, disruption of desmosomal cadherins (desmogleins) causes severe acantholytic blistering diseases such as pemphigus vulgaris.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, desmosome designates a specialized structure of the cell membrane especially of an epithelial cell that serves as a zone of adhesion to anchor contiguous cells together."*
+> - 📜 **Bruce Alberts (*Molecular Biology of the Cell*):** *"A **desmosome** acts like a spot-weld between adjacent epithelial cells, anchoring keratin intermediate filaments to withstand mechanical stress."*
+> - 📜 **Harvey Lodish (*Molecular Cell Biology*):** *"Transmembrane desmogleins and desmocollins bridge the intercellular space within the core of each **desmosome**."*
+> - 📜 **Elaine Fuchs (*Beauty Is Skin Deep: The Fascinating Biology of the Epidermis*):** *"Epidermal integrity relies upon robust **desmosome** complexes that disperse shear forces throughout the epithelial sheet."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek coel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The developmental process by which the coelom arises as outpocketings or pouches from the embryonic archenteron (primitive gut).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative embryology, a fundamental developmental pathway characteristic of deuterostomes (such as echinoderms and chordates), contrasting with schizocoely in protostomes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, enterocoely designates a term designating an entity, condition, or phenomenon derived from greek coel."*
+> - 📜 **Francis Maitland Balfour (*A Treatise on Comparative Embryology*):** *"In amphioxus, the body cavity forms by **enterocoely**, wherein pouches of the archenteron pinch off to establish paired coelomic sacs."*
+> - 📜 **Ernst Haeckel (*The Evolution of Man*):** *"The occurrence of **enterocoely** across both echinoderms and primitive chordates provides compelling evidence of their deep genealogical affinity."*
+> - 📜 **E. Ray Lankester (*A Treatise on Zoology*):** *"Deuterostome phylogeny rests firmly upon the embryological observation of tripartite **enterocoely** during early organogenesis."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: tumor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: tumor.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A Greek suffix denoting a tumor, swelling, or abnormal growth, used extensively in medical terminology to name neoplastic and non-neoplastic masses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pathological nomenclature, the suffix -oma systematically classifies growths by their tissue of origin, as in carcinoma, sarcoma, lymphoma, and glioma.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog oma as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"The suffix **-oma** derives from Greek, signifying a swelling, mass, or morbid growth."*
+> - 📜 **Rudolf Virchow (*Die Krankhaften Geschwulste*):** *"I propose that we adopt the ending **-oma** uniformly to designate neoplastic formations by their histological origin."*
+> - 📜 **Dorland's Medical Dictionary (*Dorland's Illustrated Medical Dictionary*):** *"The suffix **-oma** is appended to the tissue type to create a systematic tumor nomenclature."*

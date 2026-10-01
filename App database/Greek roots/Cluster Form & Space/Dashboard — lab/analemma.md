@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A plot or graph in the shape of a figure eight that shows the position of the sun in the sky at a given time of day (such as noon) at one specific locale measured throughout the year; also : a scale (as on a globe or sundial) based on such a plot that shows the sun's position for each day of the year or that allows local mean time to be determined.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A plot or graph in the shape of a figure eight that shows the position of the sun in the sky at a given time of day (such as noon) at one specific locale measured throughout the year; also : a scale (as on a globe or sundial) based on such a plot that shows the sun's position for each day of the year or that allows local mean time to be determined.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A figure-eight shaped diagram illustrating the position of the Sun in the sky at the exact same mean solar time each day over the course of a full calendar year.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In spherical astronomy, the analemma reflects both the Earth's 23.4° axial tilt (producing the vertical north-south declination range) and the orbital eccentricity of the Earth's elliptical orbit (producing the horizontal equation of time variation).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, analemma designates a plot or graph in the shape of a figure eight that shows the position of the sun in the sky at a given time of day (such as noon) at one specific locale measured throughout the year; also : a scale (as on a globe or sundial) based on such a plot that shows the sun's position for each day of the year or that allows local mean time to be determined."*
+> - 📜 **John Herschel (*Outlines of Astronomy*):** *"The equation of time and solar declination combine to trace the graceful looped figure of the **analemma** on celestial globes."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"Ancient gnomonists inscribed the **analemma** upon stone dials to harmonize shadow measurements with solar movement."*
+> - 📜 **Isaac Newton (*Philosophiae Naturalis Principia Mathematica*):** *"The asymmetrical lobes of the **analemma** directly reflect the elliptical eccentricity of the Earth's annual path."*

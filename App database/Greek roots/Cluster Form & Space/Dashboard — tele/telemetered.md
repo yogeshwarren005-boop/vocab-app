@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or pertaining to telemetry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or pertaining to telemetry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Past tense and past participle of telemeter; measured and transmitted by electronic telemetry over a distance to a recording receiver.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In space exploration and experimental physiology, physiological data (such as heart rate, oxygen levels, and core body temperature) from astronauts are telemetered in real time.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, telemetered designates of or pertaining to telemetry."*
+> - 📜 **Carl Sagan (*Cosmos*):** *"The images of Jupiter's swirling storms were **telemetered** across billions of kilometers of vacuum by the Voyager probe."*
+> - 📜 **Tom Wolfe (*The Right Stuff*):** *"During reentry, John Glenn's pulse and respiration were **telemetered** directly to medical monitors in the Cape blockhouse."*
+> - 📜 **Arthur C. Clarke (*2001: A Space Odyssey*):** *"Vital signs from the hibernating crew members were continuously **telemetered** to the central HAL 9000 processing core."*

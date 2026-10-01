@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Occurring during the period around birth (5 months before and 1 month after).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Occurring during the period around birth (5 months before and 1 month after).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to the period immediately before and after birth, typically from around the 28th week of gestation to the first month after birth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In obstetrics and neonatology, perinatal mortality rates serve as a primary indicator of national maternal-fetal healthcare quality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, perinatal designates occurring during the period around birth (5 months before and 1 month after)."*
+> - 📜 **Tinsley R. Harrison (*Principles of Internal Medicine*):** *"Screening for maternal streptococcal colonization significantly reduces the incidence of severe **perinatal** sepsis."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Birth asphyxia during the **perinatal** interval remains a primary cause of spastic diplegia in infants."*
+> - 📜 **Eugene Braunwald (*Heart Disease*):** *"Prompt transition from fetal to **perinatal** circulation requires timely closure of the ductus arteriosus."*

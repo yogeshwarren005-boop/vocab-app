@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a plastic manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a plastic manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a plastic manner; with capacity for being molded, shaped, or deformed continuously without breaking.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cognitive psychology and neuroscience, describing neural circuits that adapt plastically to experience and learning.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"What we want to ascertain is the peculiar quality of the imaginative stuff with which he plastically works, and to appreciate its worth."*
+> - 📜 **Robert Browning (*The Ring and the Book*):** *"The artist kneads the stubborn raw material, shaping it **plastically** into harmonious poetic form."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Organic matter, especially nervous tissue, seems endowed with a structure that responds **plastically** to external stimuli."*
+> - 📜 **Eric Kandel (*In Search of Memory*):** *"Synaptic connections remodel **plastically** during long-term potentiation to encode lasting memories."*

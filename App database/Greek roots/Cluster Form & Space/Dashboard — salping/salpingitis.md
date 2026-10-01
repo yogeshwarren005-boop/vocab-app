@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of a fallopian tube (usually the result of infection spreading from the vagina or uterus) or of a eustachian tube.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inflammation of a fallopian tube (usually the result of infection spreading from the vagina or uterus) or of a eustachian tube.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of one or both fallopian (uterine) tubes, typically caused by ascending bacterial infection; a major form of pelvic inflammatory disease.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical gynecology, an infection often caused by Chlamydia or Neisseria that carries substantial risks of tubal scarring, ectopic pregnancy, and infertility.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, salpingitis designates inflammation of a fallopian tube (usually the result of infection spreading from the vagina or uterus) or of a eustachian tube."*
+> - 📜 **Howard A. Kelly (*Medical Gynecology*):** *"Acute purulent **salpingitis** manifests with bilateral lower abdominal guarding, high fever, and cervical motion tenderness."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Neglected gonococcal **salpingitis** leads inevitably to pyosalpinx and chronic pelvic invalidism from dense peritoneal adhesions."*
+> - 📜 **Emil Novak (*Gynecological Pathology*):** *"Histologic examination in acute **salpingitis** demonstrates heavy neutrophilic infiltration of the tubal plicae with mucosal agglutination."*

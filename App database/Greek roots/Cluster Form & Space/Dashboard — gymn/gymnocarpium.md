@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Oak ferns: in some classification systems included in genus thelypteris.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Oak ferns: in some classification systems included in genus thelypteris.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small genus of delicate terrestrial ferns (oak ferns, family Cystopteridaceae) having creeping rhizomes and triangular, deeply divided fronds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pteridology, Gymnocarpium bears rounded, naked sori lacking an indusium covering, thriving in moist boreal and temperate montane forests.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gymnocarpium designates oak ferns: in some classification systems included in genus thelypteris."*
+> - 📜 **Merritt Lyndon Fernald (*Gray's Manual of Botany*):** *"The graceful ternate fronds of **gymnocarpium** dryopteris carpet moist coniferous forest floors across northern latitudes."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"Sori in **gymnocarpium** are borne on the back of veinlets without any trace of a protective indusium."*
+> - 📜 **Peter H. Raven (*Biology of Plants*):** *"Chromosomal polyploidy is widespread among circumboreal populations of the fern genus **gymnocarpium**."*

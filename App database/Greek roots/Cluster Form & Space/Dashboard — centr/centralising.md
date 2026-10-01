@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make central.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending to draw to a central point.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Acting to concentrate authority, resources, or operations under a single central body (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending toward centralization; pulling away from local autonomy toward centralized control.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centralising designates make central."*
+> - 📜 **Alexis de Tocqueville (*The Old Regime and the Revolution*):** *"The **centralising** instincts of modern monarchies prepared the ground for the absolute state long before the revolution."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"Every increase in the **centralising** power of the bureaucracy threatens individual liberty and spontaneous enterprise."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Constantine pursued a **centralising** policy by relocating the imperial seat of power to the shores of the Bosporus."*

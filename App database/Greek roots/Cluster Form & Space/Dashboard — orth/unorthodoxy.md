@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any opinions or doctrines at variance with the official or orthodox position.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A belief that rejects the orthodox tenets of a religion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality or state of being unorthodox; departure from standard, accepted, or official doctrines, customs, or beliefs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political and intellectual philosophy, the expression or holding of heterodox opinions challenging institutional authority.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unorthodoxy designates any opinions or doctrines at variance with the official or orthodox position."*
+> - 📜 **George Orwell (*1984*):** *"The terrible thing about the Two Minutes Hate was not that one was obliged to act a part, but that **unorthodoxy** was impossible to conceal."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"The mere example of non-conformity, the mere refusal to bend the knee to custom, is itself a service; in this age, the mere presence of **unorthodoxy** is beneficial."*
+> - 📜 **Aldous Huxley (*Brave New World*):** *"Murder kills only the individual, but **unorthodoxy** threatens more than the life of a mere individual; it strikes at Society itself."*

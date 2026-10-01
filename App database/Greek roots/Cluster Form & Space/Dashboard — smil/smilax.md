@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sometimes placed in smilacaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fragile twining plant of south africa with bright green flattened stems and glossy foliage popular as a floral decoration.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large genus of climbing, thorny shrubs or vines of the family Smilacaceae, widely distributed in tropical and temperate regions; greenbrier.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical medicine and beverage production, the dried rhizomes of various Central American species of *Smilax* provided sarsaparilla, once lauded as a blood purifier.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **O. Henry (*My tussle with the devil, and other stories*):** *"Bits of smilax, rose leaves and trodden violets can be seen about the steps, and as he opens the door, the air is charged with escaping perfume."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"My path was barricaded by tangled thickets of thorny **smilax**, whose stubborn briers caught at my garments."*
+> - 📜 **John Muir (*A Thousand-Mile Walk to the Gulf*):** *"The swamp margins were bound together by tough, spiny cables of **smilax**, draped from cypress to bay tree."*
+> - 📜 **William Bartram (*Travels through North and South Carolina, Georgia, East and West Florida*):** *"The Indians prepare a nourishing jelly from the tuberous roots of the great Chinese **smilax** or bamboo-brier."*

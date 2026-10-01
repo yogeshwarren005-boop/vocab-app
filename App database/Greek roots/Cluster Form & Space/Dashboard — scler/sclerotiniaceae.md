@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A fungus family of order helotiales.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fungus family of order helotiales.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of inoperculate discomycete fungi (order Helotiales) whose cup-shaped apothecia arise from resting sclerotia or stromata.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic mycology, an economically critical family of phytopathogens containing Sclerotinia, Botrytis, and Monilinia (brown rot of stone fruits).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sclerotiniaceae designates a fungus family of order helotiales."*
+> - 📜 **Elias Magnus Fries (*Systema Mycologicum*):** *"Fungi of the family **sclerotiniaceae** develop their fruitbodies directly from hardened resting bodies formed within decaying plant tissue."*
+> - 📜 **Anton de Bary (*Morphology and Biology of the Fungi*):** *"The lifecycle of **sclerotiniaceae** alternates between an active destructive parasitic phase and a dormant sclerotial survival stage."*
+> - 📜 **Pier Andrea Saccardo (*Sylloge Fungorum*):** *"Ascospore discharge in **sclerotiniaceae** occurs synchronously on warm spring mornings, carrying infection to tender fruit blossoms."*

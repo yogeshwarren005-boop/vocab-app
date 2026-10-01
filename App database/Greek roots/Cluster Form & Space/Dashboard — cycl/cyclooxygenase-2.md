@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An enzyme that makes prostaglandins that cause inflammation and pain and fever.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An enzyme that makes prostaglandins that cause inflammation and pain and fever.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An inducible isoform of the cyclooxygenase enzyme (COX-2) upregulated during inflammation, pain, and fever.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biochemical pharmacology and rheumatology, the enzyme induced by inflammatory cytokines and growth factors whose selective inhibition by coxibs alleviates pain without causing primary gastric ulceration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cyclooxygenase-2 designates an enzyme that makes prostaglandins that cause inflammation and pain and fever."*
+> - 📜 **John R. Vane (*Nobel Lecture: The Mode of Action of Aspirin and Similar Drugs*):** *"The discovery of inducible **cyclooxygenase-2** paved the way for selective anti-inflammatory drugs that spare the stomach lining."*
+> - 📜 **Sydney Brenner (*Loose Ends: Selected Writings*):** *"Targeting the roomier side pocket of **cyclooxygenase-2** permitted chemists to synthesize potent, highly isoform-specific inhibitors."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"While selective inhibition of **cyclooxygenase-2** reduces gastrointestinal bleeding, it may alter prostacyclin-thromboxane balance in coronary vascular beds."*

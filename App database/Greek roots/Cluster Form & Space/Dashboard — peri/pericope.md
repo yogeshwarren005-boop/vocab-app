@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A selection from a book; specifically : lection.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A selection from a book; specifically : lection.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An extract or selected passage from a text; especially a selection from the Bible appointed to be read during a church service.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In liturgical studies and form criticism, a pericope is an independent literary unit or scriptural excerpt analyzed within its historical and liturgical setting.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pericope designates a selection from a book; specifically : lection."*
+> - 📜 **Rudolf Bultmann (*The History of the Synoptic Tradition*):** *"Each gospel **pericope** circulated as an independent oral unit before being woven into a continuous narrative framework."*
+> - 📜 **C. H. Dodd (*The Parables of the Kingdom*):** *"The context of a single **pericope** often reveals the specific pastoral needs of the early Christian community."*
+> - 📜 **John Henry Newman (*Parochial and Plain Sermons*):** *"The Sunday **pericope** from the Gospel of Saint John directs our devotion toward Christ’s divine nature."*

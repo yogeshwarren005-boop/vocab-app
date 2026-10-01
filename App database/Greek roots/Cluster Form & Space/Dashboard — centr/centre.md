@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Village in southeastern New York in west central Long Island.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The main or central part of a city : the part of a city where there are tall buildings, stores, offices, etc.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The middle point or part of something; the focal point of activity, attention, or importance (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geometry, the point equidistant from all points on the circumference of a circle or sphere; in politics, a moderate, non-extremist position.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Take this from this, if this be otherwise. [_Points to his head and shoulder._] If circumstances lead me, I will find Where truth is hid, though it were hid indeed Within the centre."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Bring forth the body of old Salisbury, And here advance it in the market-place, The middle centre of this cursed town."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll believe as soon This whole earth may be bor’d, and that the moon May through the centre creep and so displease Her brother’s noontide with th’ Antipodes."*
+> - 📜 **William Butler Yeats (*The Second Coming*):** *"Turning and turning in the widening gyre, the falcon cannot hear the falconer; things fall apart; the **centre** cannot hold; mere anarchy is loosed upon the world."*
+> - 📜 **John Donne (*A Valediction: Forbidding Mourning*):** *"Thy soul, the fix'd foot, makes no show to move, but doth, if th' other do; and though it in the **centre** sit, yet when the other far doth roam, it leans, and hearkens after it."*
+> - 📜 **Isaac Newton (*Principia*):** *"The celestial bodies are continually drawn off from rectilinear motions by forces directed toward the **centre** of the Sun."*

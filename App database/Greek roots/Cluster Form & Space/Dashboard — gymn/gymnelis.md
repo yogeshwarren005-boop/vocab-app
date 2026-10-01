@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of zoarcidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of zoarcidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of small, eel-like marine fishes (eelpouts, family Zoarcidae) found in cold Arctic and subarctic seas, lacking pelvic fins and scales.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In polar ichthyology, Gymnelis viridis (the fish doctor) burrows into benthic sediments, synthesizing antifreeze glycoproteins to survive sub-zero seawater.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gymnelis designates a genus of zoarcidae."*
+> - 📜 **David Starr Jordan (*The Fishes of North and Middle America*):** *"The genus **gymnelis** is readily distinguished by its naked, scaleless skin and complete absence of ventral fins."*
+> - 📜 **G. A. Boulenger (*Fishes of the Arctic Seas*):** *"Specimens of **gymnelis** dredged from Greenland fjords display remarkable cryptic pigmentation mimicking gravel bottoms."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"Cold-adapted benthic fishes including **gymnelis** forage beneath pack ice throughout the polar winter."*

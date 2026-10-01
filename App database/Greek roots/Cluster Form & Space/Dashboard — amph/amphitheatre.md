@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek thea.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Light & Vision.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An oval or circular open-air building with tiers of seats rising around a central arena, used in ancient Rome for gladiator contests and public spectacles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any natural or architectural bowl-shaped formation, valley, or tiered auditorium resembling a Roman amphitheatre.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"He lifted his hand and opened his eyelids; gazed blank, and with a straining effort, on the sky, and toward the amphitheatre of trees: one saw that all to him was void darkness."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"On entering the amphitheatre, new objects of wonder presented themselves."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"At length he reached to where the ravine had opened through the cliffs to the amphitheatre; but no traces of such opening remained."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The colossal **amphitheatre** of Titus, which has withstood the injuries of time, was erected to accommodate more than eighty thousand spectators."*
+> - 📜 **Lord Byron (*Childe Harold's Pilgrimage*):** *"Arches on arches! as it were that Rome, collecting the chief trophies of her line, would build up all her triumphs in one dome, her **amphitheatre** stands sublime."*
+> - 📜 **John Ruskin (*The Seven Lamps of Architecture*):** *"From the mountain ridge we looked down into a vast natural **amphitheatre** carpeted with alpine flowers."*

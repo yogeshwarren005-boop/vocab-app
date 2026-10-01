@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek pept.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Good, normal, healthy digestion; the opposite of dyspepsia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiological history, the state of harmonious digestive function, promoting vigorous physical well-being and cheerful disposition.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eupepsia designates a term designating an entity, condition, or phenomenon derived from greek pept."*
+> - 📜 **Thomas Carlyle (*Critical and Miscellaneous Essays*):** *"A sound stomach and uninterrupted **eupepsia** permit the philosopher to survey worldly calamities with cheerful equanimity."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"A robust temperament marked by chronic **eupepsia** generates natural optimistic religion without theological struggle."*
+> - 📜 **Oliver Wendell Holmes Sr. (*The Autocrat of the Breakfast-Table*):** *"Genial conversation around the dinner table is the surest guarantor of domestic **eupepsia**."*

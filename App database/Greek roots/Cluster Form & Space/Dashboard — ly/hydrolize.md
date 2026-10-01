@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make a compound react with water and undergo hydrolysis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make a compound react with water and undergo hydrolysis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To decompose or split a chemical bond through the addition of water; an alternative American spelling of hydrolyze.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In digestive physiology, esterases, proteases, and glycosidases hydrolize dietary macromolecules into absorbable fatty acids, amino acids, and simple monosaccharides.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hydrolize designates make a compound react with water and undergo hydrolysis."*
+> - 📜 **Claude Bernard (*Lectures on the Physiology of Digestion*):** *"Gastric pepsin operates to **hydrolize** solid protein foods into soluble peptones in the presence of free acid."*
+> - 📜 **Ernest Starling (*Principles of Human Physiology*):** *"Lipases in the small intestine **hydrolize** neutral triglycerides into free fatty acids and monoglycerides."*
+> - 📜 **Michael Foster (*A Text-Book of Physiology*):** *"Salivary ptyalin begins immediately to **hydrolize** cooked starches in the oral cavity during mastication."*

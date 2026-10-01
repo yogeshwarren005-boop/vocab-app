@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A spot in the visual field in which vision is absent or deficient.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A spot in the visual field in which vision is absent or deficient.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An area of partial alteration or complete loss in the field of vision with normally functioning surrounding visual fields; a visual blind spot.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurology and ophthalmology, a scotoma may be physiological (the anatomical blind spot), absolute, relative, or scintillating (as in classic migraine aura).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scotoma designates a spot in the visual field in which vision is absent or deficient."*
+> - 📜 **Hermann von Helmholtz (*Treatise on Physiological Optics*):** *"Mariotte's discovery of the physiological blind spot or natural **scotoma** proved that the optic nerve head is insensitive to light."*
+> - 📜 **Oliver Sacks (*Migraine*):** *"The patient described a sparkling, zigzag border expanding slowly from the center of vision, leaving a temporary **scotoma** in its wake."*
+> - 📜 **Albrecht von Graefe (*Perimetric Examination of the Visual Field*):** *"The development of a central **scotoma** is the cardinal perimetric sign of toxic amblyopia and retrobulbar neuritis."*

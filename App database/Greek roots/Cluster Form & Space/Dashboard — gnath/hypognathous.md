@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of jaw.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of jaw.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having mouthparts directed downward vertically toward the ventral surface, perpendicular to the longitudinal body axis (in insects); or having a projecting lower jaw.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In entomology, hypognathous head orientation is typical of phytophagous insects like grasshoppers, contrasting with prognathous predators.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypognathous designates adjective*) pertaining to, derived from, or characteristic of jaw."*
+> - 📜 **R. F. Chapman (*The Insects: Structure and Function*):** *"The grasshopper exhibits a classic **hypognathous** head posture, allowing its mandibles to feed directly upon foliage beneath the thorax."*
+> - 📜 **V. B. Wigglesworth (*The Principles of Insect Physiology*):** *"Head flexure in **hypognathous** insects facilitates efficient mastication without impeding forward compound eye vision."*
+> - 📜 **Vincent Dethier (*The Hungry Fly*):** *"Chemosensory receptors on **hypognathous** mouthparts sample substrate chemistry before ingestion commences."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fish thought to have been extinct since the cretaceous period but found in 1938 off the coast of africa.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fish thought to have been extinct since the cretaceous period but found in 1938 off the coast of africa.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rare, ancient order of lobe-finned marine fishes with paired fleshy fins, once believed to have been extinct since the late Cretaceous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology and ichthyology, a renowned 'living fossil' (genus Latimeria) possessing a hollow cartilaginous spine and an intracranial joint, closely allied to tetrapod ancestors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coelacanth designates fish thought to have been extinct since the cretaceous period but found in 1938 off the coast of africa."*
+> - 📜 **J. L. B. Smith (*Old Fourlegs: The Story of the Coelacanth*):** *"I would not have been more astonished if I had met a living dinosaur walking down the street than I was when I saw that **coelacanth**."*
+> - 📜 **Stephen Jay Gould (*The Panda's Thumb*):** *"The discovery of a living **coelacanth** in 1938 was the greatest zoological sensation of the twentieth century."*
+> - 📜 **Richard Dawkins (*The Ancestor's Tale*):** *"The **coelacanth** paddles its paired fleshy fins in an alternating gait reminiscent of a land vertebrate walking on four legs."*

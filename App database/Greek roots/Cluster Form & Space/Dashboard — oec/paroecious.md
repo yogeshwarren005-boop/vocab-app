@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of house.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of house.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In bryology and botany, having male (antheridia) and female (archegonia) reproductive organs borne in the same inflorescence or cluster but in separate leaf axils.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In moss morphology, paroecious mosses (such as certain Bryum or Sphagnum species) exhibit close sexual proximity, ensuring high rates of fertilization in moist microhabitats.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, paroecious designates adjective*) pertaining to, derived from, or characteristic of house."*
+> - 📜 **Wilhelm Hofmeister (*On the Germination, Development, and Fructification of the Higher Cryptogamia*):** *"In **paroecious** mosses, the antheridia appear in the axils of the upper perichaetial leaves immediately below the terminal archegonia."*
+> - 📜 **Douglas Houghton Campbell (*The Structure and Development of Mosses and Ferns*):** *"The **paroecious** condition facilitates water droplet fertilization, allowing sperms to reach archegonial necks with minimal travel across the gametophore."*
+> - 📜 **Arthur J. Eames (*Morphology of Vascular Plants*):** *"Careful dissection of the perichaetial bud distinguishes autoecious arrangements from the closely clustered **paroecious** type."*

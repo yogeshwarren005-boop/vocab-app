@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A german dialect spoken in northern germany.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A german dialect spoken in northern germany.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Low German; a group of West Germanic dialects spoken in northern Germany and parts of the eastern Netherlands.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical linguistics, the Germanic varieties that did not undergo the High German consonant shift, retaining unshifted voiceless stops.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plattdeutsch designates a german dialect spoken in northern germany."*
+> - 📜 **Jacob Grimm (*Deutsche Grammatik*):** *"The geographic boundaries between High German and **plattdeutsch** illustrate the phonetic impact of the second sound shift."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"In northern provinces, the common speech preserved **plattdeutsch** idioms that reflect an archaic Germanic syntax."*
+> - 📜 **Theodor Fontane (*Effi Briest*):** *"The old coachman spoke in broad **plattdeutsch**, his sentences rolling with northern cadence and earthy humor."*

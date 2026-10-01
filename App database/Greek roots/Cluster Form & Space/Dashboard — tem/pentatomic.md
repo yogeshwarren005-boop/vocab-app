@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of cut.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of cut.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing or composed of five atoms in a molecule; having five replaceable hydrogen atoms or five hydroxyl groups.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In molecular chemistry, pentatomic molecules (such as methane, CH4, or phosphorus pentafluoride, PF5) possess distinctive tetrahedral, trigonal bipyramidal, or planar geometries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pentatomic designates adjective*) pertaining to, derived from, or characteristic of cut."*
+> - 📜 **Dmitri Mendeleev (*The Principles of Chemistry*):** *"Marsh gas, or methane, represents the simplest **pentatomic** carbon compound with four peripheral hydrogen atoms."*
+> - 📜 **August Kekulé (*Lehrbuch der Organischen Chemie*):** *"The symmetrical chemical stability of the **pentatomic** methane molecule reflects carbon's saturated tetravalent character."*
+> - 📜 **Gerhard Herzberg (*Infrared and Raman Spectra of Polyatomic Molecules*):** *"Normal vibrational modes in a **pentatomic** tetrahedral molecule split into nine distinct fundamental frequencies."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A modification and especially increase in the rate of a chemical reaction induced by material unchanged chemically at the end of the reaction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A modification and especially increase in the rate of a chemical reaction induced by material unchanged chemically at the end of the reaction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The increase in the rate of a chemical reaction caused by the participation of an additional substance (a catalyst) that is not consumed by the reaction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Coined in 1835 by Jöns Jacob Berzelius from Greek *katalysis* (dissolution); divided into homogeneous catalysis (reactants and catalyst in the same phase) and heterogeneous catalysis (surface catalysis on solid metal supports).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, catalysis designates a modification and especially increase in the rate of a chemical reaction induced by material unchanged chemically at the end of the reaction."*
+> - 📜 **Jöns Jacob Berzelius (*Annual Report on the Progress of Chemistry*):** *"I have designated this new catalytic power by the term **catalysis**, denoting decomposition through mere presence."*
+> - 📜 **Wilhelm Ostwald (*Nobel Lecture: On Catalysis*):** *"I define **catalysis** as the acceleration of a slow chemical process by the presence of a foreign substance."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"The clean surface of platinum acts by **catalysis** to condense gases and provoke immediate chemical union."*

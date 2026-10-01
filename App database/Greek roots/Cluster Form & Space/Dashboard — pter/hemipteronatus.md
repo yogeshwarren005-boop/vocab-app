@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Razor fish.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Razor fish.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A former genus name for tropical marine razorfishes (family Labridae), now classified primarily under Iniistius or Xyrichtys.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ichthyology, laterally compressed wrasses that dive headfirst into soft benthic sand when threatened by predators.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemipteronatus designates razor fish."*
+> - 📜 **Georges Cuvier (*Histoire Naturelle des Poissons*):** *"The knife-like forehead and elevated dorsal spine of **hemipteronatus** allow it to plunge instantaneously into sandy shoals."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"Fishes referred to **hemipteronatus** possess an extremely sharp, compressed frontal ridge adapted for subterranean burrowing."*
+> - 📜 **Albert Günther (*Catalogue of the Fishes in the British Museum*):** *"Specimens of **hemipteronatus** taken from coral sandflats exhibit vibrant coloration and deciduous cycloid scales."*

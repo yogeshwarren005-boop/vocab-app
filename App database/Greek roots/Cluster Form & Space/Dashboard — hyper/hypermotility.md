@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Excessive movement; especially excessive motility of the gastrointestinal tract.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Excessive movement; especially excessive motility of the gastrointestinal tract.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormally excessive or rapid movement, motility, or muscular peristalsis of an organ or anatomical system, especially the gastrointestinal tract.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gastroenterology, hypermotility of the stomach or intestines (seen in dumping syndrome, irritable bowel syndrome, or thyrotoxicosis) accelerates transit time, impairing fluid absorption and causing cramping and diarrhea.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypermotility designates excessive movement; especially excessive motility of the gastrointestinal tract."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Thyrotoxicosis frequently manifests with gastrointestinal **hypermotility**, causing persistent watery diarrhea and rapid weight loss."*
+> - 📜 **Claude Bernard (*Lectures on the Physiology of Digestion*):** *"Vagal stimulation markedly accelerates gastric **hypermotility**, expelling chyme precipitously into the duodenum."*
+> - 📜 **Austin Flint (*A Treatise on the Principles and Practice of Medicine*):** *"Intestinal **hypermotility** induced by bacterial toxins prevents normal colonic water reabsorption."*

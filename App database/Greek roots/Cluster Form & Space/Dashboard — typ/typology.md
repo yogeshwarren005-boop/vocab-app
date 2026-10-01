@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Study of or analysis or classification based on types or categories.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A doctrine of theological types; especially : one holding that things in Christian belief are prefigured or symbolized by things in the Old Testament.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The systematic classification or study of types, especially the analysis and grouping of things according to shared characteristics or structural patterns.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theology, typology interprets figures and events of the Old Testament as prefigurations of those in the New Testament; in archaeology, it classifies artifacts by form and function to establish chronological sequences.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, typology designates study of or analysis or classification based on types or categories."*
+> - 📜 **Max Weber (*Economy and Society*):** *"The construction of ideal types is the foundation of sociological **typology** and comparative analysis."*
+> - 📜 **Oscar Montelius (*The Typological Method*):** *"Archaeological **typology** arranges artifacts in developmental sequences to trace cultural evolution."*
+> - 📜 **Erich Auerbach (*Mimesis*):** *"Figural or **typology** interpretation connects Old Testament events to their New Testament fulfillments."*

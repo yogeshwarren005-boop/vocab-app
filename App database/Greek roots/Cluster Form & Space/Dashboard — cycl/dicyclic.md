@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of circle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of circle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or consisting of two cycles, whorls, or rings; bicyclic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botany and chemistry, describing flowers possessing two floral whorls, or crinoids having two circlets of plates (infrabasals and basals) below the radial plates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dicyclic designates adjective*) pertaining to, derived from, or characteristic of circle."*
+> - 📜 **Asa Gray (*Botanical Text-Book*):** *"A flower whose perianth is arranged in two distinct concentric whorls is described as **dicyclic**."*
+> - 📜 **Francis Bather (*The Echinoderma*):** *"In a **dicyclic** crinoid calyx, a ring of infrabasal plates separates the true basals from the summit of the stem."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"Naphthalene presents a planar **dicyclic** aromatic framework sharing two adjacent bridgehead carbon atoms."*

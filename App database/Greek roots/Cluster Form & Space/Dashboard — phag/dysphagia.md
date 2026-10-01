@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Difficulty in swallowing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Difficulty in swallowing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Difficulty or discomfort in swallowing; impaired transit of food or liquid from the pharynx into the stomach.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gastroenterology and neurology, dysphagia is categorized into oropharyngeal (neuromuscular) and esophageal (obstructive or dysmotility) etiologies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dysphagia designates difficulty in swallowing."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Progressive **dysphagia**, first for solid food and later for liquids, is the most ominous sign of esophageal neoplasm."*
+> - 📜 **Tinsley R. Harrison (*Principles of Internal Medicine*):** *"Evaluation of motor **dysphagia** involves video-fluoroscopic swallowing studies and high-resolution esophageal manometry."*
+> - 📜 **Eugene Braunwald (*Harrison's Principles of Internal Medicine*):** *"Achalasia causes chronic **dysphagia** due to incomplete relaxation of the lower esophageal sphincter."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To a restricted area of the body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To a restricted area of the body.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner relating to current events or local subjects; by direct application to a local area or surface of the body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacology and therapeutics, drugs administered topically avoid systemic first-pass hepatic metabolism, minimizing systemic toxicity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, topically designates to a restricted area of the body."*
+> - 📜 **Florence Nightingale (*Notes on Nursing*):** *"Antiseptic dressings applied **topically** to open surgical wounds drastically curtailed the incidence of hospital gangrene."*
+> - 📜 **Oliver Wendell Holmes Sr. (*Medical Essays*):** *"The soothing lotion was applied **topically** to relieve intense burning along the inflamed cutaneous border."*
+> - 📜 **Matthew Arnold (*Essays in Criticism*):** *"The poet addressed the political crisis **topically**, infusing temporary events with enduring philosophical reflections."*

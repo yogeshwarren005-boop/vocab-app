@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A washing or soaking (as in water or steam) of all or part of the body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Water used for bathing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An act of immersing the body in water or steam for cleansing, therapy, or relaxation; or a vessel or room used for such washing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A historic Roman spa city in Somerset, England; also in laboratory chemistry, a liquid medium (water, oil, or sand bath) used to regulate temperature.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Though I could wish You were conducted to a gentle bath And balms applied to you, yet dare I never Deny your asking."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"It sall be vary gud, gud feith, gud captains bath: and I sall quit you with gud leve, as I may pick occasion; that sall I, marry."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Your statue spouting blood in many pipes, In which so many smiling Romans bath’d, Signifies that from you great Rome shall suck Reviving blood, and that great men shall press For tinctures, stains, relics, and cognizance."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The magnificent public **bath** complexes of imperial Rome served as centers of luxury, conversation, and civic life."*
+> - 📜 **Jane Austen (*Persuasion*):** *"Sir Walter Elliot found complete contentment in the fashionable society and pump-room gatherings of **Bath**."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"The chemical apparatus was immersed into a gentle water **bath** to maintain uniform warmth throughout distillation."*

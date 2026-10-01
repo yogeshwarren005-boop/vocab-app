@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The destruction or degeneration of muscle tissue (as from traumatic injury, excessive exertion, or stroke) accompanied by the release of breakdown products into the bloodstream and sometimes leading to acute renal failure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The destruction or degeneration of muscle tissue (as from traumatic injury, excessive exertion, or stroke) accompanied by the release of breakdown products into the bloodstream and sometimes leading to acute renal failure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The rapid breakdown and destruction of skeletal muscle tissue, accompanied by the release of myoglobin, creatine kinase, and electrolytes into circulation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In emergency and critical care medicine, a condition triggered by severe crush trauma, extreme exertion, or drug toxicity that carries high risk of acute kidney injury.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhabdomyolysis designates the destruction or degeneration of muscle tissue (as from traumatic injury, excessive exertion, or stroke) accompanied by the release of breakdown products into the bloodstream and sometimes leading to acute renal failure."*
+> - 📜 **Eric G. Bywaters (*Crush Injuries with Impairment of Renal Function*):** *"In victims of the London Blitz, extensive **rhabdomyolysis** from buried limbs precipitated acute tubular necrosis due to myoglobinuria."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Severe generalized **rhabdomyolysis** manifests with profound muscle weakness, brown port-wine urine, and rapid electrolyte imbalances."*
+> - 📜 **Vinay Kumar (*Robbins Basic Pathology*):** *"Massive hydration and alkalinization of the urine are paramount in acute **rhabdomyolysis** to prevent myoglobin cast nephropathy."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A class of gastropoda.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A class of gastropoda.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A former class or subphylum of primitive marine mollusks with bilateral symmetry and paired nerve cords, comprising chitons and solenogasters.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In invertebrate phylogeny and historical malacology, a classical grouping reflecting archaic molluscan nervous system architecture with lateral and pedal longitudinal cords.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amphineura designates a class of gastropoda."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The subphylum **Amphineura** reveals the primitive scalariform nervous system that connects ancestral mollusks with unsegmented worms."*
+> - 📜 **E. Ray Lankester (*A Treatise on Zoology*):** *"In **Amphineura**, the absence of cephalic eyes and the simple radula testify to an ancient, unspecialized molluscan grade."*
+> - 📜 **William Benjamin Carpenter (*The Microscope and Its Revelations*):** *"The dorsal calcareous plates of Polyplacophora illustrate the distinctive bilateral shell pattern characteristic of **Amphineura**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of the.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of the.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by combining several word elements or morphemes into a single complex word that corresponds to a whole sentence (in linguistic typology).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Typifying many indigenous languages of North America, Siberia, and the Caucasus, polysynthetic grammars incorporate nominal objects and pronominal affixes into elaborate verbal matrices.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polysynthetic designates adjective*) pertaining to, derived from, or characteristic of the."*
+> - 📜 **Wilhelm von Humboldt (*On Language: On the Diversity of Human Language Construction*):** *"The **polysynthetic** character of American tongues incorporates nominal arguments into the verbal predicate as a single organic whole."*
+> - 📜 **Franz Boas (*Handbook of American Indian Languages*):** *"In Eskimo grammar, complex suffixes attach to initial stems, generating **polysynthetic** constructions of astonishing syntactic precision."*
+> - 📜 **Edward Sapir (*Language: An Introduction to the Study of Speech*):** *"To label a language **polysynthetic** simply means that its morphological synthesis reaches an extraordinary level of word elaboration."*

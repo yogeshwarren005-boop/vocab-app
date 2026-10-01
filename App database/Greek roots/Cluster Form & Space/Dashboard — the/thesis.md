@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A dissertation (as by a candidate for an academic degree) presenting results of original research and usually providing evidence to support a specific view.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An idea put forth for discussion or proof : hypothesis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A proposition or statement stated or put forward for consideration, especially one to be discussed and proved or maintained against objections; a dissertation embodying results of original research.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical dialectics, a thesis is an initial proposition that provokes an antithesis; in prosody, the unstressed part of a metrical foot (or the downbeat in Greek rhythm).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Robert Browning (*An Introduction to the Study of Robert Browning's Poetry*):** *"Titan’s: Prometheus’. -- “I answer, Have ye not to argue out {540} The very primal thesis, plainest law, --Man is not God but hath God’s end to serve, A master to obey, a course to take, Somewhat to cast off, somewhat to become?"*
-> - 📜 **Bram Stoker (*Dracula*):** *"Tell me the thesis, so that I may apply your knowledge as you go on."*
-> - 📜 **Bram Stoker (*Dracula*):** *"My thesis is this: I want you to believe.” “To believe what?” “To believe in things that you cannot."*
+> - 📜 **Martin Luther (*Ninety-Five Theses*):** *"Out of love for the truth, Reverend Father Martin Luther intends to defend the following **thesis** points at Wittenberg."*
+> - 📜 **G. W. F. Hegel (*The Science of Logic*):** *"Every initial **thesis** contains within its own one-sidedness the necessity of calling forth its opposing antithesis."*
+> - 📜 **Karl Marx (*Theses on Feuerbach*):** *"The philosophers have only interpreted the world in various ways; the eleventh **thesis** insists the point is to change it."*

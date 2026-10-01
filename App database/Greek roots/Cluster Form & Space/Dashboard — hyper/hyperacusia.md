@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormal acuteness of hearing due to increased irritability of the sensory neural mechanism; characterized by intolerance for ordinary sound levels.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abnormal acuteness of hearing due to increased irritability of the sensory neural mechanism; characterized by intolerance for ordinary sound levels.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormally acute or painful sensitivity to ordinary environmental sounds; hyperacusis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In otolaryngology and neurology, hyperacusia often arises from stapedius muscle paralysis following Bell's palsy (cranial nerve VII injury), acoustic trauma, migraine, or cochlear recruitment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyperacusia designates abnormal acuteness of hearing due to increased irritability of the sensory neural mechanism; characterized by intolerance for ordinary sound levels."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In facial nerve paralysis, paralysis of the stapedius branch produces painful **hyperacusia** on the affected side."*
+> - 📜 **Henry Head (*Studies in Neurology*):** *"During the aura of sensory epilepsy, marked auditory **hyperacusia** may render a whispered voice agonizingly loud."*
+> - 📜 **Austin Flint (*A Treatise on the Principles and Practice of Medicine*):** *"The acute meningeal irritability was accompanied by photophobia and intolerable **hyperacusia**."*

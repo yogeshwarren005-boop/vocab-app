@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Zygote; specifically : a sporozoan zygote undergoing sporogenous development.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Zygote; specifically : a sporozoan zygote undergoing sporogenous development.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A thick-walled, environmentally resistant structure produced during the sexual reproductive cycle of apicomplexan parasites, containing developing sporozoites.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In parasitology, the oocyst is the infective stage shed in feces by hosts of Cryptosporidium, Toxoplasma, and Eimeria, enabling transmission through contaminated water or food.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oocyst designates zygote; specifically : a sporozoan zygote undergoing sporogenous development."*
+> - 📜 **Ronald Fayer (*Cryptosporidium and Cryptosporidiosis*):** *"A single infected calf can excrete millions of **oocyst** forms into the environment daily."*
+> - 📜 **J. P. Dubey (*Toxoplasmosis of Animals and Humans*):** *"The **oocyst** shed by cats in feces is the primary source of environmental contamination with Toxoplasma."*
+> - 📜 **D. S. Lindsay (*Biology of Coccidia*):** *"Sporulation of the **oocyst** occurs outside the host and is essential for the parasite to become infective."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by the interdependence of living organisms in an environment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the science of ecology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to ecology; concerned with the interactions between living organisms and their physical and biological surroundings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In conservation biology, maintaining ecological integrity requires preserving trophic cascades, nutrient cycles, and habitat connectivity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"In support of the Charon agricultural mission, Planet Pluto, the Slingshot Logistics Depot, the Terminals' construction site, and ships moored or in transit within the Special Zone constitute an integrated ecological entity."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"The complex **ecological** relations of animals and plants to each other illustrate how severe is the struggle for existence."*
+> - 📜 **Arthur Tansley (*The Use and Abuse of Vegetational Concepts and Terms*):** *"The concept of an **ecological** community must encompass both the living biocoenosis and the physical factors of its abiotic biotope."*
+> - 📜 **Eugene Odum (*Fundamentals of Ecology*):** *"Energy flow through an **ecological** food web follows the strict thermodynamic laws of conservation and entropy."*

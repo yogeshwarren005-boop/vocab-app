@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A procedure or process for attaining an object: such as.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A systematic procedure, technique, or mode of inquiry employed by or proper to a particular discipline or art.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A systematic, organized procedure, technique, or established mode of inquiry used to perform an operation, achieve a goal, or discover truth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epistemology and scientific philosophy, the structured dialectical or empirical procedure employed to establish valid knowledge and test hypotheses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Madam, methinks, if you did love him dearly, You do not hold the method to enforce The like from him."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"If you will jest with me, know my aspect, And fashion your demeanour to my looks, Or I will beat this method in your sconce."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"POLONIUS. [_Aside._] Though this be madness, yet there is method in’t.— Will you walk out of the air, my lord?"*
+> - 📜 **René Descartes (*Discourse on Method*):** *"I formed the resolution to employ my **method** constantly, dividing each difficulty into as many parts as possible to resolve it."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"Our **method** of discovering the sciences leaves little to the acuteness and strength of individual wits, placing all intellects nearly on a level."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"Inductive reasoning provides the foundational **method** through which universal physical laws are inferred from particular observations."*

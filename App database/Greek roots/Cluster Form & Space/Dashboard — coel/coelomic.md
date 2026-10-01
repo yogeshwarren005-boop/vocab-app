@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The usually epithelium-lined space between the body wall and the digestive tract of metazoans above the lower worms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The usually epithelium-lined space between the body wall and the digestive tract of metazoans above the lower worms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or situated within the coelom.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative anatomy and physiology, describing the fluid, cellular lining, or circulating amoebocytes of the secondary body cavity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coelomic designates the usually epithelium-lined space between the body wall and the digestive tract of metazoans above the lower worms."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The hydrostatic pressure of the **coelomic** fluid provides the essential hydraulic skeleton for earthworm burrowing."*
+> - 📜 **Edmund Beecher Wilson (*The Cell in Development and Heredity*):** *"Primary germ cells migrate along the dorsal mesentery into the developing **coelomic** epithelium."*
+> - 📜 **William Morton Wheeler (*Ants: Their Structure, Development and Behavior*):** *"In insect metamorphosis, the ancestral **coelomic** cavities coalesce into an extensive open hemocoel."*

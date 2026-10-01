@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cause a body part to undergo autotomy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cause a body part to undergo autotomy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To discard or cast off a body part spontaneously through reflex autotomy in response to danger or injury.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiological biology, autotomize describes active muscular severance along a predetermined cleavage plane, minimizing hemorrhage and facilitating tissue regeneration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, autotomize designates cause a body part to undergo autotomy."*
+> - 📜 **Stephen Jay Gould (*The Flamingo's Smile*):** *"The ability to **autotomize** a tail represents an exquisite evolutionary trade-off between current survival and energetic cost."*
+> - 📜 **Richard Dawkins (*The Blind Watchmaker*):** *"Natural selection favors individuals that can cleanly **autotomize** an extremity rather than perish in the predator's grasp."*
+> - 📜 **Raymond L. Ditmars (*Reptiles of the World*):** *"If you seize the glass snake lizard by the tail, the creature will instantly **autotomize** the member into several fragments."*

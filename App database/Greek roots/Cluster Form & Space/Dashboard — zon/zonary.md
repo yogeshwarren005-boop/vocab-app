@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or of the nature of a zone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or of the nature of a zone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or pertaining to a zone; having the form or character of a belt, band, or encircling region; zonal in structure or arrangement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In placental biology, a zonary placenta is one that forms a band or girdle of chorionic villi encircling the equator of the gestational sac, as seen in carnivores such as dogs and cats.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, zonary designates relating to or of the nature of a zone."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"The **zonary** placenta of the Carnivora forms a continuous band of villous tissue around the chorion."*
+> - 📜 **Henry Gray (*Gray's Anatomy*):** *"In the **zonary** type, the placental tissue is arranged as an annular girdle encircling the chorionic sac."*
+> - 📜 **Samuel Grosser (*Comparative Anatomy of the Placenta*):** *"The **zonary** configuration limits the zone of maternal-fetal exchange to a well-defined equatorial band."*

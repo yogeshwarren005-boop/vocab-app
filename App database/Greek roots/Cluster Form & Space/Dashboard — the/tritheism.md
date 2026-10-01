@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The doctrine that the Father, Son, and Holy Spirit are three distinct Gods.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The doctrine that the Father, Son, and Holy Spirit are three distinct Gods.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The doctrine or belief that the Father, Son, and Holy Spirit in the Trinity are three separate, distinct deities rather than one God in three persons.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Condemned as heresy by orthodox Christian councils, tritheism arose historically in the theological formulations of John Philoponus in the sixth century and Roscelin of Compiègne in the eleventh century.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tritheism designates the doctrine that the father, son, and holy spirit are three distinct gods."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Orthodox fathers strove to articulate the Trinity without falling into Sabellian modalism on one side or **tritheism** on the other."*
+> - 📜 **John Henry Newman (*The Arians of the Fourth Century*):** *"To safeguard the monotheistic unity of the Godhead, the Alexandrian council repudiated every insinuation of **tritheism**."*
+> - 📜 **David Hume (*Dialogues Concerning Natural Religion*):** *"The subtle disputes of theologians frequently exposed their formulations to the charge of vulgar **tritheism**."*

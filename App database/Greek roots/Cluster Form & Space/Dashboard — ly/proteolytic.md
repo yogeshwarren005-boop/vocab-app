@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to proteolysis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to proteolysis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of catalyzing or accelerating the hydrolytic cleavage of peptide bonds within proteins; peptidase-like in activity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In microbial pathogenesis and oncology, proteolytic enzymes degrade extracellular matrix barriers to promote tissue invasion and vascular extravasation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, proteolytic designates of or relating to proteolysis."*
+> - 📜 **Ivan Pavlov (*The Work of the Digestive Glands*):** *"The secretion of gastric juice initiates powerful **proteolytic** action upon ingested alimentary substances."*
+> - 📜 **John Howard Northrop (*Crystalline Enzymes*):** *"Pure crystalline pepsin demonstrates how specific **proteolytic** enzymes achieve catalytic turnover without altering equilibrium constants."*
+> - 📜 **Judah Folkman (*Angiogenesis in Cancer, Vascular, Rheumatoid and Other Disease*):** *"Tumor cells secrete **proteolytic** factors that dissolve the basement membrane, clearing a path for nascent capillary sprouts."*

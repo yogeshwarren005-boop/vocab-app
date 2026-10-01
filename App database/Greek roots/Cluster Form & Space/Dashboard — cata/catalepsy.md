@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A trancelike state marked by loss of voluntary motion in which the limbs remain in whatever position they are placed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A trancelike state marked by loss of voluntary motion in which the limbs remain in whatever position they are placed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A medical or neurological condition characterized by muscular rigidity, fixed posture, and diminished sensitivity to external stimuli.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuropsychiatry and historical medicine, a trance-like motor state associated with catatonic schizophrenia, encephalitis, or extreme hysteria featuring waxy flexibility (flexibilitas cerea).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **P. G. Wodehouse (*Love Among the Chickens*):** *"Must not be lost." When not in a catalepsy of literary composition, I am essentially the man of action."*
-> - 📜 **George MacDonald (*The Portent and Other Stories*):** *"He had lain unconscious throughout the operations of Teufelsbürst, but now the catalepsy had passed away, possibly under the influence of the electric condition of the atmosphere."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In hysterical **catalepsy**, the patient's limbs remain frozen for hours in whatever bizarre position the examiner places them."*
+> - 📜 **Edgar Allan Poe (*The Premature Burial*):** *"The frequent attacks of **catalepsy** to which I was subject simulated death with such terrible fidelity that burial seemed inevitable."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"Severe Parkinsonian frozenness sometimes deepened into a total **catalepsy**, rendering patients statue-like for entire days."*

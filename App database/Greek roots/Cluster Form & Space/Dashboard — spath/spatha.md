@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek spath.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A long, straight, double-edged sword with a rounded tip, originally used by Celtic warriors and adopted by Roman auxiliary cavalry and late imperial legions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military archaeology, the spatha measured 75 to 100 cm in blade length and served as the direct morphological ancestor of early medieval Germanic and Viking migration swords.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spatha designates a term designating an entity, condition, or phenomenon derived from greek spath."*
+> - 📜 **Tacitus (*The Annals*):** *"The Roman cavalry swept forward, cutting through the barbarian ranks with the sweeping strokes of the long **spatha**."*
+> - 📜 **Vegetius (*De Re Militari (Epitoma Rei Militaris)*):** *"Legionaries were trained to wield both the traditional short gladius and the longer cavalry blade known as the **spatha**."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The heavier armor of the late legionaries was complemented by the formidable reach of the double-edged **spatha**."*

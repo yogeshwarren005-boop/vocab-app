@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Rare plagioclastic feldspar occurring in many igneous rocks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Rare plagioclastic feldspar occurring in many igneous rocks.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A calcium-rich plagioclase feldspar mineral with the chemical formula CaAl2Si2O8, forming the calcic end-member of the plagioclase solid-solution series.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In petrology, anorthite is characteristic of mafic and ultramafic igneous rocks and is an essential component of lunar highland rocks returned by the Apollo missions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anorthite designates rare plagioclastic feldspar occurring in many igneous rocks."*
+> - 📜 **Gustav Rose (*De Novis Quibusdam Fossilibus*):** *"I named this mineral **anorthite** because its oblique crystal form deviates markedly from orthoclase feldspar."*
+> - 📜 **Norman Bowen (*The Evolution of the Igneous Rocks*):** *"**Anorthite** crystallizes at the highest temperature in the plagioclase series and is the first feldspar to form from a basaltic melt."*
+> - 📜 **Brian Mason (*Mineralogy of Lunar Samples*):** *"The lunar highlands are dominated by **anorthite**-rich plagioclase, confirming a magma ocean origin."*

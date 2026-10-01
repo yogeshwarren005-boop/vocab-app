@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek pentecont.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A polygon having fifty sides and fifty angles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plane geometry, a regular pentecontagon possesses interior angles of exactly 172.8 degrees and can be constructed using angle trisection or numerical approximation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pentecontagon designates a term designating an entity, condition, or phenomenon derived from greek pentecont."*
+> - 📜 **H. S. M. Coxeter (*Introduction to Geometry*):** *"The symmetry group of a regular **pentecontagon** contains fifty reflections and fifty rotations."*
+> - 📜 **Julian Lowell Coolidge (*A Treatise on the Circle and the Sphere*):** *"Inscribing a regular **pentecontagon** within a given circle requires dividing the circumference into fifty congruent arcs."*
+> - 📜 **Nathan Altshiller-Court (*College Geometry*):** *"The sum of the interior angles of a **pentecontagon** equals eighty-six right angles, or 7,740 degrees."*

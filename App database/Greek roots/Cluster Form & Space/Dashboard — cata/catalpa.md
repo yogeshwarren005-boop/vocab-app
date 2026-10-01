@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tree of the genus catalpa with large leaves and white flowers followed by long slender pods.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tree of the genus catalpa with large leaves and white flowers followed by long slender pods.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of deciduous flowering trees in the family Bignoniaceae, native to North America and East Asia, having large heart-shaped leaves and showy white flowers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In horticulture and forestry, commonly known as the cigar tree or Indian bean tree, valued for shade and durable rot-resistant timber.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, catalpa designates tree of the genus catalpa with large leaves and white flowers followed by long slender pods."*
+> - 📜 **Henry David Thoreau (*The Journal of Henry David Thoreau*):** *"The great blossoms of the **catalpa** resemble miniature spotted foxgloves massed together in broad, fragrant pyramids."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"In late autumn the **catalpa** drops its immense heart-shaped leaves, leaving long bean-like pods dangling from bare boughs."*
+> - 📜 **Walt Whitman (*Specimen Days*):** *"Sitting beneath the leafy canopy of a flowering **catalpa**, I watched the hummingbirds dart among the white bells."*

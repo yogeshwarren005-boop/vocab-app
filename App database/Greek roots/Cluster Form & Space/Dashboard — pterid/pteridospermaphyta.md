@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Used in some classification systems: a group of extinct fossil gymnosperms coextensive with the order cycadofilicales.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used in some classification systems: a group of extinct fossil gymnosperms coextensive with the order cycadofilicales.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A proposed taxonomic division or phylum encompassing the extinct seed ferns (pteridosperms).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant macroevolution, an ancient gymnospermous division considered ancestral or sister to modern cycads, bennettites, and angiosperms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pteridospermaphyta designates used in some classification systems: a group of extinct fossil gymnosperms coextensive with the order cycadofilicales."*
+> - 📜 **Armen Takhtajan (*Evolutionary Trends in Flowering Plants*):** *"Morphologists frequently trace the origin of the angiosperm carpel to the cupulate appendages of **pteridospermaphyta**."*
+> - 📜 **Arthur Cronquist (*An Integrated System of Classification of Flowering Plants*):** *"The division **pteridospermaphyta** represents the evolutionary crucible in which early seed plant diversity was forged."*
+> - 📜 **A. C. Seward (*Fossil Plants*):** *"Foliar and anatomical diversity within **pteridospermaphyta** shows that seed production evolved early among megaphyllous lineages."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeding on insects.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Feeding on insects.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeding on or consuming insects; insectivorous.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In trophic ecology and human nutrition, entomophagous animals (like anteaters, bats, and swallows) control insect populations, while human entomophagy is studied as a sustainable protein source.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, entomophagous designates feeding on insects."*
+> - 📜 **Alfred Russel Wallace (*Darwinism: An Exposition of the Theory of Natural Selection*):** *"Mimetic protective colorations evolved specifically to deceive keen-sighted **entomophagous** birds."*
+> - 📜 **Charles Darwin (*Insectivorous Plants*):** *"The specialized glandular hairs of sundews prove that a plant can adopt an **entomophagous** habit in nitrogen-poor bogs."*
+> - 📜 **Richard Lydekker (*The Royal Natural History*):** *"The pangolin and aardvark exhibit extreme morphological convergence suited to their **entomophagous** diet."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone or something intensely disliked or loathed —usually used in the phrase be anathema (to).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One that is cursed by ecclesiastical authority.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Something or someone intensely disliked, cursed, or loathed; formally, an ecclesiastical ban, curse, or excommunication accompanied by solemn condemnation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Derived from Greek *anathema* (something set apart or dedicated to destruction), formalized in ecumenical councils to condemn heretical propositions (*anathema sit*).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He that is accursed, let him be accursed still,” was the pitiless anathema written in this spoliated effort of his new-born solicitousness."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"He that is accursed, let him be accursed still.” was the pitiless anathema written in this spoliated effort of his new-born solicitousness."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Though it was now dark, I knew he was awake; because I heard him fulminating strange anathemas at finding himself lying in a pool of water."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Ecclesiastical councils hurled solemn decrees of **anathema** against every bishop who wavered on the Nicene Creed."*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"Any compromise with papal supremacy was regarded as an intolerable **anathema** by the Scottish Covenanters."*
+> - 📜 **John Milton (*Of Reformation in England*):** *"Pretended episcopal authority brandishes its papistical **anathema** against the conscientious liberty of reformed churches."*

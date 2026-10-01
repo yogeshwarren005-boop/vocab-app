@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An antacid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An antacid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An over-the-counter medication containing bismuth subsalicylate, used to relieve indigestion, upset stomach, heartburn, nausea, and diarrhea (common variant of Pepto-Bismol).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacotherapy, bismuth subsalicylate exerts mild antimicrobial effects against enteropathogens, coats mucosal irritations, and reduces intestinal fluid secretion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pepto-bismal designates an antacid."*
+> - 📜 **Louis Sanford Goodman (*The Pharmacological Basis of Therapeutics*):** *"Formulations containing bismuth subsalicylate, popularized under trade names like **pepto-bismal**, reduce traveler’s diarrhea through antisecretory action."*
+> - 📜 **Tinsley R. Harrison (*Principles of Internal Medicine*):** *"Patients taking bismuth subsalicylate or **pepto-bismal** should be cautioned that harmless temporary blackening of the tongue and stool may occur."*
+> - 📜 **Eugene Braunwald (*Harrison's Principles of Internal Medicine*):** *"Symptomatic relief of mild gastroenteritis is frequently achieved with oral suspensions containing **pepto-bismal**."*

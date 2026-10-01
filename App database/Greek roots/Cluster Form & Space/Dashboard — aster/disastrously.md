@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a disastrous manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a disastrous manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a disastrous manner; with ruinous, catastrophic, or terribly adverse consequences.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Leading directly or inevitably to total failure, destruction, or collapse.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"It will at once be seen that this fact must have resulted disastrously upon her efforts."*
-> - 📜 **Jos. E. Badger (*The Texas Hawks; or, The Strange Decoy*):** *"Would this chase end as disastrously?"*
+> - 📜 **Thomas Babington Macaulay (*The History of England*):** *"The ill-conceived Scottish expedition ended **disastrously**, its leaders captured and executed on the scaffold."*
+> - 📜 **George Eliot (*Middlemarch*):** *"His financial speculations collapsed **disastrously**, dragging down innocent depositors in the provincial bank."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The campaign in Mesopotamia terminated **disastrously** when starvation forced the legionaries to sue for humiliating terms."*

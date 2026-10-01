@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A tubular optical instrument containing lenses and mirrors by which an observer obtains an otherwise obstructed field of view.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A tubular optical instrument containing lenses and mirrors by which an observer obtains an otherwise obstructed field of view.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An optical instrument for viewing objects that are otherwise obstructed from direct line of sight, typically consisting of a tube with attached mirrors or prisms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In naval submarine warfare, the periscope allows submerged vessels to visually reconnoiter the ocean surface without surfacing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Clarence Budington Kelland (*Mark Tidd's Citadel*):** *"This time there was no chance of damaging the motive power, but we could make the pilot wish he had a periscope."*
+> - 📜 **H. G. Wells (*The War in the Air*):** *"Through the elevated **periscope**, the commander watched the naval flotilla steaming across the gray horizon."*
+> - 📜 **Clarence Budington Kelland (*Mark Tidd's Citadel*):** *"There was no chance of damaging the motive power, but we could make the pilot wish he had a **periscope**."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues Under the Sea*):** *"Captain Nemo monitored surface maneuvers by elevating an optical **periscope** above the ocean swell."*

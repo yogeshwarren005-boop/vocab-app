@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument that performs analyses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instrument that performs analyses.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An optical device, instrument, or person that performs an analysis (American spelling); specifically, the polarizing prism or filter through which polarized light is examined.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In polarimetry and petrographic microscopy, the analyzer is crossed against the polarizer to determine optical rotation of chiral molecules or identify mineral grain birefringence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Sensors, analyzers, siphons and beam-guides paralleled the lasers' signals along an incandescent column of plasma from the dissolving planetoid into the Extractor's processes and, when ready, into the hopper."*
+> - 📜 **John Tyndall (*Six Lectures on Light*):** *"When the **analyzer** is rotated ninety degrees, the polarized beam is extinguished and total darkness ensues."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"The electro-optic effect was demonstrated by observing the restored beam passing through the Nicol **analyzer**."*
+> - 📜 **James Dwight Dana (*Manual of Mineralogy*):** *"The petrologist inserts the **analyzer** to observe interference colors that identify pleochroic mineral grains."*

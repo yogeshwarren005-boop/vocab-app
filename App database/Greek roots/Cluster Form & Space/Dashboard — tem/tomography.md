@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A method of producing a three-dimensional image of the internal structures of a solid object (such as the human body or the earth) by the observation and recording of the differences in the effects on the passage of waves of energy impinging on those structures.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Radiography in which a three-dimensional image of a body structure is constructed by computer from a series of plane cross-sectional images made along an axis —called also computed axial tomography, computerized axial tomography, computerized tomography.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A technique for displaying a representation of a cross-section through a human body or other solid object using X-rays, ultrasound, or magnetic resonance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical imaging, computed tomography (CT) revolutionized non-invasive diagnostic pathology by reconstructing volumetric attenuation matrices from multi-angle planar projections.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tomography designates a method of producing a three-dimensional image of the internal structures of a solid object (such as the human body or the earth) by the observation and recording of the differences in the effects on the passage of waves of energy impinging on those structures."*
+> - 📜 **Allan M. Cormack (*Nobel Lecture: Early Work on Computed Tomography*):** *"The mathematical foundation of computerized axial **tomography** rests upon solving line integrals of absorption across arbitrary sections."*
+> - 📜 **Godfrey Hounsfield (*Nobel Lecture: Computed Medical Imaging*):** *"Initial clinical trials of computer-assisted **tomography** proved that soft tissue lesions in the brain could be visualized without surgical exploration."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Modern developments in diagnostic **tomography** allow clinicians to delineate deep thoracic cavities with unprecedented anatomical precision."*

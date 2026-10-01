@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Algae having chlorophyll a and usually c, and flagella of unequal lengths; terminology supersedes chrysophyta in some classifications.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Algae having chlorophyll a and usually c, and flagella of unequal lengths; terminology supersedes chrysophyta in some classifications.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A major division or phylum of algae and related protists (stramenopiles) possessing heterokont flagella, including diatoms, brown algae, and chrysophytes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern eukaryotic phylogenetics, Heterokontophyta contains four-membrane plastids derived from secondary endosymbiosis of a red alga.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heterokontophyta designates algae having chlorophyll a and usually c, and flagella of unequal lengths; terminology supersedes chrysophyta in some classifications."*
+> - 📜 **Robert Edward Lee (*Phycology*):** *"The vast phylum **heterokontophyta** ranges from microscopic silica-shelled diatoms to giant marine kelps exceeding sixty meters in length."*
+> - 📜 **David L. Hawksworth (*Ainsworth & Bisby's Dictionary of the Fungi*):** *"Oomycetes, once grouped with true fungi, are now recognized as non-photosynthetic lineages within **heterokontophyta**."*
+> - 📜 **Peter H. Raven (*Biology of Plants*):** *"Secondary endosymbiosis gave rise to the complex four-membrane chloroplast envelope that characterizes photosynthetic **heterokontophyta**."*

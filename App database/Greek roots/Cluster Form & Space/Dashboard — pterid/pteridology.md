@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The study of ferns.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The study of ferns.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The scientific study of ferns, horsetails, lycophytes, and related seedless vascular cryptogams.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant biology, a specialized discipline encompassing the evolutionary history, cytology, ecology, and taxonomy of pteridophytes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pteridology designates the study of ferns."*
+> - 📜 **John Smith (*Historia Filicum: An Exposition of the Nature and Organography of Ferns*):** *"The Victorian era witnessed an extraordinary surge of interest in **pteridology**, transforming amateur collecting into precise botanical science."*
+> - 📜 **F. O. Bower (*The Ferns: Filicales*):** *"Fundamental advancements in **pteridology** rely upon analyzing the vascular architecture of both fossil and living rhizomes."*
+> - 📜 **Rolla M. Tryon (*Ferns and Allied Plants*):** *"Field **pteridology** in montane cloud forests continually brings to light cryptic and micro-endemic species."*

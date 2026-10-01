@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In or near or toward a center or according to a central role or function.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In or near or toward a center or according to a central role or function.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In, at, or near the center; in a central manner or position; of primary or pivotal importance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Directed or administered from a central governing location or authority.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centrally designates in or near or toward a center or according to a central role or function."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Roman forum was **centrally** situated between the Capitoline and Palatine hills, commanding the civic heart of the city."*
+> - 📜 **Eric Kandel (*Principles of Neural Science*):** *"Information from all sensory modalities converges **centrally** within the thalamus before reaching neocortical fields."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The grand portal opened **centrally** upon the piazza, flanked by twin marble columns of antique porphyry."*

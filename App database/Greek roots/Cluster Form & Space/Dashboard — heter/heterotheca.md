@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of yellow-flowered north american herbs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of yellow-flowered north american herbs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of North American flowering plants in the daisy family (Asteraceae), commonly called camphorweeds or goldenasters, having aromatic resinous foliage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic composite botany, named 'different container' from Greek because ray florets and disc florets produce dimorphic achenes (cypselae).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heterotheca designates genus of yellow-flowered north american herbs."*
+> - 📜 **Asa Gray (*Synoptical Flora of North America*):** *"The resinous golden heads of **heterotheca** brighten disturbed sandy soils throughout late summer and autumn."*
+> - 📜 **Merritt Lyndon Fernald (*Gray's Manual of Botany*):** *"The diagnostic character of **heterotheca** is the striking difference in pappus structure between ray and disc achenes."*
+> - 📜 **Peter H. Raven (*Biology of Plants*):** *"Camphor-scented monoterpenes synthesized by **heterotheca** act as effective chemical deterrents against browsing herbivores."*

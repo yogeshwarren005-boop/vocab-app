@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of a plant ovule) partly inverted; turned back 90 degrees on its stalk.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of a plant ovule) partly inverted; turned back 90 degrees on its stalk.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Describing an ovule in plants whose body is curved half-way around on its stalk, so that both the micropyle and chalaza are situated laterally.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical embryology and organography, an ovule orientation intermediate between anatropous and campylotropous configurations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amphitropous designates (of a plant ovule) partly inverted; turned back 90 degrees on its stalk."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"An **amphitropous** ovule is half inverted, with the hilum situated centrally along its lateral curvature."*
+> - 📜 **John Lindley (*An Introduction to Botany*):** *"In certain Caryophyllaceae, the ovule is distinctly **amphitropous**, bending upon its stalk so that base and apex lie transverse."*
+> - 📜 **William Benjamin Carpenter (*Principles of General and Comparative Physiology*):** *"The vascular raphe terminates prematurely in the **amphitropous** seed, distributing nourishment across the mid-region."*

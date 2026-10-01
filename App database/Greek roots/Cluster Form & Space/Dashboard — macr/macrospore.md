@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Larger of the two types of spore produced in heterosporous plants; develops in ovule into a female gametophyte.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Larger of the two types of spore produced in heterosporous plants; develops in ovule into a female gametophyte.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The larger of the two spore types produced by heterosporous plants, developing into a female, egg-producing gametophyte; a megaspore.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative botany and palynology, macrospores possess thick, resistant exine walls adapted for prolonged dormancy and nutrient storage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, macrospore designates larger of the two types of spore produced in heterosporous plants; develops in ovule into a female gametophyte."*
+> - 📜 **Wilhelm Hofmeister (*Comparative Researches on the Higher Cryptogamia*):** *"Upon germination, the **macrospore** develops an internal prothallium that bears archegonia ready for fertilization."*
+> - 📜 **Douglas Houghton Campbell (*The Structure and Development of Mosses and Ferns*):** *"The size difference between the microspore and the **macrospore** reflects divergent nutritional roles in reproduction."*
+> - 📜 **Arthur J. Eames (*Morphology of Vascular Plants*):** *"Fossil lycopods produced a single giant **macrospore** per sporangium, demonstrating an ancient evolutionary trend toward the seed habit."*

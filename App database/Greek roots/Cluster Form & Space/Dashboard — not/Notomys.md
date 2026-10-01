@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek not.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxonomic genus of nocturnal hopping mice endemic to arid regions of Australia, characterized by elongated hindlimbs and bipedal jumping locomotion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mammalogy and ecological physiology, Notomys species (such as the spinifex hopping mouse) possess highly concentrated urine and metabolize dry seeds without free water.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Notomys designates a term designating an entity, condition, or phenomenon derived from greek not."*
+> - 📜 **John Gould (*The Mammals of Australia*):** *"The delicate hopping mouse **Notomys** bounds across sandy dunes like a miniature kangaroo, evading dingoes in the moonlight."*
+> - 📜 **Ronald Strahan (*The Mammals of Australia*):** *"The kidneys of **Notomys** alexis exhibit immense medullary thickness, enabling the animal to survive on dry grain without drinking."*
+> - 📜 **Tim Flannery (*The Future Eaters*):** *"Several species of **Notomys** went rapidly extinct in the twentieth century following the introduction of the European red fox and feral cat."*

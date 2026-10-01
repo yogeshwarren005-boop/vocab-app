@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek morph.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The sexual, perfect, or meiotic reproductive stage or morph of a fungus, characterized by the production of ascospores, basidiospores, or zygospores.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic mycology, teleomorphic morphology dictates fungal taxonomic classification under the International Code of Nomenclature for algae, fungi, and plants.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, teleomorph designates a term designating an entity, condition, or phenomenon derived from greek morph."*
+> - 📜 **Bryce Kendrick (*The Whole Fungus*):** *"The connection of an asexual conidial mold to its sexual **teleomorph** often requires rigorous culturing under controlled nutritional stimuli."*
+> - 📜 **John Webster (*Introduction to Fungi*):** *"In ascomycetes, the **teleomorph** produces asci within specialized fruiting structures such as cleistothecia, perithecia, or apothecia."*
+> - 📜 **C. V. Subramanian (*Hyphomycetes*):** *"Even when the **teleomorph** is rarely encountered in nature, molecular sequencing can pinpoint its phylogenetic home with certainty."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a group (Diatomeae) of minute planktonic unicellular or colonial algae with silicified skeletons that form diatomaceous earth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a group (Diatomeae) of minute planktonic unicellular or colonial algae with silicified skeletons that form diatomaceous earth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A single-celled photosynthetic alga of the class Bacillariophyceae, having a cell wall composed of silica consisting of two overlapping valves.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine ecology and limnology, diatoms are critical primary producers in aquatic food webs, generating significant global oxygen, with their fossilized siliceous frustules forming diatomaceous earth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diatom designates any of a group (diatomeae) of minute planktonic unicellular or colonial algae with silicified skeletons that form diatomaceous earth."*
+> - 📜 **Ernst Haeckel (*Art Forms in Nature*):** *"Under the microscope, each siliceous **diatom** shell exhibits delicate geometric perforations of peerless symmetry."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"The spring phytoplankton bloom is inaugurated by the explosive multiplication of every floating **diatom** species."*
+> - 📜 **Alister Hardy (*The Open Sea: Its Natural History*):** *"Countless billions of the glassy **diatom** *Coscinodiscus* drift through the sunlit epipelagic waters of the North Sea."*

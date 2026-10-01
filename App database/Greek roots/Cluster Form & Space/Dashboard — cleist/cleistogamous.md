@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by or being small inconspicuous closed self-pollinating flowers additional to and often more fruitful than showier ones on the same plant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by or being small inconspicuous closed self-pollinating flowers additional to and often more fruitful than showier ones on the same plant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Producing flowers that remain closed and are automatically self-fertilized within the bud.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant biology, designating a breeding system that provides guaranteed reproductive assurance at minimal energetic cost compared to open chasmogamous flowers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cleistogamous designates characterized by or being small inconspicuous closed self-pollinating flowers additional to and often more fruitful than showier ones on the same plant."*
+> - 📜 **Charles Darwin (*The Different Forms of Flowers on Plants of the Same Species*):** *"Plants bearing **cleistogamous** flowers economize their pollen to a wonderful degree, producing only a fraction of the grains found in ordinary blooms."*
+> - 📜 **Henry David Thoreau (*Faith in a Seed*):** *"Beneath the showy spring petals of the violet lie hidden **cleistogamous** pods, steadily ripening plump seeds against the damp ground."*
+> - 📜 **Ernst Mayr (*Animal Species and Evolution*):** *"The evolution of **cleistogamous** reproduction in isolated plant populations safeguards locally adapted genotypes from swamping."*

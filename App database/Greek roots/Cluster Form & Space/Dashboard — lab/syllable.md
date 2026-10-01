@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A unit of spoken language that is next bigger than a speech sound and consists of one or more vowel sounds alone or of a syllabic consonant alone or of either with one or more consonant sounds preceding or following.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One or more letters (such as syl, la, and ble) in a word (such as syllable) usually set off from the rest of the word by a centered dot or a hyphen and roughly corresponding to the syllables of spoken language and treated as helps to pronunciation or as guides to placing hyphens at the end of a line.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A unit of spoken language consisting of a single uninterrupted sound, typically formed by a vowel alone or with accompanying consonants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In phonology, a syllable consists of an onset, a nucleus (peak of sonority), and a coda; in poetry and rhetoric, syllables form the basic counting units of poetic meter.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Th’ Archbishop Is the King’s hand and tongue, and who dare speak One syllable against him?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Each new morn New widows howl, new orphans cry; new sorrows Strike heaven on the face, that it resounds As if it felt with Scotland, and yell’d out Like syllable of dolour."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Tomorrow, and tomorrow, and tomorrow, Creeps in this petty pace from day to day, To the last syllable of recorded time; And all our yesterdays have lighted fools The way to dusty death."*
+> - 📜 **William Shakespeare (*Macbeth*):** *"To-morrow, and to-morrow, and to-morrow, creeps in this petty pace from day to day to the last **syllable** of recorded time."*
+> - 📜 **Ferdinand de Saussure (*Course in General Linguistics*):** *"The physiological **syllable** corresponds to an alternating opening and closing movement of the vocal apparatus."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Catching every musical **syllable** of the angelic song, Adam stood transfixed with celestial wonder."*

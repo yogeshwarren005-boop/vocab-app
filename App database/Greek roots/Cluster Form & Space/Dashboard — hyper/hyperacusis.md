@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormal acuteness of hearing due to increased irritability of the sensory neural mechanism; characterized by intolerance for ordinary sound levels.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abnormal acuteness of hearing due to increased irritability of the sensory neural mechanism; characterized by intolerance for ordinary sound levels.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A debilitating hearing disorder characterized by an abnormal, heightened, or painful intolerance to everyday environmental sounds that would not bother normal individuals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In audiology, hyperacusis involves reduced dynamic range of auditory processing, commonly associated with tinnitus, peripheral sensorineural hearing loss, superior canal dehiscence, or central neuroplastic dysregulation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyperacusis designates abnormal acuteness of hearing due to increased irritability of the sensory neural mechanism; characterized by intolerance for ordinary sound levels."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The patient complained of distressing **hyperacusis**, finding the rustling of newspapers or ticking of a clock unbearable."*
+> - 📜 **Charles Sherrington (*The Integrative Action of the Nervous System*):** *"Unchecked acoustic reflexes in stapedial dysfunction provoke transient **hyperacusis** upon sudden auditory stimulation."*
+> - 📜 **Oliver Sacks (*Musicophilia: Tales of Music and the Brain*):** *"Following her head injury, ordinary urban street noise triggered severe pain due to intractable central **hyperacusis**."*

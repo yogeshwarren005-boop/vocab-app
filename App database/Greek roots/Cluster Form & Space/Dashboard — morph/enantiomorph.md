@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Enantiomer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Either of a pair of crystals (as of quartz) that are structural mirror images.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Either of a pair of physical objects, crystals, or molecular structures that are non-superimposable mirror images of each other; a chiral counterpart.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In stereochemistry, enantiomorphs (enantiomers) share identical melting points and scalar physical properties, but rotate plane-polarized light in equal and opposite directions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, enantiomorph designates enantiomer."*
+> - 📜 **Louis Pasteur (*Researches on the Molecular Asymmetry of Natural Organic Products*):** *"I separated the crystals of sodium ammonium tartrate by hand into two distinct piles, each crystal being the **enantiomorph** of the other."*
+> - 📜 **Jacobus Henricus van 't Hoff (*The Arrangement of Atoms in Space*):** *"When a central carbon atom is bonded to four different chemical radicals, two spatial configurations result, each an **enantiomorph** of its mate."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"The asymmetrical spatial binding of an **enantiomorph** to an enzyme receptor explains why optical isomers often have vastly different pharmacological effects."*

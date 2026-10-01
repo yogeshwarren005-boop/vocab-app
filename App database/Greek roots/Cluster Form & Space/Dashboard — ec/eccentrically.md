@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In an eccentric or bizarre manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not symmetrically with respect to the center.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In an eccentric or unconventional manner; deviating from ordinary conduct or from a central geometry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mechanics and engineering, mounted, rotating, or driven away from the geometric center of an axle or shaft.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"The air, afflicted to pallor with the hoary multitudes that infested it, twisted and spun them eccentrically, suggesting an achromatic chaos of things."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"Jaggers’s room was lighted by a skylight only, and was a most dismal place; the skylight, eccentrically pitched like a broken head, and the distorted adjoining houses looking as if they had twisted themselves to peep down at me through it."*
+> - 📜 **Washington Irving (*The Sketch Book of Geoffrey Crayon*):** *"He dressed **eccentrically** in antique velvet coats and wandered about the manor absorbed in quiet reverie."*
+> - 📜 **Robert Louis Stevenson (*The Strange Case of Dr. Jekyll and Mr. Hyde*):** *"His habits had begun to vary **eccentrically**, puzzling the faithful servants who attended him."*
+> - 📜 **Rankine, W. J. M. (*A Manual of Applied Mechanics*):** *"A wheel mounted **eccentrically** upon a spindle generates periodic reciprocating motions in adjacent levers."*

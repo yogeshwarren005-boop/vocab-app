@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of straight.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of straight.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, having, or situated at an orthocenter, specifically the common intersection point of the three altitudes of a triangle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geometry, designating an orthocentric system or quadrangle in which each of four points is the orthocenter of the triangle formed by the other three.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, orthocentric designates adjective*) pertaining to, derived from, or characteristic of straight."*
+> - 📜 **Nathan Altshiller-Court (*College Geometry*):** *"Any four points which form an **orthocentric** system possess the property that each is the orthocenter of the triangle formed by the remaining three."*
+> - 📜 **H. S. M. Coxeter (*Introduction to Geometry*):** *"The altitudes of any triangle concur in an **orthocentric** point whose properties mirror those of the circumcenter."*
+> - 📜 **Julian Lowell Coolidge (*A Treatise on the Circle and the Sphere*):** *"We observe that the four points of an **orthocentric** group have identical nine-point circles."*

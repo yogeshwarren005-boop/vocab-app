@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek sperm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Life & Vitality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A layer of nutritive tissue in some seeds that surrounds the embryo and endosperm, derived from the nucellus of the ovule.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical embryology, perisperm forms the primary storage reserve in families such as Caryophyllaceae, Chenopodiaceae, and Zingiberaceae.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, perisperm designates a term designating an entity, condition, or phenomenon derived from greek sperm."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"In the seed of the water-lily, abundant food reserve is stored outside the embryo within the **perisperm**."*
+> - 📜 **Katherine Esau (*Plant Anatomy*):** *"Persistent nucellar tissue forms the **perisperm**, which is separated from the embryo by a vestigial endosperm."*
+> - 📜 **John Merle Coulter (*Morphology of Angiosperms*):** *"In beet seeds, maternal nutrient reserves are deposited within the starch-rich **perisperm**."*

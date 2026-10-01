@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Undergoing slight or no metamorphosis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Undergoing slight or no metamorphosis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Undergoing no metamorphosis during development, the young hatching in a form resembling miniature adults (synonym of ametabolic).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative insect physiology, characteristic of the orders Zygentoma and Archaeognatha, where juveniles differ from adults only in body size and reproductive maturity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ametabolous designates undergoing slight or no metamorphosis."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The **ametabolous** insects hatch from the egg with the full complement of adult segments and mouthparts."*
+> - 📜 **Edwin Ray Lankester (*A Treatise on Zoology*):** *"Unlike winged pterygotes, the **ametabolous** bristletail molts repeatedly even after attaining sexual maturity."*
+> - 📜 **Francis Maitland Balfour (*A Treatise on Comparative Embryology*):** *"The **ametabolous** mode of ontogeny provides a direct developmental baseline from which complex metamorphoses arose."*

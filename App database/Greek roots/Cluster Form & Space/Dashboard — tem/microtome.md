@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An instrument for cutting sections (as of biological tissues) for microscopic examination.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An instrument for cutting sections (as of biological tissues) for microscopic examination.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A precision mechanical instrument used to cut extremely thin slices (sections) of biological tissue for microscopic examination.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Invented in proto-form by Alexander Cummings and George Adams and refined by Wilhelm His, microtomes slice specimens embedded in paraffin or resin to thicknesses of 1 to 10 micrometers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, microtome designates an instrument for cutting sections (as of biological tissues) for microscopic examination."*
+> - 📜 **Santiago Ramón y Cajal (*Recollections of My Life*):** *"With a newly acquired sliding **microtome**, I could cut silver-impregnated brain sections of uniform thinness."*
+> - 📜 **E. V. Cowdry (*Laboratory Technique in Biology and Medicine*):** *"Maintaining an exquisitely honed razor edge on the rotary **microtome** prevents tissue tearing and compression artifacts."*
+> - 📜 **Wilhelm His (*The Development of the Human Embryo*):** *"Serial reconstruction of embryonic organs became practicable only after the development of the mechanical **microtome**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek scalen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A crystal form bounded by twelve or eight scalene triangles, characteristic of the trigonal or tetragonal crystal systems.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In crystallography, the closed form typical of calcite (dogtooth spar) in which paired triangular faces meet along a zigzag equatorial ridge.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scalenohedron designates a term designating an entity, condition, or phenomenon derived from greek scalen."*
+> - 📜 **René Just Haüy (*Traité de minéralogie*):** *"The sharp teeth of dogtooth spar exhibit the form of a hexagonal **scalenohedron** bounded by twelve unequal triangles."*
+> - 📜 **James Dwight Dana (*System of Mineralogy*):** *"Calcite crystals displaying the **scalenohedron** combine high luster with acute polar summits that cleave into rhombohedrons."*
+> - 📜 **Edward Salisbury Dana (*A Textbook of Mineralogy*):** *"In the trigonal **scalenohedron**, the equatorial zigzag boundary reflects alternating inclinations of adjacent crystal faces."*

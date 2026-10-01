@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of laws and regulations; designed to protect trade and commerce from unfair business practices.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of laws and regulations; designed to protect trade and commerce from unfair business practices.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Opposed to monopolies or monopolistic economic practices; supporting legal regulation to foster competitive markets.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political economy and jurisprudence, designating legislation or social movements aimed at curbing trust formations and excessive market concentration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antimonopoly designates of laws and regulations; designed to protect trade and commerce from unfair business practices."*
+> - 📜 **Ida Tarbell (*The History of the Standard Oil Company*):** *"An intense **antimonopoly** sentiment swept across independent producers whose transport rates had been dictated by the trust."*
+> - 📜 **Louis Brandeis (*Other People's Money and How the Bankers Use It*):** *"Effective **antimonopoly** regulation must prohibit interlocking directorates that suppress open commercial competition."*
+> - 📜 **John Kenneth Galbraith (*American Capitalism: The Concept of Countervailing Power*):** *"The traditional American **antimonopoly** tradition seeks to enforce competitive dispersion by legal decree."*

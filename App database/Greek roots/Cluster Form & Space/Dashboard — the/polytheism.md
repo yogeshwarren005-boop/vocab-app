@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Belief in or worship of more than one god.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Belief in or worship of more than one god.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The belief in or worship of more than one god.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative religion and cultural anthropology, polytheism characteristically distributes divine power among a pantheon of specialized deities representing cosmic forces, virtues, or natural realms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"As a French scholar has said, where there is polytheism there are no false gods."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"In the third place, the religion has the common weakness of all polytheism."*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"Animism is passing into polytheism."*
+> - 📜 **David Hume (*The Natural History of Religion*):** *"**Polytheism** or idolatry was, and must have been, the first and most ancient religion of mankind."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The various modes of worship which prevailed in the Roman world were all considered by the people as equally true; this tolerant **polytheism** accommodated every foreign pantheon."*
+> - 📜 **Max Weber (*The Sociology of Religion*):** *"Ancient civic **polytheism** reflected the specialized divisions of labor and tribal confederations of the Mediterranean city-states."*

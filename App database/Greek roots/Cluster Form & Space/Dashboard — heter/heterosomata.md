@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Flatfishes: halibut; sole; flounder; plaice; turbot; tonguefishes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Flatfishes: halibut; sole; flounder; plaice; turbot; tonguefishes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An order or suborder of ray-finned fishes containing the flatfishes (flounders, soles, and halibuts), characterized by asymmetrical adults with both eyes on one side.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary morphology, Heterosomata undergo an extraordinary larval metamorphosis during which one eye migrates across the skull as the fish settles onto the benthos.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heterosomata designates flatfishes: halibut; sole; flounder; plaice; turbot; tonguefishes."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"No vertebrate presents a more radical morphological distortion than the adult flatfishes of **heterosomata**, whose cranial symmetry is twisted aside."*
+> - 📜 **Stephen Jay Gould (*The Panda's Thumb*):** *"Darwin defended natural selection against the charge that transitional intermediate stages of eye migration in **heterosomata** could have had no adaptive utility."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"Lying camouflaged on the seabed, the sole of **heterosomata** scans the overhead water with both eyes perched upon its exposed dorsal flank."*

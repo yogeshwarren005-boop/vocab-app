@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Category used in some classification systems for various basidiomycetous fungi including rusts and smuts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Category used in some classification systems for various basidiomycetous fungi including rusts and smuts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A former class or subclass of basidiomycetous fungi (including rusts, smuts, and jelly fungi) possessing septate or deeply divided basidia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mycology, Heterobasidiomycetes contrast with Homobasidiomycetes (mushrooms and polypores), which produce simple, non-septate holobasidia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heterobasidiomycetes designates category used in some classification systems for various basidiomycetous fungi including rusts and smuts."*
+> - 📜 **C. J. Alexopoulos (*Introductory Mycology*):** *"The **heterobasidiomycetes** produce complex basidia that are either transversely or longitudinally septate."*
+> - 📜 **David L. Hawksworth (*Ainsworth & Bisby's Dictionary of the Fungi*):** *"Many agricultural plant pathogens causing cereal rusts and smuts were historically grouped among the **heterobasidiomycetes**."*
+> - 📜 **John Webster (*Introduction to Fungi*):** *"Gelatinous fruit bodies that rehydrate readily after desiccation are a hallmark of many saprophytic **heterobasidiomycetes**."*

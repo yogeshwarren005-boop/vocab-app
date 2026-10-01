@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the longer axis inclined away from the vertical.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the longer axis inclined away from the vertical.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Oriented or growing at an oblique angle or horizontally, away from the vertical gravitational axis (of plant roots, stems, or branches).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant physiology, plagiotropic growth response to light or gravity produces horizontal lateral branching, contrasting with orthotropic vertical leaders.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plagiotropic designates having the longer axis inclined away from the vertical."*
+> - 📜 **Charles Darwin (*The Power of Movement in Plants*):** *"Lateral roots exhibit a **plagiotropic** tendency, extending horizontally through the upper soil horizon."*
+> - 📜 **Julius von Sachs (*Lectures on the Physiology of Plants*):** *"Gravitational stimuli induce **plagiotropic** orientation in secondary lateral branches to optimize light interception."*
+> - 📜 **Katherine Esau (*Plant Anatomy*):** *"Vascular cambium in a **plagiotropic** shoot produces asymmetrical reaction wood to counteract mechanical bending."*

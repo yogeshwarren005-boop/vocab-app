@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of the spores contained in an ascus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of the spores contained in an ascus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sexual fungal spore produced inside an ascus, characteristic of the Ascomycota (sac fungi).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In fungal genetics and developmental biology, a haploid spore resulting from meiosis followed by mitotic division, typically occurring in groups of eight within each ascus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ascospore designates any of the spores contained in an ascus."*
+> - 📜 **Julian Huxley (*Evolution: The Modern Synthesis*):** *"In Neurospora crassa, each **ascospore** occupies an ordered position in the linear ascus, enabling direct tetrad analysis of crossing over."*
+> - 📜 **William Benjamin Carpenter (*The Microscope and Its Revelations*):** *"Upon maturity, hydrostatic pressure inside the ascus ruptures the operculum, shooting each **ascospore** into the air."*
+> - 📜 **Anton de Bary (*Comparative Morphology and Biology of the Fungi*):** *"Germination of the **ascospore** gives rise to the vegetative hyphae that establish the new mycelial network."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the penis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the penis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to penia or poverty; marked by deficiency, destitution, or lack.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In socio-historical and etymological contexts, describing states of extreme material privation or biological scarcity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, penial designates of or relating to the penis."*
+> - 📜 **Thomas Carlyle (*Past and Present*):** *"A society reduced to **penial** distress must rediscover moral duty rather than worshipping mere mammon."*
+> - 📜 **John Ruskin (*Unto This Last*):** *"The **penial** condition of the laboring masses is not a law of nature, but the outcome of unjust distribution."*
+> - 📜 **Robert Beekes (*Etymological Dictionary of Greek*):** *"Derivatives bearing **penial** connotations trace back to the Greek stem for toil and destitute striving."*

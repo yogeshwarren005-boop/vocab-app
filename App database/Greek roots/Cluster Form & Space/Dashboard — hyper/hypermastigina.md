@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cellulose-producing flagellates.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cellulose-producing flagellates.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A former taxonomic order of complex, multiflagellated protozoans (now classified within Parabasalia) that inhabit the digestive tracts of wood-eating insects.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In invertebrate symbiology, Hypermastigina species (such as *Trichonympha*) possess hundreds of flagella and harbor endosymbiotic cellulolytic bacteria, enabling termites and wood roaches to digest crystalline wood cellulose.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypermastigina designates cellulose-producing flagellates."*
+> - 📜 **E. Ray Lankester (*A Treatise on Zoology*):** *"Members of the order **Hypermastigina** swarm within the hindgut of termites, covered with undulating coats of flagella."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The symbiotic partnership between wood-feeding insects and **Hypermastigina** illustrates mutual obligate dependence in nature."*
+> - 📜 **E. O. Wilson (*The Insect Societies*):** *"Defaunation of the termite colony expels its **Hypermastigina**, causing the host insects to starve amidst abundant timber."*

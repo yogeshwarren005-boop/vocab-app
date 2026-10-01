@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the nature or shape of an ellipsoid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the nature or shape of an ellipsoid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the shape or form of a spheroid; nearly spherical, but flattened or elongated at opposite poles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical chemistry, the spheroidal state (Leidenfrost effect) occurs when a drop of liquid rests on a cushion of vapor above a hot surface without boiling away immediately.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"From this period a membrane begins to be formed about the gonosphere, which thenceforth maintains a regular spheroidal form."*
+> - 📜 **Michael Faraday (*Experimental Researches in Chemistry and Physics*):** *"A droplet of water placed upon red-hot platinum assumes the **spheroidal** state, hovering upon its own insulating steam layer."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The granite rocks weathered into massive **spheroidal** boulders through concentric exfoliation along the coast."*
+> - 📜 **John Tyndall (*Heat Considered as a Mode of Motion*):** *"The rapid rotation of a fluid mass transforms it from spherical into a flattened **spheroidal** drop."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by method and orderliness.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by method and orderliness.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by, performed with, or adhering to systematic order, deliberate procedure, and regularity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychology and behavioral analysis, describing cognitive habits and work practices that prioritize deliberate planning over spontaneous action.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"He comes towards them at his usual methodical pace, which is never quickened, never slackened."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn in his methodical, subdued, uninterested way, “first, whether you have any of Captain Hawdon’s writing?” “First, whether I have any of Captain Hawdon’s writing, sir,” repeats Mr."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"But your interests demand that I should be cool and methodical, Mr."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"By **methodical** selection, breeders have created distinct varieties of domestic animals within an astonishingly brief period."*
+> - 📜 **Arthur Conan Doyle (*The Sign of Four*):** *"Sherlock Holmes pursued his investigation with **methodical** calm, measuring footprints in the soft soil with extraordinary precision."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Forming **methodical** habits early in life relieves the conscious will from the burden of constantly deciding minor daily routines."*

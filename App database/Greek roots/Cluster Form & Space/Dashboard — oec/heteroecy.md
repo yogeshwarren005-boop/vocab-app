@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek oec.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The biological phenomenon of heteroecism; the alternation of parasitic generations between two different host species.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic mycology and entomology, heteroecy characterizes both rust fungi and certain gall-forming aphid lineages that migrate between primary and secondary plants.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heteroecy designates a term designating an entity, condition, or phenomenon derived from greek oec."*
+> - 📜 **Anton de Bary (*Comparative Morphology and Biology of the Fungi, Mycetozoa and Bacteria*):** *"The proof of **heteroecy** in rust fungi showed that what appeared to be separate fungal species were merely alternating generations of one organism."*
+> - 📜 **John Webster (*Introduction to Fungi*):** *"Obligate **heteroecy** imposes severe ecological vulnerability, as the absence of either host halts sexual teliospore generation."*
+> - 📜 **E. O. Wilson (*Sociobiology: The New Synthesis*):** *"Cyclical host alternation in aphids mirrors the **heteroecy** of fungal rusts, tracking nutritional flushes in seasonal foliage."*

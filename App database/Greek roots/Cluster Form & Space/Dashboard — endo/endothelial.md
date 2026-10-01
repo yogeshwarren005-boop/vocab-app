@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or located in the endothelium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or located in the endothelium.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, situated in, or derived from the endothelium (the layer of flat epithelial-like cells lining blood and lymph vessels).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vascular physiology, endothelial dysfunction characterized by diminished nitric oxide synthesis is an early pathophysiological event in atherosclerosis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endothelial designates of or relating to or located in the endothelium."*
+> - 📜 **Eugene Braunwald (*Heart Disease: A Textbook of Cardiovascular Medicine*):** *"Intact **endothelial** cells synthesize prostacyclin and nitric oxide, maintaining blood flow and inhibiting platelet aggregation."*
+> - 📜 **Vinay Kumar (*Robbins and Cotran Pathologic Basis of Disease*):** *"Inflammatory cytokines induce **endothelial** expression of selectins and integrins that guide leukocyte adhesion and diapedesis."*
+> - 📜 **Arthur C. Guyton (*Textbook of Medical Physiology*):** *"Capillary permeability is governed by tight junctions and vesicular transcytosis across adjacent **endothelial** cell borders."*

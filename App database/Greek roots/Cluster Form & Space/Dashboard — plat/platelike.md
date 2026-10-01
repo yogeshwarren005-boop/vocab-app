@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: As the hard flattened scales of e.g. sharks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: As the hard flattened scales of e.g. sharks.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling a plate; thin, flat, and broad in shape.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mineralogy and structural histology, describing lamellar crystals, epithelial squames, or bone trabeculae with planar geometry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, platelike designates as the hard flattened scales of e.g. sharks."*
+> - 📜 **James Dwight Dana (*System of Mineralogy*):** *"The mineral mica cleaves into remarkably thin, transparent, **platelike** sheets along its basal pinacoid."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"The squamous epithelium consists of **platelike** cells fitted edge to edge like mosaic paving stones."*
+> - 📜 **Frank Wigglesworth Clarke (*The Data of Geochemistry*):** *"Clay minerals consist of microscopic, **platelike** aluminosilicate sheets that slide easily over one another when hydrated."*

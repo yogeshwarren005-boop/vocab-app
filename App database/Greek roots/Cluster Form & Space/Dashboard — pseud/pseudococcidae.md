@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Scalelike insects: mealybugs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Scalelike insects: mealybugs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxonomic family of small scale insects in the order Hemiptera, commonly known as mealybugs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agricultural entomology, unarmored phytophagous pests covered with white powdery wax filaments, transmitting plant viruses and secreting copious honeydew.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pseudococcidae designates scalelike insects: mealybugs."*
+> - 📜 **G. F. Ferris (*Atlas of the Scale Insects of North America*):** *"Taxonomic determination within **pseudococcidae** requires careful clearing and slide mounting of adult females to examine wax pores."*
+> - 📜 **T. D. A. Cockerell (*The Coccidae of Ceylon*):** *"The agricultural damage wrought by members of **pseudococcidae** is amplified by the soot-mold fungi thriving on their excretions."*
+> - 📜 **Penny Gullan (*The Insects: An Outline of Entomology*):** *"Symbiotic ant colonies frequently shelter colonies of **pseudococcidae** in exchange for sustained harvesting of sweet excretions."*

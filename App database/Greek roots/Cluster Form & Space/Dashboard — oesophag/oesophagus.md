@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek oesophag.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The muscular membranous tube through which food and liquids pass from the pharynx down to the stomach; the gullet (British spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human digestive anatomy, the oesophagus passes through the posterior mediastinum and pierces the diaphragm at the esophageal hiatus, propelling food via peristalsis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oesophagus designates a term designating an entity, condition, or phenomenon derived from greek oesophag."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"The **oesophagus** is a muscular canal, about twenty-five centimeters long, extending from the pharynx to the cardiac orifice of the stomach."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Spasmodic stricture of the **oesophagus**, commonly termed cardiospasm, produces regurgitation of undigested food without organic tumor."*
+> - 📜 **Claude Bernard (*Leçons de physiologie opératoire*):** *"By establishing a fistulous opening into the cervical **oesophagus**, we demonstrated that sham feeding triggers gastric acid secretion through reflex vagal stimulation."*

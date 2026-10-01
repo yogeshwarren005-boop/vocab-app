@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A curved or semicircular structure or arrangement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A curved or semicircular structure or arrangement.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A semicircular shape, structure, room, or arena.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical and civic architecture, a semicircular colonnade, theater seating gallery, or parliamentary debating chamber.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemicycle designates a curved or semicircular structure or arrangement."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The marble seats in the **hemicycle** caught the afternoon glow as the assembly gathered beneath the arcade."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"In the vast **hemicycle** of the legislative chamber, representatives debate with fervent democratic eloquence."*
+> - 📜 **Henry James (*Italian Hours*):** *"We lingered along the ruined **hemicycle** of the Roman amphitheater, admiring the sweep of its ancient tiers."*

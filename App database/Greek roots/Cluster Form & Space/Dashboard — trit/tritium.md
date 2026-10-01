@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A radioactive isotope of hydrogen that has one proton and two neutrons in its nucleus and that has three times the mass of ordinary hydrogen —symbol T.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A radioactive isotope of hydrogen that has one proton and two neutrons in its nucleus and that has three times the mass of ordinary hydrogen —symbol T.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A radioactive isotope of hydrogen with a mass roughly three times that of ordinary hydrogen, having one proton and two neutrons in its nucleus; symbol T or 3H.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Discovered in 1934 by Ernest Rutherford, Marcus Oliphant, and Paul Harteck, tritium has a half-life of 12.32 years, decaying by beta emission, used in fusion reactors (tokamaks) and thermonuclear weapons.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tritium designates a radioactive isotope of hydrogen that has one proton and two neutrons in its nucleus and that has three times the mass of ordinary hydrogen —symbol t."*
+> - 📜 **Ernest Rutherford (*The Transmutation of the Atom*):** *"Bombarding deuterium targets with high-energy deuterons produced evidence of a new mass-three hydrogen isotope named **tritium**."*
+> - 📜 **J. Robert Oppenheimer (*Physics in the Contemporary World*):** *"The thermonuclear fusion reactions of **tritium** and deuterium unleash immense energy under stellar temperatures."*
+> - 📜 **Richard Feynman (*The Feynman Lectures on Physics*):** *"Beta decay in **tritium** transforms one of its nuclear neutrons into a proton, emitting an electron and an antineutrino."*

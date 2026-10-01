@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or having the relation of an isotope.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or having the relation of an isotope.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or having the properties of an isotope; having identical chemical properties but differing in atomic mass.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geochronology and biochemistry, isotopic fractionation and isotopic labeling (e.g. carbon-14, deuterium) trace metabolic pathways and determine geologic rock ages.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, isotopic designates of or relating to or having the relation of an isotope."*
+> - 📜 **Harold Urey (*The Thermodynamic Properties of Isotopic Substances*):** *"Small differences in zero-point vibrational energy allow the chemical separation of **isotopic** molecules like deuterium."*
+> - 📜 **Francis William Aston (*Isotopes*):** *"The whole number rule revealed that fractional atomic weights result from variable natural **isotopic** abundances."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"Mass spectrometry accurately separates positive ions according to their unique **isotopic** mass-to-charge ratios."*

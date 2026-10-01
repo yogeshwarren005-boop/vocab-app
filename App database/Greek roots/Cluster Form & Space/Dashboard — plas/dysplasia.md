@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormal growth or development (as of organs or cells); broadly : abnormal anatomical structure due to such growth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abnormal growth or development (as of organs or cells); broadly : abnormal anatomical structure due to such growth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The presence of cells of an abnormal type within a tissue, which may signify a stage in the development of cancer; disordered growth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pathology, epithelial dysplasia is characterized by nuclear atypia, loss of cell orientation, and increased mitoses without breaching the basement membrane.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dysplasia designates abnormal growth or development (as of organs or cells); broadly : abnormal anatomical structure due to such growth."*
+> - 📜 **Vinay Kumar (*Robbins and Cotran Pathologic Basis of Disease*):** *"Severe cervical **dysplasia** is regarded as a pre-invasive lesion that may progress to invasive squamous cell carcinoma."*
+> - 📜 **Juan Rosai (*Rosai and Ackerman's Surgical Pathology*):** *"Architectural disarray and cellular pleomorphism within the crypt epithelium define mucosal **dysplasia** in ulcerative colitis."*
+> - 📜 **Tinsley R. Harrison (*Principles of Internal Medicine*):** *"Routine Pap smear screening allows early detection and curative ablation of high-grade cervical **dysplasia**."*

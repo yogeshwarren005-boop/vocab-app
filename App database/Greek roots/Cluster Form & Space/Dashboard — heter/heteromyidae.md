@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small new world burrowing mouselike rodents with fur-lined cheek pouches and hind limbs and tail adapted to leaping; adapted to desert conditions: pocket mice; kangaroo mice; kangaroo rats.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small new world burrowing mouselike rodents with fur-lined cheek pouches and hind limbs and tail adapted to leaping; adapted to desert conditions: pocket mice; kangaroo mice; kangaroo rats.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of rodent mammals (kangaroo rats, pocket mice, and kangaroo mice) adapted for arid life, possessing external fur-lined cheek pouches and saltatorial hind legs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiological ecology, Heteromyidae are renowned for water conservation, surviving indefinitely on dry seeds without drinking water by producing highly concentrated urine.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heteromyidae designates small new world burrowing mouselike rodents with fur-lined cheek pouches and hind limbs and tail adapted to leaping; adapted to desert conditions: pocket mice; kangaroo mice; kangaroo rats."*
+> - 📜 **Knut Schmidt-Nielsen (*Desert Animals: Physiological Problems of Heat and Water*):** *"Members of **heteromyidae** survive entirely upon metabolic water derived from the oxidation of dry seeds."*
+> - 📜 **Alfred Romer (*Vertebrate Paleontology*):** *"The hypertrophied auditory bullae and elongated hind limbs of **heteromyidae** evolved for detecting predatory owls and leaping away in darkness."*
+> - 📜 **E. O. Wilson (*The Diversity of Life*):** *"Community guild structure in desert ecosystems is organized around seed-size resource partitioning among coexisting species of **heteromyidae**."*

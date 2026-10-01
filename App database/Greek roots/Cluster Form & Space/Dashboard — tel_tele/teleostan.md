@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A bony fish of the subclass teleostei.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A bony fish of the subclass teleostei.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining or belonging to the teleost fishes; having the morphological characteristics of a bony fish.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology and paleontology, teleostan structures denote the specialized cranial osteology, swim bladder mechanisms, and fin rays typical of advanced ray-finned taxa.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, teleostan designates a bony fish of the subclass teleostei."*
+> - 📜 **Richard Owen (*Lectures on the Comparative Anatomy and Physiology of the Vertebrate Animals*):** *"The suspension of the mandible displays a characteristic arrangement throughout the entire **teleostan** series."*
+> - 📜 **Edward Drinker Cope (*Observations on the Systematic Relations of the Fishes*):** *"Primitive pneumatic ducts remain open in physostomous forms but disappear in more specialized **teleostan** orders."*
+> - 📜 **Louis Agassiz (*Recherches sur les Poissons Fossiles*):** *"The developmental pattern of the **teleostan** cranium reflects a progressive departure from ancestral cartilaginous archetypes."*

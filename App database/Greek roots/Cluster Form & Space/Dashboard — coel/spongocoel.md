@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek coel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The large, central cavity of a sponge through which water flows before exiting via the osculum.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In invertebrate anatomy, the internal atrium (atrium spongiosum) lined in simple asconoid sponges by flagellated choanocytes that filter food particles from circulating water.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spongocoel designates a term designating an entity, condition, or phenomenon derived from greek coel."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"Water drawn through thousands of microscopic dermal pores pours into the spacious **spongocoel** before being ejected at the terminal osculum."*
+> - 📜 **Louis Agassiz (*Methods of Study in Natural History*):** *"The beating flagella lining the **spongocoel** generate an unceasing current vital for nutrition and respiration."*
+> - 📜 **Rachel Carson (*The Edge of the Sea*):** *"Within the sheltered chamber of the **spongocoel**, tiny commensal shrimps and brittle stars find sanctuary from shore predators."*

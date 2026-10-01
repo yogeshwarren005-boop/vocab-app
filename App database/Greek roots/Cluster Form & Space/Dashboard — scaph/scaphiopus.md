@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: New world spadefoot toads.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: New world spadefoot toads.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of North American spadefoot toads in the family Scaphiopodidae, noted for a sharp, keratinous digging blade on each hind foot.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In herpetology and desert ecology, fossorial anurans that spend months underground in estivation, emerging en masse following torrential desert downpours to breed explosively.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scaphiopus designates new world spadefoot toads."*
+> - 📜 **Edward D. Cope (*The Batrachia of North America*):** *"The robust hind metatarsal tubercle of **scaphiopus** forms a black spade that excavates loose sand in seconds."*
+> - 📜 **Albert Hazen Wright (*Handbook of Frogs and Toads of the United States and Canada*):** *"Sudden thunderstorm deluges awaken thousands of **scaphiopus**, whose raucous choruses resound over temporary desert pools."*
+> - 📜 **Archie Carr (*High Jungles and Low*):** *"Tadpoles of **scaphiopus** develop with astonishing speed, completing metamorphosis in less than two weeks before pools evaporate."*

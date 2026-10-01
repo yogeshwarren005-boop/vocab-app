@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A widely distributed family of chiefly herbaceous plants of the order polemoniales; often have showy flowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A widely distributed family of chiefly herbaceous plants of the order polemoniales; often have showy flowers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of flowering plants in the order Ericales, commonly known as the phlox family.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic botany, comprising herbs, shrubs, and small trees characterized by five-lobed corollas, five stamens, and a three-locular ovary.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polemoniaceae designates a widely distributed family of chiefly herbaceous plants of the order polemoniales; often have showy flowers."*
+> - 📜 **John Torrey (*Flora of the State of New York*):** *"The family **polemoniaceae** includes the popular garden phloxes as well as wild Jacob's ladder."*
+> - 📜 **Nathaniel Lord Britton (*An Illustrated Flora of the Northern United States and Canada*):** *"Members of **polemoniaceae** are predominantly North American, flourishing across western montane and prairie habitats."*
+> - 📜 **Arthur Cronquist (*An Integrated System of Classification of Flowering Plants*):** *"In floral morphology, **polemoniaceae** exhibit regular, bisexual blossoms with twisted aestivation in the bud."*

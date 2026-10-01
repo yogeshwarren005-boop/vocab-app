@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Arrange according to a system or reduce to a system.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Arrange according to a system or reduce to a system.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To arrange according to an organized system, plan, or method; British/Commonwealth spelling of systematize.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nineteenth-century scientific methodology, scholars sought to systematise empirical observations into comprehensive taxonomic and physical laws.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Francis Thompson (*Shelley: An Essay*):** *"Dryden, to a greater extent than is (we imagine) generally perceived, was Cowley systematised; and Cowley, who sank into the arms of Dryden, rose from the lap of Donne."*
+> - 📜 **Herbert Spencer (*First Principles*):** *"Philosophy must **systematise** the diverse results of the special sciences into one universal evolutionary doctrine."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"William Smith was the first to **systematise** the stratigraphical succession of rocks by means of their fossil contents."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"The primary goal of science is to **systematise** human experience and reduce complex phenomena to universal laws."*

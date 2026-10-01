@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of cuculidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of cuculidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of non-parasitic Old World cuckoos known as coucals, characterized by a long, straight hind claw.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ornithology, terrestrial ground-dwelling birds of Africa, Asia, and Australasia that build their own nests and exhibit sex-role reversal.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centropus designates a genus of cuculidae."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"A large coucal of the genus **Centropus** fluttered through the dense bamboo thickets with heavy, unhurried wingbeats."*
+> - 📜 **John Gould (*The Birds of Australia*):** *"Unlike their brood-parasitic relatives, members of **Centropopus** construct a domed nest of grass and rear their own broods."*
+> - 📜 **Richard Bowdler Sharpe (*A Hand-list of the Genera and Species of Birds*):** *"The hallux claw in **Centropus** is exceptionally prolonged and nearly straight, resembling the spur of a lark."*

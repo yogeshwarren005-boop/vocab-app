@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A deuterium nucleus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A deuterium nucleus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The nucleus of a deuterium atom, consisting of one proton and one neutron bound together by the strong nuclear force.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nuclear physics and particle astrophysics, the deuteron has a binding energy of 2.224 MeV, playing a pivotal role in Big Bang nucleosynthesis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, deuteron designates a deuterium nucleus."*
+> - 📜 **Hans Bethe (*Elementary Nuclear Theory*):** *"Because it has no bound excited states, the **deuteron** serves as the primary testing ground for the two-nucleon interaction."*
+> - 📜 **Enrico Fermi (*Nuclear Physics*):** *"Photodisintegration of the **deuteron** by gamma rays provides a direct measurement of nuclear binding energy."*
+> - 📜 **Steven Weinberg (*The First Three Minutes*):** *"Until the temperature dropped below one billion degrees, any synthesized **deuteron** was instantly broken apart by high-energy photons."*

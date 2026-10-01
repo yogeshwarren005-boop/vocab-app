@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A surface whose plane sections are all ellipses or circles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the nature or shape of an ellipsoid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A three-dimensional geometric surface whose plane cross-sections are all ellipses or circles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geodesy and planetary astronomy, the reference ellipsoid approximates the oblate rotational shape of the Earth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"To the naked eye it appears in pale purplish-grey patches, which, when examined microscopically, are found to consist of dense bundles of branched threads, bearing ellipsoid acrospores, the membranes of which have a violaceous tint."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"SPINACH MOULD; fertile threads fasciculate, short, thick, 2-6, rarely 7 times dichotomous above; acrospores broadly ellipsoid, sometimes very obtuse; membrane with a violaceous tint."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"DOCK MOULD; threads of the mycelium slender; fertile threads fasciculate, erect, simple, rarely bifurcate, attenuated upwards; acrospores large, ellipsoid, attached obliquely near the base.—On the under surface of dock leaves."*
+> - 📜 **Carl Friedrich Gauss (*General Investigations of Curved Surfaces*):** *"Triangulation measurements across continents are mapped onto a reference **ellipsoid** that accounts for rotational flattening."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"The electrostatic potential outside a charged conducting **ellipsoid** can be resolved using confocal coordinates."*
+> - 📜 **H. S. M. Coxeter (*Introduction to Geometry*):** *"An **ellipsoid** has three mutually orthogonal principal axes of symmetry that intersect at its center."*

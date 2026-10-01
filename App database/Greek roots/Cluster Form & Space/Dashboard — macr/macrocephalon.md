@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Maleos.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Maleos.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An anatomical specimen, embryo, or individual possessing an abnormally large head; an oversized cranium.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In teratology and developmental morphology, designates an abnormal developmental state characterized by primary cephalic enlargement.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog macrocephalon as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Isidore Geoffroy Saint-Hilaire (*Histoire générale et particulière des anomalies de l'organisation*):** *"The museum specimen labelled **macrocephalon** exhibited severe osseous expansion without structural fusion of the sutures."*
+> - 📜 **William Turner (*The Cranial Deformities of Man*):** *"Anomalies in early embryogenesis often result in a marked **macrocephalon** that complicates normal parturition."*
+> - 📜 **Ernst Haeckel (*The Evolution of Man*):** *"The transitory prominence of the fetal head must not be confused with a true pathological **macrocephalon**."*

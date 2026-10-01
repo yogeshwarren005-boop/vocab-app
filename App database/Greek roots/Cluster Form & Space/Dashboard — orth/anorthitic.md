@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characteristic of anorthite.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characteristic of anorthite.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or pertaining to anorthite; having the composition or crystal structure characteristic of calcium-rich plagioclase feldspar.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In igneous petrology, anorthitic plagioclase compositions indicate high-temperature crystallization from mafic magmas and are diagnostic of certain gabbroic and anorthositic rock types.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anorthitic designates characteristic of anorthite."*
+> - 📜 **Norman Bowen (*The Evolution of the Igneous Rocks*):** *"The **anorthitic** composition of the early-crystallizing plagioclase reflects the calcic nature of the parent melt."*
+> - 📜 **Brian Mason (*Principles of Geochemistry*):** *"**Anorthitic** feldspar dominates the mineral assemblage of terrestrial and lunar anorthosite formations."*
+> - 📜 **Cornelius Klein (*Manual of Mineral Science*):** *"Under the petrographic microscope, **anorthitic** plagioclase is distinguished by its high extinction angle."*

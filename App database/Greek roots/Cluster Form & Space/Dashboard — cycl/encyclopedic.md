@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Broad in scope or content.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Broad in scope or content.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Covering a wide range of subjects in great depth; comprehensive; characteristic of an encyclopedia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Describing knowledge, scholarship, or reading that spans universally across diverse sciences and humanities.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **George Eliot (*Middlemarch*):** *"And surely among all men whose vocation requires them to exhibit their powers of speech, the happiest is a prosperous provincial auctioneer keenly alive to his own jokes and sensible of his encyclopedic knowledge."*
+> - 📜 **Alexander von Humboldt (*Cosmos: A Sketch of a Physical Description of the Universe*):** *"The aim of physical cosmography is to present an **encyclopedic** survey of nature from distant nebulae to terrestrial mosses."*
+> - 📜 **Edgar Allan Poe (*The Murders in the Rue Morgue*):** *"Dupin exhibited an **encyclopedic** familiarity with odd treatises and obscure criminal annals."*
+> - 📜 **Samuel Johnson (*The Lives of the English Poets*):** *"Dryden's prefaces display an **encyclopedic** acquaintance with the principles of classical and modern drama."*

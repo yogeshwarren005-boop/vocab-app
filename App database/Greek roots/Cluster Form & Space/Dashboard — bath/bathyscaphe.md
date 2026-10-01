@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A navigable submersible for deep-sea exploration having a spherical watertight cabin attached to its underside.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A navigable submersible for deep-sea exploration having a spherical watertight cabin attached to its underside.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A free-diving self-propelled deep-sea submersible vessel consisting of a crew cabin sphere beneath a large float filled with light hydrocarbon fuel.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In oceanographic history, the vessel pioneered by Auguste Piccard, whose bathyscaphe Trieste reached the Challenger Deep at 10,911 meters depth in 1960.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bathyscaphe designates a navigable submersible for deep-sea exploration having a spherical watertight cabin attached to its underside."*
+> - 📜 **Auguste Piccard (*In Balloon and Bathyscaphe*):** *"I conceived the **bathyscaphe** on the same physical principle as the stratosphere balloon: a light float supporting a heavy sealed cabin."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"The manned **bathyscaphe** demonstrated that the crushing hydrostatic pressure of seven miles of water could be safely endured."*
+> - 📜 **Jacques Cousteau (*The Silent World*):** *"The historic descent of the **bathyscaphe** inaugurated a new era in the scientific exploration of the benthic abyss."*

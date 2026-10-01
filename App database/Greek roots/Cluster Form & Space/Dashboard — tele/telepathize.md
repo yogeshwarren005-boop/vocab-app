@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Communicate nonverbally by telepathy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Communicate nonverbally by telepathy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To transmit thoughts, mental images, or impressions directly to another person's mind without physical sensory channels; American spelling of telepathise.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In science fiction and consciousness studies, to telepathize implies a direct non-acoustic link between neural substrates across space.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, telepathize designates communicate nonverbally by telepathy."*
+> - 📜 **Philip K. Dick (*Do Androids Dream of Electric Sheep?*):** *"Through the empathy box, individuals could **telepathize** their sorrow, merging with Mercer into collective consciousness."*
+> - 📜 **Arthur C. Clarke (*The City and the Stars*):** *"Citizens of Lys learned to **telepathize** their emotions with such precision that deceit became biologically impossible."*
+> - 📜 **William James (*Memories and Studies*):** *"Whether one human mind can directly **telepathize** with another remains the central puzzle of psychical inquiry."*

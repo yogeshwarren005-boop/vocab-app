@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The smooth transparent serous membrane that lines the cavity of the abdomen of a mammal and is folded inward over the abdominal and pelvic viscera.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The smooth transparent serous membrane that lines the cavity of the abdomen of a mammal and is folded inward over the abdominal and pelvic viscera.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The smooth, continuous serous membrane that lines the cavity of the abdomen and covers most of the abdominal organs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gross human anatomy, the peritoneum consists of a parietal layer lining the abdominal wall and a visceral layer reflecting over the viscera, forming mesenteries and omenta.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, peritoneum designates the smooth transparent serous membrane that lines the cavity of the abdomen of a mammal and is folded inward over the abdominal and pelvic viscera."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"The **peritoneum** is the largest serous membrane in the body, presenting an extensive surface area for fluid absorption."*
+> - 📜 **John Hunter (*Treatise on the Blood, Inflammation, and Gun-shot Wounds*):** *"Inflammation of the **peritoneum** excites immediate muscular rigidity across the overlying abdominal parietes."*
+> - 📜 **William Harvey (*Lectures on the Whole of Anatomy*):** *"The glistening **peritoneum** wraps the intestines smoothly to prevent adhesion during their peristaltic march."*

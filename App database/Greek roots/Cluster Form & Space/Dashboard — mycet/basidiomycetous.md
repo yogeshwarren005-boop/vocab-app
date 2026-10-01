@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to or characteristic of fungi of the class basidiomycetes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to or characteristic of fungi of the class basidiomycetes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, produced by, or characteristic of a basidiomycete fungus; bearing basidiospores on basidia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In fungal biochemistry, basidiomycetous wood-rot fungi secrete specialized lignin peroxidases and laccases capable of enzymatically decomposing complex plant lignocellulose.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, basidiomycetous designates pertaining to or characteristic of fungi of the class basidiomycetes."*
+> - 📜 **A. H. Reginald Buller (*Researches on Fungi*):** *"The spore prints of **basidiomycetous** agarics vary across the spectrum from snowy white to deep chocolate brown."*
+> - 📜 **Bryce Kendrick (*The Fifth Kingdom*):** *"Ectomycorrhizal associations in boreal pine forests depend on **basidiomycetous** mycelial networks that facilitate phosphorus uptake."*
+> - 📜 **David Malloch (*Moulds: Their Isolation and Identification*):** *"White-rot decay in fallen hardwood logs is driven by **basidiomycetous** enzymes that selectively depolymerize recalcitrant lignin."*

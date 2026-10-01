@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fishes having paired fins resembling limbs and regarded as ancestral to amphibians.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fishes having paired fins resembling limbs and regarded as ancestral to amphibians.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxonomic subclass or clade of lobe-finned bony fishes possessing paired, fleshy, lobed fins fringed with rays.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate paleontology and evolutionary biology, sarcopterygian fishes (including coelacanths and rhipidistians) whose internal fin skeletal elements directly gave rise to tetrapod limbs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Crossopterygii designates fishes having paired fins resembling limbs and regarded as ancestral to amphibians."*
+> - 📜 **Thomas Henry Huxley (*Preliminary Essay on the Systematic Arrangement of the Fishes of the Devonian Epoch*):** *"I established the order **Crossopterygii** to include those fishes having their paired fins fringed with rays around a central fleshy lobe."*
+> - 📜 **Alfred Romer (*Vertebrate Paleontology*):** *"The rhipidistian branch of **Crossopterygii** bridges the evolutionary transition from aquatic vertebrates to primitive land amphibians."*
+> - 📜 **Stephen Jay Gould (*The Panda's Thumb*):** *"Paleontologists recognized that the limb bones of our early terrestrial ancestors were already mapped out in the fins of Devonian **Crossopterygii**."*

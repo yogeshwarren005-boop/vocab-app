@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The chief executive department of the united states government.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The chief executive department of the united states government.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An informal abbreviation for an executive officer or corporate managerial administrator.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In computer systems and operating system shells, a command or system call that replaces the current process image with a new program.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"She was Med-Exec to a research team in a mini-tank town off Venus."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The Exec motioned the battle staff to observe and listen."*
+> - 📜 **W. Richard Stevens (*Advanced Programming in the UNIX Environment*):** *"When a process calls an **exec** function, that process is completely replaced by the new program."*
+> - 📜 **Peter Drucker (*The Effective Executive*):** *"The modern corporate **exec** must focus not on busyness, but on high-leverage contributions to institutional goals."*
+> - 📜 **Andrew S. Tanenbaum (*Modern Operating Systems*):** *"The fork-and-**exec** paradigm forms the foundational mechanism for spawning child tasks in Unix-like kernels."*

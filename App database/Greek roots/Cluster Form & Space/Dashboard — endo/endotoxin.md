@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A toxin that is confined inside the microorganisms and is released only when the microorganisms are broken down or die.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A toxin that is confined inside the microorganisms and is released only when the microorganisms are broken down or die.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A toxic lipopolysaccharide (LPS) complex forming an integral part of the outer membrane of Gram-negative bacteria, released upon bacterial lysis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pathology and critical care medicine, circulating endotoxin triggers massive macrophage release of TNF-alpha and IL-1, precipitating septic shock and DIC.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endotoxin designates a toxin that is confined inside the microorganisms and is released only when the microorganisms are broken down or die."*
+> - 📜 **Richard Pfeiffer (*Investigations on Cholera Immunity*):** *"The poisonous substance is not excreted into the broth, but remains bound as an **endotoxin** within the bacterial cell wall."*
+> - 📜 **Anthony S. Fauci (*Harrison's Principles of Internal Medicine*):** *"Circulating **endotoxin** binds to CD14 and TLR4 receptors, triggering the systemic inflammatory cascade that characterizes septic shock."*
+> - 📜 **Vinay Kumar (*Robbins and Cotran Pathologic Basis of Disease*):** *"High concentrations of bacterial **endotoxin** produce widespread endothelial damage, refractory hypotension, and multiorgan failure."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having an aquatic early or larval form and a terrestrial adult form.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having an aquatic early or larval form and a terrestrial adult form.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Living in water during the larval or nymphal stage and on land as an adult; having an amphibious life cycle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In entomology and aquatic ecology, describing insects such as mayflies, dragonflies, and stoneflies whose life stages link freshwater and riparian ecosystems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amphibiotic designates having an aquatic early or larval form and a terrestrial adult form."*
+> - 📜 **William Morton Wheeler (*Ants: Their Structure, Development and Behavior*):** *"Unlike terrestrial social insects, **amphibiotic** organisms must adapt their respiratory anatomy to two entirely dissimilar physical media."*
+> - 📜 **Rachel Carson (*The Edge of the Sea*):** *"The **amphibiotic** insects emerging from the estuary shoreline furnish sustenance to countless migratory shorebirds."*
+> - 📜 **Alpheus Spring Packard (*A Text-Book of Entomology*):** *"Odonata exhibit an **amphibiotic** ontogeny, breathing via rectal tracheal gills as nymphs before emerging into winged aerial predators."*

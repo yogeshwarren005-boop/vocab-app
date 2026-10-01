@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Hooded seals.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Hooded seals.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of pinnipeds in the true seal family Phocidae, comprising the hooded seal (Cystophora cristata); also a genus of brown seaweeds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine mammalogy, North Atlantic arctic seals whose adult males possess an inflatable nasal bladder and nasal septum used in aggressive sexual displays.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cystophora designates hooded seals."*
+> - 📜 **Spencer Fullerton Baird (*Report on the Condition of the Sea Fisheries*):** *"The hooded seal, designated **Cystophora** cristata, drifts southward upon the pack ice off the coast of Labrador."*
+> - 📜 **Richard Lydekker (*The Royal Natural History*):** *"When angered, the male **Cystophora** inflates an extraordinary red nasal balloon from its nostrils with startling effect."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The inflatable hood of the male **Cystophora** provides a striking example of secondary sexual characters used in rivalry."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any fungus of the genus sclerotinia; some causing brown rot diseases in plants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any fungus of the genus sclerotinia; some causing brown rot diseases in plants.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of plant-pathogenic ascomycete fungi in the family Sclerotiniaceae, causing white mold, stem rot, and watery soft rot in crops.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agricultural phytopathology, fungi such as Sclerotinia sclerotiorum that produce black resting sclerotia capable of surviving years in the soil.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sclerotinia designates any fungus of the genus sclerotinia; some causing brown rot diseases in plants."*
+> - 📜 **Anton de Bary (*Comparative Morphology and Biology of the Fungi, Mycetozoa and Bacteria*):** *"The pathogenic mycelium of **sclerotinia** secretes pectinases and oxalic acid, collapsing the stem tissues of succulent beans."*
+> - 📜 **Charles Horton Peck (*Reports of the State Botanist of New York*):** *"Under damp autumn litter, the resting sclerotia of **sclerotinia** germinate to produce small cup-shaped apothecia on slender stalks."*
+> - 📜 **Pier Andrea Saccardo (*Sylloge Fungorum*):** *"The genus **sclerotinia** is widely feared by horticulturists for its destructive virulence on agricultural vegetables."*

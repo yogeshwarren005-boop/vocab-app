@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek crypt.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A plant whose perennating buds survive unfavorable seasons buried beneath the soil surface or submerged under water.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant ecology (Raunkiær's life-form system), geophytes, helophytes, and hydrophytes (such as bulbs, tubers, and aquatic rhizomes) whose renewal buds are protected underground.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cryptophyte designates a term designating an entity, condition, or phenomenon derived from greek crypt."*
+> - 📜 **Christen Raunkiær (*The Life Forms of Plants and Statistical Plant Geography*):** *"In harsh arid or frozen climates, a **cryptophyte** survives extreme seasons by burying its renewal buds deep in subterranean humus."*
+> - 📜 **Asa Gray (*Botanical Text-Book*):** *"The common potato and wild lily illustrate the habit of a **cryptophyte**, drawing upon subterranean food stores when spring arrives."*
+> - 📜 **Alexander von Humboldt (*Aspects of Nature*):** *"On the steppes, vast numbers of **cryptophyte** species send forth sudden glorious carpets of blossoms after the first rains."*

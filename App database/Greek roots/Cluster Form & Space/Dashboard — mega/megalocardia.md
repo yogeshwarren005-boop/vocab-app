@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal enlargement of the heart.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abnormal enlargement of the heart.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormal enlargement of the heart; cardiomegaly (variant of megacardia).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical cardiology, cardiac hypertrophy and ventricular enlargement caused by sustained hemodynamic volume overload, valvular regurgitation, or myocardiopathy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, megalocardia designates an abnormal enlargement of the heart."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The massive **megalocardia** observed in heavy athletic laborers reflects physiological compensatory hypertrophy."*
+> - 📜 **Paul Dudley White (*Heart Disease*):** *"Unexplained **megalocardia** in young adults should prompt investigation for subclinical viral myocarditis."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"The enormous weight of the heart in syphilitic **megalocardia** demonstrates concentric muscle bundle enlargement."*

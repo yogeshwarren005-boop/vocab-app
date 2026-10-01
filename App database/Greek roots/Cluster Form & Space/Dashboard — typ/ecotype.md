@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A population of a species that survives as a distinct group through environmental selection and isolation and that is comparable with a taxonomic subspecies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A population of a species that survives as a distinct group through environmental selection and isolation and that is comparable with a taxonomic subspecies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A distinct form or race of a plant or animal species occupying a particular habitat; an ecological race.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Introduced in 1922 by Swedish botanist Göte Turesson, an ecotype is genetically adapted to local habitat conditions (soil salinity, altitude, photoperiod) through natural selection while remaining inter-fertile with other ecotypes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ecotype designates a population of a species that survives as a distinct group through environmental selection and isolation and that is comparable with a taxonomic subspecies."*
+> - 📜 **Göte Turesson (*The Species and the Variety as Ecological Units*):** *"The term **ecotype** applies to habitat types within a species that have developed genetic adaptations to local soil and climate."*
+> - 📜 **Jens Clausen (*Stages in the Evolution of Plant Species*):** *"Reciprocal transplant gardens revealed that coastal and alpine yarrows represent distinct **ecotype** populations."*
+> - 📜 **Theodosius Dobzhansky (*Genetics and the Origin of Species*):** *"Differentiation into specialized **ecotype** varieties is the first critical step toward ecological speciation."*

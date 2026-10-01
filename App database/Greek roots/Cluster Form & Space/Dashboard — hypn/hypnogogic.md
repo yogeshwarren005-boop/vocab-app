@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sleep inducing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sleep inducing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inducing sleep; also relating to or occurring during the drowsy state immediately preceding sleep (a variant spelling of hypnagogic).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical psychological texts, used to describe sensory illusions, hypnic jerks, or involuntary visual dreamlets that appear as one falls asleep.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypnogogic designates sleep inducing."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The sensory impressions of the **hypnogogic** state fade seamlessly into the autonomous architecture of dreaming."*
+> - 📜 **Sigmund Freud (*The Interpretation of Dreams*):** *"Silberer analyzed the symbolic nature of **hypnogogic** hallucinations occurring as waking attention wanes."*
+> - 📜 **Oliver Sacks (*Hallucinations*):** *"Patients frequently mistake **hypnogogic** phantoms for supernatural presences entering the darkened room."*

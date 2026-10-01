@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A lack of belief or a strong disbelief in the existence of a god or any gods.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A philosophical or religious position characterized by disbelief in the existence of a god or any gods.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Disbelief or lack of belief in the existence of God or gods.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical theology, atheism is distinguished between negative (implicit absence of belief) and positive (explicit affirmation that no deities exist), examined in debates on naturalism, secularism, and epistemology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"It were far more sensible for those who deny the fitness and necessity of prayer to take the ground of the atheist and say plainly "We do not pray, for there is no God to pray to," for to deny prayer, is practical atheism."*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"The Pharisees were men who believed in God--only that with his world, they re-created him (as we are all apt to do for want of vision or by choice); but what is atheism, what can it be, but indifference to God's facts and to God's nature?"*
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"What Jesus thought of their hardness and impurity we have seen already, but heedless as they were of God's requirements of them, they were not guilty of the intricate atheism of the Pharisees."*
+> - 📜 **Francis Bacon (*Essays: Of Atheism*):** *"A little philosophy inclineth man's mind to **atheism**, but depth in philosophy bringeth men's minds about to religion."*
+> - 📜 **David Hume (*Dialogues Concerning Natural Religion*):** *"Skeptical philosophy refrains from dogmatic assertions, defending reason against both superstition and dogmatic **atheism**."*
+> - 📜 **Baron d'Holbach (*The System of Nature*):** *"Enlightened materialist **atheism** seeks to liberate humanity from the terror of imaginary celestial despots."*

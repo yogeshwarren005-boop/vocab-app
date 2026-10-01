@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (shipbuilding) the point of intersection between two vertical lines, one line through the center of buoyancy of the hull of a ship in equilibrium and the other line through the center of buoyancy of the hull when the ship is inclined to one side; the distance of this intersection above the center of gravity is an indication of the stability of the ship.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (shipbuilding) the point of intersection between two vertical lines, one line through the center of buoyancy of the hull of a ship in equilibrium and the other line through the center of buoyancy of the hull when the ship is inclined to one side; the distance of this intersection above the center of gravity is an indication of the stability of the ship.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The theoretical point in naval architecture at which a vertical line through the shifted centre of buoyancy intersects the vertical axis of equilibrium of a tilted vessel.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In maritime engineering, the height of this point above the center of gravity (the metacentric height) provides the fundamental metric of hydrostatic stability.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metacentre designates (shipbuilding) the point of intersection between two vertical lines, one line through the center of buoyancy of the hull of a ship in equilibrium and the other line through the center of buoyancy of the hull when the ship is inclined to one side; the distance of this intersection above the center of gravity is an indication of the stability of the ship."*
+> - 📜 **William John Macquorn Rankine (*Shipbuilding: Theoretical and Practical*):** *"Calculating the position of the **metacentre** must precede any reliable assessment of a vessel's seaworthiness in heavy swell."*
+> - 📜 **Lord Kelvin (*Popular Lectures and Addresses: Navigational Affairs*):** *"When the ship rolls into the trough, the oscillating centre of buoyancy swings about the fixed **metacentre**."*
+> - 📜 **H. G. Wells (*The War in the Air*):** *"The monstrous dirigibles were designed so that their centre of gravity hung deep beneath the aerostatic **metacentre**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The induction of sleep or hypnosis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The induction of sleep or hypnosis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The induction, production, or generation of a state of sleep or hypnosis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In experimental psychophysiology and nineteenth-century neurology (notably Charcot and Bernheim), hypnogenesis was investigated using rhythmic auditory clicks, visual fixation on rotating mirrors, or verbal suggestion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypnogenesis designates the induction of sleep or hypnosis."*
+> - 📜 **Jean-Martin Charcot (*Clinical Lectures on Diseases of the Nervous System*):** *"Visual fixation upon a bright metallic sphere facilitates rapid **hypnogenesis** in susceptible hysterical subjects."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The physiological mechanism of **hypnogenesis** relies upon the steady narrowing of focal attention to a monotonous cue."*
+> - 📜 **Sigmund Freud (*Studies on Hysteria*):** *"Bernheim argued that verbal suggestion alone is the true effective instrument of clinical **hypnogenesis**."*

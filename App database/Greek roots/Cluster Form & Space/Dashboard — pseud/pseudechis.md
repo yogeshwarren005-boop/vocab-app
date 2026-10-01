@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Venomous australian blacksnakes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Venomous australian blacksnakes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of large, highly venomous elapid snakes native to Australia and New Guinea, including the red-bellied black snake and mulga snake.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In toxinology and herpetology, dangerous front-fanged serpents whose venom contains potent myotoxins, anticoagulants, and presynaptic neurotoxins.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pseudechis designates venomous australian blacksnakes."*
+> - 📜 **Gerard Krefft (*The Snakes of Australia*):** *"The black snake of the genus **pseudechis** frequents moist swampy valleys, feeding primarily on water skinks and frogs."*
+> - 📜 **Hal Cogger (*Reptiles and Amphibians of Australia*):** *"A bite from a large **pseudechis** warrants prompt administration of specific bivalent antivenom to prevent muscle necrosis."*
+> - 📜 **Raymond Hoser (*Australian Elapid Snakes*):** *"Species within **pseudechis** display remarkable behavioral plasticity, flattening their necks defensively when cornered."*

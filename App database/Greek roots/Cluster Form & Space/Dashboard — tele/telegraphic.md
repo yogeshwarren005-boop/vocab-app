@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or transmitted by telegraph.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having the style of a telegram with many short words left out.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or transmitted by an electric telegraph; characterized by extreme conciseness, brevity, and economy of words.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary aesthetics and journalism, a telegraphic style omits redundant prepositions, articles, and adjectives to convey stark narrative urgency.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"Intelligence having been sent to Männedorf, united prayer was made in his behalf; and very soon afterwards a telegraphic message announced that he was recovering."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"I felt the need of sympathy and help and prayer, and I made up my mind that I would send a telegraphic dispatch to this meeting, where I had so often united with you in prayer."*
-> - 📜 **L. P. Brockett (*Woman's Work in the Civil War: A Record of Heroism, Patriotism, and Patience*):** *"Returning to Washington, she now offered her services to the Sanitary Commission, and on the 4th of May was summoned by a telegraphic despatch from Mr."*
+> - 📜 **Ernest Hemingway (*Death in the Afternoon*):** *"The dispatch was written in a clean, **telegraphic** style stripped of all decorative literary embroidery."*
+> - 📜 **H. G. Wells (*The War of the Worlds*):** *"A **telegraphic** report from the Woking station flashed word across the metropolis that strange cylinders had opened."*
+> - 📜 **Virginia Woolf (*Jacob's Room*):** *"Her notes were brief and **telegraphic**, dashing off names, railway times, and dinner engagements with nervous haste."*

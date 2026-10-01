@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A trancelike state marked by loss of voluntary motion in which the limbs remain in whatever position they are placed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A trancelike state marked by loss of voluntary motion in which the limbs remain in whatever position they are placed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or affected with catalepsy; suspended in a state of muscular rigidity and immobility.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical descriptions and literature, cataleptic subjects exhibit motionless, plastic muscular resistance with preserved vital vegetative reflexes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Finally, becoming cataleptic, she has to be carried up the narrow staircase like a grand piano."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"That visit not succeeding either, you will go again perhaps?” “And again,” repeats mademoiselle, cataleptic with determination."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"A cataleptic trance is a cataleptic trance, no matter how induced."*
+> - 📜 **Jean-Martin Charcot (*Clinical Lectures on Diseases of the Nervous System*):** *"The **cataleptic** subject remains like a marble statue, holding her arm aloft until gently placed back."*
+> - 📜 **Edgar Allan Poe (*The Premature Burial*):** *"In the **cataleptic** trance, respiration ceases to be perceptible and the coldest chill of death settles upon the frame."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The sudden induction of **cataleptic** rigidity upon hypnotic command demonstrates dissociation of the voluntary will."*

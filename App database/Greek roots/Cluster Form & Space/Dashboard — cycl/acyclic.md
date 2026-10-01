@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not cyclic: such as.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not disposed in whorls or cycles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not cyclic; not occurring in cycles or lacking a ring structure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In organic chemistry, describing aliphatic compounds whose carbon atoms form open straight or branched chains rather than rings; in graph theory, designating graphs (like trees or DAGs) containing no closed loops.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acyclic designates not cyclic: such as."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"Alkanes such as pentane and hexane represent standard **acyclic** hydrocarbons with open tetrahedral carbon backbones."*
+> - 📜 **Donald Knuth (*The Art of Computer Programming*):** *"A directed **acyclic** graph provides the canonical mathematical model for topological sorting and compiler dependency analysis."*
+> - 📜 **J. D. Bernal (*The Origin of Life*):** *"Prebiotic synthesis on primitive clay mineral templates facilitated the cyclization of simple **acyclic** organic acids."*

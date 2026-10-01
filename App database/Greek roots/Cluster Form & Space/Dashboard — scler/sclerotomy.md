@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgical incision of the sclerotic coat of the eye.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surgical incision of the sclerotic coat of the eye.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The surgical incision or cutting of the sclera of the eyeball.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ophthalmology, a surgical procedure (posterior sclerotomy) performed to drain subretinal fluid, relieve acute intraocular pressure, or access the vitreous chamber.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sclerotomy designates surgical incision of the sclerotic coat of the eye."*
+> - 📜 **Albrecht von Graefe (*Archiv für Ophthalmologie*):** *"A timely posterior **sclerotomy** evacuated the subretinal exudate, permitting the detached retina to settle back against the choroid."*
+> - 📜 **William Mackenzie (*A Practical Treatise on the Diseases of the Eye*):** *"In fulminating acute glaucoma, urgent **sclerotomy** relieves agonizing pain by decompressing the engorged vitreous humor."*
+> - 📜 **Sir Stewart Duke-Elder (*System of Ophthalmology*):** *"The transscleral knife incision during **sclerotomy** must avoid damaging the vortex veins and the ciliary body."*

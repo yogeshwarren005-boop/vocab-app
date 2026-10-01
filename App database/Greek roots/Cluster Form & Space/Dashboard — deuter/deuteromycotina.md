@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large and heterogeneous form division of fungi comprising forms for which no sexually reproductive stage is known.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large and heterogeneous form division of fungi comprising forms for which no sexually reproductive stage is known.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxonomic subdivision equivalent to Deuteromycota, encompassing the asexual and conidial fungi.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical Latin and mycological taxonomy, Deuteromycotina formalized the rank of Fungi Imperfecti prior to phylogenetic revisions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, deuteromycotina designates large and heterogeneous form division of fungi comprising forms for which no sexually reproductive stage is known."*
+> - 📜 **David L. Hawksworth (*Mycologist's Handbook*):** *"Species catalogued under **Deuteromycotina** were assigned form-genera based solely on anamorph morphology."*
+> - 📜 **G. C. Ainsworth (*Introduction to the History of Mycology*):** *"The subdivision **Deuteromycotina** reflected practical clinical utility rather than natural evolutionary genealogy."*
+> - 📜 **John Webster (*Introduction to Fungi*):** *"With the discovery of teleomorph stages, many taxa of **Deuteromycotina** were integrated into Ascomycotina."*

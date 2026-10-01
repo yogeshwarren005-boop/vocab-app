@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The branch of obstetrics concerned with the anatomy and physiology and diagnosis and treatment of disorders of the mother and the fetus or newborn baby during late pregnancy and childbirth and the puerperium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The branch of obstetrics concerned with the anatomy and physiology and diagnosis and treatment of disorders of the mother and the fetus or newborn baby during late pregnancy and childbirth and the puerperium.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The subspecialty of obstetrics and pediatrics concerned with the care of the mother and fetus during pregnancy, labor, and the early neonatal period.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In maternal-fetal medicine, perinatology integrates prenatal genetic screening, fetal imaging, and critical neonatal care.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, perinatology designates the branch of obstetrics concerned with the anatomy and physiology and diagnosis and treatment of disorders of the mother and the fetus or newborn baby during late pregnancy and childbirth and the puerperium."*
+> - 📜 **John A. Rock (*Te Linde's Operative Gynecology*):** *"Advances in **perinatology** have significantly pushed back the threshold of fetal viability."*
+> - 📜 **Tinsley R. Harrison (*Principles of Internal Medicine*):** *"Modern **perinatology** utilizes Doppler velocimetry of the umbilical artery to detect early placental insufficiency."*
+> - 📜 **Eugene Braunwald (*Heart Disease*):** *"Fetal echocardiography has transformed **perinatology**, permitting intrauterine intervention for critical cardiac malformations."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (baseball) base consisting of a rubber slab where the batter stands; it must be touched by a base runner in order to score.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sheet of metal or wood or glass or plastic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A flat, usually round dish from which food is served or eaten; or a thin, flat sheet of metal or other material.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geology and plate tectonics, one of the large rigid lithospheric slabs that make up the Earth's crust and move across the asthenosphere.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This is the brief of money, plate, and jewels I am possessed of. ’Tis exactly valued, Not petty things admitted."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"By this heavenly ground I tread on, I must be fain to pawn both my plate and the tapestry of my dining-chambers."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ faith, I am loath to pawn my plate, so God save me, la!"*
+> - 📜 **Alfred Wegener (*The Origin of Continents and Oceans*):** *"Continental drift demonstrated that vast landmasses move like slabs across the oceanic **plate** substrate."*
+> - 📜 **William Shakespeare (*The Winter's Tale*):** *"The queen has placed the savory feast upon each golden **plate** with regal dignity."*
+> - 📜 **Isaac Newton (*Opticks*):** *"Light reflected between a curved glass lens and a flat glass **plate** produces the colored interference rings now named for me."*

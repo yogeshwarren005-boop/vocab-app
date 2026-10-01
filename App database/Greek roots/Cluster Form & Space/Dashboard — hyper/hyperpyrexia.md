@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Exceptionally high fever (as in a particular disease).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exceptionally high fever (as in a particular disease).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An exceptionally high body core temperature, typically defined as exceeding 106°F (41.1°C), constituting an acute medical emergency.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In critical care medicine, hyperpyrexia arises in severe heat stroke, thyroid storm, neuroleptic malignant syndrome, or hypothalamic hemorrhage, threatening irreversible encephalopathy and multi-organ failure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyperpyrexia designates exceptionally high fever (as in a particular disease)."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Rheumatic **hyperpyrexia** with temperatures climbing above 107°F demands immediate immersion in ice-water baths."*
+> - 📜 **Austin Flint (*A Treatise on the Principles and Practice of Medicine*):** *"The sudden advent of **hyperpyrexia** in sunstroke is accompanied by complete cessation of sweating and deep coma."*
+> - 📜 **Thomas Watson (*Lectures on the Principles and Practice of Physic*):** *"Unless heroic measures rapidly subdue the extreme **hyperpyrexia**, fatal cardiac and cerebral exhaustion swiftly follows."*

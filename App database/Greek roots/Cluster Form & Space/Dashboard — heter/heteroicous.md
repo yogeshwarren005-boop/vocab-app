@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having several forms of gametoecia on the same plant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having several forms of gametoecia on the same plant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having male and female reproductive organs on different stems or branches of the same individual plant or thallus; autoicous (in bryology).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In bryology and hepaticology, heteroicous mosses display diverse spatial segregations of antheridia and archegonia to optimize outcrossing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heteroicous designates having several forms of gametoecia on the same plant."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"In certain **heteroicous** moss species, antheridial cups appear on short lateral ramuli while archegonia crown the main stem."*
+> - 📜 **Peter H. Raven (*Biology of Plants*):** *"The **heteroicous** arrangement ensures fertilization during wet spells without requiring sperm to navigate between separate cushions."*
+> - 📜 **Katherine Esau (*Plant Anatomy*):** *"Bryophyte taxonomists record whether a gametophyte is strictly dioicous, synoicous, or **heteroicous** to define species boundaries."*

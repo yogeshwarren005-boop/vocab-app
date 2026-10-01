@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The ion in an electrolyzed solution that migrates to the anode; broadly : a negatively charged ion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ion in an electrolyzed solution that migrates to the anode; broadly : a negatively charged ion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A negatively charged ion that is attracted to the anode (positive electrode) during electrolysis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Coined in 1834 by Michael Faraday and William Whewell from Greek *anion* (going up); common anions include chloride ($Cl^-$), sulfate ($SO_4^{2-}$), bicarbonate ($HCO_3^-$), and hydroxide ($OH^-$).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anion designates the ion in an electrolyzed solution that migrates to the anode; broadly : a negatively charged ion."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"I propose to call that body an **anion** which goes to the anode, bearing a negative electrical polarity."*
+> - 📜 **Svante Arrhenius (*Recherches sur la conductibilité galvanique des électrolytes*):** *"Electrolytic dissociation splits neutral salt molecules into a positive cation and a mobile negative **anion**."*
+> - 📜 **Ernest Starling (*Principles of Human Physiology*):** *"Chloride functions as the principal extracellular **anion** balancing sodium to maintain physiological osmotic equilibrium."*

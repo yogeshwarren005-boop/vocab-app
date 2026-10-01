@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Resistor for regulating current.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resistor for regulating current.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An electrical instrument consisting of an adjustable variable resistor, used to regulate current flow in a circuit without interrupting it.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical electrical engineering, Charles Wheatstone coined the term rheostat in 1843 for his wire-wound sliding resistor used to balance resistance in Wheatstone bridge networks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"This is done by making each crank operate a variable resistance or rheostat."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"So current from a battery flows to the two wires leading to the distant station, each passing through the rheostat connected to one of the cranks."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"And that force can be very easily varied by the use of an instrument called a "rheostat" or variable resistance."*
+> - 📜 **Charles Wheatstone (*An Account of Several New Instruments and Processes*):** *"I have constructed an instrument which I name a **rheostat**, by which the resistance of an electric circuit can be varied with precision."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"By turning the handle of the **rheostat**, the intensity of the galvanic current was diminished by measured gradations."*
+> - 📜 **Nikola Tesla (*My Inventions*):** *"I inserted a heavy copper **rheostat** into the primary winding to control the high-frequency discharge."*

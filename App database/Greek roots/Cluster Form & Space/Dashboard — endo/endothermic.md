@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by or formed with absorption of heat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Warm-blooded.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by or resulting from the absorption of heat (in chemistry); or possessing physiological mechanisms to maintain internal body warmth (in zoology).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In thermodynamic reactions, enthalpy change is positive ($\Delta H > 0$); in comparative physiology, endothermic animals maintain metabolic homeothermy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endothermic designates characterized by or formed with absorption of heat."*
+> - 📜 **Knut Schmidt-Nielsen (*Animal Physiology: Adaptation and Environment*):** *"An **endothermic** animal relies on metabolic heat production and insulation to maintain an elevated, constant internal body temperature."*
+> - 📜 **Gilbert N. Lewis (*Thermodynamics and the Free Energy of Chemical Substances*):** *"An **endothermic** reaction absorbs heat from the surrounding bath, causing enthalpy of the products to exceed that of the reactants."*
+> - 📜 **Stephen Jay Gould (*The Panda's Thumb*):** *"Mammals and birds evolved high, sustained resting metabolic rates to support an active **endothermic** lifestyle."*

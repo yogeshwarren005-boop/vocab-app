@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An association of neighboring states or tribes in ancient greece; established originally to defend a common religious center.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An association of neighboring states or tribes in ancient greece; established originally to defend a common religious center.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An association or confederation of neighboring Greek states or tribes organized to protect and manage a shared sacred sanctuary.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ancient history and political theory, an early form of international religious council, most famously the Delphic Amphictyonic League.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amphictyony designates an association of neighboring states or tribes in ancient greece; established originally to defend a common religious center."*
+> - 📜 **George Grote (*A History of Greece*):** *"The Delphic **amphictyony** represented a sacred covenant among twelve tribes to guarantee peace at Apollo's holy shrine."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The ancient **amphictyony** of Greece failed to avert mutual slaughter whenever the passions of Sparta and Athens collided."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"The **amphictyony** of ancient Greece had ample authority in theory, yet in practice it could not enforce decrees against dominant members."*

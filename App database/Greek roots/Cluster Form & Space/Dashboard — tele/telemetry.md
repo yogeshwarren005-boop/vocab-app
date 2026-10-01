@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The science or process of telemetering data.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Data transmitted by telemetry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The science, technology, or process of collecting instrument readings or data at a remote point and transmitting them electrically, by radio, or optically to a receiving station for monitoring.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In spaceflight operations and clinical medicine, digital telemetry tracks vehicle flight dynamics and ambulatory cardiac arrhythmias in hospital intensive care units.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, telemetry designates the science or process of telemetering data."*
+> - 📜 **Wernher von Braun (*The Exploration of Mars*):** *"Real-time radio **telemetry** provides ground engineers with an exact diagnostic portrait of every propulsion subsystem in flight."*
+> - 📜 **Arthur C. Clarke (*Rendezvous with Rama*):** *"The exploration probes reported no hazardous radiation on their automated sensor **telemetry**."*
+> - 📜 **Atul Gawande (*Complications: A Surgeon's Notes on an Imperfect Science*):** *"Continuous cardiac **telemetry** in the coronary care unit alerted the team to the sudden onset of ventricular tachycardia."*

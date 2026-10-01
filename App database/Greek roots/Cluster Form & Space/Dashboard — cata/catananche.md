@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of several plants of the genus catananche having long-stalked heads of blue or yellow flowers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of several plants of the genus catananche having long-stalked heads of blue or yellow flowers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of Mediterranean flowering plants in the family Asteraceae, commonly known as Cupid's dart, bearing papery blue or yellow flower heads.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ethnobotany and classical lore, herbs (such as Catananche caerulea) anciently employed in Greek love philters and charms to inspire passion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, catananche designates any of several plants of the genus catananche having long-stalked heads of blue or yellow flowers."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"Ancient Greek sorceresses gathered the herb **Catananche** to brew potent philtres designed to compel erotic love."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"The delicate azure flower heads of **Catananche** retain their vivid color and papery texture when dried for winter bouquets."*
+> - 📜 **Asa Gray (*Synoptical Flora of North America*):** *"The scarious, silvery phyllaries of **Catananche** distinguish it from allied genera within the chicory tribe."*

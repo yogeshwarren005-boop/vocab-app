@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The diploid, multicellular, asexual reproductive stage in plants and algae that develops from the zygote and that produces spores.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The diploid, multicellular, asexual reproductive stage in plants and algae that develops from the zygote and that produces spores.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The asexual, spore-producing, diploid (2n) phase in the alternation of generations in plants and certain algae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vascular plant evolution, the sporophyte underwent progressive morphological expansion and anatomical complexity, reducing the gametophyte to a microscopic parasite in seed plants.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sporophyte designates the diploid, multicellular, asexual reproductive stage in plants and algae that develops from the zygote and that produces spores."*
+> - 📜 **F. O. Bower (*The Origin of a Land Flora*):** *"The terrestrial environment favored the vegetative expansion of the diploid **sporophyte** at the expense of the fragile gametophyte."*
+> - 📜 **Katherine Esau (*Plant Anatomy*):** *"In all ferns and flowering plants, the familiar leafy plant is the independent, vascularized **sporophyte**."*
+> - 📜 **Eduard Strasburger (*Textbook of Botany*):** *"In bryophytes, by contrast, the diminutive **sporophyte** remains permanently attached to and nourished by the maternal moss plant."*

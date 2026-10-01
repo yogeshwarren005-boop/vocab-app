@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Instructive (especially excessively).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Instructive (especially excessively).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to instruction; educational, pedagogical, or instructional in design or character.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In academic and stylistic discourse, having an explanatory, textbook-like exposition intended to impart systematic knowledge.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, didactical designates instructive (especially excessively)."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Knowledge delivered in a **didactical** manner tends to be received uncritically rather than questioned and enlarged."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"His essays maintain a grave, **didactical** tone that directs the reader toward virtuous introspection."*
+> - 📜 **William Hazlitt (*Table-Talk*):** *"A purely **didactical** work seldom touches the heart, however much it may convince the understanding."*

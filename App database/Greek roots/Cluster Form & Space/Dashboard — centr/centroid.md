@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Center of mass.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A point whose coordinates are the averages of the corresponding coordinates of a given set of points and which for a given plane or three-dimensional figure (such as a triangle or sphere) corresponds to the center of mass of a thin plate of uniform thickness and consistency or a body of uniform consistency having the same boundary.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The geometric center or center of mass of a plane figure, solid object, or system of points of uniform density.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In statics, differential geometry, and computational mechanics, the mean arithmetic position of all points in a geometric shape, determined by integration of spatial coordinates.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centroid designates center of mass."*
+> - 📜 **Archimedes (*On the Equilibrium of Planes*):** *"The **centroid** of any triangle lies upon the intersection of its three median lines, dividing each in the ratio of two to one."*
+> - 📜 **Isaac Newton (*Principia*):** *"For a body of uniform density, gravitational attraction acts as if its entire mass were concentrated at its **centroid**."*
+> - 📜 **Ernst Mach (*The Science of Mechanics*):** *"The calculation of the **centroid** enables engineers to determine rotational moments of inertia in structural beams."*

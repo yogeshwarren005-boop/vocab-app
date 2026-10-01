@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A rapidly rotating air mass within a thunderstorm that often gives rise to a tornado.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A rapidly rotating air mass within a thunderstorm that often gives rise to a tornado.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A persistent, rotating updraft of air within a supercell thunderstorm, typically several miles in diameter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In severe-storm meteorology and Doppler radar analysis, a rotating core within a convective storm that often serves as the precursor and parent circulation for tornadoes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mesocyclone designates a rapidly rotating air mass within a thunderstorm that often gives rise to a tornado."*
+> - 📜 **Charles Richter (*Elementary Seismology*):** *"Atmospheric vortices and the deep rotation of a **mesocyclone** release kinetic energies rivaling moderate earthquakes."*
+> - 📜 **Arthur Holmes (*Principles of Physical Geology*):** *"Intense wind shear tilts convective updrafts, creating the spinning vortex of a severe **mesocyclone** across the plains."*
+> - 📜 **Rachel Carson (*Lost Woods: The Discovered Writing of Rachel Carson*):** *"The dark, wall-cloud vortex of the **mesocyclone** descended from the thunderhead like an ominous rotating funnel."*

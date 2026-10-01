@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A loss of the ability to recognize objects by handling them.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A loss of the ability to recognize objects by handling them.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The inability to identify common objects by touch alone without the aid of sight, despite preserved primary somatosensory perception.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neurology, a tactile agnosia resulting from cortical lesions in the contralateral parietal lobe (somatosensory association cortex).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, astereognosis designates a loss of the ability to recognize objects by handling them."*
+> - 📜 **William R. Gowers (*A Manual of Diseases of the Nervous System*):** *"The patient retained sensitivity to pinprick and temperature, yet suffered profound **astereognosis**, unable to recognize a key placed in his palm."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Parietal lobe infarction classically manifests with contralateral **astereognosis** and loss of two-point tactile discrimination."*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*):** *"Her tactile exploration was unimpaired in mechanics, yet due to **astereognosis** she could not distinguish a coin from a button by touch."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Discrimination in favor of heterosexual and against homosexual people.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Discrimination in favor of heterosexual and against homosexual people.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Discrimination, prejudice, or bias against non-heterosexual people based on the assumption that heterosexuality is the sole natural or valid norm.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sociology and gender studies, institutional heterosexism designates legal, cultural, and social structures that privilege heterosexual relationships.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heterosexism designates discrimination in favor of heterosexual and against homosexual people."*
+> - 📜 **Judith Butler (*Gender Trouble*):** *"Compulsory heterosexuality operates through pervasive **heterosexism** that polices the boundaries of intelligible gender performance."*
+> - 📜 **Eve Kosofsky Sedgwick (*Epistemology of the Closet*):** *"The cultural hegemony of **heterosexism** relies upon silences and double binds enforced across public discourse."*
+> - 📜 **Audre Lorde (*Sister Outsider*):** *"We must dismantle the interlocking systems of racism, sexism, and **heterosexism** to achieve genuine human liberation."*

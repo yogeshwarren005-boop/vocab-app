@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ambly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An extinct order of primitive, archaic ungulate mammals from the Paleocene and Eocene epochs, characterized by stout limbs and short, blunt, five-toed feet.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate paleontology, an obsolete taxonomic wastebasket taxon established by E. D. Cope uniting diverse archaic herbivores such as pantodonts and dinoceratans.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Amblypoda designates a term designating an entity, condition, or phenomenon derived from greek ambly."*
+> - 📜 **Edward Drinker Cope (*The Vertebrata of the Tertiary Formations of the West*):** *"The archaic ungulate order **Amblypoda** comprises early tertiary quadrupeds whose plantigrade extremities retain five primitive digits."*
+> - 📜 **Henry Fairfield Osborn (*The Age of Mammals in Europe, Asia and North America*):** *"Among the archaic fauna of the Wasatch formation, the short-footed **Amblypoda** represented the foremost massive browsers of their era."*
+> - 📜 **William Diller Matthew (*Memoirs of the American Museum of Natural History*):** *"Subsequent osteological comparison demonstrated that the disparate groups united under **Amblypoda** evolved their heavy columnar limbs independently."*

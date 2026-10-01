@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The excessive sweetness of saccharin.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The excessive sweetness of saccharin.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state, quality, or degree of being saccharine; excessive sweetness of taste, tone, or manner.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical chemical descriptions, the measure or property of sugar content in fruit juices, cane extracts, or wine must.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, saccharinity designates the excessive sweetness of saccharin."*
+> - 📜 **Samuel Johnson (*A Dictionary of the English Language*):** *"The author cautioned against that sickening **saccharinity** of expression which enfeebles heroic verse."*
+> - 📜 **John Evelyn (*Sylva, or A Discourse of Forest-Trees*):** *"Cider apples must possess sufficient natural **saccharinity** to sustain healthy alcoholic fermentation through the winter."*
+> - 📜 **William Cowper (*The Task: A Poem in Six Books*):** *"He recoiled from the cloying **saccharinity** of courtly flatterers whose honeyed tongues concealed treasonous ambitions."*

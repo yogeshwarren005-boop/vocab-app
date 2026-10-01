@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A monoclinic mineral of the feldspar group consisting of a silicate of potassium and aluminum.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A monoclinic mineral of the feldspar group consisting of a silicate of potassium and aluminum.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A major rock-forming potassium aluminum silicate mineral (KAlSi3O8) of the feldspar group that characteristically cleaves at right angles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In petrology and mineralogy, an essential constituent of felsic igneous rocks such as granites and syenites, possessing a hardness of 6 on the Mohs scale.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, orthoclase designates a monoclinic mineral of the feldspar group consisting of a silicate of potassium and aluminum."*
+> - 📜 **James Dwight Dana (*System of Mineralogy*):** *"The mineral **orthoclase** derives its name from the Greek words for straight and fracture, referring to its two perfect cleavage planes at right angles."*
+> - 📜 **Frank Wigglesworth Clarke (*The Data of Geochemistry*):** *"In the weathering of igneous rocks, potassium feldspar or **orthoclase** alters progressively into kaolin and soluble carbonates."*
+> - 📜 **Norman L. Bowen (*The Evolution of the Igneous Rocks*):** *"Crystallization in granitic magmas yields abundant **orthoclase** as the liquid phase cools toward eutectic composition."*

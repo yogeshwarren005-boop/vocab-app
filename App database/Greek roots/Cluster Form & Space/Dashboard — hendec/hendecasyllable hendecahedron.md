@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek hendec.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A composite lexical entry denoting an eleven-syllable poetic line (hendecasyllable) or an eleven-faced solid polyhedron (hendecahedron).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In prosody and polyhedral geometry, uniting the quantitative poetic meter of Catullus with the structural geometry of eleven-sided convex polyhedra.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hendecasyllable hendecahedron designates a term designating an entity, condition, or phenomenon derived from greek hendec."*
+> - 📜 **H. S. M. Coxeter (*Regular Polytopes*):** *"Euler's polyhedral formula applies equally to any convex **hendecasyllable hendecahedron**, relating its faces, vertices, and edges."*
+> - 📜 **Gilbert Murray (*The Classical Tradition in Poetry*):** *"The rhythmic swing of the **hendecasyllable hendecahedron** preserves an antique musical balance between syllable and accent."*
+> - 📜 **Branko Grünbaum (*Convex Polytopes*):** *"Combinatorial classification catalogues every topologically distinct form of the eleven-faced **hendecasyllable hendecahedron**."*

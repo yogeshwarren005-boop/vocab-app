@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: down.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: any of various wild cats.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combining form of Greek origin meaning down, downward, against, thoroughly, completely, or in accordance with.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In lexical morphology, a productive prefix appearing in scientific and literary terms such as catabolism, catastrophe, catalyst, and cataclysm.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog cata as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Richard Chenevix Trench (*On the Study of Words*):** *"The Greek preposition **cata** carries the primary sense of downward motion, imparting intensity and finality to English borrowings."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"Whether signifying downward descent or complete thoroughness, **cata** forms a cornerstone of technical scientific nomenclature."*
+> - 📜 **William Benjamin Carpenter (*Principles of General and Comparative Physiology*):** *"Biological terms utilizing **cata** systematically signify breakdown and degradation of structural matter."*

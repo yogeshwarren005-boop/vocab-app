@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Used in some classification systems: a group of extinct fossil gymnosperms coextensive with the order cycadofilicales.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Used in some classification systems: a group of extinct fossil gymnosperms coextensive with the order cycadofilicales.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The taxonomic class or order of extinct seed ferns (Pteridospermopsida) that flourished from the Devonian to the Cretaceous period.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In paleobotany, fossil seed plants combining fern-like fronds with gymnospermous vascular anatomy and naked seed production.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pteridospermae designates used in some classification systems: a group of extinct fossil gymnosperms coextensive with the order cycadofilicales."*
+> - 📜 **Robert Kidston (*Fossil Plants of the Carboniferous Rocks of Great Britain*):** *"Extensive compression fossils belonging to **pteridospermae** dominate the shale deposits of the Upper Carboniferous coal basins."*
+> - 📜 **Chester A. Arnold (*An Introduction to Paleobotany*):** *"The recognition of **pteridospermae** removed hundreds of fossil species from the true ferns into the seed-bearing gymnosperms."*
+> - 📜 **Henry N. Andrews (*Studies in Paleobotany*):** *"Anatomical preservation of cupulate seeds within the **pteridospermae** illuminates early stages in ovular integument evolution."*

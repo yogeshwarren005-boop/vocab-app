@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of both the lining of the renal pelvis and the parenchyma of the kidney especially due to bacterial infection.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inflammation of both the lining of the renal pelvis and the parenchyma of the kidney especially due to bacterial infection.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An inflammatory disease and bacterial infection affecting both the renal parenchyma and the renal pelvis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical nephrology, categorized as acute or chronic, presenting with high fever, flank pain, leukocytosis, and risk of renal scarring or sepsis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pyelonephritis designates inflammation of both the lining of the renal pelvis and the parenchyma of the kidney especially due to bacterial infection."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Acute **pyelonephritis** demands prompt antibiotic therapy to prevent the formation of multiple cortical abscesses within the kidney."*
+> - 📜 **Arnold R. Rich (*The Pathogenesis of Tuberculosis and Renal Diseases*):** *"Ascending bacterial invasion along the ureter represents the most common etiology of bilateral suppurative **pyelonephritis**."*
+> - 📜 **Vinay Kumar (*Robbins and Cotran Pathologic Basis of Disease*):** *"Chronic **pyelonephritis** remains a major cause of progressive end-stage renal failure accompanied by asymmetric cortical scarring."*

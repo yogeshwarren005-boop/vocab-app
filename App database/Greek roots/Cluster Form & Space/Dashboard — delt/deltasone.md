@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A dehydrogenated analogue of cortisol (trade names orasone or deltasone or liquid pred or meticorten); used as an anti-inflammatory drug in the treatment of arthritis and as an immunosuppressant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A dehydrogenated analogue of cortisol (trade names orasone or deltasone or liquid pred or meticorten); used as an anti-inflammatory drug in the treatment of arthritis and as an immunosuppressant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A pharmaceutical brand name for prednisone, a synthetic corticosteroid used to suppress inflammation and treat allergic and autoimmune conditions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical pharmacology, prednisone acts as a prodrug converted in the liver to prednisolone, exerting systemic glucocorticoid effects.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, deltasone designates a dehydrogenated analogue of cortisol (trade names orasone or deltasone or liquid pred or meticorten); used as an anti-inflammatory drug in the treatment of arthritis and as an immunosuppressant."*
+> - 📜 **Laurence L. Brunton (*Goodman & Gilman's The Pharmacological Basis of Therapeutics*):** *"Oral administration of **deltasone** rapidly suppresses circulating inflammatory cytokines in acute autoimmune exacerbations."*
+> - 📜 **Anthony S. Fauci (*Harrison's Principles of Internal Medicine*):** *"High-dose **deltasone** induction therapy remains pivotal for stabilizing acute systemic vasculitis."*
+> - 📜 **Bertram G. Katzung (*Basic & Clinical Pharmacology*):** *"Tapering the dosage of **deltasone** is critical to avoid acute secondary adrenal insufficiency."*

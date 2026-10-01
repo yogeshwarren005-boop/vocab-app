@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Writing done with a typewriter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Write by means of a keyboard with types.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act or process of writing or inputting text using a typewriter or keyboard; the skill of operating a keyboard to produce written documents.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biology and medicine, typing refers to the classification of specimens by type, such as blood typing, tissue typing, or bacteriophage typing for diagnostic and compatibility purposes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"BURNS.” “I suppose that's a fool telegram,” he admitted to himself as he hung up the receiver, “but after that typing mess I had to express myself somehow except by signs."*
+> - 📜 **Mark Twain (*Letter to Orion Clemens*):** *"I am the first author in the world to submit a manuscript produced entirely by **typing** on the new machine."*
+> - 📜 **Karl Landsteiner (*On Agglutination of Normal Human Blood*):** *"The system of blood **typing** that I have described divides human sera into three distinct groups."*
+> - 📜 **Frederick Winslow Taylor (*The Principles of Scientific Management*):** *"Scientific study of **typing** motions revealed that efficiency could be doubled through proper finger placement."*

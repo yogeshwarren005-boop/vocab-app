@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or characteristic of tragicomedy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Manifesting both tragic and comic aspects; - b.r.redman.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Manifesting, relating to, or combining tragic and comic elements.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary criticism and character study, describing scenes or individuals that evoke simultaneous amusement and poignant sorrow.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tragicomic designates of or relating to or characteristic of tragicomedy."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"Mr. Micawber's perpetual financial crises presented a **tragicomic** spectacle of cheerful optimism dashed by debtor's prison."*
+> - 📜 **Anton Chekhov (*Letters of Anton Chekhov*):** *"Life in the provinces is a subtle, **tragicomic** affair where absurd trivialities conceal deep spiritual emptiness."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"The countess observed the marital discord with a cynical, **tragicomic** detachment born of worldly experience."*

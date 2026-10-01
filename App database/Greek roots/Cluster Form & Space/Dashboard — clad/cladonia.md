@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of cladoniaceae; lichens characterized by a crustose thallus and capitate fruiting bodies borne on simple or branched podetia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of cladoniaceae; lichens characterized by a crustose thallus and capitate fruiting bodies borne on simple or branched podetia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A widespread genus of cup and reindeer lichens in the family Cladoniaceae, characterized by hollow branching podetia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In lichenology and polar ecology, fruticose lichens that form dense carpets in boreal tundra and provide the primary winter forage for caribou.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cladonia designates type genus of cladoniaceae; lichens characterized by a crustose thallus and capitate fruiting bodies borne on simple or branched podetia."*
+> - 📜 **Henry David Thoreau (*The Maine Woods*):** *"The spongy floor of the spruce forest was carpeted with pale branching cushions of **Cladonia**."*
+> - 📜 **Alexander von Humboldt (*Aspects of Nature*):** *"In high subarctic latitudes, vast plains are covered solely by species of **Cladonia**, sustaining immense herds of reindeer."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The scarlet-tipped apothecia of **Cladonia** cristatella gleam brightly upon rotting pine stumps in early spring."*

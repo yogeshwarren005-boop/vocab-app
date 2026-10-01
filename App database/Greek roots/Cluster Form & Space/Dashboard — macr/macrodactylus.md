@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of melolonthidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of melolonthidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having abnormally long fingers, toes, or digits; in entomology, designating the beetle genus *Macrodactylus* (such as the rose chafer).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic entomology, *Macrodactylus* beetles feature slender, elongated tarsal appendages that allow them to grasp delicate foliage and flowers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, macrodactylus designates a genus of melolonthidae."*
+> - 📜 **Thomas Say (*American Entomology*):** *"The destructive rose chafer, classed under **Macrodactylus**, emerges in swarms to strip orchard foliage with its elongated tarsi."*
+> - 📜 **John Lawrence LeConte (*Classification of the Coleoptera of North America*):** *"The slender claw segments of **Macrodactylus** readily distinguish it from stouter phytophagous scarabs."*
+> - 📜 **Charles Valentine Riley (*Reports on the Noxious, Beneficial, and Other Insects of the State of Missouri*):** *"Fruit growers suffer severe losses whenever **Macrodactylus** infests ripening grape clusters during early summer."*

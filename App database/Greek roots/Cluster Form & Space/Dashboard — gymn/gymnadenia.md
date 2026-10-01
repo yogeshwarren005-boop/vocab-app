@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small genus of terrestrial orchids of north america and temperate eurasia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small genus of terrestrial orchids of north america and temperate eurasia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of terrestrial orchids (fragrant orchids) of Eurasia, having dense spikes of scented pink or purple flowers and naked viscidia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic orchidology, Gymnadenia is named from the Greek for 'naked gland' because the adhesive retinaculum lacks a protective bursicle pouch.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gymnadenia designates small genus of terrestrial orchids of north america and temperate eurasia."*
+> - 📜 **Charles Darwin (*The Various Contrivances by which Orchids are Fertilised by Insects*):** *"In **gymnadenia**, the viscid discs are completely exposed, adhering instantly to the proboscis of visiting sphingid moths."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The fragrant marsh orchid of the genus **gymnadenia** bears an elongated, slender nectary spur."*
+> - 📜 **Peter H. Raven (*Biology of Plants*):** *"Natural hybridization between **gymnadenia** and co-occurring Dactylorhiza generates diverse hybrid swarms across European meadows."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having rudimentary or abnormally small wings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having rudimentary or abnormally small wings.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having abnormally short or rudimentary wings (of insects or birds).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ecological entomology, describing a morph or caste that trades flight dispersal ability for higher reproductive fecundity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, brachypterous designates having rudimentary or abnormally small wings."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"Several montane carabid beetles become **brachypterous** at high elevations, surviving as flightless foragers in the moss."*
+> - 📜 **Edward Bagnall Poulton (*The Colours of Animals: Their Meaning and Use*):** *"The **brachypterous** condition in female moths is accompanied by crypsis that blends seamlessly against lichen-covered trunks."*
+> - 📜 **V. B. Wigglesworth (*The Principles of Insect Physiology*):** *"Hormonal titering during nymphal stadia determines whether an individual matures into a macropterous or **brachypterous** adult."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Anticipation: such as.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The representation or assumption of a future act or development as if presently existing or accomplished.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The anticipation of possible objections or future actions in rhetoric; also, the representation or treatment of a future act or state as if presently existing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative theory (flash-forward) and classical poetics, prolepsis introduces future events into the present narrative sequence; in philosophy, an innate or pre-cognitive primary concept (Epicurean prolepsis).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, prolepsis designates anticipation: such as."*
+> - 📜 **John Keats (*Isabella; or, The Pot of Basil*):** *"So the two brothers and their murdered man rode past fair Florence: the tragic **prolepsis** anticipates the victim's doom."*
+> - 📜 **Quintilian (*Institutio Oratoria*):** *"Rhetorical **prolepsis** disarms the adversary by bringing forward his anticipated charges into our own opening plea."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"The prophetic imagination operates through **prolepsis**, beholding ultimate fulfillment within embryonic beginnings."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Make symmetric.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Make symmetric.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To make symmetrical; to bring parts into balanced, harmonious, or corresponding proportion; British/Commonwealth spelling of symmetrize.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematical physics and quantum field theory, to symmetrise a wave function is to average it over particle permutations to satisfy Bose-Einstein statistics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, symmetrise designates make symmetric."*
+> - 📜 **P. A. M. Dirac (*The Principles of Quantum Mechanics*):** *"For an assembly of identical bosons, we must **symmetrise** the total wave function with respect to any exchange of coordinates."*
+> - 📜 **Arthur Eddington (*The Mathematical Theory of Relativity*):** *"It is convenient to **symmetrise** the fundamental tensor so that its off-diagonal components coincide."*
+> - 📜 **D'Arcy Wentworth Thompson (*On Growth and Form*):** *"Hydrodynamic pressures tend to **symmetrise** the growing colonial organism around its central stem."*

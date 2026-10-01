@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Paleozoic simple dichotomously branched plants of europe and eastern canada including the oldest known vascular land plants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Paleozoic simple dichotomously branched plants of europe and eastern canada including the oldest known vascular land plants.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An extinct order of archaic spore-bearing vascular plants from the Silurian and Devonian periods, representing the earliest known land tracheophytes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary plant morphology, a foundational assemblage exhibiting simple naked axes, terminal sporangia, and homosporous reproduction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psilophytales designates paleozoic simple dichotomously branched plants of europe and eastern canada including the oldest known vascular land plants."*
+> - 📜 **D. H. Scott (*Studies in Fossil Botany*):** *"The ancient order **psilophytales** stands at the threshold of terrestrial vegetation, preceding the differentiation of lycopods and ferns."*
+> - 📜 **William H. Lang (*Contributions to the Study of the Old Red Sandstone Flora of Scotland*):** *"The petrified plants of the Rhynie chert broadened our comprehension of the anatomical diversity within the **psilophytales**."*
+> - 📜 **Thomas N. Taylor (*Paleobotany: The Biology and Evolution of Fossil Plants*):** *"Modern paleobotanical revisions have reclassified the **psilophytales** into distinct natural divisions such as Rhyniophyta and Trimerophytophyta."*

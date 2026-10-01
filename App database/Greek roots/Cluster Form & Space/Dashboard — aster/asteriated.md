@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of some crystals especially gemstones) exhibiting asterism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of some crystals especially gemstones) exhibiting asterism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Displaying asterism; marked with or exhibiting a star-like pattern of reflected or transmitted light (as in certain crystals and gemstones).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gemology and mineralogy, describing minerals like star sapphires, rubies, or phlogopite containing oriented rutile inclusions that create a six-rayed star under point-source illumination.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, asteriated designates (of some crystals especially gemstones) exhibiting asterism."*
+> - 📜 **James Dwight Dana (*A System of Mineralogy*):** *"An **asteriated** sapphire cut en cabochon displays a luminous six-rayed star dancing across its dome."*
+> - 📜 **René Just Haüy (*Traité de Minéralogie*):** *"Microscopic needle-like inclusions oriented along crystallographic axes render the corundum specimen distinctly **asteriated**."*
+> - 📜 **John Ruskin (*Ethics of the Dust*):** *"Look into the heart of this dark **asteriated** gem, and you will see how light organizes itself into a perfect celestial star."*

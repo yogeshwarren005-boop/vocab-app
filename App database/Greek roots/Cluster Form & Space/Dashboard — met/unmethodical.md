@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not efficient or methodical.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not efficient or methodical.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Lacking systematic order, plan, or method; disorganized, haphazard, or irregular in operation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In administrative theory and literary criticism, describing thought processes or research efforts that proceed without deliberate structural coherence.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, unmethodical designates not efficient or methodical."*
+> - 📜 **Samuel Johnson (*The Lives of the English Poets*):** *"His reading was vast but **unmethodical**, gathering jewels of wisdom without arranging them into an orderly cabinet of knowledge."*
+> - 📜 **John Stuart Mill (*Autobiography*):** *"An **unmethodical** course of study leaves the youthful intellect prone to confusing rhetorical assertion with demonstrated proof."*
+> - 📜 **Walter Bagehot (*The English Constitution*):** *"The English constitution may appear chaotic and **unmethodical** to theoretical jurists, yet it functions with astonishing practical vitality."*

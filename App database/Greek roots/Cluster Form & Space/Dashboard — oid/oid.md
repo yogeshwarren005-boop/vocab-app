@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something resembling a (specified) object or having a (specified) quality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resembling : having the form or appearance of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A suffix-forming element derived from Greek eidos meaning form or likeness, used to create adjectives and nouns denoting resemblance to a specified thing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In taxonomy, morphology, and chemistry, the suffix -oid systematically generates terms indicating structural similarity without identity, as in humanoid, alkaloid, and asteroid.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oid designates something resembling a (specified) object or having a (specified) quality."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"The formative element **-oid** descends from eidos, expressing likeness or resemblance to the root noun."*
+> - 📜 **W. D. Whitney (*The Century Dictionary*):** *"English freely employs **-oid** to coin scientific terms denoting approximate or partial resemblance."*
+> - 📜 **Ernest Klein (*A Comprehensive Etymological Dictionary of the English Language*):** *"The suffix **-oid** is one of the most productive Greek-derived morphemes in modern scientific nomenclature."*

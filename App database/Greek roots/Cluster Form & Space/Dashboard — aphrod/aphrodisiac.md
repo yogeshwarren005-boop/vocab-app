@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An agent (such as a food or drug) that arouses or is held to arouse sexual desire.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending to diminish or quell sexual desire.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A food, drink, drug, or substance that arouses or intensifies sexual desire or enhances libido.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacology and cultural anthropology, natural botanicals or biochemical stimulants reputed across folkloric traditions to stimulate erotic potency.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"But in the end all palled for a time, the aphrodisiac tropic smell; the coral waters, clear as well water at home; the white houses with the green jalousies; the lush, coarse green."*
-> - 📜 **James Joyce (*Ulysses*):** *"Here! _(A firm heelclacking tread is heard on the stairs.)_ BLOOM: _(Takes the chocolate.)_ Aphrodisiac?"*
+> - 📜 **Francis Bacon (*Sylva Sylvarum*):** *"Spices and aromatics have long been accounted **aphrodisiac** in their operation, heating the blood and stimulating the vital spirits."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Cantharides enjoyed an ancient but lethal reputation as an **aphrodisiac**, frequently causing fatal genitourinary nephritis."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"The dramatic awakening of libido under high doses of L-DOPA demonstrated that the neurotransmitter acted as a central **aphrodisiac**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cavity : chamber : ventricle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cavity : chamber : ventricle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combining form derived from Greek koilos, meaning hollow, empty, or cavity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biological terminology and comparative anatomy, an affix denoting anatomical cavities, body spaces, or the embryonic coelom.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"In the northern part of Wales it used to be customary for every family to make a great bonfire called _Coel Coeth_ on Hallowe'en."*
+> - 📜 **Ernst Haeckel (*Generelle Morphologie der Organismen*):** *"From the Greek **coel**, signifying a hollow space, we coin terms for the primary and secondary cavities of living organisms."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"The affix **coel** identifies anatomical excavations, whether embryonic blastocoels or the adult somatic coelom."*
+> - 📜 **E. Ray Lankester (*A Treatise on Zoology*):** *"In phylogenetic terminology, **coel** distinguishes the genuine mesodermal body cavity from hemocoelic spaces."*

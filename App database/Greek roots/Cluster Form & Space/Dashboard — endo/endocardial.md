@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Situated within the heart.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the endocardium.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, situated in, or affecting the endocardium (the innermost lining membrane of the heart chambers and valves).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cardiology, endocardial biopsies provide histological surveillance against allograft rejection following cardiac transplantation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endocardial designates situated within the heart."*
+> - 📜 **Eugene Braunwald (*Heart Disease: A Textbook of Cardiovascular Medicine*):** *"Turbulent blood flow across a stenotic valve can denude the **endocardial** surface, predisposing to bacterial adherence."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"The **endocardial** endothelium continues smoothly into the intimal lining of the great outgoing arteries."*
+> - 📜 **Arthur C. Guyton (*Textbook of Medical Physiology*):** *"Purkinje fibers lie directly beneath the **endocardial** layer, rapidly distributing electrical impulses to the ventricular myocardium."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek smil.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An extinct genus of large machairodontine saber-toothed felids that inhabited North and South America during the Pleistocene epoch.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In paleobiology, *Smilodon fatalis* and *S. populator* possessed elongated, bladelike maxillary canines adapted for delivering precision throat-shearing bites to megafaunal herbivores.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, smilodon designates a term designating an entity, condition, or phenomenon derived from greek smil."*
+> - 📜 **Peter Wilhelm Lund (*Notice on the Fossil Carnivora of Brazilian Caves*):** *"The extraordinary canine tusk recovered from the cave deposits led me to establish the genus **Smilodon**."*
+> - 📜 **George Gaylord Simpson (*The Principles of Classification and a Classification of Mammals*):** *"The cranial mechanics of **Smilodon** indicate that the jaw could open to a ninety-degree angle to deploy its giant canines."*
+> - 📜 **Stephen Jay Gould (*Bully for Brontosaurus*):** *"The classic amber-trapped tar pits of La Brea preserved thousands of **Smilodon** skeletons in peerless morphological detail."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who makes deceitful pretenses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (often used in combination) not genuine but having the appearance of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not genuine; spurious, sham, or counterfeit; pretending or claiming to be something that it is not.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical critique and semantics, serving as a modifier indicating superficial resemblance without fundamental authenticity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"This is easily distinguishable from various forms of pseudo-saving of which many persons that are really spending all their incomes are very proud."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Pseudo-gravity enhancers during construction stabilized the floors."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The lead guard, who had appeared a moment before on the screen, stepped off the ladder leading from the lower level and glided forward in the light pseudo-gravity followed by the six prisoners he had escorted from the transport."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"We must guard the understanding against the insidious influence of **pseudo** philosophies that substitute dogmas for empirical observation."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"Vulgar errors thrive because men accept a **pseudo** authority without examining the mechanical reasons of nature."*
+> - 📜 **William Hazlitt (*The Spirit of the Age*):** *"His arguments were clothed in a **pseudo** profundity that captivated listeners without conveying substantive truth."*

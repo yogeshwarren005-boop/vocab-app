@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek morph.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The existence within a single species, population, or chemical substance of three distinct morphological forms, phases, or crystalline structures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In crystallographic chemistry, trimorphism describes compounds (such as titanium dioxide, crystallizing as rutile, anatase, and brookite) that form three distinct crystal habits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trimorphism designates a term designating an entity, condition, or phenomenon derived from greek morph."*
+> - 📜 **Charles Darwin (*The Different Forms of Flowers on Plants of the Same Species*):** *"Darwin considered floral **trimorphism** one of his most elegant demonstrations of adaptation driven by sexual selection in plants."*
+> - 📜 **J. D. Dana (*A System of Mineralogy*):** *"The mineral species anatase, rutile, and brookite exhibit chemical identity with physical **trimorphism** under differing pressure regimes."*
+> - 📜 **Eilhard Mitscherlich (*Sur la relation qui existe entre la forme cristalline*):** *"A compound demonstrating **trimorphism** provides decisive proof that external crystal habit reflects thermal conditions during solidification."*

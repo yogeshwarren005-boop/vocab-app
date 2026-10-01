@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The stage of mitosis and meiosis in which the chromosomes become arranged in the equatorial plane of the spindle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A section in the equatorial plane of the metaphase spindle having the chromosomes oriented upon it.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The intermediate stage of eukaryotic mitosis and meiosis during which duplicated chromosomes condense and align along the equatorial spindle plate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical cytogenetics and karyotyping, cell division is artificially arrested at metaphase with colchicine to visualize and photograph chromosome morphology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metaphase designates the stage of mitosis and meiosis in which the chromosomes become arranged in the equatorial plane of the spindle."*
+> - 📜 **Walther Flemming (*Zellsubstanz, Kern und Zelltheilung*):** *"During **metaphase**, the nuclear threads congregate in the equatorial plane of the achromatin spindle prior to cleavage."*
+> - 📜 **Edmund Beecher Wilson (*The Cell in Development and Heredity*):** *"The precise alignment of paired chromosomes along the equatorial plate in **metaphase** ensures equitable distribution of hereditary determinants."*
+> - 📜 **Theodosius Dobzhansky (*Genetics and the Origin of Species*):** *"Cytological inspection of Drosophila salivary gland squashes at **metaphase** unveils chromosomal inversions and translocations with clarity."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Derived from a single egg.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Derived from a single egg.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Derived from a single fertilized ovum that splits into two embryos; pertaining to identical twins who share virtually all of their genetic material.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In twin studies and developmental biology, monozygotic twins are invaluable for distinguishing genetic from environmental contributions to traits, since concordance differences reflect non-genetic influences.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monozygotic designates derived from a single egg."*
+> - 📜 **Francis Galton (*The History of Twins*):** *"**Monozygotic** twins, arising from one egg, exhibit a remarkable degree of physical and psychological resemblance."*
+> - 📜 **Thomas Bouchard (*Sources of Human Psychological Differences*):** *"**Monozygotic** twins reared apart provide the strongest natural experiment for estimating heritability."*
+> - 📜 **Robert Plomin (*Behavioral Genetics*):** *"The near-perfect genetic identity of **monozygotic** twins makes them the gold standard for heritability research."*

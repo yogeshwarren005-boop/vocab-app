@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The roundness of a 3-dimensional object.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The roundness of a 3-dimensional object.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state, condition, or degree of being spherical; the measure of how closely an object resembles a perfect sphere.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sedimentology and ballistics, sphericity (Wadell index) quantifies grain shape by comparing its surface area to that of a sphere of equal volume.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sphericity designates the roundness of a 3-dimensional object."*
+> - 📜 **Isaac Newton (*Philosophiae Naturalis Principia Mathematica*):** *"Diurnal rotation causes a slight departure from true **sphericity**, flattening the Earth into an oblate spheroid at the poles."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"Beach pebbles undergo prolonged abrasion against sand until they achieve remarkable smooth **sphericity**."*
+> - 📜 **D'Arcy Wentworth Thompson (*On Growth and Form*):** *"Surface energy dictates that an isolated soap bubble attains minimum surface area through absolute geometric **sphericity**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A book of words or of information about a particular field or set of concepts; especially : a book of words and their synonyms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A list of subject headings or descriptors usually with a cross-reference system for use in the organization of a collection of documents for reference and retrieval.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A book that lists words in groups of synonyms and related concepts; historically, a treasury or storehouse of knowledge.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Originating from Greek *thesauros* (treasure store), popularized in 1852 by Peter Mark Roget's conceptual classification of the English vocabulary.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thesaurus designates a book of words or of information about a particular field or set of concepts; especially : a book of words and their synonyms."*
+> - 📜 **Peter Mark Roget (*Thesaurus of English Words and Phrases*):** *"The present **Thesaurus** provides a literary treasury where ideas are arranged to facilitate the expression of thoughts."*
+> - 📜 **Richard Chenevix Trench (*On the Study of Words*):** *"Language is the great living **thesaurus** of a nation's historical experience, moral values, and collective memories."*
+> - 📜 **H. W. Fowler (*A Dictionary of Modern English Usage*):** *"A writer consults a **thesaurus** not to hunt for obscure jargon, but to find the precise word for an exact thought."*

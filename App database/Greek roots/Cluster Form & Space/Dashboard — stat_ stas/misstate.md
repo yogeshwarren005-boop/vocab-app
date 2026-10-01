@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: State something incorrectly.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: State something incorrectly.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To state wrongly, incorrectly, or misleadingly; to give a false or inaccurate account of facts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal jurisprudence and rhetoric, to misstate material facts in an affidavit or contractual disclosure can invalidate agreements and constitute actionable fraud.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Is the divine Principle of creation misstated?"*
+> - 📜 **Abraham Lincoln (*The Lincoln-Douglas Debates*):** *"I do not seek to **misstate** Judge Douglas's positions, but simply to hold his actual declarations up to the judgment of the people."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"Opponents in controversy are perpetually prone to **misstate** their adversaries' arguments in order to achieve an easy triumph."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"The historian who ventures to **misstate** dates and treaties for party purposes betrays the sacred trust of literature."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The property possessed by a round shape that is flattened at the poles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The property possessed by a round shape that is flattened at the poles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The degree of deviation of an ellipse or spheroid from circular or spherical form; flattening.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In geophysics and planetary physics, the dynamical ellipticity of Earth reflects mass distribution and polar oblateness ($f = (a-b)/a$).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ellipticity designates the property possessed by a round shape that is flattened at the poles."*
+> - 📜 **Pierre-Simon Laplace (*Celestial Mechanics*):** *"The gravitational equilibrium of a rotating fluid mass requires a definite degree of equatorial **ellipticity**."*
+> - 📜 **George Biddell Airy (*Mathematical Tracts on the Lunar and Planetary Theories*):** *"Precise measurements of pendular oscillation confirm the polar **ellipticity** of the terrestrial globe."*
+> - 📜 **Harold Jeffreys (*The Earth: Its Origin, History and Physical Constitution*):** *"Hydrostatic theory predicts a terrestrial **ellipticity** closely matching observations from artificial satellite orbits."*

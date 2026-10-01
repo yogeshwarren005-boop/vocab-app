@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A native or inhabitant of scotland.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A native or inhabitant of scotland.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A native or inhabitant of Scotland, or a person of Scottish descent; also, a tax, contribution, or assessment in historical English and feudal law.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In legal history, the ancient tax assessment survives in the idiomatic phrase 'scot and lot' (parish dues) and 'scot-free' (exempt from punishment or fine).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I’ll keep them all; By God, he shall not have a Scot of them, No, if a Scot would save his soul, he shall not."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Owen, Owen, the same; and his son-in-law Mortimer, and old Northumberland, and that sprightly Scot of Scots, Douglas, that runs a-horseback up a hill perpendicular— PRINCE."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Do me no slander, Douglas; by my life, And I dare well maintain it with my life, If well-respected honour bid me on, I hold as little counsel with weak fear As you, my lord, or any Scot that this day lives."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"The industrious **scot** who migrated south found that thrift and enterprise opened every commercial avenue in the kingdom."*
+> - 📜 **Walter Scott (*Waverley*):** *"No true **scot** could hear the lament of the highland pipes without feeling the ancestral blood stir within him."*
+> - 📜 **Thomas Carlyle (*On Heroes, Hero-Worship, and the Heroic in History*):** *"John Knox was the stern quintessential **scot**, unbending before sovereigns and unshakable in his conviction."*

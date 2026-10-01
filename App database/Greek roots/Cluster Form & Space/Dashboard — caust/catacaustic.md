@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of burn.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of burn.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In optics and mathematics, a caustic curve or surface formed by the envelope of light rays reflected from a curved mirror or surface.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In differential geometry and physical optics, the luminous envelope formed by reflected wave fronts, contrasted with diacaustic (refracted) curves.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, catacaustic designates adjective*) pertaining to, derived from, or characteristic of burn."*
+> - 📜 **Isaac Newton (*Opticks*):** *"The curved envelope traced by rays reflected from a spherical concave speculum forms a brilliant **catacaustic** curve."*
+> - 📜 **Christiaan Huygens (*Treatise on Light*):** *"By tracing the envelopes of secondary reflected wavelets, the exact geometric cusp of the **catacaustic** is demonstrated."*
+> - 📜 **Ernst Mach (*The Principles of Physical Optics*):** *"The bright cusp of light visible upon the surface of tea inside a porcelain cup presents a familiar **catacaustic** line."*

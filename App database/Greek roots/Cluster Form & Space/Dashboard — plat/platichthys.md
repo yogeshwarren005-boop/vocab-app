@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of pleuronectidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of pleuronectidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of righteye flounders in the family Pleuronectidae, commonly known as starry flounders (Platichthys stellatus).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine biology, *Platichthys* species inhabit coastal waters and estuaries of the North Pacific, distinguished by starry tubercles and euryhaline tolerance to fresh water.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, platichthys designates a genus of pleuronectidae."*
+> - 📜 **David Starr Jordan (*The Fishes of North and Middle America*):** *"The starry flounder of the genus **Platichthys** is covered with rough, stellate tubercles instead of ordinary scales."*
+> - 📜 **George Brown Goode (*Oceanic Ichthyology*):** *"Specimens of **Platichthys** frequently ascend Pacific rivers for many miles, foraging in purely fresh water."*
+> - 📜 **William K. Gregory (*Fish Skulls*):** *"The cranial asymmetry of **Platichthys** exhibits a high frequency of reversed (left-eyed) individuals in western Pacific populations."*

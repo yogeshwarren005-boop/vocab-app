@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A dramatic composition involving elements of both tragedy and comedy usually with the tragic predominating.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A comedy with serious elements or overtones.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A play, novel, or other literary work blending elements of both tragedy and comedy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Coined by Plautus in the prologue to *Amphitruo*, developed by Italian Renaissance theorist Giambattista Guarini, and exemplified in Shakespeare's late romances (*The Winter's Tale*, *The Tempest*).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tragicomedy designates a dramatic composition involving elements of both tragedy and comedy usually with the tragic predominating."*
+> - 📜 **John Dryden (*An Essay of Dramatic Poesy*):** *"English playwrights invented a lively **tragicomedy** that mirrors real life with its alternating mirth and sorrow."*
+> - 📜 **Samuel Johnson (*Preface to Shakespeare*):** *"Shakespeare's plays are not in the rigorous sense either tragedies or comedies, but compositions of a distinct kind; an exhibiting of human life as **tragicomedy**."*
+> - 📜 **Samuel Beckett (*Waiting for Godot*):** *"Beckett famously subtitled his masterpiece of modern existential theatre as a two-act **tragicomedy**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek the.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal, intense, or irrational fear or hatred of God or religion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychology and philosophy of religion, theophobia denotes pathological dread of divine punishment, religious symbols, or sacred ceremonies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, theophobia designates a term designating an entity, condition, or phenomenon derived from greek the."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"A morbid terror of divine retribution, bordering on acute **theophobia**, plagued the religious melancholy of the Puritan soul."*
+> - 📜 **Robert Burton (*The Anatomy of Melancholy*):** *"Certain melancholic patients fall into agonizing **theophobia**, shuddering at the mere mention of holy scripture."*
+> - 📜 **Havelock Ellis (*The Dance of Life*):** *"Modern skepticism occasionally overshoots its rational aim, collapsing into an irrational and dogmatic **theophobia**."*

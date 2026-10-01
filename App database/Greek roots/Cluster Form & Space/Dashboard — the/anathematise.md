@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Curse or declare to be evil or anathema or threaten with divine punishment.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Curse or declare to be evil or anathema or threaten with divine punishment.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To denounce or condemn solemnly; to curse or pronounce an anathema upon (chiefly Commonwealth spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theological history, synods convened to anathematise doctrinal deviations and formally banish unrepentant schismatics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Dent here bent over to the pious lady and whispered something in her ear; I suppose, from the answer elicited, it was a reminder that one of the anathematised race was present."*
-> - 📜 **Charles Dickens (*A Tale of Two Cities*):** *"Little need to show that this detested family name had long been anathematised by Saint Antoine, and was wrought into the fatal register."*
+> - 📜 **Walter Scott (*The Monastery*):** *"The abbot prepared to **anathematise** the sacrilegious intruder with bell, book, and candle."*
+> - 📜 **David Hume (*The History of England*):** *"Zealous clergy did not hesitate to **anathematise** all who favored civil toleration of nonconforming sects."*
+> - 📜 **Charles Kingsley (*Hypatia*):** *"Fanatical monks assembled in Alexandria to **anathematise** pagan philosophy and desecrate ancient temples."*

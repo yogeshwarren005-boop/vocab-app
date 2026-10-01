@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The person initiating a telephone call.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The person initiating a telephone call.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who operates a telephone or initiates a telephone call.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical commercial and industrial settings, an employee assigned to make or receive telephone calls before automated dialing and PBX systems became standard.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, telephoner designates the person initiating a telephone call."*
+> - 📜 **H. G. Wells (*When the Sleeper Wakes*):** *"A hurried **telephoner** shouted dispatches into the acoustic horn amidst the roar of the machinery."*
+> - 📜 **Sinclair Lewis (*Babbitt*):** *"The persistent **telephoner** refused to hang up until he had reached the office manager in person."*
+> - 📜 **Arnold Bennett (*The Grand Babylon Hotel*):** *"Down in the lobby switchboard alcove, the **telephoner** plugged cords into the ringing brass jacks."*

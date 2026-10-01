@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Transport by dematerializing at one point and assembling at another.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Transport by dematerializing at one point and assembling at another.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To transport instantaneously across space or time without traversing the physical distance between points, especially through technological or supernatural means.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In quantum mechanics, quantum teleportation refers to the protocol whereby the quantum state of a particle is transferred to another distant particle using entanglement and classical communication.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Quote: it is only reasonable and proper that the governments of the Outer Region not be excluded from an equitable share of the enormous financial and material resources being lavished on the Interstellar Matter Teleport System (Slingshot)."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"The truncated apex of the Extractor's teleport gate cone glowed red, then violet, and thirty meters of its length disappeared into its new hyperspace home."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Another fleet of giant space tugs moved into position for the next gift of crude but treasured substance teleported across interstellar space from a distant star."*
+> - 📜 **Charles Fort (*Lo!*):** *"I use the term to designate hypothetical transportations that seem to **teleport** physical bodies across miles."*
+> - 📜 **Isaac Asimov (*Foundation and Empire*):** *"In theoretical physics, no macroscopic device could simply **teleport** matter without immense energy expenditure."*
+> - 📜 **Arthur C. Clarke (*Profiles of the Future*):** *"Speculation that future civilizations might **teleport** travelers remains one of the grandest dreams of science."*

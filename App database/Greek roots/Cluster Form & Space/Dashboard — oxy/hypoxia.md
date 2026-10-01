@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A deficiency of oxygen reaching the tissues of the body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A deficiency of oxygen reaching the tissues of the body.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A pathological condition in which a tissue or the entire body is deprived of an adequate oxygen supply for physiological metabolism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cellular biology and oncology, cellular hypoxia stabilizes hypoxia-inducible factor (HIF-1alpha), activating angiogenesis and glycolytic gene transcription.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypoxia designates a deficiency of oxygen reaching the tissues of the body."*
+> - 📜 **William G. Kaelin Jr. (*The von Hippel-Lindau Tumor Suppressor Protein and Oxygen Sensing*):** *"Cells sense ambient oxygen tension through prolyl hydroxylation, failing which **hypoxia** triggers immediate transcriptional adaptation."*
+> - 📜 **Gregg L. Semenza (*Targeting HIF-1 for Cancer Therapy*):** *"Tumor microenvironments characterized by chronic **hypoxia** drive metastatic progression and resistance to radiotherapy."*
+> - 📜 **Peter J. Ratcliffe (*Oxygen Sensing in Biology*):** *"Evolution has conserved **hypoxia**-sensing mechanisms to preserve homeostatic balance across metazoan life."*

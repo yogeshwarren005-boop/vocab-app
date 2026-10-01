@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of behind.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of behind.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a receding jaw or mandible; characterized by jaws that are set backward relative to the upper face, resulting in a retracted jaw profile.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical anthropology and craniofacial anatomy, opisthognathous describes a prognathic index indicating posterior displacement of the mandible relative to the cranial base.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, opisthognathous designates adjective*) pertaining to, derived from, or characteristic of behind."*
+> - 📜 **Ales Hrdlicka (*Practical Anthropometry*):** *"An **opisthognathous** profile indicates that the lower jaw recedes significantly behind the upper facial plane."*
+> - 📜 **W. Henry Flower (*An Introduction to the Osteology of the Mammalia*):** *"The **opisthognathous** condition contrasts sharply with the prognathism observed in many primate species."*
+> - 📜 **Ashley Montagu (*An Introduction to Physical Anthropology*):** *"Cranial measurements revealed a distinctly **opisthognathous** mandibular relationship in the studied population."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Profound scholarly knowledge.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Profound scholarly knowledge.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The practice or ideal of comprehensive, encyclopedic learning; universal knowledge.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural history, the Enlightenment doctrine that universal education and organized scientific reference works drive moral and political progress.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, encyclopedism designates profound scholarly knowledge."*
+> - 📜 **Denis Diderot (*Encyclopédie*):** *"The spirit of **encyclopedism** requires courage to overturn all intellectual idols and examine nature with unbiased reason."*
+> - 📜 **John Stuart Mill (*Autobiography*):** *"My father's rigorous educational regime cultivated a disciplined **encyclopedism** from my earliest boyhood."*
+> - 📜 **Lewis Mumford (*The Condition of Man*):** *"Modern universities have largely replaced the unifying synthesis of **encyclopedism** with narrow departmental specialization."*

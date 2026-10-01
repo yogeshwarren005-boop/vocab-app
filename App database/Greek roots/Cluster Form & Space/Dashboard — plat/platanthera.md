@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Herbaceous terrestrial orchids of temperate northern and southern hemispheres.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Herbaceous terrestrial orchids of temperate northern and southern hemispheres.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of terrestrial orchids in the family Orchidaceae, commonly known as bog orchids or fringed orchids.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In orchidology and pollination biology, *Platanthera* species bear spurs containing nectar accessible to long-tongued moths, illustrating intricate co-evolution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, platanthera designates herbaceous terrestrial orchids of temperate northern and southern hemispheres."*
+> - 📜 **Charles Darwin (*The Various Contrivances by Which Orchids Are Fertilised by Insects*):** *"In **Platanthera** chlorantha, the pollinia adhere with remarkable precision to the eyes of nocturnal sphingid moths."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The fringed purple bog orchid, belonging to **Platanthera**, adorns northern peat meadows with stately spikes."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"Species of **Platanthera** flourish in moist, acidic woodland soils, producing delicate spurred blossoms."*

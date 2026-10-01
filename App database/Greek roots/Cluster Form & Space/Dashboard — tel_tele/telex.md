@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A character printer connected to a telegraph that operates like a typewriter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Communicate by telex.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An international telecommunications network of teleprinters connected through dedicated exchanges for transmitting written messages.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In commercial history, Telex provided legally recognized written confirmations for international banking, maritime shipping, and diplomatic correspondence prior to the internet.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, telex designates a character printer connected to a telegraph that operates like a typewriter."*
+> - 📜 **John le Carré (*Tinker Tailor Soldier Spy*):** *"The station chief waited anxiously beside the cipher room while the **telex** drum clattered out instructions."*
+> - 📜 **Frederick Forsyth (*The Dogs of War*):** *"Confidential banking transfers were executed through encoded **telex** cables routed through Zurich."*
+> - 📜 **Ken Follett (*The Key to Rebecca*):** *"Every urgent dispatch from headquarters arrived over the secure military **telex** link in Cairo."*

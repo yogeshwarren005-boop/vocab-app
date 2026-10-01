@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cynipid gall wasps, especially causing oak-apple galls.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cynipid gall wasps, especially causing oak-apple galls.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of gall wasps in the family Cynipidae that induce large, globular galls (oak apples) on oak trees.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In forest entomology and cecidology, hymenopteran insects that chemically manipulate the developmental genetics of Quercus leaf tissues to produce protective larval dwellings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amphibolips designates cynipid gall wasps, especially causing oak-apple galls."*
+> - 📜 **William Morton Wheeler (*Demons of the Dust*):** *"The female wasp of **Amphibolips** injects secretions into the spring bud of the red oak, causing the swelling of a spongy oak apple."*
+> - 📜 **Alfred Kinsey (*The Gall Wasp Genus Cynips: A Study in the Origin of Species*):** *"The taxonomic boundaries between Cynips and **Amphibolips** depend heavily upon the internal structure and radiating fibres of the larval cell."*
+> - 📜 **Alpheus Spring Packard (*Insects Injurious to Forest and Shade Trees*):** *"In early summer the larvae of **Amphibolips** feed securely within the central core of the spherical green gall."*

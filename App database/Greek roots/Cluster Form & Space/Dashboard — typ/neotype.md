@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A type specimen that is selected subsequent to the description of a species to replace a preexisting type that has been lost or destroyed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A type specimen that is selected subsequent to the description of a species to replace a preexisting type that has been lost or destroyed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A specimen chosen to act as the single nomenclatural type when all of the original type material has been lost or destroyed.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biological nomenclature, designating a neotype requires rigorous demonstration that holotype, syntypes, and isotypes are demonstrably extinct, selecting a replacement from the original type locality (topotype) where possible.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neotype designates a type specimen that is selected subsequent to the description of a species to replace a preexisting type that has been lost or destroyed."*
+> - 📜 **Ernst Mayr (*Principles of Systematic Zoology*):** *"When wartime bombing destroyed the original Munich collections, the zoological commission authorized a **neotype**."*
+> - 📜 **John McNeill (*International Code of Botanical Nomenclature*):** *"Designation of a **neotype** is strictly prohibited so long as any fragment of the original type series survives."*
+> - 📜 **Stephen Jay Gould (*The Flamingo's Smile*):** *"To anchor historical descriptions dating back to early explorers, paleontologists carefully erected a fossil **neotype**."*

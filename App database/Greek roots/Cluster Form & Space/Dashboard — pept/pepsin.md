@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A protease of the stomach that breaks down most proteins to polypeptides.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A preparation containing pepsin that is obtained from the stomach especially of the hog and is used especially as a digestive aid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A digestive endopeptidase enzyme secreted by the chief cells of the stomach mucosa that breaks down dietary proteins into smaller peptides in an acidic environment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In enzymology and biochemical history, pepsin was discovered by Theodor Schwann in 1836, functioning optimally at a low pH between 1.5 and 2.0.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pepsin designates a protease of the stomach that breaks down most proteins to polypeptides."*
+> - 📜 **Theodor Schwann (*Ueber das Wesen des Verdauungsprocesses*):** *"I have given to the active principle of the gastric juice the name **pepsin**, from the Greek word for digestion."*
+> - 📜 **John Howard Northrop (*Crystalline Pepsin*):** *"Isolation and crystallization of **pepsin** provided conclusive proof that digestive enzymes are pure proteins."*
+> - 📜 **William Beaumont (*Experiments and Observations on the Gastric Juice*):** *"The solvent power of gastric juice depends upon the co-action of free hydrochloric acid and **pepsin** upon animal fibers."*

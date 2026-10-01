@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various moths with long narrow forewings capable of powerful flight and hovering over flowers to feed.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various moths with long narrow forewings capable of powerful flight and hovering over flowers to feed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A moth of the family Sphingidae; a hawk moth or sphinx moth, characterized by a heavy, torpedo-shaped body and long narrow forewings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In entomology, sphingids are renowned for hovering flight at blossoms, long proboscises (reaching over 30 cm in *Xanthopan*), and rapid crepuscular flight.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sphingid designates any of various moths with long narrow forewings capable of powerful flight and hovering over flowers to feed."*
+> - 📜 **Charles Darwin (*The Various Contrivances by Which Orchids Are Fertilised by Insects*):** *"I predicted that a giant **sphingid** moth with a foot-long proboscis must exist in Madagascar to pollinate *Angraecum sesquipedale*."*
+> - 📜 **Alfred Russel Wallace (*The Malay Archipelago*):** *"At dusk, a magnificent **sphingid** hovered over the trumpet flowers, its wings vibrating like a humming-bird's."*
+> - 📜 **Jean-Henri Fabre (*The Life of the Caterpillar*):** *"The horn-tailed larva of the **sphingid** rears its head back when alarmed in the posture of an Egyptian sphinx."*

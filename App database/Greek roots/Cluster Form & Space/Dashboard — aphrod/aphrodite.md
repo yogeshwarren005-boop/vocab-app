@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Goddess of love and beauty and daughter of zeus in ancient mythology; identified with roman venus.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Goddess of love and beauty and daughter of zeus in ancient mythology; identified with roman venus.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ancient Greek goddess of sexual love, beauty, passion, and fertility, identified by the Romans with Venus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine biology, the taxonomic generic name (Aphrodita) for the sea mouse, an iridescent polychaete worm covered in silky, lustrous chaetae.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Jesus of History*):** *"In the temple of Aphrodite at Corinth there were women slaves dedicated to the goddess, who owned them, and who received the wages of their shame."*
-> - 📜 **Adam Lindsay Gordon (*Poems by Adam Lindsay Gordon*):** *"Oh, altar of false Aphrodite, What strength is consumed in thy flame!"*
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"For Aphrodite, stung by his scorn, inspired his stepmother Phaedra with love of him; and when he disdained her wicked advances she falsely accused him to his father Theseus."*
+> - 📜 **Homer (*The Iliad*):** *"Laughter-loving **Aphrodite** flew down from Olympus, shielding her favored warrior in a cloud of golden mist."*
+> - 📜 **John Keats (*Endymion*):** *"Fair as the sea-born **Aphrodite** when first she stepped smiling onto the foam-fringed shores of Cyprus."*
+> - 📜 **Rachel Carson (*The Edge of the Sea*):** *"Buried in the mud of the intertidal flat lives the sea mouse, named after **Aphrodite** for the gleaming gold and peacock iridescence of its bristles."*

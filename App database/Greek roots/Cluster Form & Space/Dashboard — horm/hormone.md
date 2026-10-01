@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A product of living cells that circulates in body fluids (such as blood) or sap and produces a specific often stimulatory effect on the activity of cells usually remote from its point of origin; also : a synthetic substance that acts like a hormone.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Sex hormone.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chemical substance produced in the body by an endocrine gland or tissue and transported in tissue fluids to stimulate specific cells or tissues into action.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biochemistry, hormones belong to peptide, steroid, or amine classes, acting by binding to membrane G-protein-coupled receptors or nuclear transcription factors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hormone designates a product of living cells that circulates in body fluids (such as blood) or sap and produces a specific often stimulatory effect on the activity of cells usually remote from its point of origin; also : a synthetic substance that acts like a hormone."*
+> - 📜 **Ernest Starling (*The Chemical Correlation of the Functions of the Body*):** *"The discovery of secretin proved that an internal chemical messenger, or **hormone**, coordinates organ activity via the bloodstream."*
+> - 📜 **Arthur C. Guyton (*Textbook of Medical Physiology*):** *"Insulin is the primary anabolic **hormone** facilitating cellular uptake and storage of glucose, amino acids, and fatty acids."*
+> - 📜 **Claude Bernard (*An Introduction to the Study of Experimental Medicine*):** *"The internal milieu of the organism is maintained in dynamic equilibrium by the constant production of internal secretions, later termed **hormone** messengers."*

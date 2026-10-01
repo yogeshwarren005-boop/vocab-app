@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek gymn.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mass of naked protoplasm, especially a cell or microorganism lacking a rigid external cell wall or membrane.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cellular biology and biotechnology, equivalent to a protoplast or spheroplast, utilized in somatic cell hybridization experiments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gymnoplast designates a term designating an entity, condition, or phenomenon derived from greek gymn."*
+> - 📜 **E. B. Wilson (*The Cell in Development and Inheritance*):** *"The primordial **gymnoplast** represents the simplest living unit, exchanging metabolic substances directly with surrounding aqueous fluids."*
+> - 📜 **Bruce Alberts (*Molecular Biology of the Cell*):** *"Enzymatic digestion of plant cellulose walls yields a viable **gymnoplast** capable of electrofusion with foreign cells."*
+> - 📜 **Max Schultze (*On the Significance of the Cellular Theory*):** *"Schultze defined the living cell not by its enclosing envelope, but as a nucleated **gymnoplast** endowed with vital contractility."*

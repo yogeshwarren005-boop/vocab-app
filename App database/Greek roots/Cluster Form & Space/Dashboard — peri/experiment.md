@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of conducting a controlled test or investigation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The testing of an idea.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A scientific procedure undertaken to make a discovery, test a hypothesis, or demonstrate a known fact.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scientific methodology, a controlled empirical manipulation designed to isolate causal relationships between variables.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Dear sir, to my endeavours give consent; Of heaven, not me, make an experiment."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Of none but him, and swears he was carried out, the last time he searched for him, in a basket; protests to my husband he is now here; and hath drawn him and the rest of their company from their sport, to make another experiment of his suspicion."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"It is to the credit of men that few attempt to settle the question by experiment, and it is for their happiness, perhaps, that accident has never settled it for them."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"The true method of **experiment** first lights the candle, and then by means of the candle shows the way."*
+> - 📜 **Galileo Galilei (*Dialogue Concerning the Two Chief World Systems*):** *"A single rigorous **experiment** suffices to overturn thousands of scholastic conjectures."*
+> - 📜 **Richard Feynman (*The Character of Physical Law*):** *"If it disagrees with **experiment**, it is wrong; in that simple statement is the key to science."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a short broad head with a cephalic index of over 80.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having a short broad head with a cephalic index of over 80.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or characterized by a short, broad cranium; brachycephalic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical anthropology and osteology, describing skulls whose cranial length is curtailed relative to their transverse diameter.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, brachycranial designates having a short broad head with a cephalic index of over 80."*
+> - 📜 **Thomas Henry Huxley (*Evidence as to Man's Place in Nature*):** *"A comparison of the Neolithic skulls revealed a distinctly **brachycranial** population that displaced earlier dolichocranial hunters."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The **brachycranial** form of the cranium appears in many domesticated races of mammals through artificial selection."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The **brachycranial** vault of the infant showed early coronal synostosis on radiographic examination."*

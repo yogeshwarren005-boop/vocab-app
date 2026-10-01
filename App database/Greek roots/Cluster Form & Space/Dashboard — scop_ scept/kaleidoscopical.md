@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Continually shifting or rapidly changing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Continually shifting or rapidly changing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An archaic or elaborate form of kaleidoscopic; exhibiting continually changing, variegated, or symmetrical patterns.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Victorian literature and philosophical criticism, the term was employed to describe multifaceted social panoramas or rapidly fluctuating psychological states.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, kaleidoscopical designates continually shifting or rapidly changing."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"Human history in that tumultuous epoch exhibited a **kaleidoscopical** display of fleeting fashions and shattered monarchies."*
+> - 📜 **John Ruskin (*Modern Painters*):** *"The clouds shifted with a **kaleidoscopical** richness that defied the static palette of academic landscape painters."*
+> - 📜 **Walter Pater (*The Renaissance: Studies in Art and Poetry*):** *"Our consciousness is made up of a **kaleidoscopical** series of impressions, each fading before it can be firmly seized."*

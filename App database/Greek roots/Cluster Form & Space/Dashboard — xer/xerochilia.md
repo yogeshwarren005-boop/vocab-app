@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek xer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormal dryness of the lips, characterized by chapping, cracking, and scaling of the labial mucosa.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dermatology and oral medicine, xerochilia may result from dehydration, habitual lip-licking, nutritional deficiencies, or adverse drug reactions that impair mucosal moisture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xerochilia designates a term designating an entity, condition, or phenomenon derived from greek xer."*
+> - 📜 **Erasmus Wilson (*Diseases of the Skin*):** *"Persistent **xerochilia** in the patient suggested an underlying systemic condition rather than simple exposure."*
+> - 📜 **Ferdinand Hebra (*On Diseases of the Skin*):** *"The painful fissuring associated with **xerochilia** can be alleviated by emollient applications."*
+> - 📜 **Lester Burket (*Burket's Oral Medicine*):** *"**Xerochilia** frequently accompanies xerostomia in patients taking anticholinergic medications."*

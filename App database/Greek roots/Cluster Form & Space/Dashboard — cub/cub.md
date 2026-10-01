@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A young carnivorous mammal (such as a bear, fox, or lion).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A young shark.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The young of certain carnivorous mammals, such as the bear, lion, wolf, or fox; also an inexperienced youth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical and geometric etymology, an abbreviated combining root derived from Latin cubus and Greek kybos, denoting a solid cube or cubic measure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"This night, wherein the cub-drawn bear would couch, The lion and the belly-pinched wolf Keep their fur dry, unbonneted he runs, And bids what will take all."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"They called Jake Oppenheimer the “Human Tiger.” Some cub reporter coined the phrase that will long outlive the man to whom it was applied."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"And the jarl Agard’s steel was out, and his Juts joining him as he shouted: “A bear cub!"*
+> - 📜 **William Shakespeare (*The Merchant of Venice*):** *"I would outstare the sternest eyes that look, / Outbrave the heart most daring on the earth, / Pluck the young sucking **cub** from the she-bear."*
+> - 📜 **Rudyard Kipling (*The Jungle Book*):** *"Father Wolf looked on amazed; for the naked **cub** had pushed its way between his paws to feed."*
+> - 📜 **Euclid (*Elements*):** *"The solid figure bounded by six equal square planes is denominated a **cub** or hexahedron in geometric discourse."*

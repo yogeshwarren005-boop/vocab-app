@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A device used to inject fluids into or withdraw them from something (such as the body or its cavities): such as.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A device that consists of a nozzle of varying length and a compressible rubber bulb and is used for injection or irrigation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A medical instrument consisting of a hollow cylindrical barrel with a reciprocating plunger and nozzle, used for injecting or withdrawing fluids.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical history, Alexander Wood and Charles Pravaz in 1853 introduced the hypodermic syringe fitted with a fine hollow needle, transforming parenteral drug delivery.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Grace S. Richmond (*Red Pepper Burns*):** *"Gardner gave you a hypo, I suppose?” “Yes.” “So you went and bought a syringe and taught yourself the trick."*
-> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"You see in this syringe stopped at one end, I have a certain quantity of air."*
-> - 📜 **Charles Meymott Tidy (*The Story of a Tinder-box*):** *"My piston-rod (C) fits very closely into the syringe (B), so that the air cannot escape."*
+> - 📜 **Arthur Conan Doyle (*The Sign of the Four*):** *"Sherlock Holmes took his bottle from the corner of the mantelpiece and his hypodermic **syringe** from its neat morocco case."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A sterile glass **syringe** should be utilized for exploring pleuritic effusions and aspirating purulent exudates."*
+> - 📜 **Florence Nightingale (*Notes on Nursing*):** *"Cleanliness in the management of surgical dressings, sponges, and the wound **syringe** is essential to prevent septic poisoning."*

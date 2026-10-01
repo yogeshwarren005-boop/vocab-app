@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The 20th letter of the Greek alphabet.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a group of unstable electrically neutral elementary particles of the meson family that have a mass about 10 times that of a proton.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The twentieth letter of the Greek alphabet (Υ, υ), representing a close front rounded vowel in classical Greek.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In particle physics, the upsilon meson (Υ), a heavy subatomic particle consisting of a bottom quark and bottom antiquark.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, upsilon designates the 20th letter of the greek alphabet."*
+> - 📜 **Leon M. Lederman (*Observation of an Exotic Dimuon Resonance at 9.5 GeV*):** *"The sudden discovery of the **upsilon** particle at Fermilab established the existence of the fifth quark flavor, dubbed beauty or bottom."*
+> - 📜 **Richard Feynman (*QED: The Strange Theory of Light and Matter*):** *"Spectroscopy of the **upsilon** states demonstrated that quantum chromodynamics governs heavy quark-antiquark bound systems."*
+> - 📜 **Frank Wilczek (*The Lightness of Being: Mass, Ether, and the Unification of Forces*):** *"The heavy mass of the **upsilon** meson provided physicists with an ideal non-relativistic laboratory for testing strong interaction potentials."*

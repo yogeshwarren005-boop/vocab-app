@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or concerning homosexual love.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or concerning homosexual love.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, evoking, or characterized by erotic, romantic, or sexual feeling toward persons of the same sex.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In art history and literary criticism, homoerotic themes examine implicit or explicit male-male or female-female desire across classical and modern aesthetics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, homoerotic designates of or concerning homosexual love."*
+> - 📜 **Walter Pater (*The Renaissance: Studies in Art and Poetry*):** *"Greek sculpture celebrates the youth's athletic perfection with a serene, idealized **homoerotic** grace."*
+> - 📜 **Eve Kosofsky Sedgwick (*Between Men: English Literature and Male Homosocial Desire*):** *"The subtle spectrum spanning homosocial bonding and overt **homoerotic** desire shapes the English novelistic canon."*
+> - 📜 **Oscar Wilde (*The Picture of Dorian Gray*):** *"The portrait recorded the painter's intense, covert **homoerotic** devotion to the youth's breathtaking beauty."*

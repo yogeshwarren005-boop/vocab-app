@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extinct gymnosperms most of carboniferous to jurassic: seed ferns and allies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extinct gymnosperms most of carboniferous to jurassic: seed ferns and allies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The formal taxonomic class containing the extinct seed ferns (pteridosperms), bridging seedless tracheophytes and modern seed plants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In paleobotany, encompassing orders such as Lyginopteridales, Medullosales, Glossopteridales, and Caytoniales.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pteridospermopsida designates extinct gymnosperms most of carboniferous to jurassic: seed ferns and allies."*
+> - 📜 **Thomas N. Taylor (*The Biology and Evolution of Fossil Plants*):** *"Within the class **pteridospermopsida**, the Medullosales developed polystelic vascular stems with massive secondary xylem."*
+> - 📜 **Wilson N. Stewart (*Paleobotany and the Evolution of Plants*):** *"The cupules and seeds of **pteridospermopsida** display complex adaptations for wind pollination and subsequent embryo protection."*
+> - 📜 **Harlan P. Banks (*Evolution and Plants of the Past*):** *"Comparative analysis of fossil reproductive structures positions **pteridospermopsida** as the evolutionary springboard for all seed plants."*

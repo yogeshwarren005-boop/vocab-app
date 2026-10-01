@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ribbonfishes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ribbonfishes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of elongate, ribbon-like marine lampriform fishes commonly known as ribbonfishes or dealfishes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In deep-sea marine biology, Trachipteridae inhabit mesopelagic depths, featuring laterally compressed silver bodies, elongated dorsal rays, and an absence of anal fins.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trachipteridae designates ribbonfishes."*
+> - 📜 **David Starr Jordan (*The Genera of Fishes*):** *"Fishes of the family **Trachipteridae** possess slender ribbon-like bodies of gleaming silver with crimson fins."*
+> - 📜 **William Beebe (*Half Mile Down*):** *"From the bathysphere window, Beebe observed the undulating rhythmic locomotion of oceanic **Trachipteridae** in deep twilight."*
+> - 📜 **Albert Günther (*An Introduction to the Study of Fishes*):** *"Fragile bony skeletons and fragile fin rays cause stranded specimens of **Trachipteridae** to fragment easily upon beaches."*

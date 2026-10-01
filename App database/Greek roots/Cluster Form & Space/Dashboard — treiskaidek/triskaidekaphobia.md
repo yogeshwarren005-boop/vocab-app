@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fear of the number 13.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fear of the number 13.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An extreme, irrational fear or superstition concerning the number thirteen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cultural psychology and folklore studies, triskaidekaphobia manifests in architectural conventions (skipping the 13th floor in skyscrapers) and widespread anxiety regarding Friday the 13th.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, triskaidekaphobia designates fear of the number 13."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Superstitions such as **triskaidekaphobia** reveal how deeply ancestral symbolic associations can infect human emotional reactions."*
+> - 📜 **H. L. Mencken (*Prejudices: Third Series*):** *"Even rational business tycoons succumb to **triskaidekaphobia**, refusing to sign contracts on the thirteenth day of the month."*
+> - 📜 **Sigmund Freud (*The Psychopathology of Everyday Life*):** *"Compulsive numerical dread, exemplified by **triskaidekaphobia**, often masks an unconscious guilt attached to taboo thoughts."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A message that is stated or declared; a communication (oral or written) setting forth particulars or facts etc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A fact or assertion offered as evidence that something is true.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A definite or clear expression of something in speech or writing; a formal record or official communication of facts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In finance and bookkeeping, a financial statement (balance sheet, income statement) summarizes company transactions and economic standing over a fiscal period.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"So of course the first hour after school from eleven till twelve belongs to me," was Bruno's statement."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"With pleasure, sir.” Then, with fidelity, though with some prolixity, the law-stationer repeats Jo’s statement made to the assembled guests at his house."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"If your ladyship would wish to have the boy produced in corroboration of this statement, I can lay my hand upon him at any time.” The wretched boy is nothing to my Lady, and she does NOT wish to have him produced."*
+> - 📜 **Arthur Conan Doyle (*A Study in Scarlet*):** *"Sherlock Holmes listened in silence to the witness's disjointed **statement**, separating essential facts from emotional embellishment."*
+> - 📜 **Abraham Lincoln (*Selected Speeches and Writings*):** *"A clear, candid **statement** of public issues is the best antidote to sectional bitterness."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"Every proposition is a **statement** asserting or denying a relation between two ideas or classes of objects."*

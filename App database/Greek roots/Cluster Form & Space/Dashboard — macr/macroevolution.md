@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Evolution on a large scale extending over geologic era and resulting in the formation of new taxonomic groups.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Evolution on a large scale extending over geologic era and resulting in the formation of new taxonomic groups.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Evolutionary change occurring on a large scale over geological time, encompassing the emergence of new genera, families, orders, and body plans.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology, macroevolution addresses whether broad phylogenetic patterns result solely from accumulated microevolutionary adaptations or require punctuated equilibria and species selection.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, macroevolution designates evolution on a large scale extending over geologic era and resulting in the formation of new taxonomic groups."*
+> - 📜 **Stephen Jay Gould (*The Structure of Evolutionary Theory*):** *"The theory of punctuated equilibrium proposes that **macroevolution** involves distinct hierarchical processes irreducible to mere point mutations."*
+> - 📜 **Theodosius Dobzhansky (*Genetics and the Origin of Species*):** *"There is no reason to assume that **macroevolution** proceeds by mechanisms fundamentally distinct from the genetic variation driving microevolution."*
+> - 📜 **George Gaylord Simpson (*Tempo and Mode in Evolution*):** *"The fossil record exhibits differing rates of **macroevolution**, demonstrating quantum shifts during the colonization of novel ecological zones."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The political policy of concentrating power in a central organization.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The political policy of concentrating power in a central organization.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The principle, policy, or practice of concentrating administrative power and decision-making authority in a single central body.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political theory, a system of unitary government that subordinates local and regional jurisdictions to the national center (e.g., democratic centralism).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centralism designates the political policy of concentrating power in a central organization."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Democratic nations are naturally inclined toward **centralism**, seeking in uniform laws an escape from aristocratic privilege."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Our federal union carefully balances the benefits of national unity against the suffocating dangers of complete **centralism**."*
+> - 📜 **John Stuart Mill (*Considerations on Representative Government*):** *"Rigid bureaucratic **centralism** converts the civil service into a stagnant monopoly impervious to popular critique."*

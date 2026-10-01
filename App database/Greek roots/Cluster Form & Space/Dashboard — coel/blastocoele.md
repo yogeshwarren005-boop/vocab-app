@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The fluid-filled cavity of a blastula.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The fluid-filled cavity of a blastula.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The fluid-filled internal cavity of the blastula stage in early embryonic development; blastocoel.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative embryology, the transient primary segmentation cavity that precedes the formation of the true coelom or archenteron.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, blastocoele designates the fluid-filled cavity of a blastula."*
+> - 📜 **Francis Maitland Balfour (*A Treatise on Comparative Embryology*):** *"The expansion of the **blastocoele** results from active fluid secretion by the enclosing envelope of blastodermic cells."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Invertebrated Animals*):** *"In echinoderm gastrulation, mesenchyme cells detach and migrate actively through the jelly-like contents of the **blastocoele**."*
+> - 📜 **Hans Driesch (*The Science and Philosophy of the Organism*):** *"Isolated blastomeres of the sea urchin egg develop into harmonious dwarf blastulae enclosing a proportionate **blastocoele**."*

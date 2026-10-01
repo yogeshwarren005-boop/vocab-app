@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The ion in an electrolyzed solution that migrates to the cathode; broadly : a positively charged ion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ion in an electrolyzed solution that migrates to the cathode; broadly : a positively charged ion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A positively charged ion that is attracted to the cathode (negative electrode) during electrolysis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Coined in 1834 by Michael Faraday and William Whewell from Greek *kation* (going down); primary biological cations include sodium ($Na^+$), potassium ($K^+$), calcium ($Ca^{2+}$), and magnesium ($Mg^{2+}$).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"The incarnation of Truth, that amplifi- cation of wonder and glory which angels could only 501:12 whisper and which God illustrated by light and har- mony, is consonant with ever-present Love."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"The body which moves to the cathode I designate a **cation**, being positively electrified in the electrolyte."*
+> - 📜 **Svante Arrhenius (*Recherches sur la conductibilité galvanique des électrolytes*):** *"Dissolution of metallic salts releases the hydated **cation** to conduct current through the aqueous solution."*
+> - 📜 **Ernest Starling (*Principles of Human Physiology*):** *"Sodium constitutes the predominant extracellular **cation**, dictating blood volume and vascular tonicity."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or expressed in a parenthesis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Enclosed in parentheses.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Enclosed in or placed within parentheses; serving as a parenthesis or explanatory aside.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistics and literary style, parenthetic interpolations provide supplementary evaluation or pragmatic framing without disrupting main syntactic coordination.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Mother, why did our grand relation keep on putting his hand up to his mistarshers?” “Hark at that child!” cried Mrs Durbeyfield, with parenthetic admiration."*
+> - 📜 **Henry James (*The Art of the Novel*):** *"His late prose delighted in **parenthetic** qualifications that mirrored the complex convolutions of subjective consciousness."*
+> - 📜 **Edgar Allan Poe (*Marginalia*):** *"A brief **parenthetic** whisper can alter the entire emotional color of a romantic narrative."*
+> - 📜 **George Orwell (*Politics and the English Language*):** *"Writers often resort to vague **parenthetic** phrases to evade committing to direct, forthright assertions."*

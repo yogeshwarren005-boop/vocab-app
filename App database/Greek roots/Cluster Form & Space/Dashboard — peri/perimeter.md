@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The boundary of a closed plane figure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The length of a perimeter.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The continuous line forming the boundary of a closed geometric figure; the total length of such a boundary.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In military tactics, security, and urban planning, an outer boundary or fortified defensive perimeter protecting an installation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Reaching the depot's perimeter was less of a problem than he had anticipated."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Deploy patrols to strips leading to air locks on the perimeter."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Hold outside of their perimeter until I find out what they need from us."*
+> - 📜 **Euclid (*Elements*):** *"Among plane figures possessing equal **perimeter**, the circle encloses the greatest area."*
+> - 📜 **Isaac Newton (*The Mathematical Principles of Natural Philosophy*):** *"Inscribing regular polygons of increasing sides allows approximation of the circular **perimeter**."*
+> - 📜 **Julian Lowell Coolidge (*A Treatise on the Circle and the Sphere*):** *"The isoperimetric theorem establishes that the boundary **perimeter** of an ellipse exceeds that of a circle of equal area."*

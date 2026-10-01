@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Humpback whales.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Humpback whales.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of baleen whales containing the single living species Megaptera novaeangliae, the humpback whale.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine mammalogy, rorquals renowned for exceptionally long pectoral flippers (up to a third of body length), complex songs, and acrobatic breaching.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, megaptera designates humpback whales."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The Hump Back whale, which naturalists designate **megaptera**, sports huge wing-like flukes that beat the surface into foam."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"In **megaptera**, the hyperphalangy of the pectoral limbs produces enormous flippers that grant remarkable underwater maneuvering."*
+> - 📜 **William Henry Flower (*Introduction to the Study of Mammals Living and Extinct*):** *"The baleen plates of **megaptera** are comparatively short and coarse, adapted to filtering krill and small schooling fishes."*

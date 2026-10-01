@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of straight.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of straight.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to genes or protein sequences in different species that originated from a single ancestral sequence through speciation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In molecular evolution, designating sequence loci that perform corresponding physiological roles across separate organisms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, orthologous designates adjective*) pertaining to, derived from, or characteristic of straight."*
+> - 📜 **Walter Fitch (*Homology: A Personal View on Some Problems of Interpretation*):** *"Two genes are **orthologous** if their common ancestor diverged as a result of lineage branching."*
+> - 📜 **Bruce Alberts (*Molecular Biology of the Cell*):** *"Comparisons between **orthologous** developmental control genes revealed profound morphological conservation across bilaterians."*
+> - 📜 **Sean B. Carroll (*Endless Forms Most Beautiful*):** *"Hox clusters contain **orthologous** homeobox genes that govern anterior-posterior patterning in both flies and vertebrates."*

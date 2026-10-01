@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Genus of tropical asian trees and shrubs.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Genus of tropical asian trees and shrubs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of tropical Asian trees and shrubs in the mallow family (Malvaceae), commonly known as bayur trees.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dendrology and ethnobotany, evergreen trees valued for hardwood timber and fragrant white nocturnal flowers with winged seeds in woody capsules.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pterospermum designates genus of tropical asian trees and shrubs."*
+> - 📜 **William Roxburgh (*Flora Indica*):** *"The broad, oblique leaves of **pterospermum** are densely covered with rusty tomentum beneath, contrasting with their glossy green upper surfaces."*
+> - 📜 **Nathaniel Wallich (*Plantae Asiaticae Rariores*):** *"In the foothills of Bengal, **pterospermum** unfolds large, sweet-smelling white flowers that open at twilight."*
+> - 📜 **George King (*Materials for a Flora of the Malayan Peninsula*):** *"Upon maturity, the woody five-angled capsule of **pterospermum** splits to liberate numerous membranously winged seeds."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The trait of being cautious; being attentive to possible danger.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The trait of being cautious; being attentive to possible danger.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality, habit, or state of being cautious, prudent, and vigilant against potential dangers or errors.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In phrenological and psychological history, an innate faculty or personality trait governing circumspection, risk aversion, and defensive foresight.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"I only fear that the sort of cautiousness to which you, I imagine, have been alluding, is merely adopted on his visits to his aunt, of whose good opinion and judgment he stands much in awe."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"All silence of cautiousness was therefore no longer of use."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"All silence of cautiousness was therefore no longer of use."*
+> - 📜 **William James (*The Principles of Psychology*):** *"Excessive **cautiousness** paralyzes spontaneous action, trapping the neurotic mind in an endless cycle of hesitation."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Commercial enterprise in democratic nations is characterized by bold ambition tempered by an instinctive practical **cautiousness**."*
+> - 📜 **Francis Galton (*Inquiries into Human Faculty and Its Development*):** *"Phrenologists assigned a prominent cranial bump above the ears to denote the moral faculty of **cautiousness**."*

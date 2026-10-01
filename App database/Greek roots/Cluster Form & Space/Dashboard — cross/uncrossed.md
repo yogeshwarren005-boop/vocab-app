@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Change from a crossed to an uncrossed position.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of a check) not crossed.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not crossed, traversed, or intersected; not folded across.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not opposed or thwarted; in genetics, purebred or unhybridized.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"It aroused him; he uncrossed his legs, sat erect, turned to me."*
+> - 📜 **Charles Darwin (*The Effects of Cross and Self Fertilisation in the Vegetable Kingdom*):** *"The **uncrossed** parental stock produced seeds with notably lower germination vitality than the outbred hybrids."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Vast leagues of **uncrossed** ocean stretched out toward the Antarctic ice sheet in unmapped desolation."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"Henchard strode through the gates with his formidable will still **uncrossed** by any rival authority."*

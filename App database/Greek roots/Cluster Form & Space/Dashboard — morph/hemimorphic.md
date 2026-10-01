@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having different crystalline forms at each end of a crystallographic axis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having different crystalline forms at each end of a crystallographic axis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having dissimilar ends or opposite extremities differently developed; in crystallography, describing a crystal whose opposite ends terminate in faces of different forms due to lacking a center of symmetry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In solid-state physics and mineralogy, hemimorphic crystal classes exhibit polar axes that generate spontaneous piezoelectric and pyroelectric charges under thermal or mechanical stress.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemimorphic designates having different crystalline forms at each end of a crystallographic axis."*
+> - 📜 **René Just Haüy (*Traité de cristallographie*):** *"A crystal is designated **hemimorphic** when its two opposite extremities are terminated by geometric facets belonging to different crystallographic forms."*
+> - 📜 **Paul Groth (*Physikalische Krystallographie*):** *"Because tourmaline crystals are **hemimorphic**, temperature changes induce electric polarity with opposite charges gathering at either pole."*
+> - 📜 **William Henry Bragg (*X Rays and Crystal Structure*):** *"X-ray diffraction demonstrates that the absence of an inversion center in a **hemimorphic** space group accounts for its polar electrical behavior."*

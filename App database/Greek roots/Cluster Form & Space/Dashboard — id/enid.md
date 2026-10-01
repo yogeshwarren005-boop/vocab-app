@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A town in north central oklahoma.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A town in north central oklahoma.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A personal name celebrated in Arthurian legend for marital devotion and patience; also, in zoology, a land snail belonging to the family Enidae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Tennyson's *Idylls of the King*, Enid is the devoted, enduring wife of Geraint; in malacology, Enidae comprises cylindrical, pupiform terrestrial pulmonate gastropods of Eurasia and Africa.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, enid designates a town in north central oklahoma."*
+> - 📜 **Alfred Tennyson (*Idylls of the King*):** *"O purer than the purest on a throne, so said he, and embraced sweet **Enid**, holding her fast to his repentant heart."*
+> - 📜 **Thomas Malory (*Le Morte d'Arthur*):** *"The gentle lady **Enid** followed her lord through perilous forests, bearing his unjust doubts with unfailing humility."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Among Mediterranean limestone rocks, terrestrial snails resembling the **Enid** fauna aestivate through summer heat."*

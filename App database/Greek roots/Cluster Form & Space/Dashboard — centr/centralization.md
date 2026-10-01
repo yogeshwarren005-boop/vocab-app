@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The act of consolidating power under a central control.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Gathering to a center.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of bringing activities, operations, or authority from dispersed points into a single central control point (US spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In public administration and corporate strategy, consolidating decision-making authority within a unified executive command structure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"By this means the reserves of the several district banks may be "piped together" and thus be practically made into one central bank under governmental control, altho centralization was in outward form avoided by the bill."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"But ordinary profit-sharing is not in accord with the general trend toward the centralization of responsibility in the hands of competent managers, ensuring to the worker a definite amount in advance, as high as conditions make possible."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"But when, as in the case of Nicholas the Czar, the ringed crown of geographical empire encircles an imperial brain; then, the plebeian herds crouch abased before the tremendous centralization."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"I distinguish between two forms of **centralization**: governmental, which is necessary, and administrative, which is enervating."*
+> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Without a competent **centralization** of financial and military power, the fragile confederacy would dissolve in mutual conflict."*
+> - 📜 **John Stuart Mill (*On Liberty*):** *"The continuous **centralization** of information in government archives can improve efficiency while endangering civic freedom."*

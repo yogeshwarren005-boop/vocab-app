@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek thel.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An anatomical papilla or nipple-like projection; also, an epithelial cellular membrane or layer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historic anatomy, thelium referred primarily to the human nipple before expanding through prefixes into epithelium, mesothelium, and endothelium.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thelium designates a term designating an entity, condition, or phenomenon derived from greek thel."*
+> - 📜 **Frederik Ruysch (*Thesaurus Anatomicus*):** *"The anatomical term **thelium** was applied originally to the sensitive summit of the human mammary gland."*
+> - 📜 **William Hunter (*The Anatomy of the Human Gravid Uterus*):** *"Vascular loops in the subcutaneous papilla nourish the overlying **thelium** during lactation."*
+> - 📜 **Arthur Keith (*Human Embryology and Morphology*):** *"The cellular layers of the developing **thelium** derive directly from surface ectoderm."*

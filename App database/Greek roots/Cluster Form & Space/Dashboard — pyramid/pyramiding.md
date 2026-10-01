@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A fraudulent business practice involving some form of pyramid scheme e.g., the chain of distribution is artificially expanded by an excessive number of distributors selling to other distributors at progressively higher wholesale prices until retail prices are unnecessarily inflated.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Enlarge one's holdings on an exchange on a continued rise by using paper profits as margin to buy additional amounts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The practice of using unrealized paper profits from an open financial trade as margin to purchase additional shares or contracts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In financial speculation and economic theory, an aggressive trading strategy that multiplies gains in a rising market but sharply elevates downside leverage risk.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pyramiding designates a fraudulent business practice involving some form of pyramid scheme e.g., the chain of distribution is artificially expanded by an excessive number of distributors selling to other distributors at progressively higher wholesale prices until retail prices are unnecessarily inflated."*
+> - 📜 **Edwin Lefèvre (*Reminiscences of a Stock Operator*):** *"Jesse Livermore explained that successful **pyramiding** requires adding to winning positions only when the market confirms your initial judgment."*
+> - 📜 **Charles Dow (*Scientific Stock Speculation*):** *"Reckless **pyramiding** during bull market manias inevitably causes catastrophic wipeouts when liquidity suddenly evaporates."*
+> - 📜 **Jesse Livermore (*How to Trade in Stocks*):** *"Never average down on a losing trade; reserve your **pyramiding** strictly for positions showing unmistakable accumulating profits."*

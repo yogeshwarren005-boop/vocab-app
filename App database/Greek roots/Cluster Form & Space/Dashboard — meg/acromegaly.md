@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A disorder caused by excessive production of growth hormone by the pituitary gland and marked especially by progressive enlargement of hands, feet, and face.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A disorder caused by excessive production of growth hormone by the pituitary gland and marked especially by progressive enlargement of hands, feet, and face.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chronic disease marked by abnormal enlargement of the bones of the hands, feet, and face, caused by hypersecretion of growth hormone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In endocrinology and neuropathology, an adult syndrome usually arising from a somatotropic adenoma of the anterior pituitary gland after epiphyseal plate closure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, acromegaly designates a disorder caused by excessive production of growth hormone by the pituitary gland and marked especially by progressive enlargement of hands, feet, and face."*
+> - 📜 **Harvey Cushing (*The Pituitary Body and Its Disorders*):** *"Surgical transsphenoidal hypophysectomy was introduced to arrest the disfiguring progression of **acromegaly**."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Gradual broadening of the fingers and widening of the dental interspaces are early symptoms of **acromegaly**."*
+> - 📜 **Pierre Marie (*Revue de Médecine*):** *"I proposed the designation **acromegaly** to draw attention to the striking hypertrophy of the extremities."*

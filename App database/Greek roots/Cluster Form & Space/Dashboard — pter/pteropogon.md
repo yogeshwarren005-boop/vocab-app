@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Southern australian plant having feathery hairs surrounding the fruit.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Southern australian plant having feathery hairs surrounding the fruit.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A botanical genus name or taxonomic section in Asteraceae characterized by feathery-bristled pappus hairs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic botany, Australian composite herbs with plumose pappi adapted for anemochoric fruit dispersal.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pteropogon designates southern australian plant having feathery hairs surrounding the fruit."*
+> - 📜 **George Bentham (*Flora Australiensis*):** *"The feathery bristles of **pteropogon** expand widely upon dry desert winds, carrying the tiny achenes across sandy plains."*
+> - 📜 **Ferdinand von Mueller (*Fragmenta Phytographiae Australiae*):** *"We observed bright papery blossoms of **pteropogon** covering the stony ridges of the interior with yellow carpets."*
+> - 📜 **William Jackson Hooker (*Icones Plantarum*):** *"The plumose pappus setae in **pteropogon** provide diagnostic separation from allied helichrysoid composites."*

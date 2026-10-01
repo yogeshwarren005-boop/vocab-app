@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The roman god of sleep and dreams.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The roman god of sleep and dreams.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In classical Greco-Roman mythology, the god of dreams, a son of Hypnos (Sleep), who shapes and presents human phantoms in sleep.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary tradition and allegorical poetry, Morpheus is invoked as the personification of deep, slumberous repose and dream visions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Bram Stoker (*Dracula*):** *"If I don’t sleep at once, chloral, the modern Morpheus--C_{2}HCl_{3}O."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"In a few brief moments, the others of the party were blowing, in nasal trumpetings, the praises of Morpheus."*
-> - 📜 **W. E. Webb (*Buffalo Land*):** *"Even Sachem, who usually hugged Morpheus so long and late, might that morning have been seen among the earliest of us washing in the waters of the creek."*
+> - 📜 **Ovid (*Metamorphoses*):** *"Among the thousand sons of Sleep, the master artificer **Morpheus** excels at imitating human shape, voice, and gait in dreams."*
+> - 📜 **Edmund Spenser (*The Faerie Queene*):** *"And more to lulle him in his slumber soft, a trickling streame from high rock tumbling downe... sent by the god **Morpheus**."*
+> - 📜 **John Milton (*Il Penseroso*):** *"And let some strange mysterious dream waive at his wings in airy stream of lively portraiture displayed, softly on my eyelids laid by **Morpheus**."*

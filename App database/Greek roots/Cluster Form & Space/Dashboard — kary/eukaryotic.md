@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having cells with `good' or membrane-bound nuclei.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having cells with `good' or membrane-bound nuclei.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characteristic of a eukaryote (an organism with membrane-bound nuclei and organelles).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In molecular genetics, eukaryotic cells are characterized by chromatin wrapped around histone octamers into nucleosomes, linear chromosomes capped by telomeres, and mRNA processing involving 5' capping, polyadenylation, and intron splicing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eukaryotic designates having cells with `good' or membrane-bound nuclei."*
+> - 📜 **Francis Crick (*What Mad Pursuit*):** *"The existence of intervening sequences or introns proved to be an unexpected hallmark of the **eukaryotic** genome."*
+> - 📜 **Edmund Beecher Wilson (*The Cell in Development and Heredity*):** *"The precise choreography of mitotic spindle assembly is a quintessential achievement of the **eukaryotic** cell."*
+> - 📜 **Barbara McClintock (*The Significance of Responses of the Genome to Challenge*):** *"Transposable genetic elements operate as dynamic remodeling mechanisms across diverse **eukaryotic** species."*

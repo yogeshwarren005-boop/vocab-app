@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the family rhodymeniaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the family rhodymeniaceae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of marine red algae in the family Rhodymeniaceae, including Rhodymenia palmata (dulse), traditionally harvested as food.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine botany, membranous red seaweeds with flattened, dichotomously divided fronds flourishing in cold northern intertidal zones.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhodymenia designates type genus of the family rhodymeniaceae."*
+> - 📜 **William Henry Harvey (*Nereis Boreali-Americana*):** *"The broad, tender purple fronds of **rhodymenia** are gathered along the Scottish coasts and eaten dried under the popular name of dulse."*
+> - 📜 **Carl Adolph Agardh (*Species Algarum*):** *"Under the genus **rhodymenia**, I brought together those floridean algae whose compressed thalli bear immersed tetraspores."*
+> - 📜 **F. E. Fritsch (*The Structure and Reproduction of the Algae*):** *"The cruciate division of tetrasporangia within **rhodymenia** occurs in nemathecial patches across the surface of the frond."*

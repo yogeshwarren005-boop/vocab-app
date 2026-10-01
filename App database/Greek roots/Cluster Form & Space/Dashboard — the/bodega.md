@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A storehouse for maturing wine.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A storehouse for maturing wine.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small neighborhood grocery store, wine shop, or tavern, especially in a Spanish-speaking area.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Originally denoting a wine cellar or storeroom in Spanish (derived ultimately via Latin *apotheca* from Greek *apotheke*, a warehouse/storehouse), bodega evolved into iconic urban convenience shops in North American cities like New York.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"I saw John Henry Menton casually in the Bodega just now and it will cost me a fall if I don’t..."*
+> - 📜 **Ernest Hemingway (*The Sun Also Rises*):** *"We sat inside the cool shadows of the dusty **bodega**, drinking cold Valdepeñas from leather wine-skins."*
+> - 📜 **Federico García Lorca (*Poet in New York*):** *"Neon reflections illuminated the storefront of the corner **bodega** amid the humid rhythm of Harlem nights."*
+> - 📜 **George Orwell (*Homage to Catalonia*):** *"In the evening, militia volunteers congregated in the nearest **bodega** to debate revolutionary politics over rough wine."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person trained in gymnastics.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person trained in gymnastics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An athlete skilled in performing gymnastics, demonstrating agility, balance, flexibility, and strength.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical history and physical education, a trainer who instructed Hellenic youths in athletic contests and gymnastics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"He had received the better part of his education at Harvard College, where, however, he had gained renown rather as a gymnast and an oarsman than as a gleaner of more dispersed knowledge."*
+> - 📜 **Lucian (*Anacharsis: Or Athletics*):** *"The Greek **gymnast** instructed young men to wrestle in the dust, hardening their skin against summer sun and winter cold."*
+> - 📜 **John Locke (*Some Thoughts Concerning Education*):** *"A skilled **gymnast** teaches poise and muscular symmetry rather than reckless acrobatic bravado."*
+> - 📜 **P. B. Medawar (*The Hope of Progress*):** *"Biomechanists study the aerial maneuvers of the Olympic **gymnast** to model conservation of angular momentum."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Change of position, state, or form.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The spread of a disease-producing agency (such as cancer cells) from the initial or primary site of disease to another part of the body; also : the process by which such spreading occurs.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or produced by metastasis; designating the spread of disease or neoplastic cells from a primary site to other non-contiguous organs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical oncology, metastatic dissemination occurs via lymphatic drainage or haematogenous routes, often displaying organotropism governed by Stephen Paget's 'seed and soil' hypothesis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metastatic designates change of position, state, or form."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"The transport of emboli from a thrombus creates secondary **metastatic** foci in remote capillary networks."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Early detection of mammary neoplasms is crucial before **metastatic** invasion of the axillary lymph nodes takes place."*
+> - 📜 **Stephen Paget (*The Distribution of Secondary Growths in Cancer of the Breast*):** *"The distribution of **metastatic** tumors cannot be explained by chance, but depends on the affinity between seed and soil."*

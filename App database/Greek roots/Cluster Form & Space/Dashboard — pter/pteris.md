@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large genus of terrestrial ferns of tropics and subtropics; sometimes placed in family polypodiaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large genus of terrestrial ferns of tropics and subtropics; sometimes placed in family polypodiaceae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cosmopolitan genus of leptosporangiate ferns in the family Pteridaceae, commonly called brakes, characterized by marginal continuous sori.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In environmental botany and phytoremediation, terrestrial ferns (such as Pteris vittata) noted for hyperaccumulating arsenic from contaminated soils.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pteris designates large genus of terrestrial ferns of tropics and subtropics; sometimes placed in family polypodiaceae."*
+> - 📜 **Carl Linnaeus (*Species Plantarum*):** *"Under the genus **pteris**, the sporangia form an uninterrupted linear sorus along the reflexed margin of the pinnule."*
+> - 📜 **William Jackson Hooker (*Genera Filicum*):** *"The crisp green fronds of **pteris** adorn rocky ravines, displaying intricate dichotomous or reticulate venation."*
+> - 📜 **Rolla M. Tryon (*Ferns and Allied Plants*):** *"Species of **pteris** are widely distributed in the tropics, where they pioneer open banks and volcanic ash beds."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Travel across or pass over.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Meet at a point.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Traversed, passed over, intersected, or placed transversely.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Thwarted or opposed in purpose; or produced by the hybridization of different strains or varieties.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Sure, one of you does not serve heaven well, that you are so crossed."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There is no crossing him in ’s humour; Else I should tell him well, i’ faith, I should, When all’s spent, he’d be crossed then, an he could. ’Tis pity bounty had not eyes behind, That man might ne’er be wretched for his mind. [_Exit._] FIRST LORD."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The devil knew not what he did when he made man politic; he crossed himself by’t, and I cannot think but, in the end the villainies of man will set him clear."*
+> - 📜 **William Shakespeare (*Romeo and Juliet*):** *"A pair of star-**crossed** lovers take their life, whose misadventured piteous overthrows do with their death bury their parents' strife."*
+> - 📜 **Charles Darwin (*The Variation of Animals and Plants Under Domestication*):** *"When two distinct varieties of pigeons are **crossed**, the ancestral rock pigeon plumage frequently reappears in the progeny."*
+> - 📜 **Joseph Conrad (*Heart of Darkness*):** *"We sat in silence while darkness fell, and shadows **crossed** the glassy surface of the Thames."*

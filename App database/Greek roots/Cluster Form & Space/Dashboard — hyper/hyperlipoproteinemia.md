@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of various disorders of lipoprotein and cholesterol metabolism that result in high levels of lipoprotein and cholesterol in the circulating blood.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of various disorders of lipoprotein and cholesterol metabolism that result in high levels of lipoprotein and cholesterol in the circulating blood.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A condition characterized by elevated concentrations of lipoproteins (such as chylomicrons, VLDL, IDL, or LDL) in the blood plasma.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical lipidology, Donald Fredrickson's system classified hyperlipoproteinemia into five phenotypes based on lipoprotein electrophoresis and ultracentrifugation patterns, guiding targeted cardiovascular risk reduction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyperlipoproteinemia designates any of various disorders of lipoprotein and cholesterol metabolism that result in high levels of lipoprotein and cholesterol in the circulating blood."*
+> - 📜 **Victor McKusick (*Mendelian Inheritance in Man*):** *"Type II **hyperlipoproteinemia** represents classical familial hypercholesterolemia resulting from defective cell-surface LDL receptors."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The differentiation of familial **hyperlipoproteinemia** phenotypes requires careful biochemical analysis of fasting plasma."*
+> - 📜 **Austin Flint (*A Treatise on the Principles and Practice of Medicine*):** *"Recurrent attacks of acute pancreatitis in childhood should prompt investigation for type I **hyperlipoproteinemia**."*

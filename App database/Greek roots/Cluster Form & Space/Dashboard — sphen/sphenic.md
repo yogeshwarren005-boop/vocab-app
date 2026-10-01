@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of wedge.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of wedge.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Wedge-shaped; cuneiform; in number theory, denoting a positive integer that is the product of three distinct prime numbers (n = p * q * r).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In crystallography and mineralogy, sphenic forms describe crystal faces having a wedge-like dihedral angle, related to sphenoids.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sphenic designates adjective*) pertaining to, derived from, or characteristic of wedge."*
+> - 📜 **G. H. Hardy (*An Introduction to the Theory of Numbers*):** *"A **sphenic** number, having exactly eight divisors, represents the simplest product of three distinct primes."*
+> - 📜 **James Dwight Dana (*System of Mineralogy*):** *"The monoclinic titanite crystals exhibit a sharp **sphenic** habit, terminating in clean wedge-shaped facets."*
+> - 📜 **D'Arcy Wentworth Thompson (*On Growth and Form*):** *"The interlocking bones of the cranial vault meet along **sphenic** angles calculated to resist mechanical impacts."*

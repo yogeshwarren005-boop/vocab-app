@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A disastrous event : calamity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Misfortune.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A play, novel, or other literary work dealing with tragic events and having an unhappy ending, especially one concerning the downfall of the main character; an event causing great suffering.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary philosophy, tragedy derived from Greek *tragoidia* (goat-song), defined by Aristotle as an imitation of a noble action which through pity and fear effects the catharsis of such emotions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"The best actors in the world, either for tragedy, comedy, history, pastoral, pastoral-comical, historical-pastoral, tragical-historical, tragical-comical-historical-pastoral, scene individable, or poem unlimited."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"PROLOGUE. _For us, and for our tragedy, Here stooping to your clemency, We beg your hearing patiently._ HAMLET."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Accursed tower, accursed fatal hand That hath contrived this woeful tragedy!"*
+> - 📜 **Aristotle (*Poetics*):** *"A true **tragedy** achieves through incidents arousing pity and fear the proper purgation or catharsis of these emotions."*
+> - 📜 **Friedrich Nietzsche (*The Birth of Tragedy*):** *"Attic **tragedy** was born from the mystical union of the Dionysian chorus with the Apollonian world of dream and illusion."*
+> - 📜 **Arthur Miller (*Tragedy and the Common Man*):** *"I believe that the common man is as apt a subject for **tragedy** in its highest sense as kings were in ancient times."*

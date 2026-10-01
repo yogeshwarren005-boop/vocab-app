@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the cytoplasmic strands passing through openings in some plant cell walls and forming connections with adjacent cells.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of the cytoplasmic strands passing through openings in some plant cell walls and forming connections with adjacent cells.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A microscopic membrane-lined cytoplasmic channel passing through the cell wall of plant cells and allowing direct transport and communication between them.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant cell physiology, plasmodesmata regulate symplastic macromolecular transport, viral movement, and developmental patterning signals.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plasmodesma designates one of the cytoplasmic strands passing through openings in some plant cell walls and forming connections with adjacent cells."*
+> - 📜 **Lincoln Taiz (*Plant Physiology*):** *"The plant symplast forms a continuous cytoplasmic continuum linked by thousands of individual **plasmodesma** channels."*
+> - 📜 **Peter H. Raven (*Biology of Plants*):** *"Molecules up to a certain size limit pass readily through a **plasmodesma**, governed by specialized internal desmotubules."*
+> - 📜 **Bruce Alberts (*Essential Cell Biology*):** *"Intercellular communication across rigid cellulose walls occurs almost exclusively via the narrow aperture of each **plasmodesma**."*

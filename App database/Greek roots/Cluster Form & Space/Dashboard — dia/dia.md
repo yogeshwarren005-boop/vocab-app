@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: diameter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Defense Intelligence Agency.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A Greek preposition and prefix meaning 'through', 'across', 'between', or 'thoroughly'.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In lexical morphology, dia- forms terms denoting transmission (diathermy), separation (dialysis), or penetrative examination (diagnosis).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"There you must stay, or you lose your billet.’ “‘And the work?’ “‘Is to copy out the _Encyclopædia Britannica_."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"It seemed altogether past belief that anyone could make such a will, or that they would pay such a sum for doing anything so simple as copying out the _Encyclopædia Britannica_."*
-> - 📜 **Arthur Conan Doyle (*The Adventures of Sherlock Holmes*):** *"As I drove home to my house in Kensington I thought over it all, from the extraordinary story of the red-headed copier of the _Encyclopædia_ down to the visit to Saxe-Coburg Square, and the ominous words with which he had parted from me."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"The preposition **dia** with the genitive signifies movement through space or time, and with the accusative denotes cause or agency."*
+> - 📜 **Robert Beekes (*Etymological Dictionary of Greek*):** *"Connected with the numeral two (*dwo-), **dia** primarily meant 'in two' or 'apart', evolving into 'through' and 'across'."*
+> - 📜 **Herbert Weir Smyth (*Greek Grammar*):** *"In verbal compounds, **dia** imparts notions of severance, thorough completion, or reciprocal action."*

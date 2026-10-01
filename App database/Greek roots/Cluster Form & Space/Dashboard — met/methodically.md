@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a methodical manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a methodical manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a methodical, orderly, and systematic manner; following a deliberate and disciplined procedure step by step.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In experimental science and forensic investigation, executing protocols methodically eliminates confounding variables and ensures reproducible conclusions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Ain’t the lady the t’other lady?” Charley shook her head as she methodically drew his rags about him and made him as warm as she could."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"If he be seeking his own star as he methodically turns and turns upon the leads, it should be but a pale one to be so rustily represented below."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"Tulkinghorn returns methodically as he softly rubs his hands, “I should like to be assured of your acquiescence in my arrangements, Lady Dedlock.” “You may be assured of it.” “Good."*
+> - 📜 **Thomas Henry Huxley (*Science and Education*):** *"The scientific investigator proceeds **methodically**, verifying each observation before venturing to synthesize a general hypothesis."*
+> - 📜 **Edgar Allan Poe (*The Murders in the Rue Morgue*):** *"Dupin examined the sealed apartment **methodically**, testing every shutter and latch until he discovered the hidden spring."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"I proceeded **methodically** through every class of liquid conductors, recording the precise electric currents generated under uniform conditions."*

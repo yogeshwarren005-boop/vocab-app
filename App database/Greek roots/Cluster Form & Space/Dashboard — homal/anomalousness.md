@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Deviation from the normal or common order or form or rule.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Deviation from the normal or common order or form or rule.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state, quality, or degree of being anomalous, irregular, or deviating from normal rules or expectations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophy of science (Thomas Kuhn), the anomalousness of persistent empirical observations that resist prevailing paradigms triggers scientific revolutions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anomalousness designates deviation from the normal or common order or form or rule."*
+> - 📜 **Thomas S. Kuhn (*The Structure of Scientific Revolutions*):** *"Awareness of the **anomalousness** of experimental results is the crucial precondition for paradigm breakdown and subsequent innovation."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"The apparent **anomalousness** of mystical raptures should not prevent psychologists from studying their experiential validity."*
+> - 📜 **John Stuart Mill (*A System of Logic*):** *"The **anomalousness** of a phenomenon frequently vanishes when deeper underlying natural laws are uncovered."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not pertinent to the matter under consideration.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Statistically unrelated.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Intersecting or meeting at right angles; mathematically perpendicular.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In algebra, geometry, and statistics, describing vectors, functions, or variables that are statistically independent or whose inner product is zero.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, orthogonal designates not pertinent to the matter under consideration."*
+> - 📜 **Gilbert Strang (*Linear Algebra and Its Applications*):** *"Two vectors are **orthogonal** if and only if their dot product vanishes, representing perpendicular directions in coordinate space."*
+> - 📜 **Roger Penrose (*The Road to Reality*):** *"In pseudo-Riemannian geometry, the metric tensor dictates which spacetime trajectories are truly **orthogonal**."*
+> - 📜 **Claude Shannon (*A Mathematical Theory of Communication*):** *"Signal decomposition into **orthogonal** components enables transmission without mutual interference."*

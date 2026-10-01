@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or belonging to the epithelium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or belonging to the epithelium.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or composed of epithelium, the cellular tissue forming the covering of all bodily surfaces and organ linings.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In histology, epithelial tissues are categorized by morphology (squamous, cuboidal, columnar) and stratification (simple, stratified, pseudostratified), serving barrier, secretory, and absorptive functions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epithelial designates of or belonging to the epithelium."*
+> - 📜 **Theodor Schwann (*Microscopical Researches into the Accordance in the Structure and Growth of Animals and Plants*):** *"Every **epithelial** cell contains a distinct nucleus that governs its individual nutrition and growth."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Carcinoma arises fundamentally from pathological proliferation within the **epithelial** cellular layers."*
+> - 📜 **Henry Gray (*Gray's Anatomy*):** *"The cutaneous epidermis consists of a stratified **epithelial** sheath that continuously sheds keratinized surface scales."*

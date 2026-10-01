@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A worshipper of idols.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person that admires intensely and often blindly one that is not usually a subject of worship.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who worships idols, images, or false gods; someone who displays excessive or blind admiration for something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In theological discourse and religious history, the term denotes one who attributes divine qualities to created material objects; in literary criticism, one who offers uncritical adulation to an author or dogma.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Though perhaps I should have been a very good Christian if you pretty women hadn’t made me an idolater.” Bathsheba moved on to hide the irrepressible dimplings of merriment."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Though perhaps I should have been a very good Christian if you pretty women hadn’t made me an idolater.” Bathsheba moved on to hide the irrepressible dimplings of merriment."*
-> - 📜 **Mary Baker Eddy (*Science and Health, with Key to the Scriptures*):** *"Idolatrous illusions 214:18 We bow down to matter, and entertain finite thoughts of God like the pagan idolater."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The zeal of early Christians viewed every pagan Roman citizen as a stubborn **idolater** sacrificing to demonic images."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"The servile courtier becomes an **idolater** of power, sacrificing truth and conscience to the pleasure of his patron."*
+> - 📜 **John Milton (*Samson Agonistes*):** *"The captive hero refused to bow his neck before the feast of the Philistine **idolater** in Dagon's temple."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Exciting sexual desire.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exciting sexual desire.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or acting as an aphrodisiac; exciting or stimulating sexual desire.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by sensual allure, intoxicating perfumes, or suggestive qualities that provoke erotic thoughts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aphrodisiacal designates exciting sexual desire."*
+> - 📜 **Thomas De Quincey (*Confessions of an English Opium-Eater*):** *"The sweet vapor of the burning incense had a heavy, **aphrodisiacal** warmth that subdued the restless senses."*
+> - 📜 **Charles Baudelaire (*Les Fleurs du Mal*):** *"Her perfume carried an **aphrodisiacal** resonance that recalled exotic islands and warm tropical nights."*
+> - 📜 **Robert Burton (*The Anatomy of Melancholy*):** *"Certain delicate confections possess an **aphrodisiacal** property that stirs dormant passions into sudden flame."*

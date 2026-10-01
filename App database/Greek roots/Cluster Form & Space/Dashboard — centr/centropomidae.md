@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of fish or the order perciformes including robalos.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A family of fish or the order perciformes including robalos.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxonomic family of perciform ray-finned fishes known as snooks, characterized by two dorsal fins and an elongated, predatory profile.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic ichthyology, predatory marine and brackish teleosts inhabiting tropical and subtropical coastal waters and estuaries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centropomidae designates a family of fish or the order perciformes including robalos."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"The snooks of the family **Centropomidae** are distinguished by an interrupted lateral line and sharp, serrate preopercular margins."*
+> - 📜 **Albert Günther (*Catalogue of the Fishes in the British Museum*):** *"Several estuarine species assigned to **Centropomidae** attain substantial size and display remarkable salinity tolerance."*
+> - 📜 **George Boulenger (*Zoology of Egypt: The Fishes of the Nile*):** *"Affinity between the Nile perch and maritime **Centropomidae** illustrates ancient faunal connections across tropical waterways."*

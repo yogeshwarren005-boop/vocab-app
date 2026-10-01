@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to gustation.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to gustation.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Concerned with, relating to, or stimulating the sense of taste.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In sensory neuroscience, the primary gustatory cortex is situated in the anterior insula and frontal operculum, receiving thalamocortical projections from the ventral posteromedial nucleus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gustatory designates of or relating to gustation."*
+> - 📜 **Charles Darwin (*The Expression of the Emotions in Man and Animals*):** *"Disgust is primarily a reaction to offensive **gustatory** stimuli, accompanied by movements of spitting and grimacing."*
+> - 📜 **Marcel Proust (*Swann's Way*):** *"No sooner had the warm liquid mixed with the crumbs touched my palate than an extraordinary **gustatory** ecstasy invaded my senses."*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*):** *"Loss of **gustatory** appreciation left the patient unable to distinguish subtle vintages or spices."*

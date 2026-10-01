@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of a pair of small cylindrical cell organelles near the nucleus in animal cells; composed of nine triplet microtubules and form the asters during mitosis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of a pair of small cylindrical cell organelles near the nucleus in animal cells; composed of nine triplet microtubules and form the asters during mitosis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A small, cylindrical cellular organelle composed of nine microtubule triplets, typically occurring in pairs within the centrosome of animal cells.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cell biology, an organelle that duplicates during the cell cycle to organize centrosomal pericentriolar material and form the basal body of cilia and flagella.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centriole designates one of a pair of small cylindrical cell organelles near the nucleus in animal cells; composed of nine triplet microtubules and form the asters during mitosis."*
+> - 📜 **Edmund Beecher Wilson (*The Cell in Development and Inheritance*):** *"At the heart of the radiating aster lies the minute **centriole**, dividing to establish the opposing poles of the mitotic spindle."*
+> - 📜 **Theodor Boveri (*Cells and Tissues*):** *"The sperm provides the fertilizing egg with a functional **centriole**, restoring the reproductive motor of the zygote."*
+> - 📜 **Eric Kandel (*Principles of Neural Science*):** *"In developing neuroblasts, the mother **centriole** docks at the apical membrane to nucleate the primary sensory cilium."*

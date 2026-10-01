@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Disperse in a medium into a colloidal state.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Disperse in a medium into a colloidal state.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To disperse a precipitate or coagulated mass into a stable colloidal sol; British spelling of peptize.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical chemistry, to break down aggregated flocs through the adsorptive action of a peptizing liquid or deflocculant.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, peptise designates disperse in a medium into a colloidal state."*
+> - 📜 **Thomas Graham (*Chemical and Physical Researches*):** *"Small amounts of dilute caustic will readily **peptise** silicic acid precipitates into clear hydrosols."*
+> - 📜 **Herbert Freundlich (*Colloid Chemistry*):** *"We can **peptise** a freshly precipitated metal hydroxide by washing it free of flocculating polyvalent cations."*
+> - 📜 **William Ramsay (*Modern Chemistry*):** *"Washing the precipitate with pure water can unintentionally **peptise** the material, causing it to pass through the filter paper."*

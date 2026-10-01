@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek cleist.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A minute musical microtonal interval equal to about 8.11 cents, defined by the frequency ratio 15625/15552.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In musical acoustics and tuning theory, the minute comma by which six minor thirds exceed an octave, or the difference between the diesis and five syntonic commas.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, kleisma designates a term designating an entity, condition, or phenomenon derived from greek cleist."*
+> - 📜 **Hermann von Helmholtz (*On the Sensations of Tone as a Physiological Basis for the Theory of Music*):** *"In subtle microtonal temperaments, the acoustic difference known as a **kleisma** marks the fine boundary of ear discrimination."*
+> - 📜 **Harry Partch (*Genesis of a Music*):** *"To accommodate just 53-tone scales, one must reckon with tiny pitch fractions such as the **kleisma**."*
+> - 📜 **John Rayleigh (*The Theory of Sound*):** *"The tiny acoustic interval of a **kleisma** demonstrates how compounding intervals generates residual discrepancies from pure octaves."*

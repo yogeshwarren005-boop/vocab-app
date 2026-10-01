@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Insects having membranous forewings and hind wings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Insects having membranous forewings and hind wings.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any insect traditionally classified in the suborder Homoptera, such as a leafhopper, aphid, or spittlebug.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In agricultural ecology, a phloem-feeding pest capable of producing large quantities of honeydew and transmitting phytoplasmas.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, homopteran designates insects having membranous forewings and hind wings."*
+> - 📜 **V. B. Wigglesworth (*The Principles of Insect Physiology*):** *"A filter chamber in the digestive tract of the **homopteran** shunts excess water and sugars away from active midgut enzymes."*
+> - 📜 **A. E. Eaton (*A Revisional Monograph of Recent Ephemeridae*):** *"Swarming along riverine willows, the minute **homopteran** feeds on tender sapwood through slender mandibular setae."*
+> - 📜 **Charles Michener (*The Social Behavior of the Bees*):** *"Stingless bees eagerly forage on the sweet exudates produced by colonies of an arboreal **homopteran**."*

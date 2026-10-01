@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgical removal.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Surgical removal.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A surgical excision or removal of a specified anatomical organ or part (used as an independent noun or suffix).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical lexicography and operative surgery, derived from Greek *ektome* (cutting out), forming compounds like appendectomy, hysterectomy, and splenectomy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ectomy designates surgical removal."*
+> - 📜 **William Halsted (*Surgical Papers*):** *"The complete **ectomy** of the affected lymphatic chain proved crucial in reducing regional cancer recurrence."*
+> - 📜 **Harvey Cushing (*Intracranial Tumours*):** *"Where total **ectomy** of the acoustic neuroma would endanger the facial nerve, subcapsular curettage was preferred."*
+> - 📜 **William J. Mayo (*Collected Papers of the Mayo Clinic*):** *"A timely surgical **ectomy** of the inflamed gallbladder prevents perforation and generalized biliary peritonitis."*

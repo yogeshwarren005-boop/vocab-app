@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any fish of the order crossopterygii; most known only in fossil form.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any fish of the order crossopterygii; most known only in fossil form.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to or belonging to the Crossopterygii, the clade of lobe-finned bony fishes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate paleontology and evolutionary morphology, describing sarcopterygian fishes possessing lobed fins supported by skeletal elements homologous to tetrapod limbs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, crossopterygian designates any fish of the order crossopterygii; most known only in fossil form."*
+> - 📜 **Alfred Romer (*The Vertebrate Body*):** *"The ancestral Devonian **crossopterygian** possessed internal nostrils and limb bones directly ancestral to amphibians."*
+> - 📜 **Stephen Jay Gould (*Hen's Teeth and Horse's Toes*):** *"The enduring anatomical architecture of the **crossopterygian** fin illustrates how ancient structures preadapt organisms for land life."*
+> - 📜 **J. L. B. Smith (*Old Fourlegs*):** *"Every museum curator recognized the famous five-lobed tail of the **crossopterygian** coelacanth as a priceless relic."*

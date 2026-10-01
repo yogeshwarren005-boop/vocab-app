@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek peg.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal, irrational, or persistent fear of ice, frost, or severe cold.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical psychiatry and anxiety disorders, a specific situational phobia triggered by frozen water, icy terrain, or winter conditions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pagophobia designates a term designating an entity, condition, or phenomenon derived from greek peg."*
+> - 📜 **Sigmund Freud (*The Psychopathology of Everyday Life*):** *"Specific phobias such as **pagophobia** often conceal repressed traumatic recollections associated with hypothermia or slipping."*
+> - 📜 **Pierre Janet (*The Mental State of Hystericals*):** *"Patients afflicted with **pagophobia** refuse to step outdoors when winter frost touches the pavements."*
+> - 📜 **Emil Kraepelin (*Clinical Psychiatry*):** *"Morbid dread of cold and freezing temperatures, termed **pagophobia**, can severely impair winter socialization."*

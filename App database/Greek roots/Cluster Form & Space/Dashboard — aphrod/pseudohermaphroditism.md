@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek aphrod.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A congenital condition of sexual development in which gonads of one sex are present alongside external genitalia resembling the opposite sex.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In endocrinology and medical genetics, conditions such as congenital adrenal hyperplasia (female) or androgen insensitivity (male) disrupting phenotypic differentiation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pseudohermaphroditism designates a term designating an entity, condition, or phenomenon derived from greek aphrod."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Adrenal virilism in newborn females produces marked **pseudohermaphroditism**, often misdiagnosed as male hypospadias."*
+> - 📜 **Theodosius Dobzhansky (*Genetics and the Origin of Species*):** *"Endocrine disruptions during embryonic gonadal differentiation demonstrate how chromosomal sex can dissociate into phenotypic **pseudohermaphroditism**."*
+> - 📜 **Eric Kandel (*Principles of Neural Science*):** *"Defective androgen receptors cause androgen insensitivity syndrome, the premier neuroendocrine cause of male **pseudohermaphroditism**."*

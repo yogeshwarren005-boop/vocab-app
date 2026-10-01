@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To sear with a cautery or caustic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To make insensible : deaden.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To burn, sear, or destroy tissue using a hot iron, electric current, freezing agent, or caustic chemical to stop bleeding or prevent infection (US spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Metaphorically, to make insensitive, callous, or deadened to emotional, moral, or psychological feelings.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cauterize designates to sear with a cautery or caustic."*
+> - 📜 **Ambroise Paré (*The Apologie and Treatise of Ambroise Paré*):** *"I observed that those wounded limbs which we did not **cauterize** with boiling oil healed far more cleanly."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The surgeon chose to **cauterize** the oozing bleeding vessels with electrocautery before closing the fascial layer."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"Desperate political crises require stern remedies to **cauterize** the festering corruptions of the old regime."*

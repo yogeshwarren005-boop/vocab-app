@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to scotoma.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to scotoma.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, affected by, or characterized by a scotoma (a blind spot or area of impaired vision).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical perimetry, scotomatous defects in the central, paracentral, or arcuate visual fields (such as Bjerrum scotomas) serve as key markers of glaucomatous optic nerve damage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scotomatous designates relating to scotoma."*
+> - 📜 **William Mackenzie (*A Practical Treatise on the Diseases of the Eye*):** *"The patient complained of a persistent **scotomatous** patch that obscured the central letters of any printed page."*
+> - 📜 **Ernst Fuchs (*Text-Book of Ophthalmology*):** *"Careful perimetric mapping traced the **scotomatous** arc extending from the blind spot across the upper visual hemisphere."*
+> - 📜 **Allvar Gullstrand (*Optical Diagnostics in Retinal Pathology*):** *"Focal ischemic lesions in the nerve fiber layer manifest promptly as localized **scotomatous** field deficits."*

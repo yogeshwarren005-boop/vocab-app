@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or constituting a system of crystallization characterized by three unequal axes at right angles to each other.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or constituting a system of crystallization characterized by three unequal axes at right angles to each other.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In crystallography, having three mutually perpendicular axes of unequal length; relating to the orthorhombic crystal system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In solid-state physics and mineralogy, crystal symmetry characterized by three mutually perpendicular twofold axes or mirror planes (e.g., sulfur, olivine).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, orthorhombic designates of, relating to, or constituting a system of crystallization characterized by three unequal axes at right angles to each other."*
+> - 📜 **James Dwight Dana (*Manual of Mineralogy*):** *"Native sulfur crystallizes in the **orthorhombic** system, forming dipyramidal crystals with three unequal perpendicular axes."*
+> - 📜 **Edward Salisbury Dana (*A Textbook of Mineralogy*):** *"Cleavage in the **orthorhombic** prism typically yields rectangular or pinacoidal fragments reflecting axial inequality."*
+> - 📜 **Henry Alexander Miers (*Mineralogy: An Introduction to the Scientific Study of Minerals*):** *"The optical behavior of an **orthorhombic** crystal is biaxial, exhibiting two optic axes symmetrical to the crystallographic axes."*

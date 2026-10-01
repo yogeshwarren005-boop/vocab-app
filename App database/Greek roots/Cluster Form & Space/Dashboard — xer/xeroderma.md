@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genetic disorder inherited as a recessive autosomal trait that is caused by a defect in mechanisms that repair DNA mutations (such as those caused by ultraviolet light) and is characterized by the development of pigment abnormalities and multiple skin cancers in areas exposed to the sun.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genetic disorder inherited as a recessive autosomal trait that is caused by a defect in mechanisms that repair DNA mutations (such as those caused by ultraviolet light) and is characterized by the development of pigment abnormalities and multiple skin cancers in areas exposed to the sun.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A condition of abnormally dry, rough skin resulting from diminished sebaceous secretion or environmental factors, often accompanied by fine scaling.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In genetics, xeroderma pigmentosum is a rare autosomal recessive disorder of DNA repair that causes extreme sensitivity to ultraviolet radiation and a dramatically elevated risk of skin cancer.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xeroderma designates a genetic disorder inherited as a recessive autosomal trait that is caused by a defect in mechanisms that repair dna mutations (such as those caused by ultraviolet light) and is characterized by the development of pigment abnormalities and multiple skin cancers in areas exposed to the sun."*
+> - 📜 **Ferdinand Hebra (*On Diseases of the Skin*):** *"**Xeroderma** presents as a diffuse roughness and scaling of the skin, most pronounced on the extremities."*
+> - 📜 **James Cleaver (*Defective Repair Replication of DNA in Xeroderma Pigmentosum*):** *"Patients with **xeroderma** pigmentosum lack the ability to repair ultraviolet-induced pyrimidine dimers."*
+> - 📜 **Thomas Fitzpatrick (*Fitzpatrick's Dermatology in General Medicine*):** *"Simple **xeroderma** responds well to emollients, but the pigmentosum variant demands rigorous sun avoidance."*

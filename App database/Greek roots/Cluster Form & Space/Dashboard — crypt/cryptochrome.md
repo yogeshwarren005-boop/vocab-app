@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek crypt.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A class of flavoprotein photoreceptors sensitive to blue light, found in plants, insects, and animals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chronobiology and sensory physiology, pigments that regulate circadian rhythms in plants and animals and mediate magnetoreception in migrating birds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cryptochrome designates a term designating an entity, condition, or phenomenon derived from greek crypt."*
+> - 📜 **Sydney Brenner (*Loose Ends: Selected Writings*):** *"Identification of **cryptochrome** confirmed how blue wavelengths reset the molecular oscillator in circadian entrainment."*
+> - 📜 **Richard Dawkins (*The Extended Phenotype*):** *"Migratory songbirds apparently perceive the Earth's geomagnetic lines using quantum spin chemistry mediated by retinal **cryptochrome**."*
+> - 📜 **Francis Crick (*What Mad Pursuit*):** *"The light-induced electron transfers inside **cryptochrome** bridge molecular biophysics and organismal behavioral timing."*

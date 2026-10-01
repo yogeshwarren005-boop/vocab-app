@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek ne.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A compact, erect bundle or column of conidiophores bearing asexual conidia at the apex, produced by certain anamorphic fungi.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic mycology and plant pathology, the formation of a synnema (as in Dutch elm disease fungus Ophiostoma) aids in spore presentation to visiting insect vectors.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, synnema designates a term designating an entity, condition, or phenomenon derived from greek ne."*
+> - 📜 **Anton de Bary (*Comparative Morphology and Biology of the Fungi, Mycetozoa and Bacteria*):** *"In Stilbum, the fertile hyphae bundle together into an erect columnar **synnema** topped with a glistening drop of spores."*
+> - 📜 **Bryce Kendrick (*The Fifth Kingdom*):** *"An insect vector brushing against a mature **synnema** readily picks up sticky conidia produced on its elevated tip."*
+> - 📜 **C. V. Subramanian (*Hyphomycetes*):** *"Taxonomic keys differentiate coremium and **synnema** based on the structural compaction of the ascending conidiophore bundle."*

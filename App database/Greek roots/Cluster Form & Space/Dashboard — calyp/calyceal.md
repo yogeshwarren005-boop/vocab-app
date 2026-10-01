@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or resembling a calyx.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or resembling a calyx.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or resembling a calyx, especially the renal calyces of the kidney.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical urology, describing structures, diverticula, or calculi situated within the urine-collecting calyces of the renal collecting system.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, calyceal designates of or relating to or resembling a calyx."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Excretory urography revealed significant **calyceal** blunting indicative of chronic hydronephrotic obstruction."*
+> - 📜 **William R. Gowers (*A Manual of Diseases of the Nervous System*):** *"Severe spasmodic pain radiated from the lumbar region as the stone migrated from the **calyceal** cavity into the ureter."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"The **calyceal** tube envelopes the inferior ovary, fusing completely with the receptacle tissues."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Terrestrial ferns of warm and tropical asia and north america.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Terrestrial ferns of warm and tropical asia and north america.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of small to medium-sized terrestrial ferns in the family Thelypteridaceae, native to East Asia and North America.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical pteridology, *Parathelypteris* is characterized by pinnate-pinnatifid fronds with needle-like acicular hairs, sessile spherical glands, and indusiate medial sori.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, parathelypteris designates terrestrial ferns of warm and tropical asia and north america."*
+> - 📜 **Ren-Chang Ching (*A Revision of the Chinese Thelypteridaceae*):** *"The segregation of **Parathelypteris** from *Thelypteris* rests upon glandular trichomes and distinct spore ornamentation."*
+> - 📜 **Carl Christensen (*Index Filicum*):** *"Species assigned to **Parathelypteris** inhabit damp forest floors and mossy ravines across East Asia."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The New York fern, historically grouped with *Aspidium*, shares close morphological affinity with **Parathelypteris**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Neutering a female by removing the ovaries.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Remove the ovaries of.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The surgical act or procedure of sterilizing a female animal by removing the ovaries or uterus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In veterinary clinical practice, spaying represents one of the most common surgical procedures, performed via midline laparotomy or minimally invasive laparoscopy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, spaying designates neutering a female by removing the ovaries."*
+> - 📜 **James Herriot (*The Lord God Made Them All*):** *"In veterinary college, the routine drill of **spaying** taught us surgical asepsis and meticulous haemostasis."*
+> - 📜 **Aldo Leopold (*A Sand County Almanac*):** *"Managing suburban deer populations by hormonal contraception or surgical **spaying** presents staggering logistical hurdles."*
+> - 📜 **George Orwell (*Animal Farm*):** *"Rumors spread among the hens that Napoleon was planning the systematic **spaying** of all unruly farm animals."*

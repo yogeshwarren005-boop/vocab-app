@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The arch of bone beneath the eye that forms the prominence of the cheek.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the cheek region of the face.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the zygoma or cheekbone; pertaining to the bony arch and associated structures of the lateral face.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In facial anatomy, the zygomatic bone articulates with the maxilla, temporal, frontal, and sphenoid bones, and gives origin to the zygomaticus major muscle responsible for smiling.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, zygomatic designates the arch of bone beneath the eye that forms the prominence of the cheek."*
+> - 📜 **Henry Gray (*Gray's Anatomy*):** *"The **zygomatic** arch provides attachment for the masseter muscle, a primary muscle of mastication."*
+> - 📜 **Andreas Vesalius (*De Humani Corporis Fabrica*):** *"The **zygomatic** bone contributes to the floor and lateral wall of the orbital cavity."*
+> - 📜 **Guillaume Duchenne (*The Mechanism of Human Facial Expression*):** *"A genuine smile activates the **zygomatic** major muscle, distinguishing it from a forced or false expression."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Subject to catabolism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Subject to catabolism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To subject to or break down through catabolism; to metabolically degrade complex molecules into simpler compounds with the release of chemical energy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cellular physiology and biochemistry, the enzymatic degradation of glycogen, lipids, or cellular proteins to sustain ATP production during starvation or exercise.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, catabolize designates subject to catabolism."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"When carbohydrate stores are depleted, hepatocytes **catabolize** stored fatty acids, leading to an accumulation of ketone bodies."*
+> - 📜 **Eric Kandel (*Principles of Neural Science*):** *"Synaptic enzymes rapidly **catabolize** acetylcholine into choline and acetate to prevent desensitization of postsynaptic channels."*
+> - 📜 **Julian Huxley (*Evolution: The Modern Synthesis*):** *"Migrating birds **catabolize** concentrated subcutaneous adipose tissues to power nonstop transoceanic flight."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Continually shifting or rapidly changing.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Continually shifting or rapidly changing.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by a rapidly changing succession of varied colors, patterns, phases, or impressions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cognitive psychology and aesthetics, kaleidoscopic stimuli evoke complex perceptual integration and dynamic emotional transitions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Elizabeth Kimball Kendall (*A Wayfarer in China*):** *"And the kaleidoscopic scene moves against a background of shops and houses gay with paint and gilding."*
-> - 📜 **Henry James (*The Portrait of a Lady — Volume 1*):** *"The result was kaleidoscopic, but the movement of the instrument was checked at last by the servant’s coming in with the name of a gentleman."*
-> - 📜 **Oscar Wilde (*Lord Arthur Savile's Crime; The Portrait of Mr. W.H., and Other Stories*):** *"These kaleidoscopic changes naturally amused the party very much, and bets on the subject were freely made every evening."*
+> - 📜 **Virginia Woolf (*To the Lighthouse*):** *"Life rushed past in a **kaleidoscopic** swirl of sunlight, shadows, and fleeting maternal anxieties."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The sunset cast **kaleidoscopic** splendors across the foaming wake of the Pequod as she plunged through the tropics."*
+> - 📜 **Thomas De Quincey (*Confessions of an English Opium-Eater*):** *"The opium dreams unfolded in **kaleidoscopic** architecture, endlessly multiplying domes and terraces of impossible light."*

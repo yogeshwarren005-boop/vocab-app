@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of center.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of center.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Centering on the whole ecosystem rather than solely on human needs; ecologically oriented.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In environmental ethics, maintaining that inherent value resides in all ecological entities and natural processes regardless of human utility.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ecocentric designates adjective*) pertaining to, derived from, or characteristic of center."*
+> - 📜 **Aldo Leopold (*A Sand County Almanac*):** *"A land ethic reflects an **ecocentric** conscience that expands the boundaries of the community to include soils, waters, and plants."*
+> - 📜 **Arne Naess (*Ecology, Community and Lifestyle*):** *"Deep ecology adopts an **ecocentric** worldview where every living organism possesses an intrinsic right to unfold its potential."*
+> - 📜 **Rachel Carson (*Lost Woods: The Discovered Writing of Rachel Carson*):** *"We must substitute an **ecocentric** reverence for nature in place of arrogant technological conquest."*

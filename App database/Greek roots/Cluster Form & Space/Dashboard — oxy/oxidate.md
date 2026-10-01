@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Enter into a combination with oxygen or become converted into an oxide.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Add oxygen to or combine with oxygen.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To undergo or cause to undergo oxidation; to oxidize or combine with oxygen.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical chemical treatises, an earlier or alternative verbal form signifying conversion into an oxide or elevated valence state.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oxidate designates enter into a combination with oxygen or become converted into an oxide."*
+> - 📜 **Antoine Lavoisier (*Elements of Chemistry*):** *"Metals heated in contact with atmospheric air progressively **oxidate**, augmenting their weight in proportion to the consumed vital air."*
+> - 📜 **Jöns Jacob Berzelius (*Treatise on Chemistry*):** *"Electronegative elements combine to **oxidate** electropositive metals in predictable stoichiometric ratios."*
+> - 📜 **Humphry Davy (*Elements of Chemical Philosophy*):** *"Intense heat causes pyrophoric particles to **oxidate** with spontaneous incandescence."*

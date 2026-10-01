@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek trema.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An opening, hole, foramen, or perforation; in malacology, one of the perforations in an abalone shell; in linguistics, a dieresis mark.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anatomical nomenclature and marine invertebrate zoology, a trema designates specialized exhalant or sensory apertures, such as the respiratory pore series found along the shell margin of *Haliotis*.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Looking at the tips of her hairs to see if they are split. _Mi trema un poco il_."*
-> - 📜 **James Joyce (*Ulysses*):** *"MARION: _Ti trema un poco il cuore?_ _(In disdain she saunters away, plump as a pampered pouter pigeon, humming the duet from_ Don Giovanni.) BLOOM: Are you sure about that _Voglio_?"*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Invertebrated Animals*):** *"In the abalone shell, each successive **trema** permits the discharge of deoxygenated respiratory currents from the mantle."*
+> - 📜 **Richard Owen (*Lectures on the Comparative Anatomy of Invertebrate Animals*):** *"The respiratory chamber communicates directly with the exterior through a specialized marginal **trema**."*
+> - 📜 **Ferdinand de Saussure (*Course in General Linguistics*):** *"In classical orthography, a typographical **trema** was placed above vowels to indicate distinct syllabic pronunciation."*

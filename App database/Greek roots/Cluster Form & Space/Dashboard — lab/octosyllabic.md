@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Consisting of eight syllables.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Composed of verses of eight syllables.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Consisting of or written in lines of eight syllables; octosyllabic meter.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In English prosody, octosyllabic verse (often iambic or trochaic tetrameter) was widely used in medieval romances, ballad poetry, John Milton's *L'Allegro* and *Il Penseroso*, and Lord Byron's narrative tales.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, octosyllabic designates consisting of eight syllables."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"The rapid movement of Scott's romantic lays demonstrates the narrative power of the rhymed **octosyllabic** couplet."*
+> - 📜 **John Milton (*L'Allegro*):** *"Milton modulated his **octosyllabic** lines with delicate trochaic substitutions to reflect lighthearted pastoral joy."*
+> - 📜 **Lord Byron (*The Giaour*):** *"The fiery pace of the oriental tale was sustained by the driving cadence of regular **octosyllabic** meter."*

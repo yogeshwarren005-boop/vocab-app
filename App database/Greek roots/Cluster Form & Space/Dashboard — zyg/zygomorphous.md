@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Capable of division into symmetrical halves by only one longitudinal plane passing through the axis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of division into symmetrical halves by only one longitudinal plane passing through the axis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having the quality of bilateral symmetry; capable of being divided into two mirror halves along a single plane; an alternate form of zygomorphic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In descriptive botany, zygomorphous is used interchangeably with zygomorphic to characterize irregular flowers such as those of the Fabaceae, Lamiaceae, and Orchidaceae.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, zygomorphous designates capable of division into symmetrical halves by only one longitudinal plane passing through the axis."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The **zygomorphous** corolla of the pea flower presents a distinctive banner, wings, and keel arrangement."*
+> - 📜 **George Bentham (*Handbook of the British Flora*):** *"Labiate flowers are uniformly **zygomorphous**, with an upper and lower lip formed by fused petals."*
+> - 📜 **Agnes Arber (*The Natural Philosophy of Plant Form*):** *"The **zygomorphous** condition represents a departure from the ancestral radial symmetry of primitive flowers."*

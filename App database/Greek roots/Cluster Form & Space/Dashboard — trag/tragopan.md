@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Brilliantly colored asian pheasant having wattles and two fleshy processes on the head.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Brilliantly colored asian pheasant having wattles and two fleshy processes on the head.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of brightly colored, horned pheasants (*Tragopan*) native to the dense forests of the Himalayas and East Asia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ornithology, male tragopans are celebrated for spectacular courtship displays during which they erect colorful fleshy blue horns and expand a brightly patterned throat wattle (lappet).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tragopan designates brilliantly colored asian pheasant having wattles and two fleshy processes on the head."*
+> - 📜 **Charles Darwin (*The Descent of Man, and Selection in Relation to Sex*):** *"During courtship, the male **tragopan** inflates a pair of vibrant horns and spreads a vivid crimson gular lappet."*
+> - 📜 **William Beebe (*A Monograph of the Pheasants*):** *"High in the rhododendron forests of the Himalayas, the shy Satyr **tragopan** roosts among moss-covered branches."*
+> - 📜 **John Gould (*The Birds of Asia*):** *"Gould's hand-colored lithographs captured the resplendent plumage and spotted breast of the Western **tragopan**."*

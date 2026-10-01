@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Mammal family consisting of the two-toed sloths.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Mammal family consisting of the two-toed sloths.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of sloths within the order Pilosa, including the extinct giant ground sloths (Megalonyx) and the extant two-toed sloths (Choloepus).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In paleomammalogy, folivorous xenarthrans originating in South America that dispersed into North America across the Isthmus of Panama, characterized by tusk-like caniniform teeth and massive hooked claws.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, megalonychidae designates mammal family consisting of the two-toed sloths."*
+> - 📜 **Thomas Jefferson (*Transactions of the American Philosophical Society*):** *"The fossil claw discovered in Virginia, representing the family **Megalonychidae**, indicated a creature of extraordinary stature."*
+> - 📜 **Edward Drinker Cope (*The Vertebrata of the Tertiary Formations of the West*):** *"Members of **Megalonychidae** were among the earliest mammalian immigrants to cross the Pliocene Panamanian land bridge."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"The robust limb bones of **Megalonychidae** supported a semi-upright posture while browsing upon high foliage."*

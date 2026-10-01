@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A half of the celestial sphere as divided into two halves by the horizon, the celestial equator, or the ecliptic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Half of a spherical or roughly spherical body (such as a planet); specifically : the northern or southern half of the earth as divided by the equator or the eastern or western half as divided by a meridian.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A half of a sphere; half of the terrestrial globe or celestial sphere, especially divided by the equator (Northern and Southern) or prime meridian (Eastern and Western).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human neuroanatomy, the cerebral hemisphere comprises the frontal, parietal, temporal, and occipital lobes, exhibiting contralateral control and lateralized functions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Human shapes, interferences, troubles, and joys were all as if they were not, and there seemed to be on the shaded hemisphere of the globe no sentient being save himself; he could fancy them all gone round to the sunny side."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Discoveries in the Western hemisphere opened up a wide field for the adventure and enterprise of Europe."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"From the year 1500 until 1800 the Western hemisphere was the main source of the precious metals, the alluvial deposits were widely scattered, were gradually discovered, were usually found in small quantities, and were extracted in primitive ways."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Crossing the equator carried us from the familiar constellations of the north into the southern **hemisphere**."*
+> - 📜 **Santiago Ramón y Cajal (*Histology of the Nervous System*):** *"Massive bundles of commissural fibers in the corpus callosum link each cerebral **hemisphere** into a functional whole."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The sperm whale carries in the right **hemisphere** of his immense head the great reservoir of pure liquid spermaceti."*

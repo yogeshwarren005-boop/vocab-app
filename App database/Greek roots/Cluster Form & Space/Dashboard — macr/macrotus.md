@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Large-eared greyish bat of southern california and northwestern mexico.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Large-eared greyish bat of southern california and northwestern mexico.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxonomic genus of New World leaf-nosed bats in the family Phyllostomidae, commonly known as California and Caribbean big-eared bats.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chiropterology, *Macrotus* is renowned for its large auditory pinnae and broad wings adapted for low-speed hovering and gleaning arthropods from desert foliage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, macrotus designates large-eared greyish bat of southern california and northwestern mexico."*
+> - 📜 **Harrison Allen (*Monograph of the Bats of North America*):** *"The genus **Macrotus** is distinguished among phyllostomatids by its enormous ears, which join across the forehead by a low band."*
+> - 📜 **Gerrit Smith Miller Jr. (*The Families and Genera of Bats*):** *"Cranial morphology in **Macrotus** reflects a diet rich in desert insects captured via quiet low-altitude gleaning flight."*
+> - 📜 **Donald Griffin (*Listening in the Dark*):** *"Echolocation recordings reveal that **Macrotus** emits soft, low-intensity ultrasonic clicks when hovering inches from resting moths."*

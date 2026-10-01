@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek oo.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A primitive germ cell that gives rise to an oocyte; an immature cell in the earliest stages of egg development within the ovary.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In developmental reproductive biology, the ooblast represents the proliferative phase of oogenesis before meiotic commitment and cytoplasmic maturation begin.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ooblast designates a term designating an entity, condition, or phenomenon derived from greek oo."*
+> - 📜 **Oscar Hertwig (*Lehrbuch der Entwicklungsgeschichte*):** *"The **ooblast** divides mitotically within the germinal epithelium before entering the growth phase."*
+> - 📜 **Edmund Beecher Wilson (*The Cell in Development and Heredity*):** *"Each **ooblast** is a potential egg cell destined to accumulate yolk and undergo meiotic maturation."*
+> - 📜 **Keith L. Moore (*The Developing Human*):** *"The **ooblast** stage precedes the primary oocyte phase in the sequence of female gametogenesis."*

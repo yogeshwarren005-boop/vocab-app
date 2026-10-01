@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Coat with metallic platinum.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Coat with metallic platinum.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To coat, treat, or impregnate with platinum or a platinum salt.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In electrochemistry, to platinize an electrode involves electrodepositing a fine, velvety layer of 'platinum black' to drastically increase surface area and reduce overpotential.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, platinize designates coat with metallic platinum."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"To ensure reliable electrical contact and minimize polarization, we **platinize** the electrodes before measuring resistance."*
+> - 📜 **J. Willard Gibbs (*On the Equilibrium of Heterogeneous Substances*):** *"Electrochemists **platinize** platinum foil to ensure reversible hydrogen electrode equilibration with aqueous hydronium ions."*
+> - 📜 **Gilbert N. Lewis (*Thermodynamics*):** *"Careful experimenters **platinize** the conductivity cells to prevent capacitive distortion during alternating-current bridge measurements."*

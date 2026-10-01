@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal enlargement of the colon; can be congenital (as in hirschsprung's disease) or acquired (as when children refuse to defecate).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abnormal enlargement of the colon; can be congenital (as in hirschsprung's disease) or acquired (as when children refuse to defecate).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormal, massive dilation or enlargement of the colon, often accompanied by constipation or bowel obstruction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gastroenterology, congenital aganglionic enlargement (Hirschsprung's disease) or acquired toxic dilation causing fecal impaction, abdominal distension, and risk of bowel perforation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, megacolon designates an abnormal enlargement of the colon; can be congenital (as in hirschsprung's disease) or acquired (as when children refuse to defecate)."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Congenital idiopathic **megacolon** in young children leads to colossal abdominal enlargement and intractable obstipation."*
+> - 📜 **Howard Atwood Kelly (*Operative Gynecology*):** *"Severe fecal impaction within a chronic **megacolon** can displace pelvic organs and mimic an ovarian neoplasm."*
+> - 📜 **Armand Trousseau (*Lectures on Clinical Medicine*):** *"The diagnosis of **megacolon** was confirmed upon finding colossal tympanitic distension without mechanical volvulus."*

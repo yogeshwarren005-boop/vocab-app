@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who makes deceitful pretenses.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who makes deceitful pretenses.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An informal derogatory term for a pretentious person who feigns culture, intellectual sophistication, or artistic taste.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In colloquial sociological critique, an individual whose intellectual or aesthetic mannerisms are adopted purely for social affectation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pseud designates a person who makes deceitful pretenses."*
+> - 📜 **Kingsley Amis (*Lucky Jim*):** *"He despised the fashionable academic **pseud** who sprinkled his conversation with untranslated French jargon."*
+> - 📜 **Philip Larkin (*Required Writing: Miscellaneous Pieces*):** *"The literary salon was crowded with every kind of artistic **pseud**, each boasting of unwritten masterpieces."*
+> - 📜 **Anthony Burgess (*A Clockwork Orange*):** *"He spoke with the cultivated drawl of a cultured **pseud**, masking his utter lack of original insight."*

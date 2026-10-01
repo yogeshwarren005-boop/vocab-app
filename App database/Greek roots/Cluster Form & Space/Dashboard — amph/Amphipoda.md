@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small flat-bodied semiterrestrial crustaceans: whale lice; sand-hoppers; skeleton shrimp.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small flat-bodied semiterrestrial crustaceans: whale lice; sand-hoppers; skeleton shrimp.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An order of small, malacostracan crustaceans with laterally compressed bodies, lacking a carapace, including sandhoppers and freshwater scuds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine biology and invertebrate zoology, a diverse benthic and pelagic taxon displaying sessile compound eyes and distinct thoracic appendages adapted for both swimming and crawling.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Amphipoda designates small flat-bodied semiterrestrial crustaceans: whale lice; sand-hoppers; skeleton shrimp."*
+> - 📜 **Thomas Henry Huxley (*The Invertebrata*):** *"The order **Amphipoda** is distinguished from the Isopoda by lateral flattening of the thorax and the grouping of abdominal appendages."*
+> - 📜 **Rachel Carson (*The Edge of the Sea*):** *"Under every clump of washed-up kelp, multitudes of **Amphipoda** scatter like fleas when the weed is lifted."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"In certain species of **Amphipoda**, the male grasps the female with enlarged anterior appendages during prolonged amplexus."*

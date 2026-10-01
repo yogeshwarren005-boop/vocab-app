@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Barnacles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Barnacles.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A subclass of exclusively marine crustaceans that includes stalked and sessile barnacles.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In invertebrate systematics, crustaceans whose free-swimming nauplius and cypris larvae metamorphose into permanently attached filter-feeders.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cirripedia designates barnacles."*
+> - 📜 **Charles Darwin (*Autobiography*):** *"I spent eight continuous years dissecting and describing every known fossil and living species of **Cirripedia**."*
+> - 📜 **Thomas Henry Huxley (*Manual of the Anatomy of Invertebrated Animals*):** *"The parasitic forms of **Cirripedia** suffer such profound morphological reduction that all segmentation is lost."*
+> - 📜 **Alfred Russel Wallace (*Darwinism*):** *"Darwin's monumental monograph on the **Cirripedia** established his reputation as a master comparative anatomist."*

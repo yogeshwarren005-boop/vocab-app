@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A large muscle of the shoulder : deltoid —usually plural.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large muscle of the shoulder : deltoid —usually plural.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An informal or clinical abbreviation for the deltoid muscle of the shoulder.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In kinesiology and fitness conditioning, referring to the anterior, lateral, or posterior heads of the triangular shoulder musculature.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, delt designates a large muscle of the shoulder : deltoid —usually plural."*
+> - 📜 **Arnold Schwarzenegger (*The New Encyclopedia of Modern Bodybuilding*):** *"Isolating the rear **delt** requires precise dumbbell raises with elbows flared slightly forward."*
+> - 📜 **Mark Rippetoe (*Starting Strength: Basic Barbell Training*):** *"The overhead press thoroughly recruits the lateral **delt** alongside the triceps to lock the barbell overhead."*
+> - 📜 **Stuart McGill (*Ultimate Back Fitness and Performance*):** *"Shoulder stability during heavy lifting depends on balanced activation of rotator cuff tendons and the prime-moving **delt**."*

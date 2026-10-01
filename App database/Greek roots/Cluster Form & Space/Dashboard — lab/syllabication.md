@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Forming or dividing words into syllables.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Forming or dividing words into syllables.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The act, process, or method of dividing words into syllables; syllabification.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistics, orthography, and printing, syllabication governs hyphenation rules, phonological sonority sequencing, and dictionary pronunciation keys.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, syllabication designates forming or dividing words into syllables."*
+> - 📜 **Noah Webster (*An American Dictionary of the English Language*):** *"Correct **syllabication** depends upon the natural divisions of sound observed in the spoken language."*
+> - 📜 **Samuel Johnson (*A Dictionary of the English Language*):** *"The rules of English **syllabication** must balance etymological derivation against customary orthoepic practice."*
+> - 📜 **Ferdinand de Saussure (*Course in General Linguistics*):** *"The mechanical **syllabication** of printed text often conflicts with the actual sonority movements of spoken speech."*

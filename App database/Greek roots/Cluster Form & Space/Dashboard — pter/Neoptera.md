@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek pter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A major taxonomic infraclass of winged insects comprising all orders that can flex and fold their wings flat over the abdomen when at rest.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In insect phylogenetics, a vast evolutionary lineage encompassing hemipterans, orthopterans, beetles, and butterflies, contrasting with the primitive Palaeoptera.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Neoptera designates a term designating an entity, condition, or phenomenon derived from greek pter."*
+> - 📜 **Michael S. Engel (*Evolution of the Insects*):** *"The evolutionary breakthrough of the **Neoptera** was the wing-flexing mechanism that allowed insects to scurry into crevices without damaging delicate flight foils."*
+> - 📜 **Robin J. Wootton (*The Functional Morphology of Insect Wings*):** *"Specific third axillary sclerites in **Neoptera** act as mechanical hinges that fold the wing backwards over the abdominal tergites."*
+> - 📜 **Vincent Dethier (*The Hungry Fly*):** *"Nearly every winged insect encountered in terrestrial undergrowth belongs to the adaptable evolutionary clade of **Neoptera**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek syring.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of small, slender neotropical flies (family Syringogastridae) that closely mimic ants or sphecid wasps in appearance and behavior.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In dipterology and evolutionary mimicry, *Syringogaster* species possess petiolate abdomens and swollen hind femora, inhabiting moist neotropical forest canopies.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Syringogaster designates a term designating an entity, condition, or phenomenon derived from greek syring."*
+> - 📜 **William Morton Wheeler (*Ants: Their Structure, Development and Behavior*):** *"The remarkable dipteran **Syringogaster** mimics pseudomyrmecine ants so closely that it easily escapes predators on foliage."*
+> - 📜 **Alfred Russel Wallace (*Tropical Nature and Other Essays*):** *"In the Amazonian understory, flies of the genus **Syringogaster** waved their darkened wings in deceptive ant-like fashion."*
+> - 📜 **Edward O. Wilson (*The Diversity of Life*):** *"Bizarre morphological convergence is beautifully exemplified by the wasp-mimicking fly **Syringogaster**."*

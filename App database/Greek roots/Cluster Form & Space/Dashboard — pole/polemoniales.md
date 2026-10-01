@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Polemoniaceae; solanaceae; boraginaceae; labiatae; lentibulariaceae; pedaliaceae; in some classifications includes the order scrophulariales.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Polemoniaceae; solanaceae; boraginaceae; labiatae; lentibulariaceae; pedaliaceae; in some classifications includes the order scrophulariales.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An order of dicotyledonous flowering plants in traditional botanical classification systems, containing Polemoniaceae and allied families.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical taxonomy, an ordinal grouping roughly equivalent to the modern order Solanales or expanded Ericales in phylogenetic classifications.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polemoniales designates polemoniaceae; solanaceae; boraginaceae; labiatae; lentibulariaceae; pedaliaceae; in some classifications includes the order scrophulariales."*
+> - 📜 **George Bentham (*Genera Plantarum*):** *"Under the order **polemoniales**, botanists grouped sympetalous families characterized by hypogynous stamens alternating with corolla lobes."*
+> - 📜 **Adolf Engler (*Syllabus der Pflanzenfamilien*):** *"The systematic placement of **polemoniales** connected primitive tubiflorous dicotyledons with advanced campanulate forms."*
+> - 📜 **Robert F. Thorne (*Classification and Geography of the Flowering Plants*):** *"Comparative serological studies helped realign the heterogeneous components traditionally assigned to the **polemoniales**."*

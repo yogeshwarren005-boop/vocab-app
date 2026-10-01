@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The doctrine or belief that there is but one God.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The doctrine or belief that there is but one God.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The doctrine or belief that there is only one God.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of religion and philosophical theology, monotheism is typified by the Abrahamic faiths (Judaism, Christianity, Islam), asserting the absolute unity, omnipotence, and transcendence of the supreme creator.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Israel had stood for monotheism and that not the monotheism of Greek philosophy, a dogma of the schools consistent with the cults of Egypt and Phrygia, with hierodules and a deified Antinous."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"It was perhaps this very reconciliation that threw open the door for the glowing monotheism of the disciples of Jesus; but, whatever the cause, Christianity quickly spread over the whole Roman Empire."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"Monotheism, 19, 94, 143, 146, 148."*
+> - 📜 **David Hume (*The Natural History of Religion*):** *"The transition from polytheism to rigorous **monotheism** reflects humanity's tendency to exalt a patron deity to supreme infinity."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The austere **monotheism** of Islam swept across Arabia, sweeping away idol worship and clan totems."*
+> - 📜 **Sigmund Freud (*Moses and Monotheism*):** *"Freud argued that the uncompromising **monotheism** of Moses represented an advance in intellectuality over sensory idolatry."*

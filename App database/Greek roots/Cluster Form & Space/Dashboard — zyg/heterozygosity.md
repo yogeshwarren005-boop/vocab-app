@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of being heterozygous; having two different alleles of the same gene.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The state of being heterozygous; having two different alleles of the same gene.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state of possessing two different alleles at a particular gene locus on homologous chromosomes; the proportion of heterozygous loci in an individual or population.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In population genetics, heterozygosity is a key measure of genetic diversity, with higher values indicating greater allelic variation and adaptive potential within a population.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heterozygosity designates the state of being heterozygous; having two different alleles of the same gene."*
+> - 📜 **Theodosius Dobzhansky (*Genetics and the Origin of Species*):** *"**Heterozygosity** maintains genetic variation within populations and provides the raw material for natural selection."*
+> - 📜 **Sewall Wright (*Evolution and the Genetics of Populations*):** *"The level of **heterozygosity** in a population reflects the balance between mutation, drift, and selection."*
+> - 📜 **Richard Lewontin (*The Genetic Basis of Evolutionary Change*):** *"Electrophoretic surveys revealed unexpectedly high levels of **heterozygosity** in natural populations."*

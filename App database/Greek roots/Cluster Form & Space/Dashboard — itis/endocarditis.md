@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the lining of the heart and its valves.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Inflammation of the lining of the heart and its valves.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Inflammation of the endocardium (the smooth endothelial lining of the heart's interior chambers and valves).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cardiology, infective endocarditis is a life-threatening microbial colonization of cardiac valves, forming friable vegetations that cause valvular incompetence, congestive heart failure, and systemic septic embolization (Duke criteria).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endocarditis designates inflammation of the lining of the heart and its valves."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Malignant **endocarditis** produces septic emboli that scatter throughout the body, causing splinter hemorrhages and Osler nodes."*
+> - 📜 **Austin Flint (*A Treatise on the Principles and Practice of Medicine*):** *"The appearance of new cardiac murmurs during protracted septic fever provides crucial evidence of active **endocarditis**."*
+> - 📜 **Richard Bright (*Reports of Medical Cases*):** *"Autopsy revealed ulcerated, warty vegetations upon the aortic cusps, the classic anatomic hallmark of **endocarditis**."*

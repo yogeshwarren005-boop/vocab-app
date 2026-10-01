@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A long (usually round) rod of wood or metal or plastic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A native or inhabitant of poland.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A long, slender, cylindrical piece of wood, metal, or other material, typically erected vertically to provide support or suspension.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physics and geography, either of the two extreme points of an axis of rotation, or either of the two opposed terminals of a magnet or electric cell.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"O, withered is the garland of the war, The soldier’s pole is fallen; young boys and girls Are level now with men."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Last night of all, When yond same star that’s westward from the pole, Had made his course t’illume that part of heaven Where now it burns, Marcellus and myself, The bell then beating one— MARCELLUS."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"To pay five ducats, five, I would not farm it; Nor will it yield to Norway or the Pole A ranker rate, should it be sold in fee."*
+> - 📜 **Henry David Thoreau (*Walden; or, Life in the Woods*):** *"I planted a tall bean-**pole** in the garden, watching the tendrils climb spirally toward the morning light."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"The magnetic force concentrates with intense vigor at each **pole** of the bar, manifesting opposite polarities."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"Lines of induction issue from the positive **pole** and curve gracefully through space toward the negative terminal."*

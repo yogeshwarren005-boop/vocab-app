@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek centr.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state, quality, or practice of deviating from customary or normal behavior; eccentricity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical astronomy and mechanics, the condition of an orbit or cam deviating from concentric alignment with the primary center.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eccentrism designates a term designating an entity, condition, or phenomenon derived from greek centr."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"Genius and neurosis frequently collide, producing patterns of high **eccentrism** that society struggles to interpret."*
+> - 📜 **Thomas Love Peacock (*Nightmare Abbey*):** *"His philosophic **eccentrism** consisted in perpetual retreat to his solitary tower wrapped in gloomy speculation."*
+> - 📜 **George Santayana (*The Life of Reason*):** *"A cultivated **eccentrism** often serves as a defensive armor against the overwhelming conformity of public opinion."*

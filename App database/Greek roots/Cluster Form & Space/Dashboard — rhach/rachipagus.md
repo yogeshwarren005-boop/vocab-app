@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek rhach.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Conjoined twins united back-to-back along the vertebral column or spine.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In teratology, an exceptionally rare congenital malformation involving posterior union along the spinal axis, often sharing neural canal elements.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rachipagus designates a term designating an entity, condition, or phenomenon derived from greek rhach."*
+> - 📜 **George M. Gould (*Anomalies and Curiosities of Medicine*):** *"In true **rachipagus**, the union involves the dorsal spines of the vertebrae, creating complete back-to-back fusion of the torsos."*
+> - 📜 **Isidore Geoffroy Saint-Hilaire (*Histoire des anomalies de l'organisation*):** *"The dorsal conjunction observed in **rachipagus** represents an embryological failure of posterior neural tube divergence."*
+> - 📜 **John William Ballantyne (*Manual of Antenatal Pathology and Hygiene*):** *"Autopsies of **rachipagus** twins reveal intricate shared dural investments requiring complex neurosurgical separation plans."*

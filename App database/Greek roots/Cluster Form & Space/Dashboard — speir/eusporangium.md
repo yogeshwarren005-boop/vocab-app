@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sporangium of the eusporangiate kind.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sporangium of the eusporangiate kind.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A sporangium that originates from a group of superficial initial cells and develops a multi-layered wall, typical of primitive vascular plants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pteridophyte evolutionary morphology, eusporangia produce large, indefinite numbers of spores and are found in marattioid ferns, ophioglossaleans, and lycophytes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eusporangium designates a sporangium of the eusporangiate kind."*
+> - 📜 **F. O. Bower (*The Ferns (Filicales)*):** *"The massive **eusporangium** of Ophioglossum arises from several parent cells and contains thousands of spores."*
+> - 📜 **Katherine Esau (*Plant Anatomy*):** *"Unlike the delicate leptosporangium, the **eusporangium** develops a robust jacket consisting of two or more cell layers."*
+> - 📜 **Eduard Strasburger (*Textbook of Botany*):** *"In phylogenetic terms, the **eusporangium** is the ancestral type of sporangium characteristic of early land flora."*

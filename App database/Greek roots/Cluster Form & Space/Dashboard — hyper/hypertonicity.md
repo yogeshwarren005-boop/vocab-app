@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (of a solution) the extent to which a solution has a higher osmotic pressure than some other.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of muscular tissue) the state of being hypertonic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or property of being hypertonic; excessive osmotic pressure, or abnormally high muscular or vascular tone.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nephrology, extracellular hypertonicity drives intracellular dehydration and stimulates thirst and vasopressin; in neurology, muscular hypertonicity characterizes spastic hemiplegia and dystonia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypertonicity designates (of a solution) the extent to which a solution has a higher osmotic pressure than some other."*
+> - 📜 **Ernest Starling (*Principles of Human Physiology*):** *"Hypothalamic osmoreceptors respond to the slightest increase in extracellular **hypertonicity** by releasing antidiuretic hormone."*
+> - 📜 **Charles Sherrington (*The Integrative Action of the Nervous System*):** *"The exaggerated stretch reflex in spasticity provides objective evidence of underlying muscular **hypertonicity**."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Sustained vascular **hypertonicity** of the peripheral arterioles elevates systemic diastolic blood pressure."*

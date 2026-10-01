@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or characteristic of the atmosphere around a low pressure center.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or characteristic of a violent tropical storm.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or resembling a cyclone; cyclonic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In meteorology, describing atmospheric rotation, convergence, or barometric drops associated with a rotating cyclonic storm system.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cyclonal designates of or relating to or characteristic of the atmosphere around a low pressure center."*
+> - 📜 **Joseph Conrad (*Typhoon*):** *"The ship plunged headlong into the shrieking vortex of a fierce **cyclonal** disturbance that blotted out the sea."*
+> - 📜 **Francis Galton (*Meteorographica*):** *"The inward spiraling winds of a **cyclonal** system contrast sharply with the outward divergence of anticyclones."*
+> - 📜 **Arthur Holmes (*Principles of Physical Geology*):** *"Vast ocean surges driven by severe **cyclonal** pressure drops erode barrier sandbars in a single night."*

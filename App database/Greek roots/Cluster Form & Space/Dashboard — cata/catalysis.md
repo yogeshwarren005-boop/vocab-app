@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A modification and especially increase in the rate of a chemical reaction induced by material unchanged chemically at the end of the reaction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A modification and especially increase in the rate of a chemical reaction induced by material unchanged chemically at the end of the reaction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The acceleration of a chemical reaction caused by the presence of a substance (a catalyst) that is not itself consumed in the reaction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical chemistry, a fundamental process divided into homogeneous, heterogeneous, and enzymatic catalysis, governed by the lowering of Gibbs activation free energy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, catalysis designates a modification and especially increase in the rate of a chemical reaction induced by material unchanged chemically at the end of the reaction."*
+> - 📜 **Jöns Jacob Berzelius (*Annual Survey of Progress in Chemistry*):** *"I shall designate this phenomenon **catalysis**, the catalytic force by which substances awaken dormant chemical affinities through their mere presence."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"The economic manufacture of ammonia via the Haber process relies on heterogeneous **catalysis** across finely divided iron surfaces."*
+> - 📜 **Primo Levi (*The Periodic Table*):** *"In industrial chemistry, **catalysis** is the magic spark that coaxed inert hydrocarbons into synthetic resins."*

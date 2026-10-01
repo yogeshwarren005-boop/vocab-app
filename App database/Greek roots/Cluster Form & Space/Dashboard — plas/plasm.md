@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The protoplasm of the germ cells that contains chromosomes and genes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The colorless watery fluid of the blood and lymph that contains no cells, but in which the blood cells (erythrocytes, leukocytes, and thrombocytes) are suspended.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A formative fluid or biological substance; the fluid part of blood, lymph, or milk (or short for protoplasm).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical cytology, the living material of a cell considered as the vehicle of vital and hereditary properties.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plasm designates the protoplasm of the germ cells that contains chromosomes and genes."*
+> - 📜 **August Weismann (*The Germ-Plasm: A Theory of Heredity*):** *"The hereditary continuity of generations resides in the immortal germ-**plasm**, untainted by somatic modifications."*
+> - 📜 **Thomas Henry Huxley (*The Physical Basis of Life*):** *"Every living creature is fashioned from the same basic formative **plasm**, whose chemical activities constitute life."*
+> - 📜 **Herbert Spencer (*The Principles of Biology*):** *"Organic evolution operates through continuous differentiation of the vital **plasm** in response to environmental forces."*

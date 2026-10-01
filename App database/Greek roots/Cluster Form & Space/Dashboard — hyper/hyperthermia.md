@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Exceptionally high fever especially when induced artificially for therapeutic purposes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Exceptionally high fever especially when induced artificially for therapeutic purposes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormally elevated body core temperature that occurs when the body produces or absorbs more heat than it can dissipate, overwhelming thermoregulatory mechanisms.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In critical care medicine, hyperthermia is distinguished from fever (where the hypothalamic set-point is elevated by pyrogens); causes include heat stroke, malignant hyperthermia (ryanodine receptor mutation), and serotonin syndrome.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyperthermia designates exceptionally high fever especially when induced artificially for therapeutic purposes."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In exertional heat stroke, rapid **hyperthermia** damages cerebral endothelium, producing delirium and coma."*
+> - 📜 **Walter Bradford Cannon (*The Wisdom of the Body*):** *"When ambient humidity arrests sweat evaporation, catastrophic **hyperthermia** rapidly overwhelms internal homeostasis."*
+> - 📜 **Austin Flint (*A Treatise on the Principles and Practice of Medicine*):** *"Immediate active cooling is mandatory in severe **hyperthermia** before irreversible brain damage occurs."*

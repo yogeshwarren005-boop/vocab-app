@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Banded anteater.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Banded anteater.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxonomic genus of small marsupials endemic to Western Australia containing the numbat (*Myrmecobius fasciatus*), which feeds exclusively on termites.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marsupial mammalogy, Myrmecobius is characterized by an extraordinarily long vermiform tongue, degenerate cheek teeth, and diurnal solitary foraging.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, myrmecobius designates banded anteater."*
+> - 📜 **George Robert Waterhouse (*A Natural History of the Mammalia*):** *"The genus **Myrmecobius** presents fifty-two teeth, an anomalously high dental formula among living terrestrial marsupials."*
+> - 📜 **John Gould (*The Mammals of Australia*):** *"With its transverse white dorsal bands and bushy tail, **Myrmecobius** runs with swift agility through hollow eucalyptus logs."*
+> - 📜 **Ronald Strahan (*The Mammals of Australia*):** *"Unlike most nocturnal marsupials, **Myrmecobius** searches for subsurface termite galleries during bright daylight hours."*

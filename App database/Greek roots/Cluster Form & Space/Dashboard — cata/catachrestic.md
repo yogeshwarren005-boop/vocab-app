@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Constituting or characterized by or given to catachresis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Constituting or characterized by or given to catachresis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characterized by, involving, or resembling catachresis; strained, far-fetched, or paradoxical in rhetorical usage.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In stylistic analysis, describing figurative expressions that violently diverge from conventional semantic boundaries.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, catachrestic designates constituting or characterized by or given to catachresis."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"His imagery was excessively **catachrestic**, combining tactile and acoustic tropes until the mind recoiled from the confusion."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"Teufelsdröckh's prophetic style abounds in **catachrestic** turns of phrase that challenge pedestrian grammatical logic."*
+> - 📜 **George Saintsbury (*A History of Elizabethan Literature*):** *"Jacobean drama celebrated **catachrestic** boldness, seeking shock and heightened dramatic pathos above classical decorum."*

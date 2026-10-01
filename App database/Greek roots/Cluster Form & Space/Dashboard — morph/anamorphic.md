@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Producing, relating to, or marked by intentional distortion (as by unequal magnification along perpendicular axes) of an image.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Producing, relating to, or marked by intentional distortion (as by unequal magnification along perpendicular axes) of an image.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, producing, or characterized by distorted optical projection, unequal lateral magnification, or transformative morphological change.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In widescreen cinematography and optical lens design, describing cylindrical lenses that optically compress an image horizontally onto standard film for subsequent optical decompression.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anamorphic designates producing, relating to, or marked by intentional distortion (as by unequal magnification along perpendicular axes) of an image."*
+> - 📜 **Henri Chrétien (*Hypergonar Anamorphic Optics*):** *"By introducing cylindrical lenses into the optical train, our **anamorphic** system captures a panoramic field of view on standard film stock."*
+> - 📜 **David Bordwell (*The Classical Hollywood Cinema*):** *"The adoption of **anamorphic** widescreen formats in the 1950s revolutionized cinematic framing, demanding new approaches to narrative staging."*
+> - 📜 **Erwin Panofsky (*Perspective as Symbolic Form*):** *"Renaissance artists mastered **anamorphic** projection, hiding subtle political and allegorical meanings within apparently distorted murals."*

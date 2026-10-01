@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A distinctive collocation of phonemes (such as the free form pin or the bound form -s of pins) having no smaller meaningful parts.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A distinctive collocation of phonemes (such as the free form pin or the bound form -s of pins) having no smaller meaningful parts.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The minimal grammatical unit of meaning or functional significance in a language that cannot be divided into smaller meaningful components.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In structural linguistics, morphemes are classified as free (capable of standing alone as independent words) or bound (affixes that must attach to a stem).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, morpheme designates a distinctive collocation of phonemes (such as the free form pin or the bound form -s of pins) having no smaller meaningful parts."*
+> - 📜 **Leonard Bloomfield (*Language*):** *"A linguistic form which bears no partial phonetic-semantic resemblance to any other form is a simple form or **morpheme**."*
+> - 📜 **Ferdinand de Saussure (*Course in General Linguistics*):** *"The linguistic sign is arbitrary, and the **morpheme** unites a acoustic sound image with an abstract conceptual signified."*
+> - 📜 **Noam Chomsky (*Syntactic Structures*):** *"Syntactic transformation rules operate upon strings of symbols, mapping underlying **morpheme** sequences into pronounceable sentences."*

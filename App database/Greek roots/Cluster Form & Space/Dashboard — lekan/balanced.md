@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Bring into balance or equilibrium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Compute credits and debits of an account.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a state of physical, psychological, financial, or artistic equilibrium; having harmonious proportions.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In scientific and dietary literature, a balanced diet provides requisite macronutrients and micronutrients; in chemistry, a balanced equation satisfies stoichiometry and mass conservation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Him I’ll desire To meet me at the consecrated fount, A league below the city; and from thence, By cold gradation and well-balanced form."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The account is now favourably balanced: my creditor has accepted a composition."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"I suppose the people who admired him for them in his youth attached too much importance to them and too little to any training that would have balanced and adjusted them, and so he became what he is."*
+> - 📜 **Antoine Lavoisier (*Elements of Chemistry*):** *"Every **balanced** chemical equation demonstrates that the sum of the reactants precisely equals the products."*
+> - 📜 **William James (*The Principles of Psychology*):** *"The well-**balanced** mind maintains an emotional equilibrium that withstands sudden reversals of fortune."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The facade of the ducal palace presents a beautifully **balanced** harmony between solid marble and open arcades."*

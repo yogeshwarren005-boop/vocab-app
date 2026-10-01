@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having carpospores.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having carpospores.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Bearing, producing, or reproducing by carpospores.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine phycological taxonomy, carposporous thalli describe mature female red algae that have developed cystocarps actively discharging carpospores.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, carposporous designates having carpospores."*
+> - 📜 **William Henry Harvey (*Phycologia Britannica*):** *"We collected robust **carposporous** specimens of Polysiphonia clinging to kelp stipes in the intertidal zone."*
+> - 📜 **Gilbert M. Smith (*Cryptogamic Botany*):** *"The presence of raised, urn-shaped cystocarps identifies the **carposporous** plant from its tetrasporic counterparts."*
+> - 📜 **Fritsch, F. E. (*The Structure and Reproduction of the Algae*):** *"Fertilization induces rapid mitotic sprouting of gonimoblasts, transforming the procarp into a fertile **carposporous** structure."*

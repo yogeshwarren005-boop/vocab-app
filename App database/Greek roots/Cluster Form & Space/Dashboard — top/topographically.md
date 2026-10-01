@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With regard to topography.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: With regard to topography.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In terms of the topography or physical features of an area or anatomical region.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neuroanatomy, neurons organized topographically (such as the motor homunculus or retinotopic visual maps) maintain spatial neighborhood relationships between sensory surfaces and cortical representations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, topographically designates with regard to topography."*
+> - 📜 **Santiago Ramón y Cajal (*Histology of the Nervous System*):** *"Sensory projections from the retina are mapped **topographically** across the primary visual cortex of the occipital lobe."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The isolated volcanic islands of the Galápagos are separated **topographically** by deep marine channels."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"Parkinsonian tremors were analyzed **topographically**, progressing from distal phalanges to proximal musculature."*

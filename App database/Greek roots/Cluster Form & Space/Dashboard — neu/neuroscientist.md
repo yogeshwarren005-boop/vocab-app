@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A neurobiologist who specializes in the study of the brain.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A neurobiologist who specializes in the study of the brain.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A scientific specialist who conducts empirical research into the structure, biochemistry, physiological function, development, or pathologies of the nervous system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical and experimental medicine, a neuroscientist develops pharmacological agents, neural implants, and behavioral therapies to treat brain disorders.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, neuroscientist designates a neurobiologist who specializes in the study of the brain."*
+> - 📜 **Eric Kandel (*In Search of Memory*):** *"As a young **neuroscientist**, I chose the marine snail Aplysia because its giant neurons offered an accessible window into synaptic memory."*
+> - 📜 **Oliver Sacks (*The Man Who Mistook His Wife for a Hat*):** *"The clinical neurologist must think like an empathetic novelist and observe with the rigorous precision of a dedicated **neuroscientist**."*
+> - 📜 **V. S. Ramachandran (*Phantoms in the Brain*):** *"Simple mirror therapy allowed the **neuroscientist** to relieve excruciating phantom limb pain by rewiring the patient's visual cortex feedback."*

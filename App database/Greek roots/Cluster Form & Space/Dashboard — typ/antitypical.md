@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to an antitype.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to an antitype.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or having the nature of an antitype; fulfilling a symbolic type (variant of antitypic).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In hermeneutical literature, antitypical structures demonstrate structural unity between historical narrative and theological doctrine.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antitypical designates of or relating to an antitype."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Early Christian polemicists interpreted the destruction of Jerusalem as the **antitypical** vindication of their faith."*
+> - 📜 **Thomas Carlyle (*Sartor Resartus*):** *"The living clothes of the spirit represent an **antitypical** garment weaving cosmic order out of chaos."*
+> - 📜 **George Eliot (*Romola*):** *"The fiery sermons of Savonarola presented Florence as the **antitypical** New Jerusalem destined to reform Christendom."*

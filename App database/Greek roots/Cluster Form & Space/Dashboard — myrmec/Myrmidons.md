@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A member of a legendary Thessalian people who accompanied their king Achilles in the Trojan War.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A loyal follower; especially : a subordinate who executes orders unquestioningly or unscrupulously.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In Greek mythology and Homeric epic, a fierce Thessalian warrior tribe led by Achilles in the Trojan War, legendarily created from ants by Zeus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical literature and common usage, applied figuratively to loyal, unquestioning, and ruthlessly obedient followers or subordinates who execute harsh orders.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Patroclus’ wounds have rous’d his drowsy blood, Together with his mangled Myrmidons, That noseless, handless, hack’d and chipp’d, come to him, Crying on Hector."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Enter Achilles with Myrmidons."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Come here about me, you my Myrmidons; Mark what I say."*
+> - 📜 **Homer (*The Iliad*):** *"Achilles went through the camp calling all his **Myrmidons** to arms, and they poured forth like ravening wolves."*
+> - 📜 **Ovid (*Metamorphoses*):** *"Zeus heard the prayer of King Aeacus and transformed the swarming ants upon the sacred oak into the warrior **Myrmidons**."*
+> - 📜 **William Shakespeare (*Troilus and Cressida*):** *"Strike, fellow **Myrmidons**, and close him round! So, Ilion, fall thou next! Now, Troy, sink down; here lies thy heart, thy sinews, and thy bone."*

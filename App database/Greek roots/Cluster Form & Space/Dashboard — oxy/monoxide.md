@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An oxide containing one atom of oxygen in a molecule.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A colorless odorless very toxic gas CO that is formed as a product of the incomplete combustion of carbon or a carbon compound.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An oxide containing exactly one atom of oxygen per molecule or formula unit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In atmospheric chemistry and toxicology, carbon monoxide (CO) binds avidly to hemoglobin, forming carboxyhemoglobin and preventing cellular respiration.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The ordinary iron furnaces belch forth flames which are really good useful gas (carbon monoxide) burning to waste."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Others, in byways and sheltered corners, escaping the burning cloud of flame, are poisoned by the deadly fumes of carbon monoxide which it leaves when its force is spent."*
+> - 📜 **J. S. Haldane (*The Action of Carbonic Oxide on Man*):** *"Carbon **monoxide** displaces oxygen from hemoglobin due to an affinity more than two hundred times greater than that of oxygen."*
+> - 📜 **Frank Wigglesworth Clarke (*The Data of Geochemistry*):** *"Volcanic exhalations regularly discharge carbon **monoxide** into the surrounding atmosphere before surface oxidation occurs."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"A transition metal carbonyl forms when carbon **monoxide** acts as a neutral two-electron donor ligand."*

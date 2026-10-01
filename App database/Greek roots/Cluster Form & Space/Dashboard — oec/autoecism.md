@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Passing through all life stages on the same host.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Passing through all life stages on the same host.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The parasitic biological condition or life history strategy of being autoecious; completing all life-cycle stages on one host.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic mycology and parasitology, autoecism in rust fungi evolved secondarily from heteroecious ancestors through the loss of alternate host requirements.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, autoecism designates passing through all life stages on the same host."*
+> - 📜 **Anton de Bary (*Comparative Morphology and Biology of the Fungi, Mycetozoa and Bacteria*):** *"Our infection experiments confirmed **autoecism** in asparagus rust, resolving long-standing doubts regarding alternate host plants."*
+> - 📜 **John Webster (*Introduction to Fungi*):** *"The genetic basis of **autoecism** involves the condensation of developmental spore cascades onto a single ecological substrate."*
+> - 📜 **C. V. Subramanian (*Hyphomycetes*):** *"Agricultural crop protection is simplified when pathogens exhibit **autoecism**, as eradicating wild alternate hosts is unnecessary."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek oo.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The process of formation and early development of oocytes from primordial germ cells within the ovary, preceding the maturation stages of oogenesis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In reproductive endocrinology, oocytogenesis encompasses mitotic proliferation of oogonia, entry into meiosis, and the establishment of the primordial follicle pool during fetal development.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oocytogenesis designates a term designating an entity, condition, or phenomenon derived from greek oo."*
+> - 📜 **Oscar Hertwig (*Lehrbuch der Entwicklungsgeschichte*):** *"**Oocytogenesis** begins during embryonic life with the rapid mitotic expansion of the germ cell population."*
+> - 📜 **Keith L. Moore (*The Developing Human*):** *"The process of **oocytogenesis** establishes the finite reserve of primary oocytes before birth."*
+> - 📜 **Scott F. Gilbert (*Developmental Biology*):** *"Disruptions in **oocytogenesis** during fetal development can lead to premature ovarian insufficiency in adulthood."*

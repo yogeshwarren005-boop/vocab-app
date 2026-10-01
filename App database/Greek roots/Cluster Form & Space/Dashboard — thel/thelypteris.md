@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marsh ferns: in some classification systems considered part of genus dryopteris in family dryopteridaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marsh ferns: in some classification systems considered part of genus dryopteris in family dryopteridaceae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of terrestrial ferns known as marsh ferns, belonging to the family Thelypteridaceae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical taxonomy, *Thelypteris* is characterized by creeping rhizomes, bipinnatifid fronds with prominent acicular hairs, and round sori protected by kidney-shaped indusia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thelypteris designates marsh ferns: in some classification systems considered part of genus dryopteris in family dryopteridaceae."*
+> - 📜 **Carl Linnaeus (*Species Plantarum*):** *"Linnaeus originally described the marsh fern *Acrostichum thelypteris*, later designated as the type of **Thelypteris**."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"Along shaded boggy margins, the delicate pale green fronds of **Thelypteris** form dense clonal colonies."*
+> - 📜 **William Jackson Hooker (*British Ferns*):** *"The creeping black rhizome of **Thelypteris** spreads rapidly through acidic marshland soils."*

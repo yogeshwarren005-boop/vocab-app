@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek id.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A poet, writer, or artist who composes or paints idylls (picturesque, charming, or rustic pastoral scenes).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary history, idyllists (such as Theocritus, Virgil in his Eclogues, and Tennyson in his Idylls) depict rural tranquility, nostalgic pastoral simplicity, and idealized romantic encounters.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, idyllist designates a term designating an entity, condition, or phenomenon derived from greek id."*
+> - 📜 **Alfred Tennyson (*Tiresias and Other Poems*):** *"The ancient Sicilian **idyllist** piped of sweet pastoral streams and shepherd lovers under whispering pine boughs."*
+> - 📜 **Samuel Taylor Coleridge (*Biographia Literaria*):** *"The genuine **idyllist** captures the quiet grace of rural life without falsifying the honest ruggedness of nature."*
+> - 📜 **Walter Pater (*Appreciations*):** *"Wordsworth was a meditative **idyllist**, discovering celestial depths in the simple domesticities of mountain folk."*

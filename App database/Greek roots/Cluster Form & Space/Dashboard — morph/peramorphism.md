@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek morph.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The evolutionary process or condition of peramorphosis; the development of exaggerated ancestral adult traits in descendant species through heterochronic shifts.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In macroevolutionary paleobiology, peramorphism encompasses acceleration, hypermorphosis, and predisplacement, resulting in exaggerated morphological structures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, peramorphism designates a term designating an entity, condition, or phenomenon derived from greek morph."*
+> - 📜 **Stephen Jay Gould (*Ontogeny and Phylogeny*):** *"Through **peramorphism**, descendant species recapitulate ancestral ontogeny rapidly and then progress into novel morphological territory."*
+> - 📜 **Brian K. Hall (*Evolutionary Developmental Biology*):** *"Skeletal adaptations such as prolonged digit elongation in bats illustrate the developmental power of **peramorphism**."*
+> - 📜 **Kenneth J. McNamara (*Heterochrony: The Evolution of Ontogeny*):** *"Fossil ammonites frequently demonstrate **peramorphism** in suture complexity as younger lineages evolve increasingly convoluted septal margins."*

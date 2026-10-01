@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a morphological manner; with regard to morphology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a morphological manner; with regard to morphology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a morphological manner; with respect to physical form, structural arrangement, or grammatical formation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative biology and linguistics, analyzing specimens morphologically allows researchers to distinguish homologous adaptations from superficial analogs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, morphologically designates in a morphological manner; with regard to morphology."*
+> - 📜 **Ernst Mayr (*Systematics and the Origin of Species*):** *"Sibling species may be almost identical **morphologically** while remaining completely isolated reproductively in nature."*
+> - 📜 **Leonard Bloomfield (*Language*):** *"A compound word is structured **morphologically** so that its primary stress marks it as a distinct grammatical unit."*
+> - 📜 **Stephen Jay Gould (*The Structure of Evolutionary Theory*):** *"Organisms that appear **morphologically** conservative over geological epochs may nevertheless undergo significant molecular evolution."*

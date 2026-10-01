@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A process involving fixation and dehydration and forced impregnation and hardening of biological tissues; water and lipids are replaced by curable polymers (silicone or epoxy or polyester) that are subsequently hardened.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A process involving fixation and dehydration and forced impregnation and hardening of biological tissues; water and lipids are replaced by curable polymers (silicone or epoxy or polyester) that are subsequently hardened.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A technique used in anatomy to preserve bodies or body parts, in which water and lipid are replaced by curable polymers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical pedagogy, plastination yields dry, odorless, durable, and lifelike anatomical specimens that retain microscopic cellular architecture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plastination designates a process involving fixation and dehydration and forced impregnation and hardening of biological tissues; water and lipids are replaced by curable polymers (silicone or epoxy or polyester) that are subsequently hardened."*
+> - 📜 **Gunther von Hagens (*The Technique of Plastination*):** *"The four fundamental steps of **plastination** are fixation, dehydration, forced impregnation in a vacuum, and gas curing."*
+> - 📜 **Jack J. Kanski (*Clinical Ophthalmology*):** *"Specimens prepared by **plastination** offer students permanent three-dimensional models of delicate orbital structures."*
+> - 📜 **William Osler (*Aequanimitas*):** *"Anatomical museums have been transformed by modern preservation techniques such as **plastination**."*

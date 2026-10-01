@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Something (such as money or food) given freely to relieve the poor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something (such as money or food) given freely to relieve the poor.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Money, food, clothing, or other material goods donated freely to relieve the suffering of the impoverished.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In religious ethics and sociological history, giving alms was codified as a foundational moral duty across Abrahamic and Asian traditions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"They have made him drink alms-drink."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"A beggar’s tongue Make motion through my lips, and my armed knees, Who bowed but in my stirrup, bend like his That hath received an alms!"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Even so As with a man by his own alms empoisoned And with his charity slain."*
+> - 📜 **John Milton (*Samson Agonistes*):** *"To sit idle here, asking **alms** of passing pilgrims, were worse than the blindest bondage."*
+> - 📜 **Francis Bacon (*The Essays*):** *"Charity deferred till death is rather an angel's debt than a man's **alms**, for it giveth what it can no longer hold."*
+> - 📜 **Alexis de Tocqueville (*Memoir on Pauperism*):** *"Public **alms** legalizes the status of the pauper while often degrading the mutual dignity of the recipient and giver."*

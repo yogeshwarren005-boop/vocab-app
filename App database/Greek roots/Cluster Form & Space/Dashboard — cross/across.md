@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To the opposite side.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Transversely.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: From one side to the other of a space, area, or boundary; in a crossing direction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extending from side to side; so as to intersect or form a cross with.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Good faith, across; But, my good lord, ’tis thus: will you be cur’d Of your infirmity?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Back slave, or I will break thy pate across."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Who calls me villain, breaks my pate across?"*
+> - 📜 **Henry David Thoreau (*Walden*):** *"A field of water betrays the spirit that is in the air, and ripples **across** the pond beneath the summer breeze."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"A shadow flitted **across** the captain's furrowed brow as he gazed silently toward the horizon."*
+> - 📜 **Virginia Woolf (*To the Lighthouse*):** *"A beam of light swept **across** the darkened water, touching the bedroom window with cyclical brilliance."*

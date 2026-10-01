@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek crepid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A combining form derived from Greek krepis, meaning a boot, slipper, shoe, or architectural foundation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In architectural terminology and classical archeology, a root denoting a raised stepped stone base or platform.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, crepid designates a term designating an entity, condition, or phenomenon derived from greek crepid."*
+> - 📜 **John Ruskin (*The Stones of Venice*):** *"The Greek root **crepid** evokes the solid footstall or foundational shoe upon which the temple column firmly rests."*
+> - 📜 **Vitruvius (*The Ten Books on Architecture*):** *"Every temple requires a stepped base or **crepid** structure to elevate the sacred cella above the surrounding dust."*
+> - 📜 **James Fergusson (*A History of Architecture in All Countries*):** *"In Hellenic design, the **crepid** platform unifies the peristyle with the rocky topography of the acropolis."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek scalen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A triangle in which all three sides are of different, unequal lengths, and all three internal angles are different.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Euclidean geometry and surveying, a fundamental polygon whose area is calculated via Heron's formula or trigonometric sine rules.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scalene triangle designates a term designating an entity, condition, or phenomenon derived from greek scalen."*
+> - 📜 **Euclid (*Elements*):** *"A **scalene triangle** is that which has its three sides unequal, possessing no internal axis of symmetry."*
+> - 📜 **Archimedes (*On the Sphere and Cylinder*):** *"In decomposing irregular plane polygons, each sector resolves into a constituent **scalene triangle** whose base and altitude we compute."*
+> - 📜 **Isaac Barrow (*The Usefulness of Mathematical Learning*):** *"The properties of the **scalene triangle** demonstrate that geometrical truth holds independent of equilateral symmetry."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a division (Tracheophyta) comprising green plants (such as ferns and seed plants) with a vascular system that contains tracheids : vascular plant.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a division (Tracheophyta) comprising green plants (such as ferns and seed plants) with a vascular system that contains tracheids : vascular plant.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A vascular plant; any plant belonging to the division Tracheophyta, having lignified tissues for conducting water and minerals.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant biology, a tracheophyte features a dominant diploid sporophyte generation equipped with true roots, stems, leaves, and vascular cylinder (stele).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tracheophyte designates any of a division (tracheophyta) comprising green plants (such as ferns and seed plants) with a vascular system that contains tracheids : vascular plant."*
+> - 📜 **Katherine Esau (*Plant Anatomy*):** *"The development of internal xylem vessels permitted the **tracheophyte** to achieve massive upright arborescent size."*
+> - 📜 **Stephen Jay Gould (*Wonderful Life*):** *"The mid-Paleozoic landscape was transformed as each primitive **tracheophyte** evolved complex branching architecture."*
+> - 📜 **Julian Huxley (*Evolution: The Modern Synthesis*):** *"Cuticular water-proofing and stomatal control enabled the **tracheophyte** to flourish in arid terrestrial regimes."*

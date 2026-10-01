@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek centr.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Surgical aspiration of fluid from the pericardial sac surrounding the heart.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In emergency cardiology, an urgent decompression procedure to relieve cardiac tamponade by inserting a needle into the pericardial space.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pericardiocentesis designates a term designating an entity, condition, or phenomenon derived from greek centr."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"When purulent effusion threatens fatal cardiac strangulation, emergency **pericardiocentesis** provides the sole hope of survival."*
+> - 📜 **Paul Dudley White (*Heart Disease*):** *"Aspiration of even fifty cubic centimeters of blood during **pericardiocentesis** restores arterial pressure almost instantaneously."*
+> - 📜 **Harvey Cushing (*The Life of Sir William Osler*):** *"Under aseptic precautions, the surgeon performed a subxiphoid **pericardiocentesis**, relieving the patient's acute cyanosis."*

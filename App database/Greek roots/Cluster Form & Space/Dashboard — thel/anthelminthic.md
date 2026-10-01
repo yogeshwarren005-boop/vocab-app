@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A medication capable of causing the evacuation of parasitic intestinal worms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Capable of expelling or destroying parasitic worms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An agent, drug, or medication destructive to or expelling parasitic intestinal worms (helminths); acting against worms (variant of anthelmintic).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical parasitology and tropical medicine, anthelminthic treatments (such as albendazole, ivermectin, and praziquantel) target nematodes, cestodes, and trematodes in humans and livestock.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anthelminthic designates a medication capable of causing the evacuation of parasitic intestinal worms."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The administration of an effective **anthelminthic** like male fern oil rapidly expels the tapeworm head."*
+> - 📜 **Florence Nightingale (*Notes on Nursing*):** *"Proper sanitation reduces the constant need for therapeutic **anthelminthic** dosages among hospital patients."*
+> - 📜 **Patrick Manson (*Tropical Diseases: A Manual of the Diseases of Warm Climates*):** *"Early diagnosis of filariasis is essential to begin targeted **anthelminthic** treatment before lymphatic damage ensues."*

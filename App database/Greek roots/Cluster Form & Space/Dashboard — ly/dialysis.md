@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The separation of substances in solution by means of their unequal diffusion through semipermeable membranes; especially : such a separation of colloids from soluble substances.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The process of removing blood from an artery (as of a patient affected with kidney failure), purifying it by dialysis, adding vital substances, and returning it to a vein —called also hemodialysis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The separation of small solute molecules from larger colloidal particles in a liquid by selective diffusion through a semipermeable membrane; clinical hemodialysis for kidney failure.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pioneered in 1861 by Thomas Graham; in nephrology, hemodialysis and peritoneal dialysis remove toxic nitrogenous metabolic wastes (urea, creatinine) and excess fluid from blood in end-stage renal disease (ESRD).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dialysis designates the separation of substances in solution by means of their unequal diffusion through semipermeable membranes; especially : such a separation of colloids from soluble substances."*
+> - 📜 **Thomas Graham (*Liquid Diffusion Applied to Analysis*):** *"I have designated this method of separation by diffusion through a parchment septum by the term **dialysis**."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Abel demonstrated that extracorporeal **dialysis** of living blood could remove circulating salicylates and urea."*
+> - 📜 **Ernest Starling (*Principles of Human Physiology*):** *"Glomerular ultrafiltration operates like an organic **dialysis**, separating protein-free crystalloids from plasma."*

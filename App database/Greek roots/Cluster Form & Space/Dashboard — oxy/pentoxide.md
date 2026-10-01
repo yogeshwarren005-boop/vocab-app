@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An oxide containing five atoms of oxygen in the molecule.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A yellowish-red crystalline compound V2O5 used especially in glass manufacture and as a catalyst.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An oxide containing five atoms of oxygen per molecule or formula unit.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial chemistry, phosphorus pentoxide (P4O10) is an extremely potent and voracious dehydrating agent.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pentoxide designates an oxide containing five atoms of oxygen in the molecule."*
+> - 📜 **Jöns Jacob Berzelius (*Treatise on Chemistry*):** *"Burning phosphorus in dry atmospheric air deposits white flocculent crusts of phosphoric **pentoxide**."*
+> - 📜 **F. Albert Cotton (*Advanced Inorganic Chemistry*):** *"Dinitrogen **pentoxide** exists in the solid state as nitronium nitrate, displaying an ionic lattice."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"The dehydrating power of phosphorus **pentoxide** readily converts nitric acid into dinitrogen pentoxide."*

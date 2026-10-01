@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek gymn.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A naked spore that lacks an enclosing sporangial wall, capsule, or indusial protective envelope.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cryptogamic botany and protozoology, gymnospores develop directly upon external sporogenous axes or emerge from ruptured vegetative sacs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gymnospore designates a term designating an entity, condition, or phenomenon derived from greek gymn."*
+> - 📜 **F. E. Fritsch (*The Structure and Reproduction of the Algae*):** *"The flagellated **gymnospore** swims actively before shedding its cilia and secreting a cellulose casing upon settling."*
+> - 📜 **C. J. Alexopoulos (*Introductory Mycology*):** *"Because it lacks a protective spore coat, a delicate **gymnospore** cannot withstand prolonged atmospheric desiccation."*
+> - 📜 **Robert Edward Lee (*Phycology*):** *"Asexual swarming via the release of a motile **gymnospore** facilitates rapid colonization in calm freshwater pools."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Rounded like an egg.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by extreme economy of expression or omission of superfluous elements; ; - h.o.taylor.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Shaped like an ellipse; oval; also, characterized by deliberate omission of words or oblique, ambiguous phrasing.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In astrophysics, elliptical galaxies are smooth, featureless stellar systems with minimal interstellar gas and little active star formation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"Rachette in Germany introduced the elliptical blast furnace. (Intended first for lead smelting; rapidly adopted for copper matte smelting.) =1875.= The water-jacketing of blast furnaces."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"The spores are elliptical, rather elongated, constricted, and without spines (fig. 64)."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Its extremity, at first thin and pointed, swells in the form of a globular vesicle, which soon takes the elliptical or ovate shape of the perfected acrospore, and at length separates itself from the branch that supports it."*
+> - 📜 **Edwin Hubble (*The Realm of the Nebulae*):** *"Galaxies classify smoothly from globular, dense **elliptical** systems into flattened spirals with winding arms."*
+> - 📜 **Virginia Woolf (*To the Lighthouse*):** *"Her conversation was delightfully **elliptical**, skipping over obvious transitions to alight upon subtle intuitions."*
+> - 📜 **Thomas Henry Huxley (*Physiography*):** *"The earth revolves along an **elliptical** path that brings it nearest to the sun during the northern hemisphere's winter."*

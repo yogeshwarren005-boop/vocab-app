@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of stichaeidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of stichaeidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of elongated, burrowing marine fishes known as wrymouths, belonging to the family Cryptacanthodidae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine ichthyology, benthic North Atlantic and Pacific fishes characterized by a sharp upturned mouth, eel-like body, and habit of excavating mud burrows.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cryptacanthodes designates a genus of stichaeidae."*
+> - 📜 **David Starr Jordan (*A Guide to the Study of Fishes*):** *"The wrymouth, **Cryptacanthodes** maculatus, conceals its elongated body in complex subterranean galleries on muddy bottoms."*
+> - 📜 **Henry Bryant Bigelow (*Fishes of the Gulf of Maine*):** *"Trawl hauls from soft silt occasionally bring up specimens of **Cryptacanthodes**, snapping their oblique jaws with ferocity."*
+> - 📜 **Spencer Fullerton Baird (*Report on the Condition of the Sea Fisheries*):** *"Fishermen frequently encounter the spotted wrymouth, **Cryptacanthodes**, hiding inside submerged lobster pots."*

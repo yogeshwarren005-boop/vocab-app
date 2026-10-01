@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek od.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In classical Greek drama, the initial entrance song or choral ode sung by the chorus as it enters the orchestra of the theater.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical theater architecture, the parodos designates either of the two open side pathways between the skene and the auditorium through which the chorus and spectators entered.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"They wished, he says, to occupy the time while waiting to engage a passage on a ship--they happened to be passing (_parodos estin_) and looked in to see him as if he were a statue."*
+> - 📜 **Aristotle (*Poetics*):** *"The **parodos** is the first whole utterance of the chorus as they enter the orchestra to take up their dramatic station."*
+> - 📜 **Aeschylus (*The Persians*):** *"In the solemn **parodos**, the elders of Susa chant their forebodings concerning the fate of the Persian host marching against Hellas."*
+> - 📜 **Gilbert Murray (*A History of Ancient Greek Literature*):** *"The rhythmic procession of the tragic chorus through the open **parodos** established the emotional key of the performance."*

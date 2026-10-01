@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek speir.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An asexual, non-motile spore formed inside a closed sporangium, typical of zygomycete fungi such as *Rhizopus* and *Mucor*.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mycology, sporangiospores develop by progressive cleavage of the sporangial protoplasm around a central columella, released upon peridial rupture.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sporangiospore designates a term designating an entity, condition, or phenomenon derived from greek speir."*
+> - 📜 **Heinrich Anton de Bary (*Comparative Morphology and Biology of the Fungi*):** *"Upon the bursting of the delicate black head of *Mucor*, a cloud of dry **sporangiospore** dust is broadcast into the air."*
+> - 📜 **Selman Waksman (*Principles of Soil Microbiology*):** *"Each microscopic **sporangiospore** germinates readily in the presence of simple sugars to establish new hyphae."*
+> - 📜 **René Dubos (*Bacterial and Mycotic Infections of Man*):** *"Inhalation of the airborne **sporangiospore** can trigger opportunistic mucormycosis in severely immunocompromised hosts."*

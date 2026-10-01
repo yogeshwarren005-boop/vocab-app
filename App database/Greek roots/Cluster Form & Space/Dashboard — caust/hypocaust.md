@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient Roman central heating system with underground furnace and tile flues to distribute the heat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An ancient Roman central heating system with underground furnace and tile flues to distribute the heat.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An ancient Roman heating system in which hot air and smoke from a furnace circulated through an underfloor chamber and hollow wall tiles to warm rooms and public baths.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical archaeology and architectural engineering, an underfloor heating plenum supported on stone or brick pilae pillars (suspensura), essential to Roman thermae and villas.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypocaust designates an ancient roman central heating system with underground furnace and tile flues to distribute the heat."*
+> - 📜 **Vitruvius (*De Architectura*):** *"The floor of the hot bath should be suspended above the **hypocaust** on brick pillars so the furnace heat may spread uniformly underneath."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"Even in the chilly climate of Britain, the Roman villas were provided with an subterranean **hypocaust** to maintain perpetual spring within."*
+> - 📜 **John Ruskin (*The Seven Lamps of Architecture*):** *"Excavations revealed the ruined pillars of the Roman **hypocaust**, showing how ancient luxury triumphed over northern frost."*

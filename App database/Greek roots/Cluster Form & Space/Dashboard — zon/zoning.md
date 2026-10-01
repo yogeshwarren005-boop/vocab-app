@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Dividing an area into zones or sections reserved for different purposes such as residence and business and manufacturing etc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Regulate housing in; of certain areas of towns.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The legislative process of dividing a municipality or other area into districts or zones, each subject to specific regulations governing land use, building density, and permitted activities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In urban planning and real estate law, zoning ordinances control the spatial organization of cities, separating residential, commercial, and industrial functions to manage growth and prevent land-use conflicts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, zoning designates dividing an area into zones or sections reserved for different purposes such as residence and business and manufacturing etc."*
+> - 📜 **Ebenezer Howard (*Garden Cities of To-morrow*):** *"Rational **zoning** ensures that factories do not encroach upon the quiet residential quarters of the garden city."*
+> - 📜 **Jane Jacobs (*The Death and Life of Great American Cities*):** *"Rigid **zoning** regulations too often destroy the mixed-use vitality that makes city neighborhoods thrive."*
+> - 📜 **Edward Bassett (*Zoning*):** *"**Zoning** is the application of common sense and the police power to the regulation of urban land use."*

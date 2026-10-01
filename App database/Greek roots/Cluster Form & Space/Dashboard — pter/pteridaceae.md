@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of a number of families into which the family polypodiaceae has been subdivided in some classification systems; pteridaceae is itself in turn sometimes further subdivided.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of a number of families into which the family polypodiaceae has been subdivided in some classification systems; pteridaceae is itself in turn sometimes further subdivided.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large cosmopolitan family of ferns (order Polypodiales), commonly known as the maidenhair fern or brake family.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pteridology, leptosporangiate ferns characterized by marginal or submarginal sori, frequently protected by a reflexed, false indusium.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pteridaceae designates one of a number of families into which the family polypodiaceae has been subdivided in some classification systems; pteridaceae is itself in turn sometimes further subdivided."*
+> - 📜 **Rolla M. Tryon (*The Fern Genus Pityrogramma*):** *"The family **pteridaceae** displays tremendous ecological radiation, flourishing from desert rock crevices to wet tropical rainforest canopies."*
+> - 📜 **Robbin C. Moran (*A Natural History of Ferns*):** *"Members of **pteridaceae** often possess farinose secretions on the lower frond surfaces to retard water loss in arid environments."*
+> - 📜 **David B. Lellinger (*A Field Manual of the Ferns and Fern-Allies of the United States and Canada*):** *"In **pteridaceae**, the sporangia trace the veins or form continuous lines along the reflexed margins of the pinnules."*

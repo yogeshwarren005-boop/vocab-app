@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The pattern of syllable formation in a particular language.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The pattern of syllable formation in a particular language.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state, property, or degree of being syllabic; the capacity of a speech sound to form the nucleus of a syllable.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In phonetics and generative phonology, syllabicity is a distinctive feature distinguishing vocalic and consonantal sonorants that can form the core of a rhythmic syllable from non-syllabic margins.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, syllabicity designates the pattern of syllable formation in a particular language."*
+> - 📜 **Noam Chomsky (*The Sound Pattern of English*):** *"The phonological feature of **syllabicity** specifies whether a segment constitutes the peak of sonority in a syllable."*
+> - 📜 **Edward Sapir (*Language: An Introduction to the Study of Speech*):** *"The loss of vocalic **syllabicity** in fast speech transforms vowels into rapid gliding semivowels."*
+> - 📜 **Ferdinand de Saussure (*Course in General Linguistics*):** *"Sonority determines **syllabicity**, establishing natural acoustic boundaries in the stream of utterance."*

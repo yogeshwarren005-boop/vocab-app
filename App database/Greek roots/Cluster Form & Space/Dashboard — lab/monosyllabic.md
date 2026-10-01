@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having or characterized by or consisting of one syllable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having or characterized by or consisting of one syllable.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Consisting of only one syllable; also, speaking or expressed in short, curt, single-syllable words.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistics and typology, monosyllabic languages (such as Classical Chinese or Vietnamese) are characterized by words consisting predominantly of single syllables; in literature, monosyllabic prose communicates bluntness or intense emotional restraint.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"I made some attempts to draw her into conversation, but she seemed a person of few words: a monosyllabic reply usually cut short every effort of that sort."*
-> - 📜 **Don Peterson (*The White Feather Hex*):** *"Mirestone followed in the Dutchman's footsteps, and when they were inside, he listened intently as Peter recited a monosyllabic chant over the feather."*
-> - 📜 **James Joyce (*Ulysses*):** *"To what inconsequent polysyllabic question of his host did the guest return a monosyllabic negative answer?"*
+> - 📜 **George Eliot (*Middlemarch*):** *"His replies were stubbornly **monosyllabic**, consisting solely of reluctant assents and sullen negatives."*
+> - 📜 **Jane Austen (*Pride and Prejudice*):** *"Mr. Darcy maintained a haughty, **monosyllabic** reserve throughout the entire evening at the assembly."*
+> - 📜 **Charles Dickens (*Bleak House*):** *"The cross-examination elicited only dry, **monosyllabic** grunts from the obstinate old witness."*

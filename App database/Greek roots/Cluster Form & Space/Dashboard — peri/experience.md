@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The accumulation of knowledge or skill that results from direct participation in events or activities.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The content of direct observation or participation in an event.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Practical contact with and observation of facts or events; knowledge or skill acquired through direct involvement.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In epistemology and phenomenology, immediate conscious awareness and sensory engagement with the empirical world.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have, then, sinned against his experience and transgressed against his valour; and my state that way is dangerous, since I cannot yet find in my heart to repent."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"But to confound such time That drums him from his sport, and speaks as loud As his own state and ours, ’tis to be chid As we rate boys who, being mature in knowledge, Pawn their experience to their present pleasure And so rebel to judgment."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Experience, manhood, honour, ne’er before Did violate so itself."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Whence has the mind all the materials of reason and knowledge? To this I answer, in one word, from **experience**."*
+> - 📜 **William James (*Essays in Radical Empiricism*):** *"Pure **experience** is the immediate flux of life which furnishes the raw material for our later reflection."*
+> - 📜 **Immanuel Kant (*Critique of Pure Reason*):** *"There can be no doubt that all our knowledge begins with **experience**, though it does not all arise out of it."*

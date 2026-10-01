@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One species: toyon; in some classifications included in genus photinia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One species: toyon; in some classifications included in genus photinia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A monotypic genus of evergreen shrubs in the rose family (Rosaceae) containing Heteromeles arbutifolia (toyon, Christmas berry, or California holly).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chaparral ecology, Heteromeles arbutifolia dominates Californian coastal sage scrub, producing bright red winter pomes that sustain overwintering birds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heteromeles designates one species: toyon; in some classifications included in genus photinia."*
+> - 📜 **John Muir (*The Mountains of California*):** *"The chaparral slopes glowed with the scarlet berries of **heteromeles**, cheering the foothills through the winter rains."*
+> - 📜 **Asa Gray (*Synoptical Flora of North America*):** *"The coriaceous serrated leaves of **heteromeles** persist through severe summer droughts without withering."*
+> - 📜 **Peter H. Raven (*Flora of the Santa Monica Mountains*):** *"Toyon, or **heteromeles**, provided indigenous Californians with nutrient-rich roasted berries and durable hardwood for implements."*

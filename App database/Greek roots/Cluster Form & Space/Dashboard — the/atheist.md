@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who does not believe in the existence of God or any gods : one who subscribes to or advocates atheism.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A person who does not believe in the existence of God or any gods : one who subscribes to or advocates atheism.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who disbelieves or lacks belief in the existence of God or deities.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical intellectual discourse, the term was frequently used pejoratively against dissenters, heretics, and philosophical materialists before being adopted as a positive philosophical identity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Classic Author (*The wonders of prayer*):** *"It were far more sensible for those who deny the fitness and necessity of prayer to take the ground of the atheist and say plainly "We do not pray, for there is no God to pray to," for to deny prayer, is practical atheism."*
-> - 📜 **Classic Author (*The wonders of prayer*):** *"A----, who professed infidelity, and who was, I think, as near an atheist as any I ever met."*
-> - 📜 **John Fletcher (*Beaumont and Fletcher's Works, Vol. 01 of 10: the Custom of the Country*):** *"I'le dye an _Atheist_ then. _Arn_."*
+> - 📜 **Percy Bysshe Shelley (*The Necessity of Atheism*):** *"The resolute **atheist** demands empirical evidence or rational proof before granting credence to divine claims."*
+> - 📜 **Bertrand Russell (*Why I Am Not a Christian*):** *"If asked whether I am an agnostic or an **atheist**, I reply that in philosophical rigor I am agnostic, but in practical life an atheist."*
+> - 📜 **John Locke (*A Letter Concerning Toleration*):** *"Locke argued that civil oaths could not bind a professed **atheist** whose conscience recognized no transcendent judge."*

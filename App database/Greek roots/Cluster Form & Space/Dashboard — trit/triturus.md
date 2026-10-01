@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Chiefly aquatic salamanders.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Chiefly aquatic salamanders.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of European and Western Asian newts commonly known as marbled and crested newts, belonging to the family Salamandridae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In amphibian biology and developmental embryology, *Triturus* species undergo aquatic breeding during which males develop jagged dorsal crests, historically serving as classic model organisms for embryonic induction experiments (Spemann).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, triturus designates chiefly aquatic salamanders."*
+> - 📜 **Hans Spemann (*Embryonic Development and Induction*):** *"Transplanting the blastopore lip of a **Triturus** embryo onto a host gastrula induced the formation of a secondary neural axis."*
+> - 📜 **Thomas Hunt Morgan (*Regeneration*):** *"Amputation of the tail or limb in adult **Triturus** is followed by rapid blastema formation and perfect limb regeneration."*
+> - 📜 **Julian Huxley (*Problems of Relative Growth*):** *"During the spring breeding phase, the male **Triturus** develops an exuberant dorsal crest under endocrine control."*

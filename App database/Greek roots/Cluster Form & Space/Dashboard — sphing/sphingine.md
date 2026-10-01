@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling a sphinx.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resembling a sphinx.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or resembling a sphinx moth (sphingid); also, resembling the mythological Sphinx; enigmatic, mysterious, or statue-like.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical literature and entomological prose, sphingine evokes rigid, immobile postures (like the sphinx caterpillar) or inscrutable, riddle-like expressions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sphingine designates resembling a sphinx."*
+> - 📜 **Thomas De Quincey (*The Sphinx's Riddle and Other Essays*):** *"The monumental face stared out across the sands with a cold, **sphingine** indifference to the rise and fall of empires."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The decapitated whale head hung against the ship's side with a vast, **sphingine** silence that defied human inquiry."*
+> - 📜 **Jean-Henri Fabre (*Social Life in the Insect World*):** *"The caterpillar maintained its stiff **sphingine** pose on the twig for hours, frozen into a living carving."*

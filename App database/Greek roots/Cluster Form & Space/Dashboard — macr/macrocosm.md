@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The great world : universe.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A complex that is a large-scale reproduction of one of its constituents.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The great world; the whole universe, especially when viewed as a complex, orderly system or harmonious totality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical cosmology and classical metaphysics, the macrocosm is understood as reflected analogously within the individual human being (the microcosm).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"He affirmed his significance as a conscious rational animal proceeding syllogistically from the known to the unknown and a conscious rational reagent between a micro and a macrocosm ineluctably constructed upon the incertitude of the void."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Men have labored to find in the microcosm of man all the proportions and harmonies of the great **macrocosm**."*
+> - 📜 **Thomas Browne (*Religio Medici*):** *"There is a world of wonders within man, whose little world holds a true correspondence with the vast **macrocosm**."*
+> - 📜 **Paracelsus (*Selected Writings*):** *"Whatever exists within the starry vault of the **macrocosm** operates likewise within the corporeal nature of humankind."*

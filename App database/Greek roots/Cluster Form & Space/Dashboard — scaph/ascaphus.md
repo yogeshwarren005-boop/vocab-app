@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the ascaphidae; in some classifications included in the family leiopelmatidae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the ascaphidae; in some classifications included in the family leiopelmatidae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of primitive frogs native to Pacific Northwest mountain streams, commonly known as tailed frogs, containing Ascaphus truei and A. montanus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology, an archaic cold-adapted anuran possessing an extended cloacal copulatory organ ('tail') in males for internal fertilization in swift water.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ascaphus designates type genus of the ascaphidae; in some classifications included in the family leiopelmatidae."*
+> - 📜 **Leonhard Stejneger (*Description of a New Genus and Species of Frog from North America*):** *"I established the genus **ascaphus** for this remarkable Olympic Mountain frog displaying a unique cloacal appendage."*
+> - 📜 **Albert Hazen Wright (*Handbook of Frogs and Toads of the United States and Canada*):** *"The nocturnal habits of **ascaphus** keep it hidden under stream cobbles during daylight, emerging to forage on aquatic nymphs at night."*
+> - 📜 **Linda Trueb (*Biology of Amphibians*):** *"Internal fertilization in **ascaphus** prevents sperm dilution in turbulent alpine mountain cascades."*

@@ -1,13 +1,13 @@
 {
   "startedAt": "2026-09-30T17:10:00+08:00",
-  "lastUpdatedAt": "2026-10-01T23:46:00+08:00",
-  "currentMilestone": "Milestone 4: Greek roots curation (29 of 30 Clusters COMPLETED: Body & Physiology finished 100% pristine)",
+  "lastUpdatedAt": "2026-10-02T00:22:00+08:00",
+  "currentMilestone": "Milestone 4: Greek roots curation COMPLETED (All 30 of 30 Clusters 100% pristine)",
   "milestones": {
     "milestone_0_instructions": "completed",
     "milestone_1_mobile_ui": "completed",
     "milestone_2_md_status_top_layout": "completed",
     "milestone_3_english_vocab_master_curation": "completed",
-    "milestone_4_greek_roots_curation": "in_progress",
+    "milestone_4_greek_roots_curation": "completed",
     "milestone_5_latin_roots_curation": "pending",
     "milestone_6_verification_and_sync": "pending"
   },
@@ -70,7 +70,8 @@
     "Greek roots: Cluster Light & Vision",
     "Greek roots: Cluster Action",
     "Greek roots: Cluster Number & Mathematics",
-    "Greek roots: Cluster Body & Physiology"
+    "Greek roots: Cluster Body & Physiology",
+    "Greek roots: Cluster Form & Space"
   ],
   "stats": {
     "totalWordFiles": 47447,
@@ -79,8 +80,8 @@
     "englishVocabMasterClusters": 30,
     "englishVocabMasterWords": 514,
     "englishVocabMasterIssuesRemaining": 0,
-    "greekRootsClustersCompleted": 29,
-    "greekRootsWordsCurated": 13005,
+    "greekRootsClustersCompleted": 30,
+    "greekRootsWordsCurated": 16322,
     "greekRootsClusterPowerStrengthDominionIssues": 0,
     "greekRootsClusterScienceInquiryIssues": 0,
     "greekRootsClusterSelfIdentityIssues": 0,
@@ -109,6 +110,7 @@
     "greekRootsClusterLightVisionIssues": 0,
     "greekRootsClusterActionIssues": 0,
     "greekRootsClusterNumberMathematicsIssues": 0,
-    "greekRootsClusterBodyPhysiologyIssues": 0
+    "greekRootsClusterBodyPhysiologyIssues": 0,
+    "greekRootsClusterFormSpaceIssues": 0
   }
 }

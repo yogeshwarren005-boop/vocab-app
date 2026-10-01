@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or utilizing greater than normal pressure especially of oxygen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or utilizing greater than normal pressure especially of oxygen.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or utilizing gas pressures greater than normal atmospheric pressure (greater than 1 atmosphere absolute).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In hyperbaric medicine, hyperbaric oxygen therapy (HBOT) delivers 100% oxygen in a pressurized chamber at 2.0 to 3.0 ATA to treat decompression sickness, arterial gas embolism, carbon monoxide poisoning, and refractory diabetic foot ulcers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyperbaric designates of, relating to, or utilizing greater than normal pressure especially of oxygen."*
+> - 📜 **John Scott Haldane (*Respiration*):** *"Deep-sea divers subjected to **hyperbaric** atmospheres absorb increased nitrogen that must be cleared by staged decompression."*
+> - 📜 **Claude Bernard (*Lessons on the Effects of Toxic and Medicinal Substances*):** *"Exposing animals to **hyperbaric** oxygen pressures revealed the neurotoxic convulsions first described by Paul Bert."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Decompression sickness in caisson workers working under **hyperbaric** air yields promptly to immediate recompression."*

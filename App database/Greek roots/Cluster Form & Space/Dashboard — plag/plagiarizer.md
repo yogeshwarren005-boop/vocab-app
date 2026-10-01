@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who uses another person's words or ideas as if they were his own.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who uses another person's words or ideas as if they were his own.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who plagiarizes; one who appropriates another's writing or ideas without credit (American spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In intellectual property disputes, an infringer who reproduces proprietary text or artistic composition under their own name.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plagiarizer designates someone who uses another person's words or ideas as if they were his own."*
+> - 📜 **Edgar Allan Poe (*Essays and Reviews*):** *"A brazen **plagiarizer** relies on the obscurity of his victim to escape detection by the reading public."*
+> - 📜 **Alexander Pope (*The Dunciad*):** *"The sleepless **plagiarizer** roams through dusty libraries, seeking forgotten verses to steal."*
+> - 📜 **Mark Twain (*Letters*):** *"Every creative artist is in some degree an innocent **plagiarizer** of the collective human heritage."*

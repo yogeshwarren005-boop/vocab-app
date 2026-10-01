@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Australian trees (usually with swollen trunks).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Australian trees (usually with swollen trunks).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of flowering trees and shrubs in the mallow family Malvaceae, native to Australia, commonly known as kurrajongs or bottle trees.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical ecology and horticulture, succulent or drought-tolerant trees (such as Brachychiton rupestris) with swollen, water-storing trunks and scarlet bell-shaped flowers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, brachychiton designates australian trees (usually with swollen trunks)."*
+> - 📜 **Alfred Russel Wallace (*The Geographical Distribution of Animals*):** *"The swollen trunk of the Australian bottle-tree, **Brachychiton**, stores water to withstand severe arid droughts of the interior."*
+> - 📜 **Asa Gray (*Scientific Papers of Asa Gray*):** *"Species of **Brachychiton** showcase remarkable floral diversity, their calyces brightly colored in lieu of true petals."*
+> - 📜 **John Lindley (*The Vegetable Kingdom*):** *"The inner bark of **Brachychiton** yields tough fibers used by Australian aborigines for crafting strong nets and cordage."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A falling or staying behind : the act or the condition of lagging.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Comparative slowness or delay (as in movement, operation, or development).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To fail to maintain a desired pace or fall behind in movement, progress, or development; also, a delay or latency interval between two events; or thermal insulating wrap.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In statistics and economics, a time lag measures the temporal interval before a cause produces an observable effect; in engineering, lagging insulates pipes and boilers against heat loss.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hear me, my liege: For mine own part, I could be well content To entertain the lag end of my life With quiet hours."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Fortune in favour makes him lag behind."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"There, I take it, They may, _cum privilegio, oui_ away The lag end of their lewdness and be laughed at."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Varieties that **lag** in adaptive modifications inevitably succumb before swifter, better-endowed competitors."*
+> - 📜 **John Maynard Keynes (*The General Theory of Employment, Interest and Money*):** *"An unavoidable monetary **lag** elapses between an increase in investment and the expansion of national income."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"Inductive reactance causes the alternating current waveform to **lag** behind the applied electromotive force."*

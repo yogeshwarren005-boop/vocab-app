@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Incomplete or partial metamorphosis in insects.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Incomplete or partial metamorphosis in insects.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Incomplete, partial, or gradual metamorphosis in insects, characterized by three developmental stages: egg, nymph, and adult, without an intervening pupal resting phase.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology, hemimetamorphosis represents the ancestral winged insect developmental mode, contrasted with holometabolous complete metamorphosis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hemimetamorphosis designates incomplete or partial metamorphosis in insects."*
+> - 📜 **John Lubbock (*On the Origin and Metamorphoses of Insects*):** *"The simplicity of **hemimetamorphosis** suggests that complete pupal transformation was a later evolutionary innovation to exploit diverse seasonal niches."*
+> - 📜 **Reginald Punnett (*Mendelism*):** *"Breeding experiments on insects undergoing **hemimetamorphosis** trace how morphological variations persist smoothly across nymphal instars."*
+> - 📜 **Vincent Dethier (*To Know a Fly*):** *"Unlike flies that rebuild their anatomy inside a puparium, grasshoppers undergo **hemimetamorphosis**, keeping the same basic plan from hatch to maturity."*

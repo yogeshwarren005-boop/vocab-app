@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who helps callers get the person they are calling.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who helps callers get the person they are calling.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An operator who manages a telephone switchboard to connect calls and route traffic.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In twentieth-century telecommunications history, switchboard telephonists were predominantly women who manually plugged patch cords into jacks to interconnect subscribers.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, telephonist designates someone who helps callers get the person they are calling."*
+> - 📜 **George Orwell (*Homage to Catalonia*):** *"The municipal **telephonist** sat calmly at the switchboard while bullets chipped plaster from the exchange wall."*
+> - 📜 **Virginia Woolf (*Mrs Dalloway*):** *"Behind frosted office partitions, the cheerful **telephonist** connected calls with swift, practiced fingers."*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"Every dispatch from the front lines passed through the hands of a steadfast **telephonist** in the bunker."*

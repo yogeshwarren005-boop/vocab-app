@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Round, fat, and heavy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Round, fat, and heavy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The somatotypic condition, property, or degree of being soft, rounded, and having a predominance of digestive viscera and subcutaneous adiposity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In anthropometric somatotyping (Heath-Carter system), endomorphy is the first component rating, calculated from triceps, subscapular, and supraspinale skinfold thicknesses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, endomorphy designates round, fat, and heavy."*
+> - 📜 **William H. Sheldon (*Atlas of Men*):** *"A high rating in **endomorphy** reflects the structural dominance of the digestive organs derived from the embryonic endoderm."*
+> - 📜 **J. M. Tanner (*Growth at Adolescence*):** *"During puberty, females typically exhibit an increase in **endomorphy**, depositing subcutaneous fat across pelvic and femoral regions."*
+> - 📜 **Barbara Heath (*Somatotyping: Development and Applications*):** *"In our anthropometric formulation, **endomorphy** is derived objectively from calibrated skinfold caliper measurements."*

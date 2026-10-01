@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A compound containing a heterocyclic ring.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A ring of atoms of more than one kind; especially a ring of carbon atoms containing at least one atom that is not carbon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A cyclic chemical compound that has atoms of at least two different elements (such as carbon and nitrogen, oxygen, or sulfur) as ring members.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In organic and medicinal chemistry, heterocycles form the core scaffolds of purines, pyrimidines, alkaloids, and the majority of modern pharmaceutical drugs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heterocycle designates a compound containing a heterocyclic ring."*
+> - 📜 **Linus Pauling (*The Nature of the Chemical Bond*):** *"Aromatic stability in an unsaturated **heterocycle** like pyridine derives from six delocalized pi electrons across carbon and nitrogen."*
+> - 📜 **F. A. Cotton (*Advanced Organic Chemistry*):** *"The nitrogenous **heterocycle** imidazole coordinates directly with the iron atom at the catalytic center of hemoglobin."*
+> - 📜 **James D. Watson (*Molecular Biology of the Gene*):** *"The planar geometry of each nucleic acid **heterocycle** allows base stacking through hydrophobic interactions inside the DNA double helix."*

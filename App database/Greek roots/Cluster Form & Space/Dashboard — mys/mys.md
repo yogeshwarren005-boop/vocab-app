@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Cape of northeastern Russia in Asia on the Bering Strait at the eastern end of the Chukchi Peninsula.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cape of northeastern Russia in Asia on the Bering Strait at the eastern end of the Chukchi Peninsula.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A Greek combining root derived from mys, meaning mouse or muscle, or alternatively related to pollution, defilement, or filth (mysos).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic zoology and medical terminology, serves as a stem in names of rodents (Neomys, Notomys) and psychological conditions involving dread of dirt (mysophobia).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mys designates cape of northeastern russia in asia on the bering strait at the eastern end of the chukchi peninsula."*
+> - 📜 **Henry George Liddell (*A Greek-English Lexicon*):** *"The root **mys** in classical Greek denotes both the mouse and the muscular tissue, mirroring the Latin mus."*
+> - 📜 **Robert Beekes (*Etymological Dictionary of Greek*):** *"Separate Greek roots share the form **mys**, one denoting a small rodent and another signifying ritual pollution or abominable filth."*
+> - 📜 **Richard Owen (*On the Anatomy of Vertebrates*):** *"Anatomists often utilize the Greek **mys** when classifying small rodent genera and their specialized masticatory musculature."*

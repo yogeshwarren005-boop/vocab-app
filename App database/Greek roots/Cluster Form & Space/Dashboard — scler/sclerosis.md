@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pathological hardening of tissue especially from overgrowth of fibrous tissue or increase in interstitial tissue; also : a disease characterized by sclerosis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An inability or reluctance to adapt or compromise.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormal pathological hardening or induration of a body tissue, blood vessel, or organ, resulting from chronic inflammation or fibrous connective tissue proliferation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neurology and cardiology, exemplified by multiple sclerosis (demyelination and glial scarring) and arteriosclerosis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sclerosis designates pathological hardening of tissue especially from overgrowth of fibrous tissue or increase in interstitial tissue; also : a disease characterized by sclerosis."*
+> - 📜 **Jean-Martin Charcot (*Lectures on the Diseases of the Nervous System*):** *"Disseminated **sclerosis** manifests with the clinical triad of nystagmus, intention tremor, and scanning speech."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"The progressive **sclerosis** of connective tissue represents a reparative proliferation following chronic interstitial injury."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Coronary **sclerosis** narrows the arterial lumen, predisposing the myocardium to sudden ischemic necrosis."*

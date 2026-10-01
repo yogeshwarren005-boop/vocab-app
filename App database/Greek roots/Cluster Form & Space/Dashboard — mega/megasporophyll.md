@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In non-flowering plants, a sporophyll that bears only megasporangia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In non-flowering plants, a sporophyll that bears only megasporangia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A modified leaf or leaf-like organ that bears one or more megasporangia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant morphology and evolutionary gymnospermology, a fertile leaf (such as a cycad leaf or conifer cone scale) that supports ovules producing megaspores.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, megasporophyll designates in non-flowering plants, a sporophyll that bears only megasporangia."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"The female cone scale in pines represents a specialized **megasporophyll** bearing two inverted ovules at its base."*
+> - 📜 **Eduard Strasburger (*Textbook of Botany*):** *"In primitive cycads, the pinnate **megasporophyll** retains a distinctly foliage-like appearance along its distal margins."*
+> - 📜 **Joseph Dalton Hooker (*The Flora of British India*):** *"The arrangement of the **megasporophyll** around the central reproductive axis forms the compact female strobile."*

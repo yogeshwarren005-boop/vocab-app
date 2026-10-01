@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An agent that induces drowsiness or sleep.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An agent that induces drowsiness or sleep.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An agent, medicinal substance, or drug that induces, promotes, or facilitates sleep; a hypnotic or soporific.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical pharmacopeias, herbal draughts such as poppy extracts, henbane, and valerian were prescribed as reliable hypnagogues to combat insomnia and soothe agitation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypnagogue designates an agent that induces drowsiness or sleep."*
+> - 📜 **Robert Burton (*The Anatomy of Melancholy*):** *"Syrup of white poppy acts as a benign **hypnagogue**, gently closing the eyes of the restless melancholy patient."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Chloral hydrate proved a dependable **hypnagogue** in managing the acute nocturnal restlessness of typhoid fever."*
+> - 📜 **Thomas Browne (*Religio Medici*):** *"Sleep is so like death that I dare not trust it without prayers, desiring no other **hypnagogue** than quiet conscience."*

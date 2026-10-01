@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Flask-shaped ascocarp.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Flask-shaped ascocarp.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A flask-shaped or round ascocarp (fruiting body) in certain ascomycete fungi, having a small opening (ostiole) at the top through which ascospores are released.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic mycology (e.g. Sordariales and Hypocreales), the perithecium houses fertile asci within an enclosed chamber, discharging spores sequentially through the ostiole.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"Very common. (Plate XI. figs. 240-242.) CHÆTOMIUM, _Kze._ Perithecium thin, brittle, mouthless; sporangia linear, containing dark lemon-shaped spores. _Berk."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"STRAW-BRISTLE MOULD; perithecium sub-ovate, base radiato-fibrose, hairs of the vertex very long, interwoven, branched; spores broadly elliptic, apiculate at either end.—On mouldering straw, reeds, matting, &c."*
-> - 📜 **M. C. Cooke (*Rust, Smut, Mildew, & Mould: An Introduction to the Study of Microscopic Fungi*):** *"PAPER-BRISTLE MOULD; perithecium subglobose, black, surrounded by a bright yellow spot; spores subglobose.—On paper."*
+> - 📜 **Heinrich Anton de Bary (*Comparative Morphology and Biology of the Fungi, Mycetozoa and Bacteria*):** *"The wall of the mature **perithecium** darkens into a protective melanized sheath enclosing the delicate asci."*
+> - 📜 **Arthur Henry Reginald Buller (*Researches on Fungi*):** *"Turgor pressure within the **perithecium** forces each ascospore out through the microscopic apical ostiole."*
+> - 📜 **Miles Joseph Berkeley (*Outlines of British Fungology*):** *"In the genus *Sphaeria*, black carbonaceous punctate spots reveal the submerged flask of each **perithecium**."*

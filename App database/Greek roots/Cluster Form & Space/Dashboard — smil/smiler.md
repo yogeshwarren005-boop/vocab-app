@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who smiles.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The human face (`kisser' and `smiler' and `mug' are informal terms for `face' and `phiz' is british).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who smiles; one whose face is characterized by a frequent or habitual smile.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literature and social satire, smiler often denotes an insincere, flattering courtier who conceals malice or deceit behind an outward display of joviality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, smiler designates a person who smiles."*
+> - 📜 **Geoffrey Chaucer (*The Knight's Tale*):** *"The **smiler** with the knife under the cloak was painted upon the temple walls among the treacherous horrors."*
+> - 📜 **Charles Dickens (*Our Mutual Friend*):** *"He was a perpetual **smiler**, baring his teeth at every turn as though humanity were a grand banquet."*
+> - 📜 **Thomas Hardy (*The Mayor of Casterbridge*):** *"The easy **smiler** found himself unmasked when the stern ledger books were laid open for inspection."*

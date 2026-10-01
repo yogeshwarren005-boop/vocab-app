@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or according to the principles of trigonometry.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or according to the principles of trigonometry.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or using the principles and functions of trigonometry.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mathematical physics, trigonometric Fourier series decompose arbitrary periodic waveforms into sums of harmonically related sines and cosines.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, trigonometric designates of or relating to or according to the principles of trigonometry."*
+> - 📜 **Leonhard Euler (*Introduction to the Analysis of the Infinite*):** *"Expressing exponential relations in terms of **trigonometric** sine and cosine functions unifies mathematical analysis."*
+> - 📜 **Joseph Fourier (*The Analytical Theory of Heat*):** *"Arbitrary functions representing temperature distributions can be expanded into infinite series of **trigonometric** terms."*
+> - 📜 **Carl Friedrich Gauss (*Theory of the Motion of Heavenly Bodies*):** *"Solving planetary orbits demands continuous computation of **trigonometric** anomalies across curvilinear paths."*

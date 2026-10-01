@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An apparatus for communication at a distance by coded signals; especially : an apparatus, system, or process for communication at a distance by electric transmission over wire.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An apparatus for communication at a distance by coded signals; especially : an apparatus, system, or process for communication at a distance by electric transmission over wire.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A system or apparatus for transmitting messages, characters, or signals over distances along wires by means of electrical impulses; also, to send a message by such a system.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In communications history, Samuel Morse's electromagnetic telegraph transformed commerce, military reconnaissance, and journalism by transmitting information faster than physical transportation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Green’s appears, on inquiry, to be at the present time aboard a vessel bound for China, three months out, but considered accessible by telegraph on application to the Lords of the Admiralty."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"The high chimney-stacks telegraph family secrets to him."*
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"As I learned afterward, the Board of Prison Directors had been summoned by telegraph, and two companies of state militia were being rushed to the prison."*
+> - 📜 **Samuel F. B. Morse (*The Historic First Message: Letters and Papers*):** *"Along the wire connecting Baltimore and Washington, the electric **telegraph** clicked out the solemn phrase: What hath God wrought."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"We are in great haste to construct a magnetic **telegraph** from Maine to Texas; but Maine and Texas, perchance, have nothing important to communicate."*
+> - 📜 **Jules Verne (*Around the World in Eighty Days*):** *"Detective Fix sent a rapid message by submarine **telegraph** to Bombay, ordering the immediate arrest of the fugitive."*

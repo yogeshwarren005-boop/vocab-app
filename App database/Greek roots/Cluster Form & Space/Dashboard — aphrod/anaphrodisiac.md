@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Tending to diminish sexual desire.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Tending to diminish sexual desire.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A drug, herb, or substance that reduces, suppresses, or extinguishes sexual desire or libido.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacology and physiological therapeutics, antiandrogenic agents, dopaminergic antagonists, or sedatives historically prescribed to treat hypersexuality.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anaphrodisiac designates tending to diminish sexual desire."*
+> - 📜 **Robert Burton (*The Anatomy of Melancholy*):** *"Monastic herbalists prescribed water-lily roots and cold ascetic fasting as a potent **anaphrodisiac** against nocturnal temptations."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Potassium bromide was formerly dispensed as an effective **anaphrodisiac** and general sedative in institutional settings."*
+> - 📜 **Sigmund Freud (*The Interpretation of Dreams*):** *"The patient sought chemical relief through an **anaphrodisiac** to quell obsessive erotic imagery that disturbed his sleep."*

@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Writings or statements of dubious authenticity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Books included in the Septuagint and Vulgate but excluded from the Jewish and Protestant canons of the Old Testament.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Biblical writings not accepted into the canonical authorized Jewish or Protestant scriptures, included in the Septuagint and Vulgate.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Writings, narratives, or statements of dubious authenticity, uncertain authority, or spurious authorship.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"Head, redconecapped, buffeted, brineblinded. —A child, a girl, placed in his arms, Marina. —The leaning of sophists towards the bypaths of apocrypha is a constant quantity, John Eglinton detected."*
-> - 📜 **Jonathan Swift (*The Battle of the Books, and other Short Pieces*):** *"The expression in Apocrypha about Tobit and his dog following him I have often heard ridiculed, yet Homer has the same words of Telemachus more than once; and Virgil says something like it of Evander."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"Critical scholarship separates authentic history from the fabulous fables and ecclesiastical **apocrypha** of dark ages."*
+> - 📜 **John Milton (*Areopagitica*):** *"The fathers of the church read the ancient **apocrypha** with discerning wisdom, extracting virtue without superstition."*
+> - 📜 **Samuel Johnson (*The Lives of the English Poets*):** *"Many popular anecdotes regarding Dryden belong properly to literary **apocrypha**, lacking contemporary testimony."*

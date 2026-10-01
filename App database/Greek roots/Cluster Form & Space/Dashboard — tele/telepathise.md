@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Communicate nonverbally by telepathy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Communicate nonverbally by telepathy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To communicate thoughts, feelings, or impressions by telepathy; British/Commonwealth spelling of telepathize.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In speculative literature and parapsychological studies, to telepathise is to transmit mental messages directly without vocalization or physical gestures.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, telepathise designates communicate nonverbally by telepathy."*
+> - 📜 **Arthur Conan Doyle (*The Edge of the Unknown*):** *"He claimed he could **telepathise** with his distant colleague, receiving clear impressions of thoughts and emotional crises."*
+> - 📜 **H. G. Wells (*The World of William Clissold*):** *"If human beings could genuinely **telepathise**, drawing-room hypocrisies would dissolve in an afternoon."*
+> - 📜 **George Bernard Shaw (*Back to Methuselah*):** *"The Ancients no longer chatter with lips; they **telepathise** their austere philosophical meditations across the hills."*

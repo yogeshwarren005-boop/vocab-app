@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek asc.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A pitcher-shaped, hollow, modified leaf or tubular organ found in carnivorous plants, designed to trap and digest insects.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botano-morphology, the fluid-filled foliar receptacle characteristic of Sarraceniaceae and Nepenthaceae equipped with slippery waxy zones and digestive enzymes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ascidium designates a term designating an entity, condition, or phenomenon derived from greek asc."*
+> - 📜 **Charles Darwin (*Insectivorous Plants*):** *"The hollow **ascidium** of Nepenthes secretes a clear digestive fluid that rapidly dissolves insects sliding down its glandular neck."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"In Sarracenia, each trumpet-shaped leaf represents a modified **ascidium** with downward-pointing hairs that bar escape."*
+> - 📜 **John Lindley (*An Introduction to Botany*):** *"The pitcher or **ascidium** illustrates an extraordinary metamorphosis of the petiole and leaf blade into a protective trap."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of that which excites.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of that which excites.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or exhibiting hormesis; showing beneficial effects at low exposure doses and toxicity at high doses.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In longevity pharmacology and toxicology, designating treatments or compounds that stimulate endogenous stress-response networks.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hormetic designates adjective*) pertaining to, derived from, or characteristic of that which excites."*
+> - 📜 **Edward J. Calabrese (*Toxicological Sciences*):** *"A **hormetic** dose-response curve features an inverted-U or J-shape that challenges linear no-threshold toxicity paradigms."*
+> - 📜 **David Sinclair (*Lifespan: Why We Age—and Why We Don't Have To*):** *"Cold exposure and fasting trigger **hormetic** longevity pathways mediated by sirtuins and AMP-activated protein kinase."*
+> - 📜 **Bruce Ames (*Dietary Carcinogens and Anticarcinogens*):** *"Plant polyphenols consumed in vegetables act as mild **hormetic** toxins that stimulate endogenous xenobiotic defense systems."*

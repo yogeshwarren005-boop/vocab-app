@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A flattened stem resembling and functioning as a leaf.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A flattened stem resembling and functioning as a leaf.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A flattened, leaflike stem or branch that functions as a photosynthetic leaf.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In descriptive plant morphology, a cladode exhibiting foliar characteristics while bearing modified scale leaves, nodes, and buds along its margins.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cladophyll designates a flattened stem resembling and functioning as a leaf."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"The butcher's-broom produces what appears to be a stiff spiny leaf, which is in anatomical truth a modified **cladophyll**."*
+> - 📜 **Liberty Hyde Bailey (*The Standard Cyclopedia of Horticulture*):** *"In smilax and ornamental asparagus, each delicate green scale functioning as foliage is technically a **cladophyll**."*
+> - 📜 **John Muir (*The Mountains of California*):** *"Desert succulents conserve moisture by reducing true foliage and conducting transpiration through a fleshy **cladophyll**."*

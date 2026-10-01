@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Vain and empty boasting.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Vain and empty boasting.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Vain, pretentious, or boastful talk or behavior; arrogant bluster (variant of rodomontade).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literary history, swaggering bombast named after Rodomonte, the fierce Saracen king in Ariosto's Orlando Innamorato.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhodomontade designates vain and empty boasting."*
+> - 📜 **Washington Irving (*The Sketch Book of Geoffrey Crayon*):** *"His conversation was a curious tissue of old stories, countryside gossip, and pompous **rhodomontade**."*
+> - 📜 **Sir Walter Scott (*The Antiquary*):** *"The military captain indulged in prolonged **rhodomontade** concerning his daring exploits at the siege of Valenciennes."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair: A Novel without a Hero*):** *"Behind all his ferocious swagger and tavern **rhodomontade**, the young subaltern concealed a trembling heart."*

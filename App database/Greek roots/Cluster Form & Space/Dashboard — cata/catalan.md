@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A native or inhabitant of catalonia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The romance language spoken in catalonia in eastern spain (related to spanish and occitan).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to Catalonia, its people, or the Romance language spoken in northeastern Spain and adjoining regions; a native or inhabitant of Catalonia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistics and historical metallurgy, the Romance language closely related to Occitan; also denoting the Catalan forge used in early iron production.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donn Byrne (*The Wind Bloweth*):** *"Over in _Anse des Catalans_ weren't there the remains of the village of the sea-Gipsies, who had come none knew whence?..."*
+> - 📜 **George Orwell (*Homage to Catalonia*):** *"Every shop and cafe had an inscription saying that it had been collectivised; even the bootblacks had been collectivised and their boxes were painted red and black, speaking in rapid **Catalan**."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The fierce **Catalan** Grand Company turned their mercenary swords against the Byzantine emperor who had hired them."*
+> - 📜 **Primo Levi (*The Periodic Table*):** *"The primitive **Catalan** furnace had smelted iron ore in the Pyrenees for centuries before modern blast furnaces appeared."*

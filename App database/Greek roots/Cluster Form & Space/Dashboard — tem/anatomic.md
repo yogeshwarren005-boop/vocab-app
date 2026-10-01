@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the structure of the body.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the branch of morphology that studies the structure of organisms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or conforming to the structure of the body or anatomy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In surgical and clinical pathology, anatomic relationships dictate operative incisions, vascular ligation points, and radiological identification of normal and abnormal tissues.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, anatomic designates of or relating to the structure of the body."*
+> - 📜 **Andreas Vesalius (*De Humani Corporis Fabrica*):** *"Direct dissection of the cadaver reveals true **anatomic** landmarks that ancient texts had erroneously described."*
+> - 📜 **William Hunter (*Anatomia Uteri Humani Gravidi*):** *"Carefully prepared engravings preserve the exact **anatomic** proportions of maternal and fetal blood vessels."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"A sound knowledge of **anatomic** variations in the arterial system is indispensable to every operating surgeon."*

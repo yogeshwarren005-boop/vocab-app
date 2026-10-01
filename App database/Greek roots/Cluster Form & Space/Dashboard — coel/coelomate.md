@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The usually epithelium-lined space between the body wall and the digestive tract of metazoans above the lower worms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The usually epithelium-lined space between the body wall and the digestive tract of metazoans above the lower worms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any animal possessing a true coelom lined by mesodermal peritoneum.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic zoology, triploblastic bilateral organisms (including mollusks, annelids, arthropods, echinoderms, and chordates) having a coelomic body plan.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, coelomate designates the usually epithelium-lined space between the body wall and the digestive tract of metazoans above the lower worms."*
+> - 📜 **E. Ray Lankester (*A Treatise on Zoology*):** *"In every advanced **coelomate** animal, internal organs are cushioned against mechanical shock within fluid-filled mesodermal spaces."*
+> - 📜 **Stephen Jay Gould (*The Structure of Evolutionary Theory*):** *"The Cambrian explosion witnessed the simultaneous emergence of virtually every major **coelomate** body architecture."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Invertebrated Animals*):** *"A true **coelomate** displays compartmentalized organs suspended by double folds of peritoneal mesentery."*

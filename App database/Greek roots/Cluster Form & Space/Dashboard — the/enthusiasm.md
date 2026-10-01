@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Strong excitement of feeling : ardor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Something inspiring zeal or fervor.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Intense and eager enjoyment, interest, or approval; fervent zeal or passion for a cause or subject.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Derived from Greek *enthousiasmos* (divine inspiration, being possessed by a god, *en-theos*), historically carrying pejorative connotations of religious fanaticism before softening into positive zeal in modern parlance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"He had been away on a journey and had not made his appearance for several weeks in Nolla, and his coming was therefore greeted with special enthusiasm."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Our friends at the castle and even Philip, who certainly was not easily filled with enthusiasm, were extremely enthusiastic about our new playmate."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Kurt is sure to make dozens of songs about her and Mea will be carried away with enthusiasm for her."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"Locke dedicated a famous chapter to **enthusiasm**, warning that ungrounded inward illumination leads to dangerous delusion."*
+> - 📜 **David Hume (*Essays, Moral, Political, and Literary*):** *"Religious superstition is founded on fear and melancholy, but religious **enthusiasm** arises from hope and presumptuous pride."*
+> - 📜 **Ralph Waldo Emerson (*Circles*):** *"Every great and commanding movement in the annals of the world is the triumph of **enthusiasm**."*

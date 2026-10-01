@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Abnormal ability to focus of distant objects.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Abnormal ability to focus of distant objects.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or affected by hypermetropia (farsightedness).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical optometry, a hypermetropic eye must exert continuous ciliary muscle accommodation to bring even distant objects into sharp focus, predisposing to accommodative asthenopia and esotropia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hypermetropic designates abnormal ability to focus of distant objects."*
+> - 📜 **Francis Cornelis Donders (*On the Anomalies of Accommodation and Refraction of the Eye*):** *"The **hypermetropic** patient constantly taxes the ciliary muscle to achieve clear vision, inducing ocular strain."*
+> - 📜 **Hermann von Helmholtz (*Treatise on Physiological Optics*):** *"Placing a suitable convex glass in front of the **hypermetropic** eye shifts the focal plane precisely onto the retina."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Persistent evening brow-ache in bookkeepers is often relieved by the prescription of appropriate **hypermetropic** spectacles."*

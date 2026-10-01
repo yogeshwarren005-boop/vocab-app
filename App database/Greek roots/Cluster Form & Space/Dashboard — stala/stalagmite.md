@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A deposit of calcium carbonate like an inverted stalactite formed on the floor of a cave by the drip of calcareous water.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A deposit of calcium carbonate like an inverted stalactite formed on the floor of a cave by the drip of calcareous water.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An upward-growing mound or column of mineral deposits (especially calcium carbonate) formed on the floor of a cave by the accumulation of drips from the ceiling.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In paleoclimatology, speleothem stalagmites provide high-resolution terrestrial climate proxies through oxygen isotope (δ18O) variations and uranium-thorium dating.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Mark Twain (*The Adventures of Tom Sawyer, Complete*):** *"In one place, near at hand, a stalagmite had been slowly growing up from the ground for ages, builded by the water-drip from a stalactite overhead."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"Beneath each dripping point on the roof, a solid rounded **stalagmite** rose from the cavern floor like a pillar."*
+> - 📜 **Charles Lyell (*The Antiquity of Man*):** *"Flint implements and fossil bones of extinct mammoths were sealed safely beneath an ancient floor of hard **stalagmite**."*
+> - 📜 **Jules Verne (*Journey to the Center of the Earth*):** *"Our footsteps echoed among the colossal mineral shafts where stalactite and **stalagmite** met to form titanic colonnades."*

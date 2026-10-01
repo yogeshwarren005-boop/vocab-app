@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Destroying fungi or inhibiting their growth : fungicidal, fungistatic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Destroying fungi or inhibiting their growth : fungicidal, fungistatic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A substance or pharmaceutical agent that destroys or inhibits the growth and reproduction of fungi.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In medical pharmacology and mycology, classes of therapeutics targeting fungal cell wall components (echinocandins) or ergosterol synthesis (azoles and polyenes).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, antifungal designates destroying fungi or inhibiting their growth : fungicidal, fungistatic."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Disseminated candidiasis in immunocompromised patients demands rapid intervention with a broad-spectrum **antifungal** agent."*
+> - 📜 **Rachel Carson (*Silent Spring*):** *"Agricultural fungicides applied as an **antifungal** drench can unintentionally alter soil mycorrhizal associations for seasons to come."*
+> - 📜 **Oliver Sacks (*Awakenings*):** *"Her recovery was jeopardized by systemic thrush, which resolved only after daily intravenous **antifungal** infusions."*

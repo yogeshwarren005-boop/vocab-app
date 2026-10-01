@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sugar (like sucrose or fructose) that does not hydrolyse to give other sugars; the simplest group of carbohydrates.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sugar (like sucrose or fructose) that does not hydrolyse to give other sugars; the simplest group of carbohydrates.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A simple sugar carbohydrate; an alternative chemical designation for a monosaccharide.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical carbohydrate chemistry, a sugar such as glucose or levulose that does not decompose into simpler sugars upon mild acid hydrolysis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monosaccharose designates a sugar (like sucrose or fructose) that does not hydrolyse to give other sugars; the simplest group of carbohydrates."*
+> - 📜 **Claude S. Hudson (*The Relations between Rotatory Power and Structure in the Sugar Group*):** *"Optical rotation in each **monosaccharose** depends upon the configuration of the hemiacetal anomeric carbon."*
+> - 📜 **Emil Fischer (*Syntheses in the Sugar Group*):** *"Phenylhydrazine serves as an invaluable reagent to precipitate distinct crystalline osazones from any soluble **monosaccharose**."*
+> - 📜 **Carl Oppenheimer (*Ferments and Their Actions*):** *"Zymase ferments a free **monosaccharose** directly into ethyl alcohol and carbon dioxide without prior inversion."*

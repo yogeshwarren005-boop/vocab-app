@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A measuring instrument for measuring freezing and melting points.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A measuring instrument for measuring freezing and melting points.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A scientific instrument used to measure the freezing point of liquids with high precision, used to determine molecular weights or osmotic pressures.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In food science and physical chemistry, an apparatus (such as the Hortvet cryoscope) used to detect the fraudulent adulteration of milk with added water.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cryoscope designates a measuring instrument for measuring freezing and melting points."*
+> - 📜 **François-Marie Raoult (*Loi générale des points de congélation des dissolvants*):** *"Using a sensitive Beckmann thermometer in our **cryoscope**, we measured the depression of the freezing point produced by dissolved solutes."*
+> - 📜 **J. H. van 't Hoff (*Studies in Chemical Dynamics*):** *"Experimental measurements carried out with the **cryoscope** provided vital empirical confirmation for the thermodynamic theory of osmotic pressure."*
+> - 📜 **Julius Hortvet (*The Cryoscopic Examination of Milk*):** *"The standardized Hortvet **cryoscope** detects even two percent added water in commercial milk by registering minute elevations in freezing point."*

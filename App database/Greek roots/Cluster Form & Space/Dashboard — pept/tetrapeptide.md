@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek pept.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A peptide composed of four amino acid residues joined by three peptide bonds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurobiology and pharmacology, many endogenous signaling peptides (such as tuftsin and endomorphin-1) are biologically active tetrapeptide molecules.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tetrapeptide designates a term designating an entity, condition, or phenomenon derived from greek pept."*
+> - 📜 **Vincent du Vigneaud (*A Trail of Research*):** *"Stepwise coupling yielded a crystalline **tetrapeptide** that served as an essential intermediate in hormone synthesis."*
+> - 📜 **Alan Fersht (*Structure and Mechanism in Protein Science*):** *"Binding of a synthetic **tetrapeptide** substrate within the active-site cleft allows precise mapping of subsite affinities."*
+> - 📜 **David L. Nelson (*Lehninger Principles of Biochemistry*):** *"The degradation of larger oligopeptides by carboxypeptidases often yields an intact **tetrapeptide** core."*

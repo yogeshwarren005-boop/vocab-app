@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek phag.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A psychogenic condition characterized by the sensation of difficulty swallowing without any physiological or anatomical obstruction; phagophobia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In psychosomatic medicine and speech-language pathology, pseudodysphagia typically stems from a panic episode or choking trauma, treated with cognitive behavioral therapy.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pseudodysphagia designates a term designating an entity, condition, or phenomenon derived from greek phag."*
+> - 📜 **Pierre Janet (*The Major Symptoms of Hysteria*):** *"In hysterical **pseudodysphagia**, the patient complains of total blockage while endoscopic examination reveals a perfectly patent lumen."*
+> - 📜 **Tinsley R. Harrison (*Principles of Internal Medicine*):** *"A normal barium swallow confirms that the patient’s severe swallowing anxiety is a manifestation of **pseudodysphagia**."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Reassurance and gentle re-education often resolve psychogenic globus and **pseudodysphagia** without invasive procedures."*

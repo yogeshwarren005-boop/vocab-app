@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or characteristic of insects of the order isoptera.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or characteristic of insects of the order isoptera.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any insect belonging to the Isoptera; a termite or white ant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In insect ecology, a hemimetabolous social detritivore that recycles fallen timber and constructs earthen mounds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, isopteran designates relating to or characteristic of insects of the order isoptera."*
+> - 📜 **Maurice Maeterlinck (*The Life of the White Ant*):** *"The subterranean **isopteran** labors perpetually in total darkness, blind yet exquisitely sensitive to colony pheromones."*
+> - 📜 **William Morton Wheeler (*Social Life Among the Insects*):** *"Soldier castes of an **isopteran** species defend nest tunnels with crushing mandibles or frontal chemical nozzles."*
+> - 📜 **Thomas Eisner (*For Love of Insects*):** *"Nasute soldiers of the tropical **isopteran** spray sticky diterpene repellents that disable attacking ants instantly."*

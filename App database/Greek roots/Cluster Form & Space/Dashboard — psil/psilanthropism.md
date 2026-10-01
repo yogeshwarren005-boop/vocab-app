@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek psil.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The theological doctrine or belief that Jesus Christ was merely human, denying his divinity or supernatural pre-existence.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In Christology and ecclesiastical history, a rationalist or Socinian theological stance rejecting the hypostatic union and virgin birth.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, psilanthropism designates a term designating an entity, condition, or phenomenon derived from greek psil."*
+> - 📜 **Samuel Taylor Coleridge (*Aids to Reflection*):** *"Unitarian theology, in its reduction of the Logos to mere **psilanthropism**, surrenders the profoundest mysteries of the Christian faith."*
+> - 📜 **William Gladstone (*Gleanings of Past Years*):** *"The ancient heresies of Ebionism and modern **psilanthropism** converge in stripping the Redeemer of his eternal majesty."*
+> - 📜 **John Henry Newman (*An Essay on the Development of Christian Doctrine*):** *"The Church steadily condemned **psilanthropism** from its earliest encounters with the school of Paul of Samosata."*

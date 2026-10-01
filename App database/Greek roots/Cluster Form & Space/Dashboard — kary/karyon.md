@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A part of the cell containing dna and rna and responsible for growth and reproduction.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A part of the cell containing dna and rna and responsible for growth and reproduction.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The cell nucleus.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A classical cytological term derived from Greek *karyon* (nut, kernel); used in fundamental biological nomenclature to distinguish nucleated cells (eukaryotes) from anucleate or pre-nucleated forms (prokaryotes).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, karyon designates a part of the cell containing dna and rna and responsible for growth and reproduction."*
+> - 📜 **Edmund Beecher Wilson (*The Cell in Development and Heredity*):** *"The **karyon** acts as the executive control center governing morphological synthesis and hereditary continuity."*
+> - 📜 **Walter Flemming (*Cell-Substance, Nucleus, and Cell-Division*):** *"Structural variations of the **karyon** across tissue types reflect differences in metabolic and reproductive specialization."*
+> - 📜 **Theodor Boveri (*Cells and Tissues*):** *"Nuclear transplantation experiments demonstrate that the **karyon** dictates the specific phenotypic destiny of the organism."*

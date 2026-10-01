@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to geological structure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to geological structure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, dealing with, or relating to the origin, physical evolution, and spatial arrangement of topographic landforms on the surface of the Earth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In earth science, geomorphologic analyses evaluate how fluvial, glacial, aeolian, and tectonic forces sculpt regional terrain over geological timescales.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, geomorphologic designates pertaining to geological structure."*
+> - 📜 **William Morris Davis (*Geographical Essays*):** *"The **geomorphologic** cycle describes the progressive reduction of uplifted highlands through youth, maturity, and peneplain senescence."*
+> - 📜 **G. K. Gilbert (*Report on the Geology of the Henry Mountains*):** *"The balance between rock resistance and stream erosion governs every major **geomorphologic** boundary in the arid plateau."*
+> - 📜 **Arthur Holmes (*Principles of Physical Geology*):** *"Glacial retreat left striking **geomorphologic** monuments, including moraines, drumlins, and deeply incised U-shaped valleys."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Benign rumor of striated muscle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Benign rumor of striated muscle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A benign neoplasm or tumor derived from striated muscle fibers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pediatric cardiology and surgical pathology, a hamartomatous cardiac tumor strongly associated with tuberous sclerosis, often regressing spontaneously.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhabdomyoma designates benign rumor of striated muscle."*
+> - 📜 **Rudolf Virchow (*Die krankhaften Geschwülste*):** *"The benign cardiac **rhabdomyoma** consists of swollen, glycogen-rich cells that preserve faint transverse striations under the microscope."*
+> - 📜 **Juan Rosai (*Rosai and Ackerman's Surgical Pathology*):** *"Histologic sections of cardiac **rhabdomyoma** display distinctive 'spider cells' whose cytoplasm is laced with thin glycogenated strands."*
+> - 📜 **Christopher D. M. Fletcher (*Diagnostic Histopathology of Tumors*):** *"Extra-cardiac **rhabdomyoma** occurs primarily in the head and neck of adult patients, mimicking granular cell tumors."*

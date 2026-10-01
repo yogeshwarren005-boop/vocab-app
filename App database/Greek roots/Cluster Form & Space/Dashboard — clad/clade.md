@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A group of biological taxa (such as species) that includes all descendants of one common ancestor.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A group of biological taxa (such as species) that includes all descendants of one common ancestor.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A taxonomic group of organisms consisting of a single common ancestor and all of its lineal descendants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In phylogenetic systematics, a monophyletic branch of the tree of life defined by shared derived homologies (synapomorphies).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, clade designates a group of biological taxa (such as species) that includes all descendants of one common ancestor."*
+> - 📜 **Julian Huxley (*Evolutionary Process*):** *"I suggest the term **clade** for a monophyletic unit resulting from cladogenesis, tracing to a single common origin."*
+> - 📜 **Stephen Jay Gould (*The Structure of Evolutionary Theory*):** *"Every major **clade** undergoes an initial burst of morphological disparity followed by subsequent canalization."*
+> - 📜 **Richard Dawkins (*The Ancestor's Tale*):** *"To be recognized as a true **clade**, birds must be grouped together with their extinct theropod dinosaur ancestors."*

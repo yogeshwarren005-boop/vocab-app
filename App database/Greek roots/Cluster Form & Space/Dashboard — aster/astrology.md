@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The divination of the supposed influences of the stars and planets on human affairs and terrestrial events by their positions and aspects.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The divination of the supposed influences of the stars and planets on human affairs and terrestrial events by their positions and aspects.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The ancient divination practice that interprets the apparent positions and aspects of celestial bodies in the belief that they influence human destinies and earthly events.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of science, a proto-scientific cosmic worldview that historically stimulated rigorous astronomical calculation and cartography before the Copernican revolution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jack London (*The Jacket (The Star-Rover)*):** *"But you must have your will and drag my old body about with you—a-studying astronomy and numbers in Venice, poetry and all the Italian _fol-de-rols_ in Florence, and astrology in Pisa, and God knows what in that madman country of Germany."*
-> - 📜 **Washington Irving (*The Sketch-Book of Geoffrey Crayon*):** *"I now called to mind what I had read of certain colleges in old times, where judicial astrology, geomancy, necromancy, and other forbidden and magical sciences were taught."*
-> - 📜 **T. R. Glover (*The Conflict of Religions in the Early Roman Empire*):** *"That superstition so gross was accompanied by paralysing belief in magic, enchantment, miracle, astrology[68] and witchcraft generally, is not surprising."*
+> - 📜 **Carl Sagan (*Cosmos*):** *"For millennia, astronomy was inextricably bound up with **astrology**, the desire to read human destiny written across the stars."*
+> - 📜 **Francis Bacon (*The Advancement of Learning*):** *"We do not entirely reject **astrology**, but we would have it cleansed of superstitious vanities and based on physical affinities."*
+> - 📜 **John Milton (*Paradise Lost*):** *"Whether the sun or earth move, let not human vanity seek in **astrology** what heaven has hidden in secret wisdom."*

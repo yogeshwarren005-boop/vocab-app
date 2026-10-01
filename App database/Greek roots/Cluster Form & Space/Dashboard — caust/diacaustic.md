@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of burn.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of burn.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In optics and geometry, a caustic curve or surface formed by the envelope of light rays refracted through a curved transparent surface or lens.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In differential geometry and geometrical optics, the refracted envelope line or focal cusp produced by spherical aberration, contrasting with reflected catacaustic curves.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diacaustic designates adjective*) pertaining to, derived from, or characteristic of burn."*
+> - 📜 **Isaac Newton (*Opticks*):** *"Rays passing through a thick spherical glass sphere converge upon an intricate refracted envelope termed a **diacaustic** curve."*
+> - 📜 **Christiaan Huygens (*Treatise on Light*):** *"The geometry of the **diacaustic** illustrates how unequal refraction across curved boundaries creates caustic cusps of intense illumination."*
+> - 📜 **Ernst Mach (*The Principles of Physical Optics*):** *"Spherical aberration in simple lenses reveals itself directly through the bright cusp of the refracted **diacaustic**."*

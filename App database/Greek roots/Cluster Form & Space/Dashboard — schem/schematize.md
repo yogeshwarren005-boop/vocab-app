@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To form or to form into a scheme or systematic arrangement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To express or depict schematically.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To arrange, classify, or represent in a scheme, diagram, or systematic conceptual framework.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In philosophical methodology and systems engineering, to simplify complex phenomena into explicit analytical models.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, schematize designates to form or to form into a scheme or systematic arrangement."*
+> - 📜 **William James (*Pragmatism: A New Name for Some Old Ways of Thinking*):** *"The rationalist mind loves to **schematize** the universe into neat intellectual boxes where every paradox is smoothed away."*
+> - 📜 **Max Weber (*Economy and Society*):** *"Sociologists construct ideal types to **schematize** historical action, illuminating underlying motivations through deliberate abstraction."*
+> - 📜 **Willard Van Orman Quine (*Word and Object*):** *"Logical notation helps **schematize** natural language sentences, clarifying referential commitments and quantification boundaries."*

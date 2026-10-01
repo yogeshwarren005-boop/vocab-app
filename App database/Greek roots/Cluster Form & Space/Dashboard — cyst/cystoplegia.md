@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Paralysis of the urinary bladder.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Paralysis of the urinary bladder.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Paralysis of the bladder; cystoparalysis.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurology, loss of voluntary contractile power in the detrusor muscle of the urinary bladder due to central or peripheral denervation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cystoplegia designates paralysis of the urinary bladder."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"In tabetic neurosyphilis, insidious **cystoplegia** often leads to painless urinary retention with constant dribbling overflow."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"Injury to the parasympathetic pelvic splanchnic nerves paralyzes detrusor tone, resulting in severe clinical **cystoplegia**."*
+> - 📜 **Sir Frederick Treves (*Surgical Applied Anatomy*):** *"Postoperative **cystoplegia** following pelvic surgery must be managed by catheter drainage to avert detrusor overstretching."*

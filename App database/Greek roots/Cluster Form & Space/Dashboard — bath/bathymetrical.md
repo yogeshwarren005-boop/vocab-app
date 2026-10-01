@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to measurements of the depths of oceans or lakes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to measurements of the depths of oceans or lakes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to bathymetry; bathymetric (formal or historical variant).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to depth contours and vertical ecological zonation of the marine biosphere.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, bathymetrical designates of or relating to measurements of the depths of oceans or lakes."*
+> - 📜 **Charles Wyville Thomson (*The Voyage of the Challenger*):** *"The **bathymetrical** distribution of marine fauna proved that life flourishes even at the crushing depths of the oceanic abyss."*
+> - 📜 **Thomas Henry Huxley (*Lay Sermons, Addresses, and Reviews*):** *"Organisms dredged from deep **bathymetrical** zones exhibit remarkable adaptations to cold, dark, and pressure."*
+> - 📜 **Alfred Russel Wallace (*Island Life*):** *"Deep **bathymetrical** trenches separating oceanic islands indicate long periods of complete terrestrial isolation."*

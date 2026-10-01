@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the ectoderm.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the ectoderm.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, derived from, or situated in the ectoderm (outer embryonic germ layer).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical genetics, ectodermal dysplasias comprise inherited disorders affecting teeth, sweat glands, hair, and nails.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ectodermal designates of or relating to the ectoderm."*
+> - 📜 **Lewis Wolpert (*Principles of Development*):** *"Signals from the underlying mesenchyme instruct adjacent **ectodermal** tissue to initiate feather and hair placode morphogenesis."*
+> - 📜 **Vinay Kumar (*Robbins and Cotran Pathologic Basis of Disease*):** *"Hypohidrotic **ectodermal** dysplasia presents with diminished sweating, sparse hair, and abnormal conical dentition."*
+> - 📜 **Santiago Ramón y Cajal (*Histology of the Nervous System*):** *"The entire cerebral cortex traces its historical cellular lineage to specialized **ectodermal** neuroblasts."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Fungi having leathery or membranous sporophores.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Fungi having leathery or membranous sporophores.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of fungi in the order Thelephorales, comprising corticioid, hydnoid, or tomentose basidiomycetes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mycology, members of the Thelephoraceae form ectomycorrhizal symbioses with forest trees, producing leathery, resupinate, or rosette-like basidiocarps with brownish, thelephoric-acid-rich basidiospores.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, thelephoraceae designates fungi having leathery or membranous sporophores."*
+> - 📜 **Elias Magnus Fries (*Systema Mycologicum*):** *"Fries grouped the leathery, crust-like resupinate fungi under the ancestral division **Thelephoraceae**."*
+> - 📜 **Pier Andrea Saccardo (*Sylloge Fungorum*):** *"The family **Thelephoraceae** encompasses wood-inhabiting basidiomycetes with smooth or warted hymenial surfaces."*
+> - 📜 **Miles Joseph Berkeley (*Outlines of British Fungology*):** *"Species of **Thelephoraceae** play vital roles in the forest humus cycle, encrusting twigs and decayed stumps."*

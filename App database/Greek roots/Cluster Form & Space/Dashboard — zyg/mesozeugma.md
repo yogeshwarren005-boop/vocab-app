@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek zyg.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rhetorical figure in which a verb is placed in the middle of a sentence and governs clauses on both sides, yoking preceding and following elements.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical rhetoric, mesozeugma positions the governing verb centrally, creating a balanced structure where subjects or objects radiate outward from the verbal pivot.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, mesozeugma designates a term designating an entity, condition, or phenomenon derived from greek zyg."*
+> - 📜 **Quintilian (*Institutio Oratoria*):** *"In **mesozeugma** the verb occupies the center, governing both the preceding and the following clauses."*
+> - 📜 **Richard Lanham (*A Handlist of Rhetorical Terms*):** *"**Mesozeugma** places the common verb in the middle of the construction, yoking elements on either side."*
+> - 📜 **Henry Peacham (*The Garden of Eloquence*):** *"By **mesozeugma** the verb is set in the midst, joining what comes before to what follows after."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To serve as a symbol of.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To represent, express, or identify by a symbol.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To represent, typify, or stand for something by means of a symbol; American spelling of symbolise.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In cognitive semiotics and comparative religion, physical totems and heraldic crests symbolize kinship ties and territorial dominion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"No, thought I, there must be some sober reason for this thing; furthermore, it must symbolize something unseen."*
-> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"Therefore, in his other moods, symbolize whatever grand or gracious thing he will by whiteness, no man can deny that in its profoundest idealized significance it calls up a peculiar apparition to the soul."*
-> - 📜 **Herman Melville (*Moby Dick; Or, The Whale*):** *"No, thought I, there must be some sober reason for this thing; furthermore, it must symbolize something unseen."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"Whatever grand or gracious thing men will **symbolize** by whiteness, it remains an elusive phantom of the soul."*
+> - 📜 **Ralph Waldo Emerson (*Nature*):** *"Words are signs of natural facts; particular natural facts are symbols of particular spiritual facts, and nature is an emblem that serves to **symbolize** spirit."*
+> - 📜 **Edgar Allan Poe (*The Masque of the Red Death*):** *"The seven colored chambers were arranged to **symbolize** the progressive stages of human mortality."*

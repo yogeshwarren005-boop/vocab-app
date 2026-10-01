@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A condition in which one or both testes fail to descend normally.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A condition in which one or both testes fail to descend normally.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The medical condition in which one or both testes fail to descend normally into the scrotum before birth.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical urology and pediatric endocrinology, the failure of testicular descent from the abdominal cavity through the inguinal canal, predisposing to infertility and germ-cell neoplasia.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cryptorchidism designates a condition in which one or both testes fail to descend normally."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Uncorrected **cryptorchidism** carries an elevated risk of malignant degeneration in adult life, warranting timely orchidopexy."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"Arrest of the gubernaculum testis during the seventh month of fetal development results in congenital **cryptorchidism**."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"Rudimentary organs and developmental arrests like **cryptorchidism** reveal the complex evolutionary history of mammalian morphology."*

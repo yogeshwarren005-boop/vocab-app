@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of house.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of house.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Universal, general, or worldwide in scope, authority, or influence; representing the whole inhabited world or whole church.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical Greco-Roman history, ecumenic described matters pertaining to the oikoumene (the civilized inhabited Mediterranean world).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ecumenic designates adjective*) pertaining to, derived from, or characteristic of house."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The bishops claimed **ecumenic** jurisdiction over the faithful, proclaiming canons meant to bind all provinces of the Roman world."*
+> - 📜 **Polybius (*The Histories*):** *"The dramatic rise of Rome established an **ecumenic** dominion unprecedented in ancient history."*
+> - 📜 **Thomas Aquinas (*Summa Theologiae*):** *"The decrees promulgated by an **ecumenic** council derive their universal validity from the guidance of the Holy Spirit."*

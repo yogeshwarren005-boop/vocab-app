@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek oo.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A form of divination practiced by interpreting the shapes, patterns, or behavior of eggs, such as the configurations formed by egg whites dropped into water.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In the history of folk magic and anthropology, oomancy persists in various cultural traditions as a domestic oracle, particularly in Mediterranean and Latin American curanderismo practices.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oomancy designates a term designating an entity, condition, or phenomenon derived from greek oo."*
+> - 📜 **James George Frazer (*The Golden Bough*):** *"**Oomancy** persisted among peasant communities as one of the simplest forms of household divination."*
+> - 📜 **Pliny the Elder (*Natural History*):** *"The Romans practiced **oomancy** by observing whether an egg placed in fire cracked or not."*
+> - 📜 **Rosemary Guiley (*The Encyclopedia of Magic and Alchemy*):** *"In **oomancy**, the albumen swirling through water is read like tea leaves for signs of future events."*

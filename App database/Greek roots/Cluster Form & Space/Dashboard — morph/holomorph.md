@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek morph.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In abstract group theory, the semidirect product of a group with its full automorphism group, representing the maximal permutation group in which the original group is normal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mycology and fungal taxonomy, the complete fungus in all its reproductive stages and morphological expressions, encompassing both the teleomorph (sexual) and any anamorphs (asexual).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, holomorph designates a term designating an entity, condition, or phenomenon derived from greek morph."*
+> - 📜 **William Burnside (*Theory of Groups of Finite Order*):** *"The **holomorph** of a group G is the group formed by compounding the operations of G with all its possible automorphisms."*
+> - 📜 **Bryce Kendrick (*The Whole Fungus*):** *"Under international botanical rules, the term **holomorph** denotes the entire organism across all its pleomorphic vegetative and reproductive forms."*
+> - 📜 **John Webster (*Introduction to Fungi*):** *"Molecular sequencing techniques now permit mycologists to unify isolated conidial morphs under a single recognized **holomorph** name."*

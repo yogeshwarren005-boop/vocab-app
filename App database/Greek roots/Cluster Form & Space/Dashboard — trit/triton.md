@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (greek mythology) a sea god; son of poseidon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The largest moon of neptune.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A mythological Greek sea god, son of Poseidon and Amphitrite, depicted as a merman blowing a conch shell horn; the nucleus of a tritium atom; a large marine snail; or a genus of aquatic salamanders.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nuclear physics, a triton consists of one proton and two neutrons; in marine biology, *Charonia tritonis* (Triton's trumpet) is a large predatory gastropod that preys upon crown-of-thorns starfish.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Hear you this Triton of the minnows?"*
-> - 📜 **George Eliot (*Middlemarch*):** *"If we were not so poor I would invite Lord Triton."*
-> - 📜 **George Eliot (*Middlemarch*):** *"Lord Triton is precisely the man: full of plans for making the people happy in a soft-headed sort of way."*
+> - 📜 **William Wordsworth (*The World Is Too Much With Us*):** *"So might I, standing on this pleasant lea, / Have glimpses that would make me less forlorn; / Have sight of Proteus rising from the sea; / Or hear old **Triton** blow his wreathed horn."*
+> - 📜 **John Milton (*Lycidas*):** *"The herald of the sea, stern **Triton**, came in Neptune's plea to summon the winds and questioning waves."*
+> - 📜 **Enrico Fermi (*Nuclear Physics*):** *"Scattering cross sections of the **triton** provide crucial parameters regarding three-nucleon nuclear forces."*

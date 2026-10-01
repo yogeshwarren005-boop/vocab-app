@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to self-digestion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to self-digestion.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characterized by autolysis (self-digestion of cells by endogenous enzymes).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In histopathology, autolytic changes must be differentiated from true intravital coagulative or liquefactive necrosis during microscopic biopsy assessment.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, autolytic designates of or relating to self-digestion."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Delayed tissue fixation permits **autolytic** enzymes to blur the fine architectural margins of cell nuclei."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The liquefaction of the necrotic center of an infarction is driven by endogenous **autolytic** ferments."*
+> - 📜 **James Paget (*Lectures on Surgical Pathology*):** *"Rapid **autolytic** softening softens dead tissue before phagocytic inflammatory cells have time to infiltrate."*

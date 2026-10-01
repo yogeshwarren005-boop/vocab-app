@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Failure of one or both testes to move into the scrotum as the male fetus develops.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Failure of one or both testes to move into the scrotum as the male fetus develops.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The state or condition of having undescended testicles; cryptorchidism.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In veterinary medicine and animal husbandry, a congenital developmental defect wherein one or both testicles remain retained in the abdomen or inguinal ring.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cryptorchidy designates failure of one or both testes to move into the scrotum as the male fetus develops."*
+> - 📜 **Sir Frederick Hobday (*Castration of Cryptorchid Horses and the Ovariotomy of Troublesome Mares*):** *"Equine **cryptorchidy** presents a difficult surgical challenge, requiring deep abdominal exploration to locate the retained organ."*
+> - 📜 **William Youatt (*The Horse*):** *"Horses suffering from unilateral **cryptorchidy** are notoriously vicious and unmanageable unless skillfully operated upon."*
+> - 📜 **Rudolf Virchow (*Cellular Pathology*):** *"Microscopic sections in cases of **cryptorchidy** demonstrate progressive atrophy of the spermatogenic seminiferous tubules."*

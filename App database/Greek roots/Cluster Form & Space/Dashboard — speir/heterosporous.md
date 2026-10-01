@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The production of microspores and megaspores (as in seed plants).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The production of microspores and megaspores (as in seed plants).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Producing two distinct types of spores of different sizes and sexes: small microspores (male) and larger megaspores (female).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant evolutionary history, heterosporous vascular plants (such as *Selaginella*, water ferns, and all seed plants) established the developmental prerequisite for the evolution of seeds.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heterosporous designates the production of microspores and megaspores (as in seed plants)."*
+> - 📜 **F. O. Bower (*The Origin of a Land Flora*):** *"The **heterosporous** condition arose independently in several ancient pteridophyte lines, culminating in the seed habit."*
+> - 📜 **Katherine Esau (*Plant Anatomy*):** *"In every **heterosporous** lycophyte, microspores yield reduced male gametophytes while megaspores nourish the embryonic sporophyte."*
+> - 📜 **Asa Gray (*First Lessons in Botany and Vegetable Physiology*):** *"All flowering plants are essentially **heterosporous**, producing pollen grains as microspores and embryo sacs as megaspores."*

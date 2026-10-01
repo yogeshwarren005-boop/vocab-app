@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek sacchar.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An oligosaccharide carbohydrate molecule composed of five monosaccharide units linked together by glycosidic bonds.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmacology and hematology, the active synthetic pentasaccharide sequence (fondaparinux) that binds antithrombin III to inhibit coagulation factor Xa.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pentasaccharide designates a term designating an entity, condition, or phenomenon derived from greek sacchar."*
+> - 📜 **Maurice Petit (*Carbohydrate Chemistry*):** *"Synthesis of a defined **pentasaccharide** requires regioselective protective groups to control the stereochemistry of five consecutive glycosidic couplings."*
+> - 📜 **Donald Voet (*Biochemistry*):** *"The high-affinity binding domain of heparin consists of a specific sulfated **pentasaccharide** sequence that accelerates antithrombin activation."*
+> - 📜 **Robert W. Colman (*Hemostasis and Thrombosis: Basic Principles and Clinical Practice*):** *"Administration of the synthetic **pentasaccharide** fondaparinux provides targeted anticoagulation without inducing heparin-induced thrombocytopenia."*

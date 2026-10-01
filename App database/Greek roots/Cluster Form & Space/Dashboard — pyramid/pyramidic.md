@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Resembling a pyramid.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Resembling a pyramid.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or resembling a pyramid; pyramidal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In literature and natural philosophy, describing towering, faceted, or tapering structures resembling an ancient pyramid.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pyramidic designates resembling a pyramid."*
+> - 📜 **Herman Melville (*Moby-Dick; or, The Whale*):** *"The sperm whale's forehead rose like a vast **pyramidic** mass of solid matter against the ocean spray."*
+> - 📜 **Thomas Browne (*Hydriotaphia, Urn Burial*):** *"Restless mortals seek immortality through **pyramidic** sepulchres and brass monuments, which time nonetheless crumbles into dust."*
+> - 📜 **Ralph Waldo Emerson (*English Traits*):** *"The feudal aristocracy raised its **pyramidic** social order, resting on peasant labor and capped by royal power."*

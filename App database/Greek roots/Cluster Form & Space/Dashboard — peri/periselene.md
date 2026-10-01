@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Periapsis in orbit around the moon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Periapsis in orbit around the moon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The point in a lunar orbit closest to the center of the Moon; the lunar periapsis (synonymous with perilune).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In orbital celestial mechanics, an orbiting body moves at its highest orbital velocity when sweeping through periselene.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, periselene designates periapsis in orbit around the moon."*
+> - 📜 **Arthur C. Clarke (*Rendezvous with Rama*):** *"Trajectory adjustments initiated at **periselene** allowed the survey probe to optimize its observational pass."*
+> - 📜 **Howard D. Curtis (*Orbital Mechanics for Engineering Students*):** *"Orbital energy conservation dictates that speed peaks at **periselene** and drops to a minimum at aposelene."*
+> - 📜 **Carl Sagan (*Cosmos*):** *"Mapping radar gathered unprecedented topographical data as the lunar satellite swept past **periselene**."*

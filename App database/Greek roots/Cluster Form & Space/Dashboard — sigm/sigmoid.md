@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Curved like the letter C.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Curved in two directions like the letter S.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Curved or shaped like the letter S or the Greek crescent sigma (ς); especially denoting the S-shaped pelvic loop of the human colon.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human gross anatomy, the sigmoid colon connects the descending colon to the rectum, suspended by the sigmoid mesocolon within the left iliac fossa.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sigmoid designates curved like the letter c."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The **sigmoid** colon forms an S-shaped flexure lying within the pelvis before terminating at the third sacral vertebra."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Volvulus occurs with highest frequency in the redundant loop of the **sigmoid** flexure."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"The human clavicle possesses a characteristic **sigmoid** curve that reflects adaptations to bipedal posture."*

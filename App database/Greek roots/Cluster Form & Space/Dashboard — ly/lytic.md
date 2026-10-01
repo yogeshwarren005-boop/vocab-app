@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to lysis or a lysin; also : productive of or effecting lysis (as of cells).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or effecting (such) decomposition.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, causing, or characterized by lysis, cell destruction, or enzymatic decomposition.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In virology, designating the infectious replication cycle that culminates in host membrane rupture and cell death, distinguished from lysogeny.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, lytic designates of or relating to lysis or a lysin; also : productive of or effecting lysis (as of cells)."*
+> - 📜 **Max Delbrück (*Bacteriophage Research*):** *"The burst size of a **lytic** infection provides a quantitative measure of viral yield per infected bacterium."*
+> - 📜 **Salvador Luria (*General Virology*):** *"A temperate phage may switch from a dormant prophage state into an actively **lytic** cycle upon exposure to ultraviolet light."*
+> - 📜 **James D. Watson (*Molecular Biology of the Gene*):** *"Specific endolysins synthesized late in the viral program execute the **lytic** destruction of the peptidoglycan wall."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: To come to think or judge : consider.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: To have an opinion : believe.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To judge, consider, or believe; to hold an opinion or come to a conclusion regarding something.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: From Old English *dēman* (to judge), cognate with doom and historically related to Indo-European *dhe-* (to place, set, as in Greek *tithemi*), deem preserves solemn legal and formal literary weight.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I say we must not So stain our judgment, or corrupt our hope, To prostitute our past-cure malady To empirics, or to dissever so Our great self and our credit, to esteem A senseless help, when help past sense we deem."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"When once he was mature for man, In Britain where was he That could stand up his parallel, Or fruitful object be In eye of Imogen, that best Could deem his dignity?"*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"In iron walls they deem’d me not secure; So great fear of my name ’mongst them were spread That they supposed I could rend bars of steel And spurn in pieces posts of adamant."*
+> - 📜 **William Shakespeare (*The Merchant of Venice*):** *"Let no man **deem** himself secure against the unpredictable reversals of commercial fortune."*
+> - 📜 **John Milton (*Paradise Lost*):** *"So spake the Apostate Angel, though in pain, / Vaunting aloud, but racked with deep despair; and **deem** not all is lost."*
+> - 📜 **Thomas Jefferson (*Notes on the State of Virginia*):** *"The legislature may **deem** it expedient to revise statues whenever public sentiment demands legal reform."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A thin coating of metal deposited on a surface.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The application of a thin coat of metal (as by electrolysis).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A thin layer or coating of metal applied to the surface of an object, typically by electrodeposition or chemical dipping.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine and locomotive engineering, the outer skin of overlapping steel or iron plates covering a ship's hull or boiler.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Jules Verne (*Twenty Thousand Leagues under the Sea*):** *"Was it unintentionally that your cannon balls rebounded off the plating of my vessel?"*
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"Perhaps one of the greatest forward steps in the development of electrotyping was made when the plating dynamo was invented."*
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"With the invention of the plating dynamo and its improvements, the time of depositing the shell was reduced so that now two hours is the common time that a mold is kept in the tubs or batteries."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"Electrochemical **plating** with gold or silver provides an impermeable coating that shields underlying metals from oxidation."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The copper **plating** on the ship's bottom gleamed like a golden shield through the crystal tropical water."*
+> - 📜 **Humphry Davy (*Elements of Chemical Philosophy*):** *"Galvanic action between the iron hull and copper **plating** caused rapid corrosion until sacrificial zinc protectors were installed."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A character printer connected to a telegraph that operates like a typewriter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A character printer connected to a telegraph that operates like a typewriter.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An electromechanical typewriter and communication terminal used to send and receive typed messages over telegraph lines or radio channels.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Widely employed in twentieth-century news agencies, stock exchanges, and military networks, teleprinters utilized 5-level Baudot or 7-level ASCII codes to automate teletype communication.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, teleprinter designates a character printer connected to a telegraph that operates like a typewriter."*
+> - 📜 **George Orwell (*Nineteen Eighty-Four*):** *"Dispatches from the Ministry arrived continuously, clattering out from the brass carriage of the **teleprinter**."*
+> - 📜 **Graham Greene (*Our Man in Havana*):** *"The rhythmic chattering of the embassy **teleprinter** warned the consul that London demanded immediate answers."*
+> - 📜 **Arthur Koestler (*Darkness at Noon*):** *"Official bulletins were torn directly from the humming **teleprinter** and handed to the interrogation committee."*

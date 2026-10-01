@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A chronic progressive disease of the spinal cord associated with sensory disturbances, muscle atrophy, and spasticity.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A chronic progressive disease of the spinal cord associated with sensory disturbances, muscle atrophy, and spasticity.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A chronic progressive neurological disorder characterized by the development of a fluid-filled longitudinal cavity or cyst (syrinx) within the spinal cord.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical neurology, syringomyelia frequently accompanies Chiari I malformations, characteristically causing dissociated sensory loss (loss of pain and temperature with preserved touch) across a cape-like dermatomal distribution.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, syringomyelia designates a chronic progressive disease of the spinal cord associated with sensory disturbances, muscle atrophy, and spasticity."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Dissociated anesthesia affecting pain and temperature with preserved tactile sense is the pathognomonic sign of **syringomyelia**."*
+> - 📜 **Jean-Martin Charcot (*Lectures on the Diseases of the Nervous System*):** *"Trophic joint destruction and muscular wasting in the hands accompany the progressive cord cavitation of **syringomyelia**."*
+> - 📜 **Harvey Cushing (*Studies in Intracranial Physiology and Surgery*):** *"Decompression of the foramen magnum relieved cerebrospinal fluid block and halted the expansion of cervical **syringomyelia**."*

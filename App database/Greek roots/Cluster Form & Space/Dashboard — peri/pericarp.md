@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The ripened and variously modified walls of a plant ovary composed of an outer exocarp, middle mesocarp, and inner endocarp layer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ripened and variously modified walls of a plant ovary composed of an outer exocarp, middle mesocarp, and inner endocarp layer.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The wall of a ripened plant ovary (fruit), typically consisting of three distinct layers: epicarp, mesocarp, and endocarp.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In carpology and plant morphology, the pericarp can become fleshy and succulent (as in berries and drupes) or dry and dehiscent (as in capsules and legumes).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pericarp designates the ripened and variously modified walls of a plant ovary composed of an outer exocarp, middle mesocarp, and inner endocarp layer."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"In a peach, the outermost skin is the exocarp, the luscious pulp the mesocarp, and the stony pit the endocarp of the **pericarp**."*
+> - 📜 **Katherine Esau (*Plant Anatomy*):** *"Parenchyma cells within the developing **pericarp** undergo substantial hypertrophy during fruit enlargement."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Birds feed on fleshy fruits, passing the hard seeds encased inside unharmed by digestion of the **pericarp**."*

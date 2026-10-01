@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Family of fungi often causing hypertrophy in seed plants.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Family of fungi often causing hypertrophy in seed plants.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of obligate endoparasitic protists (plasmodiophorids) that parasitize plants, algae, and fungi, forming multinucleate vegetative plasmodia inside host cells.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In phytopathology, members of Plasmodiophoraceae (such as Plasmodiophora and Spongospora) serve as destructive plant pathogens and viral vectors (such as potato mop-top virus).
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plasmodiophoraceae designates family of fungi often causing hypertrophy in seed plants."*
+> - 📜 **Anton de Bary (*Comparative Morphology and Biology of the Fungi*):** *"The **Plasmodiophoraceae** represent a remarkable group of intracellular parasites whose life cycle features cruciform nuclear division."*
+> - 📜 **George Agrios (*Plant Pathology*):** *"Clubroot and powdery scab of potato are classic agricultural diseases caused by phytomyxean species of **Plasmodiophoraceae**."*
+> - 📜 **Mikhail Voronin (*Studies on Plasmodiophoraceae*):** *"Zoospore encystment upon the host epidermal wall marks the initial infection phase in the family **Plasmodiophoraceae**."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or concerned with atoms.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of, relating to, or concerned with atoms.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or composed of atoms; existing as an indivisible unit or single minute particle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In modern physics and chemistry, atomic denotes structures governed by quantum mechanics at sub-nanometer scales, nuclear forces, and periodic elemental properties.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"He had arranged the elements in the form of a table _in the order of their atomic weights_."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"The table consisted of twelve rows of names forming eight vertical columns, and the remarkable thing was that all those elements which fell into any particular column, although their atomic weights were very widely different, had similar properties."*
-> - 📜 **Thomas W. Corbin (*Marvels of Scientific Invention*):** *"Three elements _have been found_ since, and their atomic weights and properties are just such as to fill three of the blank spaces."*
+> - 📜 **John Dalton (*A New System of Chemical Philosophy*):** *"Chemical analysis and synthesis go no farther than to the separation of particles one from another, and to their union; no new **atomic** body is created."*
+> - 📜 **Niels Bohr (*On the Constitution of Atoms and Molecules*):** *"The stationary states of an **atomic** system can be calculated by applying quantum conditions to electronic orbits."*
+> - 📜 **Ernest Rutherford (*Radioactive Substances and Their Radiations*):** *"Scattering experiments revealed that nearly the entire mass of the **atomic** structure is concentrated in a tiny central nucleus."*

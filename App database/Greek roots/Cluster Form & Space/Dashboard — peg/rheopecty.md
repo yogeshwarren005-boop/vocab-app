@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek peg.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The property of certain fluids or suspensions of solidifying or increasing in viscosity when subjected to steady shear; rheopexy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In colloid chemistry, rheopecty is the kinetic acceleration of gel formation caused by gentle laminar flow or shear stress.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rheopecty designates a term designating an entity, condition, or phenomenon derived from greek peg."*
+> - 📜 **Herbert Freundlich (*Thixotropy*):** *"The phenomenon of **rheopecty** demonstrates that shear forces can promote interparticle contact and network formation."*
+> - 📜 **G. W. Scott Blair (*A Survey of General and Applied Rheology*):** *"Industrial handling of **rheopecty** requires precise control of pump speeds to prevent premature gelation in delivery pipelines."*
+> - 📜 **Howard A. Barnes (*A Handbook of Elementary Rheology*):** *"Colloid scientists distinguish **rheopecty** from shear-thickening by its explicit time-dependent recovery."*

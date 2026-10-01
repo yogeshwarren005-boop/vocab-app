@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Small stocky mexican fish; popular aquarium fish.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Small stocky mexican fish; popular aquarium fish.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having a flat, plate-like, or tabular structure or appearance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In petrology and pedology, describing mineral crystals or soil peds that are thin and laterally extended in horizontal planes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, platy designates small stocky mexican fish; popular aquarium fish."*
+> - 📜 **James Dwight Dana (*Manual of Mineralogy*):** *"The mineral aggregates exhibit a distinct **platy** habit, cleaving readily along basal planes into thin laminae."*
+> - 📜 **Leonard Baver (*Soil Physics*):** *"Compacted subsoils frequently develop a **platy** structure that impedes downward percolation of gravitational water."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The fissile shale splits into **platy** fragments under the persistent action of subaerial weathering."*

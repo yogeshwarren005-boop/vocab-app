@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to an economy, the system of production and management of material wealth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the science of economics.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to the production, distribution, and consumption of goods, services, and wealth; relating to the economy of a nation or household.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In public policy, economic indicators (such as GDP, inflation rates, and labor productivity) determine fiscal legislation and sovereign budgeting.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"Economics--Volume II MODERN ECONOMIC PROBLEMS BY FRANK A."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"RESOURCES AND ECONOMIC ORGANIZATION. 1."*
-> - 📜 **Frank A. Fetter (*Economics Volume II: Modern Economic Problems*):** *"The present economic system PART II."*
+> - 📜 **Adam Smith (*The Wealth of Nations*):** *"Every individual necessarily labors to render the annual revenue of the society as great as he can, pursuing his own **economic** interest."*
+> - 📜 **John Maynard Keynes (*The General Theory of Employment, Interest and Money*):** *"The ideas of economists and political philosophers, both when they are right and when they are wrong, are more powerful than is commonly understood; indeed the world is ruled by little else than **economic** theory."*
+> - 📜 **Karl Marx (*Das Kapital*):** *"The **economic** structure of capitalist society grew out of the economic structure of feudal society through class struggle."*

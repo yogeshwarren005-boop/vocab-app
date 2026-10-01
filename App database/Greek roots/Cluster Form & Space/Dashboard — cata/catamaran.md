@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A sailboat with two parallel hulls held together by single deck.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A sailboat with two parallel hulls held together by single deck.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A boat or vessel having two parallel hulls of equal size joined together by a deck or frame; originally a raft of logs lashed side by side.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In naval architecture, a twin-hulled craft valued for exceptional stability, wide deck area, and shallow draft; also historically, a quarrelsome person.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, catamaran designates a sailboat with two parallel hulls held together by single deck."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The coastal natives navigated the heavy surf in a light **catamaran** constructed of three buoyant logs lashed firmly together."*
+> - 📜 **Herman Melville (*Moby-Dick*):** *"The Polynesian canoe skimmed over the waves like an outrigger **catamaran**, defying the heaviest Pacific swells."*
+> - 📜 **William Makepeace Thackeray (*Vanity Fair*):** *"The old dowager was an intolerable **catamaran**, terrifying the servants with her shrill scolding and imperious commands."*

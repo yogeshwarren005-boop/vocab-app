@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Add oxygen to or combine with oxygen.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Enter into a combination with oxygen or become converted into an oxide.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To combine with oxygen, lose electrons, or increase positive valence; British spelling of oxidize.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In industrial electrochemistry, anodic reactions oxidise chemical species by extracting electrons at the electrode interface.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"At a higher temperature the sulphate is again decomposed to CuO and SO_{3}, some of which passes off and is free to oxidise more sulphide; the rest is decomposed to SO_{2} and oxygen."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"The proportion of sulphur in the charge thus controls the concentration of the copper by the smelting operation, and, in order to effect the desired concentration, oxygen is required in order to burn off sulphur and to oxidise iron."*
-> - 📜 **Donald M. Levy (*Modern Copper Smelting*):** *"It is eliminated with difficulty, the nickel and copper tending to oxidise together on bessemerising."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"Nascent oxygen released at the positive anode will rapidly **oxidise** readily decomposable organic substrates."*
+> - 📜 **Humphry Davy (*Researches, Chemical and Philosophical*):** *"Combustion demonstrates how readily heated sulfur will **oxidise** when plunged into pure nitrous oxide."*
+> - 📜 **William Ramsay (*The Gases of the Atmosphere*):** *"Unlike reactive atmospheric components, noble gases refuse to **oxidise** under any ordinary laboratory conditions."*

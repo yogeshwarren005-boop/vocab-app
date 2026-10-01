@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek oec.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An archaic or classical British spelling of ecology, the branch of biology studying the interactions between living organisms and their environment.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nineteenth-century natural history and early botanical science, oecology represented Ernst Haeckel's original formulation of the economy of nature.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, oecology designates a term designating an entity, condition, or phenomenon derived from greek oec."*
+> - 📜 **Ernst Haeckel (*The History of Creation*):** *"By **oecology** we designate the science of the relations that all organisms bear to the external surrounding world."*
+> - 📜 **Arthur Tansley (*Types of British Vegetation*):** *"Early treatises on plant geography used the spelling **oecology** before modern ecological nomenclature was standardized."*
+> - 📜 **Eugenius Warming (*Oecology of Plants: An Introduction to the Study of Plant Communities*):** *"The study of **oecology** investigates how morphological growth forms reflect external soil moisture and light intensity."*

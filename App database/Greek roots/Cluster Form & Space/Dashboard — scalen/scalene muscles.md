@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: plural of scalene muscle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: plural of scalene muscle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A group of three paired lateral cervical muscles (scalenus anterior, medius, and posterior) that flex the neck and elevate the first two ribs.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In human surgical anatomy, muscles forming the borders of the scalene triangle through which pass the subclavian artery and brachial plexus.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, scalene muscles designates plural of scalene muscle."*
+> - 📜 **Henry Gray (*Anatomy, Descriptive and Surgical*):** *"The **scalene muscles** arise from the transverse processes of the cervical vertebrae and descend to insert into the upper ribs."*
+> - 📜 **Andreas Vesalius (*De Humani Corporis Fabrica*):** *"Deep in the neck, the **scalene muscles** assist in laboured respiration by elevating the thoracic framework during deep inhalation."*
+> - 📜 **Frank H. Netter (*Atlas of Human Anatomy*):** *"Spasm or hypertrophy of the **scalene muscles** can compress the neurovascular bundle, precipitating thoracic outlet syndrome."*

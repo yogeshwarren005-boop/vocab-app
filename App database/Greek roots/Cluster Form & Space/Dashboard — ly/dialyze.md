@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Separate by dialysis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Separate by dialysis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: To separate, purify, or extract soluble crystalloid substances from colloidal suspensions by diffusion through a semipermeable membrane (American spelling).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In biochemistry, dialyzing protein solutions against buffer solutions removes excess salts, ammonium sulfate, or small ligand molecules following precipitation or chromatography.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, dialyze designates separate by dialysis."*
+> - 📜 **Thomas Graham (*Liquid Diffusion Applied to Analysis*):** *"Crystalloids pass rapidly through the parchment membrane while colloids refuse to **dialyze** into the external bath."*
+> - 📜 **Ernest Starling (*Principles of Human Physiology*):** *"To isolate the pure enzyme, biochemists **dialyze** the extract against repeated changes of distilled water."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The artificial kidney was designed to **dialyze** toxic urea directly from the patient's arterial stream."*

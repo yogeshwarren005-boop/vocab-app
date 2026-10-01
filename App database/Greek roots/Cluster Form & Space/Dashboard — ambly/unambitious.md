@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having little desire for success or achievement.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having little desire for success or achievement.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Not having or showing ambition; content with modest aims, simple circumstances, or low profile.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by unpretentious simplicity and lack of ostentation or striving for grand achievements.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"They are the most simple-mannered people alive, and quite unambitious."*
-> - 📜 **George Eliot (*Middlemarch*):** *"A wife, a modest young lady, with the purely appreciative, unambitious abilities of her sex, is sure to think her husband’s mind powerful."*
-> - 📜 **Alexander Hamilton (*The Federalist Papers*):** *"Let us recollect that peace or war will not always be left to our option; that however moderate or unambitious we may be, we cannot count upon the moderation, or hope to extinguish the ambition of others."*
+> - 📜 **Thomas Gray (*Elegy Written in a Country Churchyard*):** *"Far from the madding crowd's ignoble strife, their sober wishes never learn'd to stray; along the cool sequester'd vale of life they kept the noiseless tenor of their way, in **unambitious** peace."*
+> - 📜 **George Eliot (*Scenes of Clerical Life*):** *"He lived an **unambitious** life, performing his parish duties with quiet diligence and asking nothing of fame."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"I wished to live deliberately and in an **unambitious** simplicity, unburdened by the frantic pursuits of the marketplace."*

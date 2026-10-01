@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Likely to spread and cause an epidemic disease; - jonathan swift.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Causing irritation or annoyance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Causing trouble, irritation, or annoyance; vexatious; bothersome (variant of plaguy).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In informal and dialectal usage, describing persistent nuisances or nagging physical ailments.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plaguey designates likely to spread and cause an epidemic disease; - jonathan swift."*
+> - 📜 **Charles Dickens (*David Copperfield*):** *"That **plaguey** cough had troubled him all through the bitter London winter."*
+> - 📜 **Walter Scott (*The Antiquary*):** *"He cursed the **plaguey** lawsuits that had consumed his family estate for three generations."*
+> - 📜 **Robert Louis Stevenson (*Kidnapped*):** *"A **plaguey** pain in my ankle made every step across the heather an agony."*

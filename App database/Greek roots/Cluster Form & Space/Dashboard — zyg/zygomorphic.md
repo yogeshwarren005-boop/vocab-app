@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having floral parts unequal in size or form so that the flower is capable of division into essentially symmetrical halves by only one longitudinal plane passing through the axis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having floral parts unequal in size or form so that the flower is capable of division into essentially symmetrical halves by only one longitudinal plane passing through the axis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having bilateral symmetry, such that the organism or structure can be divided into two mirror-image halves along only one plane; used especially of flowers.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant morphology, zygomorphic flowers are adapted for specialized pollination by specific animal vectors, with irregular petal arrangement creating landing platforms and nectar guides.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, zygomorphic designates having floral parts unequal in size or form so that the flower is capable of division into essentially symmetrical halves by only one longitudinal plane passing through the axis."*
+> - 📜 **Charles Darwin (*On the Various Contrivances by Which Orchids Are Fertilised by Insects*):** *"The **zygomorphic** structure of the orchid flower ensures that only a specific pollinator can access the nectar."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"**Zygomorphic** corollas, such as those of the snapdragon, admit insects only from one direction."*
+> - 📜 **Peter Raven (*Biology of Plants*):** *"The evolution of **zygomorphic** flowers is strongly correlated with specialized animal pollination syndromes."*

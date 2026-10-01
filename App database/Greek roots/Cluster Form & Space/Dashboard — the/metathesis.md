@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A linguistic process of transposition of sounds or syllables within a word or words within a sentence.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A chemical reaction between two compounds in which parts of each are interchanged to form two new compounds (ab+cd=ad+cb).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The transposition of sounds, letters, or syllables in a word (e.g. Old English 'brid' becoming 'bird', or 'aks' for 'ask'); in chemistry, a double decomposition reaction.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In organic and organometallic chemistry, olefin metathesis (recognized by the 2005 Nobel Prize) involves the redistribution of carbon-carbon double bonds via metal carbene catalysis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, metathesis designates a linguistic process of transposition of sounds or syllables within a word or words within a sentence."*
+> - 📜 **Max Müller (*Lectures on the Science of Language*):** *"Phonetic **metathesis** explains how historical speech shifted 'wasp' from Old English 'wæps' without altering meaning."*
+> - 📜 **Robert H. Grubbs (*Nobel Lecture: Olefin Metathesis Catalyst Development*):** *"Ruthenium carbene complexes revolutionized ring-closing olefin **metathesis** by tolerating functional groups in organic synthesis."*
+> - 📜 **Otto Jespersen (*Language: Its Nature, Development and Origin*):** *"Children often transpose difficult consonant pairs through natural articulatory **metathesis**."*

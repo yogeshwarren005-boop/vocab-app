@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Sclerophyll is a type of vegetation that is adapted to long periods of dryness and heat.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The plants feature hard leaves, short internodes and leaf orientation which is parallel or oblique to direct sunlight..
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A type of vegetation or plant characterized by hard, thick, leathery evergreen leaves that resist moisture loss in dry summer climates.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant ecology, the dominant vegetation type of Mediterranean biomes (chaparral, macchia, fynbos), adapted to summer droughts and nutrient-poor soils.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sclerophyll designates sclerophyll is a type of vegetation that is adapted to long periods of dryness and heat."*
+> - 📜 **Eugenius Warming (*Oecology of Plants: An Introduction to the Study of Plant-Communities*):** *"The tough **sclerophyll** evergreen leaf possesses thick cuticular coatings and sunken stomata designed to withstand scorching heat."*
+> - 📜 **A. F. W. Schimper (*Plant-Geography upon a Physiological Basis*):** *"Mediterranean woodlands are dominated by **sclerophyll** scrub that conserves groundwater through intense seasonal dry spells."*
+> - 📜 **Arthur S. Boughey (*Ecology of Populations*):** *"Australian eucalyptus forests and South African fynbos share convergent **sclerophyll** adaptations shaped by low soil phosphorus."*

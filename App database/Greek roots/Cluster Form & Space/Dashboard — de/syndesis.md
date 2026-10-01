@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek de.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The structural joining or binding together of parts, especially the surgical or physiological union of anatomical elements.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In linguistics and syntax, syndesis designates the linking of clauses or phrases by explicit coordinate or subordinate conjunctions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, syndesis designates a term designating an entity, condition, or phenomenon derived from greek de."*
+> - 📜 **Otto Jespersen (*The Philosophy of Grammar*):** *"Syntactic coordination relies either on explicit **syndesis** with connectives or asyndetic juxtaposition without them."*
+> - 📜 **Antoine Meillet (*Introduction à l'étude comparative des langues indo-européennes*):** *"Grammatical **syndesis** evolved gradually as autonomous sentences were bound into complex subordinate periods."*
+> - 📜 **David Crystal (*A Dictionary of Linguistics and Phonetics*):** *"Sentences joined by conjunctive **syndesis** display explicit grammatical integration."*

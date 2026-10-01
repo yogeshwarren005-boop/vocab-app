@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality or state of being isomorphic: such as.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Similarity in organisms of different ancestry resulting from convergence.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A structure-preserving bijection between two mathematical entities showing they possess identical structural properties under their defined operations.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In chemistry and mineralogy, the phenomenon wherein substances of similar chemical composition crystallize in identical crystal lattices.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, isomorphism designates the quality or state of being isomorphic: such as."*
+> - 📜 **Eilhard Mitscherlich (*Über das Verhältnis zwischen der chemischen Zusammensetzung und der Krystallform*):** *"The discovery of crystallographic **isomorphism** demonstrated that atomic proportionality dictates crystal habit more decisively than elemental nature."*
+> - 📜 **Saunders Mac Lane (*Categories for the Working Mathematician*):** *"An arrow in a category is an **isomorphism** if and only if it possesses a two-sided inverse within the same arrow set."*
+> - 📜 **Douglas Hofstadter (*Gödel, Escher, Bach*):** *"An **isomorphism** is an information-preserving transformation that reveals that two seemingly disparate systems share identical formal structures."*

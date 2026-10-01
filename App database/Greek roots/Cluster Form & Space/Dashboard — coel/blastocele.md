@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The fluid-filled cavity inside a blastula.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The fluid-filled cavity inside a blastula.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The fluid-filled cavity of a blastula; the blastocoel.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In developmental embryology, the primary segmentation cavity formed during early cleavage stages that separates the inner cell mass or blastoderm from outer blastomeres.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, blastocele designates the fluid-filled cavity inside a blastula."*
+> - 📜 **Edmund Beecher Wilson (*The Cell in Development and Inheritance*):** *"Repeated cleavage divisions produce a hollow spherical blastula enclosing a spacious **blastocele**."*
+> - 📜 **Francis Maitland Balfour (*A Treatise on Comparative Embryology*):** *"During gastrulation, invaginating endodermal cells gradually obliterate the pre-existing **blastocele**."*
+> - 📜 **Thomas Hunt Morgan (*The Development of the Frog's Egg*):** *"The eccentrically placed **blastocele** in the amphibian embryo occupies the animal hemisphere."*

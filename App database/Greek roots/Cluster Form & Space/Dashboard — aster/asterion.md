@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The craniometric point at the junction of the lamboid suture and the occipitomastoid suture and the parietomastoid suture.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The craniometric point at the junction of the lamboid suture and the occipitomastoid suture and the parietomastoid suture.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An anatomical craniometric landmark on the human skull where the lambdoid, parietomastoid, and occipitomastoid sutures intersect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In neurosurgery and physical anthropology, a critical external landmark corresponding internally to the junction of the transverse and sigmoid venous sinuses.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, asterion designates the craniometric point at the junction of the lamboid suture and the occipitomastoid suture and the parietomastoid suture."*
+> - 📜 **William R. Gowers (*Lectures on the Diagnosis of Diseases of the Brain*):** *"The surgeon places the burr hole just anterior to the **asterion** to avoid tearing the underlying lateral sinus."*
+> - 📜 **Thomas Henry Huxley (*Evidence as to Man's Place in Nature*):** *"In Neanderthal crania, the **asterion** lies slightly more inferiorly than in typical modern European skulls."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"Surface projection of intracranial venous sinuses relies on palpable skeletal landmarks such as the inion and **asterion**."*

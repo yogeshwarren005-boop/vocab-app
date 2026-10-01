@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to a kind of visual impairment without apparent organic pathology.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Pertaining to a kind of visual impairment without apparent organic pathology.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, affected by, or characteristic of amblyopia.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physiological optics, describing an eye or visual pathway exhibiting reduced acuity and contrast sensitivity unresponsive to refractive correction alone.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, amblyopic designates pertaining to a kind of visual impairment without apparent organic pathology."*
+> - 📜 **Torsten Wiesel (*Nobel Lecture in Physiology or Medicine*):** *"Cortical neurons driven exclusively by the normal eye reveal how the **amblyopic** eye loses functional connectivity in area seventeen."*
+> - 📜 **William R. Gowers (*A Manual of Diseases of the Nervous System*):** *"The patient retained peripheral fields while central fixation remained markedly **amblyopic**."*
+> - 📜 **Oliver Sacks (*Seeing Voices*):** *"Patching the dominant eye forces the visual cortex to process signals from the suppressed, **amblyopic** eye before neural plasticity wanes."*

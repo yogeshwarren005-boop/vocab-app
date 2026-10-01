@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek centr.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In classical Greek art and mythology, a battle or combat between the Lapiths and the Centaurs, especially at the wedding feast of Peirithoos.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In art history, a celebrated allegorical motif in Greek architectural sculpture (such as the Parthenon metopes) symbolizing the triumph of civilization over barbarism.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centauromachy designates a term designating an entity, condition, or phenomenon derived from greek centr."*
+> - 📜 **John Ruskin (*Aratra Pentelici*):** *"On the high metopes of the Parthenon, the fierce **centauromachy** embodies the eternal struggle between civic intellect and bestial fury."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The marble friezes commemorating the ancient **centauromachy** displayed the athletic grace of Athenian sculptors in their prime."*
+> - 📜 **Walter Pater (*Greek Studies*):** *"The sculptor depicted the **centauromachy** with rhythmic balance, harmonizing human muscular poise against the wild rearing of equine limbs."*

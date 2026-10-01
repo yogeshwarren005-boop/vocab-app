@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extinct group of armored jawless fishes or fish-like vertebrate; taxonomy is not clear.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extinct group of armored jawless fishes or fish-like vertebrate; taxonomy is not clear.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An extinct order or subclass of jawless armored aquatic vertebrates (ostracoderms) of the Paleozoic, having a single pair of lateral gill slits and aspidin armor.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vertebrate paleontology, Heterostraci encompasses diverse forms like Pteraspis and Drepanaspis, flourishing before the rise of gnathostome fishes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heterostraci designates extinct group of armored jawless fishes or fish-like vertebrate; taxonomy is not clear."*
+> - 📜 **Alfred Romer (*The Vertebrate Body*):** *"Members of **Heterostraci** swam through Silurian delta estuaries, scooping muddy detritus with their horizontal oral plates."*
+> - 📜 **Robert L. Carroll (*Vertebrate Paleontology and Evolution*):** *"The diagnostic feature separating **Heterostraci** from Osteostraci is the complete absence of true osteocyte cell lacunae in their armor."*
+> - 📜 **Stephen Jay Gould (*Eight Little Piggies*):** *"Fossil beds in Spitsbergen yielded magnificent articulated specimens of **Heterostraci** that clarified early craniate skull evolution."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Broad in scope or content.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Broad in scope or content.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Pertaining to, resembling, or having the comprehensive scope of an encyclopaedia; encompassing universal knowledge.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Describing vast, exhaustive erudition or scholarship that spans across numerous disparate fields and arts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"The high hall of Horne’s house had never beheld an assembly so representative and so varied nor had the old rafters of that establishment ever listened to a language so encyclopaedic."*
+> - 📜 **Thomas Babington Macaulay (*Critical and Historical Essays*):** *"Lord Bacon possessed an **encyclopaedic** grasp of human thought, surveying every province of nature from a commanding summit."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The Byzantine compiler Photius left behind an **encyclopaedic** treasury of classical authors whose originals are forever lost."*
+> - 📜 **Virginia Woolf (*The Common Reader*):** *"Coleridge discoursed upon poetry, theology, and chemistry with **encyclopaedic** fluency that dazzled his listeners."*

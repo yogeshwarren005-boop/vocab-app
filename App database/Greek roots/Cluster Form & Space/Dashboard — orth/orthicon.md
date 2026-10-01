@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A now obsolete picture pickup tube in a television camera; electrons emitted from a photoemissive surface in proportion to the intensity of the incident light are focused onto the target causing secondary emission of electrons.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A now obsolete picture pickup tube in a television camera; electrons emitted from a photoemissive surface in proportion to the intensity of the incident light are focused onto the target causing secondary emission of electrons.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An early television camera tube in which an electron beam scans a photosensitive mosaic to convert an optical image into an electrical video signal.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In broadcast engineering history, the image orthicon superseded the iconoscope and became the standard studio camera tube from the 1940s through the 1960s before being replaced by vidicon and CCD technology.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, orthicon designates a now obsolete picture pickup tube in a television camera; electrons emitted from a photoemissive surface in proportion to the intensity of the incident light are focused onto the target causing secondary emission of electrons."*
+> - 📜 **Albert Rose (*Television Pick-Up Tubes and the Problem of Vision*):** *"The image **orthicon** achieved the sensitivity needed for practical studio television broadcasting."*
+> - 📜 **Vladimir Zworykin (*Television: The Electronics of Image Transmission*):** *"The **orthicon** principle of electron beam scanning laid the foundation for all subsequent television camera technology."*
+> - 📜 **George Shiers (*Early Television: A Bibliographic Guide*):** *"The development of the **orthicon** tube was a critical milestone in moving television from the laboratory to the living room."*

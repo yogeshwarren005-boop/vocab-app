@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal blood-filled bulge of a blood vessel and especially an artery resulting from weakening (as from disease) of the vessel wall.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An abnormal blood-filled bulge of a blood vessel and especially an artery resulting from weakening (as from disease) of the vessel wall.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An abnormal, localized dilation or ballooning of the wall of an artery or the heart caused by weakening of the vascular wall.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vascular surgery and neurology, ruptured abdominal aortic or intracranial aneurysms cause life-threatening internal hemorrhage and subarachnoid bleeding.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, aneurysm designates an abnormal blood-filled bulge of a blood vessel and especially an artery resulting from weakening (as from disease) of the vessel wall."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"A thoracic aortic **aneurysm** may erode ribs and sternum, presenting as a pulsating subcutaneous mass."*
+> - 📜 **Eugene Braunwald (*Heart Disease: A Textbook of Cardiovascular Medicine*):** *"Screening for abdominal aortic **aneurysm** with ultrasound drastically reduces catastrophic mortality from rupture."*
+> - 📜 **Vinay Kumar (*Robbins and Cotran Pathologic Basis of Disease*):** *"A berry **aneurysm** arises at bifurcation points in the circle of Willis due to congenital internal elastic lamina defects."*

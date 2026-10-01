@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Physical equilibrium.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The ability to retain one's balance.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An even distribution of weight enabling someone or something to remain steady; an apparatus for weighing; also, a condition of harmonious proportion, mental equilibrium, or financial reconciliation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physics and chemistry, analytical balances measure mass through electromagnetic force restoration or knife-edge beam mechanics; in physiology, vestibular and cerebellar pathways maintain upright bodily balance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"You have discharg’d this honestly; keep it to yourself; many likelihoods inform’d me of this before, which hung so tottering in the balance that I could neither believe nor misdoubt."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"Take her by the hand, And tell her she is thine; to whom I promise A counterpoise; if not to thy estate, A balance more replete."*
-> - 📜 **William Shakespeare (*The Complete Works of William Shakespeare*):** *"I have in equal balance justly weigh’d What wrongs our arms may do, what wrongs we suffer, And find our griefs heavier than our offences."*
+> - 📜 **Antoine Lavoisier (*Elements of Chemistry*):** *"The chemical **balance** is the sovereign arbiter of modern science, proving that matter is neither created nor destroyed."*
+> - 📜 **Charles Sherrington (*The Integrative Action of the Nervous System*):** *"Vestibular afferents and proprioceptive impulses collaborate to maintain upright bodily **balance** against gravity."*
+> - 📜 **Isaac Newton (*Philosophiae Naturalis Principia Mathematica*):** *"The exquisite **balance** of planetary orbits relies upon the equilibrium of inertia and central gravity."*

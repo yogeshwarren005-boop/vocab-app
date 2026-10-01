@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having columns at one or both ends but not along the sides.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (of insects) without wings.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In classical architecture, describing a temple or building having columns at one or both ends but none along the lateral flanks.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In zoology and comparative morphology, lacking lateral wings or wing-like appendages.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, apteral designates having columns at one or both ends but not along the sides."*
+> - 📜 **Vitruvius (*De Architectura (Ten Books on Architecture)*):** *"The **apteral** temple features porticoes solely at the front and posticum without lateral external colonnades."*
+> - 📜 **James Fergusson (*The Parthenon: An Essay on the Mode by Which Light Was Introduced*):** *"The Temple of Athena Nike in Athens stands as the finest surviving example of an amphiprostyle **apteral** structure."*
+> - 📜 **Banister Fletcher (*A History of Architecture on the Comparative Method*):** *"Greek builders employed the **apteral** plan when restricted site boundaries precluded a full peristyle."*

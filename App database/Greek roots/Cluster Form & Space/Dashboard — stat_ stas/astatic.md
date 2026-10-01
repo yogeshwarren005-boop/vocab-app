@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Not static or stable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Not static or stable.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having no tendency to take up any particular direction or position; in physics, being in neutral equilibrium toward external magnetic or gravitational forces.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In electrical instrumentation, an astatic galvanometer employs a pair of opposed magnetic needles that neutralize terrestrial magnetism, isolating the effect of measured current.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, astatic designates not static or stable."*
+> - 📜 **Lord Kelvin (*Mathematical and Physical Papers*):** *"By arranging two identical magnetic needles with opposing poles, the suspended system becomes truly **astatic** and free from terrestrial bias."*
+> - 📜 **James Clerk Maxwell (*A Treatise on Electricity and Magnetism*):** *"The sensitivity of Nobili's **astatic** galvanometer enabled detection of the faintest thermoelectric currents."*
+> - 📜 **Michael Faraday (*Experimental Researches in Electricity*):** *"The deflection of the **astatic** system confirmed that induction occurs across the surrounding dielectric space."*

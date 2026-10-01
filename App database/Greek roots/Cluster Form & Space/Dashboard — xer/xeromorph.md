@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek xer.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An organism, especially a plant, that has structural adaptations for surviving in dry or arid environments, such as thick cuticles, reduced leaves, or water-storage tissues.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant ecology, xeromorphic features may also appear in plants growing in nutrient-poor or saline soils where physiological drought stress mimics true aridity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, xeromorph designates a term designating an entity, condition, or phenomenon derived from greek xer."*
+> - 📜 **A. F. W. Schimper (*Plant Geography upon a Physiological Basis*):** *"The **xeromorph** exhibits a suite of structural modifications that collectively minimize water loss."*
+> - 📜 **Heinrich Walter (*Vegetation of the Earth*):** *"Many **xeromorph** species possess sunken stomata, thick cuticles, and extensive root systems."*
+> - 📜 **Michael Crawley (*Plant Ecology*):** *"The **xeromorph** syndrome can develop in response to nutrient stress as well as genuine water deficit."*

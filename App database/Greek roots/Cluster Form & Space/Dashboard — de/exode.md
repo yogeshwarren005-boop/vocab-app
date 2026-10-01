@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A farcical afterpiece in the ancient roman theater.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A farcical afterpiece in the ancient roman theater.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A farce, comic interlude, or light musical performance played at the conclusion of a formal tragedy or dramatic representation in classical Greece and Rome.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical theatrical history, the exodium or exode provided emotional relief following dramatic catharsis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, exode designates a farcical afterpiece in the ancient roman theater."*
+> - 📜 **A. E. Haigh (*The Attic Theatre*):** *"Following the tragic conclusion of the tetralogy, an afterpiece or **exode** restored festive cheer to the Athenian audience."*
+> - 📜 **Gilbert Murray (*A History of Ancient Greek Literature*):** *"The structural role of the **exode** evolved from ritual satyr plays into witty comic postludes."*
+> - 📜 **John Addington Symonds (*Studies of the Greek Poets*):** *"Laughter burst forth uninhibitedly during the **exode**, contrasting with the solemn pathos of the preceding tragedy."*

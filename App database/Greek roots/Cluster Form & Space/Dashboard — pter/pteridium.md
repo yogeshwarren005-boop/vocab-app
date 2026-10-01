@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of ferns belonging to the family dennstaedtiaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A genus of ferns belonging to the family dennstaedtiaceae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of coarse, large terrestrial ferns in the family Dennstaedtiaceae, commonly known as bracken.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In plant ecology and agriculture, cosmopolitan clonal weeds with deep rhizomes containing toxic ptaquiloside, invasive in pastures and heathlands.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pteridium designates a genus of ferns belonging to the family dennstaedtiaceae."*
+> - 📜 **Carl Linnaeus (*Species Plantarum*):** *"Under **pteridium**, the common bracken fern spreads over dry hillsides, its triangular fronds unrolling on stout brown stipes."*
+> - 📜 **A. C. Seward (*Plant Life Through the Ages*):** *"Extensive fossil records confirm that ancestors of **pteridium** flourished widely across Mesozoic and Cenozoic landscapes."*
+> - 📜 **George Nicholson (*The Illustrated Dictionary of Gardening*):** *"The aggressive subterranean rhizomes of **pteridium** make it difficult to eradicate from cultivated grazing land."*

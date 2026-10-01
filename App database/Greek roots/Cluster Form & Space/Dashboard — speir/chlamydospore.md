@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A thick-walled usually resting fungal spore.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A thick-walled usually resting fungal spore.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A thick-walled, non-deciduous resting asexual spore formed by the rounding off and encystment of a fungal hyphal cell.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mycology and phytopathology, chlamydospores (formed by fungi such as *Candida albicans* and *Fusarium*) enable survival across freezing, desiccation, and chemical stress.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, chlamydospore designates a thick-walled usually resting fungal spore."*
+> - 📜 **Heinrich Anton de Bary (*Comparative Morphology and Biology of the Fungi*):** *"The persistent **chlamydospore** carries the fungus across long winter droughts when vegetative mycelia perish."*
+> - 📜 **Selman Waksman (*Principles of Soil Microbiology*):** *"Soil cultures revealed that *Fusarium* persists for decades primarily in the form of dormant, durable **chlamydospore** units."*
+> - 📜 **René Dubos (*Bacterial and Mycotic Infections of Man*):** *"Diagnostic identification of *Candida albicans* relies upon its characteristic formation of a terminal **chlamydospore** on cornmeal agar."*

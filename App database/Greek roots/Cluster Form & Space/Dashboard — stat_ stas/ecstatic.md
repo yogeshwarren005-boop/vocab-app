@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeling great rapture or delight.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Feeling great rapture or delight.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Feeling, expressing, or characterized by overwhelming happiness, joyful excitement, or mystical rapture.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In religious history and psychology, ecstatic states involve dissociation from ordinary sensory awareness, accompanied by visionary or mystical transport.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"Having seen that it was really her lover who had advanced, and no one else, her lips parted, and she sank upon him in her momentary joy, with something very like an ecstatic cry."*
-> - 📜 **Thomas Hardy (*Tess of the d'Urbervilles: A Pure Woman*):** *"In the ecstatic solemnity with which she swore her faith to him the ordinary sensibilities of sex seemed a flippancy."*
-> - 📜 **Charlotte Brontë (*Jane Eyre: An Autobiography*):** *"Que c’est beau!” and then remained absorbed in ecstatic contemplation."*
+> - 📜 **William James (*The Varieties of Religious Experience*):** *"The mystic enters an **ecstatic** communion wherein the boundaries between self and the cosmos dissolve into luminous serenity."*
+> - 📜 **Percy Bysshe Shelley (*To a Skylark*):** *"Hail to thee, blithe Spirit! Bird thou never wert, that from Heaven, or near it, pourest thy full heart in profuse strains of **ecstatic** art."*
+> - 📜 **Charlotte Brontë (*Villette*):** *"My heart bounded with an **ecstatic** relief that was almost too intense for reason to bear."*

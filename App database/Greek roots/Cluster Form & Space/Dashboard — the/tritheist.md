@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone (not an orthodox christian) who believes that the father and son and holy ghost are three separate gods.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone (not an orthodox christian) who believes that the father and son and holy ghost are three separate gods.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A person who believes that the Trinity consists of three distinct and independent gods.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ecclesiastical history, thinkers such as Philoponus or Roscelin were labeled tritheists by contemporaries for asserting that each divine hypostasis possessed a separate individual substance.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, tritheist designates someone (not an orthodox christian) who believes that the father and son and holy ghost are three separate gods."*
+> - 📜 **Henry Hart Milman (*History of Latin Christianity*):** *"Roscelin was accused of being a **tritheist** because his nominalism recognized no reality beyond individual particulars."*
+> - 📜 **Thomas Aquinas (*Summa Theologiae*):** *"The orthodox teacher must refute the **tritheist** who divides the divine essence into three separate deities."*
+> - 📜 **Richard Baxter (*The Saints' Everlasting Rest*):** *"Beware the sophistry that turns the holy mystery of the Trinity into the blasphemy of a **tritheist**."*

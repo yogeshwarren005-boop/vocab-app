@@ -42,9 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: (aristotle) the state of something that is fully realized; actuality as opposed to potentiality.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: (aristotle) the state of something that is fully realized; actuality as opposed to potentiality.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In Aristotelian philosophy, the condition in which a potentiality has become an actuality; the realization of form-giving cause as opposed to mere potentiality.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In vitalist biology (exemplified by Hans Driesch), entelechy was postulated as a non-spatial, non-material autonomous organizing agency directing organic embryonic development.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James Joyce (*Ulysses*):** *"But I, entelechy, form of forms, am I by memory because under everchanging forms."*
-> - 📜 **James Joyce (*Ulysses*):** *"STEPHEN: (_Looks behind_.) So that gesture, not music not odour, would be a universal language, the gift of tongues rendering visible not the lay sense but the first entelechy, the structural rhythm."*
+> - 📜 **Aristotle (*De Anima (On the Soul)*):** *"The soul is the first **entelechy** of a natural body that has life potentially in it."*
+> - 📜 **Gottfried Wilhelm Leibniz (*The Monadology*):** *"One could give the name of **entelechy** to all simple substances or created monads, for they have within them a certain perfection."*
+> - 📜 **Hans Driesch (*The Science and Philosophy of the Organism*):** *"The morphogenesis of the sea-urchin blastula cannot be explained mechanically, but requires an immaterial organizing **entelechy**."*

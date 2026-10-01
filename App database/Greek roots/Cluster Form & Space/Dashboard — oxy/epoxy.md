@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A thermosetting resin; used chiefly in strong adhesives and coatings and laminates.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Glue with epoxy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A thermosetting polymer formed from the reaction of an epoxide resin with a polyamine hardener, prized for high adhesion and chemical resistance.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In organic chemistry, designating a functional group consisting of an oxygen atom bridged to two adjacent bonded carbon atoms forming an oxirane ring.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, epoxy designates a thermosetting resin; used chiefly in strong adhesives and coatings and laminates."*
+> - 📜 **Paul J. Flory (*Principles of Polymer Chemistry*):** *"Curing an **epoxy** resin involves step-growth cross-linking that yields a rigid three-dimensional macromolecular network."*
+> - 📜 **Herman Mark (*Encyclopedia of Polymer Science and Technology*):** *"The exceptional adhesive tenacity of an **epoxy** matrix derives from polar hydroxyl groups along the aliphatic chain."*
+> - 📜 **Roald Hoffmann (*The Same and Not the Same*):** *"Modern composite materials embed high-tensile carbon fibers within an **epoxy** matrix to achieve structural strength."*

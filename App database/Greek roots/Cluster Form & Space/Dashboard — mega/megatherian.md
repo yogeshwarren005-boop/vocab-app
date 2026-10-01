@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A large extinct ground sloth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A large extinct ground sloth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or resembling the giant ground sloth Megatherium or the family Megatheriidae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In comparative osteology and mammalian paleontology, characterizing colossal xenarthran skeletal structures, columnar hindlimbs, and massive calcanea.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, megatherian designates a large extinct ground sloth."*
+> - 📜 **Richard Owen (*A History of British Fossil Reptiles*):** *"The robust limb bones display distinct **megatherian** proportions, designed to support enormous compressive loads."*
+> - 📜 **Charles Darwin (*The Voyage of the Beagle*):** *"The pampean plains abound in **megatherian** remains buried beneath red clay and pampean silt."*
+> - 📜 **Thomas Henry Huxley (*A Manual of the Anatomy of Vertebrated Animals*):** *"Osteological comparisons confirm the close phylogenetic relationship between living arboreal sloths and the extinct **megatherian** giants."*

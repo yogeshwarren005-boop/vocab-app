@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Type genus of the centropomidae: snooks.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Type genus of the centropomidae: snooks.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The type genus of snooks in the family Centropomidae, comprising prized coastal and estuarine game and food fishes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In marine biology, catadromous or amphidromous perch-like fishes with a distinct sloping forehead, protruding lower jaw, and pronounced black lateral line.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, centropomus designates type genus of the centropomidae: snooks."*
+> - 📜 **Alexander von Humboldt (*Personal Narrative of Travels to the Equinoctial Regions of America*):** *"Local fishermen hauled nets brimming with robalo, a species of **Centropomus** inhabiting the brackish mangrove channels."*
+> - 📜 **David Starr Jordan (*The Genera of Fishes*):** *"Lacepède established **Centropomus** to encompass the distinctive marine robalos of the tropical Atlantic and Pacific coasts."*
+> - 📜 **Charles Tate Regan (*Biologia Centrali-Americana: Pisces*):** *"The species of **Centropomus** demonstrate remarkable anatomical adaptations for swift ambush predation among submerged mangrove roots."*

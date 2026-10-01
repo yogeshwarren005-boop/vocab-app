@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to ateleiosis.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to ateleiosis.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or affected by ateleiosis (proportionate dwarfism caused by hypopituitarism).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical anthropology and dysmorphology, an ateleiotic individual displays delayed epiphyseal closure and preservation of childhood craniofacial ratios.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ateleiotic designates of or relating to ateleiosis."*
+> - 📜 **Hastings Gilford (*Ateleiosis: A Form of Dwarfism*):** *"The **ateleiotic** dwarf displays graceful bodily harmony and normal intellect despite extreme reduction in stature."*
+> - 📜 **William Osler (*Lectures on Angina Pectoris and Allied States*):** *"Careful radiographic inspection of an **ateleiotic** youth showed that the radial epiphyses remained open decades past normal puberty."*
+> - 📜 **Harvey Cushing (*Papers Relating to the Pituitary Body*):** *"Deficient anterior pituitary hormones account for the uniform, miniature proportions of the **ateleiotic** skeleton."*

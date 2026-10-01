@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek phryn.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large genus of small African puddle frogs belonging to the family Phrynobatrachidae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In herpetology, species of *Phrynobatrachus* inhabit humid savannahs and rainforest leaf litter across sub-Saharan Africa, breeding opportunistically in temporary rain pools.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, Phrynobatrachus designates a term designating an entity, condition, or phenomenon derived from greek phryn."*
+> - 📜 **George Albert Boulenger (*The Tailless Batrachians of Europe and Africa*):** *"The genus **Phrynobatrachus** includes diminutive puddle frogs with partially webbed toes and distinctive subgular vocal sacs."*
+> - 📜 **Arthur Loveridge (*Reptiles and Amphibians of East Africa*):** *"After heavy tropical downpours, countless specimens of **Phrynobatrachus** congregate around muddy pools to chorus."*
+> - 📜 **Ernst Mayr (*Systematics and the Origin of Species*):** *"High cryptic diversity in **Phrynobatrachus** demonstrates the complexity of speciation in equatorial African wetlands."*

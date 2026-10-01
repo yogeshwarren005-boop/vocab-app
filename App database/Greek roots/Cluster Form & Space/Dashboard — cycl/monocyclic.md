@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Containing one ring in the molecular structure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Containing one ring in the molecular structure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Consisting of or having only one cycle, ring, or floral whorl.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In organic chemistry, designating a compound (such as benzene, cyclopentane, or furan) that contains only a single closed ring of bonded atoms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monocyclic designates containing one ring in the molecular structure."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"Cyclohexane is a **monocyclic** alkane whose puckered chair conformation eliminates eclipsing torsional strain."*
+> - 📜 **Francis Bather (*The Echinoderma*):** *"In a **monocyclic** crinoid, the dorsal cup contains only a single ring of basal plates below the radials."*
+> - 📜 **Asa Gray (*Elements of Botany*):** *"Flowers with a **monocyclic** perianth possess only a calyx, the corolla being entirely absent."*

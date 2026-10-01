@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of S, s.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of S, s.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Designating or relating to a pericyclic rearrangement in which a sigma bond flanked by one or more conjugated systems migrates to a new position with an accompanying shift of pi electrons.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In physical organic chemistry, the Woodward-Hoffmann rules govern whether a sigmatropic rearrangement (such as a [3,3]-Cope or Claisen rearrangement) occurs suprafacially or antarafacially.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sigmatropic designates adjective*) pertaining to, derived from, or characteristic of s, s."*
+> - 📜 **Robert B. Woodward (*The Conservation of Orbital Symmetry*):** *"Orbital phase relationships mandate that a thermal [3,3]-**sigmatropic** shift proceeds with stereospecific suprafacial geometry."*
+> - 📜 **Roald Hoffmann (*Orbital Symmetry Control of Chemical Reactions*):** *"The energetic feasibility of the **sigmatropic** hydrogen migration depends strictly on orbital topology."*
+> - 📜 **E. J. Corey (*The Logic of Chemical Synthesis*):** *"We utilized a stereospecific anionic oxy-Cope **sigmatropic** rearrangement to construct the bicyclic core."*

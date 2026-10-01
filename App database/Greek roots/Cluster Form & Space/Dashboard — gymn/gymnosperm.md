@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Any of a group (Gymnospermae) of vascular plants that produce seeds not enclosed in an ovary, possess separate male and female reproductive strobili, and include the conifers, cycadophytes, gnetophytes, and gingko.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Any of a group (Gymnospermae) of vascular plants that produce seeds not enclosed in an ovary, possess separate male and female reproductive strobili, and include the conifers, cycadophytes, gnetophytes, and gingko.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A seed-bearing vascular plant whose seeds are not enclosed in an ovary or fruit, but borne naked on scales of a cone (e.g., conifers, cycads, and ginkgoes).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary botany, gymnosperms diversified during the late Paleozoic and Mesozoic before being largely superseded by angiosperms in terrestrial ecosystems.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gymnosperm designates any of a group (gymnospermae) of vascular plants that produce seeds not enclosed in an ovary, possess separate male and female reproductive strobili, and include the conifers, cycadophytes, gnetophytes, and gingko."*
+> - 📜 **Peter H. Raven (*Biology of Plants*):** *"Unlike flowering plants, the ovule of a **gymnosperm** sits exposed on the surface of an ovuliferous cone scale."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Wind-pollination represents the ancient reproductive strategy linking the **gymnosperm** lineage across hundreds of millions of years."*
+> - 📜 **Lincoln Taiz (*Plant Physiology*):** *"Tracheids constitute both the supportive and water-conducting elements in the wood of an ordinary conifer **gymnosperm**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek pter.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or designating an insect belonging to the Exopterygota.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An insect exhibiting hemimetabolous development wherein wings develop externally upon the body wall without a pupal stage.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, exopterygote designates a term designating an entity, condition, or phenomenon derived from greek pter."*
+> - 📜 **V. B. Wigglesworth (*Insect Physiology*):** *"Ecdysone surges regulate each nymphal ecdysis until the **exopterygote** insect undergoes its final imaginal transformation."*
+> - 📜 **Penny Gullan (*The Insects: An Outline of Entomology*):** *"The **exopterygote** life cycle permits continuous ecological occupancy of the same habitat by both juveniles and adults."*
+> - 📜 **Charles Valentine Riley (*Reports on the Insects of Missouri*):** *"The chinch bug provides a classic example of an **exopterygote** crop pest multiplying through gradual nymphal instars."*

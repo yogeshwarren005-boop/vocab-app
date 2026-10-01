@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the study of ferns.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the study of ferns.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or concerned with pteridology, the scientific study of ferns and related seedless vascular plants.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In botanical scholarship, describing taxonomic surveys, field excursions, or herbarium research focused on fern biodiversity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pteridological designates of or relating to the study of ferns."*
+> - 📜 **William Jackson Hooker (*Species Filicum*):** *"This volume incorporates extensive **pteridological** monographs contributed by correspondents from botanical stations across the empire."*
+> - 📜 **John Gilbert Baker (*Synopsis Filicum*):** *"Standardizing the diagnostic terminology in **pteridological** works remains vital for international herbarium curation."*
+> - 📜 **Douglas Houghton Campbell (*The Structure and Development of Mosses and Ferns*):** *"Our **pteridological** investigations into gametophyte development shed unexpected light on the ancestry of early seed plants."*

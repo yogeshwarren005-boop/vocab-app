@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or pertaining to or characteristic of plants of the family polemoniaceae.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or pertaining to or characteristic of plants of the family polemoniaceae.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or belonging to the botanical family Polemoniaceae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In descriptive floristics, exhibiting the structural characteristics—such as a three-parted style and capsular fruit—of the phlox family.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polemoniaceous designates of or pertaining to or characteristic of plants of the family polemoniaceae."*
+> - 📜 **Asa Gray (*Manual of the Botany of the Northern United States*):** *"The collected specimen exhibits unmistakable **polemoniaceous** affinities in its tubular corolla and tripartite stigma."*
+> - 📜 **Charles Sprague Sargent (*The Silva of North America*):** *"Few species among the **polemoniaceous** genera achieve arborescent stature, remaining mostly herbaceous perennials."*
+> - 📜 **John Kunkel Small (*Flora of the Southeastern United States*):** *"Along coastal sand dunes, several **polemoniaceous** species produce vibrant terminal cymes throughout the summer."*

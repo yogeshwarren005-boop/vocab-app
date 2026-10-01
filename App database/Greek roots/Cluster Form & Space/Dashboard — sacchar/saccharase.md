@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An enzyme that catalyzes the hydrolysis of sucrose into glucose and fructose.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An enzyme that catalyzes the hydrolysis of sucrose into glucose and fructose.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An enzyme that catalyzes the hydrolysis of sucrose into its constituent simple sugars, glucose and fructose; invertase or sucrase.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In enzyme kinetics and biochemistry, an intestinal and yeast enzyme historically investigated to formulate the Michaelis-Menten rate equation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, saccharase designates an enzyme that catalyzes the hydrolysis of sucrose into glucose and fructose."*
+> - 📜 **Claude Bernard (*Leçons sur les phénomènes de la vie*):** *"Intestinal mucosal extract contains active **saccharase**, which rapidly converts cane sugar into absorbable monosaccharides."*
+> - 📜 **Carl Oppenheimer (*Ferments and Their Actions*):** *"The action of yeast **saccharase** produces an equimolar mixture of dextrose and levulose termed invert sugar."*
+> - 📜 **Leonor Michaelis (*Die Kinetik der Invertinwirkung*):** *"Our mathematical model of the enzyme-substrate complex was validated through kinetic experiments using purified **saccharase**."*

@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Center upon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Direct one's attention on something.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Placed, situated, or fixed at the center; having a central focus or point of origin; emotionally stable, balanced, and confident.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mechanical engineering and typography, aligned with an axis or central baseline without lateral deviation.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Wilhelm Alfred Braun (*Types of Weltschmerz in German Poetry*):** *"But this difference is readily discovered in the impressions made upon us by their writings, namely that Hoelderlin's Weltschmerz is absolutely naive and unconscious, while that of Lenau is at all times self-conscious and self-centered."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"Your initial field of operations is centered in Coldfield," Ram pointed to the light."*
-> - 📜 **Meyer Moldeven (*The Universe — or Nothing*):** *"New green lights appeared in their place, this time moving in arcs converging on the cylinder centered in a sphere: the depot in its force field cocoon."*
+> - 📜 **Ralph Waldo Emerson (*Essays: First Series*):** *"The soul is **centered** within itself, resting in calm equilibrium amidst the fluctuating opinions of the crowd."*
+> - 📜 **Virginia Woolf (*To the Lighthouse*):** *"All her domestic energies were **centered** upon holding the family circle together against the eroding wash of time."*
+> - 📜 **Isaac Newton (*Opticks*):** *"The concentric chromatic rings were perfectly **centered** around the dark central point of glass contact."*

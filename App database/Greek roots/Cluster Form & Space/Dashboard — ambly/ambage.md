@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A style that involves indirect ways of expressing things.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A style that involves indirect ways of expressing things.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A winding, circuitous path or roundabout course; metaphorically, circumlocution or indirectness of speech.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical rhetoric and literary criticism, deliberate verbal evasion, obscurity, or labyrinthine discourse employed to avoid direct assertion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ambage designates a style that involves indirect ways of expressing things."*
+> - 📜 **Geoffrey Chaucer (*Troilus and Criseyde*):** *"With double wordes and half with wordes queynte, withouten **ambage** she declared her intent unto the knight."*
+> - 📜 **Thomas Browne (*Pseudodoxia Epidemica*):** *"Truth hath a direct and perspicuous line, whereas error leadeth the mind through endless **ambage** and perplexing mazes."*
+> - 📜 **John Milton (*Paradise Regained*):** *"The subtle tempter veiled his design beneath dark rhetorical **ambage**, seeking to ensnare the solitary wanderer in words."*

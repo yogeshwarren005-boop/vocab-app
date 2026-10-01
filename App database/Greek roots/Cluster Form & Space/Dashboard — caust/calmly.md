@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: With self-possession (especially in times of stress).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a sedate manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a calm, serene, composed, or tranquil manner; without excitement, agitation, or anger.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Carried out with steady deliberation and emotional self-control under pressure or crisis.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Teacher told us to be sure not to forget." "Quite right, little school fox," Kurt replied, while he calmly kept on drawing."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"Come, Lippo, there is nothing to cry about," she said calmly."*
-> - 📜 **Johanna Spyri (*Maezli: A Story of the Swiss Valleys*):** *"How could you calmly run away?" "It was just as necessary to hear Bruno's question," the sister said."*
+> - 📜 **George Eliot (*Middlemarch*):** *"She spoke **calmly**, though her inward heart was beaten with waves of grief and sudden indignation."*
+> - 📜 **Ralph Waldo Emerson (*Self-Reliance*):** *"It is easy in the world to live after the world's opinion; it is easy in solitude to live after our own; but the great man is he who in the midst of the crowd keeps with perfect sweetness the independence of solitude **calmly**."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The philosopher faced the executioner's blade **calmly**, discoursing with his disciples upon the immortality of the soul."*

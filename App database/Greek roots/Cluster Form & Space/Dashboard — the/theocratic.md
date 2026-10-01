@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to or being a theocracy.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to or being a theocracy.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characteristic of a theocracy.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In political philosophy and constitutional history, describing regimes wherein civil legislation, judicial decrees, and political legitimacy are derived directly from religious doctrine.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, theocratic designates of or relating to or being a theocracy."*
+> - 📜 **Alexis de Tocqueville (*Democracy in America*):** *"Early Puritan New England blended democratic town meetings with an austere **theocratic** legal code."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The caliphate merged imperial executive power with supreme **theocratic** stewardship over the faithful."*
+> - 📜 **Max Weber (*Economy and Society*):** *"In a **theocratic** administration, legal adjudication is governed by sacred charisma rather than formal juristic rationality."*

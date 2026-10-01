@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek oec.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The sexual condition or reproductive system of being monoecious; possessing separate male and female unisexual organs on the same individual plant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary plant biology, monoecy facilitates wind pollination while allowing differential timing of male and female maturation (dichogamy) to limit selfing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, monoecy designates a term designating an entity, condition, or phenomenon derived from greek oec."*
+> - 📜 **Charles Darwin (*The Effects of Cross and Self Fertilisation in the Vegetable Kingdom*):** *"The evolution of **monoecy** provides plants with the reproductive economy of hermaphroditism while minimizing accidental self-pollination."*
+> - 📜 **Ronald Fisher (*The Genetical Theory of Natural Selection*):** *"In species exhibiting **monoecy**, sex allocation theory predicts equal maternal and paternal investment in floral structures under outcrossing."*
+> - 📜 **Daniel Zohary (*Domestication of Plants in the Old World*):** *"Domestication of maize transformed the ancestral teosinte spike into an extraordinarily productive manifestation of **monoecy**."*

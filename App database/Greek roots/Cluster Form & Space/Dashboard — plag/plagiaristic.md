@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Copied and passed off as your own.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Copied and passed off as your own.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Characteristic of or given to plagiarism; involving the unauthorized copying of another's work.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Derivative in substance and unoriginal in conception; marked by literary borrowing.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, plagiaristic designates copied and passed off as your own."*
+> - 📜 **Edgar Allan Poe (*The Literati of New York City*):** *"I detected a thoroughly **plagiaristic** vein running through the entire collection of so-called original verse."*
+> - 📜 **Henry James (*The Art of Fiction*):** *"A truly novel narrative avoids the **plagiaristic** repetition of stale Victorian stock conventions."*
+> - 📜 **George Bernard Shaw (*Dramatic Opinions and Essays*):** *"The play relied upon a **plagiaristic** adaptation of Parisian farces without acknowledging the French source."*

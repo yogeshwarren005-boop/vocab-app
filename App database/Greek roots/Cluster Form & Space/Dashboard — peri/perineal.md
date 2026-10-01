@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to the perineum.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to the perineum.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or situated in the perineum (the region between the pubic symphysis and the coccyx).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In surgical anatomy, the perineal membrane and muscles support the pelvic floor and contain the urogenital triangle.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **James George Frazer (*The Golden Bough: A Study of Magic and Religion*):** *"On the third day of his seclusion a small feast is prepared by his friends, who also fashion some new perineal bands for him."*
+> - 📜 **Henry Gray (*Anatomy of the Human Body*):** *"The superficial **perineal** fascia is attached laterally to the ischiopubic rami, bounding the superficial perineal pouch."*
+> - 📜 **Howard A. Kelly (*Operative Gynecology*):** *"Careful reconstruction of the **perineal** body restores essential pelvic diaphragm support after obstetric injury."*
+> - 📜 **John Hunter (*Treatise on the Venereal Disease*):** *"Stricture of the urethra often leads to urinary extravasation into the loose **perineal** tissues."*

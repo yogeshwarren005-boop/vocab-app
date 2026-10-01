@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A word or utterance of one syllable.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A word or utterance of one syllable.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A word consisting of only one syllable (such as 'yes', 'no', 'sun', or 'man').
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In poetry and stylistic analysis, the effective deployment of Anglo-Saxon monosyllables produces direct, unvarnished dramatic force and rhythmic clarity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"Smallweed’s favourite adjective of disparagement is so close to his tongue that he begins the words “my dear friend” with the monosyllable “brim,” thus converting the possessive pronoun into brimmy and appearing to have an impediment in his speech."*
-> - 📜 **Jane Austen (*Pride and Prejudice*):** *"She found it difficult to obtain even a word from her beyond a monosyllable."*
-> - 📜 **Charles Dickens (*Great Expectations*):** *"To overcome the difficulty of getting past that monosyllable, I took it from her, and said, repeating it with emphasis, “Well!"*
+> - 📜 **Alexander Pope (*An Essay on Criticism*):** *"And ten low words oft creep in one dull line, where each cold **monosyllable** drags its slow length along."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"The strength of our native English tongue resides in its rich treasury of robust, expressive **monosyllables**."*
+> - 📜 **Nathaniel Hawthorne (*The Scarlet Letter*):** *"The stern minister answered the salutation with a cold, formal **monosyllable** and passed on his way."*

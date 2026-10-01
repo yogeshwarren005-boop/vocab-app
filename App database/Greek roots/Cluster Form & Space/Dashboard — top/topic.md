@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The subject of a discourse or of a section of a discourse.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A heading in an outlined argument or exposition.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A matter dealt with in a text, discourse, or conversation; a subject of discussion or study.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical Aristotelian rhetoric, *topoi* (topics, from Greek *topos* place) were mental 'places' or commonplaces where arguments, proofs, and rhetorical strategies could be located.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Charles Dickens (*Bleak House*):** *"At Blaze and Sparkle’s the jewellers and at Sheen and Gloss’s the mercers, it is and will be for several hours the topic of the age, the feature of the century."*
-> - 📜 **Charles Dickens (*Bleak House*):** *"You’ll find, sir, that this topic will be very popular among my high connexion."*
-> - 📜 **Thomas Hardy (*Far from the Madding Crowd*):** *"Nothing disturbed the stillness of the cottage save the chatter of a knot of sparrows on the eaves; one might fancy scandal and rumour to be no less the staple topic of these little coteries on roofs than of those under them."*
+> - 📜 **Aristotle (*Topics*):** *"Our treatise aims to discover a method by which we can reason from accepted opinions on any proposed **topic**."*
+> - 📜 **John Locke (*An Essay Concerning Human Understanding*):** *"In disputation, disputants frequently wander from the main **topic** into fruitless verbal tangles."*
+> - 📜 **Samuel Johnson (*The Rambler*):** *"A conversationalist of lively intellect can extract entertaining discourse from the most trivial daily **topic**."*

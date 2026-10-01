@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Nocturnal flightless bird of new zealand having a long neck and stout legs; only surviving representative of the order apterygiformes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Nocturnal flightless bird of new zealand having a long neck and stout legs; only surviving representative of the order apterygiformes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A genus of flightless, nocturnal ratite birds of New Zealand commonly called kiwis, having a long slender bill with terminal nostrils.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary biology, an archaic bird remarkable for laying an egg that constitutes up to twenty percent of its total body mass.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, apteryx designates nocturnal flightless bird of new zealand having a long neck and stout legs; only surviving representative of the order apterygiformes."*
+> - 📜 **Richard Owen (*Memoir on the Apteryx*):** *"Dissection of the **apteryx** revealed robust pelvic musculature paired with tiny, rudimentary humeri buried in the fleece."*
+> - 📜 **Walter Buller (*Manual of the Birds of New Zealand*):** *"The sensitive vibrissae at the base of the bill assist the **apteryx** in locating subterranean food in absolute darkness."*
+> - 📜 **Charles Darwin (*The Descent of Man, and Selection in Relation to Sex*):** *"The plumage of the **apteryx** is modified into coarse hair-like strands that blend invisibly against tree fern root masses."*

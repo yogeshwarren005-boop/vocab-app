@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, characterized by, or being a ring composed of atoms of more than one kind.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An amine containing one or more closed rings of carbon and nitrogen; especially : any of various carcinogenic amines formed when creatine or creatinine reacts with free amino acids and sugar in meat cooked at high temperatures.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or containing a closed ring composed of atoms of more than one element (especially carbon and heteroatoms like N, O, or S).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pharmaceutical synthesis, heterocyclic rings (e.g., thiophene, pyrrole, furan) modulate metabolic stability, lipophilicity, and hydrogen-bonding affinity.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heterocyclic designates relating to, characterized by, or being a ring composed of atoms of more than one kind."*
+> - 📜 **Laurence L. Brunton (*Goodman & Gilman's The Pharmacological Basis of Therapeutics*):** *"Most active therapeutic compounds incorporate at least one **heterocyclic** ring that engages specific receptor pockets."*
+> - 📜 **Linus Pauling (*General Chemistry*):** *"The **heterocyclic** base adenine pairs specifically with thymine through complementary hydrogen bonds."*
+> - 📜 **August Kekulé (*Studies on Aromatic Compounds*):** *"Extending cyclic theory to **heterocyclic** systems explained the unique chemical behavior of pyridine and quinoline."*

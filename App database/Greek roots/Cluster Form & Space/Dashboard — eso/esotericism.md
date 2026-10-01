@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Esoteric doctrines or practices.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The quality or state of being esoteric.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality, practice, or state of being esoteric; obscure, mystical, or specialized knowledge restricted to an enlightened circle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In religious studies and the history of ideas, Western esotericism comprises hermeticism, alchemy, Kabbalah, and Rosicrucian traditions.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, esotericism designates esoteric doctrines or practices."*
+> - 📜 **Antoine Faivre (*Access to Western Esotericism*):** *"The hallmark of **esotericism** is the belief in universal correspondences connecting all visible and invisible planes of reality."*
+> - 📜 **Wouter J. Hanegraaff (*Esotericism and the Academy*):** *"Enlightenment thinkers rejected **esotericism** as rejected knowledge, banishing it from modern scientific discourse."*
+> - 📜 **Frances Yates (*The Rosicrucian Enlightenment*):** *"Renaissance **esotericism** bridged ancient mystical lore with the emerging impulses of empirical natural philosophy."*

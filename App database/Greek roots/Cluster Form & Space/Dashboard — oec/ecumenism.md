@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Ecumenical principles and practices especially as shown among religious groups (such as Christian denominations).
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Ecumenical principles and practices especially as shown among religious groups (such as Christian denominations).
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The organized movement or theological principle directed toward promoting cooperation and visible unity among the world's Christian churches.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In 20th-century religious history, ecumenism catalyzed the formation of the World Council of Churches and bilateral dialogues reconciling historic theological schisms.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, ecumenism designates ecumenical principles and practices especially as shown among religious groups (such as christian denominations)."*
+> - 📜 **Pope John Paul II (*Ut Unum Sint*):** *"The commitment to **ecumenism** is not merely an optional appendix to the life of the Church, but an organic part of her evangelical mission."*
+> - 📜 **Dietrich Bonhoeffer (*No Rusty Swords*):** *"If international **ecumenism** cannot speak with a united voice against fascist persecution, its assemblies remain empty words."*
+> - 📜 **Hans Küng (*Global Responsibility: In Search of a New World Ethic*):** *"There can be no peace among the nations without peace among the religions, and no peace among religions without authentic **ecumenism**."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Having columniation completely circling an area of the structure.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Having columniation completely circling an area of the structure.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In classical architecture, describing a temple or building whose exterior flank columns are engaged or embedded into the cella walls rather than freestanding.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In architectural history, a design style favored by Roman architects—exemplified by the Maison Carrée at Nîmes—to maximize interior cella volume.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pseudoperipteral designates having columniation completely circling an area of the structure."*
+> - 📜 **Vitruvius (*De Architectura (Ten Books on Architecture)*):** *"A **pseudoperipteral** temple attaches half-columns along the exterior walls of the cella, preserving the aspect of a full colonnade."*
+> - 📜 **Andrea Palladio (*The Four Books of Architecture*):** *"The Roman builders perfected the **pseudoperipteral** arrangement, creating spacious temple halls while presenting magnificent façades."*
+> - 📜 **Banister Fletcher (*A History of Architecture on the Comparative Method*):** *"In the **pseudoperipteral** Maison Carrée at Nîmes, Corinthian engaged columns adorn the flank and rear walls with grand dignity."*

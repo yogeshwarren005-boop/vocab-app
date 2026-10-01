@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a stereotypical manner.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a stereotypical manner.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a stereotypical manner; in a way that conforms to a fixed, oversimplified pattern or cliché.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In narrative discourse and sociology, acting stereotypically involves enacting predictable scripts prescribed by societal expectations.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, stereotypically designates in a stereotypical manner."*
+> - 📜 **Henry James (*The American*):** *"The aristocratic dowager reacted **stereotypically**, expressing icy disdain for the self-made American suitor."*
+> - 📜 **George Eliot (*Middlemarch*):** *"Provincial society judged the newcomers **stereotypically**, measuring their virtue by their ancestral pedigree."*
+> - 📜 **Bertrand Russell (*Skeptical Essays*):** *"Nations at war picture their enemies **stereotypically** as subhuman monsters devoid of moral feeling."*

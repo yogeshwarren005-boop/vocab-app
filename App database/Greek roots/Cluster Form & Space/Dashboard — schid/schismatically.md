@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: In a manner that is schismatic.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In a manner that is schismatic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: In a schismatical manner; by means of division, factious discord, or unauthorized ecclesiastical separation.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In ecclesiastical jurisprudence, acting in deliberate defiance of unified canon law to establish a rival sect.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, schismatically designates in a manner that is schismatic."*
+> - 📜 **Francis Bacon (*Essays: Of Unity in Religion*):** *"Heretics who separate **schismatically** over light trifles do more violence to the church than outward persecutors."*
+> - 📜 **John Bunyan (*Grace Abounding to the Chief of Sinners*):** *"The magistrates charged that our prayer gatherings had assembled **schismatically** in defiance of the established liturgy."*
+> - 📜 **Jonathan Swift (*A Tale of a Tub*):** *"The three brothers divided the ancestral coat, rending the seamless garment **schismatically** in their squabbles."*

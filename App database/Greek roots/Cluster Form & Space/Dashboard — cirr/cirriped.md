@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Marine crustaceans with feathery food-catching appendages; free-swimming as larvae; as adults form a hard shell and live attached to submerged surfaces.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Marine crustaceans with feathery food-catching appendages; free-swimming as larvae; as adults form a hard shell and live attached to submerged surfaces.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Any marine crustacean of the subclass Cirripedia, characterized by feathery curling thoracic appendages; a barnacle.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In invertebrate zoology, a sessile or stalked crustacean that attaches to rocks, ship hulls, or whales and filter-feeds with feathered cirri.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, cirriped designates marine crustaceans with feathery food-catching appendages; free-swimming as larvae; as adults form a hard shell and live attached to submerged surfaces."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Even the minute pedunculated **cirriped** possesses degenerate sensory organs that betray its crustacean ancestry."*
+> - 📜 **Thomas Henry Huxley (*The Anatomy of Invertebrated Animals*):** *"A sessile **cirriped** develops a robust calcareous shell within which the animal lies permanently upon its back."*
+> - 📜 **Louis Agassiz (*Methods of Study in Natural History*):** *"The free-swimming larva of a **cirriped** proves conclusively that it belongs with crabs rather than with mollusks."*

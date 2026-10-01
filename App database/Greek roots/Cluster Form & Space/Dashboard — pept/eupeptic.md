@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or having good digestion.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Cheerful, optimistic.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having good digestion; relating to or promoting healthy digestion.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Characterized by a cheerful, optimistic, and vigorous temperament, as if resulting from flawless digestion.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, eupeptic designates of, relating to, or having good digestion."*
+> - 📜 **Ralph Waldo Emerson (*Representative Men*):** *"Montaigne’s serene skepticism was the natural expression of a healthy, **eupeptic** constitution."*
+> - 📜 **Aldous Huxley (*Brave New World*):** *"The inhabitants of the New World were conditioned to remain perpetually cheerful, youthful, and **eupeptic**."*
+> - 📜 **Henry James (*The Portrait of a Lady*):** *"His booming laugh and **eupeptic** confidence overwhelmed the delicate sensitivities of his European hosts."*

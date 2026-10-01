@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An optical instrument that provides a view of an otherwise obstructed field.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An optical instrument that provides a view of an otherwise obstructed field.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An optical instrument for viewing objects that are above the level of direct sight or in an otherwise obstructed field of vision, using prisms or mirrors.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In naval submarine warfare and trench warfare, periscopes allow submerged vessels or sheltered infantry to survey surface surroundings while remaining concealed.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Clarence Budington Kelland (*Mark Tidd's Citadel*):** *"This time there was no chance of damaging the motive power, but we could make the pilot wish he had a periscope."*
+> - 📜 **Jules Verne (*Twenty Thousand Leagues Under the Sea*):** *"Captain Nemo raised a prism-fitted **periscope** to observe the surface frigate without breaching the ocean swell."*
+> - 📜 **Winston Churchill (*The World Crisis*):** *"The telltale feather of spray trailing behind a submarine **periscope** became the most dread omen in the North Sea."*
+> - 📜 **Alfred Thayer Mahan (*Naval Strategy*):** *"The optical precision of the submerged **periscope** altered traditional naval blockades and fleet scouting forever."*

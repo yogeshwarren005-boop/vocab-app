@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek zyg.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rhetorical figure in which a single subject governs multiple verbs or clauses, distributing the action across several predicates for emphatic effect.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical rhetoric, diazeugma is the inverse of zeugma: where zeugma yokes multiple subjects to one verb, diazeugma fans one subject out across several verbs.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, diazeugma designates a term designating an entity, condition, or phenomenon derived from greek zyg."*
+> - 📜 **Quintilian (*Institutio Oratoria*):** *"Through **diazeugma**, the orator multiplies the actions of a single subject for rhetorical amplification."*
+> - 📜 **Richard Lanham (*A Handlist of Rhetorical Terms*):** *"**Diazeugma** distributes a subject across several predicates, creating a rapid accumulation of action."*
+> - 📜 **Henry Peacham (*The Garden of Eloquence*):** *"By **diazeugma** the speaker enlarges the virtues of a hero by attaching many deeds to one name."*

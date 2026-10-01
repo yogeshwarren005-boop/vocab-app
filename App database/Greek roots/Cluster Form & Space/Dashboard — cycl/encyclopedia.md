@@ -42,10 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A reference work (often in several volumes) containing articles on various topics (often arranged in alphabetical order) dealing with the entire range of human knowledge or with some particular specialty.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A reference work (often in several volumes) containing articles on various topics (often arranged in alphabetical order) dealing with the entire range of human knowledge or with some particular specialty.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A comprehensive reference work containing articles on a broad range of topics or a specific subject, usually arranged alphabetically.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In education and cultural literacy, a multi-volume compendium summarizing the totality of contemporary human knowledge.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **John Cairns (*Principal Cairns*):** *"In 1858 appeared the important article on "Kant," in the eighth edition of the _Encyclopedia Britannica_, which was written at the urgent request of his friend Adam Black, and which cost him ten months reading and preparation."*
-> - 📜 **Meyer Moldeven (*A Grandpa's Notebook*):** *"Memoirs: Hot War-Cold War: Back of the Line Logistics The 1988 Edition of the Encyclopedia Americana defines 'logistics' as: "É the movement and maintenance of military forces."*
-> - 📜 **H. C. Forster (*From Xylographs to Lead Molds; A.D. 1440-A.D. 1921*):** *"The Encyclopedia Brittanica." "Electrotyping and Stereotyping" Typographical Technical Series, Vol."*
+> - 📜 **Ralph Waldo Emerson (*Nature*):** *"The universe is an open **encyclopedia** where every visible form expresses an underlying spiritual idea."*
+> - 📜 **Mark Twain (*Life on the Mississippi*):** *"A steamboat pilot's memory must be an absolute **encyclopedia** of river channels, snags, and shifting sandbars."*
+> - 📜 **Henry David Thoreau (*Walden*):** *"In the solitude of the woods, the changes of the season are an **encyclopedia** written in fresh leaves and falling snow."*

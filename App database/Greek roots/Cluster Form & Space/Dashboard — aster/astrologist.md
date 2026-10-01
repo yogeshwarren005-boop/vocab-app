@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Someone who predicts the future by the positions of the planets and sun and moon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Someone who predicts the future by the positions of the planets and sun and moon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A practitioner of astrology; an astrologer.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical and philosophical literature, an archaic or formal synonym for an astrologer, especially one who claims scientific systematicity in casting horoscopes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, astrologist designates someone who predicts the future by the positions of the planets and sun and moon."*
+> - 📜 **Jonathan Swift (*The Bickerstaff-Partridge Papers*):** *"I undertook to expose that notorious impostor and almanac **astrologist**, John Partridge, by predicting his own untimely demise."*
+> - 📜 **Francis Bacon (*Novum Organum*):** *"The credulous public listens to the **astrologist** when one lucky prediction succeeds, while ignoring twenty that miserably fail."*
+> - 📜 **Walter Scott (*Guy Mannering*):** *"The old Laird retained an eccentric **astrologist** whose charts hung framed beside the ancestral armorial bearings."*

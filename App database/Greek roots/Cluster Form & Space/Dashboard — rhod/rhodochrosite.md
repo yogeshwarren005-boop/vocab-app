@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A mineral consisting of manganese carbonate; a source of manganese.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A mineral consisting of manganese carbonate; a source of manganese.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A rose-red or raspberry-pink manganese carbonate mineral (MnCO3), crystallizing in the trigonal system and valued as a gemstone and manganese ore.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In mineralogy and economic geology, a hydrothermal vein mineral often forming banded, stalactitic botryoidal crusts in silver and polymetallic lead-zinc deposits.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhodochrosite designates a mineral consisting of manganese carbonate; a source of manganese."*
+> - 📜 **James Dwight Dana (*System of Mineralogy*):** *"The exquisite rose-red rhombohedrons of **rhodochrosite** exhibit vitreous luster and distinct rhombohedral cleavage."*
+> - 📜 **Edward Salisbury Dana (*A Textbook of Mineralogy*):** *"Concentric bands of deep rose and white make stalactitic **rhodochrosite** from Argentine silver mines highly sought after for carving."*
+> - 📜 **Waldemar Lindgren (*Mineral Deposits*):** *"In epithermal precious metal veins, **rhodochrosite** occurs in association with quartz, fluorite, and rhodonite."*

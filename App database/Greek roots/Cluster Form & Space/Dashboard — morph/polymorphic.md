@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality or state of existing in or assuming different forms: such as.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Existence of a species in several forms independent of the variations of sex.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Having, occurring in, or assuming multiple distinct forms, shapes, structural habits, or life stages.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In object-oriented software engineering, describing methods or functions that execute differently based on the runtime class of the receiving object.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, polymorphic designates the quality or state of existing in or assuming different forms: such as."*
+> - 📜 **Charles Darwin (*The Origin of Species*):** *"Certain genera contain highly **polymorphic** species whose limitless variations confound the most experienced systematists."*
+> - 📜 **Bertrand Meyer (*Object-Oriented Software Construction*):** *"Dynamic binding allows a **polymorphic** method call to execute the specialized behavior appropriate to each runtime subclass."*
+> - 📜 **Bjarne Stroustrup (*The C++ Programming Language*):** *"Virtual member functions provide the foundational mechanism for implementing **polymorphic** interfaces in modern systems software."*

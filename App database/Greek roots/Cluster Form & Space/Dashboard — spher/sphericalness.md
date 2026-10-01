@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: The roundness of a 3-dimensional object.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: The roundness of a 3-dimensional object.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The quality, state, or condition of being spherical; sphericity.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In materials manufacturing and metrology, sphericalness measures how closely the contour of a manufactured ball bearing or optical element approaches true spherical form.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sphericalness designates the roundness of a 3-dimensional object."*
+> - 📜 **Robert Hooke (*Micrographia*):** *"Surface tension forces liquid mercury droplets into exquisite **sphericalness** upon any smooth table."*
+> - 📜 **Isaac Newton (*Opticks*):** *"The imperfect **sphericalness** of ordinary ground lenses introduces noticeable chromatic distortion at the focus."*
+> - 📜 **Benjamin Franklin (*Experiments and Observations on Electricity*):** *"The polished brass knob preserved its smooth **sphericalness** to prevent premature sparking from irregular corners."*

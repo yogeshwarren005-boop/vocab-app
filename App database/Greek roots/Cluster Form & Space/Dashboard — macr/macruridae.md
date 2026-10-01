@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Grenadiers.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Grenadiers.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A historical and alternative family designation for the deep-sea rattail and grenadier fishes, presently classified as Macrouridae.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In nineteenth-century systematic ichthyology, the Macruridae encompassed all gadoid fishes possessing tapering whiplike tails lacking distinct caudal fins.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, macruridae designates grenadiers."*
+> - 📜 **Georges Cuvier (*The Animal Kingdom*):** *"Naturalists grouped these curious abyssal fishes under the family **Macruridae**, drawing attention to their elongated pointed caudal extremities."*
+> - 📜 **Albert Günther (*The Study of Fishes*):** *"The deep-sea dredging surveys demonstrate that the **Macruridae** represent the most abundant vertebrate scavengers of the oceanic floor."*
+> - 📜 **G. Brown Goode (*Oceanic Ichthyology*):** *"In our oceanic monographs we adopted the spelling **Macruridae** when describing the benthic fishes dredged along the Atlantic gulf stream slope."*

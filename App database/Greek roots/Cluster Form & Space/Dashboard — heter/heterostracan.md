@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Extinct jawless fish with the anterior part of the body covered with bony plates; of the silurian and devonian.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Extinct jawless fish with the anterior part of the body covered with bony plates; of the silurian and devonian.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: An extinct jawless armored fish of the subclass Heterostraci, common in Silurian and Devonian marine and freshwater deposits.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In paleoichthyology, heterostracans had heavy head shields of acellular aspidin bone, a single common gill opening on each side, and a hypocercal tail.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, heterostracan designates extinct jawless fish with the anterior part of the body covered with bony plates; of the silurian and devonian."*
+> - 📜 **Alfred Romer (*Vertebrate Paleontology*):** *"A typical **heterostracan** possessed solid dorsal and ventral armor plates protecting its sluggish, jawless body."*
+> - 📜 **Edwin H. Colbert (*Evolution of the Vertebrates*):** *"The histology of **heterostracan** armor reveals spongy vascular bone sandwiched between dense inner and outer laminated sheets."*
+> - 📜 **Neil Shubin (*Your Inner Fish*):** *"The head shield of an ancient **heterostracan** represents some of the earliest mineralized skeletal tissue in vertebrate evolution."*

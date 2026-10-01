@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Moths whose larvae are cutworms: underwings.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Moths whose larvae are cutworms: underwings.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A large genus of nocturnal noctuoid moths, commonly known as underwing moths, noted for brightly colored hindwings concealed beneath cryptic forewings at rest.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In evolutionary entomology, a classic model for apostatic selection and flash coloration, where sudden exposure of bright hindwings startles avian predators.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, catacala designates moths whose larvae are cutworms: underwings."*
+> - 📜 **Alfred Russel Wallace (*Darwinism: An Exposition of the Theory of Natural Selection*):** *"The exquisite camouflage of **Catacala** forewings completely conceals the insect upon lichen-encrusted tree bark."*
+> - 📜 **Charles Darwin (*The Descent of Man*):** *"When flushed from rest, the sudden brilliant scarlet flash of the **Catacala** hindwing momentarily dazzles the pursuing bird."*
+> - 📜 **Edward O. Wilson (*The Diversity of Life*):** *"Dozens of sympatric species of **Catacala** share identical deciduous forests by partitioning different host trees in the larval stage."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Of or relating to a catarrh.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Of or relating to a catarrh.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to, characterized by, or affected with catarrh; producing inflammation and excessive mucus from mucous membranes.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In pathology, describing an inflammatory exudate composed primarily of mucus and desquamated epithelial cells.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, catarrhal designates of or relating to a catarrh."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The early stage of measles presents as an acute **catarrhal** fever with conjunctivitis, coryza, and barking cough."*
+> - 📜 **René Laennec (*A Treatise on the Diseases of the Chest*):** *"Auscultation reveals widespread mucous rales over both pulmonary bases in chronic **catarrhal** bronchitis."*
+> - 📜 **William R. Gowers (*A Manual of Diseases of the Nervous System*):** *"A febrile **catarrhal** infection frequently precedes the acute onset of post-infectious demyelinating polyneuropathy."*

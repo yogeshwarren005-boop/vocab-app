@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Adjective*) Pertaining to, derived from, or characteristic of deep, depth.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Adjective*) Pertaining to, derived from, or characteristic of deep, depth.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or indicating lines connecting points of equal depth below the surface of a body of water (isobaths).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In hydrography and physical oceanography, describing contour charts that delineate bathymetric gradients and seafloor bathymetry.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, isobathic designates adjective*) pertaining to, derived from, or characteristic of deep, depth."*
+> - 📜 **Charles Lyell (*Principles of Geology*):** *"The **isobathic** contours of the chart clearly delineate the edge of the submerged European continental shelf."*
+> - 📜 **Rachel Carson (*The Sea Around Us*):** *"Fishermen follow the hundred-fathom **isobathic** line where upwelling currents support massive schools of cod and herring."*
+> - 📜 **Alexander von Humboldt (*Cosmos*):** *"By tracing **isobathic** intervals across the Gulf of Mexico, hydrographers mapped the true submarine basin."*

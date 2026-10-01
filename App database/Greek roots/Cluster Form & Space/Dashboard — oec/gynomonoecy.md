@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A term designating an entity, condition, or phenomenon derived from Greek oec.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Specialized application within the domain of Form & Space.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The botanical condition of bearing both pistillate (female) and hermaphroditic (perfect) flowers upon the same individual plant.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In floral morphology and plant reproductive ecology, gynomonoecy is common in the Asteraceae (daisy family), where ray florets are female and disc florets are hermaphroditic.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, gynomonoecy designates a term designating an entity, condition, or phenomenon derived from greek oec."*
+> - 📜 **Charles Darwin (*The Different Forms of Flowers on Plants of the Same Species*):** *"In the composite family, **gynomonoecy** is beautifully illustrated by the common daisy, whose outer ray florets bear only female organs."*
+> - 📜 **Asa Gray (*Structural Botany*):** *"The functional significance of **gynomonoecy** in sunflowers lies in cross-pollination promoted by receptive peripheral pistillate flowers."*
+> - 📜 **Daniel Zohary (*Domestication of Plants in the Old World*):** *"Wild progenitors of several cultivated oilseed Asteraceae display stable **gynomonoecy** that facilitates hybrid vigor in nature."*

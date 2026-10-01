@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One species.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One species.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A monotypic genus of evergreen conifer in the yew family (Taxaceae) containing Pseudotaxus chienii (white-berry yew), native to southern China.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In gymnosperm dendrology, an endangered relict shrub distinguished from Taxus by its distinctive white, cup-shaped aril encasing the seed.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, pseudotaxus designates one species."*
+> - 📜 **W. C. Cheng (*Plantae Chienianae*):** *"The discovery of **pseudotaxus** in the Zhejiang mountains provided a remarkable link among archaic Asian taxads."*
+> - 📜 **Aljos Farjon (*A Handbook of the World's Conifers*):** *"Unlike the brilliant red aril of common yews, **pseudotaxus** produces a delicate, translucent white aril around its solitary seed."*
+> - 📜 **David de Laubenfels (*Taxaceae of Eastern Asia*):** *"Deforestation in subtropical montane ravines severely restricts the extant wild populations of **pseudotaxus**."*

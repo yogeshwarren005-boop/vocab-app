@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Platys.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Platys.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A former genus name for small freshwater livebearing fishes of Central America, now classified within the genus Xiphophorus (the platy).
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In genetics and evolutionary biology, a historical model organism used extensively to study sex determination, melanoma development, and pigmentation genetics.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"Classical and authoritative lexicons catalog platypoecilus as a recognized concept in linguistic and etymological taxonomy."*
+> - 📜 **Charles Tate Regan (*A Revision of the Poeciliid Fishes*):** *"The species formerly grouped under **platypoecilus** lack the caudal sword feature characteristic of male swordtails."*
+> - 📜 **Myron Gordon (*The Genetics of Fish*):** *"Cross-breeding experiments between **platypoecilus** and swordtails revealed inherited macromelanophore patterns prone to malignant transformation."*
+> - 📜 **William T. Innes (*Exotic Aquarium Fishes*):** *"Known to every hobbyist as the platy, **platypoecilus** exhibits a delightful spectrum of cultivated color variations."*

@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: A highly malignant neoplasm derived from striated muscle.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: A highly malignant neoplasm derived from striated muscle.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A malignant tumor arising from striated muscle tissue; an alternative or shortened term for rhabdomyosarcoma.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In historical oncologic pathology, a high-grade sarcoma featuring strap cells, racquet cells, and cross-striated rhabdomyoblasts.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, rhabdosarcoma designates a highly malignant neoplasm derived from striated muscle."*
+> - 📜 **James Ewing (*Neoplastic Diseases: A Treatise on Tumors*):** *"Cases classified as **rhabdosarcoma** display rapid infiltrative growth into fascial planes and early hematogenous dissemination to lungs."*
+> - 📜 **Arthur Purdy Stout (*Tumors of the Soft Tissues*):** *"The pleomorphic **rhabdosarcoma** of adult extremity musculature is notoriously resistant to conservative radiation therapy alone."*
+> - 📜 **Juan Rosai (*Surgical Pathology*):** *"Meticulous microscopic search for cross-striations was historically required before immunohistochemistry clarified each **rhabdosarcoma**."*

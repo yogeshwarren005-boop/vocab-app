@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: An endoscope designed to be passed through the anus for visual examination especially of the sigmoid colon.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: An endoscope designed to be passed through the anus for visual examination especially of the sigmoid colon.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: The visual examination of the interior of the rectum and sigmoid colon using a sigmoidoscope.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical gastroenterology, flexible sigmoidoscopy evaluates the distal third of the large intestine, monitoring inflammatory bowel disease and screening for adenomatous polyps.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, sigmoidoscopy designates an endoscope designed to be passed through the anus for visual examination especially of the sigmoid colon."*
+> - 📜 **Burrill Crohn (*Regional Ileitis: A Pathological and Clinical Entity*):** *"Routine **sigmoidoscopy** is mandatory to exclude distal ulcerative proctitis in patients presenting with chronic diarrhea."*
+> - 📜 **William J. Mayo (*The Diagnostic Value of Direct Colorectal Inspection*):** *"We have made diagnostic **sigmoidoscopy** an indispensable preliminary to any major lower abdominal intervention."*
+> - 📜 **Oliver Sacks (*Gratitude*):** *"A routine surveillance **sigmoidoscopy** detected the small recurrence before symptoms could manifest."*

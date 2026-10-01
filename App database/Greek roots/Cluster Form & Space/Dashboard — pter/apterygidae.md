@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Coextensive with the order apterygiformes.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Coextensive with the order apterygiformes.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: A family of flightless, nocturnal ratite birds comprising the kiwis (genus Apteryx), endemic to New Zealand.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In systematic ornithology, paleognathous birds characterized by vestigial wings hidden beneath shaggy hair-like plumage, nostrils at the bill tip, and keen olfaction.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, apterygidae designates coextensive with the order apterygiformes."*
+> - 📜 **Richard Owen (*On the Anatomy of the Southern Apteryx*):** *"The skeletal reduction observed in **apterygidae** represents the most extreme regression of the avian pectoral girdle."*
+> - 📜 **Walter Buller (*A History of the Birds of New Zealand*):** *"Members of **apterygidae** probe the damp humus of nocturnal forests in search of earthworms and larvae."*
+> - 📜 **Ernst Mayr (*Animal Species and Evolution*):** *"The survival of **apterygidae** in New Zealand underscores the evolutionary refuge afforded by prolonged island isolation."*

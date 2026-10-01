@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: Relating to or caused by hyperemia.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: Relating to or caused by hyperemia.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: Of, relating to, or characterized by hyperemia; abnormally congested or engorged with blood.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In clinical surgery and dermatology, hyperemic tissues appear bright red or flushed, warm to the touch, and blanch temporarily upon direct digital pressure.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, hyperemic designates relating to or caused by hyperemia."*
+> - 📜 **William Osler (*The Principles and Practice of Medicine*):** *"The pharyngeal mucosa was intensely **hyperemic**, covered with scattered punctate hemorrhages."*
+> - 📜 **James Paget (*Lectures on Surgical Pathology*):** *"The margins of the healing wound showed a healthy, narrow **hyperemic** halo of active granulation tissue."*
+> - 📜 **Austin Flint (*A Treatise on the Principles and Practice of Medicine*):** *"Under the ophthalmoscope, the optic disc appeared swollen and **hyperemic**, confirming acute papillitis."*

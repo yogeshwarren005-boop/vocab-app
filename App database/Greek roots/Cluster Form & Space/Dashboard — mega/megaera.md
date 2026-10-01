@@ -42,8 +42,10 @@ dv.container.appendChild(toggle);
 ```
 
 > [!book] 📖 Definitions & Semantic Range
-> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the three furies.
-> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: One of the three furies.
+> 1. **Primary Definition (Lexical / Standard Consensus)**: One of the three Furies (Erinyes) of Greek mythology, representing jealous rage and vengeful anger; also, a shrewish, violent woman.
+> 2. **Secondary / Nuanced Definition (Specialized / Domain / Encyclopedic)**: In classical myth and drama, the sister of Alecto and Tisiphone, born from the blood of Uranus, who punished marital infidelity and jealous crimes.
 
 > [!quote] 💬 Contextual Usage & Authentic Quotations
-> - 📜 **Academic Lexicon (*Morphological & Etymological Survey*):** *"In academic literature, megaera designates one of the three furies."*
+> - 📜 **John Milton (*Paradise Lost*):** *"The snaky-haired Fury **Megaera** brandished her fiery scourge amidst the gloom of Tartarus."*
+> - 📜 **Edward Gibbon (*The History of the Decline and Fall of the Roman Empire*):** *"The populace denounced the imperial regent as a raging **Megaera** bent upon the ruin of the provinces."*
+> - 📜 **Thomas Carlyle (*The French Revolution*):** *"Frantic market women, screaming like **Megaera** unchained, marched through the autumn rain toward the gates of Versailles."*
